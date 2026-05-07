@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RAPath | Global Medical Device Regulatory Reference</title>
+    <style>
+        :root {
+            --primary-color: #2563eb;
+            --text-main: #1c1e21;
+            --text-muted: #606770;
+            --bg-light: #f5f6f7;
+            --border: #dadde1;
+        }
+        body { font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; color: var(--text-main); margin: 0; padding: 0; }
+        header { background: white; border-bottom: 1px solid var(--border); padding: 4rem 2rem; text-align: center; }
+        .container { max-width: 900px; margin: 0 auto; padding: 2rem; }
+        h1 { font-size: 3rem; margin: 0; color: var(--text-main); }
+        .tagline { font-size: 1.25rem; color: var(--text-muted); margin: 1rem 0 2rem; }
+        .intro { font-size: 1.1rem; max-width: 700px; margin: 0 auto 3rem; }
+        
+        .section-title { border-bottom: 2px solid var(--bg-light); padding-bottom: 0.5rem; margin-top: 3rem; }
+        
+        /* Jurisdiction Grid */
+        .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem; margin: 2rem 0; }
+        .card { border: 1px solid var(--border); border-radius: 12px; padding: 1.5rem; text-decoration: none; color: inherit; transition: all 0.2s ease; background: white; text-align: left; }
+        .card:hover { border-color: var(--primary-color); transform: translateY(-3px); box-shadow: 0 4px 12px rgba(0,0,0,0.05); }
+        .card .status { font-size: 0.75rem; font-weight: bold; text-transform: uppercase; padding: 2px 8px; border-radius: 4px; display: inline-block; margin-bottom: 0.5rem; }
+        .status.live { background: #e1f5fe; color: #01579b; }
+        .status.planned { background: #fff3e0; color: #e65100; }
+        .card h3 { margin: 0.5rem 0; display: flex; align-items: center; gap: 8px; }
+        
+        /* Table Styles */
+        table { width: 100%; border-collapse: collapse; margin: 1.5rem 0; }
+        th, td { text-align: left; padding: 12px; border-bottom: 1px solid var(--border); }
+        th { background: var(--bg-light); font-weight: 600; }
+
+        /* Disclaimer Box */
+        .disclaimer { background: #fff9e6; border-left: 5px solid #ffba00; padding: 1.5rem; margin: 3rem 0; border-radius: 4px; }
+        
+        footer { text-align: center; padding: 4rem 2rem; color: var(--text-muted); font-size: 0.9rem; border-top: 1px solid var(--border); }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>RAPath</h1>
+    <p class="tagline">Medical Device Regulatory Reference — Plain English. Properly sourced.</p>
+    <div class="intro">
+        RAPath is an open, community-maintained reference for medical device regulation across multiple jurisdictions. Every page is written in plain English, links back to the authoritative legislative or regulatory source, and is openly available to anyone who needs it.
+    </div>
+</header>
+
+<div class="container">
+    <h2 class="section-title">Live Sites</h2>
+    <div class="grid">
+        <a href="/au/" class="card">
+            <span class="status live">Live</span>
+            <h3>🇦🇺 Australia (TGA)</h3>
+            <p>rapath.github.io/au</p>
+        </a>
+        <a href="/eu/" class="card">
+            <span class="status live">Live</span>
+            <h3>🇪🇺 EU MDR / IVDR</h3>
+            <p>rapath.github.io/eu</p>
+        </a>
+        <a href="/hc/" class="card">
+            <span class="status live">Live</span>
+            <h3>🇨🇦 Canada (HC)</h3>
+            <p>rapath.github.io/hc</p>
+        </a>
+        <a href="/sg/" class="card">
+            <span class="status live">Live</span>
+            <h3>🇸🇬 Singapore (SG)</h3>
+            <p>rapath.github.io/sg</p>
+        </a>
+        <a href="/uk/" class="card">
+            <span class="status planned">Live</span>
+            <h3>🇬🇧 UK (MHRA)</h3>
+            <p>rapath.github.io/uk</p>
+        </a>
+        <a href="/us/" class="card">
+            <span class="status planned">Planned</span>
+            <h3>🇺🇸 USA (FDA)</h3>
+            <p>rapath.github.io/us</p>
+        </a>
+    </div>
+
+    <h2 class="section-title">What RAPath Is</h2>
+    <p>Regulatory frameworks for medical devices are accurate but difficult to navigate. Legislation is authoritative but hard to read. Official guidance is comprehensive but scattered.</p>
+    <p>RAPath sits between official sources and the reader — structured, searchable, and plain English — with every claim linked back to the official source. It is not a replacement for official regulatory sources. It is a navigation aid.</p>
+    
+    <p><strong>RAPath is for:</strong></p>
+    <ul>
+        <li>Regulatory affairs professionals and consultants</li>
+        <li>Sponsors and manufacturers</li>
+        <li>Importers and distributors</li>
+        <li>Anyone new to medical device regulation</li>
+    </ul>
+
+    <h2 class="section-title">Repositories</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Repository</th>
+                <th>Description</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr><td><strong>RAPath/au</strong></td><td>Australian TGA — medical devices and IVDs</td></tr>
+            <tr><td><strong>RAPath/eu</strong></td><td>EU MDR (2017/745) and IVDR (2017/746)</td></tr>
+            <tr><td><strong>RAPath/hc</strong></td><td>Health Canada medical device licensing</td></tr>
+            <tr><td><strong>RAPath/sg</strong></td><td>Singapore HSA regulatory framework</td></tr>
+            <tr><td><strong>RAPath/us</strong></td><td>(Planned) US FDA — 510(k), PMA, De Novo</td></tr>
+            <tr><td><strong>RAPath/uk</strong></td><td>(Planned) UK MHRA post-Brexit framework</td></tr>
+        </tbody>
+    </table>
+
+    <h2 class="section-title">How to Contribute</h2>
+    <p>RAPath is a community reference. Regulatory affairs professionals who flag errors, suggest improvements, or contribute content make this resource better for everyone.</p>
+    <p>For the Australian site, you can: <strong>Ask a question</strong>, <strong>Report an error</strong>, <strong>Suggest content</strong>, or <strong>Discuss regulatory updates</strong> via GitHub Discussions.</p>
+
+    <div class="disclaimer">
+        <strong>⚠️ Disclaimer</strong><br>
+        Content across all RAPath sites is written with AI assistance and is intended as a navigation aid only. Always verify against official regulatory sources before making any regulatory decisions. RAPath is not affiliated with any regulatory authority. Not legal or regulatory advice.
+    </div>
+</div>
+
+<footer>
+    <p>Built With <strong>Docusaurus</strong> — documentation framework & <strong>GitHub Pages</strong> — free hosting</p>
+    <p>Content written with AI assistance, reviewed by regulatory affairs professionals.</p>
+    <p>&copy; 2026 RAPath Network</p>
+</footer>
+
+</body>
+</html>
