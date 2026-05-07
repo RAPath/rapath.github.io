@@ -1,135 +1,666 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-theme="light">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>RAPath | Global Medical Device Regulatory Reference</title>
-    <style>
-        :root {
-            --primary-color: #2563eb;
-            --text-main: #1c1e21;
-            --text-muted: #606770;
-            --bg-light: #f5f6f7;
-            --border: #dadde1;
-        }
-        body { font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; color: var(--text-main); margin: 0; padding: 0; }
-        header { background: white; border-bottom: 1px solid var(--border); padding: 4rem 2rem; text-align: center; }
-        .container { max-width: 900px; margin: 0 auto; padding: 2rem; }
-        h1 { font-size: 3rem; margin: 0; color: var(--text-main); }
-        .tagline { font-size: 1.25rem; color: var(--text-muted); margin: 1rem 0 2rem; }
-        .intro { font-size: 1.1rem; max-width: 700px; margin: 0 auto 3rem; }
-        
-        .section-title { border-bottom: 2px solid var(--bg-light); padding-bottom: 0.5rem; margin-top: 3rem; }
-        
-        /* Jurisdiction Grid */
-        .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem; margin: 2rem 0; }
-        .card { border: 1px solid var(--border); border-radius: 12px; padding: 1.5rem; text-decoration: none; color: inherit; transition: all 0.2s ease; background: white; text-align: left; }
-        .card:hover { border-color: var(--primary-color); transform: translateY(-3px); box-shadow: 0 4px 12px rgba(0,0,0,0.05); }
-        .card .status { font-size: 0.75rem; font-weight: bold; text-transform: uppercase; padding: 2px 8px; border-radius: 4px; display: inline-block; margin-bottom: 0.5rem; }
-        .status.live { background: #e1f5fe; color: #01579b; }
-        .status.planned { background: #fff3e0; color: #e65100; }
-        .card h3 { margin: 0.5rem 0; display: flex; align-items: center; gap: 8px; }
-        
-        /* Table Styles */
-        table { width: 100%; border-collapse: collapse; margin: 1.5rem 0; }
-        th, td { text-align: left; padding: 12px; border-bottom: 1px solid var(--border); }
-        th { background: var(--bg-light); font-weight: 600; }
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>RAPath — Global Medical Device Regulatory Reference</title>
+<meta name="description" content="Plain English regulatory reference for medical devices across Australia, EU, Canada, Singapore, UK, and more.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
-        /* Disclaimer Box */
-        .disclaimer { background: #fff9e6; border-left: 5px solid #ffba00; padding: 1.5rem; margin: 3rem 0; border-radius: 4px; }
-        
-        footer { text-align: center; padding: 4rem 2rem; color: var(--text-muted); font-size: 0.9rem; border-top: 1px solid var(--border); }
-    </style>
+  :root {
+    --ifm-color-primary:            #2563eb;
+    --ifm-color-primary-dark:       #1d4ed8;
+    --ifm-color-primary-lighter:    #60a5fa;
+
+    --ifm-font-family-base:         'Inter', system-ui, -apple-system, sans-serif;
+    --ifm-font-size-base:           16px;
+    --ifm-line-height-base:         1.65;
+
+    --ifm-background-color:         #ffffff;
+    --ifm-background-surface:       #f8f9fc;
+    --ifm-background-surface-alt:   #f0f2f8;
+
+    --ifm-font-color-base:          #1c1e21;
+    --ifm-font-color-secondary:     #525860;
+    --ifm-font-color-tertiary:      #787f8b;
+
+    --ifm-border-color:             #e3e7ef;
+    --ifm-border-color-subtle:      #edf0f5;
+
+    --ifm-navbar-height:            60px;
+    --ifm-card-border-radius:       12px;
+    --ifm-global-radius:            6px;
+
+    --color-live:         #16a34a;
+    --color-live-bg:      #f0fdf4;
+    --color-live-border:  #bbf7d0;
+    --color-planned:      #d97706;
+    --color-planned-bg:   #fffbeb;
+    --color-planned-border: #fde68a;
+  }
+
+  html { scroll-behavior: smooth; }
+  body {
+    font-family: var(--ifm-font-family-base);
+    font-size: var(--ifm-font-size-base);
+    line-height: var(--ifm-line-height-base);
+    color: var(--ifm-font-color-base);
+    background: var(--ifm-background-color);
+    -webkit-font-smoothing: antialiased;
+  }
+  a { color: var(--ifm-color-primary); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+
+  /* ── NAVBAR ─────────────────────────────────────────── */
+  .navbar {
+    position: sticky; top: 0; z-index: 200;
+    height: var(--ifm-navbar-height);
+    display: flex; align-items: center;
+    padding: 0 1.5rem;
+    background: var(--ifm-background-color);
+    box-shadow: 0 1px 2px rgba(0,0,0,0.08);
+    gap: 1rem;
+  }
+  .navbar__brand {
+    display: flex; align-items: center; gap: 0.5rem;
+    font-size: 1.05rem; font-weight: 700;
+    color: var(--ifm-font-color-base); letter-spacing: -0.02em;
+    text-decoration: none; flex-shrink: 0;
+  }
+  .navbar__brand:hover { color: var(--ifm-color-primary); text-decoration: none; }
+  .navbar__logo {
+    width: 28px; height: 28px; border-radius: 6px;
+    background: var(--ifm-color-primary);
+    display: flex; align-items: center; justify-content: center;
+    font-size: 0.75rem; font-weight: 800; color: #fff;
+    flex-shrink: 0;
+  }
+  .navbar__items {
+    display: flex; align-items: center; gap: 0.25rem;
+    list-style: none; margin-left: auto;
+  }
+  .navbar__link {
+    padding: 0.4rem 0.7rem; border-radius: var(--ifm-global-radius);
+    font-size: 0.875rem; font-weight: 500;
+    color: var(--ifm-font-color-secondary);
+    text-decoration: none;
+    transition: background 0.15s, color 0.15s;
+  }
+  .navbar__link:hover {
+    background: var(--ifm-background-surface);
+    color: var(--ifm-font-color-base);
+    text-decoration: none;
+  }
+  .navbar__sep { width: 1px; height: 20px; background: var(--ifm-border-color); margin: 0 0.25rem; }
+  .navbar__ext { font-size: 0.825rem; color: var(--ifm-font-color-tertiary); }
+
+  /* ── HERO ─────────────────────────────────────────── */
+  .hero {
+    padding: 4.5rem 1.5rem 3.5rem;
+    text-align: center;
+    background: var(--ifm-background-color);
+    border-bottom: 1px solid var(--ifm-border-color-subtle);
+  }
+  .hero__label {
+    display: inline-block;
+    font-size: 0.72rem; font-weight: 600; letter-spacing: 0.1em;
+    text-transform: uppercase; color: var(--ifm-color-primary);
+    margin-bottom: 0.9rem;
+  }
+  .hero__title {
+    font-size: clamp(2.4rem, 6vw, 3.75rem);
+    font-weight: 700; letter-spacing: -0.04em; line-height: 1.05;
+    color: var(--ifm-font-color-base); margin-bottom: 1.25rem;
+  }
+  .hero__subtitle {
+    font-size: 1.1rem; font-weight: 400;
+    color: var(--ifm-font-color-secondary); line-height: 1.7;
+    max-width: 560px; margin: 0 auto 2.25rem;
+  }
+  .hero__buttons { display: flex; gap: 0.75rem; justify-content: center; flex-wrap: wrap; }
+
+  /* Buttons — Docusaurus-style */
+  .button {
+    display: inline-flex; align-items: center;
+    padding: 0.6rem 1.35rem;
+    font-family: var(--ifm-font-family-base);
+    font-size: 0.9375rem; font-weight: 600; line-height: 1.4;
+    border-radius: var(--ifm-global-radius);
+    border: 2px solid transparent; cursor: pointer;
+    text-decoration: none;
+    transition: background 0.15s, border-color 0.15s, transform 0.1s;
+  }
+  .button:hover { transform: translateY(-1px); text-decoration: none; }
+  .button--primary {
+    background: var(--ifm-color-primary);
+    border-color: var(--ifm-color-primary); color: #fff;
+  }
+  .button--primary:hover { background: var(--ifm-color-primary-dark); border-color: var(--ifm-color-primary-dark); color: #fff; }
+  .button--secondary {
+    background: var(--ifm-background-surface);
+    border-color: var(--ifm-border-color); color: var(--ifm-font-color-secondary);
+  }
+  .button--secondary:hover { background: var(--ifm-background-surface-alt); color: var(--ifm-font-color-base); }
+  .button--outline {
+    background: transparent;
+    border-color: var(--ifm-color-primary); color: var(--ifm-color-primary);
+  }
+  .button--outline:hover { background: rgba(37,99,235,0.06); }
+
+  /* ── STATS ────────────────────────────────────────── */
+  .stats {
+    display: flex; flex-wrap: wrap; justify-content: center;
+    background: var(--ifm-background-surface);
+    border-bottom: 1px solid var(--ifm-border-color-subtle);
+  }
+  .stats__item {
+    padding: 1.25rem 2.5rem; text-align: center;
+    border-right: 1px solid var(--ifm-border-color-subtle);
+    flex: 1 1 160px;
+  }
+  .stats__item:last-child { border-right: none; }
+  .stats__value {
+    font-size: 1.6rem; font-weight: 700; letter-spacing: -0.03em;
+    color: var(--ifm-font-color-base); line-height: 1.1;
+  }
+  .stats__value em { color: var(--ifm-color-primary); font-style: normal; }
+  .stats__label {
+    font-size: 0.72rem; font-weight: 500; letter-spacing: 0.05em;
+    text-transform: uppercase; color: var(--ifm-font-color-tertiary); margin-top: 0.25rem;
+  }
+
+  /* ── LAYOUT ───────────────────────────────────────── */
+  .container { max-width: 1060px; margin: 0 auto; padding: 0 1.5rem; }
+  .section { padding: 4rem 1.5rem; }
+  .section--alt { background: var(--ifm-background-surface); }
+  .section--bordered { border-top: 1px solid var(--ifm-border-color-subtle); border-bottom: 1px solid var(--ifm-border-color-subtle); }
+  .section__label {
+    font-size: 0.7rem; font-weight: 700; letter-spacing: 0.12em;
+    text-transform: uppercase; color: var(--ifm-color-primary); margin-bottom: 0.5rem;
+  }
+  .section__title {
+    font-size: clamp(1.5rem, 3vw, 2rem); font-weight: 700;
+    letter-spacing: -0.03em; line-height: 1.2;
+    color: var(--ifm-font-color-base); margin-bottom: 0.6rem;
+  }
+  .section__lead {
+    font-size: 0.9375rem; color: var(--ifm-font-color-secondary);
+    max-width: 540px; line-height: 1.7; margin-bottom: 2.25rem;
+  }
+
+  /* ── JURISDICTION CARDS ───────────────────────────── */
+  .j-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 1rem;
+  }
+  .j-card {
+    display: flex; flex-direction: column;
+    background: var(--ifm-background-color);
+    border: 1px solid var(--ifm-border-color);
+    border-radius: var(--ifm-card-border-radius);
+    padding: 1.5rem;
+    text-decoration: none; color: inherit;
+    transition: border-color 0.15s, box-shadow 0.15s, transform 0.15s;
+  }
+  .j-card:hover {
+    border-color: var(--ifm-color-primary-lighter);
+    box-shadow: 0 4px 16px rgba(37,99,235,0.1);
+    transform: translateY(-2px);
+    text-decoration: none; color: inherit;
+  }
+  .j-card.planned { opacity: 0.7; }
+  .j-card.planned:hover { opacity: 0.88; }
+
+  .j-card__top {
+    display: flex; align-items: flex-start; justify-content: space-between;
+    gap: 0.75rem; margin-bottom: 0.875rem;
+  }
+  .j-card__flag { font-size: 2rem; line-height: 1; flex-shrink: 0; }
+  .j-badge {
+    display: inline-flex; align-items: center; gap: 4px;
+    font-size: 0.63rem; font-weight: 700; letter-spacing: 0.07em;
+    text-transform: uppercase; padding: 2px 8px;
+    border-radius: 100px; border: 1px solid; flex-shrink: 0; margin-top: 2px;
+  }
+  .j-badge--live   { color: var(--color-live);    background: var(--color-live-bg);    border-color: var(--color-live-border); }
+  .j-badge--planned{ color: var(--color-planned); background: var(--color-planned-bg); border-color: var(--color-planned-border); }
+  .j-badge__dot { width: 5px; height: 5px; border-radius: 50%; background: currentColor; }
+
+  .j-card__eyebrow {
+    font-size: 0.68rem; font-weight: 600; letter-spacing: 0.06em;
+    text-transform: uppercase; color: var(--ifm-color-primary); margin-bottom: 0.15rem;
+  }
+  .j-card__name {
+    font-size: 1.1rem; font-weight: 700; letter-spacing: -0.02em; line-height: 1.2;
+    color: var(--ifm-font-color-base); margin-bottom: 0.15rem;
+  }
+  .j-card__reg {
+    font-size: 0.775rem; font-weight: 500; color: var(--ifm-font-color-tertiary); margin-bottom: 0.875rem;
+  }
+  .j-card__desc {
+    font-size: 0.875rem; color: var(--ifm-font-color-secondary); line-height: 1.65; flex: 1;
+  }
+  .j-card__footer {
+    margin-top: 1.25rem;
+    font-size: 0.8rem; font-weight: 600; color: var(--ifm-color-primary);
+  }
+
+  /* ── ABOUT ────────────────────────────────────────── */
+  .about-grid {
+    display: grid; grid-template-columns: 3fr 2fr;
+    gap: 3rem; align-items: start;
+  }
+  @media (max-width: 700px) { .about-grid { grid-template-columns: 1fr; gap: 2rem; } }
+  .about-text p {
+    font-size: 0.9375rem; color: var(--ifm-font-color-secondary);
+    line-height: 1.75; margin-bottom: 1rem;
+  }
+  .about-text p:last-child { margin-bottom: 0; }
+
+  .who-card {
+    background: var(--ifm-background-color);
+    border: 1px solid var(--ifm-border-color);
+    border-radius: var(--ifm-card-border-radius); overflow: hidden;
+  }
+  .who-card__heading {
+    font-size: 0.7rem; font-weight: 700; letter-spacing: 0.1em;
+    text-transform: uppercase; color: var(--ifm-font-color-tertiary);
+    padding: 0.875rem 1.25rem;
+    border-bottom: 1px solid var(--ifm-border-color-subtle);
+  }
+  .who-item {
+    display: flex; align-items: center; gap: 0.875rem;
+    padding: 0.875rem 1.25rem;
+    border-bottom: 1px solid var(--ifm-border-color-subtle);
+    font-size: 0.875rem; color: var(--ifm-font-color-base);
+  }
+  .who-item:last-child { border-bottom: none; }
+  .who-item__icon {
+    width: 30px; height: 30px; border-radius: 6px;
+    background: rgba(37,99,235,0.08);
+    display: flex; align-items: center; justify-content: center;
+    font-size: 0.9rem; flex-shrink: 0;
+  }
+
+  /* ── REPOS ────────────────────────────────────────── */
+  .repo-wrap {
+    border: 1px solid var(--ifm-border-color);
+    border-radius: var(--ifm-card-border-radius); overflow: hidden;
+  }
+  .repo-table { width: 100%; border-collapse: collapse; font-size: 0.9rem; }
+  .repo-table th {
+    font-size: 0.7rem; font-weight: 700; letter-spacing: 0.08em;
+    text-transform: uppercase; color: var(--ifm-font-color-tertiary);
+    padding: 0.75rem 1.25rem; text-align: left;
+    background: var(--ifm-background-surface);
+    border-bottom: 1px solid var(--ifm-border-color);
+  }
+  .repo-table td {
+    padding: 0.875rem 1.25rem;
+    border-bottom: 1px solid var(--ifm-border-color-subtle);
+    color: var(--ifm-font-color-secondary); vertical-align: middle;
+  }
+  .repo-table tr:last-child td { border-bottom: none; }
+  .repo-table tr:hover td { background: var(--ifm-background-surface); }
+  .repo-name {
+    font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+    font-size: 0.85rem; font-weight: 600; color: var(--ifm-color-primary);
+  }
+  .repo-pill {
+    display: inline-block;
+    font-size: 0.6rem; font-weight: 700; letter-spacing: 0.06em;
+    text-transform: uppercase; padding: 1px 7px;
+    border-radius: 100px; border: 1px solid; margin-left: 7px; vertical-align: middle;
+  }
+  .repo-pill--live    { color: var(--color-live);    background: var(--color-live-bg);    border-color: var(--color-live-border); }
+  .repo-pill--planned { color: var(--color-planned); background: var(--color-planned-bg); border-color: var(--color-planned-border); }
+
+  /* ── COMMUNITY ────────────────────────────────────── */
+  .community {
+    background: var(--ifm-background-color);
+    border: 1px solid var(--ifm-border-color);
+    border-radius: var(--ifm-card-border-radius);
+    padding: 2.25rem; text-align: center; margin-top: 1.25rem;
+  }
+  .community h3 {
+    font-size: 1.2rem; font-weight: 700; letter-spacing: -0.02em;
+    color: var(--ifm-font-color-base); margin-bottom: 0.5rem;
+  }
+  .community p {
+    font-size: 0.875rem; color: var(--ifm-font-color-secondary);
+    max-width: 480px; margin: 0 auto 1.5rem; line-height: 1.7;
+  }
+  .community-btns { display: flex; gap: 0.75rem; justify-content: center; flex-wrap: wrap; }
+
+  /* ── DISCLAIMER ───────────────────────────────────── */
+  .disclaimer {
+    background: #fffbeb; border: 1px solid #fde68a;
+    border-radius: var(--ifm-global-radius);
+    padding: 1rem 1.25rem;
+    font-size: 0.85rem; color: #78350f; line-height: 1.65;
+    margin-top: 1.5rem;
+  }
+
+  /* ── FOOTER ───────────────────────────────────────── */
+  .footer {
+    background: var(--ifm-background-surface);
+    border-top: 1px solid var(--ifm-border-color-subtle);
+    padding: 3rem 1.5rem;
+  }
+  .footer__inner {
+    max-width: 1060px; margin: 0 auto;
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr 1fr;
+    gap: 2rem;
+  }
+  @media (max-width: 800px) { .footer__inner { grid-template-columns: 1fr 1fr; } }
+  @media (max-width: 500px) { .footer__inner { grid-template-columns: 1fr; } }
+  .footer__col-heading {
+    font-size: 0.7rem; font-weight: 700; letter-spacing: 0.1em;
+    text-transform: uppercase; color: var(--ifm-font-color-base); margin-bottom: 0.875rem;
+  }
+  .footer__brand { font-size: 1.05rem; font-weight: 700; color: var(--ifm-font-color-base); margin-bottom: 0.6rem; }
+  .footer__desc { font-size: 0.82rem; color: var(--ifm-font-color-tertiary); line-height: 1.65; }
+  .footer__links { list-style: none; }
+  .footer__links li { margin-bottom: 0.5rem; }
+  .footer__links a { font-size: 0.85rem; color: var(--ifm-font-color-secondary); text-decoration: none; }
+  .footer__links a:hover { color: var(--ifm-color-primary); text-decoration: underline; }
+  .footer__bottom {
+    max-width: 1060px; margin: 2.5rem auto 0;
+    padding-top: 1.5rem; border-top: 1px solid var(--ifm-border-color-subtle);
+    font-size: 0.78rem; color: var(--ifm-font-color-tertiary);
+    display: flex; flex-wrap: wrap; gap: 0.5rem;
+    align-items: center; justify-content: space-between;
+  }
+
+  /* ── RESPONSIVE ───────────────────────────────────── */
+  @media (max-width: 640px) {
+    .navbar__items .navbar__link:not(.navbar__ext) { display: none; }
+    .hero { padding: 3rem 1.25rem 2.5rem; }
+    .section { padding: 3rem 1.25rem; }
+    .j-grid { grid-template-columns: 1fr; }
+    .stats__item { padding: 1rem 1.25rem; }
+  }
+</style>
 </head>
 <body>
 
-<header>
-    <h1>RAPath</h1>
-    <p class="tagline">Medical Device Regulatory Reference — Plain English. Properly sourced.</p>
-    <div class="intro">
-        RAPath is an open, community-maintained reference for medical device regulation across multiple jurisdictions. Every page is written in plain English, links back to the authoritative legislative or regulatory source, and is openly available to anyone who needs it.
-    </div>
+<!-- NAVBAR -->
+<nav class="navbar" role="navigation" aria-label="Main navigation">
+  <a href="/" class="navbar__brand" aria-label="RAPath home">
+    <div class="navbar__logo" aria-hidden="true">RA</div>
+    RAPath
+  </a>
+  <ul class="navbar__items">
+    <li><a href="#jurisdictions" class="navbar__link">Jurisdictions</a></li>
+    <li><a href="#about" class="navbar__link">About</a></li>
+    <li><a href="#repositories" class="navbar__link">Repositories</a></li>
+    <div class="navbar__sep" role="separator" aria-hidden="true"></div>
+    <li><a href="https://github.com/RAPath" target="_blank" rel="noopener noreferrer" class="navbar__link navbar__ext">GitHub ↗</a></li>
+  </ul>
+</nav>
+
+<!-- HERO -->
+<header class="hero">
+  <p class="hero__label">Open Regulatory Reference</p>
+  <h1 class="hero__title">RAPath</h1>
+  <p class="hero__subtitle">
+    Medical device regulatory frameworks across multiple jurisdictions —
+    written in plain English, linked to authoritative sources,
+    openly available to everyone.
+  </p>
+  <div class="hero__buttons">
+    <a href="#jurisdictions" class="button button--primary">Browse Jurisdictions</a>
+    <a href="https://github.com/RAPath" target="_blank" rel="noopener noreferrer" class="button button--secondary">View on GitHub ↗</a>
+  </div>
 </header>
 
-<div class="container">
-    <h2 class="section-title">Live Sites</h2>
-    <div class="grid">
-        <a href="/au/" class="card">
-            <span class="status live">Live</span>
-            <h3>🇦🇺 Australia (TGA)</h3>
-            <p>rapath.github.io/au</p>
-        </a>
-        <a href="/eu/" class="card">
-            <span class="status live">Live</span>
-            <h3>🇪🇺 EU MDR / IVDR</h3>
-            <p>rapath.github.io/eu</p>
-        </a>
-        <a href="/hc/" class="card">
-            <span class="status live">Live</span>
-            <h3>🇨🇦 Canada (HC)</h3>
-            <p>rapath.github.io/hc</p>
-        </a>
-        <a href="/sg/" class="card">
-            <span class="status live">Live</span>
-            <h3>🇸🇬 Singapore (SG)</h3>
-            <p>rapath.github.io/sg</p>
-        </a>
-        <a href="/uk/" class="card">
-            <span class="status planned">Live</span>
-            <h3>🇬🇧 UK (MHRA)</h3>
-            <p>rapath.github.io/uk</p>
-        </a>
-        <a href="/us/" class="card">
-            <span class="status planned">Planned</span>
-            <h3>🇺🇸 USA (FDA)</h3>
-            <p>rapath.github.io/us</p>
-        </a>
-    </div>
-
-    <h2 class="section-title">What RAPath Is</h2>
-    <p>Regulatory frameworks for medical devices are accurate but difficult to navigate. Legislation is authoritative but hard to read. Official guidance is comprehensive but scattered.</p>
-    <p>RAPath sits between official sources and the reader — structured, searchable, and plain English — with every claim linked back to the official source. It is not a replacement for official regulatory sources. It is a navigation aid.</p>
-    
-    <p><strong>RAPath is for:</strong></p>
-    <ul>
-        <li>Regulatory affairs professionals and consultants</li>
-        <li>Sponsors and manufacturers</li>
-        <li>Importers and distributors</li>
-        <li>Anyone new to medical device regulation</li>
-    </ul>
-
-    <h2 class="section-title">Repositories</h2>
-    <table>
-        <thead>
-            <tr>
-                <th>Repository</th>
-                <th>Description</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr><td><strong>RAPath/au</strong></td><td>Australian TGA — medical devices and IVDs</td></tr>
-            <tr><td><strong>RAPath/eu</strong></td><td>EU MDR (2017/745) and IVDR (2017/746)</td></tr>
-            <tr><td><strong>RAPath/hc</strong></td><td>Health Canada medical device licensing</td></tr>
-            <tr><td><strong>RAPath/sg</strong></td><td>Singapore HSA regulatory framework</td></tr>
-            <tr><td><strong>RAPath/us</strong></td><td>(Planned) US FDA — 510(k), PMA, De Novo</td></tr>
-            <tr><td><strong>RAPath/uk</strong></td><td>(Planned) UK MHRA post-Brexit framework</td></tr>
-        </tbody>
-    </table>
-
-    <h2 class="section-title">How to Contribute</h2>
-    <p>RAPath is a community reference. Regulatory affairs professionals who flag errors, suggest improvements, or contribute content make this resource better for everyone.</p>
-    <p>For the Australian site, you can: <strong>Ask a question</strong>, <strong>Report an error</strong>, <strong>Suggest content</strong>, or <strong>Discuss regulatory updates</strong> via GitHub Discussions.</p>
-
-    <div class="disclaimer">
-        <strong>⚠️ Disclaimer</strong><br>
-        Content across all RAPath sites is written with AI assistance and is intended as a navigation aid only. Always verify against official regulatory sources before making any regulatory decisions. RAPath is not affiliated with any regulatory authority. Not legal or regulatory advice.
-    </div>
+<!-- STATS -->
+<div class="stats" aria-label="Summary statistics">
+  <div class="stats__item">
+    <div class="stats__value"><em>5</em></div>
+    <div class="stats__label">Live Jurisdictions</div>
+  </div>
+  <div class="stats__item">
+    <div class="stats__value">300<em>+</em></div>
+    <div class="stats__label">Reference Pages</div>
+  </div>
+  <div class="stats__item">
+    <div class="stats__value">100<em>+</em></div>
+    <div class="stats__label">Guidance Docs Indexed</div>
+  </div>
+  <div class="stats__item">
+    <div class="stats__value"><em>0</em></div>
+    <div class="stats__label">Paywalls</div>
+  </div>
 </div>
 
-<footer>
-    <p>Built With <strong>Docusaurus</strong> — documentation framework & <strong>GitHub Pages</strong> — free hosting</p>
-    <p>Content written with AI assistance, reviewed by regulatory affairs professionals.</p>
-    <p>&copy; 2026 RAPath Network</p>
+<!-- JURISDICTIONS -->
+<section class="section" id="jurisdictions">
+  <div class="container">
+    <p class="section__label">Jurisdictions</p>
+    <h2 class="section__title">Live &amp; Planned Sites</h2>
+    <p class="section__lead">Each site covers classification, pre-market approval, post-market obligations, legislation, and guidance — adapted for the specific regulator and framework.</p>
+
+    <div class="j-grid">
+
+      <a href="/au/" class="j-card">
+        <div class="j-card__top">
+          <span class="j-card__flag" aria-hidden="true">🇦🇺</span>
+          <span class="j-badge j-badge--live"><span class="j-badge__dot" aria-hidden="true"></span> Live</span>
+        </div>
+        <p class="j-card__eyebrow">rapath.github.io/au</p>
+        <p class="j-card__name">Australia</p>
+        <p class="j-card__reg">Therapeutic Goods Administration (TGA)</p>
+        <p class="j-card__desc">ARTG inclusion, conformity assessment, Essential Principles, AIMD classification, and post-market vigilance under the Therapeutic Goods Act 1989.</p>
+        <p class="j-card__footer">Visit site →</p>
+      </a>
+
+      <a href="/eu/" class="j-card">
+        <div class="j-card__top">
+          <span class="j-card__flag" aria-hidden="true">🇪🇺</span>
+          <span class="j-badge j-badge--live"><span class="j-badge__dot" aria-hidden="true"></span> Live</span>
+        </div>
+        <p class="j-card__eyebrow">rapath.github.io/eu</p>
+        <p class="j-card__name">European Union</p>
+        <p class="j-card__reg">EU MDR 2017/745 &amp; IVDR 2017/746</p>
+        <p class="j-card__desc">CE marking, Notified Body conformity assessment, UDI, EUDAMED, post-market surveillance, and transition from MDD/IVDD to MDR/IVDR.</p>
+        <p class="j-card__footer">Visit site →</p>
+      </a>
+
+      <a href="/hc/" class="j-card">
+        <div class="j-card__top">
+          <span class="j-card__flag" aria-hidden="true">🇨🇦</span>
+          <span class="j-badge j-badge--live"><span class="j-badge__dot" aria-hidden="true"></span> Live</span>
+        </div>
+        <p class="j-card__eyebrow">rapath.github.io/hc</p>
+        <p class="j-card__name">Canada</p>
+        <p class="j-card__reg">Health Canada (HC)</p>
+        <p class="j-card__desc">Medical Device Licence (MDL) and IVD licensing, Class I–IV classification, MDSAP recognition, and mandatory problem reporting under the Medical Devices Regulations.</p>
+        <p class="j-card__footer">Visit site →</p>
+      </a>
+
+      <a href="/sg/" class="j-card">
+        <div class="j-card__top">
+          <span class="j-card__flag" aria-hidden="true">🇸🇬</span>
+          <span class="j-badge j-badge--live"><span class="j-badge__dot" aria-hidden="true"></span> Live</span>
+        </div>
+        <p class="j-card__eyebrow">rapath.github.io/sg</p>
+        <p class="j-card__name">Singapore</p>
+        <p class="j-card__reg">Health Sciences Authority (HSA)</p>
+        <p class="j-card__desc">Product registration via PRISM, Class A–D risk classification, Dealer's Licence, Local Regulatory Agent requirements, and ASEAN harmonisation under the Health Products Act.</p>
+        <p class="j-card__footer">Visit site →</p>
+      </a>
+
+      <a href="/uk/" class="j-card">
+        <div class="j-card__top">
+          <span class="j-card__flag" aria-hidden="true">🇬🇧</span>
+          <span class="j-badge j-badge--live"><span class="j-badge__dot" aria-hidden="true"></span> Live</span>
+        </div>
+        <p class="j-card__eyebrow">rapath.github.io/uk</p>
+        <p class="j-card__name">United Kingdom</p>
+        <p class="j-card__reg">Medicines &amp; Healthcare products Regulatory Agency (MHRA)</p>
+        <p class="j-card__desc">UKCA marking, post-Brexit divergence from EU MDR, UK Responsible Person requirements, UK Approved Bodies, and the GB / Northern Ireland dual-market position.</p>
+        <p class="j-card__footer">Visit site →</p>
+      </a>
+
+      <a href="/us/" class="j-card planned">
+        <div class="j-card__top">
+          <span class="j-card__flag" aria-hidden="true">🇺🇸</span>
+          <span class="j-badge j-badge--planned">Planned</span>
+        </div>
+        <p class="j-card__eyebrow">rapath.github.io/us</p>
+        <p class="j-card__name">United States</p>
+        <p class="j-card__reg">Food &amp; Drug Administration (FDA)</p>
+        <p class="j-card__desc">510(k) substantial equivalence, De Novo classification, PMA for Class III devices, and FDA's risk-based regulatory framework under 21 CFR Parts 800–898.</p>
+        <p class="j-card__footer">Coming soon</p>
+      </a>
+
+    </div>
+  </div>
+</section>
+
+<!-- ABOUT -->
+<section class="section section--alt section--bordered" id="about">
+  <div class="container">
+    <p class="section__label">About RAPath</p>
+    <h2 class="section__title">A navigation aid, not a replacement</h2>
+    <div class="about-grid">
+      <div class="about-text">
+        <p>Regulatory frameworks for medical devices are accurate but difficult to navigate. Legislation is authoritative but hard to read. Official guidance is comprehensive but scattered across multiple sources.</p>
+        <p>RAPath sits between official sources and the reader — structured, searchable, plain English — with every claim linked back to the authoritative legislative or regulatory source. It is not a replacement for official sources. It is a navigation aid.</p>
+        <p>Content is written with AI assistance and reviewed by regulatory affairs professionals. Pages are updated as regulations change and new guidance is published.</p>
+      </div>
+      <div>
+        <div class="who-card" role="list" aria-label="RAPath is for">
+          <div class="who-card__heading">RAPath is for</div>
+          <div class="who-item" role="listitem">
+            <div class="who-item__icon" aria-hidden="true">🧭</div>
+            Regulatory affairs professionals and consultants
+          </div>
+          <div class="who-item" role="listitem">
+            <div class="who-item__icon" aria-hidden="true">🏭</div>
+            Sponsors and manufacturers
+          </div>
+          <div class="who-item" role="listitem">
+            <div class="who-item__icon" aria-hidden="true">📦</div>
+            Importers and distributors
+          </div>
+          <div class="who-item" role="listitem">
+            <div class="who-item__icon" aria-hidden="true">📖</div>
+            Anyone new to medical device regulation
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- REPOSITORIES -->
+<section class="section" id="repositories">
+  <div class="container">
+    <p class="section__label">Repositories</p>
+    <h2 class="section__title">Open source on GitHub</h2>
+    <p class="section__lead">Every site is open source under the RAPath organisation. Raise an issue, start a discussion, or contribute content.</p>
+
+    <div class="repo-wrap">
+      <table class="repo-table" aria-label="RAPath GitHub repositories">
+        <thead>
+          <tr>
+            <th scope="col">Repository</th>
+            <th scope="col">Description</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><span class="repo-name">RAPath/au</span><span class="repo-pill repo-pill--live">Live</span></td>
+            <td>Australian TGA — medical devices and IVDs</td>
+          </tr>
+          <tr>
+            <td><span class="repo-name">RAPath/eu</span><span class="repo-pill repo-pill--live">Live</span></td>
+            <td>EU MDR (2017/745) and IVDR (2017/746)</td>
+          </tr>
+          <tr>
+            <td><span class="repo-name">RAPath/hc</span><span class="repo-pill repo-pill--live">Live</span></td>
+            <td>Health Canada — medical device licensing</td>
+          </tr>
+          <tr>
+            <td><span class="repo-name">RAPath/sg</span><span class="repo-pill repo-pill--live">Live</span></td>
+            <td>Singapore HSA — Health Products Act framework</td>
+          </tr>
+          <tr>
+            <td><span class="repo-name">RAPath/uk</span><span class="repo-pill repo-pill--live">Live</span></td>
+            <td>UK MHRA — post-Brexit UKCA marking framework</td>
+          </tr>
+          <tr>
+            <td><span class="repo-name">RAPath/us</span><span class="repo-pill repo-pill--planned">Planned</span></td>
+            <td>US FDA — 510(k), PMA, De Novo pathways</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="community">
+      <h3>Questions? Corrections? Discussions?</h3>
+      <p>RAPath is a community reference. If you spot an error, have a regulatory question, or want to suggest content — use GitHub Discussions.</p>
+      <div class="community-btns">
+        <a href="https://github.com/orgs/RAPath/discussions" target="_blank" rel="noopener noreferrer" class="button button--primary">Open a Discussion</a>
+        <a href="https://github.com/RAPath" target="_blank" rel="noopener noreferrer" class="button button--outline">GitHub Organisation ↗</a>
+      </div>
+    </div>
+
+    <div class="disclaimer" role="note">
+      <strong>⚠️ Disclaimer:</strong> Content across all RAPath sites is written with AI assistance and is intended as a navigation aid only. Always verify against official regulatory sources before making any regulatory decisions. RAPath is not affiliated with any regulatory authority. Nothing on this site constitutes legal or regulatory advice.
+    </div>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer class="footer">
+  <div class="footer__inner">
+    <div>
+      <div class="footer__brand">RAPath</div>
+      <div class="footer__desc">
+        Plain English medical device regulatory reference — openly available, community-maintained, properly sourced.<br><br>
+        Built with Docusaurus &amp; GitHub Pages. Content written with AI assistance, reviewed by regulatory affairs professionals.
+      </div>
+    </div>
+    <div>
+      <div class="footer__col-heading">Live Sites</div>
+      <ul class="footer__links">
+        <li><a href="/au/">🇦🇺 Australia (TGA)</a></li>
+        <li><a href="/eu/">🇪🇺 EU MDR / IVDR</a></li>
+        <li><a href="/hc/">🇨🇦 Canada (HC)</a></li>
+        <li><a href="/sg/">🇸🇬 Singapore (HSA)</a></li>
+        <li><a href="/uk/">🇬🇧 UK (MHRA)</a></li>
+      </ul>
+    </div>
+    <div>
+      <div class="footer__col-heading">Community</div>
+      <ul class="footer__links">
+        <li><a href="https://github.com/orgs/RAPath/discussions" target="_blank" rel="noopener">Q&amp;A Discussions</a></li>
+        <li><a href="https://github.com/RAPath" target="_blank" rel="noopener">GitHub Organisation</a></li>
+        <li><a href="https://github.com/orgs/RAPath/discussions/new" target="_blank" rel="noopener">Report an Error</a></li>
+      </ul>
+    </div>
+    <div>
+      <div class="footer__col-heading">Other</div>
+      <ul class="footer__links">
+        <li><a href="#about">About RAPath</a></li>
+        <li><a href="#repositories">Repositories</a></li>
+        <li><a href="/us/">🇺🇸 USA (FDA) — Planned</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="footer__bottom">
+    <span>Copyright © 2026 RAPath Network</span>
+    <span>Not legal or regulatory advice.</span>
+  </div>
 </footer>
 
 </body>
