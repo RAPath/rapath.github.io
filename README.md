@@ -3,7 +3,7 @@
 
 RAPath is an open, community-maintained reference for medical device regulation across 16+ jurisdictions. Every page is written in plain English, links back to the authoritative legislative or regulatory source, and is openly available to anyone who needs it.
 
-🌐 [rapath.github.io/au](https://rapath.github.io/au)
+🌐 [rapath.github.io/au](https://rapath.github.io)
 
 ---
 
