@@ -69,8 +69,8 @@ A consolidated quick-reference for regulatory reforms affecting Australian medic
 - [Federal Register of Legislation](https://www.legislation.gov.au) — for registered amendments
 
 **RAPath community tracking:**
-- 🔔 [GitHub Issues — regulatory changes](https://github.com/RAPath/discussions/categories/regulatory-updates)
-- 💬 [GitHub Discussions — regulatory updates](https://github.com/RAPath/discussions/categories/regulatory-updates)
+- 🔔 [GitHub Issues — regulatory changes](https://github.com/orgs/RAPath/discussions/categories/regulatory-updates)
+- 💬 [GitHub Discussions — regulatory updates](https://github.com/orgs/RAPath/discussions/categories/regulatory-updates)
 
 ---
 

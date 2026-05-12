@@ -132,6 +132,8 @@ export default function Home(): ReactNode {
             <Link
               className="button button--outline button--secondary button--lg margin-bottom--sm"
               href="https://github.com/RAPath"
+              target="_blank"
+              rel="noopener noreferrer"
             >
               GitHub ↗
             </Link>
@@ -183,7 +185,8 @@ export default function Home(): ReactNode {
                     <p className="margin-bottom--none">{j.desc}</p>
                   </div>
                   <div className="card__footer">
-                    <Link className="button button--primary button--sm" to={j.path}>
+                    <Link className="button button--primary button--sm" to={j.path} target="_blank"
+                      rel="noopener noreferrer">
                       Visit site
                     </Link>
                   </div>

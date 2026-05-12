@@ -76,7 +76,8 @@ Australian medical device industry associations participate actively in TGA cons
 
 Have a view on an open consultation? Share it with the RAPath community:
 
-💬 [Regulatory Updates — GitHub Discussions](https://github.com/RAPath/discussions/categories/regulatory-updates)
+- [Regulatory Updates — GitHub Discussions](https://github.com/orgs/RAPath/discussions/categories/regulatory-updates)
+- [Ask a question](https://github.com/orgs/RAPath/discussions/new?category=questions)
 
 ---
 

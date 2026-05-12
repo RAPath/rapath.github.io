@@ -46,4 +46,4 @@ This site is a **regulatory reference resource only** — it is not legal advice
 
 ## Questions or corrections?
 
-Found an error or want to discuss a regulatory question? Use **GitHub Discussions** on the [RAPath hub repository](https://github.com/rapath/hub/discussions).
+Found an error or want to discuss a regulatory question? Use **GitHub Discussions** on the [RAPath hub repository](https://github.com/orgs/RAPath/discussions/new?category=questions).

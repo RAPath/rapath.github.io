@@ -74,4 +74,4 @@ External links are provided for reference only. RAPath does not control external
 
 ## Questions & Community
 
-For corrections, regulatory questions, and community discussion, use **GitHub Discussions** on the [RAPath hub repository](https://github.com/rapath/hub/discussions).
+For corrections, regulatory questions, and community discussion, use **GitHub Discussions** on the [RAPath hub repository](https://github.com/orgs/RAPath/discussions/new?category=questions)).

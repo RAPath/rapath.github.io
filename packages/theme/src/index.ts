@@ -81,7 +81,7 @@ export function buildSiteConfig(params: SiteParams): Config {
     baseUrl:          '/' + params.siteCode + '/',
     organizationName: 'RAPath',
     projectName:      params.siteCode,
-    trailingSlash:    false,
+    trailingSlash:    true,
 
     onBrokenLinks: 'warn',
     markdown: { hooks: { onBrokenMarkdownLinks: 'warn' } },

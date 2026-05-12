@@ -93,9 +93,9 @@ They are mutually exclusive — a product is governed by one or the other, never
 
 RAPath EU is a community reference. If you find an error, have a regulatory question, or want to discuss a recent MDR/IVDR development, use GitHub Discussions:
 
-- [Ask a question](https://github.com/RAPath/discussions/new?category=questions)
-- [Report an error](https://github.com/RAPath/discussions/new?category=corrections)
-- [Discuss regulatory updates](https://github.com/RAPath/discussions/categories/regulatory-updates)
+- [Ask a question](https://github.com/orgs/RAPath/discussions/new?category=questions)
+- [Report an error](https://github.com/orgs/RAPath/discussions/new?category=corrections)
+- [Discuss regulatory updates](https://github.com/orgs/RAPath/discussions/categories/regulatory-updates)
 
 Regulatory affairs professionals who flag inaccuracies are the most valuable contributors to this project.
 

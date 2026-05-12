@@ -11,7 +11,7 @@ This page tracks recent regulatory changes to Swiss medical device regulation. F
 - **Swissmedic news**: [swissmedic.ch/news](https://www.swissmedic.ch/swissmedic/en/home/news.html)
 - **Federal Gazette (Bundesblatt)**: [fedlex.admin.ch](https://www.fedlex.admin.ch/eli/fga/de) â€” published Tuesday and Friday; contains proposed and enacted legislation
 - **MDCG updates**: [European Commission MDCG page](https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en) â€” new MDCG guidance applicable in Switzerland
-- **RAPath CH Discussions**: [GitHub Discussions](https://github.com/RAPath/discussions/categories/regulatory-updates) â€” community-sourced updates
+- **RAPath CH Discussions**: [GitHub Discussions](https://github.com/orgs/RAPath/discussions/categories/regulatory-updates) â€” community-sourced updates
 
 ## Categories of Change to Monitor
 **Ordinance amendments** â€” Changes to MedDO or IVDO text published via Federal Gazette and Fedlex. These are infrequent but significant.

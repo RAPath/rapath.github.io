@@ -99,7 +99,7 @@ From **1 July 2024**, new classification and conformity assessment requirements 
 ## Stay Current
 
 - 📧 [Subscribe to TGA updates](https://www.tga.gov.au/news/subscribe-tga-updates)
-- 💬 [Discuss recent changes — GitHub Discussions](https://github.com/RAPath/discussions/categories/regulatory-updates)
+- 💬 [Discuss recent changes — GitHub Discussions](https://github.com/orgs/RAPath/discussions/categories/regulatory-updates)
 - 🔔 [Track regulatory changes — GitHub Issues](https://github.com/RAPath/)
 
 ---

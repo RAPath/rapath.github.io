@@ -77,9 +77,9 @@ The site is structured around the regulatory lifecycle of a medical device in Ca
 
 RAPath CA is a community reference. If you find an error, have a regulatory question, or want to discuss a recent Health Canada change, use GitHub Discussions:
 
-- [Ask a question](https://github.com/RAPath/ca/discussions/new?category=questions)
-- [Report an error](https://github.com/RAPath/ca/discussions/new?category=corrections)
-- [Discuss regulatory updates](https://github.com/RAPath/ca/discussions/categories/regulatory-updates)
+- [Ask a question](https://github.com/orgs/RAPath/ca/discussions/new?category=questions)
+- [Report an error](https://github.com/orgs/RAPath/ca/discussions/new?category=corrections)
+- [Discuss regulatory updates](https://github.com/orgs/RAPath/ca/discussions/categories/regulatory-updates)
 
 Regulatory affairs professionals who flag inaccuracies are the most valuable contributors to this project.
 
