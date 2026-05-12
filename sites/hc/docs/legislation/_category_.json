@@ -1,0 +1,10 @@
+{
+  "label": "Legislation & Regulations",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "title": "Legislation & Regulations",
+    "description": "The Food and Drugs Act, Medical Devices Regulations (SOR/98-282), Radiation Emitting Devices Act, and related legislation.",
+    "slug": "/legislation"
+  }
+}

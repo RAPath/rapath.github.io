@@ -1,0 +1,8 @@
+{
+  "label": "Legislation & Regulations",
+  "position": 4,
+  "link": {
+    "type": "doc",
+    "id": "legislation/index"
+  }
+}

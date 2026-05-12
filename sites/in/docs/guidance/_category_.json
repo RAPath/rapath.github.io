@@ -1,0 +1,10 @@
+{
+  "label": "Guidance Documents",
+  "position": 8,
+  "link": {
+    "type": "generated-index",
+    "title": "Guidance Documents",
+    "description": "Full index of CDSCO guidance, BIS standards, IMDRF adoption table, SUGAM forms, notified-labs directory, and CDSCO fee schedule.",
+    "slug": "/guidance"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "label": "Legislation & Regulations",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "title": "Legislation & Regulations",
+    "description": "The legislative backbone of Australian medical device regulation — the Acts, Regulations, and instruments that every other page on this site links back to.",
+    "slug": "/legislation"
+  }
+}

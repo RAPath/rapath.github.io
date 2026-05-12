@@ -1,0 +1,8 @@
+{
+  "label": "Device Registration",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "Registration routes for Class A\u2013D and IVD devices via the MyMDA portal, including renewal and variation procedures."
+  }
+}

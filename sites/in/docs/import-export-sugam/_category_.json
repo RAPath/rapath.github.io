@@ -1,0 +1,10 @@
+{
+  "label": "Import, Export & SUGAM",
+  "position": 6,
+  "link": {
+    "type": "generated-index",
+    "title": "Import, Export & SUGAM",
+    "description": "Import licences (MD-14 / MD-15), Indian Authorised Representative (IAR) obligations, the SUGAM portal, and export of Indian-made devices.",
+    "slug": "/import-export-sugam"
+  }
+}

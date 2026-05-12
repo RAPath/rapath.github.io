@@ -1,0 +1,7 @@
+{
+  "extends": "@tsconfig/docusaurus/tsconfig.json",
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": { "@rapath/theme": ["../../packages/theme/src/index.ts"] }
+  }
+}

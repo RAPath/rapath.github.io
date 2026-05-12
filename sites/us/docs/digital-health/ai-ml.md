@@ -1,0 +1,65 @@
+---
+sidebar_position: 3
+title: AI/ML Action Plan
+description: FDA's Artificial Intelligence/Machine Learning Action Plan for AI/ML-based Software as a Medical Device — the five action areas, current guidance, and the PCCP framework.
+keywords: [AI ML medical device, FDA AI ML action plan, machine learning device, adaptive AI, PCCP, predetermined change control plan]
+---
+
+# AI/ML Action Plan
+
+## FDA's AI/ML Action Plan (January 2021)
+
+FDA published its **Artificial Intelligence/Machine Learning (AI/ML)-Based Software as a Medical Device Action Plan** in January 2021, outlining five key action areas to advance the regulatory framework for AI/ML-based SaMD.
+
+---
+
+## The five action areas
+
+### 1. Tailored regulatory framework for AI/ML-based SaMD
+FDA committed to developing a **risk-based framework** specifically for AI/ML SaMD. The core challenge: AI/ML algorithms can adapt and change after deployment ("adaptive AI") in ways that traditional static software does not. FDA's response has been the **Predetermined Change Control Plan (PCCP)** framework (see [PCCP guidance](/docs/digital-health/pccp)).
+
+### 2. Good Machine Learning Practice (GMLP)
+FDA (with Health Canada and MHRA) published **10 Guiding Principles for GMLP** in 2021. These principles address:
+- Multi-disciplinary expertise in design and development
+- Clinical study design relevant to AI/ML performance
+- Transparency of the algorithm and its limitations
+- Dataset representativeness and management of bias
+- Testing across conditions (subgroups, edge cases)
+
+### 3. Patient-centric approach
+FDA committed to ensuring that the perspectives of patients — including diverse populations — are incorporated into AI/ML regulatory thinking. This includes guidance on health equity considerations in AI/ML development.
+
+### 4. Regulatory science research
+FDA committed to investing in tools and methods to evaluate AI/ML algorithms, including:
+- Methods for assessing algorithm performance across diverse populations
+- Frameworks for handling algorithm drift and degradation
+- Real-world performance monitoring methods
+
+### 5. Real-world performance monitoring
+FDA identified the need for frameworks to enable ongoing monitoring of AI/ML SaMD performance in real-world use — distinct from the pre-deployment testing framework.
+
+---
+
+## Current status (as of 2026)
+
+| Action | Status |
+|---|---|
+| PCCP Guidance finalised | ✅ Complete (2024) |
+| GMLP Guiding Principles published | ✅ Complete (2021) |
+| Software Functions Guidance (§ 520(o)) | ✅ Finalised (2023) |
+| AI/ML SaMD Action Plan discussion paper | ✅ Published (2021) |
+| Real-world performance monitoring guidance | 🔄 In development |
+| GMLP detailed guidance | 🔄 In development |
+
+---
+
+## FDA's position on AI/ML in devices
+
+FDA has cleared and approved numerous AI/ML-based devices — primarily in radiology, cardiology, and ophthalmology. As of 2025, FDA has cleared or approved over **700 AI/ML-enabled devices**. The vast majority have been cleared via 510(k).
+
+---
+
+## Official resources
+- [FDA — AI/ML Action Plan (2021)](https://www.fda.gov/media/145022/download)
+- [FDA — AI/ML-Enabled Medical Devices](https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-and-machine-learning-aiml-enabled-medical-devices)
+- [FDA — Approved/Cleared AI/ML Devices List](https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-and-machine-learning-aiml-enabled-medical-devices)

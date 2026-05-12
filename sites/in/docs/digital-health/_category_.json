@@ -1,0 +1,10 @@
+{
+  "label": "Digital Health & SaMD",
+  "position": 12,
+  "link": {
+    "type": "generated-index",
+    "title": "Digital Health & SaMD",
+    "description": "Software as a Medical Device (SaMD), AI/ML devices, mobile medical apps, telemedicine, and the National Digital Health Mission (NDHM) interface.",
+    "slug": "/digital-health"
+  }
+}

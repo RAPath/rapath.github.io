@@ -1,0 +1,40 @@
+/* =============================================================================
+   RAPath — Shared Theme
+   Minimal: sets the brand blue as Docusaurus primary colour.
+   All typography, fonts, sizing, spacing = Docusaurus/Infima defaults.
+   ============================================================================= */
+
+/* 1. Import Open Sans from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+:root {
+  /* 2. Assign the font to Docusaurus variables */
+  /* We set both base and heading to ensure a consistent look */
+  --ifm-font-family-base: 'Open Sans', system-ui, -apple-system, sans-serif;
+  --ifm-font-family-heading: 'Open Sans', system-ui, -apple-system, sans-serif
+  
+  /* Brand Colors */
+  --ifm-color-primary:          #2563eb;
+  --ifm-color-primary-dark:     #1d4ed8;
+  --ifm-color-primary-darker:   #1a44c2;
+  --ifm-color-primary-darkest:  #153898;
+  --ifm-color-primary-light:    #3b7cf6;
+  --ifm-color-primary-lighter:  #60a5fa;
+  --ifm-color-primary-lightest: #93c5fd;
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary:          #60a5fa;
+  --ifm-color-primary-dark:     #3b7cf6;
+  --ifm-color-primary-darker:   #2563eb;
+  --ifm-color-primary-darkest:  #1d4ed8;
+  --ifm-color-primary-light:    #93c5fd;
+  --ifm-color-primary-lighter:  #bfdbfe;
+  --ifm-color-primary-lightest: #dbeafe;
+}
+
+.footer__disclaimer-separator {
+  margin: 0 0 0.9rem;
+  border: 0;
+  border-top: 1px solid var(--ifm-toc-border-color, #dadde1);
+}

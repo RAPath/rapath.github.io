@@ -1,0 +1,8 @@
+{
+  "label": "Non-Swiss Manufacturer Access",
+  "position": 10,
+  "link": {
+    "type": "doc",
+    "id": "non-swiss-access/index"
+  }
+}

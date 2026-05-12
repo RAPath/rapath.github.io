@@ -1,0 +1,35 @@
+---
+title: Recalls and Field Safety Corrective Actions
+sidebar_position: 5
+description: "Recall obligations and FSCA procedures under NMPA and MDSAR 2021."
+keywords: [recall,FSCA,NMPA,China,field safety]
+tags: [post-market]
+---
+
+# Recalls and Field Safety Corrective Actions
+
+*This page provides a plain English reference for recalls and field safety corrective actions under China's NMPA regulatory framework. Full content to be completed during editorial review.*
+
+---
+
+## Regulatory basis
+
+- **MDSAR 2021** (State Council Order No. 739)
+- **Adverse Event Monitoring & Re-evaluation Measures**
+- Relevant NMPA orders and announcements
+
+---
+
+## Key requirements
+
+Requirements for recalls and field safety corrective actions are set out in MDSAR 2021 and implementing measures. See [Legislation & Regulations](/cn/docs/legislation/mdsar-2021) for the full legislative index.
+
+:::tip Official Sources
+- **NMPA** — [www.nmpa.gov.cn](https://www.nmpa.gov.cn/)
+- **CMDE** — [www.cmde.org.cn](https://www.cmde.org.cn/)
+- **NMPA Medical Device Registration Query** — [datasearch.nmpa.gov.cn](https://www.nmpa.gov.cn/datasearch/home-index.html)
+:::
+
+:::note Disclaimer
+Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [NMPA](https://www.nmpa.gov.cn/) sources before making regulatory decisions. Not affiliated with NMPA or any Chinese Government body. Not legal or regulatory advice.
+:::

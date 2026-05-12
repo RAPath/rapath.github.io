@@ -1,0 +1,10 @@
+{
+  "label": "Start Here",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "title": "Start Here",
+    "description": "New to Health Canada medical device regulation? Begin with definitions, the regulatory framework, who needs to comply, and the full device lifecycle.",
+    "slug": "/start-here"
+  }
+}

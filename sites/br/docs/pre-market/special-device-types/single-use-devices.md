@@ -1,0 +1,22 @@
+---
+sidebar_position: 1
+title: Single-Use Devices — Reprocessing Rules
+description: Single-Use Devices — Reprocessing Rules — ANVISA medical device regulation in Brazil.
+keywords: [ANVISA, Brazil, medical device]
+---
+
+# Single-Use Devices — Reprocessing Rules
+
+:::info BR-unique
+ANVISA's RDC 156/2006 (and updates) established a framework for reprocessing of single-use devices. Brazil permits **limited reprocessing under strict conditions** by ANVISA-authorised reprocessors only.
+:::
+
+Devices labelled "single use" (*uso único*) may only be reprocessed by an ANVISA-authorised reprocessor who demonstrates that reprocessed devices meet the same safety and performance standards as new devices. Certain device categories are **prohibited from reprocessing** — including devices that contact blood, devices with complex lumens, and high-risk implants.
+
+Manufacturers must state "uso único" or "não reprocessar" clearly on the label.
+
+---
+
+:::note Official sources
+Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
+:::

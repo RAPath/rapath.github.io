@@ -1,0 +1,10 @@
+{
+  "label": "Unique Device Identification (UDI)",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "title": "Unique Device Identification (UDI)",
+    "description": "India UDI framework, issuing agencies, UDI-DI/PI, the UDID database, and implementation timeline.",
+    "slug": "/post-market/udi"
+  }
+}

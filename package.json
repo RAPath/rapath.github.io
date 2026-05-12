@@ -1,0 +1,51 @@
+{
+  "name": "rapath-monorepo",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "packages/*",
+    "sites/*"
+  ],
+  "scripts": {
+    "start:hub":   "npm run start --workspace=sites/hub   -- --port 3000",
+    "start:au":    "npm run start --workspace=sites/au    -- --port 3001",
+    "start:eu":    "npm run start --workspace=sites/eu    -- --port 3002",
+    "start:hc":    "npm run start --workspace=sites/hc    -- --port 3003",
+    "start:sg":    "npm run start --workspace=sites/sg    -- --port 3004",
+    "start:uk":    "npm run start --workspace=sites/uk    -- --port 3005",
+    "start:us":    "npm run start --workspace=sites/us    -- --port 3006",
+    "start:jp":    "npm run start --workspace=sites/jp    -- --port 3007",
+    "start:swiss": "npm run start --workspace=sites/swiss -- --port 3008",
+    "start:cn":    "npm run start --workspace=sites/cn    -- --port 3009",
+    "start:in":    "npm run start --workspace=sites/in    -- --port 3010",
+    "start:kr":    "npm run start --workspace=sites/kr    -- --port 3011",
+    "start:br":    "npm run start --workspace=sites/br    -- --port 3012",
+    "start:my":    "npm run start --workspace=sites/my    -- --port 3013",
+    "start:id":    "npm run start --workspace=sites/id    -- --port 3014",
+    "start:vt":    "npm run start --workspace=sites/vt    -- --port 3015",
+    "start:ru":    "npm run start --workspace=sites/ru    -- --port 3016",
+
+    "build:hub":   "npm run build --workspace=sites/hub",
+    "build:au":    "npm run build --workspace=sites/au",
+    "build:eu":    "npm run build --workspace=sites/eu",
+    "build:hc":    "npm run build --workspace=sites/hc",
+    "build:sg":    "npm run build --workspace=sites/sg",
+    "build:uk":    "npm run build --workspace=sites/uk",
+    "build:us":    "npm run build --workspace=sites/us",
+    "build:jp":    "npm run build --workspace=sites/jp",
+    "build:swiss": "npm run build --workspace=sites/swiss",
+    "build:cn":    "npm run build --workspace=sites/cn",
+    "build:in":    "npm run build --workspace=sites/in",
+    "build:kr":    "npm run build --workspace=sites/kr",
+    "build:br":    "npm run build --workspace=sites/br",
+    "build:my":    "npm run build --workspace=sites/my",
+    "build:id":    "npm run build --workspace=sites/id",
+    "build:vt":    "npm run build --workspace=sites/vt",
+    "build:ru":    "npm run build --workspace=sites/ru",
+
+    "build:all":   "bash scripts/build-all.sh"
+  },
+  "dependencies": {
+    "@docusaurus/faster": "^3.10.1"
+  }
+}

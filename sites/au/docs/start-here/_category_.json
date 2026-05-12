@@ -1,0 +1,10 @@
+{
+  "label": "Start Here",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "title": "Start Here",
+    "description": "New to Australian medical device regulation? Start here. These pages explain the foundations — what a medical device is, who the key players are, how the regulatory framework works, and the full lifecycle from classification to post-market obligations.",
+    "slug": "/start-here"
+  }
+}

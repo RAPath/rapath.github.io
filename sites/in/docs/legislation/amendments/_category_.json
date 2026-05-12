@@ -1,0 +1,10 @@
+{
+  "label": "Amendments & Notifications",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "title": "Amendments & Notifications",
+    "description": "MDR 2017 amendments by year, CDSCO circulars, and the gazette tracker.",
+    "slug": "/legislation/amendments"
+  }
+}

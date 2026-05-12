@@ -1,0 +1,10 @@
+{
+  "label": "Unapproved Device Access",
+  "position": 7,
+  "link": {
+    "type": "generated-index",
+    "title": "Unapproved Device Access",
+    "description": "Pathways for accessing medical devices that are not included in the ARTG — including the Special Access Scheme, authorised prescribers, clinical trials, and personal importation.",
+    "slug": "/unapproved-access"
+  }
+}

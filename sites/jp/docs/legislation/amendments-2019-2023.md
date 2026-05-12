@@ -1,0 +1,49 @@
+---
+title: 2019 and 2023 Amendments — Key Changes
+sidebar_position: 3
+---
+
+# 2019 and 2023 Amendments — Key Changes
+
+## 2019 amendments — accelerated access and digital health
+
+The 2019 amendments (effective December 2019 and phased thereafter) introduced several significant changes:
+
+### SAKIGAKE designation system — statutory basis
+
+The **SAKIGAKE Designation System** (先駆け審査指定制度 — Breakthrough Device Designation equivalent) was given a statutory basis in the 2019 amendments, making it a permanent feature of the regulatory framework rather than a pilot programme. SAKIGAKE designation provides:
+- Early and intensive PMDA consultation
+- Priority review (Yusen Shinsa) as a standard component
+- Target PMDA review time: 6 months
+
+### Conditional and time-limited approval — expanded
+
+The conditional approval and time-limited approval mechanisms — which existed informally for regenerative medicine products — were formalised and expanded to medical devices through the 2019 amendments. See [Conditional and Time-Limited Approval](/docs/pre-market/approval-shonin/conditional-time-limited-approval).
+
+### Programme Medical Devices — further clarification
+
+The 2019 amendments updated the PMD Act provisions on Programme Medical Devices to better capture SaMD within the regulatory framework and clarify MHLW's authority to update Cabinet Order listings for software device categories.
+
+### Pharmacist and specialist requirements updated
+
+Changes to distribution licence requirements, including updated competency requirements for responsible officers at distribution businesses.
+
+## 2023 amendments — digital transformation and compliance
+
+The 2023 amendments (phased implementation from 2023 onwards) included:
+
+### Digital regulatory infrastructure
+
+Expanded requirements for digital records and electronic submissions. MHLW accelerated the shift to fully electronic submissions via PMDA's electronic gateway.
+
+### Enhanced enforcement provisions
+
+Strengthened MHLW enforcement powers, including clearer authority for MHLW to take action against non-compliant overseas parties operating through MAHs.
+
+### Clarifications to advertising provisions
+
+Updated provisions to clarify the application of advertising restrictions to digital and social media channels.
+
+## Finding the current consolidated PMD Act
+
+The current consolidated text (incorporating all amendments in effect) is maintained on [e-Gov](https://laws.e-gov.go.jp/law/335AC0000000145). When researching specific provisions, always use the e-Gov version rather than older printed or unofficial versions, as amending acts are incorporated on a rolling basis.

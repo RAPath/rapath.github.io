@@ -1,0 +1,10 @@
+{
+  "label": "Quality System (GMP / ISO 13485)",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "title": "Quality System — GMP, ICMED, ISO 13485",
+    "description": "Quality system requirements for Indian manufacturers: Schedule 5 GMP, ICMED scheme, QCO orders, CDSCO and SLA inspections, show-cause notices, and the PLI scheme.",
+    "slug": "/qms"
+  }
+}

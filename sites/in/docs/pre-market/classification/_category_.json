@@ -1,0 +1,10 @@
+{
+  "label": "Classification",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "title": "Classification",
+    "description": "How devices are classified under the Medical Devices Rules 2017: Class A-D, IVD classification, SaMD, borderline products, and Schedule I/II notified devices.",
+    "slug": "/pre-market/classification"
+  }
+}

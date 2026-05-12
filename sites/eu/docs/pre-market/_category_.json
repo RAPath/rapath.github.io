@@ -1,0 +1,10 @@
+{
+  "label": "Pre-market",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "title": "Pre-market — Getting to market",
+    "description": "Everything required to place a medical device or IVD on the EU market under MDR 2017/745 and IVDR 2017/746: classification, GSPR, technical documentation, conformity assessment, clinical evidence, UDI, and special device types.",
+    "slug": "/pre-market"
+  }
+}

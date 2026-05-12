@@ -1,0 +1,10 @@
+{
+  "label": "Clinical Evidence",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "title": "Clinical Evidence",
+    "description": "Clinical evidence requirements for medical devices under Essential Principle 14.",
+    "slug": "/pre-market/clinical-evidence"
+  }
+}

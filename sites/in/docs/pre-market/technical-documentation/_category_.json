@@ -1,0 +1,10 @@
+{
+  "label": "Technical Documentation",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "title": "Technical Documentation",
+    "description": "STED-style technical documentation for India: device description, risk management, essential principles, biocompatibility, and labelling and IFU.",
+    "slug": "/pre-market/technical-documentation"
+  }
+}

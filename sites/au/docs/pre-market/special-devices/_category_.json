@@ -1,0 +1,10 @@
+{
+  "label": "Special Device Types",
+  "position": 6,
+  "link": {
+    "type": "generated-index",
+    "title": "Special Device Types",
+    "description": "Regulatory requirements for specific categories of medical devices that have unique or additional rules.",
+    "slug": "/pre-market/special-devices"
+  }
+}

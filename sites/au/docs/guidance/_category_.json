@@ -1,0 +1,10 @@
+{
+  "label": "Guidance Documents",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "title": "Guidance Documents",
+    "description": "Official TGA guidance documents for medical devices — organised by topic and by device class. Each entry links directly to the official TGA source.",
+    "slug": "/guidance"
+  }
+}

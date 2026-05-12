@@ -1,0 +1,10 @@
+{
+  "label": "Start Here",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "title": "Start Here",
+    "description": "New to Indian medical device regulation? Start here. Definitions under the D&C Act, the CDSCO/SLA split, regulatory framework, key roles, device lifecycle, and a glossary.",
+    "slug": "/start-here"
+  }
+}

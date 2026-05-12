@@ -1,0 +1,32 @@
+---
+title: Class IV — Specially Controlled Medical Devices (Highest Risk)
+sidebar_position: 5
+---
+
+# Class IV — Specially Controlled Medical Devices (Highest Risk)
+
+Class IV is the highest-risk category of medical device under Japan's PMD Act classification system. All Class IV devices must use the Shonin (full approval) pathway — there is no Ninsho option.
+
+## Characteristics
+
+Class IV devices:
+- Are implanted in the human body for more than 30 days, OR
+- Contact the central nervous system, cardiovascular system, or vital organs and are life-sustaining/life-supporting, OR
+- Are IVDs used for blood transfusion compatibility or infectious disease screening (e.g. HIV)
+- If defective, pose a risk of death or serious irreversible injury
+
+## Examples of Class IV devices
+
+Drug-eluting stents, pacemakers, ICDs (implantable cardioverter defibrillators), artificial heart valves, cochlear implants, HIV diagnostic IVDs, SARS-CoV-2 IVDs used for blood screening, total hip and knee replacements with Class IV designation.
+
+## Regulatory pathway — Shonin only
+
+Class IV devices always require full Shonin approval. Key features:
+- Full PMDA scientific review with typically **18–24+ month** standard review timelines
+- Comprehensive clinical evidence package required — foreign clinical data may be accepted with appropriate justification
+- QMS inspection of all manufacturing sites (both domestic and foreign) as part of the approval process
+- Conditions on approval are common — e.g. requirements for post-market registry studies
+
+## Re-examination period
+
+Class IV devices are subject to a re-examination period of typically **4–7 years** (varies by device type), during which extensive post-market use-results data must be collected and submitted to MHLW.

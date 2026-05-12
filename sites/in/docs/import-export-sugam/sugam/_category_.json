@@ -1,0 +1,10 @@
+{
+  "label": "SUGAM Portal",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "title": "SUGAM Portal",
+    "description": "SUGAM account setup, submitting applications, document upload, tracking status, and fees and payment.",
+    "slug": "/import-export-sugam/sugam"
+  }
+}

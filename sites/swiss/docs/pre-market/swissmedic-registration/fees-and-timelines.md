@@ -1,0 +1,37 @@
+---
+sidebar_position: 4
+description: Swissmedic registration fees under the MedDO Fees Ordinance (SR 812.213.1) and indicative processing timelines by device class.
+keywords: [Swissmedic fees, registration fees, MedDO Fees Ordinance, Switzerland, processing timelines]
+---
+# Registration Fees and Timelines
+
+## Fee Schedule (Indicative)
+Fees are set in the **MedDO Fees Ordinance (SR 812.213.1)**. Always verify current fees on the Swissmedic website.
+
+| Registration Type | Indicative Fee Range |
+|---|---|
+| Class I notification | CHF 200–500 |
+| Class IIa registration | CHF 800–1,500 |
+| Class IIb registration | CHF 1,500–3,000 |
+| Class III registration | CHF 3,000–6,000+ |
+| Significant change notification | CHF 200–1,000 |
+
+Fees are per product group — device families with the same basic design may qualify for group registration.
+
+## Indicative Processing Timelines
+
+| Application | Indicative Processing |
+|---|---|
+| Class I notification | 2–4 weeks |
+| Class IIa registration | 6–12 weeks |
+| Class IIb registration | 8–16 weeks |
+| Class III registration | 12–24 weeks |
+
+Incomplete submissions are placed on hold pending additional information.
+
+## Official Sources
+- [MedDO Fees Ordinance (SR 812.213.1)](https://www.fedlex.admin.ch/eli/cc/2021/206/en)
+
+:::warning Disclaimer
+AI-assisted content for navigation only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
+:::
