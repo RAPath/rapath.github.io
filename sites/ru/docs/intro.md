@@ -59,4 +59,4 @@ Content on this site is community-maintained as part of the [RAPath](https://rap
 
 RAPath is an open, community-maintained medical device regulatory reference project covering multiple jurisdictions. Browse other jurisdictions at [rapath.github.io](https://rapath.github.io/).
 
-**Questions or corrections?** Use the [RAPath Hub Discussions](https://github.com/RAPath/hub/discussions) on GitHub.
+**Questions or corrections?** Use the [RAPath Hub Discussions](https://github.com/orgs/RAPath/discussions) on GitHub.
