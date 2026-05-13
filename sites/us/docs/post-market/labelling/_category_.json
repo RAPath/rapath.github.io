@@ -1,0 +1,10 @@
+{
+  "label": "Labelling & Advertising",
+  "position": 4,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "doc",
+    "id": "post-market/labelling/requirements"
+  }
+}

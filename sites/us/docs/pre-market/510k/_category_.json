@@ -1,0 +1,10 @@
+{
+  "label": "510(k) Pathway",
+  "position": 2,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "doc",
+    "id": "pre-market/510k/overview"
+  }
+}

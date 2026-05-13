@@ -1,0 +1,10 @@
+{
+  "label": "Digital Health & SaMD",
+  "position": 11,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "doc",
+    "id": "digital-health/framework"
+  }
+}

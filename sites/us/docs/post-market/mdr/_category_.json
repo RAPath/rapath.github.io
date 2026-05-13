@@ -1,0 +1,10 @@
+{
+  "label": "Medical Device Reporting (MDR)",
+  "position": 1,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "doc",
+    "id": "post-market/mdr/what-must-be-reported"
+  }
+}

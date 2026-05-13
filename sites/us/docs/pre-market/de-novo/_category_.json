@@ -1,0 +1,10 @@
+{
+  "label": "De Novo Pathway",
+  "position": 3,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "doc",
+    "id": "pre-market/de-novo/overview"
+  }
+}

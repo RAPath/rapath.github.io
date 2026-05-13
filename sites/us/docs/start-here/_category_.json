@@ -1,0 +1,10 @@
+{
+  "label": "Start Here",
+  "position": 1,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "doc",
+    "id": "start-here/what-is-a-medical-device"
+  }
+}

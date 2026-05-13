@@ -1,0 +1,10 @@
+{
+  "label": "Establishment, Listing & UDI",
+  "position": 5,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "doc",
+    "id": "establishment-udi/registration-overview"
+  }
+}
