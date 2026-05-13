@@ -180,11 +180,7 @@ export function buildSiteConfig(params: SiteParams): Config {
 
         // Set this to false for now to fix the "No Results" issue
         contextualSearch: false,
-
-        searchParameters: {
-          // This ensures it only searches within the current country site
-          facetFilters: [`docusaurus_tag:${params.siteCode}`],
-        },
+       },
       },
       prism: {
         theme: prismThemes.github,
