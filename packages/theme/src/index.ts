@@ -185,23 +185,23 @@ export function buildSiteConfig(params: SiteParams): Config {
           // This ensures it only searches within the current country site
           facetFilters: [`docusaurus_tag:${params.siteCode}`],
         },
+      },
+      prism: {
+        theme: prismThemes.github,
+        darkTheme: prismThemes.dracula,
+      },
 
-        prism: {
-          theme: prismThemes.github,
-          darkTheme: prismThemes.dracula,
+      docs: {
+        sidebar: {
+          hideable: false,
+          autoCollapseCategories: true,
         },
+      },
 
-        docs: {
-          sidebar: {
-            hideable: false,
-            autoCollapseCategories: true,
-          },
-        },
-
-        metadata: [
-          { name: 'keywords', content: params.metaKeywords },
-          { name: 'description', content: params.metaDescription },
-        ],
-      } satisfies Preset.ThemeConfig,
-    };
-  }
+      metadata: [
+        { name: 'keywords', content: params.metaKeywords },
+        { name: 'description', content: params.metaDescription },
+      ],
+    } satisfies Preset.ThemeConfig,
+  };
+}
