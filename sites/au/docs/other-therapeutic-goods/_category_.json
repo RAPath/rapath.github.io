@@ -1,0 +1,10 @@
+{
+  "label": "Other Therapeutic Goods",
+  "position": 8,
+  "link": {
+    "type": "generated-index",
+    "title": "Other Therapeutic Goods",
+    "description": "Regulatory information for therapeutic goods adjacent to medical devices — disinfectants and sterilants, tampons and menstrual cups, and a note on unapproved therapeutic goods outside the medical device framework.",
+    "slug": "/other-therapeutic-goods"
+  }
+}

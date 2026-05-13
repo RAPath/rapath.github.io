@@ -24,6 +24,7 @@ const rapathFooterColumn = {
   title: 'RAPath',
   items: [
     { label: 'All Jurisdictions', href: 'https://rapath.github.io/' },
+    { label: 'Terms',             href: 'https://rapath.github.io/terms' },
   ],
 };
 

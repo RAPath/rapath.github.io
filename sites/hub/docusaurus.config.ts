@@ -61,7 +61,23 @@ const config: Config = {
     },
     footer: {
       style: 'light',
-      links: [],
+      links: [
+        {
+          title: 'Community',
+          items: [
+            { label: 'Regulatory Updates', href: 'https://github.com/orgs/RAPath/discussions/categories/regulatory-updates' },
+            { label: 'Suggest content', href: 'https://github.com/orgs/RAPath/discussions/categories/idea' },
+            { label: 'Report an Error', href: 'https://github.com/orgs/RAPath/discussions/new?category=corrections' },
+          ],
+        },
+        {
+          title: 'RAPath',
+          items: [
+            { label: 'All Jurisdictions', to: '/#jurisdictions' },
+            { label: 'Terms', to: '/terms' },
+          ],
+        },
+      ],
       copyright:
         '<hr class="footer__disclaimer-separator" />' +
         '<div class="footer__disclaimer">' +
@@ -73,7 +89,8 @@ const config: Config = {
         '<div class="footer__copyright">' +
         'Copyright &copy; ' + new Date().getFullYear() + ' RAPath Network. ' +
         'Built with <a href="https://docusaurus.io" target="_blank" rel="noopener">Docusaurus</a> ' +
-        'and hosted on <a href="https://pages.github.com" target="_blank" rel="noopener">GitHub Pages</a>.' +
+        'and hosted on <a href="https://pages.github.com" target="_blank" rel="noopener">GitHub Pages</a>. ' +
+        '<a href="/terms">Terms of Use</a>.' +
         '</div>',
     },
     colorMode: {

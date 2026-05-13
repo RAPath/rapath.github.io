@@ -83,7 +83,7 @@ const jurisdictions = [
   },
   {
     code: 'ru', flag: '🇷🇺', name: 'Russia', reg: 'Roszdravnadzor',
-    live: false, path: '/ru/',
+    live: true, path: '/ru/',
     desc: 'GRLS state register, Class 1–3 framework, Federal Law 323-FZ.',
   },
 ];
