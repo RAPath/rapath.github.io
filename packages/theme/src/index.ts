@@ -177,7 +177,6 @@ export function buildSiteConfig(params: SiteParams): Config {
         apiKey: 'c3d2c4479d6314caa0540b8261abfe7b',
         indexName: 'rapath-' + params.siteCode,  // ← rapath-au, rapath-eu, etc.
         contextualSearch: false,
-      },
     },
     prism: {
       theme: prismThemes.github,
