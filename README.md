@@ -26,7 +26,7 @@ RAPath is an open, community-maintained reference for medical device regulation 
 | 🇲🇾 **Malaysia** | MDA | Live | [rapath.github.io/my](https://rapath.github.io/my) |
 | 🇮🇩 **Indonesia** | BPOM | Live | [rapath.github.io/id](https://rapath.github.io/id) |
 | 🇻🇳 **Vietnam** | DAV / MOH | Live | [rapath.github.io/vt](https://rapath.github.io/vt) |
-| 🇷🇺 **Russia** | Roszdravnadzor | In progress | [rapath.github.io/ru](https://rapath.github.io/ru) |
+| 🇷🇺 **Russia** | Roszdravnadzor | Live | [rapath.github.io/ru](https://rapath.github.io/ru) |
 
 ---
 
