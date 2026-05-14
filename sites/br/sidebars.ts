@@ -1,6 +1,8 @@
 import type { SidebarsConfig } from '@docusaurus/plugin-content-docs';
+
 const sidebars: SidebarsConfig = {
-  regulationSidebar: ['intro',
+  docsSidebar: [
+    'intro',
     {
       type: 'category',
       label: 'Start Here',
@@ -321,4 +323,5 @@ const sidebars: SidebarsConfig = {
     },
   ],
 };
+
 export default sidebars;

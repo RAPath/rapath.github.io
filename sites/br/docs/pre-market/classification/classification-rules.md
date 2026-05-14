@@ -15,7 +15,7 @@ keywords: [ANVISA, Brazil, medical device]
 
 | Factor | Options |
 |---|---|
-| Duration of contact | Transient (< 60 min) / Short-term (< 30 days) / Long-term (>30 days) |
+| Duration of contact | Transient (<60 min) / Short-term (<30 days) / Long-term (>30 days) |
 | Invasiveness | Non-invasive / Invasive / Surgically invasive / Implantable |
 | Active vs passive | Does the device require energy to function? |
 | Critical anatomy | Contact with central circulation, CNS → higher class |

@@ -1,0 +1,9 @@
+{
+  "label": "Recalls & Field Safety Actions",
+  "position": 4,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "When a recall is required, recall classifications, FSCAs, and ANVISA-initiated compulsory recalls."
+  }
+}

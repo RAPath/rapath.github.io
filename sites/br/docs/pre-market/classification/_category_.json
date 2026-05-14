@@ -1,0 +1,9 @@
+{
+  "label": "Classification",
+  "position": 1,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "How ANVISA classifies medical devices into Classes I\u2013IV, including IVDs and SaMD."
+  }
+}

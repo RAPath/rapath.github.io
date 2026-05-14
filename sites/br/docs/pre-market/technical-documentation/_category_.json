@@ -1,0 +1,9 @@
+{
+  "label": "Technical Documentation",
+  "position": 3,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "Device description, essential requirements, risk management, biocompatibility, and software documentation."
+  }
+}

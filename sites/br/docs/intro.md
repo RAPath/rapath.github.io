@@ -1,5 +1,4 @@
 ---
-slug: /
 sidebar_position: 1
 title: Introduction
 description: RAPath BR — a plain English reference for ANVISA medical device regulation in Brazil. What this site is, who it is for, and how to use it.
@@ -24,7 +23,7 @@ This site does not replace official ANVISA sources. Every page links back to the
 
 **Importers and distributors** — understand your AFE (Autorização de Funcionamento de Empresa), Responsável Técnico obligations, and NOTIVISA reporting duties.
 
-**Anyone new to Brazilian medical device regulation** — start with [Start Here](/start-here/what-is-a-medical-device) for a guided introduction to the ANVISA framework.
+**Anyone new to Brazilian medical device regulation** — start with [Start Here](/docs/start-here/what-is-a-medical-device) for a guided introduction to the ANVISA framework.
 
 ---
 
@@ -34,18 +33,18 @@ The site is structured around the regulatory lifecycle of a medical device in Br
 
 | Section | What it covers |
 |---|---|
-| [Start Here](/start-here/what-is-a-medical-device) | Definitions, ANVISA framework overview, who needs to comply, device lifecycle |
-| [Pre-Market](/pre-market/classification/how-classification-works) | Classification (Class I–IV), Notificação/Cadastro/Registro, clinical evidence, special device types |
-| [Post-Market](/post-market/overview) | Tecnovigilância, NOTIVISA, recalls, PMS, labelling, establishment authorisation |
-| [GMP & Quality (CBPF)](/gmp/overview) | RDC 752/2022, CBPF certificate, ANVISA inspections, CAPA, ISO 13485 alignment |
-| [Importers, Distributors & Traceability](/importers-distributors/importer-role) | AFE, Responsável Técnico, SISCOMEX, NCM codes, FSC, UDI/rastreamento |
-| [Legislation & Regulations](/legislation/primary-legislation) | Key RDCs, Leis, MERCOSUL resolutions, ABNT standards |
-| [Guidance Documents](/guidance/by-topic) | ANVISA Notas Técnicas, Q&As, Peticionamento guides, forms |
-| [Special Access & Programmes](/special-access/uso-compassivo) | Uso Compassivo, Acesso Ampliado, PDP, BNDES/FINEP |
-| [International & Comparison](/international/overview) | IMDRF, ANVISA vs FDA/TGA/CE/HC, CFG, multi-market strategy |
-| [Enforcement & Compliance](/enforcement/inspections) | ANVISA inspections, VISA overlap, fines, interdição, registration cancellation |
-| [Digital Health & SaMD](/digital-health/framework) | SaMD, AI/ML, mobile apps, cybersecurity, LGPD |
-| [What's New](/whats-new/regulatory-changes) | Recent RDC changes, draft regulations, open audiências públicas |
+| [Start Here](/docs/start-here/what-is-a-medical-device) | Definitions, ANVISA framework overview, who needs to comply, device lifecycle |
+| [Pre-Market](/docs/pre-market/classification/how-classification-works) | Classification (Class I–IV), Notificação/Cadastro/Registro, clinical evidence, special device types |
+| [Post-Market](/docs/post-market/overview) | Tecnovigilância, NOTIVISA, recalls, PMS, labelling, establishment authorisation |
+| [GMP & Quality (CBPF)](/docs/gmp/overview) | RDC 752/2022, CBPF certificate, ANVISA inspections, CAPA, ISO 13485 alignment |
+| [Importers, Distributors & Traceability](/docs/importers-distributors/importer-role) | AFE, Responsável Técnico, SISCOMEX, NCM codes, FSC, UDI/rastreamento |
+| [Legislation & Regulations](/docs/legislation/primary-legislation) | Key RDCs, Leis, MERCOSUL resolutions, ABNT standards |
+| [Guidance Documents](/docs/guidance/by-topic) | ANVISA Notas Técnicas, Q&As, Peticionamento guides, forms |
+| [Special Access & Programmes](/docs/special-access/uso-compassivo) | Uso Compassivo, Acesso Ampliado, PDP, BNDES/FINEP |
+| [International & Comparison](/docs/international/overview) | IMDRF, ANVISA vs FDA/TGA/CE/HC, CFG, multi-market strategy |
+| [Enforcement & Compliance](/docs/enforcement/inspections) | ANVISA inspections, VISA overlap, fines, interdição, registration cancellation |
+| [Digital Health & SaMD](/docs/digital-health/framework) | SaMD, AI/ML, mobile apps, cybersecurity, LGPD |
+| [What's New](/docs/whats-new/regulatory-changes) | Recent RDC changes, draft regulations, open audiências públicas |
 
 ---
 
@@ -59,7 +58,8 @@ The site is structured around the regulatory lifecycle of a medical device in Br
 
 ## Content currency
 
-This site was last reviewed in **May 2026**. ANVISA regulations change frequently — particularly following the landmark **RDC 751/2022** framework that replaced the older RDC 185/2001. Check [What's New](/whats-new/regulatory-changes) for recent updates.
+This site was last reviewed in **May 2026**. ANVISA regulations change frequently — particularly following the landmark **RDC 751/2022** framework that replaced the older RDC 185/2001. Check [What's New](/docs/whats-new/regulatory-changes) for recent updates.
 
 :::note Disclaimer
-Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisio
+Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
+:::

@@ -1,0 +1,9 @@
+{
+  "label": "Special Device Types",
+  "position": 5,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "SaMD, implantable devices, active devices, radiation-emitting, combination products, and IVDs."
+  }
+}

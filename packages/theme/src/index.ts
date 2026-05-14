@@ -175,33 +175,26 @@ export function buildSiteConfig(params: SiteParams): Config {
       algolia: {
         appId: 'BUXYGQGD2T',
         apiKey: 'c3d2c4479d6314caa0540b8261abfe7b',
-        // Use the global index name you just set up in the crawler
-        indexName: 'rapath-hub',
-
-        // Set this to false for now to fix the "No Results" issue
+        indexName: 'rapath-' + params.siteCode,  // ← rapath-au, rapath-eu, etc.
         contextualSearch: false,
-
-        searchParameters: {
-          // This ensures it only searches within the current country site
-          facetFilters: [`docusaurus_tag:${params.siteCode}`],
-        },
       },
-      prism: {
-        theme: prismThemes.github,
-        darkTheme: prismThemes.dracula,
-      },
+    },
+    prism: {
+      theme: prismThemes.github,
+      darkTheme: prismThemes.dracula,
+    },
 
-      docs: {
-        sidebar: {
-          hideable: false,
-          autoCollapseCategories: true,
-        },
+    docs: {
+      sidebar: {
+        hideable: false,
+        autoCollapseCategories: true,
       },
+    },
 
-      metadata: [
-        { name: 'keywords', content: params.metaKeywords },
-        { name: 'description', content: params.metaDescription },
-      ],
-    } satisfies Preset.ThemeConfig,
+    metadata: [
+      { name: 'keywords', content: params.metaKeywords },
+      { name: 'description', content: params.metaDescription },
+    ],
+  } satisfies Preset.ThemeConfig,
   };
 }

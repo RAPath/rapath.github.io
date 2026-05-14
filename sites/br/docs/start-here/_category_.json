@@ -1,0 +1,9 @@
+{
+  "label": "Start Here",
+  "position": 2,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "Definitions, ANVISA framework, who needs to comply, and the device lifecycle in Brazil."
+  }
+}

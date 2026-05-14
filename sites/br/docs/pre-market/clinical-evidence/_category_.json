@@ -1,0 +1,9 @@
+{
+  "label": "Clinical Evidence",
+  "position": 4,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "Clinical evaluation, investigations in Brazil (RDC 10/2015), equivalence, and IVD performance studies."
+  }
+}

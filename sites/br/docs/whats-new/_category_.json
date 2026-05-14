@@ -1,0 +1,9 @@
+{
+  "label": "What's New",
+  "position": 13,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "Recent RDC changes, draft regulations open for consultation, upcoming changes, and the ANVISA recall tracker."
+  }
+}

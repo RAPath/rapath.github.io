@@ -1,0 +1,9 @@
+{
+  "label": "Digital Health & SaMD",
+  "position": 12,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "ANVISA's digital health framework, SaMD, AI/ML, mobile health apps, cybersecurity, and LGPD."
+  }
+}
