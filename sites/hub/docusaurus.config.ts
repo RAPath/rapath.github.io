@@ -51,11 +51,16 @@ const config: Config = {
       items: [
         {
           label: 'Browse Jurisdictions',
-          to: '#jurisdictions',
+          href: '/#jurisdictions',
           position: 'left',
         },
         { href: 'https://github.com/orgs/RAPath/discussions', label: 'Q&A', position: 'left' },
         { href: 'https://github.com/RAPath', label: 'GitHub', position: 'left' },
+        {
+          to: "/tools/classifier",
+          label: "🔍 Classifier",
+          position: "right",
+        },
         { type: 'search', position: 'right' },
       ],
     },
@@ -73,7 +78,7 @@ const config: Config = {
         {
           title: 'RAPath',
           items: [
-            { label: 'All Jurisdictions', to: '/#jurisdictions' },
+            { label: 'All Jurisdictions', href: '/#jurisdictions'},
             { label: 'Terms', to: '/terms' },
           ],
         },
