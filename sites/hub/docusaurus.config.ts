@@ -106,7 +106,7 @@ const config: Config = {
     algolia: {
       appId: 'BUXYGQGD2T',
       apiKey: 'c3d2c4479d6314caa0540b8261abfe7b',
-      indexName: 'rapath-hub',
+      indexName: 'rapath.hub',
       contextualSearch: false,
     },
     prism: {
