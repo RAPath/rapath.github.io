@@ -55,13 +55,12 @@ const config: Config = {
           position: 'left',
         },
         { href: 'https://github.com/orgs/RAPath/discussions', label: 'Q&A', position: 'left' },
-        { href: 'https://github.com/RAPath', label: 'GitHub', position: 'left' },
         {
           to: "/tools/classifier",
           label: "🔍 Classifier",
           position: "right",
         },
-        { type: 'search', position: 'right' },
+        { href: 'https://github.com/RAPath', label: 'GitHub', position: 'right' },
       ],
     },
     footer: {
@@ -102,12 +101,6 @@ const config: Config = {
       defaultMode: 'light',
       disableSwitch: false,
       respectPrefersColorScheme: true,
-    },
-    algolia: {
-      appId: 'BUXYGQGD2T',
-      apiKey: 'c3d2c4479d6314caa0540b8261abfe7b',
-      indexName: 'rapath.hub',
-      contextualSearch: false,
     },
     prism: {
       theme: prismThemes.github,
