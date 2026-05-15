@@ -128,7 +128,7 @@ export function buildSiteConfig(params: SiteParams): Config {
           // Search removed — search is on the hub only (rapath.github.io)
           {
             href: 'https://rapath.github.io/tools/classifier',
-            label: '🔍 Classifier"',
+            label: '🔍 Classifier',
             position: 'right',
           },
           {
