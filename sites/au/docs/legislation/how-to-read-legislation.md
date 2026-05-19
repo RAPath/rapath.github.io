@@ -111,7 +111,7 @@ Not all subordinate legislation is in the form of Regulations. **Legislative Ins
 
 ## Related Pages
 
-- [Therapeutic Goods Act 1989](./therapeutic-goods-act)
-- [MD Regulations 2002](./md-regulations-2002)
-- [Related Instruments](./related-instruments)
-- [Regulatory Framework Overview](../start-here/regulatory-framework-overview)
+- [Therapeutic Goods Act 1989](./therapeutic-goods-act.md)
+- [MD Regulations 2002](./md-regulations-2002.md)
+- [Related Instruments](./related-instruments.md)
+- [Regulatory Framework Overview](../start-here/regulatory-framework-overview.md)

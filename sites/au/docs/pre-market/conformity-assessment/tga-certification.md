@@ -80,6 +80,6 @@ TGA conformity assessment fees apply and vary based on the conformity assessment
 
 ## Related Pages
 
-- [Conformity Assessment Overview](./overview)
-- [Comparable Overseas Regulators](./comparable-overseas-regulators)
-- [Manufacturer's Evidence](./manufacturers-evidence)
+- [Conformity Assessment Overview](./overview.md)
+- [Comparable Overseas Regulators](./comparable-overseas-regulators.md)
+- [Manufacturer's Evidence](./manufacturers-evidence.md)

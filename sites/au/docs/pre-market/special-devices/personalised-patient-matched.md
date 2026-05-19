@@ -41,4 +41,4 @@ Manufacturers of patient-matched devices that are not custom-made must:
 
 ## Related Pages
 
-- [Custom-Made Devices](./custom-made-devices)
+- [Custom-Made Devices](./custom-made-devices.md)

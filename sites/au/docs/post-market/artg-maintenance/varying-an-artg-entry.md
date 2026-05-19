@@ -82,6 +82,6 @@ Manufacturers must notify their Australian sponsor of any significant change so 
 
 ## Related Pages
 
-- [Suspension & Cancellation](./suspension-and-cancellation)
-- [Annual Charges](./annual-charges)
-- [Conditions of Inclusion](../../pre-market/artg-inclusion/conditions-of-inclusion)
+- [Suspension & Cancellation](./suspension-and-cancellation.md)
+- [Annual Charges](./annual-charges.md)
+- [Conditions of Inclusion](../../pre-market/artg-inclusion/conditions-of-inclusion.md)

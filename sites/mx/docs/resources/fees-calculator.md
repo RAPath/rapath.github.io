@@ -1,0 +1,52 @@
+---
+title: Fees & Fee Calculator Reference
+sidebar_position: 2
+description: COFEPRIS government fee reference for medical device sanitary registration and renewal in Mexico, with guidance on verifying current fees via the annual Ley Federal de Derechos.
+---
+
+# Fees & Fee Calculator Reference
+
+COFEPRIS charges mandatory government fees (*derechos*) for all medical device registration applications and renewals. Fees are set annually by the **Ley Federal de Derechos** (Federal Rights Law) and are updated each year. The figures below are a reference — always verify current fees before submitting.
+
+## New registration fees (2025 reference)
+
+| Device type | Fee (MXN) | Approx. USD |
+|---|---|---|
+| Class I Low Risk / Annex 1 | MXN 16,499 | ~USD 930 |
+| Class I | MXN 16,499 | ~USD 930 |
+| Class II | Verify current Ley Federal de Derechos | — |
+| Class III | Verify current Ley Federal de Derechos | — |
+
+## Renewal fees (2025 reference)
+
+| Device type | Renewal fee (MXN) | Approx. USD |
+|---|---|---|
+| Class I Low Risk / Class I | MXN 12,374 | ~USD 700 |
+| Class II | MXN 18,149 | ~USD 1,027 |
+| Class III | MXN 23,098 | ~USD 1,307 |
+
+## When fees are paid
+
+Fees are paid through the **DIGIPRiS** portal at the time of application submission. Proof of payment (comprobante de pago) is a required document in the submission package.
+
+## How to verify current fees
+
+1. Access the current **Ley Federal de Derechos** — published in the DOF annually (typically in December for the following year).
+2. Search for provisions relating to COFEPRIS / sanitary registration / medical devices (*dispositivos médicos*).
+3. Cross-reference with the COFEPRIS website for any in-year updates.
+
+Third-party resources such as Pure Global's fee calculator and similar tools provide indicative figures and are updated periodically — useful for planning purposes, but always verify the official source before submitting.
+
+## Fee considerations for budgeting
+
+- Fees are **per product** — each distinct device (by class and model) requires a separate registration and fee payment.
+- A **portfolio of devices** across multiple classes can represent significant total fees.
+- **Renewal fees** are lower than new registration fees.
+- **MRH service fees** (regulatory consulting or local representative services) are separate commercial charges paid to the MRH provider, not to COFEPRIS.
+
+## Related pages
+
+- [Registration fees & timelines](../premarket/registration-fees-timelines)
+- [Registration renewal](../postmarket/registration-renewal)
+- [DIGIPRiS portal](../getting-started/digiepris-portal)
+- [Useful links](useful-links)

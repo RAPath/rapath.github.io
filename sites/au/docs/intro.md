@@ -5,9 +5,20 @@ sidebar_position: 1
 slug: /
 ---
 
-# RAPath AU
+# RAPath Australia
 
 **Australian Medical Device Regulatory Reference**
+
+:::info
+
+Content is AI-assisted and intended as a navigation aid only — not legal or 
+regulatory advice, and not affiliated with the TGA or the Australian Government. 
+Always verify against official [TGA](https://www.tga.gov.au) and 
+[legislation.gov.au](https://www.legislation.gov.au) sources before making any 
+regulatory decision.
+
+:::
+
 
 RAPath AU is a plain English reference for Australian medical device regulation. It is designed for regulatory affairs professionals, sponsors, manufacturers, importers, and consultants who need to find and understand TGA requirements quickly.
 
@@ -40,6 +51,9 @@ The site is structured around the regulatory lifecycle of a medical device:
 | [Post-Market](/post-market/overview) | Adverse event reporting, recalls and PRAC, post-market surveillance, ARTG maintenance, labelling and advertising |
 | [Legislation](/legislation/therapeutic-goods-act) | The Therapeutic Goods Act, MD Regulations, related instruments, how to read legislation |
 | [Guidance](/guidance/by-topic) | Full index of TGA guidance documents by topic and device class, forms and application links |
+| [What's New](/whats-new/regulatory-changes) | Recent regulatory changes, open consultations, upcoming changes, reforms tracker |
+| [Unapproved Device Access](/unapproved-access/special-access-scheme) | SAS, authorised prescribers, clinical trials, personal importation |
+| [Other Therapeutic Goods](/other-therapeutic-goods/disinfectants-and-sterilants) | Disinfectants and sterilants, tampons and menstrual cups, unapproved medicines |
 
 ---
 
@@ -62,18 +76,9 @@ The site is structured around the regulatory lifecycle of a medical device:
 
 ---
 
-## Questions, corrections and discussions
+### Questions or corrections
 
-RAPath AU is a community reference. If you find an error, have a regulatory question, or want to discuss a recent TGA change, use GitHub Discussions:
-
-- [Ask a question](https://github.com/orgs/RAPath/discussions/new?category=questions)
-- [Report an error](https://github.com/orgs/RAPath/discussions/new?category=corrections)
-- [Discuss regulatory updates](https://github.com/orgs/RAPath/discussions/categories/regulatory-updates)
-
-Regulatory affairs professionals who flag inaccuracies are the most valuable contributors to this project.
+If you spot an error or have a question, visit 
+[GitHub Discussions](https://github.com/orgs/RAPath/discussions).
 
 ---
-
-## Disclaimer
-
-Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [TGA](https://www.tga.gov.au) and [legislation.gov.au](https://www.legislation.gov.au) sources before making regulatory decisions. This site is not affiliated with the TGA or the Australian Government. Not legal or regulatory advice.

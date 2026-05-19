@@ -86,6 +86,6 @@ Clinical evidence obligations do not end at ARTG inclusion. Manufacturers must:
 
 ## Related Pages
 
-- [Clinical Trials in Australia](./clinical-trials-in-australia)
-- [Using Overseas Clinical Data](./using-overseas-clinical-data)
-- [EP 14 — Clinical Evidence](../essential-principles/ep-7-15-design-and-construction)
+- [Clinical Trials in Australia](./clinical-trials-in-australia.md)
+- [Using Overseas Clinical Data](./using-overseas-clinical-data.md)
+- [EP 14 — Clinical Evidence](../essential-principles/ep-7-15-design-and-construction.md)

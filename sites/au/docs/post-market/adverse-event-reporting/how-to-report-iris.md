@@ -19,7 +19,7 @@ Sponsors submit adverse event reports through the TGA's online business portal. 
 👉 [TGA Business Services portal — TGA](https://www.tga.gov.au/resources/tga-business-services)
 
 **Step 2 — Complete the report**
-Provide all required information as set out on the [What Must Be Reported](./what-must-be-reported) page. Include as much device identification information as possible — ARTG number, UPI, UDI, batch/serial numbers, software version.
+Provide all required information as set out on the [What Must Be Reported](./what-must-be-reported.md) page. Include as much device identification information as possible — ARTG number, UPI, UDI, batch/serial numbers, software version.
 
 **Step 3 — Submit**
 Submit the report electronically. The TGA cannot act on verbal (telephone) reports alone — a written report is required. Upon submission, you will receive a Device Incident Report (DIR) number which is used for all follow-up communications about that report.
@@ -73,6 +73,6 @@ For urgent adverse events (imminent public health threat — 2-day reporting tim
 
 ## Related Pages
 
-- [What Must Be Reported](./what-must-be-reported)
-- [Reporting Timeframes](./reporting-timeframes)
-- [Exemptions from Reporting](./exemptions-from-reporting)
+- [What Must Be Reported](./what-must-be-reported.md)
+- [Reporting Timeframes](./reporting-timeframes.md)
+- [Exemptions from Reporting](./exemptions-from-reporting.md)

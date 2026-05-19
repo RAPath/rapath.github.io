@@ -110,6 +110,6 @@ The TGA publishes regulatory changes through:
 
 ## Related Pages
 
-- [Therapeutic Goods Act 1989](./therapeutic-goods-act)
-- [MD Regulations 2002](./md-regulations-2002)
-- [What's New](../whats-new/regulatory-changes)
+- [Therapeutic Goods Act 1989](./therapeutic-goods-act.md)
+- [MD Regulations 2002](./md-regulations-2002.md)
+- [What's New](../whats-new/regulatory-changes.md)

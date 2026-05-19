@@ -31,7 +31,7 @@ If you are an **Australian manufacturer**, you are also automatically a **sponso
 
 The **Essential Principles** (Schedule 1 of the MD Regulations) are the fundamental safety and performance requirements all medical devices must meet. Manufacturers are responsible for demonstrating compliance through appropriate evidence — there is no single mandated format, but most manufacturers use a technical file or design dossier.
 
-👉 [Essential Principles overview](../pre-market/essential-principles/overview)
+👉 [Essential Principles overview](../pre-market/essential-principles/overview.md)
 
 ### 2. Apply Conformity Assessment Procedures
 
@@ -41,7 +41,7 @@ Manufacturers must apply the conformity assessment procedures appropriate to the
 - A Declaration of Conformity
 - For higher-risk devices: a TGA-issued Conformity Assessment Certificate or equivalent overseas certification
 
-👉 [Conformity Assessment overview](../pre-market/conformity-assessment/overview)
+👉 [Conformity Assessment overview](../pre-market/conformity-assessment/overview.md)
 
 ### 3. Maintain Technical Documentation
 
@@ -95,7 +95,7 @@ If you manufacture devices in Australia and supply them domestically, you are bo
 
 ## Related Pages
 
-- [Sponsors](./sponsors)
-- [Essential Principles](../pre-market/essential-principles/overview)
-- [Conformity Assessment Overview](../pre-market/conformity-assessment/overview)
-- [Post-Market Surveillance](../post-market/post-market-surveillance/pms-requirements)
+- [Sponsors](./sponsors.md)
+- [Essential Principles](../pre-market/essential-principles/overview.md)
+- [Conformity Assessment Overview](../pre-market/conformity-assessment/overview.md)
+- [Post-Market Surveillance](../post-market/post-market-surveillance/pms-requirements.md)

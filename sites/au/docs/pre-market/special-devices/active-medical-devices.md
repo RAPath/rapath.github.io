@@ -19,7 +19,7 @@ Active devices are classified under Schedule 2, Part 2, based on their intended 
 - **Active therapeutic devices** — classified based on whether energy exchange with the patient could be hazardous (Class IIa or IIb)
 - **Active implantable devices** — now classified as Class III (following AIMD reclassification)
 
-👉 [Active & Software Devices — Classification](../classification/active-and-software-devices)
+👉 [Active & Software Devices — Classification](../classification/active-and-software-devices.md)
 
 ---
 
@@ -56,6 +56,6 @@ IEC 60601-1 is the general standard for the safety and essential performance of 
 
 ## Related Pages
 
-- [Active & Software Devices (Classification)](../classification/active-and-software-devices)
-- [Software & AI](./software-and-ai)
-- [EP 12 — Energy Source](../essential-principles/ep-7-15-design-and-construction)
+- [Active & Software Devices (Classification)](../classification/active-and-software-devices.md)
+- [Software & AI](./software-and-ai.md)
+- [EP 12 — Energy Source](../essential-principles/ep-7-15-design-and-construction.md)

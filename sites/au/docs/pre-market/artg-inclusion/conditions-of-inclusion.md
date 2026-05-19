@@ -78,6 +78,6 @@ Not all changes require a variation — the TGA publishes guidance on when a var
 
 ## Related Pages
 
-- [Overview & Process](./overview)
-- [Post-Market Overview](../../post-market/overview)
-- [Adverse Event Reporting](../../post-market/adverse-event-reporting/what-must-be-reported)
+- [Overview & Process](./overview.md)
+- [Post-Market Overview](../../post-market/overview.md)
+- [Adverse Event Reporting](../../post-market/adverse-event-reporting/what-must-be-reported.md)

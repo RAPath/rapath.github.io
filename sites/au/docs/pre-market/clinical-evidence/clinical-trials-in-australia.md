@@ -69,5 +69,5 @@ Clinical trials of medical devices must be conducted in accordance with Good Cli
 
 ## Related Pages
 
-- [What is Required](./what-is-required)
-- [Using Overseas Clinical Data](./using-overseas-clinical-data)
+- [What is Required](./what-is-required.md)
+- [Using Overseas Clinical Data](./using-overseas-clinical-data.md)

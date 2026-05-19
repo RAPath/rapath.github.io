@@ -1,0 +1,10 @@
+{
+  "label": "Legislation & Regulations",
+  "position": 8,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "The legal backbone of Mexico's medical device regulatory system — the Ley General de Salud, the Reglamento de Insumos para la Salud, and the key NOMs governing GMP, labelling, and technovigilance."
+  }
+}

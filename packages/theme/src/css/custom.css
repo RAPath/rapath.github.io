@@ -4,32 +4,45 @@
    All typography, fonts, sizing, spacing = Docusaurus/Infima defaults.
    ============================================================================= */
 
-/* 1. Import Open Sans from Google Fonts */
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+/* Import Inter from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300..800&display=swap');
 
 :root {
-  /* 2. Assign the font to Docusaurus variables */
-  /* We set both base and heading to ensure a consistent look */
-  --ifm-font-family-base: 'Open Sans', system-ui, -apple-system, sans-serif;
-  --ifm-font-family-heading: 'Open Sans', system-ui, -apple-system, sans-serif
-  
+  /* Font family */
+  --ifm-font-family-base: 'Inter', system-ui, -apple-system, sans-serif;
+  --ifm-font-family-heading: 'Inter', system-ui, -apple-system, sans-serif;
+
+  /* Font sizes */
+  --ifm-font-size-base: 16px;
+  --ifm-line-height-base: 1.65;
+
+  /* Heading scale */
+  --ifm-h1-font-size: 1.875rem;  /* slightly down from 2rem — less "shouty" */
+  --ifm-h2-font-size: 1.4rem;
+  --ifm-h3-font-size: 1.15rem;
+  --ifm-heading-font-weight: 600;  /* Inter 700 is very heavy; 600 is cleaner */
+
+  /* Sidebar */
+  --ifm-menu-link-padding-vertical: 0.3rem;
+  --ifm-sidebar-item-font-size: 0.875rem;
+
   /* Brand Colors */
-  --ifm-color-primary:          #2563eb;
-  --ifm-color-primary-dark:     #1d4ed8;
-  --ifm-color-primary-darker:   #1a44c2;
-  --ifm-color-primary-darkest:  #153898;
-  --ifm-color-primary-light:    #3b7cf6;
-  --ifm-color-primary-lighter:  #60a5fa;
+  --ifm-color-primary: #2563eb;
+  --ifm-color-primary-dark: #1d4ed8;
+  --ifm-color-primary-darker: #1a44c2;
+  --ifm-color-primary-darkest: #153898;
+  --ifm-color-primary-light: #3b7cf6;
+  --ifm-color-primary-lighter: #60a5fa;
   --ifm-color-primary-lightest: #93c5fd;
 }
 
 [data-theme='dark'] {
-  --ifm-color-primary:          #60a5fa;
-  --ifm-color-primary-dark:     #3b7cf6;
-  --ifm-color-primary-darker:   #2563eb;
-  --ifm-color-primary-darkest:  #1d4ed8;
-  --ifm-color-primary-light:    #93c5fd;
-  --ifm-color-primary-lighter:  #bfdbfe;
+  --ifm-color-primary: #60a5fa;
+  --ifm-color-primary-dark: #3b7cf6;
+  --ifm-color-primary-darker: #2563eb;
+  --ifm-color-primary-darkest: #1d4ed8;
+  --ifm-color-primary-light: #93c5fd;
+  --ifm-color-primary-lighter: #bfdbfe;
   --ifm-color-primary-lightest: #dbeafe;
 }
 

@@ -21,6 +21,7 @@ const rapathFooterColumn = {
   items: [
     { label: 'All Jurisdictions', href: 'https://rapath.github.io/#jurisdictions' },
     { label: 'Terms', href: 'https://rapath.github.io/terms' },
+    { label: 'About', href: 'https://rapath.github.io/about' },
   ],
 };
 
@@ -29,10 +30,13 @@ function buildCopyright(params: { title: string; disclaimerSourcesHtml: string }
   const year = new Date().getFullYear();
   return (
     '<hr class="footer__disclaimer-separator" />' +
-    '<strong>Disclaimer:</strong> Content on this site is written with AI assistance ' +
-    'and is intended as a navigation aid only. Always verify against official ' +
-    params.disclaimerSourcesHtml + ' sources before making regulatory decisions. ' +
-    'Not affiliated with any regulatory authority. Not legal or regulatory advice.<br/><br/>' +
+    '<strong>Disclaimer:</strong> Independent open-source project. ' +
+    'Content across all RAPath sites is written with AI assistance ' +
+    'and is intended as a navigation aid only — ' +
+    'not legal or regulatory advice, and not affiliated with any regulatory authority. ' +
+    'All content is derived from publicly available sources only. ' +
+    'Always verify against official ' + params.disclaimerSourcesHtml + ' sources ' +
+    'before making any regulatory decision.<br/><br/>' +
     'Copyright &copy; ' + year + ' ' + params.title + '. ' +
     'Built with <a href="https://docusaurus.io" target="_blank" rel="noopener">Docusaurus</a> ' +
     'and hosted on <a href="https://pages.github.com" target="_blank" rel="noopener">GitHub Pages</a>.'
@@ -127,8 +131,8 @@ export function buildSiteConfig(params: SiteParams): Config {
           },
           // Search removed — search is on the hub only (rapath.github.io)
           {
-            href: 'https://rapath.github.io/tools/classifier',
-            label: '🔍 Classifier',
+            href: 'https://rapath.github.io/tools/',
+            label: '🔍 Regulatory Tools',
             position: 'right',
           },
           {

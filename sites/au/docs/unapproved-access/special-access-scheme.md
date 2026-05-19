@@ -99,6 +99,6 @@ Adverse events involving devices accessed under SAS must still be reported to th
 
 ## Related Pages
 
-- [Authorised Prescribers](./authorised-prescribers)
-- [Clinical Trial Pathways](./clinical-trial-pathways)
-- [Personal Importation](./personal-importation)
+- [Authorised Prescribers](./authorised-prescribers.md)
+- [Clinical Trial Pathways](./clinical-trial-pathways.md)
+- [Personal Importation](./personal-importation.md)

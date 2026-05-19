@@ -1,0 +1,8 @@
+{
+  "label": "UDI",
+  "position": 9,
+  "link": {
+    "type": "generated-index",
+    "description": "Unique Device Identification (UDI) requirements under SFDA MDS-REQ 7 — data submission, labelling, and compliance timelines."
+  }
+}

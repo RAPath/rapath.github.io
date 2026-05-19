@@ -36,4 +36,4 @@ A person (other than the original manufacturer of the individual components) who
 
 ## Related Pages
 
-- [How Classification Works](../classification/how-classification-works)
+- [How Classification Works](../classification/how-classification-works.md)

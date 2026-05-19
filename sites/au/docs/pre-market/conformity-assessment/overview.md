@@ -18,12 +18,12 @@ There are two main ways a manufacturer can obtain the conformity assessment evid
 ### Pathway 1 — TGA Conformity Assessment Certification
 The manufacturer applies directly to the TGA for a Conformity Assessment Certificate. The TGA assesses the manufacturer's quality management system (QMS) and, for higher-risk devices, the product design documentation. This pathway results in TGA-issued certificates that are specific to Australian requirements.
 
-👉 [TGA Certification](./tga-certification)
+👉 [TGA Certification](./tga-certification.md)
 
 ### Pathway 2 — Comparable Overseas Regulator Evidence
 The manufacturer uses conformity assessment certificates or approvals from a recognised overseas regulator as the manufacturer evidence for an Australian ARTG application. This is the most common pathway for manufacturers who already hold CE marking, FDA clearance/approval, or other recognised overseas approvals.
 
-👉 [Comparable Overseas Regulators](./comparable-overseas-regulators)
+👉 [Comparable Overseas Regulators](./comparable-overseas-regulators.md)
 
 ---
 
@@ -80,7 +80,7 @@ MDSAP is a program that allows a single audit of a medical device manufacturer t
 
 ## Related Pages
 
-- [TGA Certification](./tga-certification)
-- [Comparable Overseas Regulators](./comparable-overseas-regulators)
-- [Manufacturer's Evidence](./manufacturers-evidence)
-- [Declaration of Conformity](./declaration-of-conformity)
+- [TGA Certification](./tga-certification.md)
+- [Comparable Overseas Regulators](./comparable-overseas-regulators.md)
+- [Manufacturer's Evidence](./manufacturers-evidence.md)
+- [Declaration of Conformity](./declaration-of-conformity.md)

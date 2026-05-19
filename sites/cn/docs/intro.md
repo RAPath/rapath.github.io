@@ -7,7 +7,7 @@ keywords: [NMPA,medical devices,China,MDSAR,regulatory affairs]
 tags: [introduction]
 ---
 
-# RAPath CN
+# RAPath China
 
 **China Medical Device Regulatory Reference — NMPA & MDSAR 2021**
 

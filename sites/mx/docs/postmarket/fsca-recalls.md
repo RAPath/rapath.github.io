@@ -1,0 +1,61 @@
+---
+title: FSCAs & Recalls
+sidebar_position: 4
+description: Field Safety Corrective Actions (FSCAs) and recalls in Mexico — when required, how to notify COFEPRIS/CNFV, and Field Safety Notice requirements.
+---
+
+# FSCAs & Recalls
+
+A **Field Safety Corrective Action (FSCA)** is an action taken by a manufacturer (or MRH in Mexico) to reduce the risk of death or serious injury associated with a medical device already placed on the market. FSCAs include recalls, modifications, exchanges, and advisory notices.
+
+## When an FSCA is required
+
+An FSCA should be initiated when:
+
+- A device defect or malfunction could cause or contribute to death or serious injury.
+- A safety-related correction is required to bring a device into compliance.
+- Clinical or post-market data reveals an unacceptable risk that requires action.
+
+The decision to initiate an FSCA should be driven by your risk management process (ISO 14971). COFEPRIS and CNFV should be **notified promptly** when an FSCA decision is made.
+
+## Types of FSCAs
+
+| FSCA type | Description |
+|---|---|
+| Recall (retiro) | Physical return of the device to the manufacturer or MRH |
+| Safety-related correction | Modification, repair, or software update to devices in the field |
+| Safety-related exchange | Replacement of a device with a corrected version |
+| User advisory | Hazard notice without product return, for manageable risks |
+
+## COFEPRIS/CNFV notification
+
+The MRH must notify **CNFV** when an FSCA is initiated:
+
+- Notification should include the FSCA rationale, scope, action plan, and timeline.
+- COFEPRIS may coordinate with international regulators if the issue affects other markets.
+- COFEPRIS may initiate its own **mandatory recall action** if it deems the risk warrants regulatory intervention.
+
+## Field Safety Notice (FSN)
+
+A **Field Safety Notice** is the written communication sent to customers, distributors, and healthcare facilities when an FSCA is undertaken. The FSN must:
+
+- Clearly identify the affected device (name, model, serial numbers or lot numbers, date of manufacture range).
+- Describe the hazard and the action required.
+- Provide instructions for the customer (return, stop use, apply correction, etc.).
+- Include contact information for the MRH.
+- Be drafted in **Spanish** for the Mexican market.
+
+## Record-keeping
+
+All FSCA activities must be documented and included in the **Technovigilance Report** submitted at registration renewal. Records should include:
+- The decision-making process for initiating the FSCA.
+- List of affected devices (by serial or lot number).
+- Customer contacts and responses.
+- Effectiveness checks — confirmation that the FSCA reached all affected customers.
+
+## Related pages
+
+- [Adverse event reporting](adverse-event-reporting)
+- [Technovigilance overview](technovigilance-overview)
+- [NOM-240 technovigilance](../legislation/nom-240-technovigilance)
+- [Enforcement & compliance](../international/imdrf-membership)

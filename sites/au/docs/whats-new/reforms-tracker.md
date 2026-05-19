@@ -33,7 +33,7 @@ A consolidated quick-reference for regulatory reforms affecting Australian medic
 | **AIMD → Class III commenced** | 25 November 2021 | New active implantable applications classified as Class III | [TGA](https://www.tga.gov.au/resources/guidance/reclassifying-active-implantable-medical-devices-aimd) |
 
 ---
-
+<!-- 
 ## Action Required — Imminent Deadlines
 
 | Reform | Deadline | Action |
@@ -72,7 +72,7 @@ A consolidated quick-reference for regulatory reforms affecting Australian medic
 | Clinical trial oversight — high-risk implantables | Under consultation | CTA may be required for novel permanently-implantable first-in-human devices |
 | Essential Principles alignment with EU MDR GSPRs | Signalled; no timeline | Would require consultation + legislative change |
 
----
+--- -->
 
 ## How to Track Changes
 
@@ -85,6 +85,6 @@ A consolidated quick-reference for regulatory reforms affecting Australian medic
 
 ## Related Pages
 
-- [Recent Regulatory Changes](./regulatory-changes)
-- [Open Consultations](./open-consultations)
-- [Upcoming Changes](./upcoming-changes)
+- [Recent Regulatory Changes](./regulatory-changes.md)
+- [Open Consultations](./open-consultations.md)
+- [Upcoming Changes](./upcoming-changes.md)

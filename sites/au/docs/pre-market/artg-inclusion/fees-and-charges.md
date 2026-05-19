@@ -72,5 +72,5 @@ Where a manufacturer applies for TGA conformity assessment certification and sub
 
 ## Related Pages
 
-- [Overview & Process](./overview)
-- [Conditions of Inclusion](./conditions-of-inclusion)
+- [Overview & Process](./overview.md)
+- [Conditions of Inclusion](./conditions-of-inclusion.md)

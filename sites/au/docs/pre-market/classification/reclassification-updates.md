@@ -71,7 +71,7 @@ Subscribe to TGA updates to receive notifications of regulatory changes:
 
 ## Related Pages
 
-- [How Classification Works](./how-classification-works)
-- [Class I, IIa, IIb, III & AIMD](./class-i-iia-iib-iii-aimd)
-- [Active & Software Devices](./active-and-software-devices)
-- [What's New](../../whats-new/regulatory-changes)
+- [How Classification Works](./how-classification-works.md)
+- [Class I, IIa, IIb, III & AIMD](./class-i-iia-iib-iii-aimd.md)
+- [Active & Software Devices](./active-and-software-devices.md)
+- [What's New](../../whats-new/regulatory-changes.md)

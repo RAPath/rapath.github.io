@@ -49,7 +49,7 @@ The complete text of all 15 Essential Principles — the safety and performance 
 - **Part 1** — General Principles (EP 1–6): apply to all devices
 - **Part 2** — Design and Construction Principles (EP 7–15): apply case by case
 
-👉 [Essential Principles Overview](../pre-market/essential-principles/overview)
+👉 [Essential Principles Overview](../pre-market/essential-principles/overview.md)
 👉 [Schedule 1](https://www.legislation.gov.au/current/F2002B00237)
 
 ---
@@ -67,7 +67,7 @@ Rules specific to active medical devices (including software), based on the type
 **Part 3 — Special classification rules**
 Rules that override the general rules for specific device types — including devices containing animal tissues, devices for family planning, and disinfectants.
 
-👉 [How Classification Works](../pre-market/classification/how-classification-works)
+👉 [How Classification Works](../pre-market/classification/how-classification-works.md)
 👉 [Schedule 2](https://www.legislation.gov.au/current/F2002B00237)
 
 ---
@@ -76,7 +76,7 @@ Rules that override the general rules for specific device types — including de
 
 The classification rules specifically for in vitro diagnostic medical devices. IVDs are classified (Class 1–4) based on their risk to individual patients and to public health, the analyte being measured, and whether the test is a self-test or point-of-care test.
 
-👉 [IVD Class 1–4](../pre-market/classification/ivd-class-1-2-3-4)
+👉 [IVD Class 1–4](../pre-market/classification/ivd-class-1-2-3-4.md)
 👉 [Schedule 2A — legislation.gov.au](https://www.legislation.gov.au/current/F2002B00237)
 
 ---
@@ -96,7 +96,7 @@ The detailed conformity assessment procedures that manufacturers must apply. Sch
 | **Part 6A** | Procedures for IVDs | IVD-specific conformity assessment |
 | **Part 7** | Systems and Procedure Packs | SOPPs |
 
-👉 [Conformity Assessment Overview](../pre-market/conformity-assessment/overview)
+👉 [Conformity Assessment Overview](../pre-market/conformity-assessment/overview.md)
 👉 [Schedule 3 — legislation.gov.au](https://www.legislation.gov.au/current/F2002B00237)
 
 ---
@@ -144,8 +144,8 @@ The requirement to maintain distribution records sufficient to enable an effecti
 
 ## Related Pages
 
-- [Therapeutic Goods Act 1989](./therapeutic-goods-act)
-- [Related Instruments & Determinations](./related-instruments)
-- [How to Read Legislation](./how-to-read-legislation)
-- [Essential Principles](../pre-market/essential-principles/overview)
-- [Classification](../pre-market/classification/how-classification-works)
+- [Therapeutic Goods Act 1989](./therapeutic-goods-act.md)
+- [Related Instruments & Determinations](./related-instruments.md)
+- [How to Read Legislation](./how-to-read-legislation.md)
+- [Essential Principles](../pre-market/essential-principles/overview.md)
+- [Classification](../pre-market/classification/how-classification-works.md)

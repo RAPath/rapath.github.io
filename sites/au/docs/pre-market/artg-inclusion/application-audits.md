@@ -84,6 +84,6 @@ To reduce the likelihood of audit delays:
 
 ## Related Pages
 
-- [Overview & Process](./overview)
-- [By Device Class](./by-device-class)
-- [Comparable Overseas Regulators](../conformity-assessment/comparable-overseas-regulators)
+- [Overview & Process](./overview.md)
+- [By Device Class](./by-device-class.md)
+- [Comparable Overseas Regulators](../conformity-assessment/comparable-overseas-regulators.md)

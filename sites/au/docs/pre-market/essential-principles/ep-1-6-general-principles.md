@@ -79,6 +79,6 @@ Essential Principles 1 to 6 are the **general principles** that apply to all med
 
 ## Related Pages
 
-- [Overview — All 15 EPs](./overview)
-- [EP 7–15 Design & Construction](./ep-7-15-design-and-construction)
-- [Checklist & Compliance](./checklist-and-compliance)
+- [Overview — All 15 EPs](./overview.md)
+- [EP 7–15 Design & Construction](./ep-7-15-design-and-construction.md)
+- [Checklist & Compliance](./checklist-and-compliance.md)

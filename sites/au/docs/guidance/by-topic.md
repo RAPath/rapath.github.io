@@ -134,5 +134,5 @@ The **Australian Regulatory Guidelines for Medical Devices (ARGMD)** is the TGA'
 
 ## Related Pages
 
-- [Guidance by Device Class](./by-device-class)
+- [Guidance by Device Class](./by-device-class.md)
 - [ARGMD Index — TGA (official)](https://www.tga.gov.au/products/medical-devices/overview/australian-regulatory-guidelines-medical-devices-argmd)

@@ -108,7 +108,7 @@ In addition to the core Act and MD Regulations, the following may be relevant de
 
 ## Related Pages
 
-- [What is a Medical Device?](./what-is-a-medical-device)
-- [Who Needs to Comply?](./who-needs-to-comply)
-- [Lifecycle of a Medical Device](./lifecycle-of-a-medical-device)
-- [Legislation & Regulations](../legislation/therapeutic-goods-act)
+- [What is a Medical Device?](./what-is-a-medical-device.md)
+- [Who Needs to Comply?](./who-needs-to-comply.md)
+- [Lifecycle of a Medical Device](./lifecycle-of-a-medical-device.md)
+- [Legislation & Regulations](../legislation/therapeutic-goods-act.md)

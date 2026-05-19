@@ -79,6 +79,6 @@ After an ARTG entry is cancelled (voluntarily or by the TGA):
 
 ## Related Pages
 
-- [Varying an ARTG Entry](./varying-an-artg-entry)
-- [Annual Charges](./annual-charges)
-- [TGA-Initiated Actions](../recalls-and-field-safety/tga-initiated-actions)
+- [Varying an ARTG Entry](./varying-an-artg-entry.md)
+- [Annual Charges](./annual-charges.md)
+- [TGA-Initiated Actions](../recalls-and-field-safety/tga-initiated-actions.md)

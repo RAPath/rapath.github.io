@@ -77,7 +77,7 @@ The line between a medical device and a non-regulated product depends almost ent
 
 ## Related Pages
 
-- [What is a Medical Device?](./what-is-a-medical-device)
-- [Software and AI Medical Devices](../pre-market/special-devices/software-and-ai)
-- [Regulatory Framework Overview](./regulatory-framework-overview)
-- [Glossary of Key Terms](./glossary)
+- [What is a Medical Device?](./what-is-a-medical-device.md)
+- [Software and AI Medical Devices](../pre-market/special-devices/software-and-ai.md)
+- [Regulatory Framework Overview](./regulatory-framework-overview.md)
+- [Glossary of Key Terms](./glossary.md)

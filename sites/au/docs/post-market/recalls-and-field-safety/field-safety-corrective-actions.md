@@ -81,6 +81,6 @@ The PRAC reduces the recall process to five key steps:
 
 ## Related Pages
 
-- [When a Recall is Required](./when-a-recall-is-required)
-- [Recall Classifications & Levels](./recall-classifications-and-levels)
-- [TGA-Initiated Actions](./tga-initiated-actions)
+- [When a Recall is Required](./when-a-recall-is-required.md)
+- [Recall Classifications & Levels](./recall-classifications-and-levels.md)
+- [TGA-Initiated Actions](./tga-initiated-actions.md)

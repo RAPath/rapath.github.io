@@ -24,7 +24,7 @@ Key manufacturer obligations include:
 - Monitoring the device's performance post-market
 - Reporting adverse events (through the sponsor)
 
-👉 [Detailed page: Manufacturers](./manufacturers)
+👉 [Detailed page: Manufacturers](./manufacturers.md)
 
 ### Sponsor
 
@@ -37,7 +37,7 @@ Key sponsor obligations include:
 - Managing recalls and field safety corrective actions
 - Maintaining distribution records
 
-👉 [Detailed page: Sponsors](./sponsors)
+👉 [Detailed page: Sponsors](./sponsors.md)
 
 ---
 
@@ -47,13 +47,13 @@ Key sponsor obligations include:
 
 In many supply chains, an importer brings goods into Australia but is not the sponsor. However, if you import a medical device for supply in Australia and you are the first point of supply, you are likely the **sponsor** — not merely an importer. The distinction matters because sponsor obligations are significantly more extensive than those of a downstream distributor. If you import a device that already has an ARTG entry held by someone else, you are generally a distributor rather than a sponsor.
 
-👉 [Detailed page: Importers](./importers-and-distributors)
+👉 [Detailed page: Importers](./importers-and-distributors.md)
 
 ### Consultants and Regulatory Affairs Professionals
 
 Regulatory consultants and RA professionals assist manufacturers and sponsors to understand and meet their obligations. They do not themselves hold regulatory responsibility — that remains with the manufacturer and sponsor. However, their advice directly shapes whether their clients comply with the law. This site is designed with RA professionals as a primary audience: a reliable, well-structured reference for the regulatory requirements you navigate daily.
 
-👉 [Detailed page: Consultants & Auditors](./consultants-and-auditors)
+👉 [Detailed page: Consultants & Auditors](./consultants-and-auditors.md)
 
 ### Health Professionals
 
@@ -90,8 +90,8 @@ The penalties apply equally to manufacturers, sponsors, and importers depending 
 
 ## Related Pages
 
-- [Manufacturers](./manufacturers)
-- [Sponsors](./sponsors)
-- [Importers and Distributors](./importers-and-distributors)
-- [Consultants & Auditors](./consultants-and-auditors)
-- [Lifecycle of a Medical Device](./lifecycle-of-a-medical-device)
+- [Manufacturers](./manufacturers.md)
+- [Sponsors](./sponsors.md)
+- [Importers and Distributors](./importers-and-distributors.md)
+- [Consultants & Auditors](./consultants-and-auditors.md)
+- [Lifecycle of a Medical Device](./lifecycle-of-a-medical-device.md)

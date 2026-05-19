@@ -91,6 +91,6 @@ The **Database for Recalls, Product Alerts and Product Corrections (DRAC)** — 
 
 ## Related Pages
 
-- [When a Recall is Required](./when-a-recall-is-required)
-- [Field Safety Corrective Actions](./field-safety-corrective-actions)
-- [TGA-Initiated Actions](./tga-initiated-actions)
+- [When a Recall is Required](./when-a-recall-is-required.md)
+- [Field Safety Corrective Actions](./field-safety-corrective-actions.md)
+- [TGA-Initiated Actions](./tga-initiated-actions.md)

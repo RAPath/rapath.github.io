@@ -1,0 +1,10 @@
+{
+  "label": "Device Classification",
+  "position": 3,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "How COFEPRIS classifies medical devices into Class I, II, and III, the 2025 Annex system for low-risk and exempt devices, and special categories including IVDs and SaMD."
+  }
+}

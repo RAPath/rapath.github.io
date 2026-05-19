@@ -68,6 +68,6 @@ Healthcare facilities are encouraged to submit batch reports on the first busine
 
 ## Related Pages
 
-- [What Must Be Reported](./what-must-be-reported)
-- [How to Report (IRIS)](./how-to-report-iris)
-- [Exemptions from Reporting](./exemptions-from-reporting)
+- [What Must Be Reported](./what-must-be-reported.md)
+- [How to Report (IRIS)](./how-to-report-iris.md)
+- [Exemptions from Reporting](./exemptions-from-reporting.md)

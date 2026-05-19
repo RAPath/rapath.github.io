@@ -70,7 +70,7 @@ Using overseas regulator evidence does not automatically avoid an audit. Class I
 
 ## Related Pages
 
-- [Conformity Assessment Overview](./overview)
-- [TGA Certification](./tga-certification)
-- [Manufacturer's Evidence](./manufacturers-evidence)
-- [Application Audits](../artg-inclusion/application-audits)
+- [Conformity Assessment Overview](./overview.md)
+- [TGA Certification](./tga-certification.md)
+- [Manufacturer's Evidence](./manufacturers-evidence.md)
+- [Application Audits](../artg-inclusion/application-audits.md)

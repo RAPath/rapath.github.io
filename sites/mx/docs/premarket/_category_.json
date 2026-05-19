@@ -1,0 +1,10 @@
+{
+  "label": "Pre-Market",
+  "position": 4,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "Getting a medical device to market in Mexico — sanitary registration routes, technical dossier requirements, clinical evidence, and submission through DIGIPRiS."
+  }
+}

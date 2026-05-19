@@ -38,4 +38,4 @@ Not all exports require ARTG inclusion. If a manufacturer has a direct export ar
 
 ## Related Pages
 
-- [ARTG Inclusion Overview](../artg-inclusion/overview)
+- [ARTG Inclusion Overview](../artg-inclusion/overview.md)

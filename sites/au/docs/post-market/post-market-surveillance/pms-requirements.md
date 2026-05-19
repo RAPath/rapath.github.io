@@ -75,6 +75,6 @@ PMS does not exist in isolation — it connects directly to:
 
 ## Related Pages
 
-- [Annual Reports](./annual-reports)
-- [Distribution Records](./distribution-records)
-- [Adverse Event Reporting](../adverse-event-reporting/what-must-be-reported)
+- [Annual Reports](./annual-reports.md)
+- [Distribution Records](./distribution-records.md)
+- [Adverse Event Reporting](../adverse-event-reporting/what-must-be-reported.md)

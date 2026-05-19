@@ -56,8 +56,8 @@ const config: Config = {
         },
         { href: 'https://github.com/orgs/RAPath/discussions', label: 'Q&A', position: 'left' },
         {
-          to: "/tools/classifier",
-          label: "🔍 Classifier",
+          to: "/tools/",
+          label: "🔍 Regulatory Tools",
           position: "right",
         },
         { href: 'https://github.com/RAPath', label: 'GitHub', position: 'right' },
@@ -77,18 +77,21 @@ const config: Config = {
         {
           title: 'RAPath',
           items: [
-            { label: 'All Jurisdictions', href: '/#jurisdictions'},
-            { label: 'Terms', to: '/terms' },
+            { label: 'All Jurisdictions', href: '/#jurisdictions' },
+            { label: 'Terms', href: 'https://rapath.github.io/terms' },
+            { label: 'About', href: 'https://rapath.github.io/about' },
           ],
         },
       ],
       copyright:
         '<hr class="footer__disclaimer-separator" />' +
         '<div class="footer__disclaimer">' +
-        '<strong>Disclaimer:</strong> Content across all RAPath sites is written with AI assistance ' +
-        'and is intended as a navigation aid only. Always verify against official regulatory ' +
-        'sources before making any regulatory decisions. Not affiliated with any regulatory authority. ' +
-        'Not legal or regulatory advice.' +
+        '<strong>Disclaimer:</strong> Independent open-source project. ' +
+        'Content across all RAPath sites is written with AI assistance ' +
+        'and is intended as a navigation aid only. ' +
+        'All content is derived from publicly available sources only. ' +
+        'Always verify against official regulatory sources before making any regulatory decisions. ' +
+        'Not affiliated with any regulatory authority. Not legal or regulatory advice.' +
         '</div>' +
         '<div class="footer__copyright">' +
         'Copyright &copy; ' + new Date().getFullYear() + ' RAPath Network. ' +

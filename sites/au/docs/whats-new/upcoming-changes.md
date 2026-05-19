@@ -126,6 +126,6 @@ EU MDD certificates are progressively expiring and being replaced by EU MDR cert
 
 ## Related Pages
 
-- [Recent Regulatory Changes](./regulatory-changes)
-- [Open Consultations](./open-consultations)
-- [Reforms Tracker](./reforms-tracker)
+- [Recent Regulatory Changes](./regulatory-changes.md)
+- [Open Consultations](./open-consultations.md)
+- [Reforms Tracker](./reforms-tracker.md)

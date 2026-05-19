@@ -7,7 +7,7 @@ last_reviewed: 2026-04-30
 
 ## Overview
 
-While most TGA guidance applies across device classes, some guidance is specific to particular classes or risk levels. This page organises key guidance by device class to help you quickly find what's most relevant to your device. For the full guidance index, see [All Guidance by Topic](./by-topic).
+While most TGA guidance applies across device classes, some guidance is specific to particular classes or risk levels. This page organises key guidance by device class to help you quickly find what's most relevant to your device. For the full guidance index, see [All Guidance by Topic](./by-topic.md).
 
 ---
 
@@ -163,6 +163,6 @@ Guidance that applies regardless of classification:
 
 ## Related Pages
 
-- [All Guidance by Topic](./by-topic)
+- [All Guidance by Topic](./by-topic.md)
 - [ARGMD Index — TGA (official)](https://www.tga.gov.au/products/medical-devices/overview/australian-regulatory-guidelines-medical-devices-argmd)
 - [Standards, guidelines and publications — TGA](https://www.tga.gov.au/products/medical-devices/overview/standards-guidelines-and-publications-medical-devices-and-ivds)

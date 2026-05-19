@@ -65,5 +65,5 @@ UDI requirements apply progressively to medical devices, with implantable device
 
 ## Related Pages
 
-- [Class I, IIa, IIb, III & AIMD](../classification/class-i-iia-iib-iii-aimd)
-- [Post-Market Surveillance](../../post-market/post-market-surveillance/pms-requirements)
+- [Class I, IIa, IIb, III & AIMD](../classification/class-i-iia-iib-iii-aimd.md)
+- [Post-Market Surveillance](../../post-market/post-market-surveillance/pms-requirements.md)

@@ -70,6 +70,6 @@ Before importing or distributing a medical device in Australia, confirm:
 
 ## Related Pages
 
-- [Who Needs to Comply?](./who-needs-to-comply)
-- [Sponsors](./sponsors)
-- [ARTG Inclusion Overview](../pre-market/artg-inclusion/overview)
+- [Who Needs to Comply?](./who-needs-to-comply.md)
+- [Sponsors](./sponsors.md)
+- [ARTG Inclusion Overview](../pre-market/artg-inclusion/overview.md)

@@ -6,7 +6,7 @@ description: RAPath BR — a plain English reference for ANVISA medical device r
 keywords: [ANVISA, medical devices, Brazil, regulatory, RDC 751, CBPF, regulatory affairs]
 ---
 
-# RAPath BR
+# RAPath Brazil
 
 **ANVISA Medical Device Regulatory Reference**
 

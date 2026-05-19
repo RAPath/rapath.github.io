@@ -140,7 +140,7 @@ From **1 July 2024**, new classification and conformity assessment requirements 
 
 ## Related Pages
 
-- [Open Consultations](./open-consultations)
-- [Upcoming Changes](./upcoming-changes)
-- [Reforms Tracker](./reforms-tracker)
+- [Open Consultations](./open-consultations.md)
+- [Upcoming Changes](./upcoming-changes.md)
+- [Reforms Tracker](./reforms-tracker.md)
 - [Recent Amendments (Legislation)](/docs/legislation/recent-amendments)

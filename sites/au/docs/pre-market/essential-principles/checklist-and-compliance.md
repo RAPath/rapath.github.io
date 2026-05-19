@@ -94,7 +94,7 @@ Changes that affect EP compliance must be reflected in updated technical documen
 
 ## Related Pages
 
-- [Overview — All 15 EPs](./overview)
-- [EP 1–6 General Principles](./ep-1-6-general-principles)
-- [EP 7–15 Design & Construction](./ep-7-15-design-and-construction)
-- [Conformity Assessment Overview](../conformity-assessment/overview)
+- [Overview — All 15 EPs](./overview.md)
+- [EP 1–6 General Principles](./ep-1-6-general-principles.md)
+- [EP 7–15 Design & Construction](./ep-7-15-design-and-construction.md)
+- [Conformity Assessment Overview](../conformity-assessment/overview.md)

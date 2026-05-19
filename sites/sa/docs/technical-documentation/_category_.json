@@ -1,0 +1,8 @@
+{
+  "label": "Technical Documentation",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "Technical File Assessment (TFA) requirements — Essential Principles, device description, risk management, clinical evaluation, and Declaration of Conformity."
+  }
+}

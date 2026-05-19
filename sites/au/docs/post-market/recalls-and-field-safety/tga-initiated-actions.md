@@ -75,6 +75,6 @@ When the TGA initiates or directs a market action, sponsors must cooperate fully
 
 ## Related Pages
 
-- [When a Recall is Required](./when-a-recall-is-required)
-- [Recall Classifications & Levels](./recall-classifications-and-levels)
-- [Adverse Event Reporting — What Must Be Reported](../adverse-event-reporting/what-must-be-reported)
+- [When a Recall is Required](./when-a-recall-is-required.md)
+- [Recall Classifications & Levels](./recall-classifications-and-levels.md)
+- [Adverse Event Reporting — What Must Be Reported](../adverse-event-reporting/what-must-be-reported.md)

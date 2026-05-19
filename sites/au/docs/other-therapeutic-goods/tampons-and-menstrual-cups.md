@@ -97,4 +97,4 @@ All labelling must be in English. Products with labelling only in other language
 - [How Classification Works](/docs/pre-market/classification/how-classification-works)
 - [Class IIa](/docs/pre-market/classification/class-i-iia-iib-iii-aimd)
 - [Essential Principles — EP 7 and EP 8](/docs/pre-market/essential-principles/ep-7-15-design-and-construction)
-- [Disinfectants and Sterilants](./disinfectants-and-sterilants)
+- [Disinfectants and Sterilants](./disinfectants-and-sterilants.md)

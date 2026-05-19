@@ -1,0 +1,10 @@
+{
+  "label": "International & Latin America",
+  "position": 11,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "Mexico's place in the global regulatory landscape — IMDRF membership, PANDRH harmonisation, MDSAP recognition, and how COFEPRIS compares to other major regulators."
+  }
+}

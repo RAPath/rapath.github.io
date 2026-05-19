@@ -81,7 +81,7 @@ The TGA provides an interactive decision tool:
 
 ## Related Pages
 
-- [What is Not a Medical Device?](./what-is-not-a-medical-device)
-- [How Classification Works](../pre-market/classification/how-classification-works)
-- [Glossary of Key Terms](./glossary)
-- [Who Needs to Comply?](./who-needs-to-comply)
+- [What is Not a Medical Device?](./what-is-not-a-medical-device.md)
+- [How Classification Works](../pre-market/classification/how-classification-works.md)
+- [Glossary of Key Terms](./glossary.md)
+- [Who Needs to Comply?](./who-needs-to-comply.md)

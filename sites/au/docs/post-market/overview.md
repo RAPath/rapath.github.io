@@ -53,12 +53,12 @@ Two significant changes have affected post-market obligations recently:
 **1. PRAC (March 2025)**
 The Procedure for Recalls, Product Alerts and Product Corrections (PRAC) replaced the Uniform Recall Procedure for Therapeutic Goods (URPTG) from 5 March 2025. The PRAC simplifies recall terminology and reduces the number of procedural steps from 10 to 5.
 
-👉 [Recalls & Field Safety](./recalls-and-field-safety/01-when-a-recall-is-required)
+👉 [Recalls & Field Safety](./recalls-and-field-safety/when-a-recall-is-required.md)
 
 **2. Mandatory Adverse Event Reporting by Healthcare Facilities (March 2025 onwards)**
 From 21 March 2025 a 12-month voluntary reporting period commenced for healthcare facilities. From 21 March 2026, healthcare facilities must mandatorily report adverse events involving high-risk devices. This expands the reporting ecosystem beyond sponsors — sponsors should be aware that adverse events may now be reported by hospitals directly to the TGA, and should ensure their own investigation processes are robust.
 
-👉 [Adverse Event Reporting](./adverse-event-reporting/01-what-must-be-reported)
+👉 [Adverse Event Reporting](./adverse-event-reporting/what-must-be-reported.md)
 
 ---
 
@@ -72,8 +72,8 @@ From 21 March 2025 a 12-month voluntary reporting period commenced for healthcar
 
 ## Related Pages
 
-- [Adverse Event Reporting](./adverse-event-reporting/01-what-must-be-reported)
-- [Recalls & Field Safety](./recalls-and-field-safety/01-when-a-recall-is-required)
-- [Post-Market Surveillance](./post-market-surveillance/01-pms-requirements)
-- [ARTG Maintenance](./artg-maintenance/01-varying-an-artg-entry)
-- [Labelling & Advertising](./labelling-and-advertising/01-labelling-requirements)
+- [Adverse Event Reporting](./adverse-event-reporting/what-must-be-reported.md)
+- [Recalls & Field Safety](./recalls-and-field-safety/when-a-recall-is-required.md)
+- [Post-Market Surveillance](./post-market-surveillance/pms-requirements.md)
+- [ARTG Maintenance](./artg-maintenance/varying-an-artg-entry.md)
+- [Labelling & Advertising](./labelling-and-advertising/labelling-requirements.md)

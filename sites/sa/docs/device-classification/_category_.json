@@ -1,0 +1,8 @@
+{
+  "label": "Device Classification",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "SFDA risk-based classification for medical devices and IVDs — Class A, B, C, and D — under MDS-REQ 1 and MDS-G008."
+  }
+}

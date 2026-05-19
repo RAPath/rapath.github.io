@@ -1,7 +1,7 @@
 # RAPath
 **Medical Device Regulatory Reference — Plain English. Properly sourced.**
 
-RAPath is an open, community-maintained reference for medical device regulation across 16+ jurisdictions. Every page is written in plain English, links back to the authoritative legislative or regulatory source, and is openly available to anyone who needs it.
+RAPath is an independent open-source reference for medical device regulation across 19 jurisdictions. Every page is written in plain English, links back to the authoritative legislative or regulatory source, and is openly available to anyone who needs it.
 
 🌐 [rapath.github.io](https://rapath.github.io)
 
@@ -12,21 +12,24 @@ RAPath is an open, community-maintained reference for medical device regulation 
 | Jurisdiction | Regulator | Status | URL |
 | :--- | :--- | :--- | :--- |
 | 🇦🇺 **Australia** | TGA | Live | [rapath.github.io/au](https://rapath.github.io/au) |
+| 🇳🇿 **New Zealand** | Medsafe | Live | [rapath.github.io/nz](https://rapath.github.io/nz) |
 | 🇪🇺 **European Union** | MDR & IVDR | Live | [rapath.github.io/eu](https://rapath.github.io/eu) |
-| 🇨🇦 **Canada** | Health Canada | Live | [rapath.github.io/hc](https://rapath.github.io/hc) |
-| 🇸🇬 **Singapore** | HSA | Live | [rapath.github.io/sg](https://rapath.github.io/sg) |
 | 🇬🇧 **United Kingdom** | MHRA | Live | [rapath.github.io/uk](https://rapath.github.io/uk) |
-| 🇺🇸 **United States** | FDA | Live | [rapath.github.io/us](https://rapath.github.io/us) |
-| 🇯🇵 **Japan** | PMDA | Live | [rapath.github.io/jp](https://rapath.github.io/jp) |
 | 🇨🇭 **Switzerland** | Swissmedic | Live | [rapath.github.io/swiss](https://rapath.github.io/swiss) |
-| 🇨🇳 **China** | NMPA | Live| [rapath.github.io/cn](https://rapath.github.io/cn) |
-| 🇮🇳 **India** | CDSCO | Live | [rapath.github.io/in](https://rapath.github.io/in) |
+| 🇨🇦 **Canada** | Health Canada | Live | [rapath.github.io/hc](https://rapath.github.io/hc) |
+| 🇺🇸 **United States** | FDA | Live | [rapath.github.io/us](https://rapath.github.io/us) |
+| 🇲🇽 **Mexico** | COFEPRIS | Live | [rapath.github.io/mx](https://rapath.github.io/mx) |
+| 🇧🇷 **Brazil** | ANVISA | Live | [rapath.github.io/br](https://rapath.github.io/br) |
+| 🇯🇵 **Japan** | PMDA | Live | [rapath.github.io/jp](https://rapath.github.io/jp) |
+| 🇨🇳 **China** | NMPA | Live | [rapath.github.io/cn](https://rapath.github.io/cn) |
 | 🇰🇷 **South Korea** | MFDS | Live | [rapath.github.io/kr](https://rapath.github.io/kr) |
-| 🇧🇷 **Brazil** | ANVISA | Lives | [rapath.github.io/br](https://rapath.github.io/br) |
+| 🇮🇳 **India** | CDSCO | Live | [rapath.github.io/in](https://rapath.github.io/in) |
+| 🇸🇬 **Singapore** | HSA | Live | [rapath.github.io/sg](https://rapath.github.io/sg) |
 | 🇲🇾 **Malaysia** | MDA | Live | [rapath.github.io/my](https://rapath.github.io/my) |
 | 🇮🇩 **Indonesia** | BPOM | Live | [rapath.github.io/id](https://rapath.github.io/id) |
 | 🇻🇳 **Vietnam** | DAV / MOH | Live | [rapath.github.io/vt](https://rapath.github.io/vt) |
 | 🇷🇺 **Russia** | Roszdravnadzor | Live | [rapath.github.io/ru](https://rapath.github.io/ru) |
+| 🇸🇦 **Saudi Arabia** | SFDA | Live | [rapath.github.io/sa](https://rapath.github.io/sa) |
 
 ---
 
@@ -44,6 +47,24 @@ RAPath sits between official sources and the reader — structured, searchable, 
 
 ---
 
+## Regulatory Tools
+
+RAPath includes 19 free, interactive tools — no account required.
+
+| Category | Tools |
+| :--- | :--- |
+| Classification | Device Classification Wizard, IVD Classification Track, SaMD Decision Tree |
+| Planning | Regulatory Timeline Planner, Regulatory Fee Estimator |
+| Analysis | Jurisdiction Comparison Tables, MDSAP Value Map, Regulatory Gap Analysis |
+| Manufacturers | GSPR / Essential Req. Mapper, Clinical Evidence Calculator, Labelling Requirements Checker, Post-Market Obligations Calendar |
+| Importers & Distributors | Import Requirements Checker, Distributor Obligations Guide, Submission Readiness Checklist |
+| RA Consultants | Acronym & Glossary Lookup, Economic Operator Map, Regulatory Process Flow |
+| Software / SaMD | Cybersecurity Requirements |
+
+🔗 [rapath.github.io/tools](https://rapath.github.io/tools/)
+
+---
+
 ## How to Contribute
 
 RAPath is a community reference. Regulatory affairs professionals who flag errors, suggest improvements, or contribute content make this resource better for everyone.
@@ -57,7 +78,9 @@ RAPath is a community reference. Regulatory affairs professionals who flag error
 
 ## Disclaimer
 
-> ⚠️ Content across all RAPath sites is written with AI assistance and is intended as a navigation aid only. Always verify against official regulatory sources before making any regulatory decisions. RAPath is not affiliated with any regulatory authority. Nothing on this site constitutes legal or regulatory advice.
+> ⚠️ Independent open-source project. All content is derived from publicly available sources only — legislation, official guidance documents, and public regulatory publications. No internal, confidential, or non-public information from any regulatory authority is used or referenced.
+>
+> Content across all RAPath sites is written with AI assistance and is intended as a navigation aid only — not legal or regulatory advice, and not affiliated with any regulatory authority. Always verify against official regulatory sources before making any regulatory decision.
 
 ---
 
@@ -65,7 +88,6 @@ RAPath is a community reference. Regulatory affairs professionals who flag error
 
 - [Docusaurus v3](https://docusaurus.io/) — documentation framework
 - [GitHub Pages](https://pages.github.com/) — hosting
-- [Algolia DocSearch](https://docsearch.algolia.com/) — search
 - Content written with AI assistance (Claude by Anthropic)
 
 *Last updated: May 2026*

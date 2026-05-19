@@ -72,7 +72,7 @@ If you identify an inaccuracy in any content on this site, please raise it via *
 
 ## Related Pages
 
-- [Who Needs to Comply?](./who-needs-to-comply)
-- [Manufacturers](./manufacturers)
-- [Sponsors](./sponsors)
-- [Regulatory Framework Overview](./regulatory-framework-overview)
+- [Who Needs to Comply?](./who-needs-to-comply.md)
+- [Manufacturers](./manufacturers.md)
+- [Sponsors](./sponsors.md)
+- [Regulatory Framework Overview](./regulatory-framework-overview.md)

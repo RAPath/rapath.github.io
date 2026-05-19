@@ -86,6 +86,32 @@ const jurisdictions = [
     live: true, path: '/ru/',
     desc: 'GRLS state register, Class 1–3 framework, Federal Law 323-FZ.',
   },
+  {
+    code: 'nz', flag: '🇳🇿', name: 'New Zealand', reg: 'Medsafe',
+    live: true, path: '/nz/',
+    desc: 'WAND database registration, Class I–IV classification',
+  },
+  {
+    code: 'sa', flag: '🇸🇦', name: 'Saudi Arabia', reg: 'SFDA',
+    live: true, path: '/sa/',
+    desc: 'Medical device registration via the SFDA portal, Class A–D risk classification',
+  },
+  {
+    code: 'mx', flag: '🇲🇽', name: 'Mexico', reg: 'COFEPRIS',
+    live: true, path: '/mx/',
+    desc: 'Registro Sanitario via COFEPRIS, Class I–III classification, NOM standards',
+  },
+];
+
+
+// ─── Featured tools ───────────────────────────────────────────────────────────
+const featuredTools = [
+  { emoji: '🔍', label: 'CLASSIFIER', name: 'Device Classification Wizard', path: '/tools/classifier', desc: 'Indicative classification, documentation checklist, and pathway timelines across all 19 jurisdictions.' },
+  { emoji: '🔄', label: 'VISUAL', name: 'Regulatory Process Flow', path: '/tools/process-flow', desc: 'Interactive 7-phase flowchart with jurisdiction-specific notes and per-phase checklists.' },
+  { emoji: '📊', label: 'ANALYSIS', name: 'Jurisdiction Comparison Tables', path: '/tools/comparison', desc: 'Side-by-side comparison of PMS, UDI, authorised reps, vigilance, and QMS across 16 markets.' },
+  { emoji: '📅', label: 'PLANNING', name: 'Regulatory Timeline Planner', path: '/tools/timeline', desc: 'Gantt-style view of overlapping regulatory phases, adjustable by device class.' },
+  { emoji: '📋', label: 'TECHNICAL', name: 'GSPR / Essential Req. Mapper', path: '/tools/gspr', desc: 'Map applicable General Safety & Performance Requirements to your device type with evidence guidance.' },
+  { emoji: '✅', label: 'ACTION', name: 'Submission Readiness Checklist', path: '/tools/submission-checklist', desc: 'Track submission readiness across 24 items with a live progress bar.' },
 ];
 
 const aboutPoints = [
@@ -103,7 +129,7 @@ export default function Home(): ReactNode {
   const stats = [
     { label: 'Jurisdictions', value: jurisdictions.length },
     { label: 'Live sites', value: liveCount },
-    { label: 'Planned sites', value: plannedCount },
+    { label: 'Free tools', value: 19 },
   ];
 
   return (
@@ -130,7 +156,13 @@ export default function Home(): ReactNode {
               Browse Jurisdictions
             </Link>
             <Link
-              className="button button--outline button--secondary button--lg margin-bottom--sm"
+              className="button button--secondary button--lg margin-right--sm margin-bottom--sm"
+              to="/tools/"
+            >
+              Regulatory Tools
+            </Link>
+            <Link
+              className="button button--secondary button--lg margin-right--sm margin-bottom--sm"
               href="https://github.com/RAPath"
               target="_blank"
               rel="noopener noreferrer"
@@ -158,7 +190,7 @@ export default function Home(): ReactNode {
         </section>
 
         <section id="jurisdictions" className="margin-bottom--xl">
-          <Heading as="h2">Live and Planned Sites</Heading>
+          <Heading as="h2">Jurisdiction Reference Sites</Heading>
           <p>
             Each jurisdiction site covers classification, pre-market pathways, post-market
             obligations, and source-linked legislation and guidance.
@@ -196,21 +228,69 @@ export default function Home(): ReactNode {
           </div>
         </section>
 
-        <section id="about" className="margin-bottom--xl">
+        <section id="tools" className="margin-bottom--xl">
+          <div className="row" style={{ alignItems: 'baseline', marginBottom: '0.5rem' }}>
+            <div className="col">
+              <Heading as="h2" style={{ marginBottom: '0.25rem' }}>Regulatory Tools</Heading>
+              <p style={{ marginBottom: '1rem' }}>
+                19 free, interactive tools — classification wizards, comparison tables, timeline
+                planners, checklists, and more. No account required.
+              </p>
+            </div>
+            <div className="col col--2 text--right">
+              <Link className="button button--outline button--primary button--sm" to="/tools/">
+                All tools →
+              </Link>
+            </div>
+          </div>
+
+          <div className="row">
+            {featuredTools.map((tool) => (
+              <div key={tool.name} className="col col--4 margin-bottom--md">
+                <Link to={tool.path} style={{ textDecoration: 'none', color: 'inherit' }}>
+                  <div className="card" style={{ height: '100%', cursor: 'pointer' }}>
+                    <div className="card__body">
+                      <div style={{ marginBottom: '0.4rem' }}>
+                        <span style={{ fontSize: '0.65rem', fontWeight: 600, letterSpacing: '0.06em', color: 'var(--ifm-color-primary)' }}>
+                          {tool.label}
+                        </span>
+                      </div>
+                      <strong style={{ display: 'block', marginBottom: '0.35rem' }}>
+                        {tool.emoji} {tool.name}
+                      </strong>
+                      <p className="margin-bottom--none" style={{ fontSize: '0.85rem', color: 'var(--ifm-color-emphasis-700)' }}>
+                        {tool.desc}
+                      </p>
+                    </div>
+                  </div>
+                </Link>
+              </div>
+            ))}
+          </div>
+
+          <div style={{ marginTop: '0.75rem' }}>
+            <Link className="button button--primary button--md" to="/tools/">
+              Browse all 19 tools →
+            </Link>
+          </div>
+        </section>
+
+
+        <section id="about" className="margin-bottom--xl" >
           <div className="row">
             <div className="col col--8">
               <Heading as="h2">A navigation aid, not a replacement</Heading>
               <p>
-                RAPath helps teams navigate complex regulatory frameworks faster, but it is not
-                a substitute for official sources, legal interpretation, or regulator advice.
+                RAPath helps teams navigate complex regulatory frameworks faster, but it is not a substitute for official sources, legal interpretation, or regulatory advice.
               </p>
               <p>
-                Use RAPath to orient quickly, then verify critical requirements against current
-                authority publications before making regulatory decisions.
+                All content is derived from publicly available sources only — legislation, official guidance, and public regulatory publications.
               </p>
               <p>
-                Content is written with AI assistance and reviewed continuously as legislation
-                and guidance evolve.
+                Use RAPath to orient quickly, then verify critical requirements against current authority publications before making regulatory decisions.
+              </p>
+              <p>
+                Content is written and updated with AI assistance, with changes reviewed as legislation and guidance evolve.
               </p>
             </div>
             <div className="col col--4">

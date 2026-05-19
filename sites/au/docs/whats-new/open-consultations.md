@@ -83,6 +83,6 @@ Have a view on an open consultation? Share it with the RAPath community:
 
 ## Related Pages
 
-- [Recent Regulatory Changes](./regulatory-changes)
-- [Upcoming Changes](./upcoming-changes)
-- [Reforms Tracker](./reforms-tracker)
+- [Recent Regulatory Changes](./regulatory-changes.md)
+- [Upcoming Changes](./upcoming-changes.md)
+- [Reforms Tracker](./reforms-tracker.md)

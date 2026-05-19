@@ -6,7 +6,7 @@ description: RAPath SG — a plain English reference for Singapore medical devic
 keywords: [HSA, medical devices, Singapore, Health Products Act, HP(MD) Regulations, regulatory affairs, SHARE, dealer's licence]
 ---
 
-# RAPath SG
+# RAPath Singapore
 
 **Singapore Medical Device Regulatory Reference**
 

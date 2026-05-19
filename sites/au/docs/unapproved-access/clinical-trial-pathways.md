@@ -110,7 +110,7 @@ Timeframes for reporting vary depending on severity — generally 7–15 days fo
 
 ## Related Pages
 
-- [Special Access Scheme (SAS)](./special-access-scheme)
-- [Authorised Prescribers](./authorised-prescribers)
-- [Personal Importation](./personal-importation)
+- [Special Access Scheme (SAS)](./special-access-scheme.md)
+- [Authorised Prescribers](./authorised-prescribers.md)
+- [Personal Importation](./personal-importation.md)
 - [Clinical Evidence — What is Required](/docs/pre-market/clinical-evidence/what-is-required)

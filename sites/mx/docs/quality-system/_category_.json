@@ -1,0 +1,10 @@
+{
+  "label": "Quality System (NOM-241)",
+  "position": 7,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "Mexico's Good Manufacturing Practices for medical devices under NOM-241-SSA1-2025, its alignment with ISO 13485, COFEPRIS inspections, and responding to inspection findings."
+  }
+}

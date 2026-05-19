@@ -44,7 +44,7 @@ Part 4-1 contains the foundational definitions for the medical device framework.
 **Section 41BD — Definition of a medical device**
 The legal definition of a medical device, based on intended purpose and the means by which the device achieves its purpose (physical, mechanical, or chemical, not primarily pharmacological, immunological, or metabolic).
 
-👉 [What is a Medical Device?](../start-here/what-is-a-medical-device)
+👉 [What is a Medical Device?](../start-here/what-is-a-medical-device.md)
 
 **Section 41BE — Meaning of "kind of medical device"**
 Defines what constitutes a single "kind" of device for ARTG purposes — relevant to how many ARTG entries a sponsor needs.
@@ -65,7 +65,7 @@ Every medical device supplied in Australia must comply with the Essential Princi
 **Section 41DO — Meaning of compliance with Essential Principles**
 Sets out what compliance with the Essential Principles means — including compliance with applicable standards.
 
-👉 [Essential Principles Overview](../pre-market/essential-principles/overview)
+👉 [Essential Principles Overview](../pre-market/essential-principles/overview.md)
 
 ---
 
@@ -79,7 +79,7 @@ The TGA's power to issue conformity assessment certificates and the conditions a
 
 **Part 4-4A** — Australian Conformity Assessment Bodies (CABs): the framework for approved Australian third-party assessment bodies.
 
-👉 [Conformity Assessment Overview](../pre-market/conformity-assessment/overview)
+👉 [Conformity Assessment Overview](../pre-market/conformity-assessment/overview.md)
 
 ---
 
@@ -102,7 +102,7 @@ The TGA's power to suspend an ARTG entry where safety concerns arise.
 **Section 41GM / 41GN — Cancellation of ARTG entries**
 The TGA's power to cancel an ARTG entry — after a notice process in most cases.
 
-👉 [ARTG Inclusion Overview](../pre-market/artg-inclusion/overview)
+👉 [ARTG Inclusion Overview](../pre-market/artg-inclusion/overview.md)
 
 ---
 
@@ -130,7 +130,7 @@ Provides the overview of the mandatory healthcare facility reporting regime.
 **Section 41JM — Requirement to report adverse events**
 The CEO of a healthcare facility must report adverse events involving reportable medical devices to the TGA. The staged implementation commenced March 2025.
 
-👉 [How to Report (IRIS)](../post-market/adverse-event-reporting/how-to-report-iris)
+👉 [How to Report (IRIS)](../post-market/adverse-event-reporting/how-to-report-iris.md)
 
 ---
 
@@ -145,7 +145,7 @@ The TGA can require sponsors to recall devices, issue public warnings, and take 
 **Section 41GN — Mandatory recall directions**
 The TGA can direct a sponsor to recall a device where it is satisfied the device has caused or may cause harm.
 
-👉 [Recalls & Field Safety](../post-market/recalls-and-field-safety/when-a-recall-is-required)
+👉 [Recalls & Field Safety](../post-market/recalls-and-field-safety/when-a-recall-is-required.md)
 
 ---
 
@@ -176,7 +176,7 @@ The Act uses a system of **Notes** and **simplified outlines** at the beginning 
 
 Cross-references between the Act and the MD Regulations are frequent — understanding a provision in the Act often requires reading the corresponding regulation, and vice versa.
 
-👉 [How to Read Legislation](./how-to-read-legislation)
+👉 [How to Read Legislation](./how-to-read-legislation.md)
 
 ---
 
@@ -189,6 +189,6 @@ Cross-references between the Act and the MD Regulations are frequent — underst
 
 ## Related Pages
 
-- [MD Regulations 2002](./md-regulations-2002)
-- [Related Instruments & Determinations](./related-instruments)
-- [Regulatory Framework Overview](../start-here/regulatory-framework-overview)
+- [MD Regulations 2002](./md-regulations-2002.md)
+- [Related Instruments & Determinations](./related-instruments.md)
+- [Regulatory Framework Overview](../start-here/regulatory-framework-overview.md)

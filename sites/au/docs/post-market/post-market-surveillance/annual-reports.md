@@ -60,6 +60,6 @@ After the mandatory 3-year annual reporting period for Class III devices, the TG
 
 ## Related Pages
 
-- [PMS Requirements by Class](./pms-requirements)
-- [Distribution Records](./distribution-records)
-- [Conditions of Inclusion](../../pre-market/artg-inclusion/conditions-of-inclusion)
+- [PMS Requirements by Class](./pms-requirements.md)
+- [Distribution Records](./distribution-records.md)
+- [Conditions of Inclusion](../../pre-market/artg-inclusion/conditions-of-inclusion.md)

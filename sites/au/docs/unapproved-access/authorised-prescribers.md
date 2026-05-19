@@ -89,6 +89,6 @@ The Authorised Prescriber pathway does **not**:
 
 ## Related Pages
 
-- [Special Access Scheme (SAS)](./special-access-scheme)
-- [Clinical Trial Pathways](./clinical-trial-pathways)
-- [Personal Importation](./personal-importation)
+- [Special Access Scheme (SAS)](./special-access-scheme.md)
+- [Clinical Trial Pathways](./clinical-trial-pathways.md)
+- [Personal Importation](./personal-importation.md)

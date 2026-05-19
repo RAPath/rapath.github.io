@@ -67,7 +67,7 @@ The Minister has power under s41BHA of the Act to determine **device nomenclatur
 A legislative instrument setting advertising standards for all therapeutic goods including medical devices. Compliance with the Code is mandatory — breaches are criminal offences.
 
 👉 [Advertising Code 2021](https://www.tga.gov.au/resources/legislation/therapeutic-goods-therapeutic-goods-advertising-code-instrument-2021)
-👉 [Advertising Rules](../post-market/labelling-and-advertising/advertising-rules)
+👉 [Advertising Rules](../post-market/labelling-and-advertising/advertising-rules.md)
 
 ---
 
@@ -102,6 +102,6 @@ The TGA also maintains a legislation index on its website:
 
 ## Related Pages
 
-- [Therapeutic Goods Act 1989](./therapeutic-goods-act)
-- [MD Regulations 2002](./md-regulations-2002)
-- [Recent Amendments](./recent-amendments)
+- [Therapeutic Goods Act 1989](./therapeutic-goods-act.md)
+- [MD Regulations 2002](./md-regulations-2002.md)
+- [Recent Amendments](./recent-amendments.md)

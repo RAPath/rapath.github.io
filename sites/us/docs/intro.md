@@ -6,7 +6,7 @@ description: RAPath US — a plain English reference for FDA medical device regu
 keywords: [FDA, medical devices, regulatory, 510k, PMA, CDRH, regulatory affairs]
 ---
 
-# RAPath US
+# RAPath USA
 
 **FDA Medical Device Regulatory Reference**
 

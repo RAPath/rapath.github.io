@@ -63,6 +63,6 @@ Sponsors must have a written agreement with the manufacturer that ensures the ma
 
 ## Related Pages
 
-- [Conformity Assessment Overview](./overview)
-- [Declaration of Conformity](./declaration-of-conformity)
-- [ARTG Inclusion Overview](../artg-inclusion/overview)
+- [Conformity Assessment Overview](./overview.md)
+- [Declaration of Conformity](./declaration-of-conformity.md)
+- [ARTG Inclusion Overview](../artg-inclusion/overview.md)

@@ -1,0 +1,10 @@
+{
+  "label": "Mexico Registration Holder (MRH)",
+  "position": 5,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "The Mexico Registration Holder (MRH) is the legally constituted Mexican entity that holds sanitary registrations on behalf of foreign manufacturers. This section covers MRH obligations, appointment, import licences, and the process of changing holders."
+  }
+}

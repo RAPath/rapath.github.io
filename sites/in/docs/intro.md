@@ -7,7 +7,7 @@ description: RAPath IN — a plain English reference for India medical device re
 keywords: [CDSCO, medical devices, India, regulatory, MDR 2017, D&C Act, SUGAM]
 ---
 
-# RAPath IN
+# RAPath India
 
 **India Medical Device Regulatory Reference**
 

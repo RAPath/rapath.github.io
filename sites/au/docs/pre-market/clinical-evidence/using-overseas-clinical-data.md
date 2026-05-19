@@ -51,5 +51,5 @@ Where overseas clinical data relates to a device claimed to be equivalent to the
 
 ## Related Pages
 
-- [What is Required](./what-is-required)
-- [Clinical Trials in Australia](./clinical-trials-in-australia)
+- [What is Required](./what-is-required.md)
+- [Clinical Trials in Australia](./clinical-trials-in-australia.md)

@@ -91,6 +91,6 @@ The TGA encourages a precautionary approach: **if in doubt, report**. The act of
 
 ## Related Pages
 
-- [Reporting Timeframes](./reporting-timeframes)
-- [How to Report (IRIS)](./how-to-report-iris)
-- [Exemptions from Reporting](./exemptions-from-reporting)
+- [Reporting Timeframes](./reporting-timeframes.md)
+- [How to Report (IRIS)](./how-to-report-iris.md)
+- [Exemptions from Reporting](./exemptions-from-reporting.md)

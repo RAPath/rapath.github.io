@@ -79,6 +79,6 @@ AI and machine learning (ML) based software that meets the medical device defini
 
 ## Related Pages
 
-- [How Classification Works](./how-classification-works)
-- [Software & AI (Special Types)](../special-devices/software-and-ai)
-- [Reclassification Updates](./reclassification-updates)
+- [How Classification Works](./how-classification-works.md)
+- [Software & AI (Special Types)](../special-devices/software-and-ai.md)
+- [Reclassification Updates](./reclassification-updates.md)

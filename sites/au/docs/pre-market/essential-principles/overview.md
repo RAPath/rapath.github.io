@@ -99,7 +99,7 @@ Essential Principles compliance is not a one-time exercise — it must be mainta
 
 ## Related Pages
 
-- [EP 1–6 General Principles](./ep-1-6-general-principles)
-- [EP 7–15 Design & Construction](./ep-7-15-design-and-construction)
-- [Checklist & Compliance](./checklist-and-compliance)
-- [Clinical Evidence](../clinical-evidence/what-is-required)
+- [EP 1–6 General Principles](./ep-1-6-general-principles.md)
+- [EP 7–15 Design & Construction](./ep-7-15-design-and-construction.md)
+- [Checklist & Compliance](./checklist-and-compliance.md)
+- [Clinical Evidence](../clinical-evidence/what-is-required.md)

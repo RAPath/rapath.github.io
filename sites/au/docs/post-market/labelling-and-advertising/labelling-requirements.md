@@ -103,6 +103,6 @@ A device may not be supplied or advertised for uses outside its ARTG-approved in
 
 ## Related Pages
 
-- [Advertising Rules](./advertising-rules)
-- [Permitted & Prohibited Claims](./permitted-and-prohibited-claims)
-- [EP 13 — Essential Principles](../../pre-market/essential-principles/ep-7-15-design-and-construction)
+- [Advertising Rules](./advertising-rules.md)
+- [Permitted & Prohibited Claims](./permitted-and-prohibited-claims.md)
+- [EP 13 — Essential Principles](../../pre-market/essential-principles/ep-7-15-design-and-construction.md)

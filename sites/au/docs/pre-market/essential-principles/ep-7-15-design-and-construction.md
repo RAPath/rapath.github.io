@@ -121,7 +121,7 @@ Essential Principles 7 to 15 are the **design and construction principles** that
 
 **In practice:** The type and volume of clinical evidence required scales with device class and novelty. For Class I devices, existing published literature may be sufficient. For Class III and AIMD devices, comprehensive clinical evaluation reports including clinical trial data are typically expected.
 
-👉 [Clinical Evidence — What is Required](../clinical-evidence/what-is-required)
+👉 [Clinical Evidence — What is Required](../clinical-evidence/what-is-required.md)
 
 ---
 
@@ -144,6 +144,6 @@ Essential Principles 7 to 15 are the **design and construction principles** that
 
 ## Related Pages
 
-- [EP 1–6 General Principles](./ep-1-6-general-principles)
-- [Checklist & Compliance](./checklist-and-compliance)
-- [Clinical Evidence](../clinical-evidence/what-is-required)
+- [EP 1–6 General Principles](./ep-1-6-general-principles.md)
+- [Checklist & Compliance](./checklist-and-compliance.md)
+- [Clinical Evidence](../clinical-evidence/what-is-required.md)

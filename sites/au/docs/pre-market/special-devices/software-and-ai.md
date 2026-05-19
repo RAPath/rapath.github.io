@@ -79,6 +79,6 @@ EP 12.1 requires that software-based medical devices be developed, validated, an
 
 ## Related Pages
 
-- [Active & Software Devices (Classification)](../classification/active-and-software-devices)
-- [Active Medical Devices](./active-medical-devices)
-- [EP 12.1 Software](../essential-principles/ep-7-15-design-and-construction)
+- [Active & Software Devices (Classification)](../classification/active-and-software-devices.md)
+- [Active Medical Devices](./active-medical-devices.md)
+- [EP 12.1 Software](../essential-principles/ep-7-15-design-and-construction.md)

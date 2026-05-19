@@ -102,5 +102,5 @@ Small businesses and new entrants to the Australian medical device market can ac
 
 ## Related Pages
 
-- [All Guidance by Topic](./by-topic)
-- [Guidance by Device Class](./by-device-class)
+- [All Guidance by Topic](./by-topic.md)
+- [Guidance by Device Class](./by-device-class.md)

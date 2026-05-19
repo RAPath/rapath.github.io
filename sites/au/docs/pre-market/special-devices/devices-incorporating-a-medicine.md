@@ -42,5 +42,5 @@ For devices incorporating a medicine, the manufacturer must demonstrate complian
 
 ## Related Pages
 
-- [How Classification Works](../classification/how-classification-works)
-- [Animal, Microbial, Recombinant Origin](./animal-microbial-recombinant-origin)
+- [How Classification Works](../classification/how-classification-works.md)
+- [Animal, Microbial, Recombinant Origin](./animal-microbial-recombinant-origin.md)

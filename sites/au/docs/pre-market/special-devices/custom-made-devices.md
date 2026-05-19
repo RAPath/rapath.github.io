@@ -44,4 +44,4 @@ The TGA distinguishes between **custom-made** devices (a strict regulatory categ
 
 ## Related Pages
 
-- [Personalised and Patient-Matched Devices](./personalised-patient-matched)
+- [Personalised and Patient-Matched Devices](./personalised-patient-matched.md)

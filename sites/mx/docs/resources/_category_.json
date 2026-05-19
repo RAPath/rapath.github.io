@@ -1,0 +1,10 @@
+{
+  "label": "Resources",
+  "position": 12,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "Useful links, official portals, fee information, and reference materials for Mexico medical device regulation under COFEPRIS."
+  }
+}

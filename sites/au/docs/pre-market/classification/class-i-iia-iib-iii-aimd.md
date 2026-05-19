@@ -127,7 +127,7 @@ If you have an existing AIMD ARTG entry, check the current status of your reclas
 
 ## Related Pages
 
-- [How Classification Works](./how-classification-works)
-- [IVD Class 1–4](./ivd-class-1-2-3-4)
-- [Conformity Assessment Overview](../conformity-assessment/overview)
-- [ARTG Inclusion by Device Class](../artg-inclusion/by-device-class)
+- [How Classification Works](./how-classification-works.md)
+- [IVD Class 1–4](./ivd-class-1-2-3-4.md)
+- [Conformity Assessment Overview](../conformity-assessment/overview.md)
+- [ARTG Inclusion by Device Class](../artg-inclusion/by-device-class.md)

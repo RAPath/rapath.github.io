@@ -17,7 +17,7 @@ Before anything else, you need to confirm that your product meets the legal defi
 
 If your product is a medical device, it will generally need to be included in the ARTG before it can be supplied in Australia, unless a specific exemption applies.
 
-👉 [What is a Medical Device?](./what-is-a-medical-device)
+👉 [What is a Medical Device?](./what-is-a-medical-device.md)
 👉 [TGA Decision Tool — Is my product a medical device?](https://www.tga.gov.au/resources/decision-trees/my-product-medical-device)
 
 ---
@@ -40,7 +40,7 @@ Medical devices in Australia are classified based on **risk** — the level of i
 
 Classification must be determined by the **manufacturer** before any application is made. Using the wrong class is a common and costly mistake — the TGA does not refund application fees for incorrectly classified submissions.
 
-👉 [How Classification Works](../pre-market/classification/how-classification-works)
+👉 [How Classification Works](../pre-market/classification/how-classification-works.md)
 
 ---
 
@@ -50,7 +50,7 @@ The **Essential Principles** are the fundamental safety and performance requirem
 
 Meeting the Essential Principles is the manufacturer's responsibility. Evidence of compliance must be compiled and held before the device is supplied. There is no single mandated format — most manufacturers use a technical file or design dossier.
 
-👉 [Essential Principles Overview](../pre-market/essential-principles/overview)
+👉 [Essential Principles Overview](../pre-market/essential-principles/overview.md)
 
 ---
 
@@ -60,7 +60,7 @@ Meeting the Essential Principles is the manufacturer's responsibility. Evidence 
 
 For Class I devices, a manufacturer's Declaration of Conformity is generally sufficient. For higher-class devices, a certified Quality Management System (ISO 13485 or equivalent) and — for the highest-risk classes — a TGA-issued Conformity Assessment Certificate or equivalent from a comparable overseas regulator, are required.
 
-👉 [Conformity Assessment Overview](../pre-market/conformity-assessment/overview)
+👉 [Conformity Assessment Overview](../pre-market/conformity-assessment/overview.md)
 
 ---
 
@@ -78,7 +78,7 @@ The **Australian sponsor** submits the application to include the device in the 
 
 The level of pre-market review varies significantly by device class. Class I devices may be included with minimal TGA review. Class III and AIMD devices undergo full technical assessment.
 
-👉 [ARTG Inclusion Overview](../pre-market/artg-inclusion/overview)
+👉 [ARTG Inclusion Overview](../pre-market/artg-inclusion/overview.md)
 
 ---
 
@@ -110,8 +110,8 @@ Regulatory obligations do not end at ARTG inclusion. Both the manufacturer and s
 - Ensure manufacturer evidence remains current
 - Pay annual ARTG charges
 
-👉 [Post-Market Overview](../post-market/overview)
-👉 [Adverse Event Reporting](../post-market/adverse-event-reporting/what-must-be-reported)
+👉 [Post-Market Overview](../post-market/overview.md)
+👉 [Adverse Event Reporting](../post-market/adverse-event-reporting/what-must-be-reported.md)
 
 ---
 
@@ -125,8 +125,8 @@ Regulatory obligations do not end at ARTG inclusion. Both the manufacturer and s
 
 ## Related Pages
 
-- [Device Classification](../pre-market/classification/how-classification-works)
-- [Essential Principles](../pre-market/essential-principles/overview)
-- [Conformity Assessment](../pre-market/conformity-assessment/overview)
-- [ARTG Inclusion](../pre-market/artg-inclusion/overview)
-- [Post-Market Overview](../post-market/overview)
+- [Device Classification](../pre-market/classification/how-classification-works.md)
+- [Essential Principles](../pre-market/essential-principles/overview.md)
+- [Conformity Assessment](../pre-market/conformity-assessment/overview.md)
+- [ARTG Inclusion](../pre-market/artg-inclusion/overview.md)
+- [Post-Market Overview](../post-market/overview.md)

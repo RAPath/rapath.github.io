@@ -80,7 +80,7 @@ Each unique combination requires its own ARTG entry. If a sponsor changes, a new
 
 ## Related Pages
 
-- [By Device Class](./by-device-class)
-- [Application Audits](./application-audits)
-- [Fees & Charges](./fees-and-charges)
-- [Conditions of Inclusion](./conditions-of-inclusion)
+- [By Device Class](./by-device-class.md)
+- [Application Audits](./application-audits.md)
+- [Fees & Charges](./fees-and-charges.md)
+- [Conditions of Inclusion](./conditions-of-inclusion.md)

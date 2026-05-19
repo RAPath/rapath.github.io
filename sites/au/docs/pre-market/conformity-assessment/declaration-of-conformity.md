@@ -54,6 +54,6 @@ For Class I devices (other than Class Is and Class Im), the Declaration of Confo
 
 ## Related Pages
 
-- [Conformity Assessment Overview](./overview)
-- [Manufacturer's Evidence](./manufacturers-evidence)
-- [ARTG Inclusion Overview](../artg-inclusion/overview)
+- [Conformity Assessment Overview](./overview.md)
+- [Manufacturer's Evidence](./manufacturers-evidence.md)
+- [ARTG Inclusion Overview](../artg-inclusion/overview.md)

@@ -63,6 +63,6 @@ In-house IVDs are manufactured and used within a single laboratory (not supplied
 
 ## Related Pages
 
-- [IVD Class 1–4 (Classification)](../classification/ivd-class-1-2-3-4)
-- [EP 15 — IVD Principles](../essential-principles/ep-7-15-design-and-construction)
-- [Clinical Evidence](../clinical-evidence/what-is-required)
+- [IVD Class 1–4 (Classification)](../classification/ivd-class-1-2-3-4.md)
+- [EP 15 — IVD Principles](../essential-principles/ep-7-15-design-and-construction.md)
+- [Clinical Evidence](../clinical-evidence/what-is-required.md)

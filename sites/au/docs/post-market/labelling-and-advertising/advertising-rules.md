@@ -96,5 +96,5 @@ The TGA monitors advertising compliance and handles complaints from the public, 
 
 ## Related Pages
 
-- [Labelling Requirements](./labelling-requirements)
-- [Permitted & Prohibited Claims](./permitted-and-prohibited-claims)
+- [Labelling Requirements](./labelling-requirements.md)
+- [Permitted & Prohibited Claims](./permitted-and-prohibited-claims.md)

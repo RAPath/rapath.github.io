@@ -4,7 +4,7 @@ sidebar_position: 1
 slug: /
 ---
 
-# RAPath JP
+# RAPath Japan
 
 **Japan Medical Device Regulatory Reference — PMDA · MHLW · PMD Act**
 

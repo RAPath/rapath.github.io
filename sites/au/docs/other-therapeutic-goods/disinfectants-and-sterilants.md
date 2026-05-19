@@ -98,4 +98,4 @@ The intended purpose stated in labelling and promotional materials determines re
 
 - [How Classification Works](/docs/pre-market/classification/how-classification-works)
 - [Essential Principles Overview](/docs/pre-market/essential-principles/overview)
-- [Tampons and Menstrual Cups](./tampons-and-menstrual-cups)
+- [Tampons and Menstrual Cups](./tampons-and-menstrual-cups.md)

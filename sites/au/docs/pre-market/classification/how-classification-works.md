@@ -110,7 +110,7 @@ The TGA publishes detailed guidance on classifying both general medical devices 
 
 ## Related Pages
 
-- [Class I, IIa, IIb, III, AIMD](./class-i-iia-iib-iii-aimd)
-- [IVD Class 1–4](./ivd-class-1-2-3-4)
-- [Active & Software Devices](./active-and-software-devices)
-- [Conformity Assessment Overview](../conformity-assessment/overview)
+- [Class I, IIa, IIb, III, AIMD](./class-i-iia-iib-iii-aimd.md)
+- [IVD Class 1–4](./ivd-class-1-2-3-4.md)
+- [Active & Software Devices](./active-and-software-devices.md)
+- [Conformity Assessment Overview](../conformity-assessment/overview.md)

@@ -20,7 +20,7 @@ A market action is required when a sponsor or manufacturer becomes aware that a 
 - **Has a labelling or information deficiency** — incorrect or missing information that could affect safe use
 - **Is subject to an overseas market action** — if a recall or field safety corrective action is initiated overseas for a device supplied in Australia, a market action must also be initiated in Australia
 
-A market action must also be initiated when the TGA directs the sponsor to take action — see [TGA-Initiated Actions](./tga-initiated-actions).
+A market action must also be initiated when the TGA directs the sponsor to take action — see [TGA-Initiated Actions](./tga-initiated-actions.md).
 
 ---
 
@@ -77,6 +77,6 @@ Contact the TGA Recalls team: recalls@tga.gov.au
 
 ## Related Pages
 
-- [Recall Classifications & Levels](./recall-classifications-and-levels)
-- [Field Safety Corrective Actions](./field-safety-corrective-actions)
-- [TGA-Initiated Actions](./tga-initiated-actions)
+- [Recall Classifications & Levels](./recall-classifications-and-levels.md)
+- [Field Safety Corrective Actions](./field-safety-corrective-actions.md)
+- [TGA-Initiated Actions](./tga-initiated-actions.md)

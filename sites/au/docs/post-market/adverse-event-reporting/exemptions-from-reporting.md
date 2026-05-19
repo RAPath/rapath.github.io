@@ -62,6 +62,6 @@ The TGA consistently encourages sponsors to report adverse events even when they
 
 ## Related Pages
 
-- [What Must Be Reported](./what-must-be-reported)
-- [Reporting Timeframes](./reporting-timeframes)
-- [How to Report (IRIS)](./how-to-report-iris)
+- [What Must Be Reported](./what-must-be-reported.md)
+- [Reporting Timeframes](./reporting-timeframes.md)
+- [How to Report (IRIS)](./how-to-report-iris.md)

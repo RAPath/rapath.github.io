@@ -97,5 +97,5 @@ The TGA has published specific guidance on advertising therapeutic goods on soci
 
 ## Related Pages
 
-- [Labelling Requirements](./labelling-requirements)
-- [Advertising Rules](./advertising-rules)
+- [Labelling Requirements](./labelling-requirements.md)
+- [Advertising Rules](./advertising-rules.md)

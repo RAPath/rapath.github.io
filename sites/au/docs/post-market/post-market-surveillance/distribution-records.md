@@ -61,5 +61,5 @@ The progressive introduction of **Unique Device Identification (UDI)** requireme
 
 ## Related Pages
 
-- [PMS Requirements by Class](./pms-requirements)
-- [When a Recall is Required](../recalls-and-field-safety/when-a-recall-is-required)
+- [PMS Requirements by Class](./pms-requirements.md)
+- [When a Recall is Required](../recalls-and-field-safety/when-a-recall-is-required.md)

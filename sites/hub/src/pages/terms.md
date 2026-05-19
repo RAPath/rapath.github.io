@@ -15,6 +15,8 @@ Please read these terms carefully before using any RAPath site. By accessing or 
 
 RAPath is a free, open, community-maintained reference covering medical device regulatory frameworks across multiple jurisdictions. It is hosted on GitHub Pages and published under the RAPath organisation on GitHub.
 
+RAPath is an independent open-source project, created and maintained in a voluntary capacity outside of any professional role or employment responsibilities.
+
 RAPath is operated by contributors on a voluntary basis. It is not a company, legal entity, regulatory body, or commercial service.
 
 ---
@@ -44,6 +46,8 @@ Content across all RAPath sites is written with the assistance of AI tools (incl
 
 ## 4. Accuracy, Currency, and Completeness
 
+All content is derived solely from publicly available sources — legislation, official guidance documents, and public regulatory publications. No internal, confidential, privileged, or non-public information from any regulatory authority is used or referenced.
+
 Medical device regulation changes frequently. New legislation is enacted, guidance documents are updated, transitional provisions expire, and regulatory interpretations evolve. RAPath makes reasonable efforts to keep content current, but:
 
 - Pages may not reflect the most recent regulatory changes
@@ -71,6 +75,9 @@ RAPath is an independent reference. It is **not affiliated with, endorsed by, or
 - Central Drugs Standard Control Organisation (CDSCO), India
 - Ministry of Food and Drug Safety (MFDS), South Korea
 - ANVISA, Brazil
+- COFEPRIS (Federal Commission for Protection against Sanitary Risks), Mexico
+- Medsafe, New Zealand
+- Saudi Food and Drug Authority (SFDA), Saudi Arabia
 - Any other national or regional regulatory authority
 
 References to these organisations and links to their websites are provided solely to help readers locate authoritative sources. RAPath has no formal relationship with any of them.
@@ -125,6 +132,16 @@ These terms may be updated from time to time. The date at the top of this page r
 ## 11. Questions
 
 If you have questions about these terms, spot an error, or have a concern about any content on RAPath, please use [GitHub Discussions](https://github.com/orgs/RAPath/discussions).
+
+---
+
+## 12. Independence and Governance
+
+RAPath is developed independently of any professional role in regulatory decision-making. Content is created without reference to any internal, unpublished, or non-public regulatory material.
+
+RAPath does not engage with, advise, or represent sponsors, manufacturers, importers, distributors, or any other entity regulated by a medical device authority. No advisory or consulting activity is conducted under the RAPath name or through any RAPath site.
+
+Where a potential conflict of interest is identified, content may be reviewed, modified, or restricted to maintain impartiality.
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 slug: /
-title: "Introduction — Korean Medical Device Regulation"
+title: "Korean Medical Device Regulation"
 description: "Overview of the Korean medical device regulatory system and how to use this site."
 sidebar_position: 1
 ---

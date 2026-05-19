@@ -30,4 +30,4 @@ The original manufacturer's ARTG inclusion **does not cover** the reprocessed de
 
 ## Related Pages
 
-- [EP 13 — Labelling Requirements](../essential-principles/ep-7-15-design-and-construction)
+- [EP 13 — Labelling Requirements](../essential-principles/ep-7-15-design-and-construction.md)

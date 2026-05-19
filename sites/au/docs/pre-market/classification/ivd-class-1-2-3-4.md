@@ -118,7 +118,7 @@ In-house IVDs are IVDs manufactured and used within a single laboratory, not sup
 
 ## Related Pages
 
-- [How Classification Works](./how-classification-works)
-- [Class I, IIa, IIb, III & AIMD](./class-i-iia-iib-iii-aimd)
-- [IVD Medical Devices (Special Types)](../special-devices/ivd-medical-devices)
-- [Conformity Assessment Overview](../conformity-assessment/overview)
+- [How Classification Works](./how-classification-works.md)
+- [Class I, IIa, IIb, III & AIMD](./class-i-iia-iib-iii-aimd.md)
+- [IVD Medical Devices (Special Types)](../special-devices/ivd-medical-devices.md)
+- [Conformity Assessment Overview](../conformity-assessment/overview.md)

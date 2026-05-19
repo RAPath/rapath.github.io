@@ -1,0 +1,47 @@
+export interface GlossaryEntry {
+  term: string;
+  def:  string;
+  jur:  string;
+}
+
+export const GLOSSARY: GlossaryEntry[] = [
+  { term:"ARTG",        def:"Australian Register of Therapeutic Goods — official device register in Australia.",                                         jur:"AU / TGA" },
+  { term:"CAB",         def:"Conformity Assessment Body — Australian body auditing manufacturers; equivalent to EU Notified Body.",                      jur:"AU / TGA" },
+  { term:"EUDAMED",     def:"European Database on Medical Devices — centralised EU register for devices, UDI, and certificates.",                        jur:"EU / MDR" },
+  { term:"NB",          def:"Notified Body — EU-designated third-party conformity assessment organisation.",                                             jur:"EU / MDR" },
+  { term:"GSPR",        def:"General Safety and Performance Requirements — EU MDR Annex I requirements all devices must meet.",                          jur:"EU / MDR" },
+  { term:"PSUR",        def:"Periodic Safety Update Report — periodic summary of PMS data and benefit-risk analysis.",                                   jur:"EU / MDR / MHRA" },
+  { term:"PMSR",        def:"Post-Market Surveillance Report — summary of PMS data for lower-risk devices (Class I/IIa).",                              jur:"EU / MDR" },
+  { term:"PMCF",        def:"Post-Market Clinical Follow-up — systematic collection of clinical data post-market.",                                      jur:"EU / MDR" },
+  { term:"SSCP",        def:"Summary of Safety and Clinical Performance — public document for Class III/implantable devices.",                           jur:"EU / MDR" },
+  { term:"eIFU",        def:"Electronic Instructions for Use — digital IFU permitted for professional-use devices in several jurisdictions.",             jur:"EU/AU/US" },
+  { term:"510(k)",      def:"FDA premarket notification — demonstrates substantial equivalence to a legally marketed predicate device.",                  jur:"US / FDA" },
+  { term:"PMA",         def:"Premarket Approval — FDA's most stringent pre-market pathway for Class III devices.",                                       jur:"US / FDA" },
+  { term:"De Novo",     def:"FDA classification pathway for novel low-to-moderate risk devices without a predicate; creates a new device type.",          jur:"US / FDA" },
+  { term:"GUDID",       def:"Global Unique Device Identification Database — FDA's public UDI registration database.",                                    jur:"US / FDA" },
+  { term:"QMSR",        def:"Quality Management System Regulation — FDA's 21 CFR Part 820 rule, aligned with ISO 13485 from February 2026.",             jur:"US / FDA" },
+  { term:"IDE",         def:"Investigational Device Exemption — FDA approval required to use an investigational device in a US clinical study.",          jur:"US / FDA" },
+  { term:"PCCP",        def:"Predetermined Change Control Plan — FDA framework for managing planned changes to AI/ML-enabled devices.",                   jur:"US / FDA" },
+  { term:"MDEL",        def:"Medical Device Establishment Licence — required for all Canadian importers/distributors of medical devices.",                jur:"CA / Health Canada" },
+  { term:"UKRP",        def:"UK Responsible Person — legally required representative for non-UK manufacturers selling in Great Britain.",                 jur:"UK / MHRA" },
+  { term:"UKCA",        def:"UK Conformity Assessed — marking confirming compliance with UK regulations post-Brexit.",                                   jur:"UK / MHRA" },
+  { term:"PRISM",       def:"Product Registration Information System — Singapore's online portal for medical device registration.",                       jur:"SG / HSA" },
+  { term:"LRA",         def:"Local Regulatory Agent — Singapore-based entity managing device registration for foreign manufacturers.",                    jur:"SG / HSA" },
+  { term:"MAH",         def:"Marketing Authorisation Holder — Japanese legal entity responsible for device marketing approval.",                          jur:"JP / PMDA" },
+  { term:"FMR",         def:"Foreign Manufacturer Registration — registration required for all overseas manufacturers selling into Japan.",               jur:"JP / PMDA" },
+  { term:"Shonin",      def:"PMDA pre-market approval for Class III–IV devices in Japan.",                                                               jur:"JP / PMDA" },
+  { term:"Todokede",    def:"Japanese self-notification for Class I devices — no PMDA technical review required.",                                       jur:"JP / PMDA" },
+  { term:"Ninsho",      def:"Third-party certification by a Registered Certification Body (RCB) for Class II devices in Japan.",                         jur:"JP / PMDA" },
+  { term:"GRLS",        def:"State Register of Medical Devices — Russia's official registration database managed by Roszdravnadzor.",                    jur:"RU / RZN" },
+  { term:"BRH",         def:"Brazil Registration Holder — mandatory local representative for all foreign medical device manufacturers in Brazil.",        jur:"BR / ANVISA" },
+  { term:"FSCA",        def:"Field Safety Corrective Action — action taken to reduce risk of serious injury or death from a device already on market.",   jur:"All jurisdictions" },
+  { term:"MDSAP",       def:"Medical Device Single Audit Program — one QMS audit recognised by Australia, Canada, Brazil, Japan, and the USA.",          jur:"AU/CA/BR/JP/US" },
+  { term:"SaMD",        def:"Software as a Medical Device — software intended for medical purposes without being part of a physical hardware device.",    jur:"All jurisdictions" },
+  { term:"IEC 62304",   def:"International standard for medical device software development lifecycle processes.",                                        jur:"Global standard" },
+  { term:"IEC 62366",   def:"International standard for usability engineering / human factors applied to medical devices.",                              jur:"Global standard" },
+  { term:"ISO 14971",   def:"International standard for risk management applied to medical devices.",                                                    jur:"Global standard" },
+  { term:"ISO 13485",   def:"International standard for quality management systems specific to medical devices.",                                        jur:"Global standard" },
+  { term:"SBOM",        def:"Software Bill of Materials — inventory of all software components; mandatory for FDA and EU MDR cybersecurity submissions.", jur:"US / FDA / EU" },
+  { term:"IMDRF",       def:"International Medical Device Regulators Forum — global regulators working to harmonise medical device regulations.",         jur:"Global" },
+  { term:"GHTF",        def:"Global Harmonization Task Force — predecessor to IMDRF; produced foundational guidance documents still in use.",            jur:"Global" },
+];

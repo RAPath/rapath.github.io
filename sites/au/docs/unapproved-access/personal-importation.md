@@ -106,8 +106,8 @@ Devices imported under the personal importation exemption carry risks the import
 
 ## Related Pages
 
-- [Special Access Scheme (SAS)](./special-access-scheme)
-- [Authorised Prescribers](./authorised-prescribers)
-- [Clinical Trial Pathways](./clinical-trial-pathways)
+- [Special Access Scheme (SAS)](./special-access-scheme.md)
+- [Authorised Prescribers](./authorised-prescribers.md)
+- [Clinical Trial Pathways](./clinical-trial-pathways.md)
 - [Importers and Distributors](/docs/start-here/importers-and-distributors)
 - [Sponsors](/docs/start-here/sponsors)

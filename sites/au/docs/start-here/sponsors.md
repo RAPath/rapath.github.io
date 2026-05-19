@@ -48,13 +48,13 @@ The sponsor is the regulatory point of contact in Australia. All TGA communicati
 
 Sponsors are legally required to report adverse events and near adverse events to the TGA through the **IRIS reporting portal**. This is a non-delegable obligation. Even if it is the manufacturer who investigates the event, the reporting obligation sits with the Australian sponsor. Timeframes for reporting vary depending on the severity of the event.
 
-👉 [Adverse Event Reporting](../post-market/adverse-event-reporting/what-must-be-reported)
+👉 [Adverse Event Reporting](../post-market/adverse-event-reporting/what-must-be-reported.md)
 
 ### 4. Manage Recalls and Field Safety Actions
 
 If a device needs to be recalled or a field safety corrective action is required, the sponsor is responsible for coordinating and executing the action in Australia. This includes notifying affected customers, maintaining distribution records to facilitate the recall, and reporting progress to the TGA.
 
-👉 [Recalls and Field Safety](../post-market/recalls-and-field-safety/when-a-recall-is-required)
+👉 [Recalls and Field Safety](../post-market/recalls-and-field-safety/when-a-recall-is-required.md)
 
 ### 5. Maintain Distribution Records
 
@@ -99,8 +99,8 @@ If a health professional imports a medical device directly from an overseas supp
 
 ## Related Pages
 
-- [Manufacturers](./manufacturers)
-- [Importers and Distributors](./importers-and-distributors)
-- [ARTG Inclusion — Overview](../pre-market/artg-inclusion/overview)
-- [Adverse Event Reporting](../post-market/adverse-event-reporting/what-must-be-reported)
-- [Recalls and Field Safety](../post-market/recalls-and-field-safety/when-a-recall-is-required)
+- [Manufacturers](./manufacturers.md)
+- [Importers and Distributors](./importers-and-distributors.md)
+- [ARTG Inclusion — Overview](../pre-market/artg-inclusion/overview.md)
+- [Adverse Event Reporting](../post-market/adverse-event-reporting/what-must-be-reported.md)
+- [Recalls and Field Safety](../post-market/recalls-and-field-safety/when-a-recall-is-required.md)

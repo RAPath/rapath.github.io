@@ -32,5 +32,5 @@ Medical devices that contain or are made from non-viable animal tissues, animal 
 
 ## Related Pages
 
-- [How Classification Works](../classification/how-classification-works)
-- [EP 7 — Biological Properties](../essential-principles/ep-7-15-design-and-construction)
+- [How Classification Works](../classification/how-classification-works.md)
+- [EP 7 — Biological Properties](../essential-principles/ep-7-15-design-and-construction.md)

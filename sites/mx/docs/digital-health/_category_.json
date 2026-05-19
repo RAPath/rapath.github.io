@@ -1,0 +1,10 @@
+{
+  "label": "Digital Health & SaMD",
+  "position": 9,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "Software as a Medical Device (SaMD), AI/ML devices, and digital health apps in Mexico — COFEPRIS's evolving regulatory approach and how to classify and register software-based medical devices."
+  }
+}

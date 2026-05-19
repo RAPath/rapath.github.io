@@ -99,6 +99,6 @@ Class III is subject to the highest pre-market regulatory scrutiny. Applications
 
 ## Related Pages
 
-- [Overview & Process](./overview)
-- [Application Audits](./application-audits)
-- [Fees & Charges](./fees-and-charges)
+- [Overview & Process](./overview.md)
+- [Application Audits](./application-audits.md)
+- [Fees & Charges](./fees-and-charges.md)

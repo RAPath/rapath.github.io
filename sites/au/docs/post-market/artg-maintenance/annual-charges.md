@@ -58,6 +58,6 @@ Annual charges for export-only ARTG entries are generally lower than for devices
 
 ## Related Pages
 
-- [Varying an ARTG Entry](./varying-an-artg-entry)
-- [Suspension & Cancellation](./suspension-and-cancellation)
-- [Fees & Charges (Pre-Market)](../../pre-market/artg-inclusion/fees-and-charges)
+- [Varying an ARTG Entry](./varying-an-artg-entry.md)
+- [Suspension & Cancellation](./suspension-and-cancellation.md)
+- [Fees & Charges (Pre-Market)](../../pre-market/artg-inclusion/fees-and-charges.md)
