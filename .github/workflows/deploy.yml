@@ -22,7 +22,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        site: [hub, au, eu, hc, sg, uk, us, jp, swiss, cn, in, kr, br, my, id, vt, ru]
+        site: [hub, au, eu, hc, sg, uk, us, jp, swiss, cn, in, kr, br, my, id, vt, ru, nz, sa, mx]
       fail-fast: false   # don't cancel other sites if one fails
 
     steps:
@@ -77,7 +77,7 @@ jobs:
 
       - name: Merge builds into dist/
         run: |
-          for site in au eu hc sg uk us jp swiss cn in kr br my id vt ru; do
+          for site in au eu hc sg uk us jp swiss cn in kr br my id vt ru nz sa mx; do
             if [ -d "artifacts/build-$site" ]; then
               mkdir -p "dist/$site"
               cp -r "artifacts/build-$site/." "dist/$site/"
