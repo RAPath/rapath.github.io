@@ -134,6 +134,7 @@ export function buildSiteConfig(params: SiteParams): Config {
             href: 'https://rapath.github.io/tools/',
             label: '🔍 Regulatory Tools',
             position: 'right',
+            target: '_self', 
           },
           {
             href: params.githubDiscussions ?? 'https://github.com/orgs/RAPath/discussions',
