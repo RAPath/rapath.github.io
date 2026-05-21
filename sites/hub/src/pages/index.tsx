@@ -107,11 +107,11 @@ const jurisdictions = [
 // ─── Featured tools ───────────────────────────────────────────────────────────
 const featuredTools = [
   { emoji: '🔍', label: 'CLASSIFIER', name: 'Device Classification Wizard', path: '/tools/classifier', desc: 'Indicative classification, documentation checklist, and pathway timelines across all 19 jurisdictions.' },
-  { emoji: '🔄', label: 'VISUAL', name: 'Regulatory Process Flow', path: '/tools/process-flow', desc: 'Interactive 7-phase flowchart with jurisdiction-specific notes and per-phase checklists.' },
-  { emoji: '📊', label: 'ANALYSIS', name: 'Jurisdiction Comparison Tables', path: '/tools/comparison', desc: 'Side-by-side comparison of PMS, UDI, authorised reps, vigilance, and QMS across 16 markets.' },
-  { emoji: '📅', label: 'PLANNING', name: 'Regulatory Timeline Planner', path: '/tools/timeline', desc: 'Gantt-style view of overlapping regulatory phases, adjustable by device class.' },
-  { emoji: '📋', label: 'TECHNICAL', name: 'GSPR / Essential Req. Mapper', path: '/tools/gspr', desc: 'Map applicable General Safety & Performance Requirements to your device type with evidence guidance.' },
-  { emoji: '✅', label: 'ACTION', name: 'Submission Readiness Checklist', path: '/tools/submission-checklist', desc: 'Track submission readiness across 24 items with a live progress bar.' },
+  { emoji: '🔄', label: 'VISUAL', name: 'Regulatory Process Flow', path: '/tools/#flow', desc: 'Interactive 7-phase flowchart with jurisdiction-specific notes and per-phase checklists.' },
+  { emoji: '📊', label: 'ANALYSIS', name: 'Jurisdiction Comparison Tables', path: '/tools/#compare', desc: 'Side-by-side comparison of PMS, UDI, authorised reps, vigilance, and QMS across 19 markets.' },
+  { emoji: '📅', label: 'PLANNING', name: 'Regulatory Timeline Planner', path: '/tools/#gantt', desc: 'Gantt-style view of overlapping regulatory phases, adjustable by device class.' },
+  { emoji: '📋', label: 'TECHNICAL', name: 'GSPR / Essential Req. Mapper', path: '/tools/#gspr', desc: 'Map applicable General Safety & Performance Requirements to your device type with evidence guidance.' },
+  { emoji: '✅', label: 'ACTION', name: 'Submission Readiness Checklist', path: '/tools/#checklist', desc: 'Track submission readiness across 24 items with a live progress bar.' },
 ];
 
 const aboutPoints = [

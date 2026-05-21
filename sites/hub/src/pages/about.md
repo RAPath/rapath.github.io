@@ -15,7 +15,7 @@ RAPath does not replace official sources — it helps you find them faster.
 
 ## What RAPath covers
 
-RAPath provides plain-English summaries of publicly available regulatory information across the following jurisdictions:
+RAPath provides plain-English summaries of publicly available regulatory information across the following 19 jurisdictions:
 
 - Australia — Therapeutic Goods Administration (TGA)
 - European Union — EU MDR / IVDR
@@ -29,9 +29,13 @@ RAPath provides plain-English summaries of publicly available regulatory informa
 - India — Central Drugs Standard Control Organisation (CDSCO)
 - South Korea — Ministry of Food and Drug Safety (MFDS)
 - Brazil — ANVISA
+- Malaysia — Medical Device Authority (MDA)
+- Indonesia — BPOM / Kemenkes
+- Vietnam — Drug Administration of Vietnam (DAV) / Ministry of Health
+- Russia — Roszdravnadzor
 - Mexico — COFEPRIS
-- New Zealand — Medsafe
 - Saudi Arabia — Saudi Food and Drug Authority (SFDA)
+- New Zealand — Medsafe
 
 Each jurisdiction site covers the regulatory framework from start to finish — classification, pre-market pathways, post-market obligations, legislation, and guidance.
 

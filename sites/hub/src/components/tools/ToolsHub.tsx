@@ -3,49 +3,49 @@ import { ChevronRight, X } from "lucide-react";
 
 import "./tools.css";
 import { BLUE, TOOLS, CATS, GROUP_LABELS, type Tool } from "./data/constants";
-import { Classifier } from "./Classifier";
-import { ToolFlow } from "./panels/ToolFlow";
-import { ToolCompare } from "./panels/ToolCompare";
-import { ToolGantt } from "./panels/ToolGantt";
-import { ToolGlossary } from "./panels/ToolGlossary";
-import { ToolMDSAP } from "./panels/ToolMDSAP";
-import { ToolEcomap } from "./panels/ToolEcomap";
-import { ToolGSPR } from "./panels/ToolGSPR";
-import { ToolClinical } from "./panels/ToolClinical";
-import { ToolLabel } from "./panels/ToolLabel";
-import { ToolPMO } from "./panels/ToolPMO";
-import { ToolFee } from "./panels/ToolFee";
-import { ToolImport } from "./panels/ToolImport";
-import { ToolDistrib } from "./panels/ToolDistrib";
+import { Classifier }    from "./Classifier";
+import { ToolFlow }      from "./panels/ToolFlow";
+import { ToolCompare }   from "./panels/ToolCompare";
+import { ToolGantt }     from "./panels/ToolGantt";
+import { ToolGlossary }  from "./panels/ToolGlossary";
+import { ToolMDSAP }     from "./panels/ToolMDSAP";
+import { ToolEcomap }    from "./panels/ToolEcomap";
+import { ToolGSPR }      from "./panels/ToolGSPR";
+import { ToolClinical }  from "./panels/ToolClinical";
+import { ToolLabel }     from "./panels/ToolLabel";
+import { ToolPMO }       from "./panels/ToolPMO";
+import { ToolFee }       from "./panels/ToolFee";
+import { ToolImport }    from "./panels/ToolImport";
+import { ToolDistrib }   from "./panels/ToolDistrib";
 import { ToolChecklist } from "./panels/ToolChecklist";
-import { ToolGap } from "./panels/ToolGap";
-import { ToolIVD } from "./panels/ToolIVD";
-import { ToolSaMD } from "./panels/ToolSaMD";
-import { ToolCyber } from "./panels/ToolCyber";
+import { ToolGap }       from "./panels/ToolGap";
+import { ToolIVD }       from "./panels/ToolIVD";
+import { ToolSaMD }      from "./panels/ToolSaMD";
+import { ToolCyber }     from "./panels/ToolCyber";
 
-// ── Panel content map ─────────────────────────────────────────────────────
+// ── Panel map: tool id → component ───────────────────────────────────────
 const PANELS: Record<string, React.ComponentType> = {
-  flow: ToolFlow,
-  compare: ToolCompare,
-  gantt: ToolGantt,
-  glossary: ToolGlossary,
-  mdsap: ToolMDSAP,
-  ecomap: ToolEcomap,
-  gspr: ToolGSPR,
-  clinical: ToolClinical,
-  label: ToolLabel,
-  pmo: ToolPMO,
-  fee: ToolFee,
-  import: ToolImport,
-  distrib: ToolDistrib,
+  flow:      ToolFlow,
+  compare:   ToolCompare,
+  gantt:     ToolGantt,
+  glossary:  ToolGlossary,
+  mdsap:     ToolMDSAP,
+  ecomap:    ToolEcomap,
+  gspr:      ToolGSPR,
+  clinical:  ToolClinical,
+  label:     ToolLabel,
+  pmo:       ToolPMO,
+  fee:       ToolFee,
+  import:    ToolImport,
+  distrib:   ToolDistrib,
   checklist: ToolChecklist,
-  gap: ToolGap,
-  ivd: ToolIVD,
-  samd: ToolSaMD,
-  cyber: ToolCyber,
+  gap:       ToolGap,
+  ivd:       ToolIVD,
+  samd:      ToolSaMD,
+  cyber:     ToolCyber,
 };
 
-// ── Subcomponents ─────────────────────────────────────────────────────────
+// ── ToolCard ──────────────────────────────────────────────────────────────
 function ToolCard({ tool, active, onToggle }: { tool: Tool; active: boolean; onToggle: () => void }) {
   return (
     <button className={`th-card${active ? " on" : ""}`} onClick={onToggle}>
@@ -62,6 +62,7 @@ function ToolCard({ tool, active, onToggle }: { tool: Tool; active: boolean; onT
   );
 }
 
+// ── ToolPanel ─────────────────────────────────────────────────────────────
 function ToolPanel({ tool, onClose }: { tool: Tool; onClose: () => void }) {
   const Content = tool.id === "classifier" ? Classifier : PANELS[tool.id];
   if (!Content) return null;
@@ -87,25 +88,53 @@ function ToolPanel({ tool, onClose }: { tool: Tool; onClose: () => void }) {
   );
 }
 
-// ── Main Hub ──────────────────────────────────────────────────────────────
+// ── ToolsHub (main) ───────────────────────────────────────────────────────
 export default function ToolsHub(): JSX.Element {
-  const [cat, setCat] = useState("all");
+  const [cat,    setCat]    = useState("all");
   const [active, setActive] = useState<string | null>(null);
   const panelRef = useRef<HTMLDivElement>(null);
 
+  // Hash-based deep linking — /tools/#flow, /tools/#compare, etc.
+  // Opens the matching panel automatically and keeps the URL in sync.
+  // Hub homepage and external links can use these hashes to deep-link.
+  useEffect(() => {
+    const openFromHash = () => {
+      const hash = window.location.hash.replace("#", "").toLowerCase();
+      if (!hash) return;
+      const match = TOOLS.find(t => t.id === hash);
+      if (match) {
+        setActive(match.id);
+        setCat(match.cat);
+      }
+    };
+    openFromHash();
+    window.addEventListener("hashchange", openFromHash);
+    return () => window.removeEventListener("hashchange", openFromHash);
+  }, []);
+
+  // Scroll the open panel into view smoothly
   useEffect(() => {
     if (active && panelRef.current) {
       setTimeout(() => panelRef.current?.scrollIntoView({ behavior: "smooth", block: "start" }), 100);
     }
   }, [active]);
 
-  const visible = cat === "all" ? TOOLS : TOOLS.filter(t => t.cat === cat);
+  const visible    = cat === "all" ? TOOLS : TOOLS.filter(t => t.cat === cat);
   const activeTool = active ? TOOLS.find(t => t.id === active) : null;
-  const toggle = (id: string) => setActive(prev => prev === id ? null : id);
+
+  // Toggle panel open/closed and keep URL hash in sync
+  const toggle = (id: string) => {
+    const next = active === id ? null : id;
+    setActive(next);
+    if (typeof window !== "undefined") {
+      history.replaceState(null, "", next ? `#${next}` : window.location.pathname);
+    }
+  };
 
   const CAT_ORDER = ["classify", "general", "mfr", "import", "ra", "sw"];
-  const grouped = CAT_ORDER.map(catId => ({
-    catId, label: GROUP_LABELS[catId],
+  const grouped   = CAT_ORDER.map(catId => ({
+    catId,
+    label: GROUP_LABELS[catId],
     tools: TOOLS.filter(t => t.cat === catId),
   }));
 
@@ -156,7 +185,7 @@ export default function ToolsHub(): JSX.Element {
 
         {activeTool && (
           <div ref={panelRef}>
-            <ToolPanel tool={activeTool} onClose={() => setActive(null)} />
+            <ToolPanel tool={activeTool} onClose={() => toggle(activeTool.id)} />
           </div>
         )}
 
