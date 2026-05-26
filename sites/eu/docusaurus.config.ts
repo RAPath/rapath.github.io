@@ -9,7 +9,7 @@ export default buildSiteConfig({
     { label: 'Start Here', to: '/start-here/what-is-a-medical-device' },
     { label: 'Pre-Market', to: '/pre-market/classification/how-classification-works' },
     { label: 'Post-Market', to: '/post-market/post-market-overview' },
-    { label: 'Legislation', to: '/legislation/what-is-mdr-ivdr' },
+    { label: 'Legislation', to: '/legislation/mdr-key-articles' },
     { label: 'Notified Bodies', to: '/notified-bodies/what-notified-bodies-do' },
     { label: "What's New", to: '/whats-new/recent-regulatory-changes' },
   ],

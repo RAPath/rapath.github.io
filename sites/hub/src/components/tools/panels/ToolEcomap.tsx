@@ -20,6 +20,11 @@ const ECO = [
   {flag:"🇲🇽",jur:"Mexico",         reg:"COFEPRIS",        roles:[{n:"Titular del Reg.", r:"Mandatory — Mexico-incorporated legal entity; holds Registro Sanitario; legally responsible."},{n:"Manufacturer",     r:"Foreign manufacturers must appoint Mexican titular del registro for Class II/III."},{n:"Distributor",     r:"Must operate through titular del registro; COFEPRIS records maintenance required."}]},
   {flag:"🇸🇦",jur:"Saudi Arabia",   reg:"SFDA",            roles:[{n:"Saudi AR",         r:"Mandatory — Saudi Arabia-registered entity; holds SFDA MDNR registration; legally responsible."},{n:"Manufacturer",     r:"Foreign manufacturers must appoint Saudi AR before SFDA registration."},{n:"Distributor",     r:"Must operate through Saudi AR; SFDA records and Dealer's Licence may apply."}]},
   {flag:"🇳🇿",jur:"New Zealand",    reg:"Medsafe",         roles:[{n:"NZ Sponsor/Agent", r:"NZ-established entity strongly recommended; holds Medsafe registration/notification."},{n:"Manufacturer",     r:"Foreign manufacturers should appoint NZ agent; TGA Sponsor may cover Trans-Tasman pathway."},{n:"Distributor",     r:"No formal separate licence required; must deal through registered entity."}]},
+  {flag:"🇭🇰",jur:"Hong Kong",     reg:"MDD / MDACS",          roles:[{n:"LAR",             r:"Local Authorized Representative strongly recommended; MDACS transitioning to mandatory LAR requirement."},{n:"Manufacturer",     r:"Foreign manufacturers must appoint LAR; MDACS registration required for Class II/III."},{n:"Distributor",     r:"Must deal through LAR/registered entity; MDACS compliance verification required."}]},
+  {flag:"🇹🇭",jur:"Thailand",       reg:"Thai FDA / MDCD",       roles:[{n:"MDEL Holder",      r:"Medical Device Establishment Licence (MDEL) mandatory for importer/distributor under Medical Device Act B.E. 2562."},{n:"Manufacturer",     r:"Foreign manufacturers must appoint Thai MDEL holder; Foreign Manufacturer Registration may be required."},{n:"Distributor",     r:"Must hold appropriate MDEL; Thai FDA MDCD records maintenance required."}]},
+  {flag:"🇵🇭",jur:"Philippines",    reg:"FDA Philippines / CDRRHR",roles:[{n:"LTO Holder",      r:"License to Operate (LTO) mandatory; Philippines-registered entity; holds Certificate of Product Registration (CPR)."},{n:"Manufacturer",     r:"Foreign manufacturers must appoint Philippine LTO holder; FDA Philippines CDRRHR oversight."},{n:"Distributor",     r:"Must hold LTO from FDA Philippines; CPR maintenance obligations."}]},
+  {flag:"🇧🇩",jur:"Bangladesh",     reg:"DGDA",                   roles:[{n:"DGDA Agent",       r:"Local importer/agent required; must hold DGDA Import Registration Certificate and relevant import licences."},{n:"Manufacturer",     r:"Foreign manufacturers must appoint local DGDA-registered agent; IRC (Import Registration Certificate) required."},{n:"Distributor",     r:"Must operate through DGDA-registered importer; local business registration required."}]},
+  {flag:"🇱🇰",jur:"Sri Lanka",      reg:"NMRA",                   roles:[{n:"NMRA Agent",       r:"Local authorized representative required under NMRA Act No. 5 of 2015; Sri Lanka-registered entity; holds NMRA registration."},{n:"Manufacturer",     r:"Foreign manufacturers must appoint local NMRA-registered agent before registration application."},{n:"Distributor",     r:"Must operate through NMRA-registered entity; local business registration required."}]},
 ];
 
 export function ToolEcomap() {
@@ -55,7 +60,7 @@ export function ToolEcomap() {
         ))}
       </div>
       <p style={{fontSize:11,color:"#94a3b8",marginTop:14,textAlign:"center"}}>
-        All 19 RAPath jurisdictions. Verify current requirements with a local regulatory consultant before appointing representatives.
+        All 24 RAPath jurisdictions. Verify current requirements with a local regulatory consultant before appointing representatives.
       </p>
     </div>
   );

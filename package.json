@@ -27,8 +27,11 @@
     "start:nz": "npm run start --workspace=sites/nz    -- --port 3017",
     "start:sa": "npm run start --workspace=sites/sa    -- --port 3018",
     "start:mx": "npm run start --workspace=sites/mx    -- --port 3019",
-
-    
+    "start:hk": "npm run start --workspace=sites/hk    -- --port 3020",
+    "start:bd": "npm run start --workspace=sites/bd    -- --port 3021",
+    "start:lk": "npm run start --workspace=sites/lk    -- --port 3022",
+    "start:th": "npm run start --workspace=sites/th    -- --port 3023",
+    "start:ph": "npm run start --workspace=sites/ph    -- --port 3024",
     "build:hub": "npm run build --workspace=sites/hub",
     "build:au": "npm run build --workspace=sites/au",
     "build:eu": "npm run build --workspace=sites/eu",
@@ -49,9 +52,15 @@
     "build:nz": "npm run build --workspace=sites/nz",
     "build:sa": "npm run build --workspace=sites/sa",
     "build:mx": "npm run build --workspace=sites/mx",
+    "build:hk": "npm run build --workspace=sites/hk",
+    "build:bd": "npm run build --workspace=sites/bd",
+    "build:lk": "npm run build --workspace=sites/lk",
+    "build:th": "npm run build --workspace=sites/th",
+    "build:ph": "npm run build --workspace=sites/ph",
     "build:all": "bash scripts/build-all.sh"
   },
   "dependencies": {
-    "@docusaurus/faster": "^3.10.1"
+    "@docusaurus/faster": "^3.10.1",
+    "@easyops-cn/docusaurus-search-local": "^0.55.1"
   }
 }

@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-const MARKETS = ["EU MDR","FDA","TGA","HSA","MHRA","Health Canada","PMDA","ANVISA","Swissmedic","NMPA","CDSCO","MFDS","MDA","BPOM","DAV","Roszdravnadzor","COFEPRIS","SFDA","Medsafe"];
+const MARKETS = ["EU MDR","FDA","TGA","HSA","MHRA","Health Canada","PMDA","ANVISA","Swissmedic","NMPA","CDSCO","MFDS","MDA","BPOM","DAV","Roszdravnadzor","COFEPRIS","SFDA","Medsafe","MDD/MDACS","Thai FDA","FDA Philippines","DGDA","NMRA"];
 
 interface Gap { sev:"high"|"med"|"low"; t:string; d:string; }
 

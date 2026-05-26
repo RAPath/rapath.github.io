@@ -144,12 +144,12 @@ export default function ToolsHub(): JSX.Element {
         <div className="th-hero-in">
           <div className="th-hero-tag">
             <div style={{ width: 6, height: 6, borderRadius: "50%", background: "rgba(255,255,255,.9)" }} />
-            19 FREE TOOLS · 19 JURISDICTIONS · NO AI REQUIRED
+            19 FREE TOOLS · 24 JURISDICTIONS · NO AI REQUIRED
           </div>
           <h1>Regulatory Intelligence<br />for Medical Devices</h1>
           <p>Every tool a regulatory professional, manufacturer, importer, or consultant needs — device classification, process flows, comparison tables, checklists, gap analysis, and more.</p>
           <div className="th-stats">
-            {[["19", "Free tools"], ["19", "Jurisdictions"], ["5", "User types"]].map(([n, l]) => (
+            {[["19", "Free tools"], ["24", "Jurisdictions"], ["5", "User types"]].map(([n, l]) => (
               <div key={l}><div className="th-stat-n">{n}</div><div className="th-stat-l">{l}</div></div>
             ))}
           </div>

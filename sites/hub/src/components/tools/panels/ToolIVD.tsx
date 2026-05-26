@@ -126,7 +126,7 @@ export function ToolIVD() {
           </div>
           <div style={{padding:"12px 14px",background:"white",borderRadius:9,fontSize:13,color:"#374151",lineHeight:1.6,marginBottom:12}}><strong>Note:</strong> {result.note}</div>
           <div style={{padding:"12px 14px",background:"#eff6ff",borderRadius:9,fontSize:12,color:"#1e40af",lineHeight:1.6,marginBottom:8}}><strong>Regulatory routes:</strong> {result.route}</div>
-          <div className="th-warn" style={{marginTop:8}}>IVD classification is analyte-specific — always verify against each jurisdiction's IVD classification catalogue. MX (COFEPRIS), CN (NMPA), IN (CDSCO), KR (MFDS), BR (ANVISA), MY, ID, VN, RU follow similar risk-based frameworks — consult a local IVD specialist for these markets.</div>
+          <div className="th-warn" style={{marginTop:8}}>IVD classification is analyte-specific — always verify against each jurisdiction's IVD classification catalogue. MX (COFEPRIS), CN (NMPA), IN (CDSCO), KR (MFDS), BR (ANVISA), MY, ID, VN, RU, HK (MDD/MDACS), TH (Thai FDA), PH (FDA Philippines), BD (DGDA), LK (NMRA) follow similar risk-based frameworks — consult a local IVD specialist for these markets.</div>
         </div>
       )}
     </div>

@@ -59,7 +59,72 @@ const JURS = [
    recommended:["SFDA Recognised Route available for devices with CE (EU NB), FDA 510(k)/PMA, TGA, HC approval — significantly reduces review time","Plan 6–12 months for Class B Recognised Route; 12–18 months for Class C full dossier","SFDA eGateway portal for all registration submissions"]},
   {code:"NZ",label:"🇳🇿 NZ",  name:"New Zealand (Medsafe)",
    mandatory:["NZ-established entity or agent strongly recommended for all non-NZ manufacturers","Device must be notified/registered with Medsafe before placing on NZ market","Class I: web-based notification to Medsafe; self-declaration of conformity","Class IIa+: conformity assessment body review required; CE marking or TGA approval accepted","CE marking accepted; TGA approval accepted under Trans-Tasman Mutual Recognition","English labelling; same basic labelling standards as Australia apply","Medsafe registration/listing number on device if required"],
-   recommended:["TGA Australian Sponsor may cover NZ market under Trans-Tasman arrangements — verify applicability","Therapeutic Products Act 2023 phased implementation — verify current requirements with Medsafe","NZ is closely aligned with Australia — AU TGA sponsor and documentation largely transferable"]},
+   recommended:["TGA Australian Sponsor may cover NZ market under Trans-Tasman arrangements — verify applicability","Therapeutic Products Act 2023 phased implementation — verify current requirements with Medsafe","NZ is closely aligned with Australia — AU TGA sponsor and documentation largely transferable"]},,
+  {code:"HK",label:"🇭🇰 HK",  name:"Hong Kong (MDD / MDACS)",
+   mandatory:[
+     "Local Authorized Representative (LAR) strongly recommended — MDACS transitioning to mandatory LAR requirement",
+     "MDACS product registration required for Class II and III devices before import",
+     "Class I devices: self-declaration under voluntary MDACS scheme; transitioning to mandatory",
+     "Overseas regulatory approval (CE, FDA, TGA, HSA) required as supporting evidence for Class II/III",
+     "Technical documentation including clinical evaluation required for Class II/III",
+     "English or Traditional Chinese labelling required",
+   ],
+   recommended:[
+     "Engage LAR early — MDACS transitioning to mandatory requirements, timelines unclear",
+     "CE or FDA approval strongly recommended before MDACS application — streamlines assessment",
+   ]},
+  {code:"TH",label:"🇹🇭 TH",  name:"Thailand (Thai FDA / MDCD)",
+   mandatory:[
+     "Medical Device Establishment Licence (MDEL) mandatory for all importers and distributors",
+     "MDEL issued under Medical Device Act B.E. 2562 (2019) — must be obtained before importation",
+     "Device must hold Thai FDA MDCD registration (Class 2/3) or notification (Class 1) before import",
+     "ISO 13485 certification required for Class 2/3 registration applications",
+     "Thai-language labelling required for all devices marketed in Thailand",
+     "MDEL holder bears legal responsibility for device safety in Thailand",
+   ],
+   recommended:[
+     "Overseas approval (CE, FDA, TGA) can support Thai FDA application and reduce review time",
+     "Plan 6–12 months for Class 2 registration; 12–18 months for Class 3",
+   ]},
+  {code:"PH",label:"🇵🇭 PH",  name:"Philippines (FDA Philippines / CDRRHR)",
+   mandatory:[
+     "License to Operate (LTO) mandatory — Philippines-registered legal entity; holds CPR",
+     "Certificate of Product Registration (CPR) required before import and distribution of Class B–D",
+     "LTO holder (importer/distributor) is legally responsible entity in the Philippines",
+     "ISO 13485 or WHO-GMP certification required for Class C/D CPR applications",
+     "Filipino-language or bilingual labelling may be required; English accepted for professional-use devices",
+     "FDA Philippines CDRRHR oversight — Center for Device Regulation, Radiation Health, and Research",
+   ],
+   recommended:[
+     "Overseas approval (CE, FDA, TGA) accepted as supporting evidence — reduces CDRRHR review burden",
+     "Plan 12–18 months for Class B/C CPR; 18–24 months for Class D",
+   ]},
+  {code:"BD",label:"🇧🇩 BD",  name:"Bangladesh (DGDA)",
+   mandatory:[
+     "Local importer/agent required — must hold DGDA Import Registration Certificate (IRC)",
+     "IRC from DGDA required before importation of medical devices",
+     "Technical documentation and safety data required with IRC application",
+     "GMP certificate from competent authority of country of origin required",
+     "Customs clearance through Bangladesh Customs — device import permit may be required per batch",
+     "English or Bangla labelling; country of origin and manufacturer details required",
+   ],
+   recommended:[
+     "Overseas regulatory approval (CE, FDA, TGA) strongly supports DGDA application",
+     "DGDA regulatory framework for medical devices is still developing — allow significant lead time",
+   ]},
+  {code:"LK",label:"🇱🇰 LK",  name:"Sri Lanka (NMRA)",
+   mandatory:[
+     "Local authorized representative required under NMRA Act No. 5 of 2015",
+     "NMRA registration required before import of Class B–D devices",
+     "Class A: NMRA notification/listing; Class B–D: full NMRA registration required",
+     "Technical dossier and safety/performance data required for registration",
+     "ISO 13485 certification or GMP certificate required",
+     "English labelling accepted; Sinhala/Tamil may be required for consumer-facing products",
+   ],
+   recommended:[
+     "Overseas approval (CE, FDA, TGA) accepted as supporting evidence and simplifies NMRA review",
+     "NMRA registration processing time: Class B ~6–12 months; Class C/D ~12–18 months",
+   ]}
 ];
 
 export function ToolImport() {

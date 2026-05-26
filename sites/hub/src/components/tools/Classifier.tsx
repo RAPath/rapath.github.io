@@ -16,7 +16,7 @@ function HomeScreen({ onStart, onStartSaMD }: { onStart: () => void; onStartSaMD
     <div>
       <p style={{ fontSize: 14, color: "#64748b", lineHeight: 1.7, marginBottom: 24 }}>
         Answer 5 plain-English questions and receive indicative device classification,
-        required documentation, and pathway timelines across all 19 RAPath jurisdictions.
+        required documentation, and pathway timelines across all 24 RAPath jurisdictions.
       </p>
 
       {/* Primary CTA */}
@@ -24,7 +24,7 @@ function HomeScreen({ onStart, onStartSaMD }: { onStart: () => void; onStartSaMD
         <div style={{ textAlign: "left" }}>
           <div style={{ fontSize: 10, fontWeight: 700, letterSpacing: 1, opacity: .75, marginBottom: 6 }}>MOST USED</div>
           <div style={{ fontSize: 17, fontWeight: 700, marginBottom: 4 }}>Device Classification Wizard</div>
-          <div style={{ fontSize: 12, opacity: .85 }}>5 questions · 19 jurisdictions · Classification, documentation &amp; pathway</div>
+          <div style={{ fontSize: 12, opacity: .85 }}>5 questions · 24 jurisdictions · Classification, documentation &amp; pathway</div>
         </div>
         <div style={{ width: 46, height: 46, minWidth: 46, borderRadius: 13, background: "rgba(255,255,255,.18)", display: "flex", alignItems: "center", justifyContent: "center" }}>
           <Stethoscope size={22} />
@@ -58,7 +58,7 @@ function HomeScreen({ onStart, onStartSaMD }: { onStart: () => void; onStartSaMD
       <div style={{ background: "#f8fafc", borderRadius: 14, padding: "16px 18px", marginBottom: 16 }}>
         <div style={{ fontSize: 12, fontWeight: 700, color: "#0f172a", marginBottom: 12 }}>What the wizard provides</div>
         {[
-          [BLUE,      "#eff6ff", "Classification across all 19 jurisdictions"],
+          [BLUE,      "#eff6ff", "Classification across all 24 jurisdictions"],
           ["#7c3aed", "#faf5ff", "Documentation checklist by risk level"],
           ["#ea580c", "#fff7ed", "Regulatory pathway phases with timelines"],
           ["#16a34a", "#f0fdf4", "SaMD & software-specific requirements"],

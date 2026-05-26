@@ -23,6 +23,11 @@ const DATA = [
   {flag:"🇮🇩",c:"Indonesia",      lv:"No Direct Benefit", lc:"#991b1b",lb:"#fee2e2",note:"BPOM requires separate QMS verification. ISO 13485 overseas cert may help."},
   {flag:"🇻🇳",c:"Vietnam",        lv:"No Direct Benefit", lc:"#991b1b",lb:"#fee2e2",note:"DAV/MOH accepts overseas ISO 13485 certificates but MDSAP is not formally recognised."},
   {flag:"🇷🇺",c:"Russia",         lv:"No Direct Benefit", lc:"#991b1b",lb:"#fee2e2",note:"Roszdravnadzor requires GOST R ISO 13485 or separate Russian QMS inspection. MDSAP not recognised."},
+  {flag:"🇭🇰",c:"Hong Kong",      lv:"No Direct Benefit", lc:"#991b1b",lb:"#fee2e2",note:"MDD/MDACS does not formally recognise MDSAP. ISO 13485 overseas certificates accepted as supporting evidence for MDACS applications."},
+  {flag:"🇹🇭",c:"Thailand",        lv:"No Direct Benefit", lc:"#991b1b",lb:"#fee2e2",note:"Thai FDA MDCD does not formally recognise MDSAP. ISO 13485 certificate required; Thai GMP inspection may apply for domestic manufacturers."},
+  {flag:"🇵🇭",c:"Philippines",     lv:"No Direct Benefit", lc:"#991b1b",lb:"#fee2e2",note:"FDA Philippines CDRRHR does not formally recognise MDSAP. ISO 13485 or WHO-GMP required; overseas certificates accepted as supporting evidence."},
+  {flag:"🇧🇩",c:"Bangladesh",      lv:"No Direct Benefit", lc:"#991b1b",lb:"#fee2e2",note:"DGDA does not formally recognise MDSAP. GMP certificate from competent authority of origin country required; developing regulatory framework."},
+  {flag:"🇱🇰",c:"Sri Lanka",       lv:"No Direct Benefit", lc:"#991b1b",lb:"#fee2e2",note:"NMRA does not formally recognise MDSAP. ISO 13485 overseas certificates accepted as supporting evidence for NMRA registration applications."},
 ];
 
 const LEGEND = [
@@ -56,7 +61,7 @@ export function ToolMDSAP() {
         ))}
       </div>
       <p style={{fontSize:11,color:"#94a3b8",marginTop:14,textAlign:"center"}}>
-        All 19 RAPath jurisdictions. Verify current recognition status directly with each authority before planning certification strategy.
+        All 24 RAPath jurisdictions. Verify current recognition status directly with each authority before planning certification strategy.
       </p>
     </div>
   );

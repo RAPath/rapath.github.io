@@ -40,7 +40,22 @@ const DATA = [
   {flag:"🇸🇦",jur:"Saudi Arabia",   reg:"SFDA",
    fees:[{l:"MDNR listing — Class A",v:"SAR 500–1,500",n:"≈ USD 133–400; eGateway listing fee"},{l:"MDNR registration — Class B",v:"SAR 1,500–5,000",n:"≈ USD 400–1,333; standard registration"},{l:"MDNR registration — Class C",v:"SAR 5,000–15,000",n:"≈ USD 1,333–4,000; full dossier review"},{l:"MDNR registration — Class D",v:"SAR 15,000–30,000",n:"≈ USD 4,000–8,000; comprehensive review"},{l:"Annual renewal fee",v:"SAR 500–3,000",n:"Varies by device class"}]},
   {flag:"🇳🇿",jur:"New Zealand",    reg:"Medsafe",
-   fees:[{l:"Device notification — Class I",v:"NZD 200–500",n:"Web notification / listing fee"},{l:"Conformity assessment — Class IIa",v:"NZD 500–2,000",n:"Medsafe assessment fee"},{l:"Conformity assessment — Class IIb/III",v:"NZD 2,000–8,000",n:"Full review; TGA pathway may reduce"},{l:"Annual retention",v:"NZD 200–1,000",n:"Annual maintenance; varies by class"}]},
+   fees:[{l:"Device notification — Class I",v:"NZD 200–500",n:"Web notification / listing fee"},{l:"Conformity assessment — Class IIa",v:"NZD 500–2,000",n:"Medsafe assessment fee"},{l:"Conformity assessment — Class IIb/III",v:"NZD 2,000–8,000",n:"Full review; TGA pathway may reduce"},{l:"Annual retention",v:"NZD 200–1,000",n:"Annual maintenance; varies by class"}]},,
+  {
+    flag:"🇭🇰",jur:"Hong Kong",      reg:"MDD / MDACS",
+    fees:[{l:"MDACS registration — Class I",v:"HKD 500–1,500",n:"≈ USD 65–195; notification/self-declaration fee"},{l:"MDACS registration — Class II",v:"HKD 2,000–8,000",n:"≈ USD 260–1,030; full registration"},{l:"MDACS registration — Class III",v:"HKD 8,000–20,000",n:"≈ USD 1,030–2,580; full registration + assessment"},{l:"Annual maintenance fee",v:"HKD 500–2,000",n:"Per registered product; annually"}]},
+  {
+    flag:"🇹🇭",jur:"Thailand",        reg:"Thai FDA / MDCD",
+    fees:[{l:"Class 1 notification",v:"THB 500–2,000",n:"≈ USD 14–56; MDCD notification fee"},{l:"Class 2 registration",v:"THB 5,000–15,000",n:"≈ USD 140–420; standard registration"},{l:"Class 3 registration",v:"THB 15,000–40,000",n:"≈ USD 420–1,115; full MDCD review"},{l:"MDEL annual fee",v:"THB 3,000–10,000",n:"Medical Device Establishment Licence; annual renewal"}]},
+  {
+    flag:"🇵🇭",jur:"Philippines",     reg:"FDA Philippines / CDRRHR",
+    fees:[{l:"CPR — Class A",v:"PHP 2,000–5,000",n:"≈ USD 35–90; Certificate of Product Registration"},{l:"CPR — Class B",v:"PHP 5,000–15,000",n:"≈ USD 90–270; standard registration"},{l:"CPR — Class C",v:"PHP 15,000–30,000",n:"≈ USD 270–535; full CDRRHR review"},{l:"CPR — Class D",v:"PHP 30,000–60,000",n:"≈ USD 535–1,070; comprehensive review"},{l:"LTO annual fee",v:"PHP 3,000–8,000",n:"License to Operate; annual renewal"}]},
+  {
+    flag:"🇧🇩",jur:"Bangladesh",      reg:"DGDA",
+    fees:[{l:"Import Registration Certificate",v:"BDT 5,000–20,000",n:"≈ USD 45–180; DGDA import registration"},{l:"Product registration fee",v:"BDT 10,000–50,000",n:"≈ USD 90–455; varies by device type and class"},{l:"Annual renewal",v:"BDT 5,000–15,000",n:"Varies by device class; renewal required annually"}]},
+  {
+    flag:"🇱🇰",jur:"Sri Lanka",       reg:"NMRA",
+    fees:[{l:"NMRA registration — Class A/B",v:"LKR 5,000–15,000",n:"≈ USD 15–45; NMRA registration fee"},{l:"NMRA registration — Class C",v:"LKR 15,000–30,000",n:"≈ USD 45–90; standard registration"},{l:"NMRA registration — Class D",v:"LKR 30,000–60,000",n:"≈ USD 90–180; comprehensive review"},{l:"Annual maintenance",v:"LKR 5,000–15,000",n:"Per registered product; annually"}]}
 ];
 
 export function ToolFee() {

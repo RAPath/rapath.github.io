@@ -136,9 +136,9 @@ This is a crucial compliance boundary — importers who add their own branding, 
 ## Related pages
 
 - [Who needs to comply?](../who-needs-to-comply)
-- [Manufacturers](./01-manufacturers)
-- [Authorised representatives (EU REPs)](./02-authorised-representatives)
-- [Distributors](./04-distributors)
+- [Manufacturers](./manufacturers)
+- [Authorised representatives (EU REPs)](./authorised-representatives)
+- [Distributors](./distributors)
 - [EUDAMED registration](/post-market/eudamed-registration)
 
 ---

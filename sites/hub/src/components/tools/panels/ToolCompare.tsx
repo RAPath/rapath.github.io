@@ -23,6 +23,12 @@ const DATA: Record<string,{jur:string;cls:string;freq:string;d:string}[]> = {
     {jur:"🇲🇽 MX",  cls:"II–III",     freq:"Periodic reports",     d:"Post-market safety reports required for Class II/III. COFEPRIS VUSAR vigilance system."},
     {jur:"🇸🇦 SA",  cls:"B–D",        freq:"Annual PMS",           d:"PMS plan required at SFDA registration; annual review for Class B–D. FSCA reporting mandatory."},
     {jur:"🇳🇿 NZ",  cls:"IIa–III",    freq:"Annual review",        d:"PMS plan expected for higher-class devices; aligned with TGA requirements. FSCA reporting to Medsafe."},
+
+    {jur:"🇭🇰 HK",  cls:"II–III",     freq:"Annual PMS",           d:"PMS plan required; annual review for Class II/III. FSCAs and adverse events reported to MDD/MDACS."},
+    {jur:"🇹🇭 TH",  cls:"2–3",         freq:"Annual PMS",           d:"PMS obligations under Medical Device Act B.E. 2562; periodic safety reports to Thai FDA MDCD. Annual review required."},
+    {jur:"🇵🇭 PH",  cls:"B–D",         freq:"Annual PMS / CPR renewal", d:"Post-market surveillance required; adverse events reported to FDA Philippines CDRRHR. CPR renewal obligations."},
+    {jur:"🇧🇩 BD",  cls:"B–D",         freq:"Periodic reports",     d:"Post-market obligations under DGDA framework; adverse event reporting developing. Annual safety review recommended."},
+    {jur:"🇱🇰 LK",  cls:"B–D",         freq:"Annual PMS",           d:"PMS obligations under NMRA Act; adverse event reporting to NMRA. Annual review for Class B–D devices."},
   ],
   "UDI Requirements":[
     {jur:"🇦🇺 AU",  cls:"III (phased)",    freq:"IMDRF aligned",    d:"TGA UDI framework aligning with IMDRF; Class III first. TGA product code as interim identifier."},
@@ -44,6 +50,12 @@ const DATA: Record<string,{jur:string;cls:string;freq:string;d:string}[]> = {
     {jur:"🇲🇽 MX",  cls:"In development", freq:"IMDRF aligned",    d:"COFEPRIS UDI framework under development; NOM-241 labelling requirements apply currently."},
     {jur:"🇸🇦 SA",  cls:"All (phased)",   freq:"SFDA UDI system",  d:"SFDA UDI system aligned with IMDRF; Class C/D first, phasing to Class A/B. eGateway submission."},
     {jur:"🇳🇿 NZ",  cls:"Aligning w/ AU", freq:"Mirrors TGA/IMDRF",d:"New Zealand aligning UDI requirements with TGA under Trans-Tasman framework. CE/TGA UDI accepted."},
+
+    {jur:"🇭🇰 HK",  cls:"In development", freq:"IMDRF aligned",    d:"MDD/MDACS UDI framework under development; aligning with IMDRF guidance for mandatory scheme."},
+    {jur:"🇹🇭 TH",  cls:"In development", freq:"IMDRF aligned",    d:"Thai FDA UDI framework under development; ASEAN harmonisation basis."},
+    {jur:"🇵🇭 PH",  cls:"In development", freq:"ASEAN aligned",    d:"FDA Philippines UDI framework under development; ASEAN AMDD harmonisation."},
+    {jur:"🇧🇩 BD",  cls:"In development", freq:"Developing",       d:"DGDA UDI framework not yet established; developing regulatory infrastructure."},
+    {jur:"🇱🇰 LK",  cls:"In development", freq:"Developing",       d:"NMRA UDI framework not yet established; aligned with developing ASEAN harmonisation."},
   ],
   "Authorised Representative":[
     {jur:"🇦🇺 AU",  cls:"Foreign mfrs",  freq:"Sponsor",              d:"Australian Sponsor mandatory; holds ARTG application; legally responsible entity in Australia."},
@@ -65,6 +77,12 @@ const DATA: Record<string,{jur:string;cls:string;freq:string;d:string}[]> = {
     {jur:"🇲🇽 MX",  cls:"Foreign mfrs", freq:"Titular del Registro", d:"Mexican titular del registro (registration holder) mandatory — Mexico-incorporated legal entity; holds Registro Sanitario."},
     {jur:"🇸🇦 SA",  cls:"Foreign mfrs", freq:"Saudi AR",             d:"Saudi Authorised Representative mandatory — Saudi Arabia-registered entity; holds SFDA MDNR registration."},
     {jur:"🇳🇿 NZ",  cls:"Foreign mfrs", freq:"NZ Sponsor / Agent",   d:"NZ-established entity or agent strongly recommended; Trans-Tasman arrangements with AU simplify requirements."},
+
+    {jur:"🇭🇰 HK",  cls:"Foreign mfrs",   freq:"LAR",              d:"Local Authorized Representative strongly recommended; MDACS transitioning to mandatory LAR requirement."},
+    {jur:"🇹🇭 TH",  cls:"Foreign mfrs",   freq:"Medical Device Establishment Licence", d:"MDEL (importer/distributor licence) mandatory under Medical Device Act B.E. 2562; foreign manufacturers must appoint Thai licensee."},
+    {jur:"🇵🇭 PH",  cls:"Foreign mfrs",   freq:"LTO holder",       d:"License to Operate (LTO) holder mandatory; Philippines-registered entity; holds Certificate of Product Registration (CPR)."},
+    {jur:"🇧🇩 BD",  cls:"Foreign mfrs",   freq:"DGDA Agent",       d:"Local importer/agent required; must hold DGDA Import Registration Certificate and relevant licences."},
+    {jur:"🇱🇰 LK",  cls:"Foreign mfrs",   freq:"NMRA Agent",       d:"Local authorized representative required under NMRA Act; must be Sri Lanka-registered entity."},
   ],
   "Vigilance Reporting":[
     {jur:"🇦🇺 AU",  cls:"All", freq:"48h / 10 / 30 days",    d:"48h for imminent hazard/death. 10 working days for serious. 30 days for other reportable incidents."},
@@ -86,6 +104,12 @@ const DATA: Record<string,{jur:string;cls:string;freq:string;d:string}[]> = {
     {jur:"🇲🇽 MX",  cls:"All", freq:"15 / 30 days",          d:"15 days for serious adverse events or death. 30 days for other reportable incidents. COFEPRIS VUSAR system."},
     {jur:"🇸🇦 SA",  cls:"All", freq:"48h / 10 / 30 days",    d:"48h for death/imminent hazard. 10 calendar days for serious. 30 days for other reportable events. SFDA eGateway."},
     {jur:"🇳🇿 NZ",  cls:"All", freq:"48h / 10 / 30 days",    d:"Mirrors TGA timeframes: 48h for imminent hazard. 10 working days for serious. 30 days for others. Reports to Medsafe."},
+
+    {jur:"🇭🇰 HK",  cls:"All", freq:"15 / 30 days",          d:"15 calendar days for serious adverse events. 30 days for other reportable incidents. MDD/MDACS reporting portal."},
+    {jur:"🇹🇭 TH",  cls:"All", freq:"15 / 30 days",          d:"15 days for serious adverse events. 30 days for others. Thai FDA MDCD reporting system. Medical Device Act B.E. 2562."},
+    {jur:"🇵🇭 PH",  cls:"All", freq:"10 / 30 days",          d:"10 days for serious adverse events. 30 days for others. FDA Philippines CDRRHR reporting system."},
+    {jur:"🇧🇩 BD",  cls:"All", freq:"15 / 30 days",          d:"15 days for serious events. 30 days for others. DGDA adverse event reporting under developing framework."},
+    {jur:"🇱🇰 LK",  cls:"All", freq:"15 / 30 days",          d:"15 days for serious adverse events. 30 days for others. NMRA adverse event reporting system."},
   ],
   "QMS Requirement":[
     {jur:"🇦🇺 AU",  cls:"All",    freq:"ISO 13485 / MDSAP",   d:"ISO 13485 required; MDSAP fully accepted as equivalent. TGA may audit CAB-certified sites."},
@@ -107,6 +131,12 @@ const DATA: Record<string,{jur:string;cls:string;freq:string;d:string}[]> = {
     {jur:"🇲🇽 MX",  cls:"II–III", freq:"NOM-241-SSA1-2012",   d:"NOM-241-SSA1-2012 (Good Manufacturing Practices — ISO 13485 equivalent) required. COFEPRIS GMP inspection for some Class III."},
     {jur:"🇸🇦 SA",  cls:"B–D",    freq:"ISO 13485",            d:"ISO 13485 certification required for Class B–D. SFDA recognises overseas ISO 13485 certificates. MDSAP supports but not formally recognised."},
     {jur:"🇳🇿 NZ",  cls:"IIa+",   freq:"ISO 13485",            d:"ISO 13485 required for Class IIa+. Medsafe accepts TGA CAB audit and overseas conformity assessment body certificates."},
+
+    {jur:"🇭🇰 HK",  cls:"II–III",   freq:"ISO 13485",            d:"ISO 13485 required for Class II/III MDACS registration. Overseas certificates accepted for most applications."},
+    {jur:"🇹🇭 TH",  cls:"2–3",      freq:"ISO 13485 / GMP",     d:"ISO 13485 required under Medical Device Act B.E. 2562. Thai FDA GMP inspection may apply for domestic manufacturers."},
+    {jur:"🇵🇭 PH",  cls:"B–D",      freq:"ISO 13485 / GMP",     d:"ISO 13485 or WHO-GMP required for Class B–D CPR applications. FDA Philippines may conduct GMP inspections."},
+    {jur:"🇧🇩 BD",  cls:"B–D",      freq:"ISO 13485 / GMP",     d:"ISO 13485 or equivalent GMP required. DGDA may require GMP certificate from competent authority of origin country."},
+    {jur:"🇱🇰 LK",  cls:"B–D",      freq:"ISO 13485",            d:"ISO 13485 required for Class B–D NMRA registration. Overseas certificates accepted as supporting evidence."},
   ],
 };
 
@@ -131,7 +161,7 @@ export function ToolCompare() {
           ))}</tbody>
         </table>
       </div>
-      <p style={{fontSize:11,color:"#94a3b8",marginTop:10}}>All 19 RAPath jurisdictions. Indicative — verify against current authority publications.</p>
+      <p style={{fontSize:11,color:"#94a3b8",marginTop:10}}>All 24 RAPath jurisdictions. Indicative — verify against current authority publications.</p>
     </div>
   );
 }

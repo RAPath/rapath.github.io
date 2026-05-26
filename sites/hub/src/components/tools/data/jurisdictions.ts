@@ -243,6 +243,61 @@ export const JURISDICTIONS: Jurisdiction[] = [
     ],
     time: ["1–3 mo","6–12 mo","9–18 mo","12–24 mo"],
   },
+  {
+    id:"hk", name:"Hong Kong", reg:"MDD / MDACS", flag:"🇭🇰", url:"https://rapath.github.io/hk",
+    cls:  ["Class I","Class II","Class III","Class III"],
+    route:[
+      "MDACS self-declaration for Class I (voluntary scheme transitioning to mandatory); Local Authorized Representative strongly recommended",
+      "MDACS product registration with technical dossier; overseas approval (CE, FDA, TGA, HSA) accepted as supporting evidence; LAR required",
+      "MDACS full registration + clinical evaluation; CE/FDA/TGA/HSA approval required as supporting evidence; LAR mandatory",
+      "MDACS full registration + comprehensive clinical data + overseas approval; Department of Health assessment; LAR mandatory",
+    ],
+    time: ["1–3 mo","6–12 mo","12–18 mo","12–24 mo"],
+  },
+  {
+    id:"bd", name:"Bangladesh", reg:"DGDA", flag:"🇧🇩", url:"https://rapath.github.io/bd",
+    cls:  ["Class A","Class B","Class C","Class D"],
+    route:[
+      "DGDA Import Registration Certificate + technical documentation; local importer/agent required; developing regulatory framework",
+      "DGDA registration + technical file; performance and safety data required; local importer licence required",
+      "DGDA full registration + clinical/performance evidence; DGDA technical assessment; local importer required",
+      "DGDA full registration + comprehensive clinical data; highest scrutiny; local importer/agent mandatory",
+    ],
+    time: ["3–6 mo","6–12 mo","12–18 mo","18–24 mo"],
+  },
+  {
+    id:"lk", name:"Sri Lanka", reg:"NMRA", flag:"🇱🇰", url:"https://rapath.github.io/lk",
+    cls:  ["Class A","Class B","Class C","Class D"],
+    route:[
+      "NMRA Class A listing/notification; local authorized representative required; NMRA Act No. 5 of 2015 applies",
+      "NMRA registration — abbreviated pathway available with recognised overseas approval (CE, TGA, FDA); LAR required",
+      "NMRA full registration + technical dossier; clinical evidence required; overseas approval accepted as supporting evidence",
+      "NMRA full registration + comprehensive clinical evidence; NMRA assessment; local authorized representative mandatory",
+    ],
+    time: ["1–3 mo","6–12 mo","12–18 mo","18–24 mo"],
+  },
+  {
+    id:"th", name:"Thailand", reg:"Thai FDA / MDCD", flag:"🇹🇭", url:"https://rapath.github.io/th",
+    cls:  ["Class 1","Class 2","Class 3","Class 3"],
+    route:[
+      "Thai FDA MDCD notification (Class 1); Medical Device Establishment License (MDEL) required for importer/distributor; Medical Device Act B.E. 2562 (2019)",
+      "Thai FDA MDCD registration — Overseas application or domestic application; technical dossier + ISO 13485 required; MDEL required",
+      "Thai FDA full registration + clinical evidence; overseas regulatory approval (CE, FDA, TGA) accepted as supporting evidence; MDEL required",
+      "Thai FDA full registration + comprehensive clinical data; MDCD in-depth assessment; highest scrutiny; MDEL required",
+    ],
+    time: ["1–3 mo","6–12 mo","12–18 mo","18–30 mo"],
+  },
+  {
+    id:"ph", name:"Philippines", reg:"FDA Philippines / CDRRHR", flag:"🇵🇭", url:"https://rapath.github.io/ph",
+    cls:  ["Class A","Class B","Class C","Class D"],
+    route:[
+      "FDA Philippines Certificate of Product Registration (CPR) — Class A; License to Operate (LTO) required for importer/distributor; CDRRHR assessment",
+      "FDA Philippines CPR — Class B; full registration with technical dossier; LTO required; overseas approval (CE, FDA, TGA) accepted as supporting evidence",
+      "FDA Philippines CPR — Class C; technical review + clinical evidence; CDRRHR assessment; LTO required",
+      "FDA Philippines CPR — Class D; full CDRRHR review + comprehensive clinical data; highest scrutiny; LTO mandatory",
+    ],
+    time: ["3–6 mo","12–18 mo","18–24 mo","18–30 mo"],
+  },
 ];
 
 // ── Region groupings for results display ──────────────────────────────────
@@ -250,5 +305,5 @@ export const REGIONS = [
   { label:"Americas",       ids:["us","ca","br","mx"] },
   { label:"Europe",         ids:["eu","uk","ch","ru"] },
   { label:"Middle East",    ids:["sa"] },
-  { label:"Asia Pacific",   ids:["au","nz","sg","jp","cn","in","kr","my","id","vn"] },
+  { label:"Asia Pacific",   ids:["au","nz","sg","jp","hk","cn","in","bd","lk","kr","th","ph","my","id","vn"] },
 ];

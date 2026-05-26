@@ -32,7 +32,7 @@ export default function ToolsPage(): JSX.Element {
   return (
     <Layout
       title="Regulatory Tools"
-      description="19 free regulatory tools for medical device manufacturers, importers, distributors, and RA consultants — classification, checklists, gap analysis, and more across 19 jurisdictions."
+      description="19 free regulatory tools for medical device manufacturers, importers, distributors, and RA consultants — classification, checklists, gap analysis, and more across 24 jurisdictions."
     >
       <ToolsHub />
     </Layout>

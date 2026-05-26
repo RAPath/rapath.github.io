@@ -35,7 +35,7 @@ export const TOOLS: Tool[] = [
   // ── Classifier (1) ───────────────────────────────────────────────────────
   { id:"classifier", cat:"classify", name:"Device Classification Wizard",
     tag:"CLASSIFIER", tagBg:"#dbeafe", tagColor:"#1e40af", bg:"#eff6ff", ic:BLUE, Icon:Layers,
-    desc:"5 questions. Indicative classification, documentation checklist, and pathway timelines across all 19 RAPath jurisdictions. Includes Quick Screener and SaMD track." },
+    desc:"5 questions. Indicative classification, documentation checklist, and pathway timelines across all 24 RAPath jurisdictions. Includes Quick Screener and SaMD track." },
 
   // ── General (5) ──────────────────────────────────────────────────────────
   { id:"flow",    cat:"general", name:"Regulatory Process Flow",
@@ -43,13 +43,13 @@ export const TOOLS: Tool[] = [
     desc:"Interactive 7-phase flowchart with jurisdiction-specific notes and per-phase checklists." },
   { id:"compare", cat:"general", name:"Jurisdiction Comparison Tables",
     tag:"ANALYSIS",  tagBg:"#dcfce7", tagColor:"#166534", bg:"#f0fdf4", ic:"#16a34a", Icon:Table2,
-    desc:"Side-by-side comparison of PMS, UDI, authorised reps, vigilance, and QMS across 19 markets." },
+    desc:"Side-by-side comparison of PMS, UDI, authorised reps, vigilance, and QMS across 24 markets." },
   { id:"gantt",   cat:"general", name:"Regulatory Timeline Planner",
     tag:"PLANNING",  tagBg:"#fef9c3", tagColor:"#854d0e", bg:"#fefce8", ic:"#ca8a04", Icon:GanttChart,
     desc:"Gantt-style view of overlapping regulatory phases, adjustable by device class." },
   { id:"glossary",cat:"general", name:"Acronym & Glossary Lookup",
     tag:"REFERENCE", tagBg:"#fce7f3", tagColor:"#9d174d", bg:"#fdf2f8", ic:"#db2777", Icon:BookOpen,
-    desc:"Searchable glossary of 100+ regulatory terms and acronyms across all 19 jurisdictions." },
+    desc:"Searchable glossary of 100+ regulatory terms and acronyms across all 24 jurisdictions." },
   { id:"mdsap",   cat:"general", name:"MDSAP Value Map",
     tag:"STRATEGY",  tagBg:"#ede9fe", tagColor:"#5b21b6", bg:"#faf5ff", ic:"#7c3aed", Icon:Award,
     desc:"What MDSAP gets you in each jurisdiction — full recognition, partial credit, or no benefit." },
@@ -66,7 +66,7 @@ export const TOOLS: Tool[] = [
     desc:"Mandatory label elements, language requirements, eIFU eligibility, and UDI placement by jurisdiction." },
   { id:"pmo",     cat:"mfr", name:"Post-Market Obligations Calendar",
     tag:"POST-MARKET",tagBg:"#fef9c3", tagColor:"#854d0e", bg:"#fefce8", ic:"#ca8a04", Icon:Clock,
-    desc:"What you must do — and when — after market entry. Vigilance timeframes, PSUR cycles, and renewal windows across all 19 jurisdictions." },
+    desc:"What you must do — and when — after market entry. Vigilance timeframes, PSUR cycles, and renewal windows across all 24 jurisdictions." },
   { id:"fee",     cat:"mfr", name:"Regulatory Fee Estimator",
     tag:"PLANNING",   tagBg:"#ede9fe", tagColor:"#5b21b6", bg:"#faf5ff", ic:"#7c3aed", Icon:DollarSign,
     desc:"Approximate government registration fees per jurisdiction — planning purposes only." },

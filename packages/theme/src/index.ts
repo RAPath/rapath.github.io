@@ -83,6 +83,18 @@ export function buildSiteConfig(params: SiteParams): Config {
     onBrokenLinks: 'warn',
     markdown: { hooks: { onBrokenMarkdownLinks: 'warn' } },
 
+    themes: [
+      [
+        '@easyops-cn/docusaurus-search-local',
+        {
+          hashed: true,
+          docsRouteBasePath: '/',
+          indexBlog: false,
+          searchBarPosition: 'right',
+        },
+      ],
+    ],
+
     i18n: { defaultLocale: 'en', locales: ['en'] },
 
     staticDirectories: ['static', THEME_IMG_DIR],
@@ -173,10 +185,6 @@ export function buildSiteConfig(params: SiteParams): Config {
         disableSwitch: false,
         respectPrefersColorScheme: true,
       },
-
-      // Algolia removed from jurisdiction sites — search is on hub only
-      // Hub search (rapath.github.io) crawls all sites via one rapath-hub index
-
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,

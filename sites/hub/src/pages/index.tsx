@@ -101,14 +101,39 @@ const jurisdictions = [
     live: true, path: '/mx/',
     desc: 'Registro Sanitario via COFEPRIS, Class I–III classification, NOM standards',
   },
+  {
+    code: 'hk', flag: '🇭🇰', name: 'Hong Kong', reg: 'MDD / MDACS',
+    live: true, path: '/hk/',
+    desc: 'MDACS product registration, Class I–III framework, Department of Health.',
+  },
+  {
+    code: 'th', flag: '🇹🇭', name: 'Thailand', reg: 'Thai FDA / MDCD',
+    live: true, path: '/th/',
+    desc: 'Medical Device Act B.E. 2562, Class 1–3 classification, MDCD registration.',
+  },
+  {
+    code: 'ph', flag: '🇵🇭', name: 'Philippines', reg: 'FDA Philippines / CDRRHR',
+    live: true, path: '/ph/',
+    desc: 'Certificate of Product Registration (CPR), Class A–D, License to Operate.',
+  },
+  {
+    code: 'bd', flag: '🇧🇩', name: 'Bangladesh', reg: 'DGDA',
+    live: true, path: '/bd/',
+    desc: 'DGDA Import Registration Certificate, developing medical device regulatory framework.',
+  },
+  {
+    code: 'lk', flag: '🇱🇰', name: 'Sri Lanka', reg: 'NMRA',
+    live: true, path: '/lk/',
+    desc: 'NMRA registration, Class A–D framework, NMRA Act No. 5 of 2015.',
+  },
 ];
 
 
 // ─── Featured tools ───────────────────────────────────────────────────────────
 const featuredTools = [
-  { emoji: '🔍', label: 'CLASSIFIER', name: 'Device Classification Wizard', path: '/tools/classifier', desc: 'Indicative classification, documentation checklist, and pathway timelines across all 19 jurisdictions.' },
+  { emoji: '🔍', label: 'CLASSIFIER', name: 'Device Classification Wizard', path: '/tools/classifier', desc: 'Indicative classification, documentation checklist, and pathway timelines across all 24 jurisdictions.' },
   { emoji: '🔄', label: 'VISUAL', name: 'Regulatory Process Flow', path: '/tools/#flow', desc: 'Interactive 7-phase flowchart with jurisdiction-specific notes and per-phase checklists.' },
-  { emoji: '📊', label: 'ANALYSIS', name: 'Jurisdiction Comparison Tables', path: '/tools/#compare', desc: 'Side-by-side comparison of PMS, UDI, authorised reps, vigilance, and QMS across 19 markets.' },
+  { emoji: '📊', label: 'ANALYSIS', name: 'Jurisdiction Comparison Tables', path: '/tools/#compare', desc: 'Side-by-side comparison of PMS, UDI, authorised reps, vigilance, and QMS across 24 markets.' },
   { emoji: '📅', label: 'PLANNING', name: 'Regulatory Timeline Planner', path: '/tools/#gantt', desc: 'Gantt-style view of overlapping regulatory phases, adjustable by device class.' },
   { emoji: '📋', label: 'TECHNICAL', name: 'GSPR / Essential Req. Mapper', path: '/tools/#gspr', desc: 'Map applicable General Safety & Performance Requirements to your device type with evidence guidance.' },
   { emoji: '✅', label: 'ACTION', name: 'Submission Readiness Checklist', path: '/tools/#checklist', desc: 'Track submission readiness across 24 items with a live progress bar.' },
@@ -135,7 +160,7 @@ export default function Home(): ReactNode {
   return (
     <Layout
       title={siteConfig.title}
-      description="Plain English medical device regulatory reference across 16+ jurisdictions — openly available, community-maintained, properly sourced."
+      description="Plain English medical device regulatory reference across 24 jurisdictions — openly available, community-maintained, properly sourced."
     >
 
       <header className="hero hero--primary">
