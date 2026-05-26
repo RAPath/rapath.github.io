@@ -22,7 +22,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        site: [hub, au, eu, hc, sg, uk, us, jp, swiss, cn, in, kr, br, my, id, vt, ru, nz, sa, mx]
+        site: [hub, au, eu, hc, sg, uk, us, jp, swiss, cn, in, kr, br, my, id, vt, ru, nz, sa, mx, hk, bd, lk, th, ph]
       fail-fast: false   # don't cancel other sites if one fails
 
     steps:
