@@ -6,9 +6,18 @@
     <loc>https://rapath.github.io/sitemap.xml</loc>
   </sitemap>
 
-  <!-- Live jurisdiction sites -->
+  <!-- Live jurisdiction sites (24 Regions) -->
   <sitemap>
     <loc>https://rapath.github.io/au/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://rapath.github.io/bd/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://rapath.github.io/br/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://rapath.github.io/cn/sitemap.xml</loc>
   </sitemap>
   <sitemap>
     <loc>https://rapath.github.io/eu/sitemap.xml</loc>
@@ -17,7 +26,49 @@
     <loc>https://rapath.github.io/hc/sitemap.xml</loc>
   </sitemap>
   <sitemap>
+    <loc>https://rapath.github.io/hk/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://rapath.github.io/id/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://rapath.github.io/in/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://rapath.github.io/jp/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://rapath.github.io/kr/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://rapath.github.io/lk/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://rapath.github.io/mx/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://rapath.github.io/my/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://rapath.github.io/nz/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://rapath.github.io/ph/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://rapath.github.io/ru/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://rapath.github.io/sa/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
     <loc>https://rapath.github.io/sg/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://rapath.github.io/swiss/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://rapath.github.io/th/sitemap.xml</loc>
   </sitemap>
   <sitemap>
     <loc>https://rapath.github.io/uk/sitemap.xml</loc>
@@ -26,34 +77,7 @@
     <loc>https://rapath.github.io/us/sitemap.xml</loc>
   </sitemap>
   <sitemap>
-    <loc>https://rapath.github.io/jp/sitemap.xml</loc>
-  </sitemap>
-  <sitemap>
-    <loc>https://rapath.github.io/swiss/sitemap.xml</loc>
-  </sitemap>
-  <sitemap>
-    <loc>https://rapath.github.io/cn/sitemap.xml</loc>
-  </sitemap>
-  <sitemap>
-    <loc>https://rapath.github.io/in/sitemap.xml</loc>
-  </sitemap>
-  <sitemap>
-    <loc>https://rapath.github.io/kr/sitemap.xml</loc>
-  </sitemap>
-  <sitemap>
-    <loc>https://rapath.github.io/br/sitemap.xml</loc>
-  </sitemap>
-  <sitemap>
-    <loc>https://rapath.github.io/my/sitemap.xml</loc>
-  </sitemap>
-  <sitemap>
-    <loc>https://rapath.github.io/id/sitemap.xml</loc>
-  </sitemap>
-  <sitemap>
     <loc>https://rapath.github.io/vt/sitemap.xml</loc>
-  </sitemap>
-  <sitemap>
-    <loc>https://rapath.github.io/ru/sitemap.xml</loc>
   </sitemap>
 
 </sitemapindex>
