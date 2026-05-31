@@ -23,15 +23,15 @@ RAPath is an independent open-source reference for medical device regulation acr
 | 🇯🇵 **Japan** | PMDA | Live | [rapath.github.io/jp](https://rapath.github.io/jp) |
 | 🇨🇳 **China** | NMPA | Live | [rapath.github.io/cn](https://rapath.github.io/cn) |
 | 🇰🇷 **South Korea** | MFDS | Live | [rapath.github.io/kr](https://rapath.github.io/kr) |
-| 🇭🇰 **Hong Kong** | MDD / MDACS | In Progress | [rapath.github.io/hk](https://rapath.github.io/hk) |
+| 🇭🇰 **Hong Kong** | MDD / MDACS | Live | [rapath.github.io/hk](https://rapath.github.io/hk) |
 | 🇮🇳 **India** | CDSCO | Live | [rapath.github.io/in](https://rapath.github.io/in) |
-| 🇧🇩 **Bangladesh** | DGDA | In Progress | [rapath.github.io/bd](https://rapath.github.io/bd) |
-| 🇱🇰 **Sri Lanka** | NMRA | In Progress | [rapath.github.io/lk](https://rapath.github.io/lk) |
+| 🇧🇩 **Bangladesh** | DGDA | Live | [rapath.github.io/bd](https://rapath.github.io/bd) |
+| 🇱🇰 **Sri Lanka** | NMRA | Live | [rapath.github.io/lk](https://rapath.github.io/lk) |
 | 🇸🇬 **Singapore** | HSA | Live | [rapath.github.io/sg](https://rapath.github.io/sg) |
 | 🇲🇾 **Malaysia** | MDA | Live | [rapath.github.io/my](https://rapath.github.io/my) |
-| 🇹🇭 **Thailand** | Thai FDA | In Progress | [rapath.github.io/th](https://rapath.github.io/th) |
+| 🇹🇭 **Thailand** | Thai FDA | Live | [rapath.github.io/th](https://rapath.github.io/th) |
 | 🇮🇩 **Indonesia** | BPOM | Live | [rapath.github.io/id](https://rapath.github.io/id) |
-| 🇵🇭 **Philippines** | FDA Philippines | In Progress | [rapath.github.io/ph](https://rapath.github.io/ph) |
+| 🇵🇭 **Philippines** | FDA Philippines | Live | [rapath.github.io/ph](https://rapath.github.io/ph) |
 | 🇻🇳 **Vietnam** | DAV / MOH | Live | [rapath.github.io/vt](https://rapath.github.io/vt) |
 | 🇷🇺 **Russia** | Roszdravnadzor | Live | [rapath.github.io/ru](https://rapath.github.io/ru) |
 | 🇸🇦 **Saudi Arabia** | SFDA | Live | [rapath.github.io/sa](https://rapath.github.io/sa) |
