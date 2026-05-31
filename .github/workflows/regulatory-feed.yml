@@ -1,0 +1,32 @@
+name: Regulatory Feed (Project 2)
+
+on:
+  schedule:
+    - cron: "0 2 * * *"   # runs daily at 2:00 AM UTC (1 hour after audit)
+  workflow_dispatch:        # also allows manual trigger
+
+jobs:
+  feed:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write         # needed to create GitHub Issues
+      contents: read
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r automation/requirements.txt
+
+      - name: Run regulatory feed
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GITHUB_TOKEN:      ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          cd automation
+          python feed_runner.py
