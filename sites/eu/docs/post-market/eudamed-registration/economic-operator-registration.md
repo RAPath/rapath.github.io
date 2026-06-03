@@ -63,7 +63,7 @@ EUDAMED applies an identity verification process before issuing an SRN. In some 
 
 ### Step 4 — SRN issued
 
-The SRN format is: {country code}-{actor type code}-{unique number}. For example, DE-MF-000012345 represents a German (DE) manufacturer (MF) with the unique number 000012345.
+The SRN format is: `{country code}-{actor type code}-{unique number}`. For example, DE-MF-000012345 represents a German (DE) manufacturer (MF) with the unique number 000012345.
 
 ---
 
