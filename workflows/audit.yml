@@ -1,0 +1,44 @@
+name: Website Audit (Project 1)
+
+on:
+  schedule:
+    - cron: "0 1 * * *"   # daily at 1 AM UTC — audits one jurisdiction per day (rotation)
+  workflow_dispatch:
+    inputs:
+      run_all:
+        description: "Run all 24 jurisdictions at once?"
+        required: false
+        default: "false"
+        type: choice
+        options:
+          - "false"
+          - "true"
+      jurisdiction:
+        description: "Or run a single specific jurisdiction (leave blank for rotation/all)"
+        required: false
+        default: ""
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r automation/requirements.txt
+
+      - name: Run audit
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          AUDIT_PAT:         ${{ secrets.AUDIT_PAT }}
+          RUN_ALL:           ${{ github.event.inputs.run_all }}
+          RUN_JURISDICTION:  ${{ github.event.inputs.jurisdiction }}
+        run: |
+          cd automation
+          python audit_runner.py
