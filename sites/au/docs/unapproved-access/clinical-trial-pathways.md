@@ -82,7 +82,7 @@ Clinical trial data generated in Australia (or accepted from overseas trials) fo
 
 ---
 
-## Early Access During Trial — Compassionate Use
+## Where a device is being studied in a clinical trial and a patient outside the trial has a serious condition for which no alternative exists, early access may be possible under SAS Category A. This requires notification to the TGA within 28 days of first supply, but does not require prior approval. The trial sponsor and HREC should be notified of any compassionate use occurring outside the trial.
 
 Where a device is being studied in a clinical trial and a patient outside the trial urgently needs access, the SAS or Authorised Prescriber pathways can be used alongside the ongoing trial — they are not mutually exclusive.
 

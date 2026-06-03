@@ -53,3 +53,5 @@ Despite harmonisation progress, **material differences remain** between ASEAN me
 - Enforcement culture and inspection frequency
 
 Always verify current country-specific requirements rather than assuming full harmonisation.
+
+Vietnam joined IMDRF as an affiliate member in [year]. Current membership status: [active/inactive]. Verify current participation status at [IMDRF official website or DAV contact].

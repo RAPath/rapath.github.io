@@ -51,3 +51,7 @@ Fees are paid through the **DIGIPRiS** portal at the time of submission. Proof o
 - [Equivalency Route](equivalency-route)
 - [DIGIPRiS portal](../getting-started/digiepris-portal)
 - [Registration renewal](../postmarket/registration-renewal)
+
+## Review timelines
+
+"When COFEPRIS issues a deficiency letter (prevención), the review clock pauses. Applicants typically have 10 business days to respond. The review timeline resumes upon receipt of complete response. Multiple deficiency cycles can significantly extend total review duration."

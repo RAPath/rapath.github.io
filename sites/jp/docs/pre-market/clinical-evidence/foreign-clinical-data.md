@@ -11,7 +11,7 @@ Japan has historically required Japan-specific clinical data for many device cat
 
 ## When foreign clinical data is accepted
 
-PMDA's acceptance of foreign clinical data depends on:
+PMDA's acceptance of foreign clinical data depends in a Shonin application on the following factors:
 
 **Whether the device is truly novel.** For well-established technologies (e.g. a new model of an established device type), foreign clinical data supporting the predicate or reference device is typically accepted without a Japan-specific trial.
 
@@ -42,3 +42,7 @@ Where population differences are not clinically significant, PMDA will accept fo
 ## PMDA guidance on foreign data reliance
 
 PMDA has published multiple guidance documents and notifications on the acceptability of foreign data. The most relevant are available (in Japanese) from PMDA's website. Key principle: engage PMDA early to get specific guidance for your device and study population before designing your clinical programme.
+
+Genetic and Ethnic Considerations
+
+For devices involving pharmacogenomic interactions, metabolic pathways, or genetic polymorphisms (e.g. warfarin metabolism, clopidogrel responsiveness), PMDA may require Japan-specific genetic prevalence data or a limited bridging study even if Western clinical efficacy data is robust. The frequency of loss-of-function variants and rapid/slow metaboliser phenotypes can differ between Japanese and Western populations. Consult PMDA on whether genetic stratification data from the foreign trial population is adequate or whether supplemental Japanese pharmacogenomic data is needed.

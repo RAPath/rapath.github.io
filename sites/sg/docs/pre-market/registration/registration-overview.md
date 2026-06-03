@@ -8,15 +8,15 @@ description: An overview of the medical device product registration process in S
 
 ## The Singapore Medical Device Register (SMDR)
 
-Before a Class B, C, or D medical device can be supplied in Singapore, it must be registered on the **Singapore Medical Device Register (SMDR)**. The SMDR is maintained by HSA and is publicly searchable via the [Infosearch portal](https://www.hsa.gov.sg/e-services/infosearch).
+Before a Class B, C, or D medical device can be supplied in Singapore, it must be registered on the Singapore Medical Device Register (SMDR). The SMDR is maintained by HSA and is publicly searchable via the [Infosearch portal](https://www.hsa.gov.sg/e-services/infosearch).
 
-Registration confers legal permission to supply the device in Singapore under the conditions stated in the registration. It also establishes the **registrant** — the Singapore-registered entity accountable for the device's ongoing regulatory compliance.
+Registration confers legal permission to supply the device in Singapore under the conditions stated in the registration. It also establishes the registrant — the Singapore-registered entity accountable for the device's ongoing regulatory compliance.
 
 ---
 
 ## The SHARE portal
 
-All medical device registration applications are submitted through **SHARE** (Submission of Health products And Registration via E-portal):
+All medical device registration applications are submitted through SHARE (Submission of Health products And Registration via E-portal):
 
 [hsa.gov.sg/medical-devices/e-services](https://www.hsa.gov.sg/medical-devices/e-services)
 
@@ -55,13 +55,16 @@ Submit the application through SHARE, selecting the correct product type, device
 ### Step 3 — Screening
 HSA conducts an administrative screening to check that the application is complete and in the correct format. Applications that fail screening will be returned with reasons.
 
-### Step 4 — Evaluation
-HSA evaluates the technical content of the application. During evaluation, HSA may issue **Input Requests (IRs)** requesting additional information or clarification. Applicants must respond within the timeframe specified in the IR.
+Step 4 — Evaluation
+​
+HSA evaluates the technical content of the application according to the applicable evaluation route (Full, Abridged, Expedited, or Immediate). During evaluation, HSA may issue Input Requests (IRs) requesting additional information or clarification. Applicants must respond within the timeframe specified in the IR (typically 30 days, though this can vary).
+
+Important: The time taken to respond to IRs is not counted in HSA's published turnaround times (TAT) — IRs "stop the clock." If an applicant does not respond within the specified timeframe, HSA may reject the application as incomplete.
 
 The time taken to respond to IRs is not counted in HSA's published turnaround times (TAT) — IRs "stop the clock."
 
 ### Step 5 — Registration decision
-If the application is approved, HSA issues a **Certificate of Registration** and the device is added to the SMDR. If rejected, HSA provides reasons and the applicant may appeal.
+If the application is approved, HSA issues a Certificate of Registration and the device is added to the SMDR. If rejected, HSA provides reasons and the applicant may appeal.
 
 ### Step 6 — Post-registration maintenance
 Once registered, the registrant must:

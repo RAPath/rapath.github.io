@@ -91,7 +91,7 @@ Regulatory thinking should begin **before** detailed design work, not after. Ear
 - **Technology type**: is it active, implantable, invasive, an IVD, software?
 - **Regulatory strategy**: which markets? GB only, GB + EU, global?
 - **Predecessor devices and predicate analysis**: are there equivalent devices already on the market?
-- **Applicable standards**: which ISO/EN/BS standards are relevant (ISO 13485, ISO 14971, IEC 60601 series, etc.)?
+- **Applicable standards**: which ISO/EN/BS standards are relevant (ISO 13485:2016 device For devices requiring UK Approved Body assessment, QMS certification or documented conformity with ISO 13485 is a mandatory prerequisite for formal assessment., ISO 14971, IEC 60601 series, etc.)?
 
 A **Quality Management System (QMS)** conforming to ISO 13485 should be in place before clinical or performance evaluation activities begin. MHRA expects manufacturers to operate a QMS throughout the lifecycle.
 
@@ -99,7 +99,7 @@ A **Quality Management System (QMS)** conforming to ISO 13485 should be in place
 
 ## Stage 2: Classification
 
-Classification determines everything that follows. Manufacturers must apply the classification rules in **Schedule 2** of UK MDR 2002 (for general devices) or the **Annex II lists** of Part III (for IVDs).
+Classification determines everything that follows. Manufacturers must apply the classification detailed rule(s) If classification is ambiguous or could fall under multiple rules, the manufacturer should document the reasoning for the rule selected and why alternative classifications were excluded. in **Schedule 2** of UK MDR 2002 (for general devices) or the **Annex II lists** of Part III (for IVDs).
 
 | Class / Category | Risk level | UKAB needed? |
 |---|---|---|
@@ -334,3 +334,7 @@ MHRA may require manufacturers to maintain support (spare parts, maintenance) fo
 | ISO 13485:2016 | QMS for medical devices — lifecycle requirements |
 | ISO 14971:2019 | Risk management — applies throughout lifecycle |
 | MHRA: Adverse incident reporting | Vigilance reporting requirements |
+
+Update the regulatory basis statement to:
+
+This page provides a lifecycle overview across the UK Medical Devices Regulations 2002 (SI 2002/618, as amended) as applicable in Great Britain. For devices intended for the Northern Ireland market, manufacturers must follow EU MDR 2017/745 or EU IVDR 2017/746 instead. See Great Britain vs Northern Ireland for the regulatory divergence.

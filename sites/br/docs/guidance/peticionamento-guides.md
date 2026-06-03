@@ -24,7 +24,7 @@ ANVISA publishes step-by-step guides for using the **Peticionamento Eletrônico*
 
 ## Key tips for using Peticionamento Eletrônico
 
-- Always use the **most current version** of the ANVISA petition form — ANVISA updates forms periodically.
+- Always use the **most current version** of the ANVISA petition form — ANVISA updates forms available on the Peticionamento Eletrônico portal periodically and the system may reject submissions using outdated versions.
 - Follow ANVISA's **document naming conventions** for uploaded files — incorrectly named files are a common cause of administrative rejection.
 - Pay the **petitioning fee** (*taxa de peticionamento*) promptly — the petition is not formally accepted until the fee is confirmed.
 - Save your **petition number** (*número de petição*) — it is your primary reference for all subsequent correspondence with ANVISA about the submission.

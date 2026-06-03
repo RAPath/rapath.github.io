@@ -23,3 +23,5 @@ Upon MDD approval, the device receives an HKMD listing number and appears in the
 
 ## 6. Ongoing Post-Market
 The LRP monitors safety, reports adverse events, manages FSCAs, handles complaints, and tracks devices. Notify MDD of significant changes.
+
+Standard review typically takes 4–8 weeks from submission via MDIS, depending on dossier completeness and the complexity of the device. The expedited reliance scheme may reduce review time if reference-country approvals (e.g., FDA, CE mark, TGA) are available. The MDD may request additional information or clarification, which pauses the review clock.

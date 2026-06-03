@@ -49,10 +49,26 @@ Warehouses and distribution facilities must comply with **NOM-241-SSA1-2025 Chap
 - Procedures for handling returns, complaints, and suspected counterfeit or defective products.
 - CAPA processes for non-conformities.
 
-Third-party logistics providers used by the MRH or importer carry the same compliance obligations — these responsibilities should be reflected in the technical agreement.
+Third-party logistics providers (contract warehouse and distribution companies) used by the MRH or importer are considered distributors under NOM-241 and must comply with all warehouse and traceability requirements. These responsibilities must be explicitly documented in a technical agreement between the MRH (or importer) and the logistics provider, specifying roles, audit rights, and incident reporting obligations.
 
 ## Related pages
 
 - [MRH obligations](mrh-obligations)
 - [Quality System — NOM-241](../quality-system/nom-241-overview)
 - [DIGIPRiS portal](../getting-started/digiepris-portal)
+
+## Responsable Sanitario — Health Manager
+
+Personal accountability & liability
+​
+The Responsable Sanitario bears personal legal and professional responsibility for compliance at the facility. Key points:
+
+Personal liability — The Responsable Sanitario can be held personally accountable by COFEPRIS, CNFV, and Mexican authorities for regulatory violations, even if they did not directly cause the breach.
+Professional consequences — COFEPRIS can suspend the Responsable Sanitario's registration, effectively preventing them from serving in this role at any facility in Mexico.
+Criminal exposure — In cases of serious harm or intentional misconduct, the Responsable Sanitario may face criminal charges under Mexican health law.
+Due diligence — Responsables Sanitarios should:
+
+Maintain independent awareness of regulatory changes and facility compliance status.
+Document their oversight activities (inspections, training, corrective actions) to demonstrate reasonable diligence.
+Raise compliance concerns in writing to management and the MRH.
+Choosing a qualified, attentive Responsable Sanitario is critical. Avoid appointing individuals without genuine time, expertise, or authority to fulfil the role.

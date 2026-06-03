@@ -24,3 +24,5 @@ description: Named-patient import authorisation for unregistered medical devices
 :::warning Disclaimer
 AI-assisted navigation aid only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
 :::
+
+The treating physician or importing party must retain documentation confirming: Swissmedic's authorisation; patient identification and diagnosis; device description and origin; and evidence that no Swiss-registered equivalent exists. Serious adverse events during named-patient use must be reported to Swissmedic via eVigilance. The authorisation is specific to the named patient and does not permit use for other patients.

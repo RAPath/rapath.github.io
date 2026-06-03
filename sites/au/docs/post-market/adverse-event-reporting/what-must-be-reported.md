@@ -94,3 +94,5 @@ The TGA encourages a precautionary approach: **if in doubt, report**. The act of
 - [Reporting Timeframes](./reporting-timeframes.md)
 - [How to Report (IRIS)](./how-to-report-iris.md)
 - [Exemptions from Reporting](./exemptions-from-reporting.md)
+
+The final assessment criterion should read: 'Did a device malfunction in a way that could affect patient safety? → Report or investigate further. Is there uncertainty about causation or the severity of the event? → Report and let the TGA assess. Has the device failed to perform as intended? → Report.'

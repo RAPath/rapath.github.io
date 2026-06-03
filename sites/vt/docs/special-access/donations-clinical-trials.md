@@ -64,6 +64,8 @@ With ethics committee and DAV investigation approval in hand, the sponsor (or Vi
 
 Serious adverse events during the clinical investigation must be reported to DAV and the ethics committee in accordance with Circular 29/2022/TT-BYT timelines. See [Clinical Evidence](../market-access/clinical-evidence) for investigation requirements.
 
-:::tip Coordinate ethics and DAV approvals in parallel
-Ethics committee review and DAV investigation approval can sometimes be pursued in parallel to reduce overall timeline. Check with your Vietnamese institution partner on the current sequencing practice — some ethics committees require DAV acknowledgement before they will review.
+:::tip Coordinate ethics and DAV approvals in sequence
+Ethics committee review typically must be completed before DAV investigation approval is requested, as DAV may require ethics committee approval as a prerequisite. Some ethics committees may provisionally review the protocol pending DAV acknowledgement, but verify current sequencing requirements with your Vietnamese ethics committee and DAV in advance. Check with your Vietnamese institution partner on the current sequencing practice — some ethics committees require DAV acknowledgement before they will review.
 :::
+
+Donated devices must include labelling and instructions for use (IFU) in Vietnamese, to the extent applicable. The receiving institution must maintain records of donated device use and report any serious adverse events to DAV in accordance with post-market vigilance requirements.

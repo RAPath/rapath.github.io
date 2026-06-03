@@ -38,11 +38,11 @@ Guidance that applies regardless of classification:
 | Declaration of Conformity for Class I | [TGA](https://www.tga.gov.au/resources/guidance/declaration-conformity-class-i-non-sterile-non-measuring-and-class-1-vitro-diagnostic-ivd-medical-devices) |
 | Passing preliminary assessment | [TGA](https://www.tga.gov.au/resources/guidance/passing-preliminary-assessment-medical-device-applications) |
 
-**Key facts for Class I:**
-- Manufacturer self-certifies — no third-party QMS certification required (except Is/Im)
-- Declaration of Conformity is the primary conformity assessment document
-- ARTG application assessed at lower scrutiny level
-- No mandatory audit (but risk-based audit possible)
+Key facts for Class I:
+Manufacturer self-certifies — no third-party QMS certification required (except Is/Im sterile/measuring devices)
+Declaration of Conformity is the primary conformity assessment document
+ARTG application assessed at lower scrutiny level
+No mandatory audit, but the TGA may select the application for audit based on risk assessment criteria
 
 ---
 
@@ -55,7 +55,7 @@ Guidance that applies regardless of classification:
 | Comparable overseas regulators evidence guide | [TGA](https://www.tga.gov.au/resources/guidance/using-assessments-comparable-overseas-regulators-medical-devices) |
 | Application audit criteria | [TGA](https://www.tga.gov.au/resources/guidance/understanding-selection-criteria-medical-device-application-audits) |
 
-**Key facts for Class IIa:**
+Key facts for Class IIa:
 - ISO 13485 QMS certification required
 - Comparable overseas regulator evidence (CE certificate or equivalent) accepted
 - Audit possible but not mandatory
@@ -73,9 +73,9 @@ Guidance that applies regardless of classification:
 | Patient implant cards | [TGA](https://www.tga.gov.au/products/medical-devices/labelling-and-advertising/patient-information-materials) |
 | Annual reporting (implantable IIb) | [TGA](https://www.tga.gov.au/resources/guidance/understanding-your-post-market-responsibilities-medical-devices) |
 
-**Key facts for Class IIb:**
+Key facts for Class IIb:
 - Full QMS + product-specific certificate required
-- Higher audit likelihood than Class IIa
+- (TGA, CAB, or comparable overseas regulator) Audit selection based on application criteria; not all applications are audited mandatory only all (Class IIb and above)
 - Annual reporting for implantable Class IIb devices
 - Patient implant cards required for implantable devices
 
@@ -92,7 +92,7 @@ Guidance that applies regardless of classification:
 | Patient implant cards | [TGA](https://www.tga.gov.au/products/medical-devices/labelling-and-advertising/patient-information-materials) |
 | Reclassifying AIMDs | [TGA](https://www.tga.gov.au/resources/guidance/reclassifying-active-implantable-medical-devices-aimd) |
 
-**Key facts for Class III:**
+Key facts for Class III:
 - Full QMS + comprehensive product design assessment required
 - Mandatory audit for applications supported by EU MDD or US 510(k)
 - Annual reporting required (minimum 3 years post-inclusion)
@@ -110,7 +110,7 @@ Guidance that applies regardless of classification:
 | Cybersecurity for medical devices | [TGA](https://www.tga.gov.au/resources/guidance/cyber-security-medical-devices-and-ivds) |
 | Software exclusion guidance | [TGA](https://www.tga.gov.au/products/medical-devices/software-and-artificial-intelligence-ai) |
 
-**Key facts for Software/AI:**
+Key facts for Software/AI:
 - Must be in ARTG from November 2024 (grace period ended)
 - Classified based on severity of harm from incorrect output
 - EP 12.1 applies — IEC 62304 software lifecycle standard

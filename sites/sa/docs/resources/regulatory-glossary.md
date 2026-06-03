@@ -25,7 +25,7 @@ If you are uncertain whether your product is a medical device, or how it should 
 
 ## Finding a qualified AR
 
-The SFDA does not publish an official list of licensed ARs. Recommendations can be sourced through:
+The SFDA does not publish an official list of licensed approved or Authorized Representatives. Recommendations can be sourced through:
 - International regulatory consultancies with Saudi market expertise
 - Industry associations (IMDRF-member contacts)
 - GCC-region medical device trade bodies

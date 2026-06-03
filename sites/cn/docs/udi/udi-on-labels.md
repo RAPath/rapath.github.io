@@ -27,3 +27,5 @@ The system is broadly aligned with the IMDRF UDI guidance document but has China
 :::note Disclaimer
 Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [NMPA](https://www.nmpa.gov.cn/) sources before making regulatory decisions. Not affiliated with NMPA or any Chinese Government body. Not legal or regulatory advice.
 :::
+
+Add content covering: (1) Mandatory placement of UDI on device labels and/or packaging (primary, secondary, tertiary); (2) Legibility and format requirements; (3) Requirements for devices where UDI placement is not feasible; (4) Labeling requirements for imported devices; (5) Integration with existing labeling requirements under MDSAR 2021.

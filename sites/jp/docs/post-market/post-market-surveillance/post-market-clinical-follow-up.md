@@ -25,3 +25,7 @@ There are two types of clinical data collection available in the post-market pha
 ## Integration with re-examination data
 
 All PMCF data collected during the re-examination period — whether from use-results surveys or formal post-marketing clinical studies — must be included in the re-examination application. The quality and completeness of the PMCF data significantly affects the outcome of the re-examination review.
+
+Data management and record retention
+
+All PMCF study data must be securely managed and retained for at least 7 years after device approval or market withdrawal, whichever is later. Data must comply with Japanese data protection regulations, particularly when patient-level data is collected. For international studies involving Japanese patients, explicit consent forms addressing data handling and cross-border transfer must be included in the study protocol and reviewed by PMDA.

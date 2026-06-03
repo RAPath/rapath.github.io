@@ -8,7 +8,7 @@ tags: [international]
 
 # China vs HSA (Singapore)
 
-*This page provides a plain English comparison of china vs hsa (singapore) from the perspective of China's NMPA regulatory framework. Full content to be completed during editorial review.*
+*This page compares China's NMPA device regulation framework with HSA's requirements. Detailed comparison tables are being developed.*
 
 ---
 

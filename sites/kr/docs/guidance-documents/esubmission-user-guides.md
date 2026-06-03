@@ -26,3 +26,5 @@ MFDS provides a technical helpdesk for the eSubmission portal. Contact details o
 
 ## Related pages
 - [eSubmission system](../pre-market/marketing-authorization/esubmission-system) · [KIMS database registration](../udi-registration-licensing/udi-k/kims-database-registration)
+
+## Technical support

@@ -61,3 +61,7 @@ For IVD devices, clinical evidence takes the form of **performance evaluation**,
 - [Standard Registration Route](standard-route)
 - [Clinical investigations in Mexico](../special-access/clinical-investigations)
 - [IVD classification](../device-classification/ivd-classification)
+
+## Using foreign clinical data
+
+"Acceptable source documents include: FDA 510(k) summaries, CE technical files, TGA assessment reports, Health Canada licensing letters, and published peer-reviewed journal articles. COFEPRIS may request certified English-to-Spanish translations of key clinical sections."

@@ -8,13 +8,13 @@ description: IVD-specific regulatory obligations in Malaysia beyond classificati
 
 ## IVD Regulation in Malaysia
 
-**In vitro diagnostic medical devices (IVDs)** are regulated under **Act 737** and the **Medical Device Regulations 2012**, using a classification system based on GHTF SG5 IVD guidance with Annex II lists for high-risk IVDs.
+In vitro diagnostic medical devices (IVDs) are regulated under Act 737 and the Medical Device Regulations 2012, using a classification system based on GHTF SG5 IVD guidance with Annex II lists for high-risk IVDs.
 
 This page covers IVD-specific obligations beyond the classification framework (see [IVD Classification](../device-classification/ivd-classification) for classification detail).
 
 ## Performance Evaluation — The Core of IVD Conformity
 
-For IVDs, **performance evaluation** is the central conformity assessment activity. It encompasses:
+For IVDs, performance evaluation (comprising analytical performance and clinical performance studies) is the primary conformity assessment pathway and central evidence requirement for demonstrating safety and performance. It encompasses:
 
 ### Analytical Performance
 The ability of the IVD to correctly measure what it is intended to measure:
@@ -43,7 +43,7 @@ Clinical performance studies must use samples from clinically well-characterised
 
 ## Metrological Traceability
 
-For **quantitative IVDs**, MDA expects that calibrators are traceable to:
+For quantitative IVDs, MDA expects that calibrators are traceable to:
 
 - International reference materials (where available — check JCTLM database)
 - International reference measurement procedures
@@ -55,7 +55,7 @@ Traceability documentation must be included in the technical file.
 
 For IVDs providing results compared to reference intervals, manufacturers should:
 
-- Provide reference intervals relevant to the **Malaysian and/or Asian population** where possible
+- Provide reference intervals relevant to the Malaysian and/or Asian population where possible
 - Reference published studies on Asian population reference intervals
 - Justify the use of reference intervals derived from non-Asian populations if Malaysian data is unavailable
 
@@ -103,3 +103,5 @@ IVD labels and IFUs must include (in addition to general labelling requirements)
 - Instructions for quality control
 
 See [Labelling Requirements](./labelling-requirements) for the complete list.
+
+Complete the truncated section: 'Labelling for IVDs — In addition to general requirements, IVD labels and IFUs must include: Analyte and specimen type, Analytical measurement range, Reference intervals (where applicable), Interferences, Principles of the procedure, and a warning or statement if the IVD is for in vitro use only. See Labelling Requirements for full detail on mandatory label elements and language requirements for IVDs supplied in Malaysia.'

@@ -4,7 +4,7 @@ description: "Requirements for Instructions for Use (IFU) and package inserts in
 sidebar_position: 3
 ---
 
-## Required IFU content (in Korean)
+## Required IFU content All IFU and package insert materials must be in Korean.
 
 - Product name and description
 - Intended use and indications

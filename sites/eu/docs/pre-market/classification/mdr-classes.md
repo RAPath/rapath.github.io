@@ -168,3 +168,5 @@ Manufacturers of Class III and implantable Class IIb devices must prepare a **Pe
 | MDR Art. 54 | Special procedure for Class IIb and III |
 | MDR Art. 61 | Clinical evaluation |
 | MDCG 2021-24 | Software classification |
+
+For Class IIb devices, the notified body must assess the technical documentation of at least one representative device per category and conduct a full conformity assessment. The extent of assessment is more comprehensive than Class IIa, reflecting the higher risk profile of these devices.

@@ -20,3 +20,5 @@ Compliance with internationally recognised standards is the primary route to dem
 | **IEC 60601-1-2** | Electromagnetic compatibility |
 
 Compliance is demonstrated via test reports, certificates of conformance, or manufacturer declarations referencing specific standards.
+
+Compliance with the listed standards is the primary route to demonstrating conformity with Essential Principles (TR-001). If a standard is not applicable to your device, provide alternative technical evidence (e.g., technical file, test reports, risk assessment) demonstrating conformity. See TR-002 (Conformity Assessment) for acceptable alternative pathways.

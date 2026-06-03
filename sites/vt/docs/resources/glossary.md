@@ -137,3 +137,23 @@ Vietnam's four-class risk-based device classification system, aligned with the A
 
 **UDI — Unique Device Identification**
 A system of unique identifiers for medical devices enabling traceability through the supply chain. Vietnam is working towards UDI adoption in alignment with IMDRF guidance; implementation timelines are to be confirmed.
+
+MOH — Ministry of Health (Bộ Y Tế)
+The Vietnamese national health authority responsible for medical device policy, legislation, and oversight. DAV operates under MOH.
+
+Type A Device
+The lowest-risk category of medical devices in Vietnam, subject to declaration (Công bố) via DMEC without pre-market technical review. Examples: wound dressings, non-electrical thermometers, mirrors.
+
+Type B Device
+Low-to-moderate risk devices requiring declaration via DMEC without pre-market DAV technical review. Examples: elastic bandages, non-sterile gloves, manual wheelchairs.
+
+Type C Device
+Moderate-to-high risk devices requiring marketing authorisation (Đăng ký lưu hành) with full technical dossier and pre-market DAV review. Valid for 5 years. Examples: sterile syringes, active infusion pumps, diagnostic monitors.
+
+Type D Device
+The highest-risk category requiring marketing authorisation with comprehensive technical dossier and pre-market DAV review. Examples: implantable pacemakers, heart-lung machines, complex in-vitro diagnostic systems.
+
+SaMD — Software as a Medical Device
+A medical device that is software-only (not embedded in hardware). In Vietnam, SaMD classification depends on its risk level and intended purpose; classification guidance follows IMDRF N12 definitions and Vietnamese implementation via Circular 14/2020/TT-BYT. Cybersecurity requirements apply under Decree 98/2021 and IMDRF N60 principles.
+
+Manufacturers, Authorised Representatives, and hospital users access DMEC using credentials issued by DAV. Registration in DMEC is mandatory before submitting any declaration, registration, or import permit application.

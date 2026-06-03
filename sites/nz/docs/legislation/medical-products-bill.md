@@ -72,3 +72,5 @@ See the [Medical Products Bill Tracker](/whats-new/medical-products-bill-tracker
 :::warning Plan ahead
 Once the Bill is enacted, the transition to the new framework will require significant preparation — new approval applications, updated QMS procedures, possible UDI obligations. Sponsors and manufacturers supplying the NZ market should monitor the Bill's progress closely and begin assessing the likely impact on their product portfolios.
 :::
+
+"Key milestones ahead: Once the draft Bill is introduced, it will undergo parliamentary review and Select Committee process. Implementation of the new framework is expected during the current parliamentary term, but the exact transition timeline will depend on parliamentary progress. Sponsors and manufacturers should monitor the Bill Tracker for updates on specific implementation dates and transition periods once the Bill is enacted."

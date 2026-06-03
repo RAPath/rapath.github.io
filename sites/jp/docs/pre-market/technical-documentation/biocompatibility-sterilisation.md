@@ -23,7 +23,7 @@ Japan has adopted the ISO 10993 series as recognised standards for biocompatibil
 - ISO 10993-12: Sample preparation and reference materials
 - And others
 
-PMDA follows the ISO 10993-1 framework for determining which tests are required for a specific device. A biocompatibility evaluation rationale — explaining which endpoints were assessed, which tests were conducted, and the basis for concluding biocompatibility — must be included in the application dossier.
+PMDA follows the ISO 10993-1:2018 framework for determining which tests are required for a specific device, though some PMDA guidance documents may reference earlier versions or include additional device-specific endpoints beyond the standard ISO approach. A biocompatibility evaluation rationale — explaining which endpoints were assessed, which tests were conducted, and the basis for concluding biocompatibility — must be included in the application dossier.
 
 ## Sterilisation validation
 
@@ -38,3 +38,7 @@ PMDA expects the validation to cover: sterility assurance level (SAL ≤10⁻⁶
 ## PMDA-specific expectations
 
 PMDA applies the ISO 10993-1:2018 framework but may have device-type-specific expectations articulated in PMDA guidance documents. For novel materials or complex contact scenarios, early PMDA consultation on the biocompatibility testing plan is advisable.
+
+PMDA Biocompatibility Guidance Documents
+
+PMDA has issued device-specific biocompatibility expectations in several guidance documents (available in Japanese from the PMDA website) for categories including cardiovascular devices, ophthalmologic implants, and wound care products. These documents may specify additional endpoints beyond ISO 10993-1 risk-based selection or recommend specific test methods. Review PMDA's published guidance for your device category before finalising your biocompatibility testing plan.

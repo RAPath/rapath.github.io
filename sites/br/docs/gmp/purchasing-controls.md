@@ -22,3 +22,5 @@ For importers: the foreign manufacturer is the primary "supplier." ANVISA requir
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+Re-evaluation should occur at least annually or when risk assessments indicate a need. Evaluation criteria should include the supplier's quality history, compliance with applicable standards, and ability to maintain consistency in product or service delivery.

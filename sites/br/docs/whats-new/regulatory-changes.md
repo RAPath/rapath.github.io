@@ -45,3 +45,5 @@ ANVISA set transition timelines for existing registrations to comply with the 20
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+Products registered before the October 2022 package implementation may have extended transition periods or may be grandfathered under specific conditions. The transition deadline varies by device class and risk category. Confirm the applicable deadline for your specific device(s) by consulting the transition provisions in RDC 751/2022 or contacting ANVISA's peticionamento service.

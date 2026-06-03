@@ -62,7 +62,7 @@ NMRA accepts clinical data generated outside Sri Lanka, provided:
 - Study population is representative of the Sri Lankan patient population
 - Clinical conditions and intended use are comparable
 
-For the reliance pathway, the reference NRA's clinical assessment is a key part of the reliance evidence package, and NMRA may accept the reference NRA's clinical conclusions as part of the reliance review.
+When using the reliance pathway, the reference NRA's clinical assessment and conclusions form a key component of the reliance evidence package. The NMRA may accept these conclusions as supporting evidence, though the NMRA retains the right to conduct additional review if needed.
 
 ## Post-Market Clinical Follow-Up (PMCF)
 
@@ -70,3 +70,5 @@ For Class IIb and III devices, the NMRA may require a **PMCF plan** as part of t
 - Confirm long-term safety and performance
 - Detect rare or late-emerging adverse events
 - Address residual uncertainties identified in the pre-market CER
+
+In Overseas Clinical Data section, add: 'Where clinical data is from significantly different geographic, climatic, or epidemiological regions, provide justification that the data remains applicable to the Sri Lankan patient population, or plan for supplementary local clinical data collection.'

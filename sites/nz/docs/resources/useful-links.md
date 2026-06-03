@@ -64,3 +64,5 @@ description: Key links for New Zealand medical device regulatory affairs — Med
 | United States (FDA) | [rapath.github.io/us/](https://rapath.github.io/us/) |
 | New Zealand (Medsafe) | [rapath.github.io/nz/](https://rapath.github.io/nz/) |
 | RAPath Hub | [rapath.github.io/](https://rapath.github.io/) |
+
+Note: Some Medsafe URLs listed may redirect or have changed. Always verify the current URL by visiting medsafe.govt.nz and navigating to the relevant section. For device enquiries and adverse event reporting, devices@health.govt.nz is the current primary contact point.

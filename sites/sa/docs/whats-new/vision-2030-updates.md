@@ -43,3 +43,5 @@ Under Vision 2030, the SFDA itself is expanding:
 - [Saudi Vision 2030](../getting-started/vision-2030)
 - [Digital Health & SaMD](../digital-health/sfda-digital-health)
 - [GCC & International](../gcc-international/gcc-harmonization)
+
+Manufacturers interested in these incentives should contact the Saudi Industrial Development Fund directly or consult with the Ministry of Investment for device-specific eligibility requirements and application procedures.

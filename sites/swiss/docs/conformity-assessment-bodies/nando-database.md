@@ -14,7 +14,7 @@ description: How to use the NANDO database to find and verify EU-designated noti
 2. Select **New Approach Legislation** → **Regulation (EU) 2017/745** (MDR) or **Regulation (EU) 2017/746** (IVDR)
 3. Browse or search for NBs by country or name
 4. Review each NB's scope of designation — this shows which device classes and types they are designated for
-5. Click on a specific NB to see full scope, contact details, and certificate information
+5. Click on a specific NB to see full scope of designation, NB identification number, designation date/validity period, historical contact details, and certificate information
 
 ## Interpreting NANDO Entries
 - **Designation number**: The NB's four-digit ID — appears on CE certificates and the CE mark (e.g. 0123)

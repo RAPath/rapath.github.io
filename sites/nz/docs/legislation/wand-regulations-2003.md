@@ -58,3 +58,5 @@ See [Exempt Devices](/market-entry/exempt-devices) for a full explanation of Sch
 ## Schedule 2 — The 22 classification rules
 
 See [The 22 Classification Rules](/device-classification/the-22-rules) for rule-by-rule guidance.
+
+Expand 'Regulation 7 — Updates' section with: "Changes must be notified to Medsafe within 10 working days. Updates are typically submitted via the WAND portal by logging into the Sponsor account and modifying the relevant entry. If the portal cannot be accessed or the nature of the change is complex, Sponsors should contact Medsafe directly with full details of the device and the change required."

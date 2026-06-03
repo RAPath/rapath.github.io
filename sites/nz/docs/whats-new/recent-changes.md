@@ -40,3 +40,5 @@ The Australian TGA continued to align its classification rules with the EU MDR (
 - Medical Products Bill — drafting and Parliamentary introduction (expected late 2025)
 - IMDRF guidance on SaMD and AI — Medsafe alignment
 - TTMRA operation post-Medical Products Bill enactment
+
+Transition compliance — Sponsors should continue full WAND compliance, adverse event reporting, and post-market obligations under the Medicines Act 1981 until the Medical Products Bill is enacted and transition arrangements are published. Medsafe will provide notice of any changes to current obligations.

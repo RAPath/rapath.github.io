@@ -10,7 +10,7 @@ description: Compassionate use, waiver of registration, and research exemptions 
 
 Certain devices are exempt from the listing requirement:
 - **Custom-made devices** — manufactured for individual patients (maintain essential principles documentation)
-- **Devices for clinical investigation** — research or clinical trial use only (apply for Waiver of Registration)
+- **Devices for clinical investigation** — research or clinical trial use only (apply for Waiver of Registration); must obtain ethics approval before use
 - **Exhibition/demonstration devices** — not placed on the market (apply for Waiver of Registration)
 - **Donated new devices** — subject to Waiver of Registration conditions
 
@@ -28,3 +28,5 @@ Unregistered devices may be accessed on a named-patient basis in urgent circumst
 - No MDACS-listed alternative is available
 - The patient has a serious/life-threatening condition
 - Appropriate hospital governance approval is in place
+
+Adverse events associated with compassionate use devices must be reported to MDD within 10 calendar days of awareness.

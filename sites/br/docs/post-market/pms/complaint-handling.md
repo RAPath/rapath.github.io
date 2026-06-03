@@ -21,3 +21,5 @@ Trending analysis must be performed at least annually and documented in the PMS 
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+Complaint investigations must be completed within a specified timeframe (typically 30 days for standard complaints, or urgently for serious adverse events), and all complaints classified as adverse events or technical complaints must be reported to NOTIVISA in accordance with RDC 753/2022.

@@ -8,3 +8,14 @@ keywords: [international, India, IMDRF, SAARC, MRA, multi-market, comparison]
 # Saarc Harmonisation
 
 > **Official sources:** [IMDRF](https://www.imdrf.org); [CDSCO](https://cdsco.gov.in); [RAPath AU](https://rapath.github.io/au/); [RAPath EU](https://rapath.github.io/eu/); [RAPath US](https://rapath.github.io/us/)
+
+Add main content section:
+
+SAARC Harmonisation and India's Role
+
+India participates in regional harmonisation efforts through SAARC (South Asian Association for Regional Cooperation). While formal regulatory harmonisation is limited, CDSCO aligns with IMDRF principles, creating de facto consistency with other regional regulators. Current focus areas include:
+- Mutual recognition of GMP certifications
+- Alignment with IMDRF guidance documents
+- Coordination on adverse event reporting
+
+Official sources: CDSCO, IMDRF

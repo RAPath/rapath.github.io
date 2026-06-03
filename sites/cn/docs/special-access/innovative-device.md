@@ -19,3 +19,5 @@ Special access and designation pathways are established under NMPA orders and an
 :::note Disclaimer
 Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [NMPA](https://www.nmpa.gov.cn/) sources before making regulatory decisions. Not affiliated with NMPA or any Chinese Government body. Not legal or regulatory advice.
 :::
+
+Add a complete section explaining: (1) definition of 'innovative' under NMPA criteria; (2) eligibility requirements (novel technology, significant clinical benefit, no equivalent in China); (3) application process and required evidence; (4) benefits of designation (shortened review timelines, expedited CMDE review, priority consideration); (5) reference NMPA Announcement 75 (2018) or latest relevant order; (6) typical review timelines post-designation; (7) transition from designated to standard product status.

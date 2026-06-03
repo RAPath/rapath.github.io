@@ -85,3 +85,13 @@ The DGDA has adopted the following key GHTF documents as the basis for its regis
 :::info Legislation is evolving
 The 2023 Act is new legislation — implementing rules, notifications, and interpretive guidance are still being developed. Check the DGDA website and consult your AR regularly for the latest developments.
 :::
+
+How to Navigate Bangladesh Legislation
+
+1. Start with the Drug and Cosmetics Act, 2023 to confirm the regulatory status and definition of your device.
+2. Consult the DGDA Registration Guidelines (Annexure 1) to determine your device's class.
+3. For Class A devices, confirm that no registration is required and proceed with import/distribution under the applicable local rules.
+4. For Class B/C/D devices, obtain ISO 13485 certification, appoint a Bangladesh AR, compile the technical dossier, and submit through the AR to DGDA on a quarterly cycle.
+5. Post-registration, comply with annual renewal obligations, pricing requirements, and vigilance reporting.
+
+For device-specific classification or regulatory pathway questions, submit a written enquiry to the DGDA with device specifications.

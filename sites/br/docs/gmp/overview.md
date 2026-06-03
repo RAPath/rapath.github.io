@@ -26,3 +26,5 @@ See [CBPF vs. ISO 13485](/docs/gmp/cbpf-vs-iso13485) for a detailed comparison.
 
 - [RDC 752/2022](https://www.gov.br/anvisa/pt-br/assuntos/produtossaude/produtos-para-saude)
 - [ANVISA — CBPF](https://www.gov.br/anvisa/pt-br/assuntos/produtossaude/produtos-para-saude/boas-praticas-de-fabricacao)
+
+For domestic manufacturers, the CBPF is mandatory and cannot be substituted by ISO 13485. For foreign manufacturers, ISO 13485 certification may be accepted as evidence of GMP compliance, but ANVISA retains the discretion to require a direct CBPF inspection, particularly for Class III and Class IV devices or when there are compliance concerns.

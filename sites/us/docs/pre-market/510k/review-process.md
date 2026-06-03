@@ -19,7 +19,7 @@ FDA acknowledges receipt of a 510(k) within **10 business days** and assigns a K
 
 Within **15 business days**, FDA performs an **acceptance review** to verify that the submission contains all required elements. If the submission is incomplete, FDA issues a **Refuse to Accept (RTA)** decision.
 
-If RTA'd, the submitter must resubmit a complete submission — the 90-day review clock does not start until a complete submission is accepted.
+If an RTA decision is issued, the submitter must resubmit a complete submission. The MDUFA 90-calendar-day review clock does not start until FDA has accepted a complete submission, meaning each RTA-resubmission cycle resets the timeline.
 
 ---
 
@@ -76,3 +76,5 @@ FDA publishes quarterly MDUFA performance reports on its website.
 - [FDA — 510(k) Review Process](https://www.fda.gov/medical-devices/premarket-notifications-510k/510k-review-process)
 - [FDA — MDUFA VI Commitment Letter](https://www.fda.gov/media/163422/download)
 - [FDA MDUFA Performance Reports](https://www.fda.gov/industry/fda-user-fee-programs/medical-device-user-fee-amendments-mdufa/mdufa-performance-reports)
+
+Important timing note: The MDUFA 90-calendar-day clock does not begin until FDA accepts a complete submission. If an RTA is issued, the resubmitted application is treated as a new submission with its own 90-day review period starting from acceptance of the complete resubmission.

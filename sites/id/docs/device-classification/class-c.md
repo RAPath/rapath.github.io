@@ -30,8 +30,8 @@ Class C uses the **full registration pathway** via Regalkes, with enhanced docum
 - ISO 13485 certification mandatory
 - Review timeline: approximately 6–12 months
 
-:::warning Local clinical evaluation risk
-For some Class C device categories, Kemenkes evaluators may require supplementary local clinical data or performance testing in an Indonesian clinical setting. This is not universal, but manufacturers should plan for this possibility, especially for novel technologies or devices without existing ASEAN approvals.
+:::warning Local clinical evaluation requirement
+For certain Class C device categories, Kemenkes evaluators may request supplementary local clinical data or performance testing conducted in an Indonesian clinical setting. This requirement is assessed on a case-by-case basis and is more likely for novel technologies, devices without existing approvals in other ASEAN member states, or devices intended for populations with distinct demographic or clinical characteristics. Manufacturers should budget additional time and resources for this possibility during planning.
 :::
 
 ## Documentation Requirements
@@ -48,3 +48,7 @@ All Class B documentation requirements apply, plus:
 ## Halal Labeling Deadline
 
 Class C devices must comply with Halal labeling requirements by **17 October 2034** under Government Regulation 42/2024.
+
+Add the following sentence to the 'Review timeline' section:
+
+Review timeline: approximately 6–12 months; timelines may be shorter for devices with existing approvals in other ASEAN member states.

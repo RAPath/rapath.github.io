@@ -4,7 +4,7 @@ description: "Which international IEC and ISO standards are recognised by MFDS f
 sidebar_position: 2
 ---
 
-MFDS maintains a **list of recognised international standards** for demonstrating compliance with safety and performance requirements.
+MFDS maintains a list of recognised international standards for demonstrating compliance with safety and performance requirements.
 
 ## Key recognised standards
 
@@ -22,9 +22,18 @@ MFDS maintains a **list of recognised international standards** for demonstratin
 | ISO 11135 / 11137 | Sterilisation validation (EO / radiation) |
 | ISO 11607 | Packaging for terminally sterilised devices |
 
-:::caution Confirm the accepted edition
-The recognised list may reference a **specific edition**. Confirm the accepted edition with MFDS before testing.
-:::
+Confirm the accepted edition
+
+The MFDS recognised standards list specifies the exact edition and year of each standard. Using an older or newer edition without MFDS approval may result in non-compliance findings. Always confirm the currently accepted edition on the official MFDS standards database before commissioning testing.
 
 ## Related pages
 - [Korean Industrial Standards (KS)](./korean-industrial-standards-ks) · [Electrical and mechanical safety testing](../../pre-market/technical-documentation/electrical-and-mechanical-safety)
+
+Korean Industrial Standards (KS) Reference
+
+KS standards that mirror or align with ISO equivalents are also recognised by MFDS, including:
+- KS C IEC 60601-1 (electrical safety)
+- KS A ISO 14971 (risk management)
+- KS A ISO 13485 (QMS)
+
+MFDS accepts either ISO or equivalent KS standards; confirm equivalency acceptance with MFDS before testing begins.

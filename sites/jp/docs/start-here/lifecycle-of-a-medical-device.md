@@ -34,7 +34,7 @@ A medical device's regulatory life in Japan spans three broad phases: pre-market
 
 ## Phase 3 — Post-market
 
-**Re-examination period.** For Shonin devices, a re-examination surveillance period begins at approval (typically 3–7 years depending on device type). The MAH must collect use-results data and submit a re-examination application at the end of the period.
+**Re-examination period.** For Shonin devices, a re-examination surveillance period begins at approval (typically 3–7 years depending on device type and risk classification). MHLW then issues a re-examination decision (renewal of approval, approval with conditions, or conditional approval). The MAH must collect use-results data and submit a re-examination application at the end of the period.
 
 **GPSP surveillance.** MAH operates a post-market surveillance programme compliant with the Good Post-market Study Practice (GPSP) Ordinance. This includes use-results surveys, complaint collection, and periodic safety reporting.
 
@@ -45,3 +45,5 @@ A medical device's regulatory life in Japan spans three broad phases: pre-market
 **Re-evaluation.** MHLW may at any time initiate a re-evaluation of any approved device class if new safety concerns arise. This is distinct from the MAH-initiated re-examination.
 
 **End of market life.** The MAH files a withdrawal notification with MHLW. Post-withdrawal obligations (records, complaint handling for devices already in use) continue for defined periods.
+
+Update Phase 2 — Approval / Certification / Notification section, Ninsho paragraph: 'Ninsho (Certification — Class II/some III). Application submitted to chosen RCB → RCB review (typically 3–9 months, but can extend if additional data or clarification is requested) → Ninsho certificate issued to MAH by RCB.'

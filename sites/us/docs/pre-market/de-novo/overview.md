@@ -13,30 +13,30 @@ The De Novo pathway is a US-specific regulatory route created by the FDA Safety 
 
 ## What is De Novo?
 
-The **De Novo classification** request is a regulatory pathway for novel, low-to-moderate risk devices that have no legally marketed predicate — meaning a traditional 510(k) is not available. A successful De Novo:
+The De Novo classification request is a regulatory pathway for novel, low-to-moderate risk devices that have no legally marketed predicate — meaning a traditional 510(k) is not available. A successful De Novo:
 
-- Establishes a **new device type** (product code) with a corresponding classification (Class I or Class II)
-- Establishes **special controls** for that device type
-- Results in a **De Novo order** that authorises marketing
-- Creates a **legally marketed reference device** that future 510(k) submitters may use as a predicate
+- Establishes a new device type (product code) with a corresponding classification (Class I or Class II)
+- Establishes special controls for that device type
+- Results in a De Novo order that authorises marketing
+- Creates a legally marketed device type that serves as a reference for future 510(k) predicates—manufacturers can later claim substantial equivalence to the De Novo device type
 
 ## When is De Novo used?
 
 De Novo is appropriate when:
 
-1. Your device is **novel** — no valid predicate exists for a 510(k)
-2. Your device is **low-to-moderate risk** — not requiring the full PMA standard of valid scientific evidence
-3. You have received an **NSE (Not Substantially Equivalent)** determination on a 510(k) and believe the device is not Class III
-4. You want to **establish a new device type** with associated special controls
+1. Your device is novel — no valid predicate exists for a 510(k)
+2. Your device is low-to-moderate risk — not requiring the full PMA standard of valid scientific evidence
+3. You have received an NSE (Not Substantially Equivalent) determination on a 510(k) and believe the device is not Class III
+4. You want to establish a new device type with associated special controls
 
 ## What De Novo produces
 
 A granted De Novo order:
-- Classifies the device as **Class I or Class II**
-- Establishes **special controls** specific to the new device type
-- Assigns a **new product code**
+- Classifies the device as Class I or Class II
+- Establishes special controls specific to the new device type
+- Assigns a new product code
 - Is publicly posted on FDA's De Novo database
-- Serves as a **legally marketed reference** for future 510(k) predicates
+- Serves as a legally marketed reference for future 510(k) predicates
 
 ## Official resources
 - [FDA — De Novo Classification Process](https://www.fda.gov/medical-devices/premarket-submissions-selecting-and-preparing-correct-submission/de-novo-classification-request)

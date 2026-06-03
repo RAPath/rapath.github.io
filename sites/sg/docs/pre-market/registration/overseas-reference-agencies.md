@@ -59,7 +59,7 @@ HSA may contact the reference agency to verify the approval during its review.
 
 ## Safe marketing history
 
-For expedited (ECR-1) and immediate (IBR Condition 1) routes, a device must have been marketed in the reference agency's jurisdiction for **at least three years** without known safety issues. This is assessed based on:
+For expedited (ECR-1 only) (Note: ECR-2 does not require the 3-year safe marketing history; IBR conditions should be verified separately.) routes, a device must have been marketed in the reference agency's jurisdiction for **at least three years** without known safety issues. This is assessed based on:
 - The date of the original overseas approval;
 - Absence of any safety-related recalls, field safety notices, or regulatory actions against the device in any market;
 - No prior rejection or withdrawal by HSA or any reference agency.
@@ -83,3 +83,5 @@ See [Singapore vs TGA / FDA / CE / Health Canada](../../international/sg-vs-othe
 
 - [HSA: Registration overview — overseas reference agencies](https://www.hsa.gov.sg/medical-devices/registration/overview)
 - [HSA: Registration and licensing requirements tool](https://www.hsa.gov.sg/medical-devices/registration/requirements)
+
+Complete the final strategic implications bullet point: "Japan-first for Class D implants: MHLW Shonin for active implantables, combined with another reference agency approval, can satisfy EDR conditions for faster market entry."

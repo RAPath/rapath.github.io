@@ -161,3 +161,5 @@ The depth of clinical evaluation required scales with device risk:
 | MHRA: Clinical evaluation guidance | MHRA's position on clinical evaluation |
 | ISO 14155:2020 | Clinical investigations of medical devices for human subjects |
 | EU MDR 2017/745, Annex XIV | EU clinical evaluation requirements (detailed reference for NI market) |
+
+Complete the clinical evaluation process stages, including: Stage 2 (data extraction), Stage 3 (critical appraisal), Stage 4 (synthesis), and Stage 5 (report preparation). Reference MEDDEV 2.7/1 Rev.4 Section 5 for the full methodology.

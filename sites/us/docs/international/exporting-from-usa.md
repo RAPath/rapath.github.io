@@ -22,7 +22,7 @@ For higher-risk devices, **§ 802** provides an alternative pathway that require
 
 ## Certificates for Foreign Government (CFG)
 
-FDA issues **Certificates for Foreign Government (CFG)** — also known as export certificates — upon manufacturer request. These documents are frequently required by foreign regulators as part of device registration applications.
+FDA issues **Certificates for Foreign Government (CFG)** — also known as export certificates — upon manufacturer or Certificates of Free Sale request through FDA's online system. These documents are frequently required by foreign regulators as part of device registration applications.
 
 ### Types of certificates
 
@@ -52,3 +52,6 @@ FDA issues **Certificates for Foreign Government (CFG)** — also known as expor
 ## Official resources
 - [FDA — Export Certificates for Medical Devices](https://www.fda.gov/medical-devices/importing-and-exporting-medical-devices/export-certificates-medical-devices)
 - [FD&C Act § 801(e) and § 802](https://www.law.cornell.edu/uscode/text/21/381)
+
+Section 801(e) vs. Section 802 pathway
+The § 801(e) export pathway is used for devices meeting general export criteria (foreign specifications, not sold in US, etc.) with no FDA approval required. Section 802 provides an alternative for certain higher-risk devices and requires FDA written notification before export; some device types may require compliance with foreign registration laws. Consult FDA guidance to determine which pathway applies to your device.

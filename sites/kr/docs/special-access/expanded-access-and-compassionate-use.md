@@ -26,3 +26,7 @@ The foreign manufacturer (via Korean agent/importer) must cooperate with the MFD
 
 ## Related pages
 - [Innovative medical device designation](./innovative-medical-device-designation) · [Clinical trial device](./clinical-trial-device)
+
+Cost and supply
+​
+The manufacturer or foreign entity must typically bear the cost of device supply during expanded access use. Commercial pricing is not permitted during this phase. MFDS may require the manufacturer to provide the device at cost or free of charge.

@@ -43,7 +43,7 @@ Importers must maintain quality procedures covering:
 - Adverse event reporting procedures
 - Recall and FSCA procedures
 
-Importers do not typically need full ISO 13485 certification but must have documented procedures consistent with good distribution practice.
+Importers do not typically need ISO 13485 certification but must have documented quality procedures for import, storage, distribution, and complaint handling consistent with good distribution practice (GDP). These procedures should address traceability, recall management, and adverse event reporting.
 
 ## Responsibilities of the Importer
 
@@ -70,3 +70,7 @@ Importer licences are renewed **annually** via MyMDA. Updated documentation requ
 :::tip Combination Role
 Most foreign market entry strategies in Malaysia involve one local entity acting as both the **importer** and the **LAR**. This simplifies regulatory responsibility and reduces the number of licences to manage.
 :::
+
+Add this bullet point to the 'Responsibilities of the Importer' section:
+
+• **Due diligence on foreign manufacturer:** Verify that the foreign manufacturer is legally permitted to export medical devices from its country and has not been subject to regulatory action (suspension, withdrawal of approval, or warning letters) in major jurisdictions. Request evidence of manufacturing authorization from the manufacturer's home country regulator.

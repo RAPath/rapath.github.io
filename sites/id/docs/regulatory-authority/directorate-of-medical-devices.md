@@ -8,7 +8,7 @@ description: The operational unit within Kemenkes responsible for evaluating dev
 
 ## Overview
 
-The **Directorate of Medical Devices** (*Direktorat Alat Kesehatan*) is the operational unit within the Directorate General of Pharmaceutical and Medical Devices (Dirjen Kefarmasian dan Alat Kesehatan) at Kemenkes. It is the team that directly handles:
+The Directorate of Medical Devices (Direktorat Alat Kesehatan) is the operational unit within the Directorate General of Pharmaceutical and Medical Devices (Dirjen Kefarmasian dan Alat Kesehatan) at Kemenkes. It is the team that directly handles:
 
 - Technical and administrative evaluation of NIE applications submitted through Regalkes
 - Issuance of marketing authorisations (NIE)
@@ -21,7 +21,7 @@ The **Directorate of Medical Devices** (*Direktorat Alat Kesehatan*) is the oper
 
 ## Registration Evaluation Process
 
-When your LAR submits a registration dossier through Regalkes, the Directorate of Medical Devices conducts a **two-phase review**:
+When your LAR submits a registration dossier through Regalkes, the Directorate of Medical Devices conducts a two-phase review:
 
 ### Phase 1: Administrative Review
 Checks that all required documents are present, correctly formatted, and internally consistent. Common reasons for administrative rejection:
@@ -31,7 +31,7 @@ Checks that all required documents are present, correctly formatted, and interna
 - Incorrect file naming or format in Regalkes upload
 
 ### Phase 2: Technical Review
-Evaluates the substance of the dossier — device description, intended use, risk management, clinical evidence, labeling compliance, and conformity with applicable standards. The Directorate may issue **clarification queries** (*permintaan klarifikasi*) through the Regalkes system. Timely and complete responses are essential to keeping the application on track.
+Evaluates the substance of the dossier — device description, intended use, risk management, clinical evidence, labeling compliance, and conformity with applicable standards. The Directorate may issue clarification queries (permintaan klarifikasi) through the Regalkes system. Timely and complete responses are essential to keeping the application on track.
 
 ---
 
@@ -45,8 +45,7 @@ The Directorate has authority to impose a tiered sanctions regime:
 | Level 2 | NIE suspension | Failure to rectify warnings; CDAKB suspension of LAR |
 | Level 3 | NIE revocation + mandatory recall | Serious safety issues; persistent non-compliance; fraud |
 
-:::warning NIE linked to LAR's CDAKB
-If your LAR's CDAKB certificate is suspended or expires, your NIE is **automatically frozen** — you cannot import or sell new stock until the CDAKB is restored. This is one of the strongest arguments for regular monitoring of your LAR's licence status.
+:::warning NIE automatically linked to LAR's CDAKB - If your LAR's CDAKB certificate is suspended, lapses, or expires, your NIE is immediately frozen and you cannot import, distribute, or sell any products under that NIE, regardless of the NIE's stated expiry date. There is no grace period. This creates a critical dependency: you must monitor your LAR's CDAKB validity at all times and plan renewal at least 3-6 months in advance to avoid market access interruption.
 :::
 
 ---
@@ -60,3 +59,7 @@ The Directorate conducts regular unannounced market sampling — purchasing prod
 - That Halal labeling obligations are being met as deadlines pass
 
 Non-compliant products found during market sampling trigger immediate sanctions procedures.
+
+## Post-Market Market Sampling
+
+"NIE Renewal Requirements - The NIE must be renewed every 5 years. Renewal applications must be submitted through Regalkes at least 6 months before the current NIE expires. Failure to renew on time results in automatic suspension of the NIE and permission to distribute is terminated. Renewal dossiers must include updated GMP certificates, ISO 13485 certificates, and evidence that the device remains compliant with applicable standards."

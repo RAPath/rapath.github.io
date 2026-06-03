@@ -41,4 +41,4 @@ While MO 169 and ISO 13485 cover substantially the same ground, MO 169 has some 
 
 ## 2021 revision — ISO 13485:2016 alignment
 
-MO 169 was revised in 2021 to align with ISO 13485:2016. Manufacturers previously certified to ISO 13485:2016 found the transition to updated MO 169 relatively straightforward, as the substantive requirements are closely harmonised.
+MO 169 was revised in 2021 to align with ISO 13485:2016. Manufacturers previously certified to ISO 13485:2016 found the transition to updated MO 169 relatively straightforward, as the substantive requirements are closely the requirements QMS harmonized. However, Japan-specific requirements (MAH oversight, GPSP integration, labelling control) still require separate attention and cannot be addressed through ISO 13485 certification alone.

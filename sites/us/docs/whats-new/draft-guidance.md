@@ -15,3 +15,5 @@ This page tracks **Draft Guidance Open for Comment** for US FDA medical device r
 - [Federal Register — FDA](https://www.federalregister.gov/agencies/food-and-drug-administration)
 - [Regulations.gov — FDA](https://www.regulations.gov/agency/FDA)
 - [FDA What's New](https://www.fda.gov/medical-devices/medical-devices-news-and-events)
+
+Add a table with columns for: Document Title, Topic Area, Comment Period Deadline, and Link to Federal Register. Include current and recently closed draft guidance documents relevant to medical devices.

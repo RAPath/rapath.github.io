@@ -41,7 +41,7 @@ MDR and IVDR have entirely separate classification systems:
 | MDR 2017/745 | Class I (and sub-classes Is, Im, Ir), IIa, IIb, III | Annex VIII, Rules 1–22 |
 | IVDR 2017/746 | Class A, B, C, D | Annex VIII, Rules 1–7 |
 
-The two systems are not equivalent and cannot be mapped directly to each other. A Class IIa MDR device is not the same risk level as a Class B IVDR device.
+The two systems are not equivalent and cannot be mapped directly to each other. A Class IIa MDR device is not the same risk level as a Class B IVDR device — MDR classes reflect physical invasiveness and interaction with the body, while IVDR classes reflect the diagnostic risk and clinical consequences of an incorrect result.
 
 ---
 

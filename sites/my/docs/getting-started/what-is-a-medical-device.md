@@ -54,3 +54,7 @@ Reagents, kits, instruments, and systems for examination of specimens from the h
 :::tip Unsure About Your Product?
 Use the **[Is Your Product a Medical Device?](./is-your-product-a-medical-device)** decision guide or submit a product classification enquiry to MDA via the MyMDA portal.
 :::
+
+**Combination Products (Device + Cosmetic)**
+
+Products making both cosmetic and medical claims are regulated as medical devices in Malaysia if any medical intended purpose is present. For example, a skincare product claiming to treat acne or reduce wrinkles for medical purposes is a medical device, not a cosmetic, even if it also has cosmetic appeal. Classification is based on the manufacturer's primary intended purpose.

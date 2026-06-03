@@ -36,3 +36,5 @@ Upon approval:
 - HKMD number assigned and published in MDIS
 - LRP assumes ongoing post-market obligations
 - Listing valid indefinitely unless significant changes occur or listing is withdrawn
+
+While no fixed renewal date applies, the MDD may conduct periodic audits, require re-attestation of ISO 13485 status, or request updated documentation if public health concerns arise or if the device remains unlisted for an extended period without market activity.

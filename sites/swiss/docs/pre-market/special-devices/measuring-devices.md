@@ -5,13 +5,12 @@ description: Class Im measuring function medical devices in Switzerland — NB i
 # Measuring Devices (Class Im)
 
 ## Overview
-**Class Im** devices have a measuring function used for clinical purposes. Examples include clinical thermometers, blood pressure monitors with diagnostic indication, and calibrated measurement systems. Class Im requires **NB involvement** for the metrological aspects of conformity assessment.
+Class Im devices have a measuring function used for clinical purposes. Examples include clinical thermometers, blood pressure monitors with diagnostic indication, and calibrated measurement systems. Class Im requires NB involvement for the metrological aspects of conformity assessment.
 
 ## Metrological Requirements
 The NB assesses conformity of Class Im devices with the provisions of MedDO Annex IV relating to metrological requirements. These cover: accuracy of measurement; calibration traceability; measurement uncertainty; drift and stability over the device's expected lifetime.
 
-## METAS Interface
-**METAS** (Federal Institute of Metrology) may be relevant for certain measuring devices, particularly those with claims relating to legal metrology or devices that interact with regulated measurement infrastructure. Check whether METAS involvement is required for your specific device type.
+METAS (Federal Institute of Metrology) involvement is typically required only for devices subject to legal metrology regulations (e.g., devices used for commercial or safety-critical measurements subject to Swiss metrology law). Most medical Class Im devices do not require direct METAS involvement; the NB performs metrological conformity assessment independently. Clarify with your NB whether METAS consultation is needed for your specific device type.
 
 ## Official Sources
 - [MedDO Annex IV — Class Im provisions (SR 812.213)](https://www.fedlex.admin.ch/eli/cc/2021/205/en)

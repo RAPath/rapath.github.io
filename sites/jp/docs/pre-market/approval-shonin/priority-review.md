@@ -37,3 +37,5 @@ These are targets, not guarantees. Complex devices with significant Q&A rounds w
 ## Relationship with SAKIGAKE designation
 
 Priority review (Yusen Shinsa) and SAKIGAKE designation are separate but complementary. SAKIGAKE (先駆け審査指定制度) provides additional benefits — including early and intensive PMDA consultation — and also triggers priority review. Devices with SAKIGAKE designation automatically receive priority review treatment. See [Special Access and Designations](/docs/guidance/imdrf-adoption-status) for more on SAKIGAKE.
+
+The written request should clearly delineate: (1) the disease or condition and why it is serious or life-threatening, (2) a detailed description of the proposed device and its mechanism, (3) explanation of why no adequate existing treatment or device is available in Japan, or how the new device represents a significant improvement, and (4) summary of pre-clinical and early clinical evidence supporting the potential benefit. Supporting published literature and data summaries should be included.

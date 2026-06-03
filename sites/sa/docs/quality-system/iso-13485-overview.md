@@ -33,3 +33,5 @@ Saudi Arabia has adopted a national version of ISO 13485 through the **Gulf Stan
 - MDS-REQ 3 — QMS requirements
 - [SFDA Conformity Assessment Bodies (CABs)](./sfda-cabs)
 - [Inspections and Audits](./inspections-audits)
+
+## Who must hold QMS certification?

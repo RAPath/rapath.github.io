@@ -246,3 +246,5 @@ This mapping is approximate. Each device must be classified independently under 
 | EU IVDR 2017/746, Annex VIII | EU IVDR classification rules — applies in NI |
 | MHRA: IVD medical devices guidance | MHRA's IVD regulatory guidance |
 | MHRA: Pre-submission meetings | For borderline IVD classification queries |
+
+The section ends with 'List B devices are those where diagnostic errors carry significant (though generally less immediately catastrophic) clinical c' which is incomplete. The full definition and List B devices need to be completed.

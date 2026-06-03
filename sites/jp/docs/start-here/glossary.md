@@ -11,7 +11,7 @@ Key Japanese regulatory terms with English equivalents and plain-English explana
 
 | Japanese (Romaji) | Kanji | English | Explanation |
 | --- | --- | --- | --- |
-| Shonin | 承認 | Approval | Pre-market approval for Class III/IV devices, issued by MHLW following PMDA review |
+| Shonin | 承認 | Approval | Pre-market approval for Class III/IV devices and Class II devices without a recognised standard, issued by MHLW following PMDA review |
 | Ninsho | 認証 | Certification | Pre-market certification for Class II devices (and some Class III), issued by an RCB |
 | Todokede | 届出 | Notification | Pre-market notification for Class I devices, filed with prefectural government |
 | Ichibu Henko | 一部変更 | Partial change approval | Application required before making significant post-approval changes to an approved device |

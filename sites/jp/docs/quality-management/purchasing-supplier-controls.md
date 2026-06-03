@@ -21,4 +21,8 @@ Receiving inspection activities must verify that purchased products conform to r
 
 ## Outsourced process control
 
-The MAH (and manufacturer) must maintain control of outsourced processes that affect product quality — including contract manufacturing, sterilisation, testing laboratories, and other outsourced activities. The type and extent of control applied must be defined in the QMS. Outsourcing does not remove the MAH's regulatory responsibility.
+The MAH and manufacturer must maintain control of all outsourced processes that affect product quality — including contract manufacturing, sterilization, testing laboratories, labeling, packaging, and other outsourced activities. The type and extent of control applied (supplier qualification, incoming verification, audit frequency, quality agreement requirements) must be defined in the QMS. Outsourcing does not remove the MAH's or manufacturer's regulatory responsibility, and outsourced sites must comply with MO 169 requirements.
+
+## Supplier qualification
+
+Supplier changes and re-qualification. Any change in the supplier of a critical component or service must be treated as a change to the QMS. The new supplier must be evaluated and qualified using the same criteria as the original supplier. Re-qualification records must demonstrate that the new supplier's process produces components equivalent to the previous supplier.

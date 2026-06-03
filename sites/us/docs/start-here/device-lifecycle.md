@@ -30,7 +30,7 @@ The regulatory lifecycle of a medical device under FDA encompasses three main ph
 - **Class III** → Premarket Approval (PMA)
 
 ### Step 4: Establish your Quality System
-- Implement 21 CFR Part 820 (QMSR) / ISO 13485-aligned QMS
+- Implement 21 CFR Part 820 (QMSR — Quality Management System Regulation) / ISO 13485-aligned QMS
 - Establish design controls, device history records, risk management
 
 ### Step 5: Gather clinical / technical evidence
@@ -92,3 +92,5 @@ The regulatory lifecycle of a medical device under FDA encompasses three main ph
 
 - [FDA — How to Study and Market Your Device](https://www.fda.gov/medical-devices/how-study-and-market-your-device)
 - [FDA — Device Regulatory Pathway (Decision Chart)](https://www.fda.gov/medical-devices/overview-device-regulation/regulatory-controls)
+
+Post-market surveillance requirements vary by device class and risk profile. FDA may impose mandatory §522 post-market surveillance study orders for higher-risk devices, particularly those approved under PMA. Class I and II devices may be subject to surveillance only in specific cases.

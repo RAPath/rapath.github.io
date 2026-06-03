@@ -19,7 +19,7 @@ sidebar_position: 6
 | Curative claims for unapproved conditions | Misleading |
 | Testimonials implying guaranteed outcomes | Misleading |
 | Comparative claims without evidence | Misleading |
-| Claims device is "safe" without qualification | Misleading |
+| Unqualified safety claims (e.g., "completely safe", "risk-free") without reference to specific conditions or risk profile | Misleading |
 
 ## Enforcement consequences
 

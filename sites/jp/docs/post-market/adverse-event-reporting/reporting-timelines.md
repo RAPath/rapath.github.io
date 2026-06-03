@@ -33,3 +33,14 @@ The reporting clock starts when the **MAH** becomes aware of information that re
 - Receipt of an overseas regulatory action affecting the device
 
 The clock does not restart if additional information is received later — the initial awareness date is the start. If an event is initially unclear (e.g. a complaint that does not clearly indicate a serious injury), the MAH must use judgment about the start date, erring toward the earlier date when in doubt.
+
+Determining 'reasonable possibility' of device causation:
+
+MAHs must use clinical judgment to assess whether there is a reasonable possibility that the device contributed to the adverse event. This does not require proof of causation, but rather a reasonable basis to suspect the device's involvement based on:
+
+- The temporal relationship between device use and the event
+- Known or expected properties of the device
+- The patient's medical history and concurrent conditions
+- Reports in medical literature or from regulatory authorities
+
+When causation is unclear or unlikely, the MAH must still document the decision and rationale in the complaint record. If new information later emerges that changes the causation assessment, a supplementary report may be required.

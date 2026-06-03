@@ -81,3 +81,20 @@ Do not proceed with a regulatory pathway based on an assumed borderline classifi
 - [HSA: Innovation Office](https://www.hsa.gov.sg/medical-devices/io)
 - [Health Products Act (Cap. 122D)](https://sso.agc.gov.sg/Act/HPA2007)
 - [HP(MD) Regulations 2010](https://sso.agc.gov.sg/SL/HPA2007-S436-2010)
+
+The page should conclude with:
+
+Getting HSA's view
+
+For borderline cases, HSA offers formal pre-submission consultation:
+Product classification consultation: available through HSA's Consultation Schemes. Allows applicants to obtain HSA's non-binding view on classification before committing to a regulatory pathway.
+Innovation Office: for novel product types where standard rules may not clearly apply — hsa.gov.sg/medical-devices/io.
+
+Do not proceed with a regulatory pathway based on an assumed borderline classification without seeking HSA's view where there is genuine ambiguity. An incorrect classification discovered during evaluation requires re-submission.
+
+Official sources
+
+HSA: Consultation schemes
+HSA: Innovation Office
+Health Products Act (Cap. 122D)
+HP(MD) Regulations 2010

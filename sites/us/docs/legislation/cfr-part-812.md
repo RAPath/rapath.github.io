@@ -28,7 +28,7 @@ keywords: [21 CFR Part 812, IDE, investigational device exemption, significant r
 ## Significant risk (SR) vs non-significant risk (NSR)
 
 ### Significant risk (SR) devices
-Devices that present a potential for serious risk to the health, safety, or welfare of a subject. SR device investigations require:
+Devices that present a potential for serious risk to the health, safety, or welfare of a subject, as defined in 21 CFR § 812.3(m). This includes devices that are permanently implanted, are used in life-sustaining or life-enhancing functions, or present significant questions regarding biocompatibility. SR device investigations require:
 - A full **IDE application** submitted to and approved by FDA (§ 812.20)
 - IRB approval
 - Informed consent of subjects
@@ -72,3 +72,5 @@ Sponsors must:
 ## Official resources
 - [21 CFR Part 812 (eCFR)](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-H/part-812)
 - [FDA — IDE Overview](https://www.fda.gov/medical-devices/how-study-and-market-your-device/investigational-device-exemption-ide)
+
+If FDA has objections to an IDE application within the 30-day period, the sponsor is notified and the IDE is not approved until concerns are resolved. FDA may request additional information or modifications to the investigational plan. The review clock pauses while the sponsor responds to FDA questions.

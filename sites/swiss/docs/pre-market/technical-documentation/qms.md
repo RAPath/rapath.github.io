@@ -24,3 +24,5 @@ Not required for NB conformity assessment purposes, but strongly recommended as 
 :::warning Disclaimer
 AI-assisted content for navigation only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
 :::
+
+NB QMS certificates are typically valid for 5 years from issuance. Annual surveillance audits are conducted to verify ongoing compliance. At least one unannounced audit must occur during the 5-year certificate validity period. Re-certification audits are required before certificate expiry.

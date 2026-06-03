@@ -26,3 +26,5 @@ MDACS is modelled on GHTF/IMDRF principles and designed to ensure devices meet a
 ## Toward Statutory Regulation
 
 A proposed **Medical Devices Ordinance** would make listing mandatory by law. Until enacted, MDACS remains the operative framework. See [Legislative Reform Outlook](/legislation/reform-outlook).
+
+Access MDIS via the MDD website (https://www.drugoffice.gov.hk). User guides and technical support are available from the Medical Device Division.

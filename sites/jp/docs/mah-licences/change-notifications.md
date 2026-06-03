@@ -24,3 +24,5 @@ The following changes to the MAH's circumstances require notification to or auth
 Notification to the prefectural government or MHLW is typically a straightforward administrative process completed within a few weeks. Changes that require amendment of the licence itself (rather than mere notification) may take 1–2 months.
 
 Keep detailed records of all change notifications filed — these records are reviewed during PMDA QMS inspections as evidence of good regulatory practice.
+
+Notification must be submitted to the licensing authority before the change is implemented. Changes implemented without prior notification or approval may result in regulatory action or licence suspension.

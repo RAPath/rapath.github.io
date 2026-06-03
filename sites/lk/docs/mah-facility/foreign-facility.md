@@ -6,11 +6,11 @@ description: NMRA mandatory foreign manufacturing site registration — SMF stru
 
 # Foreign Facility Registration
 
-> *LK-Unique · Mandatory pre-requisite to product registration*
+> LK-Unique · Mandatory pre-requisite to product registration
 
 ## Overview
 
-All foreign manufacturing sites must be **registered and approved by the NMRA before any product registration application can be submitted**. This requirement — unique in the region — means that market entry planning in Sri Lanka must start with facility registration.
+All foreign manufacturing sites must be registered and approved by the NMRA before any product registration application can be submitted. This requirement — unique in the region — means that market entry planning in Sri Lanka must start with facility registration.
 
 ## Site Master File (SMF) Contents
 
@@ -39,22 +39,18 @@ All foreign manufacturing sites must be **registered and approved by the NMRA be
 6. Manufacturer addresses non-conformities
 7. NMRA issues site approval letter
 
-**Audit costs** (NMRA inspector travel, accommodation, per diem) are borne by the manufacturer/MAH.
+Audit costs (NMRA inspector travel, accommodation, per diem) are borne by the manufacturer/MAH.
 
 ## Audit Waiver — Evidence Required
 
 An on-site NMRA audit may be waived with evidence of:
 
-**Option 1 — SRA Inspection:**
-- Copy of the most recent inspection report from an SRA
-- SRA = FDA (USA) · MHRA (UK) · TGA (Australia) · EMA (EU) · Health Canada · PMDA (Japan)
-- Report must be recent (typically within 2–3 years — confirm current NMRA requirements)
-- Report should show no critical findings that would prevent continued manufacture
+Report must be recent — typically within 2–3 years of the waiver application submission date. Confirm the acceptable timeframe with the NMRA Medical Devices Regulatory Division, as this requirement may be updated.
 
-**Option 2 — WHO Pre-Qualification:**
+Option 2 — WHO Pre-Qualification:
 - Current WHO PQ certificate and scope document covering the relevant product category
 
-**Waiver application:** Submit waiver request with supporting evidence to the NMRA Medical Devices Regulatory Division.
+Waiver application: Submit waiver request with supporting evidence to the NMRA Medical Devices Regulatory Division.
 
 ## Site Approval Validity and Renewal
 
@@ -70,7 +66,7 @@ An on-site NMRA audit may be waived with evidence of:
 | NMRA SMF review | 4–8 weeks |
 | On-site audit scheduling and conduct | 4–12 weeks |
 | Non-conformity resolution and site approval | 2–8 weeks |
-| **Total if audit required** | **14–36 weeks** |
-| **Total with audit waiver** | **8–16 weeks** |
+| Total if audit required | 14–36 weeks |
+| Total with audit waiver | 8–16 weeks |
 
-Start facility registration **before** preparing the product registration dossier — particularly if an on-site audit is likely.
+Start facility registration before preparing the product registration dossier — particularly if an on-site audit is likely.

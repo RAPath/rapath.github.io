@@ -22,7 +22,7 @@ For in vitro diagnostic devices under IVDO, clinical evidence takes the form of 
 - Positive/negative predictive values
 
 ## Performance Studies
-For List A and List B IVDs, performance studies may require involvement of a notified body or ethics committee review. Key types:
+For List A IVDs, an NB review of clinical evidence is mandatory via Annex IX Chapter II. For List B IVDs, NB involvement may be required depending on the conformity assessment route chosen (Annex IX Chapter I or Annex X + XI). Ethics committee review is required only when performance studies involve human participants or patient data. Key types:
 - **Analytical performance studies** — laboratory studies validating analytical claims
 - **Clinical performance studies** — studies involving human specimens or participants to validate clinical performance claims
 - **Scientific validity assessment** — establishing the analyte's association with the clinical condition
@@ -37,3 +37,7 @@ MDCG 2022-2 (Guidance on general principles of clinical evidence for IVDs) is ap
 :::warning Disclaimer
 AI-assisted content for navigation only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
 :::
+
+Performance Study Design Considerations
+​
+For List A IVDs, performance studies typically require larger sample sizes and may require multi-centre validation. For List B IVDs, performance data may be derived from literature or smaller validation studies. The choice of study design (prospective vs. retrospective, single-centre vs. multi-centre) should be justified based on the risk classification and intended use of the IVD. Reference to MDCG 2022-2 Section 4 provides detailed guidance on appropriate study designs for each IVD category.

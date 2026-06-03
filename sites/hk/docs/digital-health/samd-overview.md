@@ -6,20 +6,20 @@ description: MDD's approach to regulating SaMD under MDACS — classification, d
 
 # Software as a Medical Device (SaMD)
 
-> *MDACS · IMDRF SaMD framework · HK approach*
+> MDACS · IMDRF SaMD framework · HK approach
 
 ## Is Your Software a Medical Device?
 
-**Likely yes if:** diagnoses disease from patient data · predicts patient risk · recommends treatment · monitors patient condition · controls hardware device parameters
+Likely yes if: diagnoses disease from patient data · predicts patient risk · recommends treatment · monitors patient condition · controls hardware device parameters
 
-**Likely no if:** administrative/billing only · general wellness without medical claims · EHR storage/retrieval without clinical decision support
+Likely no if: administrative/billing only · general wellness without medical claims · EHR storage/retrieval without clinical decision support
 
 ## Classification
 
 SaMD is classified via TR-003 (non-IVD) or TR-004 (IVD SaMD) based on:
 - Severity of the clinical condition addressed
 - Significance of software output to clinical decision-making
-- Whether software **drives** or merely **informs** a clinical decision
+- Whether software the output is integral to (drives) or is one of many informational inputs available to the clinician (informs) a clinical decision
 
 High-risk diagnostic AI → typically Class III or IV. General clinical support tools → may be Class II.
 
@@ -34,6 +34,6 @@ High-risk diagnostic AI → typically Class III or IV. General clinical support 
 ## AI/ML Adaptive Algorithms
 
 For AI/ML that adapts post-deployment:
-- Define the **learning boundary** — what changes are within pre-approved scope
+- Define the learning boundary — what changes are within pre-approved scope
 - Significant changes beyond the boundary require MDD change notification
 - Consider a Predetermined Change Control Plan approach for anticipated future updates

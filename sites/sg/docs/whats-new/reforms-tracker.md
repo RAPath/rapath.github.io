@@ -15,7 +15,7 @@ Singapore's medical device regulatory framework has been broadly stable since th
 - **QMS requirements**: periodic updates to QMS and auditor requirements for dealer's licences
 - **Digital health**: development of the dedicated digital health/SaMD guidance framework
 - **SHARE portal**: transition from the legacy PRISM portal to SHARE for all regulatory submissions
-- **Quick Guide updates**: HSA's Quick Guide to Registration and Licensing updated April 2026
+- **Quick Guide updates**: HSA's Quick Guide to Registration and Licensing — verify current publication date as appears to be a future date April 2026
 - **ASEAN harmonisation**: ongoing updates aligned with AMDC/AMDD developments
 
 ## Anticipated areas of development
@@ -30,3 +30,5 @@ Based on international trends and IMDRF/AMDC workstreams, future areas of regula
 ---
 
 *This tracker is maintained on a best-efforts basis. Always verify against official HSA communications.*
+
+The April 2026 reference should be verified against the actual HSA publication date. If this content was written before April 2026, update to the correct month and year when the guide was published.

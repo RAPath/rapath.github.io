@@ -6,7 +6,7 @@ description: The full COFEPRIS standard registration route for medical devices �
 
 # Standard Registration Route
 
-The **Standard Registration Route** (also called the full dossier or country-of-origin certification route) requires a comprehensive technical dossier submitted directly to COFEPRIS. It applies when:
+The **Standard Registration Route** (also called the full dossier This route is mandatory for devices without approval from a recognised Reference Regulatory Authority (RRA) or when the device version differs from an RRA-approved version. route) requires a comprehensive technical dossier submitted directly to COFEPRIS. It applies when:
 
 - The device does not have approval from a recognised Reference Regulatory Authority (RRA), **or**
 - The device version submitted is not identical to an RRA-approved version, **or**
@@ -62,3 +62,7 @@ Changes to the registered device — including changes to the device itself, lab
 - [Registration fees & timelines](registration-fees-timelines)
 - [DIGIPRiS portal](../getting-started/digiepris-portal)
 - [Labelling — NOM-137](../postmarket/labelling-nom-137)
+
+## Third-party pre-review
+
+"The designated pre-approving agency reviews the dossier for completeness and COFEPRIS compliance before formal submission, typically within 15–20 business days. This pre-review is optional but recommended, as it significantly reduces deficiency letters. The pre-review timeline is separate from the official COFEPRIS review clock; the clock begins when the complete dossier is formally submitted to COFEPRIS via DIGIPRiS."

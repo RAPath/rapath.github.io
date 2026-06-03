@@ -28,3 +28,7 @@ The NB issues a certificate covering only the sterility aspects. The overall DoC
 :::warning Disclaimer
 AI-assisted content for navigation only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
 :::
+
+Post-Market Obligations
+
+Manufacturers of Class Is devices must include sterility maintenance in their Post-Market Surveillance (PMS) plan and Periodic Safety Update Reports (PSUR). This includes monitoring of sterile barrier integrity, shelf-life data validation, and field performance related to sterility assurance throughout the device's shelf-life and storage conditions.

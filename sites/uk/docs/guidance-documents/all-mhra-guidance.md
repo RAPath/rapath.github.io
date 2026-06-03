@@ -9,7 +9,7 @@ tags: [uk-mdr, guidance, mhra]
 ---
 
 :::note[Disclaimer]
-MHRA guidance documents are published on gov.uk and updated periodically. This index provides navigation to key guidance — always verify the current version on gov.uk before relying on any specific guidance document.
+MHRA guidance documents are published on gov.uk and updated periodically. This index provides navigation to key guidance — always verify the current version on gov.uk before relying on any specific guidance documents by topic document, as regulations and MHRA positions evolve over time.
 :::
 
 ---
@@ -19,7 +19,7 @@ MHRA guidance documents are published on gov.uk and updated periodically. This i
 All MHRA medical device guidance is published at:
 [gov.uk/topic/medicines-medical-devices-blood/medical-devices](https://www.gov.uk/topic/medicines-medical-devices-blood/medical-devices)
 
-Use the filters on the MHRA publications page to narrow by topic, device type, or publication date.
+Use the filters on the MHRA publications page to narrow by topic, device type, or results publication date, other relevant criteria to locate the most current guidance applicable to your device.
 
 ---
 
@@ -84,3 +84,27 @@ Published device alerts, field safety notices, and MHRA-issued safety communicat
 | MHRA publications | gov.uk/government/publications?departments=mhra |
 | MHRA Submissions portal | submissions.mhra.gov.uk |
 | MHRA Yellow Card | yellowcard.mhra.gov.uk |
+
+Under the 'Essential Requirements and conformity' section, add:
+
+| Quality Management Systems (QMS) | QMS requirements under UK MDR 2002; ISO 13485 application; QMS audit scope and frequency |
+
+Under the 'Post-market' section, add:
+
+| Periodic Safety Update Reports (PSURs) | PSUR requirements by device class; content, frequency, and UKAB submission |
+
+Under the 'Registration and UKCA' section, add:
+
+| UK Declaration of Conformity | Content requirements; signing authority; differences from EU DoC; lifecycle maintenance |
+
+Under the 'Post-market' section, add:
+
+| Field Safety Corrective Actions and Notices | FSCA decision criteria; FSN content and distribution; MHRA review requirements |
+
+Under the 'Device-type specific' section, add:
+
+| Software as a Medical Device (SaMD) and AI/ML | Technical documentation for SaMD; AI Change Programme requirements; validation and testing |
+
+Under the 'Registration and UKCA' section, add:
+
+| Unique Device Identification (UDI) | UK UDI requirements; DI and PI structure; MHRA implementation timeline; relationship to EU UDI |

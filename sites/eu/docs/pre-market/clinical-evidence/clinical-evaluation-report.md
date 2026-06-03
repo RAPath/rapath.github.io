@@ -152,3 +152,5 @@ In practice, the PMCF evaluation report triggers CER updates for Class IIb and I
 | MDCG 2020-6 rev.2 | CER template and guidance |
 | MDCG 2019-6 | NB assessment of clinical evaluation documentation |
 | EN ISO 14155:2020 | GCP for medical device investigations |
+
+The qualifications section should be completed with: 'MDR Annex XIV §1 requires that the clinical evaluation is conducted by persons with appropriate scientific training and clinical or technical expertise in the medical device field or the clinical discipline relevant to the device. The clinical evaluator must be independent of the design and development function and possess the necessary knowledge to appraise clinical data critically and draw valid scientific conclusions. For devices in specialist areas (e.g. cardiology, neurology), clinical expertise in that specific area is required.'

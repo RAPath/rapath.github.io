@@ -65,3 +65,5 @@ Note: English translations lag behind the most recent amendments. For regulatory
 - Search by law name, article number, or keyword (Japanese only)
 
 e-Gov is the authoritative source for current legislative text.
+
+PMDA Administrative Notices (事務連絡): Available on PMDA's website under "Administrative Information" (行政情報) or "Guidance Documents" (ガイダンス). These are often in Japanese only; English translations are not systematically provided.

@@ -34,3 +34,5 @@ Always verify the current MRA Chapter 4 operational status before planning your 
 :::warning Disclaimer
 AI-assisted navigation aid only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
 :::
+
+MRA Chapter 4 operational status should be verified within 30 days of commencing Swiss market access planning, as status changes impact registration timeline and may require either simplified notification or full registration.

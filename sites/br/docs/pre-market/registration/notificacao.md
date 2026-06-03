@@ -22,7 +22,7 @@ The **Notificação** pathway applies to **Class I** devices. Largely administra
 
 ## Process: Log in to Peticionamento Eletrônico → Select "Notificação — Classe I" → Complete form → Upload documents → Pay fee → ANVISA assigns notification number.
 
-Even for Class I devices, holders must report adverse events via NOTIVISA and maintain a PMS system.
+Even for Class I devices, holders must report adverse events via NOTIVISA and maintain post-market surveillance (PMS) according to RDC 36/2015 (for IVDs) or applicable regulations for devices.
 
 ---
 

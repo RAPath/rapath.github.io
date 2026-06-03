@@ -10,11 +10,11 @@ description: Curated list of Malaysian legislation, MDA guidance documents, and 
 
 | Document | Description | Source |
 |----------|-------------|--------|
-| **Medical Device Act 2012 (Act 737)** | Principal legislation governing medical devices in Malaysia | Attorney General's Chambers (AGC) |
-| **Medical Device Regulations 2012** | Subsidiary regulations — classification, conformity assessment, fees | AGC / MDA |
-| **Medical Device (Licensing Exemption) Order** | Exemption categories from licensing requirements | AGC / MDA |
+| Medical Device Act 2012 (Act 737) | Principal legislation governing medical devices in Malaysia | Attorney General's Chambers (AGC) |
+| Medical Device Regulations 2012 | Subsidiary regulations — classification, conformity assessment, fees | AGC / MDA |
+| Medical Device (Licensing Exemption) Order | Exemption categories from licensing requirements | AGC / MDA |
 
-All official Malaysian legislation is available from the **[Attorney General's Chambers (AGC)](https://www.agc.gov.my)** — search for "Medical Device" in the Federal legislation database.
+All official Malaysian legislation is available from the [Attorney General's Chambers (AGC)](https://www.agc.gov.my) — search for "Medical Device" in the Federal legislation database.
 
 ## MDA Administrative Guidance Notes (AGN)
 
@@ -31,7 +31,7 @@ MDA publishes Administrative Guidance Notes to clarify procedural and administra
 | AGN-007 | Custom-Made Devices |
 | AGN-008 | Clinical Investigation |
 
-*Note: AGN numbering may have been updated. Verify current AGNs at [www.mda.gov.my](https://www.mda.gov.my).*
+Note: AGN numbering and titles may be updated periodically by MDA. Manufacturers should verify the current list of published AGNs at www.mda.gov.my before submitting applications, as guidance documents are regularly revised to reflect regulatory updates.
 
 ## MDA Technical Guidance Notes (TGN)
 
@@ -75,8 +75,10 @@ Malaysia adopts GHTF and IMDRF guidance documents as the basis for its technical
 | ASEAN Labelling Guidelines | Harmonised labelling requirements |
 | ASEAN Post-Market Vigilance Guidelines | Harmonised vigilance framework |
 
-ASEAN guidance is available from the **[ASEAN Secretariat](https://asean.org)** and the **[ASEAN Consultative Committee for Standards and Quality — Medical Device Product Working Group (ACCSQ-MDPWG)](https://asean.org)**.
+ASEAN guidance is available from the [ASEAN Secretariat](https://asean.org) and the [ASEAN Consultative Committee for Standards and Quality — Medical Device Product Working Group (ACCSQ-MDPWG)](https://asean.org).
 
 ## Standards
 
 See [Recognised Standards](../conformity-assessment/recognised-standards) for the full standards list.
+
+All MDA Administrative Guidance Notes and Technical Guidance Notes are available for download from www.mda.gov.my/guidance or through the MyMDA portal after registration. A consolidated guidance documents library is maintained on the MDA website.

@@ -34,3 +34,5 @@ UDI-K is aligned with the IMDRF UDI guidance and is compatible with GS1 GTIN-bas
 
 ## Related pages
 - [Device identifier and production identifier](./device-identifier-and-production-identifier) · [KIMS database registration](./kims-database-registration) · [UDI labelling requirements](./udi-labelling-requirements)
+
+note: Phase 1 (Grade IV) and Phase 2 (Grade III) are now in effect. Confirm Phase 3 and Phase 4 dates with MFDS — the schedule may be updated.

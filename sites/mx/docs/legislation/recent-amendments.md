@@ -47,3 +47,5 @@ This page tracks significant recent changes to Mexico's medical device regulator
 - [Low-risk devices — Annexes 1–3](../device-classification/low-risk-devices-annexes)
 - [Equivalency Route](../premarket/equivalency-route)
 - [Useful links](../resources/useful-links)
+
+January 2026 | COFEPRIS policy update | Subsequent registration renewals now eligible for periods up to 10 years (previously 5 years). This applies to renewal applications submitted after January 2026; initial registrations remain on the standard 5-year term. Transition details for registrations with expiry dates before December 2027 are available on the COFEPRIS website.

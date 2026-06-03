@@ -6,7 +6,7 @@ description: How to notify DAV of changes to declared or registered medical devi
 
 # Change Notification
 
-After a device has been declared or registered in Vietnam, any changes to the device must be assessed to determine whether a regulatory update is required. Not all changes require DAV notification, but significant changes must be reported — and some require a new application.
+After a device, or that alters the benefit-risk profile (change notification or new declaration/registration) has been declared or registered in Vietnam, any changes to the device must be assessed to determine whether a regulatory update is required. Not all changes require DAV notification, but significant changes must be reported — and some require a new application.
 
 ## Change assessment — the key question
 
@@ -51,3 +51,5 @@ Minor changes (e.g. reformatting of the IFU without content change, minor admini
 :::warning Maintain a change log
 Keep a comprehensive change log for all device changes, whether significant or minor. DAV inspectors may ask to review change history during compliance inspections, and a well-maintained log demonstrates regulatory diligence.
 :::
+
+Change notifications must be submitted to DAV within a reasonable timeframe after the change is implemented, typically within 30 days. For changes affecting patient safety or device performance, notification should be submitted as soon as possible. Delayed change notification reporting may result in administrative penalties under Decree 117/2020.

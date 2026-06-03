@@ -21,3 +21,7 @@ India is a member of the **IMDRF (International Medical Device Regulators Forum)
 | **Canada** | Health Canada | Class I–IV | Medical Device Licence |
 
 See [India vs TGA · CE · FDA · HSA · Health Canada](/docs/international/india-vs-global) for a detailed comparison.
+
+Add a row to the comparison table:
+
+India | CDSCO | Class A–D (IMDRF-aligned) | Import licence (Form MD-14/15); Expedited approval for Class C/D devices; Approval timeline: 90–180 days for new devices

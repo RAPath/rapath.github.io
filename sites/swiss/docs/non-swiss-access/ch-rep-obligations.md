@@ -14,16 +14,16 @@ Must be in writing, signed before devices are placed on the market. Should speci
 
 | Obligation | Detail |
 |---|---|
-| **DAPI registration** | Register/notify all covered devices before or within 30 days of market placement |
-| **Vigilance reporting** | Submit serious incident and FSCA reports to Swissmedic via eVigilance |
-| **FSCA coordination** | Notify Swissmedic of FSCAs; coordinate FSN distribution to Swiss customers |
-| **DoC maintenance** | Maintain copy of DoC; make available to Swissmedic on request |
-| **Implant card** | For implantable devices: maintain and ensure implant card is provided with device |
-| **Cooperation** | Cooperate with all Swissmedic market surveillance, inspection, and investigation activities |
-| **Complaint interface** | Maintain processes for receiving and forwarding customer complaints to manufacturer |
+| DAPI registration | Register/notify all covered devices before or within 30 days of market placement |
+| Vigilance reporting | Submit serious incident and FSCA reports to Swissmedic via eVigilance |
+| FSCA coordination | Notify Swissmedic of FSCAs; coordinate FSN distribution to Swiss customers |
+| DoC maintenance | Maintain copy of DoC; make available to Swissmedic on request |
+| Implant card | For implantable devices: maintain and ensure implant card is provided with device |
+| Cooperation | Cooperate with all Swissmedic market surveillance, inspection, and investigation activities |
+| Complaint interface | Maintain processes for receiving and forwarding customer complaints to manufacturer |
 
 ## Joint and Several Liability
-The CH REP is **jointly and severally liable** with the manufacturer for all MedDO/IVDO compliance obligations. Swissmedic can pursue either party. Private indemnification arrangements between parties do not affect Swissmedic's ability to hold either accountable.
+The CH REP bears joint and several liability with the manufacturer for all MedDO/IVDO compliance obligations. This means Swissmedic can pursue enforcement action against either party independently. Private indemnification arrangements between the CH REP and manufacturer do not affect Swissmedic's enforcement authority or the CH REP's legal accountability to Swissmedic.
 
 ## Terminating the Mandate
 1. CH REP notifies Swissmedic in advance of termination
@@ -44,3 +44,5 @@ Consider: established Swiss track record; DAPI and eVigilance system experience;
 :::warning Disclaimer
 AI-assisted navigation aid only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
 :::
+
+During the transition period between old and new CH REP appointment, the manufacturer remains responsible for ensuring all incidents and complaints are properly reported to Swissmedic. Both the outgoing and incoming CH REP should coordinate to ensure no vigilance reporting gaps occur.

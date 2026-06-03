@@ -36,3 +36,5 @@ Full text: [sso.agc.gov.sg/SL/HPA2007-S436-2010](https://sso.agc.gov.sg/SL/HPA20
 
 - [HP(MD) Regulations 2010 — full text](https://sso.agc.gov.sg/SL/HPA2007-S436-2010)
 - [Singapore Statutes Online](https://sso.agc.gov.sg)
+
+The HP(MD) Regulations 2010 came into force on [date] and have been amended [number] times, most recently in [year]. Always consult the current consolidated version on Singapore Statutes Online to ensure you are applying the latest requirements.

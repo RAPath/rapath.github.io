@@ -21,7 +21,7 @@ Manufacturers and importers of implantable devices must provide healthcare facil
 
 **Healthcare facility obligations:**
 
-Hospitals and clinics that implant Class IV devices must record this information in the patient's medical record and maintain it for the patient's lifetime (or a minimum period specified by ANVISA — typically 10 years).
+Hospitals and clinics that implant Class IV devices must record this information in the patient's medical record and maintain it for the patient's lifetime or a minimum of 10 years post-implantation (or longer if specified in the product registration dossier).
 
 This patient-level traceability is essential for effective recall actions and for long-term post-market surveillance of implantable devices.
 

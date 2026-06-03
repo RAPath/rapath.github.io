@@ -34,3 +34,5 @@ After implementation, conduct an effectiveness check to confirm the corrective a
 :::warning Disclaimer
 AI-assisted content for navigation only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
 :::
+
+If an FSN is prepared after customer dispatch has commenced, notify Swissmedic immediately and provide justification for the delay. Swissmedic may require additional corrective measures if customer notification has been significantly delayed.

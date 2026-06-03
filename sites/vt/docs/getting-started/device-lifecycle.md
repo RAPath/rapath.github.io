@@ -66,3 +66,5 @@ Marketing authorisations for Type C/D devices are valid for **5 years**. Renewal
 :::tip Plan ahead for renewal
 DAV recommends submitting renewal applications at least 6 months before the existing authorisation expires to avoid gaps in market access.
 :::
+
+DAV typically completes initial review within 90–180 days for Type C devices and 120–240 days for Type D devices, depending on dossier completeness. Requests for additional information (RAI) can extend this timeline.

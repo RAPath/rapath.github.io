@@ -6,7 +6,7 @@ keywords: [technical documentation, MedDO Annex II, Annex III, Switzerland, tech
 # Technical Documentation Overview
 
 ## Overview
-MedDO requires manufacturers to compile and maintain technical documentation demonstrating GSPR compliance. It is available to the NB during conformity assessment and to Swissmedic on request. It consists of: **Annex II** (general technical documentation) and **Annex III** (post-market follow-up documentation).
+MedDO requires manufacturers to compile and maintain technical documentation demonstrating GSPR compliance. It must be available to the NB during conformity assessment and to Swissmedic upon request during market surveillance or conformity assessment activities. It consists of: **Annex II** (general technical documentation) and **Annex III** (post-market follow-up documentation).
 
 ## MedDO Annex II — General Technical Documentation
 1. **Device description and specification** — name, model numbers, intended purpose, indications, contraindications, accessories, variants
@@ -35,3 +35,5 @@ Incomplete GSPR matrices without justification; outdated standard references; CE
 :::warning Disclaimer
 AI-assisted content for navigation only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
 :::
+
+Swissmedic retains the right to request technical documentation during market surveillance activities and post-market investigations to verify continued compliance with MedDO requirements. All documentation must be made available within the timeframe specified by Swissmedic.

@@ -51,3 +51,5 @@ All medical devices — domestic and imported — that are placed on the Russian
 - GRLS: [grls.rosminzdrav.ru](https://grls.rosminzdrav.ru/GRLS.aspx)
 - Ministry of Health: [minzdrav.gov.ru](https://minzdrav.gov.ru/)
 :::
+
+In the 'Key legislation' subsection, after the MOH Order No. 11 bullet point, expand to: 'MOH Order No. 11 — technical and user documentation requirements for registration dossiers. MOH Order No. 4n — establishes the rules for classification of medical devices into risk classes (I, IIa, IIb, III).'

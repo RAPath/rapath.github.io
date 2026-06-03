@@ -7,7 +7,7 @@ keywords: [GMP inspection, India, CDSCO, SLA, PLI, Make in India, show-cause]
 
 # Cdsco Inspections
 
-CDSCO (for Class C/D manufacturers) and State Licensing Authorities (for Class A/B manufacturers) conduct GMP inspections as part of the licence grant and surveillance process.
+CDSCO conducts GMP inspections for Class C and D device manufacturers, while State Licensing Authorities (SLAs) conduct inspections for Class A and B manufacturers. Inspections are conducted both at the licence grant stage and during periodic surveillance throughout the licence validity period.
 
 The **Production Linked Incentive (PLI) scheme** for medical devices offers financial incentives to eligible Indian manufacturers. See [DPIIT PLI scheme](https://www.investindia.gov.in/sector/medical-devices) for eligibility and application details.
 

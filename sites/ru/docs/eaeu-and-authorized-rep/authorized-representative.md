@@ -30,7 +30,7 @@ To appoint a RUS REP, the foreign manufacturer must issue a **Power of Attorney*
 
 ## RUS REP liability
 
-The RUS REP shares legal responsibility with the manufacturer for compliance with Russian medical device regulations. This includes responsibility for timely adverse event reporting and import reporting. Choosing a reputable and experienced RUS REP is important.
+The RUS REP shares joint legal responsibility with the manufacturer for compliance with Russian medical device regulations. This shared liability extends to timely adverse event reporting, import reporting, and post-market surveillance obligations. Choosing a qualified, experienced, and financially stable RUS REP is critical, as the manufacturer remains ultimately accountable for regulatory non-compliance even when the RUS REP acts on their behalf.
 
 ## EAEU pathway
 
@@ -39,3 +39,5 @@ The RUS REP requirement also applies under the EAEU pathway when Russia is the r
 :::info Official sources
 Government Decree No. 1684: [government.ru](https://government.ru/)
 :::
+
+RUS REP requirements under EAEU: When registering under the EAEU pathway with Russia as the reference state, the RUS REP (or equivalent authorized representative) must still be appointed and maintains the same core responsibilities: submitting the dossier, corresponding with the EEC, and handling post-market obligations. However, some administrative procedures may differ under EEC Decision No. 46 compared to the national pathway. Manufacturers should verify specific requirements with their RUS REP when transitioning to EAEU registration.

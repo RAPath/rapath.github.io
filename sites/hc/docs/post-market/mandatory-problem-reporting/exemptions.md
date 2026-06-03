@@ -24,7 +24,7 @@ Events that result only in minor, temporary, reversible harm — and where no se
 
 ## Borderline cases
 For borderline cases where it is uncertain whether an event is reportable, Health Canada advises:
-- **When in doubt, report** — there is no penalty for over-reporting
+- **When in doubt, report** — there is no penalty for over-reporting, and Health Canada may impose compliance or enforcement action for persistent under-reporting or failure to report clearly reportable events
 - Document the reportability assessment in the complaint/event file regardless of the outcome
 
 ## Record retention

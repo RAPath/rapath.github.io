@@ -31,7 +31,7 @@ The DGDA-prescribed application form, completed in full by the AR. Available fro
 ### 4. ISO 13485 Certificate — BD-Unique Mandatory
 - Current and valid ISO 13485:2016 certificate from an accredited certification body
 - Must cover the **specific product category** being registered
-- Scope must be appropriate — a certificate for "surgical instruments" does not cover active implantable devices
+- Scope must be appropriate — a certificate for "surgical instruments" does not cover active implantable (or 2023) devices, Class D high-risk devices, or IVDs unless explicitly stated ILAC-accredited and recognised certification bodies. Certificates from unaccredited or locally-only may not be accepted.
 - DGDA recognises certificates from internationally accredited CBs
 
 ### 5. Free Sale Certificate (FSC)
@@ -91,3 +91,5 @@ Confirm grouping eligibility with the DGDA or your AR before preparing a grouped
 - **Document currency**: All certificates and regulatory approvals must be **current at the time of submission**. An expired ISO 13485 certificate will cause the application to fail completeness review.
 - **Language**: Documents in languages other than English require certified translation.
 - **Consistency**: Ensure the device name, model number, and specifications are consistent across all submitted documents — inconsistencies are a common cause of completeness failures.
+
+Confirm grouping eligibility with the DGDA before submitting a grouped application. Grouped applications must demonstrate clear linkage between devices and shared safety/performance characteristics.

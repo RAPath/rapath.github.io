@@ -13,11 +13,11 @@ FDA's use of formal advisory panels for Class III PMA review is a distinctive fe
 
 ## What are advisory panels?
 
-FDA has 18 **Medical Device Advisory Committees**, each comprising independent experts in a specific medical specialty. For complex or high-risk PMA applications, FDA may convene a panel to provide independent expert advice.
+FDA has 18 Medical Device Advisory Committees, each comprising independent experts in a specific medical specialty. For complex or high-risk PMA applications, FDA may convene a panel to provide independent expert advice.
 
 ## When is panel review used?
 
-Panel review is **not required** for all PMAs — FDA has discretion. Panels are typically convened when:
+Panel review is not required for all PMAs — FDA has discretion. Panels are typically convened when:
 - The device presents novel or complex safety/effectiveness questions
 - The clinical data is complex or controversial
 - The benefit-risk determination is not straightforward
@@ -25,19 +25,15 @@ Panel review is **not required** for all PMAs — FDA has discretion. Panels are
 
 ## The panel meeting process
 
-1. FDA posts a **public notice** of the panel meeting (typically 60+ days in advance)
-2. The applicant presents its data to the panel (typically 1–2 hours)
-3. FDA presents its own analysis and questions
-4. Public comment session
-5. Panel deliberates and votes on:
-   - Whether the device is safe
-   - Whether the device is effective
-   - Whether the benefits outweigh the risks
-   - Any conditions or labelling recommendations
+Panel deliberates and votes on the following questions:
+Is the device safe for its intended use?
+Is the device effective for its intended use?
+Do the benefits outweigh the risks?
+Are there recommended conditions or labelling modifications?
 
 ## Panel recommendations are advisory, not binding
 
-FDA **is not bound** by the panel's recommendation, though it typically follows it. FDA must explain in writing if it diverges from a panel recommendation.
+FDA is not bound by the panel's recommendation, though it typically follows it. FDA must explain in writing if it diverges from a panel recommendation.
 
 ## Official resources
 - [FDA — Medical Device Advisory Committees](https://www.fda.gov/advisory-committees/committees-and-meeting-materials/medical-devices-advisory-committee)

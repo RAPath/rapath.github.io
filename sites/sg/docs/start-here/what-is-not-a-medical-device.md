@@ -69,3 +69,5 @@ For genuinely borderline cases, HSA's **Consultation Schemes** (including the pr
 - [HSA: Is it a medical device? (tool)](https://www.hsa.gov.sg/medical-devices/registration/is-it-a-medical-device)
 - [HSA: Consultation Schemes](https://www.hsa.gov.sg/medical-devices/consultation-schemes)
 - [Health Products Act (Cap. 122D)](https://sso.agc.gov.sg/Act/HPA2007)
+
+Consultation Schemes (including the pre-submission product classification consultation) allow manufacturers and importers to submit detailed product information to HSA for a formal determination before proceeding with registration. This is particularly useful for genuinely borderline cases. See Consultation Schemes for procedures and timelines.

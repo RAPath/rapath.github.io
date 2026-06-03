@@ -23,3 +23,5 @@ NMPA's digital health and SaMD framework is based on:
 :::note Disclaimer
 Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [NMPA](https://www.nmpa.gov.cn/) sources before making regulatory decisions. Not affiliated with NMPA or any Chinese Government body. Not legal or regulatory advice.
 :::
+
+China's digital health regulatory framework classifies software as medical devices when it is intended to be used in the diagnosis, prevention, monitoring, treatment, or alleviation of disease, or in the assessment or modification of physiological function. Such software is subject to NMPA oversight and must comply with the Medical Device Supervision and Administration Regulation (MDSAR) 2021.

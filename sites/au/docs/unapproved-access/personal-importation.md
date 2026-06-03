@@ -76,7 +76,7 @@ Importing an unapproved device on behalf of another person — even a family mem
 
 ---
 
-## Customs and Border Force
+## quantities of unapproved devices at the border may trigger further investigation, and goods may be detained pending TGA clearance. Importers should declare medical devices to the ABF and be prepared to demonstrate that the quantity and intended use fall within the personal importation exemption. Devices that appear counterfeit or non-compliant with Essential Principles may be seized regardless of the personal importation exemption.
 
 The Australian Border Force (ABF) enforces import restrictions at the border. While the TGA personal importation exemption may apply in principle, goods may still be subject to inspection at the border. Bringing large quantities of medical devices through customs — even for genuine personal use — may attract scrutiny.
 

@@ -28,3 +28,5 @@ Must appoint a **CH REP** before placing devices on the Swiss market. See [CH RE
 :::warning Disclaimer
 Content is AI-assisted and intended as a navigation aid only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
 :::
+
+Clarify in 'Quality Management System' section: "Class IIa and above require ISO 13485 QMS certification. Additionally, implantable Class I devices also require a QMS conforming to ISO 13485, even though non-implantable Class I devices do not."

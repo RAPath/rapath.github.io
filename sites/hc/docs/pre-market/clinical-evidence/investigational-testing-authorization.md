@@ -70,3 +70,7 @@ ITAs are issued with conditions that must be followed during the investigation:
 Data generated under an ITA may be used to support a subsequent Device Licence application. The clinical data package should be referenced in the Device Licence application.
 
 > **Legislative source:** Medical Devices Regulations, SOR/98-282, ss 66–89 (Investigational Testing)
+
+ITA amendments
+
+Manufacturers must submit an amendment to Health Canada for approval if there are material changes to the approved ITA, including: changes to the device design or manufacturing process, changes to patient population or eligibility criteria, changes to study endpoints, addition of new clinical sites, changes to the clinical investigator, or any modifications to risk mitigation strategies. Minor administrative changes (e.g., contact information updates) may not require an amendment. Health Canada reviews amendments using an expedited process, typically completing review within 15–30 days.

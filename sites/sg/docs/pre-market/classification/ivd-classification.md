@@ -10,7 +10,7 @@ description: How in vitro diagnostic medical devices (IVDs) are classified under
 
 In vitro diagnostic (IVD) medical devices are classified under a **separate set of rules** from general medical devices, reflecting the distinct risk profile of diagnostics — where a wrong result can lead to incorrect treatment decisions rather than direct physical harm.
 
-An **IVD** is a medical device that is a reagent, reagent product, calibrator, control material, kit, instrument, apparatus, equipment, or system intended to be used in vitro for the examination of specimens derived from the human body for the purpose of providing information about a physiological or pathological state, congenital abnormality, or to determine safety and compatibility with a potential recipient.
+An **IVD** is a medical device that is a reagent, reagent product, calibrator, control material, kit, instrument, apparatus, equipment, or system intended to be used in vitro for the examination of specimens derived from the human body. IVDs are used to provide information about a physiological or pathological state, congenital abnormality, or to determine safety and compatibility with a potential recipient.
 
 IVDs include test kits, laboratory analysers, point-of-care devices, and self-testing devices such as home pregnancy tests or glucose meters.
 
@@ -95,3 +95,5 @@ See [Grouping Types](../grouping/grouping-types.md) for full detail.
 - [HSA: Risk classification tool](https://www.hsa.gov.sg/medical-devices/registration/risk-classification)
 - [HSA: IVD grouping types](https://www.hsa.gov.sg/medical-devices/registration/grouping/ivd-test-kit)
 - [HP(MD) Regulations 2010](https://sso.agc.gov.sg/SL/HPA2007-S436-2010)
+
+Complete the final section heading and ensure all content is intact. The page appears to cut off at 'IVD classification facto' which should likely continue or complete properly.

@@ -18,11 +18,11 @@ Foreign and domestic manufacturers registering a medical device for the Russian 
 | **Expert review** | FGBU National Institute of Quality | EAEU-designated expert organisations |
 | **Certificate name** | RZN Registration Certificate | EAEU Registration Certificate |
 | **Clinical testing** | Often required in Russia | Often required in Russia |
-| **QMS inspection** | Mandatory for IIa sterile, IIb, III | Mandatory for IIb, III (from March 2019) |
+| **QMS inspection** | Mandatory for IIa sterile, IIb, III | Mandatory for IIb, III (from 1 January 2024) (EAEU pathway) |
 
 ## Which route should I use?
 
-- **Entering Russia for the first time** — use the EAEU pathway. It provides broader market access and is the only route available from 2027 onwards.
+- **Entering Russia for the first time** — use the EAEU pathway. It provides broader market access and is the only route across five EAEU member states available 1 January While slightly longer timelines are possible due to inter-state coordination, EAEU registration offers greater market value than a Russia-only registration. from 2027 onwards.
 - **Existing national registration** — valid until expiry. Plan for EAEU re-registration in advance of the 2027 deadline.
 - **Entering multiple EAEU markets** — EAEU registration is strongly preferred as it covers all five markets.
 

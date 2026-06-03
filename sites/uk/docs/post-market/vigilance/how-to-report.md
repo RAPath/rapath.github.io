@@ -58,3 +58,5 @@ Maintain an internal vigilance log recording all complaints received, reportabil
 | MHRA Submissions portal | submissions.mhra.gov.uk |
 | MHRA Yellow Card | yellowcard.mhra.gov.uk |
 | MHRA: Adverse incident reporting guidance | Detailed reporting guidance |
+
+Reports are submitted under Regulations 16–22 of the UK MDR 2002 (Part I).

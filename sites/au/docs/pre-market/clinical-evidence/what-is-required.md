@@ -89,3 +89,5 @@ Clinical evidence obligations do not end at ARTG inclusion. Manufacturers must:
 - [Clinical Trials in Australia](./clinical-trials-in-australia.md)
 - [Using Overseas Clinical Data](./using-overseas-clinical-data.md)
 - [EP 14 — Clinical Evidence](../essential-principles/ep-7-15-design-and-construction.md)
+
+The section ends with 'For Class III devices and novel devices, the bar for demonstrating equivalence is very high. In many cases, a clinical' — this should be completed. A reasonable completion would be: 'For Class III devices and novel devices, the bar for demonstrating equivalence is very high. In many cases, a clinical investigation specifically on the subject device will be required rather than reliance on equivalent device data.'

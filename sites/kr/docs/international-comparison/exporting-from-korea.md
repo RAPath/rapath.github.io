@@ -33,3 +33,7 @@ See [Export-only devices](../pre-market/special-device-types/export-only-devices
 
 ## Related pages
 - [Export-only devices](../pre-market/special-device-types/export-only-devices) · [KGMP overview](../gmp-quality-system/overview-kgmp)
+
+Revise the sentence 'MFDS typically issues export certificates within a few business days.' to:
+
+'MFDS typically issues export certificates within 3–5 business days. Expedited processing may be available upon request; contact the MFDS eSubmission helpdesk for details.'

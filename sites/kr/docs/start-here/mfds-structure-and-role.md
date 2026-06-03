@@ -23,3 +23,5 @@ The **Ministry of Food and Drug Safety (MFDS, 식품의약품안전처)** is Kor
 
 ## Related pages
 - [Regulatory framework overview](./regulatory-framework-overview)
+
+The Ministry of Food and Drug Safety (MFDS, 식품의약품안전처) is Korea's central authority for medical device regulation. MFDS was reorganized and elevated to Ministry level in 2013 from its previous status within the Korea Food and Drug Administration.

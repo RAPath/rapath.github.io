@@ -59,3 +59,5 @@ Work with a licensed customs broker experienced in medical device imports to ens
 :::tip Pre-clearance consultation
 For high-value or complex consignments, consider pre-clearance consultation with the customs office at the port of entry to confirm documentation requirements before the shipment arrives.
 :::
+
+Requests for Additional Information (RAI): DAV may issue an RAI if the initial application is incomplete or unclear. The applicant must respond within the timeframe specified in the RAI notice (typically 10–15 working days). Failure to respond may result in application rejection. Rejected applications may be resubmitted after addressing the stated deficiencies.

@@ -17,7 +17,7 @@ Most IVDs are classified in:
 - **21 CFR Part 862** — Clinical chemistry and toxicology devices
 - **21 CFR Part 864** — Hematology and pathology devices
 - **21 CFR Part 866** — Immunology and microbiology devices
-- **21 CFR Part 868** — Anesthesiology (certain blood gas analysers)
+- **21 CFR Part 868** — Anesthesiology (certain blood gas analyzers)
 
 IVDs intended for point-of-care (POC) or home use may have different classification regulations than the equivalent laboratory instrument.
 
@@ -72,3 +72,5 @@ FDA and CMS coordinate on CLIA categorisation as part of the 510(k)/PMA review f
 - [21 CFR Part 862](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-H/part-862)
 - [FDA — CLIA Waiver by Application](https://www.fda.gov/medical-devices/ivd-regulatory-assistance/clia-waiver-application)
 - [FDA — LDT Final Rule (2024)](https://www.fda.gov/medical-devices/vitro-diagnostics/laboratory-developed-tests)
+
+CLIA categorization is separate from FDA classification. A device may be classified as Class I by FDA but require CLIA waiver status to be marketed for home or POC use. FDA approval for waived status allows the test to be performed outside a CLIA-certified laboratory.

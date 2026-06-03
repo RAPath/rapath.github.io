@@ -25,3 +25,7 @@ Renewal of AFE is required periodically — ANVISA specifies the renewal period 
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+Replace the Exportador row in the table:
+
+Exportador (Exporter) | Export of Brazilian-manufactured devices | AFE for manufacture required; Responsável Técnico; proof of device registration or compliance with ANVISA requirements

@@ -8,11 +8,11 @@ description: The SFDA Declaration of Conformity (DoC) — Annex 14 template, who
 
 ## What is the Declaration of Conformity?
 
-The **Declaration of Conformity (DoC)** is a document signed by the **legal manufacturer** declaring that the medical device complies with the applicable Essential Principles of Safety and Performance under Saudi Arabian law. It is a required component of every MDMA technical file.
+The Declaration of Conformity (DoC) is a document signed by the legal manufacturer declaring that the medical device complies with the applicable Essential Principles of Safety and Performance under Saudi Arabian law. It is a required component of every MDMA technical file.
 
 ## The SFDA Annex 14 template
 
-The SFDA provides a **specific DoC template** in **Annex 14 of MDS-REQ 1**. Manufacturers must use this template — or a document that contains all required elements in the same format. Generic DoC documents (e.g. EU Declaration of Conformity) may not be accepted as a substitute.
+The SFDA provides a specific DoC template in Annex 14 of MDS-REQ 1. Manufacturers must use this template — or a document that contains all required elements in the same format. Generic DoC documents (e.g. EU Declaration of Conformity) may not be accepted as a substitute.
 
 The DoC must include:
 - Legal manufacturer name and address
@@ -26,7 +26,7 @@ The DoC must include:
 
 ## Who signs the DoC?
 
-The DoC must be signed by a **senior person in the legal manufacturer's organisation** with responsibility for regulatory compliance. It is not signed by the AR — the AR is named on the DoC but does not sign it.
+The Declaration of Conformity must be signed by a senior person in the legal manufacturer's organization (such as the Quality Director, Regulatory Affairs Director, or Chief Executive Officer) who has authority and responsibility for regulatory compliance. It is not signed by the AR — the AR is named on the DoC but does not sign it.
 
 ## When must the DoC be updated?
 

@@ -77,3 +77,5 @@ Medsafe monitors advertising and can require changes to claims that breach the M
 ## Language
 
 All labelling and IFU for devices supplied in New Zealand must be in **English** (or include an English version). Unlike the EU, there is no requirement to supply in Te Reo Māori or any other language — though some sponsors choose to do so for inclusivity.
+
+Where device labels are too small to display all required information, the Sponsor should provide the information in the Instructions for Use or accompanying documentation, provided the label includes a clear reference to where the omitted information can be found (e.g., 'See IFU for full prescribing information').

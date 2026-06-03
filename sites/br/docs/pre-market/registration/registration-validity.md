@@ -11,7 +11,7 @@ keywords: [ANVISA, Brazil, medical device]
 All ANVISA product registrations are valid for **10 years** — longer than EU MDR certificates (5 years).
 :::
 
-Renewal must be initiated **before expiry** via Peticionamento Eletrônico. A missed renewal means the registration lapses. Renewal requires updated technical documentation, current CBPF certificate, current AFE, and payment of renewal fee.
+Renewal must be initiated **before expiry** via Peticionamento Eletrônico. A missed renewal means the registration lapses. Renewal requires updated technical documentation, current CBPF certificate (or updated GMP audit results), current AFE, and payment of renewal fee.
 
 ## Post-registration changes (*Petição de Alteração*)
 
@@ -23,3 +23,5 @@ Renewal must be initiated **before expiry** via Peticionamento Eletrônico. A mi
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+Remove the second occurrence of 'Post-registration changes (Petição de Alteração)' header and its duplicate content block to streamline the page structure.

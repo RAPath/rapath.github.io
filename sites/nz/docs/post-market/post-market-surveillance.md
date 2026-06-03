@@ -17,10 +17,7 @@ New Zealand's post-market surveillance framework is significantly lighter than t
 
 However, Sponsors are required to:
 
-- **Report adverse events** to Medsafe when they occur
-- **Maintain distribution records** to enable recall traceability
-- **Respond to Medsafe requests** for safety information
-- **Cooperate with recalls** when required
+However, Sponsors are required to: • Report adverse events to Medsafe when they occur • Maintain distribution records to enable recall traceability • Respond to Medsafe requests for safety information • Cooperate with recalls when required Additionally, by good practice and through the Medicines Act's general safety obligations, Sponsors should monitor device performance systematically.
 
 And by good practice (and through the Medicines Act's general safety obligations), Sponsors should monitor device performance systematically.
 
@@ -28,7 +25,7 @@ And by good practice (and through the Medicines Act's general safety obligations
 
 ## Distribution records
 
-**Maintaining distribution records is mandatory.** The Sponsor must be able to identify, in the event of a recall:
+Maintaining distribution records is mandatory. The Sponsor must be able to identify, in the event of a recall:
 
 - What devices were supplied, in what quantities
 - When they were supplied

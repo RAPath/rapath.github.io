@@ -26,3 +26,5 @@ Complaint records must be retained for the lifetime of the device plus the minim
 
 ## Related pages
 - [Adverse event reporting — what must be reported](../../post-market/adverse-event-reporting/what-must-be-reported) · [CAPA](./capa)
+
+Complaint records should be retained for a minimum of 5 years from the date of receipt, or for the lifetime of the device plus additional years as specified in product-specific regulations, whichever is longer.

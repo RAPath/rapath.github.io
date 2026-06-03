@@ -14,8 +14,8 @@ This page provides a high-level comparison of ANVISA's medical device regulatory
 | Feature | ANVISA (Brazil) | FDA (US) | EU (MDR) | TGA (Australia) | Health Canada | HSA (Singapore) |
 |---|---|---|---|---|---|---|
 | Risk classes | I, II, III, IV | I, II, III | I, IIa, IIb, III | Class I–III (ARTG) | Class I–IV | Class A–D |
-| Pre-market review | Notificação/Cadastro/Registro | 510(k)/De Novo/PMA | CE certification | TGA conformity assessment | Licence application | HSA application |
-| Registration holder | Importer (typically) | Manufacturer (direct) | Manufacturer (via EU rep) | Sponsor | Manufacturer/importer | Importer/manufacturer |
+| Pre-market review | Notificação/Cadastro/Registro | 55 (renewable)(k)/De Novo/PMA | CE certification | TGA conformity assessment | Licence application | HSA application |
+| Registration holder | Importer Manufacturer or (typically importer for imported devices) | Manufacturer (direct) | Manufacturer (via EU rep) | Sponsor | Manufacturer/importer | Importer/manufacturer |
 | GMP requirement | CBPF (RDC 752/2022) | QMSR (21 CFR Part 820) | ISO 13485 / MDSAP | ISO 13485 / TGA audit | ISO 13485 / MDSAP | ISO 13485 |
 | Registration validity | 10 years | Indefinite (subject to changes) | Certificate: 5 years | ARTG: indefinite | Licence: varies | Registration: varies |
 | Language requirement | Portuguese (Brazil) | English | English/national language | English | English/French | English |
@@ -38,3 +38,5 @@ Always adapt documentation to ANVISA's specific format requirements and translat
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+Brazil uses three pathways depending on device risk class: Notificação (Class I low-risk devices), Cadastro (Class I devices and some exempt devices), and Registro (Classes II, III, and IV). Each requires progressively more extensive documentation.

@@ -40,3 +40,5 @@ Refer to [CMDE technical review guidelines](https://www.cmde.org.cn/) specific t
 :::note Disclaimer
 Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [NMPA](https://www.nmpa.gov.cn/) sources before making regulatory decisions. Not affiliated with NMPA or any Chinese Government body. Not legal or regulatory advice.
 :::
+
+For combination products (devices combined with drugs or biological products), classification and review requirements depend on the dominant component. If the device is dominant, NMPA/CMDE conducts device review with coordination from the relevant drug authority. If the drug/biological component is dominant, the drug authority leads review. The dossier must demonstrate safety and efficacy of the combination as a single product, with bridging data showing interactions between components. Consult NMPA early to confirm which authority will lead the review.

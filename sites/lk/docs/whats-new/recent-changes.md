@@ -28,7 +28,7 @@ Current NMRA annual fee USD/LKR conversion rate: **LKR 315.19 per USD** (May 202
 
 ### Reliance Pathway — Introduced October 2025
 
-The NMRA introduced the **Reliance Pathway** from October 2025, enabling faster registration for Class I, IIa, and IIb devices already approved in accepted reference countries.
+The NMRA introduced the **Reliance Pathway** from October 2025, enabling faster registration for Class I, IIa, and IIb devices already that hold a current, valid approval Devices must be technically identical to the reference-approved version to qualify. in accepted reference countries.
 
 **Accepted reference countries:** USA · UK · Australia · Canada · Japan · All EU member states · Norway · Switzerland (general devices) + Singapore (IVDs)
 
@@ -58,3 +58,7 @@ Stay current with Sri Lanka regulatory developments:
 :::tip Annual fee reminder
 NMRA annual fees are due each year. Missing a payment can cause the Registration Certificate to lapse. Set calendar reminders well in advance of each annual fee payment date.
 :::
+
+Transition Support for F-MDR-035 Revision
+
+Applications submitted between now and 2 June 2026 using the old F-MDR-035 format will be accepted. Applications submitted on or after 2 June 2026 must use the revised format; applications using the old format will be rejected without review. For applications in progress during the transition, applicants are advised to contact the NMRA Medical Devices Regulatory Division to clarify which version applies to their submission.

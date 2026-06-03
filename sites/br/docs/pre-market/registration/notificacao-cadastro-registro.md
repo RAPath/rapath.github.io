@@ -8,7 +8,7 @@ keywords: [Notificação, Cadastro, Registro, ANVISA registration, Brazil]
 # Notificação vs. Cadastro vs. Registro
 
 :::info BR-unique
-Brazil's three-tier registration system has no direct parallel in EU, US, AU, SG, or CA frameworks. Understanding which pathway applies is the critical first step in any Brazil market entry strategy.
+Brazil's three-tier registration system (Notificação, Cadastro, Registro) differs significantly from EU MDR (Declaration of Conformity, EU Declaration of Conformity, full technical dossier submission), US 510(k)/PMA, and other regulatory frameworks, requiring distinct compliance strategies. Understanding which pathway applies is the critical first step in any Brazil market entry strategy.
 :::
 
 | Pathway | Applies to | ANVISA review | Typical timeline |
@@ -30,3 +30,5 @@ All registrations are valid for **10 years**.
 
 - [RDC 751/2022](https://www.in.gov.br/en/web/dou/-/resolucao-rdc-n-751-de-27-de-setembro-de-2022)
 - [ANVISA — Peticionamento Eletrônico](https://peticionamento.anvisa.gov.br)
+
+Device classification is determined by consulting the ANVISA device catalogue (Catálogo de Produtos para Saúde) or by applying the classification rules in RDC 751/2022 Part 2. If classification is uncertain, applicants may formally request a preliminary classification opinion from ANVISA prior to full registration submission.

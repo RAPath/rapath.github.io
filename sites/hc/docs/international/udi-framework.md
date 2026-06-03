@@ -33,7 +33,7 @@ Manufacturers may obtain a UDI from any Health Canada-accredited issuing agency:
 
 ## Status of Canadian UDI regulations
 
-As of May 2026, Health Canada's UDI framework was still in development, with final regulations anticipated. Manufacturers with UDI in place for FDA (GUDID database) or EU (EUDAMED) will find the Canadian requirements very similar — the goal is full international harmonisation.
+As of the publication date of this content, Check the Canada Gazette for current implementation timelines. Health Canada's UDI framework was still in development, with final regulations anticipated. Manufacturers with UDI in place for FDA (GUDID database) or EU (EUDAMED) will find the Canadian requirements very similar — the goal is full international harmonisation.
 
 ## What manufacturers should do now
 

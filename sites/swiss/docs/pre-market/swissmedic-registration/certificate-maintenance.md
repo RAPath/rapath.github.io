@@ -6,7 +6,7 @@ keywords: [certificate maintenance, DAPI update, significant change, CH REP chan
 # Certificate Maintenance
 
 ## Significant Changes Requiring DAPI Update
-A change requires notification to Swissmedic where it may affect: intended purpose; safety and performance; validity of the existing conformity assessment (new/revised NB certificate). Examples: new NB certificate; reclassification; new indications; major design changes; change of manufacturer name/address; CH REP change; labelling changes.
+A significant change requires notification to Swissmedic via DAPI update where it may affect: intended purpose; safety and performance; validity of the existing conformity assessment; or regulatory status. Examples include: new or revised NB certificate; device reclassification; new indications; major design changes; change of manufacturer name/address; CH REP change; or material labelling changes affecting use instructions.
 
 ## Changes Not Requiring Re-notification
 Minor changes with no clinical impact (e.g. colour changes, minor IFU text corrections not affecting use, addition of equivalent variants already covered by existing conformity documentation).

@@ -22,7 +22,7 @@ Submit via MFDS eSubmission portal:
 
 ## Annual renewal
 
-Manufacturer licences must be renewed **annually**. Failure to renew results in licence lapse.
+Manufacturer licences must be renewed **annually**. Failure to renew results in licence lapse and suspension of manufacturing authorization; the manufacturer cannot legally produce devices for the Korean market after the licence expires.
 
 ## Related pages
 - [KGMP overview](../../gmp-quality-system/overview-kgmp) · [Importer licence](./importer-licence)

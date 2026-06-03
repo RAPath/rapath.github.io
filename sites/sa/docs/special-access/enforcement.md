@@ -32,7 +32,7 @@ The SFDA has broad enforcement powers under the Medical Devices Law to ensure de
 
 ## Cooperation with SFDA
 
-Manufacturers and ARs are expected to cooperate fully with SFDA inspections and requests for information. Prompt and transparent engagement with the SFDA — including proactive notification of device issues — is the best approach to compliance and maintaining a positive regulatory relationship.
+Manufacturers and Authorized Representatives are legally required to cooperate fully with SFDA inspections and requests for information. Prompt and transparent engagement with the SFDA — including proactive notification of device safety issues, adverse events, and technical defects — is the best approach to maintaining compliance and avoiding enforcement action.
 
 ## Further reading
 

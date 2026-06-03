@@ -30,3 +30,5 @@ Cold chain devices must be transported in validated cold chain packaging or temp
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+Storage and transport conditions are also governed by RDC 751/2022 (Technical Regulation for Medical Devices), which sets out the overall requirements for device registration and technical specifications, including stability and shelf-life conditions.

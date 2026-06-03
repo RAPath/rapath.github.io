@@ -27,9 +27,9 @@ The device description module must enable PMDA to fully understand what the devi
 - Output parameters (for active devices)
 - Software version identification (for devices with software)
 
-## Intended use and intended purpose — Japan's framing
+## Intended Use Statement — Japan's Regulatory Definition
 
-PMDA is precise about the intended use statement. The approved intended use (効能効果 for drugs; 使用目的 for devices) is what appears on the Shonin and what the MAH is legally permitted to claim. Anything not in the approved intended use is an off-label claim under Japanese law.
+PMDA is precise about the intended use statement (使用目的). The approved intended use is what appears on the Shonin certificate and defines what the MAH is legally permitted to claim. The intended use encompasses both the clinical purpose (diagnosis, treatment, monitoring) and the patient population or clinical setting. Anything not in the approved intended use is an off-label claim under Japanese law.
 
 The intended use must be drafted carefully before submission because changes after approval require Ichibu Henko (partial change approval).
 

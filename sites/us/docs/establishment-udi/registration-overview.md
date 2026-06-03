@@ -43,3 +43,5 @@ FDA charges an annual registration fee (set under MDUFA). For FY2026 the standar
 - [21 CFR Part 807](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-H/part-807)
 - [FURLS — FDA Registration Portal](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfrl/rl.cfm)
 - [FDA — Registration and Listing](https://www.fda.gov/medical-devices/how-study-and-market-your-device/device-registration-and-listing)
+
+The FEI is a unique 10-digit identifier assigned to your establishment and is required on all premarket submissions, device listings, and adverse event reports. Keep this number on file as it identifies your establishment in all FDA databases.

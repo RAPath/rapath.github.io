@@ -32,3 +32,7 @@ IVD products approved under the Medical Devices Act before May 2021 were require
 
 ## Related pages
 - [Medical Devices Act](./medical-devices-act) · [IVD classification](../../pre-market/classification/ivd-classification)
+
+Companion Diagnostics
+
+IVDs used as companion diagnostics (CDx) to determine patient eligibility for specific therapeutic drugs must undergo co-approval with the corresponding pharmaceutical product. CDx devices require submission of analytical and clinical validation data alongside the drug application.

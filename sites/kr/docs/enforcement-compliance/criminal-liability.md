@@ -16,7 +16,7 @@ The Medical Devices Act includes **criminal penalty provisions** for the most se
 | Failing to comply with a mandatory recall order | Up to 3 years imprisonment or ₩30M fine |
 | Causing death or serious injury through negligent regulatory violation | Aggravated criminal penalty |
 
-## Dual liability (양벌규정)
+## Dual liability (양벌규정, corporate and individual liability)
 
 Under the **양벌규정 (dual liability)** provision:
 - Both the **individual** who committed the offence and the **company** may be prosecuted and penalised

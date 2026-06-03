@@ -18,7 +18,7 @@ A **custom-made device** is a device that is:
 - Custom orthotics or prosthetics
 
 ## Regulatory status
-Custom-made devices are **exempt from the Device Licence requirement** under the MDR. They do not need to be listed in MDALL.
+Custom-made devices are **exempt from the Device Licence requirement** under the Medical Devices Regulations (MDR). They do not need to be listed in MDALL.
 
 However, custom-made devices are **not exempt** from all obligations:
 - Must still meet the **Safety and Effectiveness Requirements** of Schedule 1

@@ -12,7 +12,7 @@ All Singapore Acts, subsidiary legislation, and related instruments are freely a
 
 **[sso.agc.gov.sg](https://sso.agc.gov.sg)**
 
-SSO is maintained by the Attorney-General's Chambers. It publishes the consolidated, up-to-date text of all legislation. Unlike some jurisdictions, SSO integrates amendments into the main Act text, so the text you read reflects the current in-force version.
+SSO is maintained by the Attorney-General's Chambers. It publishes the consolidated, up-to-date text of all legislation. Unlike some jurisdictions that publish amendments separately, SSO integrates all amendments directly into the main Act text. This means the consolidated version you read always reflects the current in-force version without needing to cross-reference separate amendment acts.
 
 ## Acts vs subsidiary legislation
 

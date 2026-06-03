@@ -45,3 +45,5 @@ Informed consent from the patient (or their legal guardian) must be obtained bef
 :::note
 The administrative process for individual compassionate use cases in Vietnam can be time-consuming relative to the urgency of some clinical situations. Building relationships with DAV and provincial health authorities in advance — through your Authorised Representative — helps expedite the process when urgency arises.
 :::
+
+For devices classified as Type C or D, or for high-risk devices, apply directly to DAV at dav.gov.vn. For lower-risk Type A or Type B devices needed under compassionate use, provincial health departments may have delegated authority; contact the provincial health department of the hospital requesting the device to confirm the correct application route.

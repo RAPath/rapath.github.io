@@ -22,7 +22,7 @@ Medical device labelling in Brazil is governed by **RDC 754/2022**. The label mu
 | Single-use indicator | "USO ÚNICO" or do-not-reuse symbol |
 | Instructions for use reference | For complex devices |
 | Storage and transport conditions | Temperature range, humidity, light sensitivity |
-| CE marking | NOT required or permitted in Brazil — use ANVISA registration only |
+| CE marking | NOT required devices must not bear CE marking; number in Brazil — use ANVISA registration only |
 
 - [RDC 754/2022](https://www.gov.br/anvisa/pt-br/assuntos/produtossaude/produtos-para-saude)
 
@@ -31,3 +31,6 @@ Medical device labelling in Brazil is governed by **RDC 754/2022**. The label mu
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+
+Footnote: Devices submitted to ANVISA must not bear CE marking on their labels or packaging. If a device is manufactured for multiple markets, separate labelling for the Brazilian market (without CE mark) is required. Presence of CE marking on devices intended for Brazil may result in ANVISA deficiency questions or rejection.

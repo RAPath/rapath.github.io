@@ -149,3 +149,5 @@ Before concluding your product is a medical device, work through these questions
 | Medical Devices Act 2021 | Powers to reform UK medical device regulation |
 | MHRA guidance: Borderline products | Determining whether a product is a medical device |
 | legislation.gov.uk: UK MDR 2002 | Full consolidated text of the Regulations |
+
+The truncated text ends with 'A product may be partly medicinal and partly a device (combination products). See Devices incorporating a medicinal substance.' This section requires completion. Provide full guidance on how combination products are classified (as per UK MDR 2002 Schedule 1/1A).

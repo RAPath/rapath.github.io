@@ -11,7 +11,7 @@ Post-market surveillance (PMS) is the systematic, active process of collecting a
 ## PMS Plan
 The PMS plan (required by MedDO Annex III para. 1) must cover:
 - Methods and procedures for proactively collecting post-market data
-- Data sources: complaint data, vigilance reports, published literature, clinical registries, post-market clinical follow-up, information from NBs
+- Data sources: complaint data and complaint trending, vigilance reports from Swissmedic and internal manufacturer records, peer-reviewed published literature, clinical registries, post-market clinical follow-up (PMCF) data, information from notified bodies (NBs) and other competent authorities, and equivalent device data where applicable
 - Thresholds and criteria for triggering corrective action
 - How PMS data feeds back into risk management and technical documentation
 
@@ -43,3 +43,5 @@ PMS data must be used to update: the risk management file; the clinical evaluati
 :::warning Disclaimer
 AI-assisted content for navigation only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
 :::
+
+## Feedback Loop

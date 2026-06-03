@@ -35,3 +35,5 @@ For manufacturers entering multiple ASEAN markets:
 
 - [HSA: ASEAN AMDC](https://www.hsa.gov.sg/medical-devices/international-collaboration-medical-devices/amdc)
 - [HSA: Free Sale Certificate](https://www.hsa.gov.sg/medical-devices/certificates)
+
+Direct link to ASEAN CSDT: [Insert ASEAN Sectoral Working Group on Medical Devices website URL]' or 'For the current CSDT version, visit the ASEAN Sectoral Working Group on Medical Devices or consult HSA's guidance documents library.

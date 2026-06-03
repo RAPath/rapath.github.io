@@ -24,7 +24,7 @@ A **GSPR compliance matrix** maps every applicable MedDO Annex I requirement to 
 Every non-applicable GSPR must include a device-specific justification. "Not applicable to this type of device" is insufficient — the justification must be specific to this device's design, materials, and intended use.
 
 ## Gap Analysis Before NB Submission
-Before submitting to an NB, conduct a gap analysis to identify: GSPRs with incomplete testing; outdated standard references; requirements addressed only by internal documents without external validation; device-specific requirements overlooked.
+Before submitting to an NB, conduct a thorough gap analysis to identify: GSPRs with incomplete or missing testing; outdated or superseded standard references; requirements addressed only by internal documents without independent external validation (such as standards compliance or third-party testing); device-specific GSPR interpretations that lack documented justification; missing evidence of post-market surveillance planning for identified GSPR-related risks.
 
 ## Official Sources
 - [MedDO Annex I (SR 812.213)](https://www.fedlex.admin.ch/eli/cc/2021/205/en)

@@ -55,3 +55,7 @@ Manufacturers must maintain **MDR event files** for all events that were evaluat
 - [21 CFR Part 803 (eCFR)](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-H/part-803)
 - [FDA — Medical Device Reporting](https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-mdr-how-report-medical-device-problems)
 - [MAUDE Database](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfmaude/search.cfm)
+
+## MDR Submission Methods
+
+Manufacturers must submit MDRs electronically via FDA's eMDR system or MedWatch online portal. Paper submissions are no longer accepted except in cases of technical inability. All submissions must include the device identification, description of the event, patient outcome, and corrective actions taken or planned.

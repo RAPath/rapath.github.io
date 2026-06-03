@@ -9,17 +9,13 @@ keywords: [Certificate of Conformity, CoC, ISO 13485, India, CDSCO, import]
 
 ## What is a CoC?
 
-A **Certificate of Conformity (CoC)** is a third-party certification confirming that the medical device and its manufacturer's quality system conform to recognised international standards.
+A Certificate of Conformity (CoC) is a third-party certification confirming that the medical device and its manufacturer's quality system conform to recognised international standards.
 
 ## What does CDSCO accept?
 
 For import licence applications, CDSCO typically accepts:
 
-- **ISO 13485:2016** quality management system certification (from an accredited certification body);
-- **CE marking documentation** (Declaration of Conformity + Notified Body certificate for Class I SR/M through Class III EU MDR);
-- **US FDA 510(k) clearance or PMA approval**;
-- **TGA conformity assessment certificate** (Australia);
-- **PMDA approval certificate** (Japan).
+ISO 13485:2016 (or ISO 13485:2023) quality management system certification from a certification body accredited by a signatory to the International Accreditation Forum (IAF) multilateral recognition arrangement;
 
 ## Role in the application
 

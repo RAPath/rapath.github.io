@@ -160,3 +160,5 @@ A product is a medical device if the manufacturer **claims** it is for a medical
 | MDCG 2021-24 | Guidance on software qualification |
 | Directive 2001/83/EC | Medicinal products for human use |
 | Regulation (EC) No 1394/2007 | Advanced therapy medicinal products |
+
+Human blood, blood components, cells, tissues, and organs: These are excluded from MDR where they are governed by other Union legislation (Directive 2002/98/EC, Directive 2004/23/EC). However, a finished device incorporating such material (e.g. a collagen-based wound dressing derived from human tissue, a decellularised scaffold) is regulated as a medical device. The human-derived material itself is regulated under tissue and cells legislation; the finished device is assessed under MDR. Products for veterinary use: Medical devices intended solely for veterinary use fall outside MDR and IVDR scope. A device with dual intent (veterinary and human medical use) is regulated as a medical device. Veterinary medicinal products are governed by Regulation (EU) 2019/6.

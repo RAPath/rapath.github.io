@@ -141,3 +141,5 @@ Manufacturers should monitor:
 | IVDR Art. 25–26 | IVDR device registration |
 | MDCG 2019-9 | SSCP guidance |
 | EUDAMED user guides | ec.europa.eu/tools/eudamed |
+
+SSCP — Summary of Safety and Clinical Performance For Class III devices (MDR) and Class D devices (IVDR), manufacturers must register a Summary of Safety and Clinical Performance (SSCP) in EUDAMED Module 2. The SSCP is a summary document synthesising the clinical and safety data supporting the device, and it must be updated whenever the supporting data changes materially.

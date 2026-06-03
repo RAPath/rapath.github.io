@@ -9,7 +9,7 @@ tags: [mdr, ivdr, technical-documentation, pms, pmcf, pmpf, psur]
 # Post-market data in technical documentation
 
 :::note Regulatory basis
-**MDR Annex III** and **IVDR Annex III** define the post-market technical documentation requirements. Key documents are the **PMS plan**, **PMS report / PSUR**, and **PMCF plan and evaluation report** (MDR) or **PMPF plan and evaluation report** (IVDR).
+MDR Annex III and IVDR Annex III define the post-market technical documentation requirements. Key documents are the PMS plan, PMS report / PSUR, and PMCF plan and evaluation report (MDR) or PMPF plan and evaluation report (IVDR).
 :::
 
 :::warning Disclaimer
@@ -22,17 +22,17 @@ This site provides general information only and does not constitute legal or reg
 
 Under MDR and IVDR, technical documentation is not static — it evolves throughout the device lifecycle as real-world evidence accumulates. Annex III makes this explicit by requiring a dedicated post-market section of the technical file covering:
 
-1. The **plan** for gathering post-market data (PMS plan)
-2. The **results** of that data gathering (PMS report or PSUR)
-3. The **clinical/performance follow-up** plan and its evaluation (PMCF/PMPF)
+1. The plan for gathering post-market data (PMS plan)
+2. The results of that data gathering (PMS report or PSUR)
+3. The clinical/performance follow-up plan and its evaluation (PMCF/PMPF)
 
-Critically, this data feeds back into the **pre-market documents**: the clinical evaluation report, the risk management file, and the benefit-risk analysis must all be updated when significant post-market information emerges.
+Critically, post-market data must feed back into pre-market documentation: the clinical evaluation report, risk management file, and benefit-risk analysis must be updated when significant post-market information emerges, ensuring the technical file remains current throughout the device lifecycle.
 
 ---
 
 ## Post-market surveillance plan (PMS plan)
 
-The **PMS plan** is a proactive document setting out how the manufacturer will systematically collect and analyse post-market information. It must address:
+The PMS plan is a proactive document setting out how the manufacturer will systematically collect and analyse post-market information. It must address:
 
 | Data source | Examples |
 |---|---|
@@ -45,11 +45,11 @@ The **PMS plan** is a proactive document setting out how the manufacturer will s
 | Regulatory authority communications | Field safety notices, market surveillance actions |
 
 The PMS plan must specify:
-- The **post-market objectives** (what the manufacturer is monitoring for)
-- The **data sources** and search methodology
-- The **frequency** of data review and report update
-- **Thresholds and criteria** for triggering a reactive response (e.g. CAPA, FSCA)
-- Linkage to **risk management** (how PMS data updates the risk file)
+- The post-market objectives (what the manufacturer is monitoring for)
+- The data sources and search methodology
+- The frequency of data review and report update
+- Thresholds and criteria for triggering a reactive response (e.g. CAPA, FSCA)
+- Linkage to risk management (how PMS data updates the risk file)
 
 ---
 
@@ -57,21 +57,21 @@ The PMS plan must specify:
 
 | Document | When required | Frequency |
 |---|---|---|
-| **PMS report** | Class I, IIa, IIb (MDR); Class A, B (IVDR) | Updated when necessary; at minimum when significant new information available |
-| **Periodic Safety Update Report (PSUR)** | Class IIb (implantable), III, AIMD (MDR); Class C, D (IVDR) | At minimum **annually** for Class III/D; at minimum every **2 years** for Class IIb/C |
+| PMS report | Class I, IIa, IIb (MDR); Class A, B (IVDR) | Updated when necessary; at minimum when significant new information available |
+| Periodic Safety Update Report (PSUR) | Class IIb (implantable), III, AIMD (MDR); Class C, D (IVDR) | At minimum annually for Class III/D; at minimum every 2 years for Class IIb/C |
 
 ### PSUR content requirements (MDR Annex III §2)
 
 A PSUR must include:
 
-1. **Device identification**: name, models, basic UDI-DI, ARTG/EUDAMED reference
-2. **Intended purpose**: statement of intended use as CE marked
-3. **Lifecycle production data**: cumulative devices placed on market; estimated number in use; geographic distribution
-4. **Summary of PMS activities and results**: outcome of literature searches, complaint trends, vigilance reports, registry data, PMCF findings
-5. **Main findings**: what the PMS data shows about safety and performance
-6. **Benefit-risk analysis conclusions**: whether the benefit-risk remains positive based on accumulated evidence
-7. **Conclusions**: overall conclusions on safety, performance, and need for any actions
-8. **Actions taken**: any preventive or corrective actions arising from PMS data
+1. Device identification: name, models, basic UDI-DI, ARTG/EUDAMED reference
+2. Intended purpose: statement of intended use as CE marked
+3. Lifecycle production data: cumulative devices placed on market; estimated number in use; geographic distribution
+4. Summary of PMS activities and results: outcome of literature searches, complaint trends, vigilance reports, registry data, PMCF findings
+5. Main findings: what the PMS data shows about safety and performance
+6. Benefit-risk analysis conclusions: whether the benefit-risk remains positive based on accumulated evidence
+7. Conclusions: overall conclusions on safety, performance, and need for any actions
+8. Actions taken: any preventive or corrective actions arising from PMS data
 
 PSURs are submitted to the notified body and uploaded to EUDAMED.
 
@@ -79,35 +79,35 @@ PSURs are submitted to the notified body and uploaded to EUDAMED.
 
 ## Post-Market Clinical Follow-up (PMCF) — MDR
 
-**PMCF** is the ongoing process of proactively collecting clinical data on CE-marked devices to confirm their continued safety and performance. It is required for all MDR devices (Class I–III) and must be justified if concluded not necessary.
+PMCF is the ongoing process of proactively collecting clinical data on CE-marked devices to confirm their continued safety and performance. It is required for all MDR devices (Class I–III) and must be justified if concluded not necessary.
 
 ### PMCF plan
 
 The PMCF plan must define:
-- The **general methods** for PMCF (literature, registries, surveys, studies)
-- **Specific methods**: PMCF studies or surveys, if needed
-- The **rationale** for the chosen methods relative to the device's risk class and clinical evidence gaps
-- **Timelines** and milestones
+- The general methods for PMCF (literature, registries, surveys, studies)
+- Specific methods: PMCF studies or surveys, if needed
+- The rationale for the chosen methods relative to the device's risk class and clinical evidence gaps
+- Timelines and milestones
 
 ### PMCF evaluation report
 
-The PMCF evaluation report records the **outcomes** of PMCF activities, including:
+The PMCF evaluation report records the outcomes of PMCF activities, including:
 - Results of literature searches
 - Outcomes of PMCF studies (if conducted)
 - Registry data findings
 - Any new safety signals or performance deviations
 - Whether PMCF findings require updating the clinical evaluation report or risk management file
 
-The PMCF evaluation report is a **key input** to the clinical evaluation report — PMCF data must be reflected in the CER's conclusions.
+The PMCF evaluation report is a key input to the clinical evaluation report — PMCF data must be reflected in the CER's conclusions.
 
 ---
 
 ## Post-Market Performance Follow-up (PMPF) — IVDR
 
-**PMPF** is the IVDR equivalent of PMCF — the ongoing process of collecting and evaluating post-market performance data for IVDs. Comparable structure:
+PMPF is the IVDR equivalent of PMCF — the ongoing process of collecting and evaluating post-market performance data for IVDs. Comparable structure:
 
-- **PMPF plan**: proactive plan for data collection methods (literature, proficiency testing, registries, field studies)
-- **PMPF evaluation report**: results of PMPF activities, fed back into the performance evaluation report
+- PMPF plan: proactive plan for data collection methods (literature, proficiency testing, registries, field studies)
+- PMPF evaluation report: results of PMPF activities, fed back into the performance evaluation report
 
 PMPF is particularly important for:
 - IVDs where analytical performance may drift (reagent lots, platform updates)
@@ -136,7 +136,7 @@ GSPR cross-reference table
 (update if new evidence affects GSPR compliance)
 ```
 
-This loop is what makes MDR/IVDR a **lifecycle regulatory framework** rather than a one-time certification. The technical documentation must reflect the device as it is, based on current evidence — not just as it was at initial certification.
+This loop is what makes MDR/IVDR a lifecycle regulatory framework rather than a one-time certification. The technical documentation must reflect the device as it is, based on current evidence — not just as it was at initial certification.
 
 ---
 
@@ -174,3 +174,5 @@ For Class IIb, III, and IVDR Class C and D devices, notified bodies review the P
 | MDR Art. 61(11) | PMCF requirements |
 | MDCG 2020-7 | PMCF plan and evaluation report templates |
 | MDCG 2022-21 | PSUR guidance |
+
+Complete the PMCF plan section with: 'Risk acceptability criteria: how safety/performance will be assessed post-market Sample size and duration: justification for the proposed follow-up scope Evaluation methods: how data will be analysed Linkage to clinical evaluation: how PMCF findings update the clinical evaluation report Timescale: when results will be reported to the notified body PMCF evaluation report The PMCF evaluation report must include: Summary of PMCF activities conducted: methods used, patient numbers, follow-up duration Main findings: safety and performance data from PMCF sources Conclusion: whether the device continues to meet safety and performance expectations Actions: any changes to labelling, IFU, or risk management based on PMCF evidence'

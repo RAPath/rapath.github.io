@@ -186,3 +186,5 @@ The reformed framework may affect transitional deadlines and UKCA requirements. 
 | DHSC: UKCA marking — June 2023 announcement | Extension of CE marking acceptance to 30 June 2030 |
 | Windsor Framework (March 2023) | Agreement governing NI regulatory position |
 | MHRA: Future regulation of medical devices | Consultation responses and reform programme |
+
+Note: The Windsor Framework (agreed March 2023) maintains Northern Ireland's alignment with EU MDR 2017/745 and EU IVDR 2017/746. Manufacturers placing devices on the NI market must comply with EU requirements, not UK MDR 2002. This creates a dual-market obligation for UK-wide distribution. See Great Britain vs Northern Ireland for detailed comparison.

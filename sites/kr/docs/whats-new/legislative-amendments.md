@@ -13,7 +13,7 @@ In Korea, amendments to the Medical Devices Act and IVD Act:
 3. Reviewed by the National Assembly (for Act-level amendments) or Cabinet (for Decrees)
 4. Enacted with a specified commencement date (often 6–12 months for major changes)
 
-**MFDS Notifications (고시)** can be amended faster — MFDS can update a notification without National Assembly or Cabinet involvement.
+MFDS Notifications (고시) — administrative guidance documents — can be amended faster than Acts or Decrees. MFDS can update a notification independently, typically requiring 20–30 days notice before entry into force, without National Assembly or Cabinet review.
 
 ## Where to track amendments
 

@@ -25,7 +25,7 @@ The classification rules are set out in **Schedule 2** (general medical devices)
 | **Class III** | High | Contact with central nervous system, heart, or central circulatory system; long-term implants |
 | **AIMD*** | High | Active implantable devices — being phased into Class III |
 
-*Note: The AIMD class is being reclassified into Class III. Devices submitted as AIMD before 25 November 2021 retain that classification; all new active implantable devices are classified as Class III.*
+*Note: The AIMD class was reclassified into Class III effective 25 November 2021. Devices with ARTG entries submitted as AIMD before that date retain AIMD classification; all new active implantable devices are now classified as Class III.*
 
 ### IVD Device Classes
 
@@ -114,3 +114,7 @@ The TGA publishes detailed guidance on classifying both general medical devices 
 - [IVD Class 1–4](./ivd-class-1-2-3-4.md)
 - [Active & Software Devices](./active-and-software-devices.md)
 - [Conformity Assessment Overview](../conformity-assessment/overview.md)
+
+After 'A software application that monitors vital signs is classified differently from one that actively provide' add:
+
+therapeutic recommendations. Manufacturers must clearly document the device's intended purpose, and this must be consistent throughout the technical file, labelling, and ARTG application.

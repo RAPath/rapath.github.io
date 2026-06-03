@@ -41,3 +41,5 @@ Manufacturers should instruct their AR to monitor SFDA announcements actively an
 - [Draft Guidance Open for Comment](./draft-guidance)
 - [Upcoming Changes](./upcoming-changes)
 - [Medical Devices Law](../legislation/medical-devices-law)
+
+Devices registered under the cancelled MDMA-1 (GHTF) or MDNR pathways remain registered until expiry or renewal. Upon renewal, such devices must transition to the MDMA-2 (TFA) pathway. Manufacturers should begin technical file preparation well in advance of certificate renewal dates.

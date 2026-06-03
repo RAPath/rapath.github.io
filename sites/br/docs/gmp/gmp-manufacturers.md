@@ -25,3 +25,5 @@ The CBPF must be kept current — it has a defined validity period and must be r
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+The CBPF is typically valid for 2 years from the date of issuance. Manufacturers should submit renewal applications at least 90 days before the current CBPF expires to avoid a lapse in certification.

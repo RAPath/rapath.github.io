@@ -80,3 +80,7 @@ Subpart H governs the HDE — an approval pathway for Class III devices intended
 - [21 CFR Part 814 (eCFR)](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-H/part-814)
 - [FDA PMA Database](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm)
 - [FDA — PMA Overview](https://www.fda.gov/medical-devices/premarket-submissions-selecting-and-preparing-correct-submission/premarket-approval-pma)
+
+Standard Review: FDA has 180 calendar days from filing acceptance to issue a decision. Priority Review: FDA has 180 calendar days from filing acceptance to complete substantive review (expedited for devices with significant advantages over existing alternatives).
+
+FDA may condition PMA approval on postapproval requirements such as postapproval studies, postapproval surveillance, restrictions on distribution, or annual reporting of new safety or effectiveness information.

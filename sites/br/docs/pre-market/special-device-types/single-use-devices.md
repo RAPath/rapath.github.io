@@ -20,3 +20,5 @@ Manufacturers must state "uso único" or "não reprocessar" clearly on the label
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+ANVISA-authorised reprocessors must demonstrate: validation of cleaning and sterilization procedures, documented quality management systems (ISO 13485), traceability of reprocessed devices, and post-reprocessing performance testing. Reprocessors must also obtain a specific ANVISA operating authorization separate from device registration.

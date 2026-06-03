@@ -46,3 +46,7 @@ If your device is already registered with HSA (Singapore), BPOM/Kemenkes (Indone
 :::tip Request the current CSDT template version
 The CSDT is periodically updated by the ASEAN MDPWG. Confirm with your Authorised Representative that you are using the version currently accepted by DAV.
 :::
+
+Expected review period: [X] days for Type C; [X] days for Type D. Resubmission timelines for deficiency letters: [X] days from notification. Check the DMEC portal for current processing times and any backlog notices.
+
+See DAV Circular [number] dated [date] on CSDT submission requirements for Type C/D applications, or confirm current version acceptance via your Authorised Representative.

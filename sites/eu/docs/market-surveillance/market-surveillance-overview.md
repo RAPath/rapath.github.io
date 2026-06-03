@@ -9,7 +9,7 @@ tags: [mdr, ivdr, market-surveillance, enforcement]
 # Market surveillance & enforcement
 
 :::note
-**Regulatory basis** - **MDR Art. 93–97 / IVDR Art. 88–92**. Market surveillance is the system of NCA activities that ensures devices on the EU market comply with MDR/IVDR requirements. It is distinct from — but complementary to — the manufacturer's own post-market surveillance system.
+**Regulatory basis** - **MDR Art. 93–97 / IVDR Art. 88–92**. Market surveillance is the system of National Competent Authority (NCA) activities that ensures devices on the EU market comply with MDR/IVDR requirements throughout their lifecycle. It is distinct from — but complementary to — the manufacturer's own post-market surveillance system, and focuses on compliance verification and enforcement.
 :::
 
 :::warning

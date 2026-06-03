@@ -55,8 +55,7 @@ All required documents are uploaded in PDF format following Regalkes file naming
 - Labels (BI-compliant)
 - Technical specifications and test reports
 
-:::caution File naming
-Regalkes enforces specific file naming conventions. Non-compliant file names cause upload errors. Ask your LAR for the current naming format required — this changes periodically.
+:::caution File Naming - Regalkes enforces specific file naming conventions that change periodically. Non-compliant file names cause upload rejection and must be corrected before resubmission. Always request the current file naming template from your LAR or Kemenkes before beginning document preparation, as using outdated naming formats can cause significant submission delays.
 :::
 
 ---
@@ -98,3 +97,5 @@ On successful completion of the technical review:
 ## Step 9: Post-Approval Label Update
 
 Before importing and distributing, update all product labeling to include the NIE number. Updated labels must match the approved label in the Regalkes system. Do not distribute product with old labels.
+
+"Step 7a: Clarification Response Timeline - Kemenkes typically allows 14-30 days for response to clarification queries (permintaan klarifikasi). Responses must address all queries completely. Partial responses or missing information will restart the response clock. Failure to respond within the deadline may result in administrative rejection of the application."

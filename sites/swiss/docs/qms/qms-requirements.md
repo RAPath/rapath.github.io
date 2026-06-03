@@ -49,3 +49,5 @@ MedDO/MDR conformity assessment requires the QMS to address certain elements tha
 :::warning Disclaimer
 AI-assisted navigation aid only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
 :::
+
+For implantable Class I devices, although ISO 13485 is mandatory, manufacturers should ensure the QMS scope includes heightened attention to biocompatibility assessment (ISO 10993), long-term safety monitoring, and traceability requirements due to the elevated risk profile of implantable devices.

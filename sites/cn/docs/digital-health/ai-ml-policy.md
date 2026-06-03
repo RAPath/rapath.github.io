@@ -8,7 +8,7 @@ tags: [digital-health,cn-unique]
 
 # AI/ML Policy
 
-*This page provides a plain English reference for ai/ml policy under China's NMPA regulatory framework for digital health. Full content to be completed during editorial review.*
+*This page explains NMPA's regulatory approach to artificial intelligence and machine learning in medical devices, including classification, clinical validation, algorithm transparency, and post-market monitoring requirements.*
 
 ---
 
@@ -23,3 +23,5 @@ NMPA's digital health and SaMD framework is based on:
 :::note Disclaimer
 Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [NMPA](https://www.nmpa.gov.cn/) sources before making regulatory decisions. Not affiliated with NMPA or any Chinese Government body. Not legal or regulatory advice.
 :::
+
+Add overview of NMPA's AI/ML policy: (1) Standalone software (AI algorithms without hardware) classified under Medical Device definition if intended for diagnosis/treatment; (2) Must follow IEC 62304 and YY/T 0664 (Chinese equivalent) for software lifecycle and documentation; (3) SaMD registration requires algorithm transparency, training data documentation, performance validation on Chinese population data, and cybersecurity risk assessment; (4) Clinical evaluation must include real-world performance data; (5) Post-market surveillance mandatory with quarterly adverse event review for algorithm-related failures; (6) NMPA guidance (2022) emphasizes traceability and explainability for machine learning models used in clinical decision-making.

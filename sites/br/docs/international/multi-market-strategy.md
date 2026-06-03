@@ -13,9 +13,9 @@ For manufacturers targeting Brazil alongside other major markets, a coordinated 
 
 For most manufacturers, the recommended sequence is:
 
-1. **EU MDR / FDA first** — these produce the most comprehensive clinical evaluation reports, risk management files, and technical documentation, which can be adapted for ANVISA.
-2. **Australia (TGA), Health Canada, Singapore (HSA)** — also accept and produce internationally compatible documentation.
-3. **Brazil (ANVISA)** — leverage EU/FDA/TGA documentation, translate into Portuguese, adapt to ANVISA format requirements.
+1. EU MDR / FDA first — these produce the most comprehensive clinical evaluation reports, risk management files, and technical documentation, which can be adapted for ANVISA.
+2. Australia (TGA), Health Canada, Singapore (HSA) — also accept and produce internationally compatible documentation.
+3. Brazil (ANVISA) — leverage EU/FDA/TGA documentation, translate into Portuguese, adapt to ANVISA format requirements.
 
 ## Documentation reuse for Brazil
 
@@ -30,10 +30,14 @@ For most manufacturers, the recommended sequence is:
 
 ## Language is the main barrier
 
-The primary additional effort for Brazil compared to other IMDRF markets is **translation to Portuguese**. Invest in high-quality medical-regulatory translation from the outset — ANVISA reviewers will flag translation errors as deficiencies.
+Language is the main barrier
+​
+The primary additional effort for Brazil compared to other IMDRF markets is translation to Portuguese. All submissions to ANVISA, including clinical evaluation reports, risk management files, and technical specifications, must be translated by a qualified medical-regulatory translator. ANVISA reviewers will flag translation errors, inconsistencies with source documents, or unclear terminology as deficiencies that will delay or deny approval. Budget for professional translation and include time for potential revision cycles.
 
 ---
 
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+Note: ANVISA does not currently recognise MDSAP certificates (which cover US FDA, Canada, Japan, and Australia). However, individual regulatory approvals from these jurisdictions can be leveraged for Brazil submissions with appropriate translation and adaptation.

@@ -6,9 +6,7 @@ description: Processing timelines and government fees for MDA establishment lice
 
 # Key Timelines & Fees
 
-:::info Fee Updates
-Fees are indicative. Always verify current fee schedules on the **[MyMDA portal](https://mymda.mda.gov.my)** before submission.
-:::
+Fees are current as of the last update to this guidance. Always verify the most current fee schedules on the MyMDA portal (mymda.mda.gov.my) before submitting your application, as MDA may adjust fees without advance notice.
 
 ## Establishment Licensing Fees
 
@@ -19,7 +17,7 @@ Fees are indicative. Always verify current fee schedules on the **[MyMDA portal]
 | Distributor | RM 1,000 | RM 500 |
 | Authorised Representative | RM 1,500 | RM 750 |
 
-Establishment licences are valid for **1 year** and must be renewed annually.
+Establishment licences are valid for 1 year and must be renewed annually.
 
 ## Device Registration Fees
 
@@ -30,7 +28,7 @@ Establishment licences are valid for **1 year** and must be renewed annually.
 | Class C | RM 3,000 | RM 1,000 |
 | Class D | RM 5,000 | RM 2,000 |
 
-Registration is valid for **5 years** from the date of approval.
+Registration is valid for 5 years from the date of approval.
 
 ## Processing Timelines
 
@@ -47,7 +45,7 @@ Registration is valid for **5 years** from the date of approval.
 | Registration renewal | 60 working days |
 
 :::note Clock Stops
-The review clock stops when MDA issues a query (Deficiency Letter). The applicant typically has **60 days** to respond.
+The review clock stops when MDA issues a query (Deficiency Letter). The applicant typically has 60 days to respond.
 :::
 
 ## Variation Fees
@@ -65,3 +63,7 @@ The review clock stops when MDA issues a query (Deficiency Letter). The applican
 3. Request a pre-submission meeting for novel/complex devices
 4. Respond to queries within 30 days (not the full 60) to keep reviews moving
 5. Track application status via MyMDA
+
+Payment Timing & Refunds
+
+Establishment and device registration fees are payable upon application submission via the MyMDA portal. Fees are non-refundable if an application is rejected or withdrawn after submission. Variation fees are due when the variation application is submitted.

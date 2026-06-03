@@ -90,4 +90,6 @@ The **Trans-Tasman Mutual Recognition Arrangement** means that goods lawfully su
 > You are well-positioned for the NZ market. Your existing evidence satisfies Medsafe's conformity evidence expectations. You still need a NZ Sponsor and must notify WAND within 30 days of supply commencing. Labelling may need minor adjustment.
 
 > **No overseas regulatory clearance?**
-> You can still supply in NZ, but you must hold your own technical documentation, risk management records, and performance evidence — and a NZ Sponsor must be willing to take legal responsibility for the device.
+> You can still supply in NZ, but you must hold your own technical documentation, risk management records, and performance evidence — and a NZ Sponsor must be willing to take responsibility for the device and ensure WAND notification is completed.e legal responsibility for the device.
+
+While New Zealand does not mandate specific conformity assessment routes (like CE marking or ARTG listing), sponsors must ensure technical documentation meets GHTF/SG1/N43:2005 labelling standards and includes evidence of safety and performance appropriate to the device's risk class. Medsafe may request this documentation at any time.

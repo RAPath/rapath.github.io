@@ -26,9 +26,9 @@ keywords: [ANVISA, Brazil, medical device]
 | Class III | 12–24 months |
 | Class IV | 18–36 months |
 
-## Appeals (*recurso*)
+## Appeals (recurso)
 
-If ANVISA rejects a registration, applicant may file a **recurso** (administrative appeal) within the period stated in the rejection notice (typically 10 working days).
+If ANVISA denies a registration application, the applicant may file a recurso (administrative appeal) within the timeframe specified in the formal rejection notice. The appeal period is typically 10 working days from receipt of the rejection. The applicant should address the specific deficiencies or concerns cited by ANVISA in the appeal submission.
 
 ---
 

@@ -171,3 +171,17 @@ See [IVD classification](../classification/ivd-classification).
 | IEC 82304-1:2016 | Health software — general product safety |
 | MDCG 2019-16 | Guidance on cybersecurity (reference — EU guidance, MHRA-endorsed) |
 | MDCG 2021-24 (reference) | EU software classification guidance |
+
+Many AI/ML algorithms — particularly deep learning neural networks — do not provide interpretable explanations for individual predictions (the 'black box' problem). MHRA expects manufacturers to address this through: (1) Algorithmic transparency — documenting how the algorithm works, what features it uses, and how outputs are generated; (2) Validation data — comprehensive performance testing on diverse datasets including edge cases; (3) Explainability documentation — explanation of how the algorithm reaches decisions for typical use cases; (4) Residual risk documentation — acknowledging limitations and misclassification risks; (5) Human-in-the-loop processes — ensuring that algorithm outputs are reviewed by qualified humans before clinical decisions are made. For high-risk AI/ML devices (e.g., those making or strongly influencing critical diagnostic or therapeutic decisions), MHRA may require independent validation or third-party audit of the algorithm.
+
+2. Algorithm drift and real-world performance
+
+AI/ML algorithms trained on one dataset may perform poorly when deployed on real-world data that differs from training data (covariate shift or data drift). MHRA expects: (1) Documentation of the training dataset characteristics, size, and diversity; (2) Testing on independent validation datasets that represent expected real-world variation; (3) Post-market performance monitoring to detect algorithm drift; (4) Procedures to retrain or update the algorithm if performance degrades; (5) Documentation of any updates or retraining and evidence that performance remains acceptable after update.
+
+3. Cybersecurity and data integrity
+
+AI/ML medical devices often process or transmit patient data and may be networked. Cybersecurity requirements include: (1) Encryption of data in transit and at rest; (2) Access controls and authentication; (3) Logging and audit trails; (4) Vulnerability assessment and patch management; (5) Data integrity verification; (6) Protection against adversarial attacks (intentional or unintentional manipulation of algorithm inputs to cause incorrect outputs).
+
+4. Clinical validation expectations
+
+For higher-risk AI/ML devices, MHRA expects: (1) Prospective clinical investigation data, not just retrospective dataset analysis; (2) Testing in representative clinical environments with real users; (3) Demonstration of clinical utility — that the algorithm improves patient outcomes compared to standard practice; (4) Quantification of sensitivity, specificity, positive and negative predictive values across clinically relevant subgroups; (5) Assessment of algorithm performance in populations underrepresented in the training data to detect bias.

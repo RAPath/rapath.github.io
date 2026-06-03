@@ -12,7 +12,7 @@ description: Cross-border medical device supply within the Guangdong–Hong Kong
 
 The **Guangdong–Hong Kong–Macao Greater Bay Area (GBA)** is a Chinese national initiative linking Hong Kong, Macao, and nine Guangdong cities into an integrated economic and innovation zone. Within the GBA, a specific **cross-border medical device pilot programme** allows:
 
-- MDACS-listed devices to be used in designated GBA hospitals in Guangdong
+- MDACS-listed devices to be (National Medical Products Administration) mainland GBA use. However, the MDACS listing alone does not confer regulatory approval for national China market distribution.d in designated GBA hospitals in Guangdong
 - Devices to cross the border for use in specific clinical settings without full NMPA (China) registration
 
 This is a significant HK-unique pathway with no parallel in any other RAPath jurisdiction.
@@ -39,3 +39,5 @@ The GBA cross-border device pilot is an evolving programme. Check with the **Hon
 :::info Seek expert guidance
 GBA cross-border supply involves both Hong Kong and Mainland China regulatory requirements. Engage a regulatory affairs professional with expertise in both MDACS and NMPA frameworks.
 :::
+
+To confirm eligibility and current designated hospitals, contact the Hong Kong Medical Device Division (Tel: +852 3468 5900; Email: mddc@dh.gov.hk) or the Guangdong Provincial Medical Products Administration. Processing times and application requirements vary and should be verified directly with regulators.

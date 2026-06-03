@@ -27,3 +27,7 @@ sidebar_position: 1
 
 ## Relevant legislation
 - Medical Devices Act, Article 6 · IVD Act, Article 7
+
+Documentation review and post-notification audit
+
+While MFDS does not conduct pre-market scientific review, all submitted documentation is reviewed for completeness and accuracy. MFDS reserves the right to request clarification or additional information before issuing the 품목신고증. Post-market audits may occur to verify accuracy of submitted information. False or misleading declarations can result in 품목신고 cancellation, product recall, and administrative penalties.

@@ -12,7 +12,7 @@ Not all Shonin applications require Japan-specific clinical trial data. The need
 - **Availability of acceptable foreign data** — PMDA may accept foreign clinical study data, reducing the need for new Japanese trials
 - **PMDA's requirements as communicated in pre-submission consultation** — the most reliable way to determine data requirements is to ask PMDA directly
 
-Where Japan-specific clinical evidence is required, clinical investigations must comply with the PMD Act's clinical trial requirements.
+Where Japan-specific clinical evidence is required, clinical investigations must comply with the PMD Act's clinical trial be conducted in Japan and must requirements, the GCP Ordinance for devices, and applicable ethics committee oversight.
 
 ## Clinical Trial Notification (CTN) — the filing process
 
@@ -43,3 +43,7 @@ For any clinical investigation that is intended to support a Shonin application,
 - Acceptable study design (endpoints, control group, sample size)
 - Whether foreign study data can bridge or supplement Japanese data
 - Timing and format of interim data sharing with PMDA
+
+Timeline for PMDA Pre-Trial Consultation
+
+PMDA typically provides written feedback on the investigational plan within 2–4 weeks of receiving a complete pre-trial consultation request. Earlier engagement (ideally 8–12 weeks before planned first patient enrolment) is recommended to allow time for questions, revisions, and any additional PMDA feedback. The 30-day CTN notification period begins only after PMDA pre-trial consultation feedback is received and incorporated into the final protocol.

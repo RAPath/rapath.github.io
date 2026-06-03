@@ -41,3 +41,7 @@ Recommended internal process:
 4. Commence investigation → submit follow-up reports as findings develop
 
 > **Legislative source:** Medical Devices Regulations, SOR/98-282, ss 59–64
+
+Determining the start date for international companies
+
+For manufacturers or importers operating across multiple time zones or jurisdictions, the reporting clock starts when any person in your Canadian-regulated entity (i.e., the MDEL holder, importer, or distributor in Canada) becomes aware of the reportable event. If the parent company or subsidiary in another country receives the information first, the clock does not start until the Canadian entity is notified. Document the date and time of awareness in your records.

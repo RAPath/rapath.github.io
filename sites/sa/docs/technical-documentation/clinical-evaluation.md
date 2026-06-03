@@ -51,3 +51,5 @@ For higher-risk devices, the SFDA expects a **PMCF plan** to be in place from th
 - [Technical File Overview](./technical-file-overview)
 - [Post-Market Surveillance](../post-market/pms-psur)
 - [Special Access — Clinical Investigations](../special-access/clinical-investigations)
+
+Expand the 'Using foreign clinical data' section:

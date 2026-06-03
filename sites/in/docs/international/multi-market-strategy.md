@@ -8,3 +8,17 @@ keywords: [international, India, IMDRF, SAARC, MRA, multi-market, comparison]
 # Multi Market Strategy
 
 > **Official sources:** [IMDRF](https://www.imdrf.org); [CDSCO](https://cdsco.gov.in); [RAPath AU](https://rapath.github.io/au/); [RAPath EU](https://rapath.github.io/eu/); [RAPath US](https://rapath.github.io/us/)
+
+Add main content section:
+
+Multi-Market Strategy for India (CDSCO)
+
+Companies seeking to market devices in India should consider:
+- Classification under IMDRF-aligned system (Class A–D)
+- Import licence requirements via Form MD-14/15
+- Dossier submission in English
+- GMP certification or WHO-listed country equivalency
+- Regulatory timeline: 90–180 days for standard approval
+- Post-market surveillance and adverse event reporting obligations
+
+See India vs TGA, CE, FDA for comparative timelines and requirements.

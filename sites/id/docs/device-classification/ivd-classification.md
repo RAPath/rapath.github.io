@@ -71,3 +71,5 @@ IVD labeling must comply with all standard Indonesian labeling requirements (Bah
 - Interference and cross-reactivity warnings
 - Storage and stability conditions
 - Reference ranges or expected values
+
+When a multi-parameter analyser performs assays spanning multiple risk classes (e.g., a haematology analyser performing both routine blood counts and cancer marker detection), the device must be classified according to the highest-risk assay it performs. For example, if the analyser includes a tumour marker assay (Class C), the entire analyser is classified as Class C, regardless of the classification of other routine assays it performs. All assays and performance data for the full range of intended uses must be included in the registration dossier.

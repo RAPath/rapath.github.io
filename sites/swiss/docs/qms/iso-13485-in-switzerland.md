@@ -9,7 +9,7 @@ keywords: [ISO 13485, QMS certification, Switzerland, MedDO, notified body, accr
 **ISO 13485:2016** (Medical devices — Quality management systems — Requirements for regulatory purposes) is the internationally recognised QMS standard for medical device manufacturers. For Swiss market access, ISO 13485 certification from an accredited body is the standard evidence of QMS compliance required by EU-designated NBs conducting Annex IX Chapter I audits.
 
 ## ISO 13485 Certification for Swiss Market Access
-ISO 13485 certification does not replace the NB QMS audit under MedDO Annex IX — but it is typically a prerequisite for and is assessed as part of the NB audit. The NB QMS audit under MedDO Annex IX goes beyond ISO 13485 to assess MedDO-specific requirements.
+ISO 13485 certification is a foundational requirement but does not replace the NB QMS audit under MedDO Annex IX Chapter I. The NB audit builds upon and verifies the ISO 13485 certification while assessing additional MedDO-specific requirements beyond ISO 13485 scope. The NB QMS audit under MedDO Annex IX goes beyond ISO 13485 to assess MedDO-specific requirements.
 
 **ISO 13485 certification provides:**
 - Evidence of a documented, implemented QMS
@@ -45,3 +45,5 @@ If the manufacturer uses a contract manufacturer or outsources any quality-criti
 :::warning Disclaimer
 AI-assisted navigation aid only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
 :::
+
+If a manufacturer produces devices in multiple locations or device classes with substantially different processes, the ISO 13485 certificate scope must clearly delineate which locations and device types are included. Some manufacturers maintain separate certificates for different sites or process categories. Verify with your certification body that the certificate scope fully covers all Swiss market activities.

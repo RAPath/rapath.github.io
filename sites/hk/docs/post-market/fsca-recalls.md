@@ -6,9 +6,9 @@ description: Field Safety Corrective Actions (FSCAs) and recall management under
 
 # FSCAs & Recalls
 
-> *TR-006 · Field Safety Corrective Actions*
+> TR-006 · Field Safety Corrective Actions
 
-An **FSCA** is any action to reduce risk from an already-marketed device. It is initiated when the manufacturer/LRP identifies a previously unknown or newly significant risk.
+An FSCA is any corrective or preventive action taken to reduce, eliminate, or mitigate a risk associated with an already-marketed device. FSCAs are typically initiated when the manufacturer or LRP identifies a previously unknown safety issue, a newly emerging risk, or information suggesting that the device may not perform as originally claimed or intended.
 
 ## Types of FSCA
 
@@ -21,11 +21,11 @@ An **FSCA** is any action to reduce risk from an already-marketed device. It is 
 
 ## Field Safety Notices (FSNs)
 
-An FSCA is communicated to users through a **Field Safety Notice (FSN)** — a written communication advising healthcare facilities of the problem, the risk, and the action required.
+An FSCA is communicated to users through a Field Safety Notice (FSN) — a written communication advising healthcare facilities of the problem, the risk, and the action required.
 
 ## LRP FSCA Obligations
 
-1. Notify MDD **before or simultaneously** with notifying users
+1. Notify MDD before or simultaneously with notifying users
 2. Provide copy of FSN to MDD
 3. Maintain records of all affected devices and FSNs distributed
 4. Confirm FSCA completion to MDD

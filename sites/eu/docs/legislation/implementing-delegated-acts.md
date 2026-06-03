@@ -141,3 +141,5 @@ Always check the **current harmonised standards list** in the OJ before relying 
 | EUR-Lex | All EU implementing and delegated acts |
 | DG SANTE website | CS work programme and status |
 | CEN/CENELEC | European standardisation body |
+
+Complete the final paragraph: 'A manufacturer complying with the standard has a presumption of conformity with the MDR/IVDR requirements that the standard covers. Non-compliance with a harmonised standard does not automatically mean non-compliance with the regulation, but the manufacturer must document an alternative means of meeting the applicable GSPR.'

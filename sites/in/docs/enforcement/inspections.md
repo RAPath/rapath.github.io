@@ -29,7 +29,7 @@ CDSCO inspectors derive their authority from **Section 21 of the Drugs and Cosme
 1. CDSCO issues advance notice (except for unannounced surveillance inspections);
 2. Inspection team reviews documents, GMP facilities, and records;
 3. Non-conformities are documented in the inspection report;
-4. Manufacturer must respond to observations within the specified timeframe;
+4. Manufacturer must respond to observations within the specified timeframe (typically 10–15 days from receipt of inspection report);
 5. CDSCO may issue a show-cause notice, demand corrective action, or initiate enforcement action.
 
 > **Official source:** D&C Act 1940, Section 21; MDR 2017, Chapter VIII

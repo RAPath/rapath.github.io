@@ -39,3 +39,5 @@ PMDA publishes checklists used by its inspection team, providing insight into wh
 :::info Official source
 PMDA administrative notices: [pmda.go.jp — administrative guidance](https://www.pmda.go.jp/review-services/drug-reviews/review-information/cd/0001.html) (primarily Japanese; some English sections)
 :::
+
+This gateway is called PMDA's e-submission system. Current requirements and file format specifications are published at pmda.go.jp/english/review-services/submission/form-submission/ (English overview) and the Japanese guidance at pmda.go.jp/review/mreview (Japanese details).

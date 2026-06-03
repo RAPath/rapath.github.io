@@ -25,4 +25,4 @@ HSA published an updated **Quick Guide to Medical Device Registration and Licens
 
 ---
 
-*This page is updated periodically. For the most current regulatory news, always refer directly to HSA's official announcements.*
+*This page is updated periodically on a best-efforts basis. For the most current and authoritative regulatory news, always refer directly to HSA's official announcements at hsa.gov.sg/announcements or subscribe to HSA's e-newsletter for real-time updates.*

@@ -16,7 +16,7 @@ keywords: [declaration of conformity, DoC, MedDO Annex IV, CH REP, Switzerland]
 8. Signature of authorised signatory
 
 ## CH REP Role
-The DoC is issued and signed by the manufacturer. The CH REP does not sign the DoC but maintains a copy and makes it available to Swissmedic on request. The CH REP is identified as the authorised Swiss contact in the DAPI registration.
+The Declaration of Conformity is issued and signed by an authorised signatory of the manufacturer (typically the responsible person for regulatory compliance). Where a Swiss representative (CH REP) is appointed, the CH REP does not sign the Declaration of Conformity but must maintain a copy and make it available to Swissmedic on request without delay. The CH REP is identified as the authorised Swiss contact in the DAPI registration.
 
 ## Retention
 - **10 years** from last device placed on market (general devices)

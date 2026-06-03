@@ -13,7 +13,7 @@ Manufacturers targeting multiple major markets face the challenge of meeting dif
 
 ## Common data package approach
 
-Many regulatory submissions across major markets require similar technical data. A **common technical file** can be tailored for each jurisdiction:
+Many regulatory submissions across major markets require similar technical data. A common technical file can be tailored for each jurisdiction:
 
 | Data element | FDA 510(k)/PMA | EU MDR | TGA | Health Canada | HSA |
 |---|---|---|---|---|---|
@@ -30,27 +30,23 @@ Many regulatory submissions across major markets require similar technical data.
 ## Strategic sequencing options
 
 ### FDA-first strategy
-**Advantages:**
+Advantages:
 - FDA clearance/PMA is accepted as reference in Singapore (abridged route) and Australia (comparable overseas regulator)
 - US clinical data collected under IDE is often usable for other markets
 - FDA's rigorous review provides commercial credibility globally
 
-**Disadvantages:**
+Disadvantages:
 - FDA review timelines can be longer than EU Notified Body for some device types
 - FDA clinical data requirements may differ from EU/other expectations
 
-### CE-first strategy
-**Advantages:**
-- CE marking often faster for Class IIa/IIb devices
-- EU clinical evaluation framework is comprehensive and accepted as basis for other submissions
-- EU MDR compliance demonstrates high standard of technical documentation
+CE-first strategy — Advantages: CE marking review timelines by Notified Bodies are often shorter than FDA review for Class IIa/IIb devices, typically 3-6 months versus 6-12 months or longer for FDA
 
-**Disadvantages:**
-- CE marking is **not** accepted by FDA — separate US submission required
+Disadvantages:
+- CE marking is not accepted by FDA — separate US submission required
 - EU MDR requirements (mandatory clinical data, PMCF) are increasingly burdensome
 
 ### Parallel strategy
-For most manufacturers targeting 3+ markets, **parallel submissions** (filing in multiple jurisdictions simultaneously) is optimal:
+For most manufacturers targeting 3+ markets, parallel submissions (filing in multiple jurisdictions simultaneously) is optimal:
 - Prepare a common technical file
 - Tailor the covering document and format for each jurisdiction
 - Manage responses to regulatory questions across markets simultaneously
@@ -64,7 +60,7 @@ For most manufacturers targeting 3+ markets, **parallel submissions** (filing in
 | Australia (TGA) | Comparable overseas regulator pathway — can submit an abbreviated application relying on FDA decision |
 | Singapore (HSA) | Abridged route — accepts FDA 510(k) or PMA as primary reference |
 | Canada (Health Canada) | Reference device concept for Class II (limited) |
-| EU | **No reliance on FDA** — full MDR/IVDR conformity required independently |
+| EU | No reliance on FDA — full MDR/IVDR conformity required independently |
 
 ---
 

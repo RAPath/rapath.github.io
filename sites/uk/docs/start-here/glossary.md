@@ -246,3 +246,8 @@ The political agreement between the United Kingdom and the European Union (March
 | ISO 13485:2016 | QMS definitions |
 | ISO 14971:2019 | Risk management definitions |
 | MHRA: Regulating medical devices in the UK | Key terms in context |
+
+The glossary entry starting with 'Desig' should be completed. Based on context, this likely refers to 'Design dossier':
+
+Design dossier
+A defined subset of the technical file submitted to a UK Approved Body for examination, required for Class III, AIMD, and IVD List A devices. The design dossier focuses on device design, risk management, and clinical evaluation. It is component of — not a replacement for — the full technical file. See Technical file vs design dossier for distinction.

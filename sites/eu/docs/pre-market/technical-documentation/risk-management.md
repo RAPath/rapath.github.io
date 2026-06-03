@@ -219,3 +219,5 @@ The risk management file is typically structured as:
 | ISO/TR 24971:2020 | Guidance on application of ISO 14971 |
 | MDR Annex II, Section 5 | Risk management in technical documentation |
 | MDCG 2020-6 | Technical documentation templates |
+
+Complete the risk controls section with: '1. Design changes: modify the design to eliminate or reduce hazards 2. Protective measures: engineering controls that protect the patient/user if hazard cannot be eliminated by design 3. Information for users: warnings, instructions, training, supervision — only when design and protective measures are insufficient 4. Post-production surveillance: monitoring of devices in use to detect unforeseen hazards Each risk must be addressed using the highest applicable priority before moving to the next level. Documentation must justify why a lower priority was chosen if applicable.'

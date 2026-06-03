@@ -36,7 +36,7 @@ SME discounts apply — check the guidance for eligibility criteria.
 | UKAB initial certification — Class III (QMS + design dossier) | 6–18 months from application |
 | MHRA export certificate | 2–4 weeks |
 
-UKAB timelines in particular are subject to significant variation based on device complexity, technical file completeness, and UKAB capacity. Always request indicative timelines from your UKAB at first contact.
+UKAB timelines vary significantly based on device complexity, technical file completeness, UKAB capacity, and workload. Always request indicative timelines and expected milestones from your chosen UKAB at first contact, and allow additional time for clarification requests or technical queries.
 
 ---
 
@@ -59,3 +59,5 @@ UKAB timelines in particular are subject to significant variation based on devic
 |---|---|
 | [MHRA: Register as a manufacturer](https://www.gov.uk/guidance/register-as-a-manufacturer-to-sell-medical-devices) | Registration fees and guidance |
 | [MHRA Submissions portal](https://submissions.mhra.gov.uk/) | All forms and submissions |
+
+SME fee reductions: MHRA offers fee reductions for micro, small and medium-sized enterprises (SMEs) on device registration and some pre-submission services. Eligibility is based on employee headcount and turnover thresholds. Verify current eligibility criteria and discount percentages on gov.uk.

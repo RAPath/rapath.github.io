@@ -57,3 +57,13 @@ It is possible to receive two or more rounds of clarification queries before a f
 - Providing complete, well-structured responses with clear references to the dossier
 - Submitting revised documents in the correct Regalkes format
 - Proactively addressing adjacent questions the evaluator may have
+
+Response Timelines and Deadlines
+
+Clarification responses are typically due within 30 days of the query being issued through Regalkes, though this may be extended to 60 days for complex technical queries or by mutual agreement. Failing to respond within the assigned window can result in:
+
+- The query being re-issued with a shortened timeline
+- The application being suspended
+- In some cases, the application being returned and requiring full re-submission
+
+Always confirm the exact deadline in the Regalkes portal notification, as it may vary by device complexity or evaluator assessment.

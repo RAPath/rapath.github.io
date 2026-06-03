@@ -57,3 +57,19 @@ Changing MRH is a formal COFEPRIS transfer process. The registration remains wit
 - [Appointing an MRH](appointing-mrh)
 - [Changing or transferring your MRH](changing-mrh)
 - [Who needs to comply?](../getting-started/who-needs-to-comply)
+
+## The independent firm vs distributor dilemma
+
+Technical dossier ownership & retention
+​
+A critical issue when transitioning MRH: Who owns the technical dossier?
+
+The manufacturer remains the source of truth — the original technical documentation (quality system records, clinical data, design files) remains the intellectual property of the foreign manufacturer.
+The MRH holds a copy for regulatory purposes — The MRH maintains a copy of the technical dossier submitted to COFEPRIS and uses it to support registration maintenance, renewals, and regulatory inquiries.
+Upon exit, the old MRH must transfer all copies of the regulatory dossier to the new MRH — This is a contractual and regulatory obligation. Failure to do so can block the transfer process and delay market access.
+Contractual protection:
+
+Your MRH agreement should explicitly state that the technical dossier is held in trust for the manufacturer and must be surrendered upon termination without claim of ownership.
+Specify format (electronic or hardcopy), completeness requirements, and a defined transfer timeline (e.g., within 5 business days of termination notice).
+Include a escrow or third-party holding arrangement if you anticipate a contentious relationship.
+Disputes over dossier ownership — If the outgoing MRH refuses to transfer the dossier, COFEPRIS can become involved, but this significantly delays the MRH transfer process. Protect yourself contractually from the outset.

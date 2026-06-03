@@ -22,7 +22,7 @@ The following application types are currently subject to mandatory audit:
 
 **IVD medical devices:**
 - Class 4 IVD applications
-- Class 3 IVD applications (most cases)
+- Class 3 IVD applications (in most cases, subject to mandatory audit with limited exceptions for EU IVDR certificates)
 - Point-of-care IVD applications
 - Self-test IVD applications
 - Class 4 in-house IVD applications
@@ -87,3 +87,11 @@ To reduce the likelihood of audit delays:
 - [Overview & Process](./overview.md)
 - [By Device Class](./by-device-class.md)
 - [Comparable Overseas Regulators](../conformity-assessment/comparable-overseas-regulators.md)
+
+The complete 'Official Sources' section should read:
+
+Official Sources
+​
+Application audit selection criteria — TGA
+How to prepare for an application audit — TGA
+Regulation 5.3 — MD Regulations 2002

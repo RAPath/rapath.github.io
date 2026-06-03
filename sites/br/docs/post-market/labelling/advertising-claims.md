@@ -19,7 +19,7 @@ Advertising of medical devices in Brazil is regulated by ANVISA and, for devices
 - Testimonials from healthcare professionals in advertising require disclosure of any commercial relationship.
 - Before-and-after images in advertising are prohibited unless supported by clinical data from the device's registration dossier.
 
-ANVISA may take enforcement action against advertising that misleads consumers or promotes devices for indications not covered by the ANVISA registration.
+ANVISA routinely monitors advertising and takes enforcement action (including warning letters, fines, and suspension of marketing authorisation) against advertising that misleads consumers, makes false claims, or promotes devices for indications not covered by the device's ANVISA registration. Professional councils (CFM, CFO, CFF) may also sanction healthcare professionals for non-compliant advertising of medical devices.
 
 ---
 

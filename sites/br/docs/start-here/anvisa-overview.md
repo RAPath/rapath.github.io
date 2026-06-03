@@ -37,3 +37,5 @@ ANVISA is governed by a Collegiate Board (*Diretoria Colegiada*) — five direct
 ## Official resources
 
 - [ANVISA official website](https://www.gov.br/anvisa)
+
+ANVISA also coordinates with technical committees and working groups that develop guidance documents and harmonise Brazilian requirements with international standards. Industry members through associations like ABIMO can participate in public consultations on draft regulations and technical guidance documents, published on the ANVISA website.

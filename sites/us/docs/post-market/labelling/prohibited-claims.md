@@ -42,3 +42,5 @@ Making a promotional claim for a **new use** not covered by the existing clearan
 ## Official resources
 - [FDA — Misbranding](https://www.fda.gov/medical-devices/regulatory-controls/misbranding)
 - [FD&C Act § 502 — Misbranded devices](https://www.law.cornell.edu/uscode/text/21/352)
+
+A promotional claim for a use not previously cleared or approved creates a new 'intended use' under FDA's definition (21 CFR § 860.3). Example: if a 510(k)-cleared wound dressing is promoted for 'diabetic foot ulcers' but was only cleared for 'minor cuts and abrasions,' this new indication requires submission of a new 510(k) or PMA before the claim can be made. Manufacturers should consult FDA's Determining Whether a Product is a Medical Device guidance to assess whether promotional language triggers new intended use.

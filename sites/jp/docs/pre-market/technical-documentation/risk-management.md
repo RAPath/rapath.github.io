@@ -9,7 +9,7 @@ sidebar_position: 3
 
 ISO 14971 (Application of risk management to medical devices) is a recognised standard in Japan. PMDA expects applicants to conduct and document risk management in accordance with ISO 14971. The QMS Ordinance (MO 169) also incorporates risk management requirements that align with ISO 14971.
 
-Japan adopted ISO 14971:2019 as the current recognised standard. Previous versions (ISO 14971:2007 with EN modifications) were used for applications submitted before the transition deadline.
+Japan recognises ISO 14971:2019 as the current standard. However, ISO 14971:2007 applications already accepted by PMDA may continue under the older standard. New applications should use ISO 14971:2019; check PMDA's latest guidance for any transition requirements.
 
 ## How risk management integrates with Essential Principles
 

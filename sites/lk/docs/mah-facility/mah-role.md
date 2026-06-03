@@ -45,7 +45,7 @@ Common MAH arrangements:
 
 ## MAH vs Importer
 
-The MAH holds the regulatory approvals. The actual physical importation and distribution may be handled by the MAH directly or by appointed importers and distributors. The MAH retains regulatory accountability regardless of who handles logistics.
+The MAH holds the regulatory approvals and retains full regulatory accountability regardless of who handles physical importation, distribution, or logistics. The MAH may appoint third-party importers and distributors to manage supply chain activities, but this does not transfer the MAH's obligations to the NMRA.
 
 ## Selecting an MAH
 
@@ -74,3 +74,5 @@ The NMRA publishes a **USD-denominated fee schedule** for annual registration ma
 - Pay in Sri Lankan Rupees at the converted amount
 
 Confirm the current fee schedule and payment process with the NMRA before making any payment.
+
+After 'Who Can Be an MAH?' heading, add: 'The MAH may be either a registered company or a sole proprietor/natural person, provided the entity or individual is legally registered in Sri Lanka and meets the capacity requirements.'

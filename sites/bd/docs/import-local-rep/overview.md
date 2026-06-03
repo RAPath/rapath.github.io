@@ -6,11 +6,11 @@ description: DGDA import licensing, Authorized Representative requirements, manu
 
 # Import Licensing & Local Representation
 
-> *DGDA · Mandatory local entity · BD-Unique licensing framework*
+> DGDA · Mandatory local entity · BD-Unique licensing framework
 
 ## The Mandatory Local Entity Requirement — BD-Unique
 
-**All DGDA medical device registrations must be held by a Bangladesh-registered entity.** Foreign manufacturers cannot register directly. This local entity — the **Authorized Representative (AR)** — is not optional; it is a fundamental structural requirement of the Bangladesh regulatory framework.
+All DGDA medical device registrations must be held by a Bangladesh-registered entity. Foreign manufacturers cannot register directly. This local entity — the Authorized Representative (AR) — is not optional; it is a fundamental structural requirement of the Bangladesh regulatory framework.
 
 ### Who Can Be an AR?
 
@@ -26,12 +26,20 @@ Common AR arrangements:
 
 ### AR vs Importer — The Distinction
 
-| Role | Function |
-|------|---------|
-| **AR** | Holds the DGDA registration licence; corresponds with DGDA; responsible for regulatory compliance |
-| **Importer** | Physically imports the goods and holds the DGDA import licence; handles customs clearance |
+AR vs Importer — The Distinction
 
-These can be the **same entity or different entities**. A manufacturer may appoint one AR (who holds the registration) and multiple importers/distributors (who handle logistics and distribution). The AR retains regulatory accountability regardless of the physical distribution arrangements.
+Role | Function
+--- | ---
+AR | Holds the DGDA registration licence; submits the registration application; corresponds with DGDA on all regulatory matters; responsible for regulatory compliance and post-market vigilance
+Importer | Holds a separate DGDA import licence; physically imports goods; handles customs clearance; must be authorised by the AR
+
+These can be the same entity or different entities:
+- **Single entity model**: The AR is also the importer (most common, especially for distributors appointed as AR)
+- **Separate entity model**: The AR holds the registration but delegates importation to one or more licensed importers
+
+In either case, the AR retains regulatory accountability to the DGDA regardless of physical distribution arrangements. Importers must always operate under the authority of a registered AR.
+
+These can be the same entity or different entities. A manufacturer may appoint one AR (who holds the registration) and multiple importers/distributors (who handle logistics and distribution). The AR retains regulatory accountability regardless of the physical distribution arrangements.
 
 ### AR Obligations Summary
 
@@ -44,7 +52,7 @@ These can be the **same entity or different entities**. A manufacturer may appoi
 
 ## DGDA Import Licence — BD-Unique
 
-To **commercially import** registered Class B/C/D medical devices into Bangladesh, the relevant entity must hold a DGDA **import licence**.
+To commercially import registered Class B/C/D medical devices into Bangladesh, the relevant entity must hold a DGDA import licence.
 
 ### Import Licence Application
 
@@ -67,14 +75,14 @@ The DGDA maintains oversight of what may be imported. Devices not registered (Cl
 
 ## Manufacturing Licence — For Local Manufacturers
 
-Bangladesh-based manufacturers of Class B/C/D medical devices must obtain a DGDA **manufacturing licence** covering their production facility.
+Bangladesh-based manufacturers of Class B/C/D medical devices must obtain a DGDA manufacturing licence covering their production facility.
 
 ### Manufacturing Licence Process
 
-1. **GMP inspection** — DGDA inspectors assess the facility against GMP requirements
-2. **Documentation review** — quality manual, SOPs, batch records systems
-3. **Licence issuance** — once GMP compliance is confirmed, the manufacturing licence is issued
-4. **Periodic renewal** — licences are subject to renewal and may require re-inspection
+1. GMP inspection — DGDA inspectors assess the facility against GMP requirements
+2. Documentation review — quality manual, SOPs, batch records systems
+3. Licence issuance — once GMP compliance is confirmed, the manufacturing licence is issued
+4. Periodic renewal — licences are subject to renewal and may require re-inspection
 
 ### GMP Standards
 
@@ -104,11 +112,11 @@ The DGDA conducts market surveillance to ensure devices on the Bangladesh market
 
 | Action | DGDA Authority |
 |--------|---------------|
-| **Inspections** | DGDA may inspect establishments, warehouses, and facilities |
-| **Seizure** | Non-compliant, unregistered, or substandard devices may be seized |
-| **Condemnation** | Seized devices may be condemned and destroyed |
-| **Licence suspension/cancellation** | DGDA may suspend or cancel import/manufacturing licences |
-| **Drug Court prosecution** | Serious violations prosecuted in Drug Courts — fines and imprisonment |
+| Inspections | DGDA may inspect establishments, warehouses, and facilities |
+| Seizure | Non-compliant, unregistered, or substandard devices may be seized |
+| Condemnation | Seized devices may be condemned and destroyed |
+| Licence suspension/cancellation | DGDA may suspend or cancel import/manufacturing licences |
+| Drug Court prosecution | Serious violations prosecuted in Drug Courts — fines and imprisonment |
 
 ### Priority Enforcement Areas
 
@@ -116,3 +124,12 @@ The DGDA conducts market surveillance to ensure devices on the Bangladesh market
 - Devices with misleading or non-compliant labelling
 - Importation without a valid import licence
 - Counterfeit or substandard devices entering the supply chain
+
+Free Sale Certificate (FSC)
+
+Confirms that a specific medical device is legally marketed in Bangladesh. This certificate is commonly required by importing countries when Bangladesh-manufactured devices are exported. Apply to the DGDA with:
+- DGDA registration documentation (proof of valid registration)
+- Device specifications and labelling samples
+- Certificate request form available from DGDA
+
+Processing typically takes 10–15 working days. The FSC is valid for one year from issue and must be renewed if needed for continued exports.

@@ -8,7 +8,7 @@ description: Detailed requirements for technical documentation submitted as part
 
 ## Overview
 
-The **technical file (technical documentation)** is the compilation of documents demonstrating that a medical device meets the Essential Principles of Safety and Performance. For Class B, C, and D devices, a technical file must be prepared and submitted (or referenced) as part of the MDA registration dossier.
+The technical file (technical documentation) is the compilation of documents demonstrating that a medical device meets the Essential Principles of Safety and Performance. For Class B, C, and D devices, a technical file must be prepared and submitted (or referenced) as part of the MDA registration dossier.
 
 The depth and comprehensiveness of the technical file increases with device class.
 
@@ -59,17 +59,21 @@ For each standard listed in the Essential Principles checklist:
 
 ### 6. Risk Management
 
-Based on **ISO 14971:2019** — Application of risk management to medical devices:
+Based on ISO 14971:2019 — Application of risk management to medical devices:
 
-| Class | Requirement |
-|-------|-------------|
-| Class B | Risk management summary (plan, identified hazards, risk evaluation, control measures, residual risk assessment) |
-| Class C | Full risk management file |
-| Class D | Full risk management file + risk management report |
+Risk Management
+​
+Based on ISO 14971:2019 — Application of risk management to medical devices:
+
+Class B: Risk management summary including plan, identified hazards, risk evaluation, control measures, and residual risk assessment (not a full file, but comprehensive summary)
+
+Class C: Full risk management file with documented management of all identified risks and control measures
+
+Class D: Full risk management file plus risk management report summarising overall safety and control strategy
 
 ### 7. Biocompatibility (where applicable)
 
-Based on **ISO 10993 series** — Biological evaluation of medical devices:
+Based on ISO 10993 series — Biological evaluation of medical devices:
 
 - Biocompatibility evaluation plan
 - Material characterisation
@@ -78,13 +82,13 @@ Based on **ISO 10993 series** — Biological evaluation of medical devices:
 
 ### 8. Electrical Safety and EMC (active devices)
 
-- Based on **IEC 60601-1** (general safety) and relevant particular standards
-- **IEC 60601-1-2** (EMC)
+- Based on IEC 60601-1 (general safety) and relevant particular standards
+- IEC 60601-1-2 (EMC)
 - Test reports from accredited laboratories
 
 ### 9. Software (if applicable)
 
-Based on **IEC 62304** — Medical device software lifecycle processes:
+Based on IEC 62304 — Medical device software lifecycle processes:
 - Software safety classification (Class A, B, or C)
 - Software development lifecycle documentation summary
 - Verification and validation summary
@@ -114,12 +118,12 @@ Based on **IEC 62304** — Medical device software lifecycle processes:
 
 ## Keeping the Technical File Current
 
-The technical file must be **kept current** throughout the device's lifetime. Updates required when:
+The technical file must be kept current throughout the device's lifetime. Updates required when:
 - Design or manufacturing changes occur
 - New clinical or safety data emerges
 - Post-market surveillance triggers a review
 - Registration renewal is due
 
-:::note Document Control
+:::note Document Control: Maintain strict document version control and archival throughout the device lifecycle. All versions of technical files, standards compliance evidence, test reports, and design documentation must be retained for the duration of device registration plus 10 years post-discontinuation (or as required by applicable regulations). MDA may request historical versions during inspections or post-market assessments.
 Maintain strict document version control on all technical file documents. MDA reviewers may query document dates and versions. Undated or un-versioned documents are a common deficiency.
 :::

@@ -18,7 +18,7 @@ IVD classification in Japan is based on the potential harm caused by a wrong tes
 | Class III | Clinical chemistry analysers, certain haematology systems |
 | Class IV | HIV test kits, HTLV-I/II, HBsAg, HCV — blood screening assays; syphilis tests |
 
-Class IV IVDs are exclusively those used for blood safety screening and sexually transmitted infection diagnosis — the potential for widespread harm from false negatives justifies the highest regulatory requirement.
+Class IV IVDs are exclusively those used for blood safety screening and (including blood transfusion compatibility testing screening for HIV, HTLV-I/II, HBsAg, HCV, syphilis, and other transfusion-relevant pathogens). The in blood screening — affecting multiple recipients — potential for widespread harm from false negatives justifies the highest regulatory requirement.
 
 ## IVD-specific JMDN categories
 
@@ -34,3 +34,5 @@ IVDs have their own set of JMDN codes distinct from therapeutic medical devices.
 ## Performance evaluation requirements
 
 IVDs require **performance evaluation** (analytical and clinical performance studies) as the core technical evidence. See [Performance Evaluation (IVD)](/docs/pre-market/clinical-evidence/performance-evaluation-ivd) for the specific requirements.
+
+This includes both false positives (incorrect positive results leading to unnecessary treatment) and false negatives (missed disease diagnosis), with particular weight given to conditions with high morbidity/mortality if missed.

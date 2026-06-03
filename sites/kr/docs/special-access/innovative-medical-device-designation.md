@@ -9,7 +9,7 @@ The **Innovative Medical Device Designation (혁신의료기기)** program allow
 ## Eligibility criteria
 
 A device may qualify as an innovative medical device if it:
-- Uses **novel technology** (e.g., AI/ML, novel biomaterials, novel mechanisms of action)
+- Uses **novel technology** (e.g., AI/ML, novel biomaterials, novel mechanisms of or approach not previously approved in Korea action, or novel manufacturing processes)
 - Has the potential to **significantly improve treatment outcomes** compared to existing treatments
 - Addresses an **unmet clinical need** in Korea
 
@@ -29,3 +29,10 @@ Submit a **Innovative Medical Device Designation Application** via the MFDS eSub
 
 ## Related pages
 - [Conditional marketing authorization](./conditional-marketing-authorization) · [Fast-track review program](./fast-track-review-program)
+
+Designation decision and appeal
+​
+MFDS typically decides on the innovative medical device designation application within 30 days of submission. If denied, the applicant may:
+— Request written rationale for denial
+— Resubmit with additional evidence of innovation
+— Proceed with standard 품목허가 pathway without the priority review benefits

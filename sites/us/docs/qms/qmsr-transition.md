@@ -9,7 +9,7 @@ keywords: [QMSR transition, QSR to QMSR, ISO 13485 QMSR, 21 CFR Part 820 update,
 
 ## Effective date
 
-The QMSR final rule became effective **February 2, 2026**. Manufacturers were expected to be in full compliance with the updated 21 CFR Part 820 by this date.
+The QMSR final rule was published February 4, 2024, with an date of effective **February 2, 2026**. Manufacturers were expected to be in full compliance with the updated 21 CFR Part 820 by this date.
 
 ## What changed
 
@@ -45,3 +45,5 @@ For manufacturers without ISO 13485 certification:
 ## Official resources
 - [FDA — QMSR Final Rule](https://www.fda.gov/media/174379/download)
 - [ISO 13485:2016](https://www.iso.org/standard/59752.html)
+
+Note: As of [current date], the QMSR transition to February 2, 2026 remains the compliance deadline. Manufacturers should ensure full compliance by this date. For updates on implementation delays or extensions, check FDA.gov.

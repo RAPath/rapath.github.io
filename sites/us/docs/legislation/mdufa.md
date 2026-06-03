@@ -7,7 +7,7 @@ keywords: [MDUFA, MDUFA VI, device user fees, 510k fees, PMA fees, FDA performan
 
 # Medical Device User Fee Amendments (MDUFA VI)
 
-The **Medical Device User Fee Amendments (MDUFA)** authorise FDA to collect user fees from medical device manufacturers in exchange for commitments to meet defined review performance goals. MDUFA must be reauthorised by Congress every five years.
+The Medical Device User Fee Amendments (MDUFA) authorize FDA to collect user fees from medical device manufacturers in exchange for commitments to meet defined review performance goals. MDUFA must be reauthorized by Congress every five years. MDUFA VI (FY2023–2027) is the current authorization cycle.
 
 ---
 
@@ -19,7 +19,7 @@ The **Medical Device User Fee Amendments (MDUFA)** authorise FDA to collect user
 | MDUFA II | FY2008–2012 | Expanded fee types, increased accountability |
 | MDUFA III (FDASIA) | FY2013–2017 | Enhanced transparency, De Novo fees added |
 | MDUFA IV | FY2018–2022 | SaMD guidance commitments, Q-Sub programme |
-| **MDUFA VI** | **FY2023–2027** | **Current** |
+| MDUFA VI | FY2023–2027 | Current |
 
 ---
 
@@ -51,14 +51,14 @@ Fees are updated annually each October. Check [FDA's user fee website](https://w
 
 ### Small business qualifications
 
-A **small business** for MDUFA purposes has annual gross receipts or sales of ≤ $100 million, including affiliates. Small businesses pay approximately 25% of standard fees for most submission types.
+A small business for MDUFA purposes has annual gross receipts or sales of ≤ $100 million, including affiliates. Small businesses pay approximately 25% of standard fees for most submission types.
 
 ---
 
 ## How MDUFA shapes FDA review
 
 MDUFA created a performance-based accountability system:
-- FDA publishes **quarterly MDUFA performance reports** measuring actual TTD against goals
+- FDA publishes quarterly MDUFA performance reports measuring actual TTD against goals
 - If FDA misses goals, it must explain why in its annual report to Congress
 - The fee agreement is negotiated every five years between FDA, industry (AdvaMed, MITA), and Congress
 
@@ -69,3 +69,5 @@ MDUFA created a performance-based accountability system:
 - [MDUFA VI Commitment Letter](https://www.fda.gov/media/163422/download)
 - [MDUFA Performance Reports](https://www.fda.gov/industry/fda-user-fee-programs/medical-device-user-fee-amendments-mdufa/mdufa-performance-reports)
 - [FDA — User Fee Rates](https://www.fda.gov/industry/fda-user-fee-programs/medical-device-user-fee-amendments-mdufa/fy2026-medical-device-user-fee-rates)
+
+MDUFA V | FY2018–2022 | Q-Sub enhancements, SaMD guidance commitments

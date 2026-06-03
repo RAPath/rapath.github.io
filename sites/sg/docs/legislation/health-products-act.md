@@ -8,14 +8,14 @@ description: An overview of the Health Products Act (Cap. 122D) — Singapore's 
 
 ## Overview
 
-The **Health Products Act (Cap. 122D)** (HPA) is the primary legislation governing the regulation of health products in Singapore, including medical devices. It was first enacted in 2007 (as the Health Products Act 2007) and has been amended several times since.
+The Health Products Act (Cap. 122D) (HPA) is the primary legislation governing the regulation of health products in Singapore, including medical devices. It was first enacted in 2007 (as the Health Products Act 2007) and has been amended several times since.
 
-The HPA establishes:
-- HSA's powers to regulate health products;
-- The scope of regulated products (medical devices, therapeutic products, health supplements, etc.);
-- The licensing and registration frameworks;
-- Offences and penalties for non-compliance;
-- HSA's enforcement powers (inspections, seizure, recall directions).
+The HPA establishes the following key regulatory structure:
+— HSA's powers to regulate health products;
+— The scope of regulated products (medical devices, therapeutic products, health supplements, and other health-related products);
+— The licensing and registration frameworks for dealers and health products;
+— Criminal offences and penalties for non-compliance;
+— HSA's enforcement powers including inspections, seizure, and mandatory product recall directions.
 
 The full text is available at: [sso.agc.gov.sg/Act/HPA2007](https://sso.agc.gov.sg/Act/HPA2007)
 
@@ -23,15 +23,15 @@ The full text is available at: [sso.agc.gov.sg/Act/HPA2007](https://sso.agc.gov.
 
 | Section | Content |
 |---|---|
-| **Section 2** | Definitions — including "medical device," "dealer," "registrant," "manufacturer," "importer," "wholesaler" |
-| **Section 14** | Prohibition on supplying unregistered health products (including medical devices) |
-| **Section 17** | Registration of health products — the basis for HSA's product registration powers |
-| **Part 3** | Licensing of dealers |
-| **Section 40** | Adverse event reporting obligations |
-| **Part 6** | HSA's enforcement powers — inspections, seizure, recall directions |
-| **Part 7** | Offences and penalties |
+| Section 2 | Definitions — including "medical device," "dealer," "registrant," "manufacturer," "importer," "wholesaler" |
+| Section 14 | Prohibition on supplying unregistered health products (including medical devices) |
+| Section 17 | Registration of health products — the basis for HSA's product registration powers |
+| Part 3 | Licensing of dealers |
+| Section 40 | Adverse event reporting obligations |
+| Part 6 | HSA's enforcement powers — inspections, seizure, recall directions |
+| Part 7 | Offences and penalties |
 
-*Always refer to the current consolidated version on Singapore Statutes Online, as section numbers and content may change with amendments.*
+Always refer to the current consolidated version on Singapore Statutes Online, as section numbers and content may change with amendments.
 
 ## Penalties
 

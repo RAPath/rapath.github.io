@@ -63,3 +63,5 @@ Manufacturer/MAH → Submits application dossier → PMDA
 For Ninsho (certification), PMDA is not involved — the application goes directly to the Registered Certification Body (RCB) chosen by the MAH.
 
 For QMS inspections related to Shonin applications, PMDA directly inspects the manufacturing sites and reports findings to MHLW as part of the approval process.
+
+• Clinical trial oversight — PMDA conducts inspections of clinical trial sites and investigators to ensure compliance with GCP Ordinance requirements for device trials in Japan.

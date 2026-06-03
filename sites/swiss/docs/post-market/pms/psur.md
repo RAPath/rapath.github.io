@@ -33,3 +33,7 @@ The **PSUR** is a periodic summary of post-market surveillance findings that mus
 :::warning Disclaimer
 AI-assisted content for navigation only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
 :::
+
+## Content Requirements (MedDO Art. 72)
+
+- Summary of FSCAs implemented during the reporting period — description, number of devices affected, effectiveness of corrective actions taken

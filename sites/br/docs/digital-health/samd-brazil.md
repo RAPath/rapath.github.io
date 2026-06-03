@@ -40,3 +40,7 @@ A SaMD registration dossier under ANVISA must include all standard medical devic
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+Replace the existing first sentence under 'Is your software a medical device in Brazil?' with:
+
+Under RDC 751/2022 and RDC 752/2022 (specific regulation for software as a medical device), software qualifies as a medical device (produto para saúde) in Brazil when it is intended by the manufacturer to be used, alone or in combination, for a medical purpose — diagnosis, prevention, monitoring, prediction, prognosis, treatment or alleviation of disease.

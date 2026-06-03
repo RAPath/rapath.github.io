@@ -5,7 +5,7 @@ description: MedDO (SR 812.213) — the Swiss ordinance governing medical device
 # Medical Device Ordinance (MedDO)
 
 ## Overview
-The **Medical Device Ordinance** (Medizinprodukteverordnung, MedDO / SR 812.213) is the primary Swiss regulation for medical devices. It entered into force on **26 May 2021** and replaced the predecessor MDD-implementing ordinance. MedDO mirrors EU MDR 2017/745 in structure and technical requirements.
+The **Medical Device Ordinance** (Medizinprodukteverordnung, MedDO / SR 812.213) is the primary Swiss regulation for medical devices. It entered into force on **26 May 2021** and replaced the predecessor Medical Devices Directive (MDD)-implementing ordinance. MedDO mirrors EU MDR 2017/745 in structure and technical requirements.
 
 ## MedDO Structure
 
@@ -50,3 +50,15 @@ The **Medical Device Ordinance** (Medizinprodukteverordnung, MedDO / SR 812.213)
 :::warning Disclaimer
 AI-assisted content for navigation only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
 :::
+
+## MedDO Annexes
+
+## Custom-Made Devices
+
+Medical devices manufactured on a one-off basis according to a written prescription of a healthcare professional or patient are classified as custom-made devices. Custom-made devices follow a specific conformity assessment procedure detailed in Annex XIII, which includes:
+- Manufacturer assessment and declaration of compliance with GSPRs (Annex I)
+- Technical documentation specific to the device
+- Quality management system requirements
+- Exemption from conformity assessment body involvement and CE marking (custom-made devices do not bear CE marking but must include specific labelling)
+
+For more detail, consult MedDO Annex XIII and Swissmedic guidance on custom-made devices.

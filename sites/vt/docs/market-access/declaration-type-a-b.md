@@ -69,3 +69,5 @@ Having a valid declaration does not end your regulatory responsibilities. You mu
 - Letter of Authorisation not covering the specific device(s) being declared
 - QMS certificate expired or not yet issued
 :::
+
+Significant changes typically include: changes to device design, materials, or manufacturing method; changes to intended use or clinical indication; changes to sterilisation method (if applicable); changes to the manufacturer or Authorised Representative; or changes to labelling that affect intended use. Minor cosmetic or packaging-only changes may not require an update. When in doubt, consult DAV or your Authorised Representative before market implementation.

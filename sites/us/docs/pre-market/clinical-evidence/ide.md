@@ -33,7 +33,7 @@ The **sponsor and IRB** make the initial determination of SR vs NSR. FDA may dis
 | SR devices | NSR devices |
 |---|---|
 | Implants intended to be used for >30 days | External devices for short-term use |
-| Devices supporting/sustaining life | Devices for non-serious conditions |
+| Devices supporting or sustaining life, or assessing conditions that could lead to serious harm | Devices for non-serious conditions |
 | Devices of substantial importance to health | Low-risk diagnostic devices |
 | Devices presenting serious injury risk | Devices similar to already-cleared predicates |
 
@@ -53,3 +53,5 @@ FDA review goal: **30 days** for IDE application.
 ## Official resources
 - [21 CFR Part 812 — IDE Regulations](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-H/part-812)
 - [FDA — IDE Overview](https://www.fda.gov/medical-devices/how-study-and-market-your-device/investigational-device-exemption-ide)
+
+FDA may grant emergency IDE authorizations for devices treating life-threatening conditions when an approved alternative does not exist. Additionally, 21 CFR § 812.320 provides for compassionate use (emergency use) of investigational devices outside of a formal IDE study under certain conditions.

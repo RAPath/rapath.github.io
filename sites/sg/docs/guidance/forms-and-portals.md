@@ -35,3 +35,5 @@ Search the Singapore Medical Device Register (SMDR) to verify whether a device i
 
 - [HSA: Medical Devices E-services](https://www.hsa.gov.sg/medical-devices/e-services)
 - [HSA: Registration and licensing tools](https://www.hsa.gov.sg/medical-devices/tools)
+
+Replace the 'Link' placeholders with actual URLs: For 'Is it a medical device?' tool: hsa.gov.sg/medical-devices/is-it-a-medical-device; For 'Risk classification tool': hsa.gov.sg/medical-devices/risk-classification-tool; For 'Registration and licensing requirements tool': hsa.gov.sg/medical-devices/registration-licensing-requirements-tool; For 'Medical device grouping tool': hsa.gov.sg/medical-devices/grouping-tool

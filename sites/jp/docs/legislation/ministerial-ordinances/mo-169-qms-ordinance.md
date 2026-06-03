@@ -6,7 +6,7 @@ sidebar_position: 1
 # Ministerial Ordinance 169 — QMS Ordinance
 
 :::note JP-unique
-Ministerial Ordinance 169 is Japan's primary QMS standard for medical device and IVD manufacturers. Its full title is 医療機器及び体外診断用医薬品の製造管理及び品質管理の基準に関する省令 (Standards for Manufacturing Control and Quality Control of Medical Devices and In Vitro Diagnostics). It is legally binding under the PMD Act.
+Ministerial Ordinance 169 is Japan's legally binding QMS standard for all medical device and IVD manufacturers and is the standard applied by PMDA in QMS inspections and approval decisions. Its full title is 医療機器及び体外診断用医薬品の製造管理及び品質管理の基準に関する省令 (Standards for Manufacturing Control and Quality Control of Medical Devices and In Vitro Diagnostics). It is legally binding under the PMD Act.
 :::
 
 ## Full title and citation
@@ -54,3 +54,5 @@ The 2021 revision brought MO 169 into close alignment with ISO 13485:2016 (which
 - Alignment of supplier control requirements with ISO 13485:2016
 
 Manufacturers already compliant with ISO 13485:2016 found the transition to the revised MO 169 relatively straightforward.
+
+Although aligned closely, MO 169 and ISO 13485:2016 are not identical. MO 169 includes Japan-specific requirements (e.g., on post-market surveillance GPSP interfaces and labelling in Japanese) that are not in ISO 13485:2016. Conversely, some ISO 13485:2016 requirements are interpreted more flexibly under PMDA guidance. Facilities certified to ISO 13485:2016 should engage a Japan QMS specialist to confirm MO 169 compliance.

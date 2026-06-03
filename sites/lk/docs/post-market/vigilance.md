@@ -27,7 +27,7 @@ Report potentially reportable events (where classification is uncertain) to the 
 
 ## Reporting Process
 
-1. MAH becomes aware of adverse event (through user complaint, clinical report, or other means)
+1. MAH becomes aware of adverse event — through user complaint, clinical report, published literature, inspection findings, post-market surveillance data, or other means
 2. MAH initiates investigation (in conjunction with manufacturer)
 3. MAH files **preliminary report** to NMRA within the applicable timeframe
 4. MAH completes investigation — root cause analysis, corrective actions

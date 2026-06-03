@@ -29,3 +29,14 @@ MFDS may allow a transition period for existing stock. Check the relevant MFDS n
 
 ## Related pages
 - [UDI-K overview](./udi-k-overview) · [UDI notification](../../legislation/mfds-notifications/udi-notification)
+
+## Enforcement and Penalties
+
+Failure to comply with UDI-K requirements by the applicable deadline may result in:
+
+- MFDS issuing a warning notice (경고)
+- Suspension of product sales authorization (판매 중지)
+- Administrative fines or penalties
+- Removal from KIMS database
+
+Manufacturers and importers should plan compliance activities well in advance of the deadline to avoid disruption to supply chains.

@@ -89,7 +89,7 @@ Adverse events involving devices accessed under SAS must still be reported to th
 
 ---
 
-## Official Sources
+## 👉 Special Access Scheme — TGA\n👉 SAS Category B application — TGA\n👉 SAS Category C authorised supply — TGA\n👉 Part 3-2 — Therapeutic Goods Act 1989\n👉 Therapeutic Goods Regulations 1990
 
 - [Special Access Scheme — TGA](https://www.tga.gov.au/products/medical-devices/accessing-unapproved-medical-devices/special-access-scheme)
 - [Part 3-2 — Therapeutic Goods Act 1989](https://www.legislation.gov.au/current/C2004A03952)

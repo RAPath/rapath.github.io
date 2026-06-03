@@ -26,3 +26,7 @@ MFDS assigns a report number, may request additional information, assesses wheth
 
 ## Related pages
 - [Reporting timeframes](./reporting-timeframes) · [What must be reported](./what-must-be-reported)
+
+"Language
+
+Reports must be submitted in Korean. Foreign manufacturers should coordinate with their Korean importer/agent to ensure proper translation and submission."

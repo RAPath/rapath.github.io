@@ -25,7 +25,7 @@ Using the TGA's eBS portal, prepare the application including:
 - Manufacturer details
 - Classification and conformity assessment evidence references
 - Labelling information
-- Device nomenclature codes (GMDN or equivalent)
+- Device nomenclature codes (Global Medical Device Nomenclature [GMDN] code or equivalent classification code matching the device's intended use)
 - Application fee payment
 
 **Step 4 — Submit the application**

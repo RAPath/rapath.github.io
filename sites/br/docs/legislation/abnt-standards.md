@@ -30,3 +30,5 @@ ANVISA recognises ABNT standards as means of demonstrating compliance with the E
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+Verify and add note after the table: 'Note: ABNT standards are typically published within 2–3 years of their ISO equivalents. Manufacturers should confirm the current ABNT version year with ANVISA before submission, as newer editions may be preferred for compliance demonstration.'

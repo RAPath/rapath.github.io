@@ -8,7 +8,7 @@ tags: [international]
 
 # IMDRF Alignment
 
-*This page provides a plain English comparison of imdrf alignment from the perspective of China's NMPA regulatory framework. Full content to be completed during editorial review.*
+*This page examines how China's NMPA regulatory framework aligns with IMDRF (International Medical Device Regulators Forum) standards and harmonization initiatives. Detailed alignment analysis is being developed.*
 
 ---
 

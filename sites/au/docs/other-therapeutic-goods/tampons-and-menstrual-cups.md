@@ -98,3 +98,16 @@ All labelling must be in English. Products with labelling only in other language
 - [Class IIa](/docs/pre-market/classification/class-i-iia-iib-iii-aimd)
 - [Essential Principles — EP 7 and EP 8](/docs/pre-market/essential-principles/ep-7-15-design-and-construction)
 - [Disinfectants and Sterilants](./disinfectants-and-sterilants.md)
+
+Online platforms — the responsibility to verify ARTG inclusion sits with retailers and sellers. Marketplaces that knowingly permit sales of unapproved tampons or menstrual cups may face TGA enforcement action. Products sold via Amazon, eBay, Etsy, or direct-to-consumer websites must have valid ARTG entries.
+
+What Constitutes "Supply"
+
+Under the Therapeutic Goods Act, "supply" includes:
+
+Selling (retail or online)
+Distribution or delivery
+Advertising for supply
+Gifting or providing free samples in a promotional context
+
+If a tampon or menstrual cup product is supplied in any of these ways in Australia without ARTG inclusion, the sponsor and any intermediaries may be in breach of the Act.

@@ -151,3 +151,5 @@ PMCF investigations are commonly used to:
 | EN ISO 14155:2020 | GCP for medical device clinical investigations |
 | MDCG 2021-8 | Clinical investigation application guidance |
 | MDCG 2020-10/2 | Serious adverse event reporting in clinical investigations |
+
+The clinical investigation report section should be completed with: 'Adverse events and device deficiencies documented and assessed — Device-related vs. disease-related events distinguished — Causality assessment using WHO-UMC criteria — Serious adverse event summary and assessment — Conclusions and limitations — Opinion on whether the investigation objectives were met and the device performed as intended.'

@@ -17,7 +17,7 @@ ANVISA and state VISA bodies have broad enforcement powers under Lei 6.437/1977 
 | Multa (fine) | Financial penalty, calculated based on the severity of the infraction and company revenue |
 | Interdição de produto (product interdiction) | Seizure of specific batches or products pending investigation |
 | Interdição de estabelecimento (establishment closure) | Temporary closure of the manufacturing or distribution site |
-| Cancelamento de AFE | Revocation of the company's operating authorisation |
+| The proper term is 'Cancelamento da Autorização de Funcionamento' or 'Interdição de estabelecimento' — 'AFE' is not standard regulatory terminology. The page already lists 'Interdição de estabelecimento' separately, so this row may be redundant or should clarify the distinction between temporary closure (interdição) and permanent revocation of operating authorization. | Revocation of the company's operating authorisation |
 | Cancelamento de Registro | Revocation of the product's marketing authorisation |
 | Criminal liability | In cases of serious harm or fraud — referral to public prosecutors |
 

@@ -16,8 +16,7 @@ When fully operational, MRA Chapter 4 allows:
 
 ## Current Operational Status
 
-:::caution MRA-sensitive content
-The operational status of the CH–EU MRA Chapter 4 is subject to change depending on the broader state of CH–EU bilateral agreements. Always verify the current status directly with Swissmedic or the Swiss State Secretariat for Economic Affairs (SECO) before planning a Swiss market access strategy.
+:::caution Important: The operational status of the CH–EU MRA Chapter 4 is subject to change and depends on the broader CH–EU bilateral relations framework. Before planning any Swiss market access strategy, always verify the current MRA Chapter 4 operational status directly with Swissmedic or the Swiss State Secretariat for Economic Affairs (SECO).
 :::
 
 The MRA Chapter 4 has had a complex history tied to the broader CH–EU bilateral relations framework. The practical impact on medical device market access varies depending on the current agreement status:
@@ -49,3 +48,13 @@ The MRA affects primarily the **extent of DAPI registration requirements** and *
 :::warning Disclaimer
 AI-assisted content for navigation only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
 :::
+
+## What the MRA Covers
+
+## DAPI (Device Application Process Information)
+
+DAPI is Swissmedic's registration and notification system for medical devices and IVDs. The extent to which manufacturers must use the DAPI system depends on MRA Chapter 4 operational status:
+- **DAPI notification** (simplified): When MRA Chapter 4 is fully operational, manufacturers of CE-marked devices typically submit a notification via DAPI rather than a full registration dossier.
+- **DAPI registration** (full): When MRA Chapter 4 is not fully operational or for non-CE-marked devices, a complete registration including technical documentation and conformity assessment evidence is required.
+
+Both processes require appointment of a Swiss Authorised Representative (CH REP) and payment of registration fees.

@@ -51,3 +51,5 @@ A third-party service company that only restores devices to original specificati
 ## Official resources
 - [21 CFR § 820.200 — Servicing](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-H/part-820)
 - [FDA — Remanufacturing of Medical Devices (Guidance)](https://www.fda.gov/media/72875/download)
+
+Third-party service companies performing servicing on behalf of the manufacturer (e.g., under contract) must comply with QMSR servicing requirements. The manufacturer remains responsible for ensuring service records are documented and evaluated for MDR reportability. A service agreement should clearly define roles and responsibilities for compliance.

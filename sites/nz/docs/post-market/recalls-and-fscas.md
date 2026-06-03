@@ -44,7 +44,7 @@ Contact Medsafe at devices@health.govt.nz or by phone for urgent situations.
 
 ## Field Safety Notices (FSNs)
 
-A **Field Safety Notice (FSN)** is the communication sent to customers, hospitals, and distributors informing them of the FSCA and what they need to do. An FSN should be:
+A **Field Safety Notice (FSN)** is the communication sent to customers, hospitals, and distributors informing them of the FSCA and what they formal written all affected clinics, specifying actions must take. An FSN should be:
 
 - Written in clear, plain language
 - Sent to all affected customers using the Sponsor's distribution records

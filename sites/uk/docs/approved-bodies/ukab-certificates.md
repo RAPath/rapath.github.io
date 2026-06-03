@@ -65,3 +65,4 @@ When a device requires UKAB assessment, the UKAB's identification number must ap
 | UK MDR 2002, Schedule 3 | Certificate requirements |
 | MHRA: UK Approved Bodies | UKAB certificate oversight |
 
+If MHRA withdraws a UKAB's designation, the UKAB can no longer issue new certificates or conduct surveillance audits. Devices bearing UKCA marks issued by that UKAB may remain on the market under their existing certificate, but the manufacturer must arrange for surveillance audits to be conducted by another designated UKAB or seek certificate revalidation. Consult MHRA if your UKAB's designation is withdrawn.

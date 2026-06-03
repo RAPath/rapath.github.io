@@ -18,7 +18,7 @@ UDI data must be submitted to the SFDA via the **GHAD portal**. Required data fi
 - Labelling information (sterile, measuring, single-use, implantable flags)
 - MDMA certificate number
 
-UDI data must be submitted before the device is first placed on the Saudi market, and updated whenever UDI-relevant device information changes.
+UDI data must be submitted to GHAD after MDMA certificate approval and before the device is first placed on the Saudi market. Updates to UDI data in GHAD must be submitted whenever device information changes (e.g., device name, intended use, packaging configuration, or manufacturing site). Notify the SFDA of any UDI-related changes through the GHAD portal.
 
 ## Compliance timeline by device class
 

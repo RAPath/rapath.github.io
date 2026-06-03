@@ -14,7 +14,7 @@ sidebar_position: 4
 | Re-examination period end | 재심사 application deadline | Grade III/IV first approvals within their re-examination period |
 
 :::note
-Confirm all dates with MFDS — the schedule may be updated.
+All dates shown are subject to change. Confirm current deadlines directly with MFDS via the UDI Portal (udiportal.mfds.go.kr) or by contacting the MFDS UDI helpline. Manufacturers should monitor MFDS website announcements at least quarterly.
 :::
 
 ## How to track your specific dates
@@ -25,3 +25,12 @@ Confirm all dates with MFDS — the schedule may be updated.
 
 ## Related pages
 - [UDI-K compliance timeline by grade](../udi-registration-licensing/udi-k/compliance-timeline-by-grade) · [Re-examination system](../post-market/post-market-surveillance/re-examination-system)
+
+Preparing for Phase 3 (Grade II)
+
+Manufacturers with Grade II devices should:
+- Review current device labelling and packaging
+- Obtain a GS1 Company Prefix (if not already registered with GS1 Korea)
+- Conduct an inventory of all Grade II devices and variants
+- Plan label redesign and printing timelines
+- Contact GS1 Korea early to avoid delays near the enforcement deadline

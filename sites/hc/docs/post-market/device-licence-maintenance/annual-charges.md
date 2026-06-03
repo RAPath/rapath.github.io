@@ -37,3 +37,5 @@ Annual fees must be paid within the period specified on the invoice. Non-payment
 The current annual fee amounts are published on the Health Canada website and in the applicable Fees Orders. Fees are subject to periodic revision (including inflation-based adjustments).
 
 > **Official resource:** [Health Canada — Medical Device Fees](https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/application-information/fees.html)
+
+Current fee amounts are published in the Medical Devices Regulations Fees Order (SOR/98-282) and are available on the Health Canada Medical Devices Directorate website. Manufacturers should consult these documents annually for any fee changes.

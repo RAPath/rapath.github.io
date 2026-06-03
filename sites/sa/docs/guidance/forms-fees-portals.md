@@ -69,3 +69,5 @@ See [SFDA Review Timelines](../mdma-registration/review-timelines) for indicativ
 - [MDMA Overview](../mdma-registration/mdma-overview)
 - [MDEL Overview](../authorized-representative/mdel-overview)
 - [Guidance Overview](./guidance-overview)
+
+Modify the 'Application fees' section to include:

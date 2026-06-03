@@ -17,7 +17,7 @@ All manufacturers, importers, distributors and healthcare facilities must regist
 
 1. Access [notivisa.anvisa.gov.br](https://notivisa.anvisa.gov.br)
 2. Create an account linked to the company's CNPJ
-3. Designate the Responsável Técnico as the NOTIVISA account holder
+3. Designate the Responsável Técnico as the NOTIVISA account (RT) holder; the RT is legally responsible for all reports submitted under that account
 4. Complete the company profile
 
 ## Submitting a report
@@ -38,3 +38,5 @@ All manufacturers, importers, distributors and healthcare facilities must regist
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+## Registering on NOTIVISA

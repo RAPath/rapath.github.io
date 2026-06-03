@@ -22,3 +22,5 @@ RDC 752/2022 requires that production processes are carried out under controlled
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+Personnel involved in production and quality control must receive documented training appropriate to their role. Training records must be maintained and made available during inspections. Personnel must demonstrate competence before performing critical manufacturing or quality control tasks.

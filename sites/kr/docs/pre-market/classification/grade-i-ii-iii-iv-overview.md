@@ -25,3 +25,5 @@ Life-sustaining or life-critical implantables. Pathway: **품목허가** with th
 
 ## Relevant legislation
 - Medical Devices Act, Article 2 (Grade definitions)
+
+## Relevant legislation

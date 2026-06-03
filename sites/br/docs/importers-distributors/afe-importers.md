@@ -27,7 +27,7 @@ Importers of medical devices in Brazil must hold a valid **AFE (Autorização de
 3. Complete the online form and upload documents.
 4. Pay the AFE petitioning fee.
 5. ANVISA processes the application (2–4 months typical).
-6. State VISA endorsement may be required in some states.
+6. State VISA endorsement may be required in (Vigilância Sanitária Estadual/Municipal) registration and addition to federal AFE, depending on the state or municipality where the importer is located.
 7. AFE issued and published in DOU.
 
 - [RDC 755/2022](https://www.gov.br/anvisa/pt-br/assuntos/produtossaude/produtos-para-saude)
@@ -37,3 +37,5 @@ Importers of medical devices in Brazil must hold a valid **AFE (Autorização de
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+Quality Assurance Plan, Description of quality assurance procedures for imported products, including receipt inspection and storage conditions

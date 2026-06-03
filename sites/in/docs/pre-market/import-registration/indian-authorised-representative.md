@@ -39,3 +39,5 @@ If the foreign manufacturer wishes to change its IAR:
 3. CDSCO issues an amended Form MD-14 naming the new IAR.
 
 See [Appointing & Changing an IAR](/docs/import-export-sugam/iar/appointing-changing) for step-by-step guidance.
+
+IAR liability: The IAR is the legally liable entity for post-market performance and adverse event reporting. CDSCO may take enforcement action (suspension, cancellation) against the IAR if regulatory conditions are breached. The IAR should maintain product liability insurance and ensure the foreign manufacturer provides indemnification.

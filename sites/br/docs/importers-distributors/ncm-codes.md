@@ -22,7 +22,7 @@ The **NCM** (*Nomenclatura Comum do MERCOSUL* — MERCOSUL Common Nomenclature) 
 
 ## Finding the right NCM code
 
-1. Use the Brazilian government's NCM search tool.
+1. Use the Brazilian government's NCM search tool (available on the MDIC/SECEX website). If the correct NCM code is unclear, ANVISA may assign it during product registration review or the importer may request a ruling via a licensed customs broker (despachante aduaneiro).
 2. Consult a licensed Brazilian customs broker (*despachante aduaneiro*) — essential for complex devices.
 3. Cross-reference with the TIPI (Tabela de Incidência do IPI) to determine applicable tax rates.
 

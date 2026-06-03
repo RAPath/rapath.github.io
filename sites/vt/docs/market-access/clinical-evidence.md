@@ -62,3 +62,5 @@ These studies must use appropriate reference standards and be conducted in relev
 :::tip Leverage existing regulatory submissions
 If your device already holds CE marking or FDA clearance, the clinical evidence compiled for those submissions — particularly the CER — can form the basis of the Vietnamese clinical module, with localisation as needed. This significantly reduces the preparation burden.
 :::
+
+: 'For devices intended for use in pediatric or geriatric populations, the CER should specifically address clinical performance and safety in these groups. Where published literature is limited for these populations, clinical investigation data may be required.

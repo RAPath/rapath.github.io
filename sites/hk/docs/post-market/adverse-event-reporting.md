@@ -31,3 +31,5 @@ Report any event involving an MDACS-listed device that **resulted or could resul
 5. MDD reviews and may request further information or initiate its own investigation
 
 Reports are submitted via the **MDIS portal**.
+
+Clarify in the Reporting Timeframes section: 'The timeframes begin from the date the LRP becomes aware of the event, not from the date the event occurred. LRP awareness includes awareness through customer complaints, healthcare facility reports, or internal investigations.'

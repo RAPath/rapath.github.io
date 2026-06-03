@@ -77,3 +77,6 @@ To submit a serious incident report or FSCA notification:
 | [MHRA Submissions portal](https://submissions.mhra.gov.uk/) | The portal |
 | MHRA: Registering medical devices | Registration guidance |
 | MHRA: Adverse incident reporting | Vigilance reporting guidance |
+
+Pre-submission meeting requests via the portal\n\nTo request an advisory meeting with MHRA:\n
+Log in to the portal\nNavigate to "Request a pre-submission meeting"\nSelect your device classification and intended conformity assessment route\nProvide context on your device and specific questions\nSubmit — MHRA will contact you to confirm timing and attendees (typically 4–12 weeks from submission)

@@ -66,3 +66,7 @@ Vietnamese consumer protection and health advertising law prohibits claims on me
 :::tip Prepare labels early in your registration timeline
 Vietnamese-language labelling must be submitted as part of the registration dossier. Prepare draft labels early and have them reviewed by your Authorised Representative or a Vietnamese regulatory specialist to avoid late-stage rework.
 :::
+
+Supplementary labels may be affixed directly to the device itself, primary packaging, or secondary packaging—whichever is most visible to the user. Supplementary labels should not completely obscure or replace the original manufacturer's label unless the original foreign-language label is itself on an area covered by the Vietnamese supplementary label. For multi-language labels, ensure all mandatory information in Vietnamese is present on either the primary label or a clearly associated supplementary label.
+
+Instructions for Use must be presented in a font size and format that is clearly legible to the intended user population. For devices intended for use by elderly patients or in low-light clinical environments, font size should be at least 8-10 pt. Complex technical information should be accompanied by diagrams or illustrations to enhance clarity.

@@ -59,3 +59,5 @@ Organise your compliance evidence in a **Technical File** that mirrors the struc
 :::
 
 > **Legislative source:** Medical Devices Regulations, SOR/98-282, Schedule 1; s 32 (contents of Device Licence application)
+
+For any Schedule 1 requirement marked as 'Not applicable,' provide a brief justification in your Safety and Effectiveness Summary. For example: 'Sterility — Not applicable: device is supplied non-sterile for single use only.' This demonstrates systematic consideration of all requirements rather than oversight.

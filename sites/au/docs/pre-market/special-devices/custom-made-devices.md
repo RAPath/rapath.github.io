@@ -45,3 +45,5 @@ The TGA distinguishes between **custom-made** devices (a strict regulatory categ
 ## Related Pages
 
 - [Personalised and Patient-Matched Devices](./personalised-patient-matched.md)
+
+While custom-made devices are exempt from ARTG inclusion, manufacturers must still comply with all applicable Essential Principles. Key areas of focus typically include: EP 1 (Performance), EP 2 (Design and Development), EP 6 (Product and Production Quality), and EP 13 (Labelling). The extent of documentation and evidence required should be proportionate to the device type and intended use, but cannot be bypassed entirely.

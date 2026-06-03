@@ -6,13 +6,13 @@ description: NBTC (National Broadcasting and Telecommunications Commission) appr
 
 # NBTC Approval for Wireless Devices
 
-> *TH-Unique · Independent from Thai FDA process · Must be obtained in parallel*
+> TH-Unique · Independent from Thai FDA process · Must be obtained in parallel
 
 ## When NBTC Review Is Required
 
-Medical devices incorporating **any radio frequency communication technology** require a separate approval from the **National Broadcasting and Telecommunications Commission (NBTC)** before commercial supply in Thailand.
+Medical devices incorporating any radio frequency communication technology require a separate approval from the National Broadcasting and Telecommunications Commission (NBTC) before commercial supply in Thailand.
 
-This approval is **completely independent** of the Thai FDA/MDCD registration process and must be obtained as a separate process.
+This approval is completely independent of the Thai FDA/MDCD registration process and must be obtained as a separate process.
 
 ## Affected Device Technologies
 
@@ -42,11 +42,11 @@ This approval is **completely independent** of the Thai FDA/MDCD registration pr
 
 The NBTC process typically requires:
 
-1. **Type approval** — testing of the device's RF characteristics against Thai/NBTC standards (based on international standards for the relevant frequency bands)
-2. **Test reports** — from NBTC-recognised testing laboratories (Thai labs or foreign labs with mutual recognition)
-3. **Technical specification documentation** — frequency bands used, power output, modulation
-4. **Application submission** to NBTC
-5. **NBTC approval** issued — certificate or approval letter
+1. Type approval — testing of the device's RF characteristics against Thai/NBTC standards (based on international standards for the relevant frequency bands)
+2. Test reports — from NBTC-recognised testing laboratories (Thai labs or foreign labs with mutual recognition)
+3. Technical specification documentation — frequency bands used, power output, modulation
+4. Application submission to NBTC
+5. NBTC approval issued — certificate or approval letter
 
 ### NBTC-Recognised Standards
 
@@ -64,12 +64,10 @@ Confirm with your NBTC consultant which standards are accepted for your specific
 | Thai FDA product registration | Weeks to months (varies by class) | Start with Thai FDA |
 | NBTC type approval | 4–12 weeks | Start simultaneously |
 
-**Start both processes in parallel.** In many cases, NBTC and Thai FDA approvals can proceed simultaneously with significant time overlap, minimising total time to market.
+Start both processes in parallel. In many cases, NBTC and Thai FDA approvals can proceed simultaneously with significant time overlap, minimising total time to market.
 
 ## NBTC Contact
 
-**NBTC Thailand:** [www.nbtc.go.th](https://www.nbtc.go.th/)
+NBTC Thailand: [www.nbtc.go.th](https://www.nbtc.go.th/)
 
-:::tip Use a dual-specialist consultant
-For wireless medical devices in Thailand, consider engaging a regulatory affairs consultant with experience in both Thai FDA and NBTC processes. The two approval tracks have different documentation and technical requirements.
-:::
+**Use a Dual-Specialist Consultant**: For wireless medical devices in Thailand, strongly consider engaging a regulatory affairs consultant with demonstrated experience in both Thai FDA and NBTC processes. The two approval tracks have distinct documentation requirements, timelines, and technical standards — managing both processes concurrently requires specialized expertise.

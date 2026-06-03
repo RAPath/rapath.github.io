@@ -192,3 +192,16 @@ Cross-references between the Act and the MD Regulations are frequent — underst
 - [MD Regulations 2002](./md-regulations-2002.md)
 - [Related Instruments & Determinations](./related-instruments.md)
 - [Regulatory Framework Overview](../start-here/regulatory-framework-overview.md)
+
+Part 4-5 — Including Medical Devices in the Register
+
+This Part governs ARTG inclusion — the core inclusion process. Key sections include:
+
+Section 41FJ — Application for inclusion in the ARTG
+Sponsors must apply for ARTG inclusion in the approved form, providing all required information and evidence.
+
+Section 41FK — ARTG entry details
+Each ARTG entry specifies the device, sponsor, manufacturer, indications, conditions of use, and any restrictions.
+
+Section 41FL — Refusal and cancellation
+The TGA may refuse inclusion or cancel an existing entry if conditions are not met or safety concerns arise.

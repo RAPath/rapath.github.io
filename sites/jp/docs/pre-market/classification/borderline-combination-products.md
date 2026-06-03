@@ -35,3 +35,5 @@ For products where regulatory classification is genuinely uncertain, the MAH can
 3. **Written inquiry to MHLW** — for cases not covered by existing guidance
 
 PMDA's opinion from a consultation is not a legally binding determination (MHLW makes formal decisions), but it provides strong guidance and reduces risk before committing to a full application.
+
+A written inquiry to MHLW on classification typically receives a response within 30–60 days. However, for complex cases, PMDA consultation is often faster and more detailed, typically completed within 2–4 weeks.

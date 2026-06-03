@@ -56,3 +56,5 @@ CDRRHR may cancel a CMDN or CMDR for:
 - Failure to comply with CDRRHR recall orders
 
 **Voluntary cancellation:** The license holder may request voluntary cancellation if withdrawing the device from the market. Ensure all FSCA obligations are completed before requesting cancellation.
+
+In the 'Renewal Application Contents' section, change 'Updated FSC from country of manufacture' to 'Updated FSC (Free Sales Certificate) from country of manufacture — documentation proving the device is legally marketed in its country of origin'

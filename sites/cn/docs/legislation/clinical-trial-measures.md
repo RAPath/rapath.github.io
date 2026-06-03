@@ -25,3 +25,17 @@ Official texts are published on [www.nmpa.gov.cn](https://www.nmpa.gov.cn/) and 
 :::note Disclaimer
 Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [NMPA](https://www.nmpa.gov.cn/) sources before making regulatory decisions. Not affiliated with NMPA or any Chinese Government body. Not legal or regulatory advice.
 :::
+
+## Scope
+This measure establishes administrative procedures for clinical trials of medical devices in China, covering trial design, ethics review, informed consent, and data management.
+
+## Key Requirements
+- Clinical trials require prior approval from Ethics Committee (伦理委员会) and NMPA (for Class III devices)
+- Informed consent forms must be provided in Chinese and approved by Ethics Committee
+- Qualified clinical trial sites and investigators required
+- Regular safety monitoring and reporting to Ethics Committee and NMPA
+- Trial protocols must comply with GCP (Good Clinical Practice) standards
+- Data integrity and traceability requirements throughout trial duration
+
+## Relationship to MDSAR 2021
+This measure implements registration requirements under Chapter II of MDSAR 2021, particularly Articles 15 and 16, which require clinical data for Class III device registration.

@@ -19,3 +19,5 @@ NMPA enforcement powers are set out in **MDSAR 2021 Chapter VII (Legal Liability
 :::note Disclaimer
 Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [NMPA](https://www.nmpa.gov.cn/) sources before making regulatory decisions. Not affiliated with NMPA or any Chinese Government body. Not legal or regulatory advice.
 :::
+
+NMPA and Customs enforce border controls on medical devices at point of entry. Devices that fail to meet registration requirements, quality standards, or are subject to enforcement actions are subject to detention or seizure. NMPA publishes import alerts and recall notices that trigger inspection and monitoring at customs checkpoints. Importers must ensure compliance with registration status and labeling requirements before customs clearance.

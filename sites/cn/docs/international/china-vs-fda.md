@@ -8,7 +8,7 @@ tags: [international]
 
 # China vs FDA (USA)
 
-*This page provides a plain English comparison of china vs fda (usa) from the perspective of China's NMPA regulatory framework. Full content to be completed during editorial review.*
+*This page compares China's NMPA device regulation framework with the FDA's requirements. Detailed comparison tables are being developed.*
 
 ---
 

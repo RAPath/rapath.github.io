@@ -56,7 +56,7 @@ Contact Kemenkes or consult the current PNBP regulation for up-to-date fee sched
 
 ## Overall Pre-Launch Timeline Planning
 
-A realistic end-to-end timeline for a new Class B device from a foreign manufacturer with no prior Indonesian presence:
+A realistic end-to-end timeline for a new Class B device from a foreign manufacturer establishing a local presence (assuming use of an existing neutral licence holder or distributor; establishing a new PT PMA will add 6–12 months):
 
 | Activity | Estimated Duration |
 |---|---|
@@ -69,3 +69,7 @@ A realistic end-to-end timeline for a new Class B device from a foreign manufact
 | **Total** | **~12–24 months** |
 
 For Class C/D devices, add 3–6+ months to the technical review phase, and potentially more if local clinical data is requested.
+
+PNBP Payment Timeline
+
+Once the billing notice is generated following administrative review, payment must be made within the timeframe specified by Kemenkes (typically 5–10 working days). If payment is not received within this period, the application may be rejected or held indefinitely. Late payment can result in application withdrawal and the need to resubmit. Coordinate payment processing internally to ensure timely settlement.

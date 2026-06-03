@@ -75,3 +75,5 @@ Combination products are formally assigned via the **Office of Combination Produ
 - [FDA — Overview of Device Regulation](https://www.fda.gov/medical-devices/overview-device-regulation)
 - [FDA — Combination Products Overview](https://www.fda.gov/combination-products/about-combination-products/what-are-combination-products)
 - [21 CFR Part 3 — Product Jurisdiction](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-A/part-3)
+
+The distinction between component part and accessory affects regulatory strategy: a component part's regulatory status is typically derived from the parent device, whereas an accessory may require independent clearance or approval. Accessories marketed with explicit intended use statements separate from the parent device often require their own premarket submission.

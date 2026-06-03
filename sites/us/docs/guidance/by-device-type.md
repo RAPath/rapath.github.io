@@ -75,3 +75,5 @@ FDA publishes guidance documents specific to device types and medical specialtie
 ## Official resources
 - [FDA Guidance Documents Search](https://www.fda.gov/regulatory-information/search-fda-guidance-documents)
 - [CDRH Guidance Documents](https://www.fda.gov/medical-devices/device-guidance-documents)
+
+First, determine your device classification (Class I, II, or III) using the FDA Device Classification Database or by consulting the CFR sections listed for each specialty area. Device-specific guidance often assumes knowledge of your device's regulatory pathway and requirements.

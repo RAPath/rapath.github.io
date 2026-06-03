@@ -16,3 +16,5 @@ FDA PMA clinical data is generally highly accepted by ANVISA for Class IV device
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+Data age may be relevant to ANVISA review; generally, clinical data not older than 5–10 years is preferred. Supplementary Brazilian clinical data is typically required for Class IV devices or when patient population demographics, disease prevalence, or healthcare practices differ materially from the source population.

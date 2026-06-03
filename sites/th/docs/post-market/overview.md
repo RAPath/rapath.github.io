@@ -31,7 +31,7 @@ Report to Thai FDA/MDCD any adverse event where a registered device:
 - Presents a serious public health concern
 
 **Reporting timeframes** (ASEAN AMDD-aligned):
-- Death or serious injury: as soon as possible (within 10 days)
+- Death or serious injury: within 10 days of becoming aware of the event
 - Other reportable events: within 30 days
 
 Reports are submitted to the Thai FDA/MDCD through the designated reporting channel. Confirm current reporting form and process with MDCD.

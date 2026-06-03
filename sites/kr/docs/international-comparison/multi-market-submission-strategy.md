@@ -36,3 +36,7 @@ Korean MFDS generally accepts FDA or CE clinical data with appropriate Korean su
 
 ## Related pages
 - [Application contents and STED](../pre-market/marketing-authorization/application-contents-and-sted) · [Using foreign clinical data](../pre-market/clinical-evidence/using-foreign-clinical-data)
+
+## Korea-specific items to plan for
+
+"Note: KGMP certificate acquisition typically requires 3–6 months and must be completed before MFDS will accept a device application (품목허가). Begin the GMP certification process 6–9 months before planned Korean submission to avoid delays."

@@ -16,7 +16,7 @@ ASEAN harmonisation means **mutual recognition of frameworks and standards** (th
 
 ## How Foreign Approvals Are Used in Indonesia
 
-While foreign approvals do not replace Indonesian registration, they can meaningfully support the review process:
+While foreign approvals do not replace Indonesian registration reviewed by BPOM, BPOM they can meaningfully support the review process:
 
 | Foreign Approval | Practical Value for Indonesia NIE |
 |---|---|
@@ -33,7 +33,7 @@ While foreign approvals do not replace Indonesian registration, they can meaning
 
 The **Medical Device Single Audit Program (MDSAP)** is a global programme that conducts a single regulatory audit of a manufacturer's quality management system, recognised by multiple regulatory authorities (Canada, USA, Brazil, Australia, Japan).
 
-**Indonesia is not a formal MDSAP participating authority.** An MDSAP certificate is therefore **not equivalent to an Indonesian GMP inspection** and cannot replace the GMP certificate requirement in the Regalkes dossier.
+**Indonesia is not a formal MDSAP participating authority.** An MDSAP certificate is therefore **not equivalent to a BPOM-issued certificate The GMP certificate must be issued by BPOM or an audit body officially recognised by BPOM for GMP certification. GMP inspection** and cannot replace the GMP certificate requirement in the Regalkes dossier.
 
 However, an MDSAP certificate:
 - Demonstrates a high standard of QMS compliance
@@ -56,3 +56,11 @@ If you hold approvals in one or more of the following markets, include the relev
 | Malaysia | MDA device registration certificate |
 
 These documents go in the administrative section of the CSDT as "overseas regulatory approvals" and in the clinical/technical evidence section as supporting material for the safety and performance claims.
+
+## ASEAN Mutual Recognition
+
+"Device registration and MRA-related submissions are evaluated by BPOM's medical device division (currently under the Directorate of Device and Related Products Regulation / Direktorat Regulasi Produk Alat Kesehatan dan Terkait)."
+
+## An MDSAP certificate is therefore not equivalent to an Indonesian GMP inspection...
+
+"GMP certificates accepted by BPOM must be issued by BPOM itself or by audit bodies accredited under BPOM's GMP recognition programme. Alternatively, manufacturing site inspections can be conducted directly by BPOM if required during the registration review."

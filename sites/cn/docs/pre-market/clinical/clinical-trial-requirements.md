@@ -51,3 +51,5 @@ The full clinical trial report (临床试验报告) must be submitted as part of
 :::note Disclaimer
 Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [NMPA](https://www.nmpa.gov.cn/) sources before making regulatory decisions. Not affiliated with NMPA or any Chinese Government body. Not legal or regulatory advice.
 :::
+
+Clinical trial applications must be submitted through the NMPA online service platform (国家药监局政务服务平台). Ensure all required supporting documents are prepared in PDF format and comply with NMPA's technical file specifications.

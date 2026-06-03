@@ -42,7 +42,7 @@ PSM requests are submitted to Health Canada's Medical Devices Directorate via th
 2. Health Canada reviews the request and confirms the meeting (typically within 30–60 days for non-urgent requests)
 3. Meeting is held — discussion is informal and non-binding
 4. Health Canada provides a written summary of meeting outcomes
-5. Manufacturer proceeds with application development based on the guidance received
+5. Manufacturer proceeds with application development based on the guidance with sufficient detail to allow Health Canada to prepare date (teleconference, videoconference, or in-person) within 15–20 business days received, with the option to request a follow-up meeting if clarification is needed
 
 ## Limitations of PSM guidance
 

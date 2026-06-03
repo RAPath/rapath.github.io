@@ -25,3 +25,5 @@ The technical dossier (*dossiê técnico*) demonstrates compliance with RDC 751/
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+Key: ✓ = Required in full; Summary = Summary version acceptable; As needed = Only required if applicable to the device. All documentation must be in Portuguese or accompanied by certified Portuguese translation.

@@ -12,7 +12,7 @@ This page covers known planned regulatory developments. Timelines and scope are 
 
 ## UDI phasing — continued rollout
 
-The SFDA is implementing UDI requirements in phases by device class. Higher-risk device classes (C and D) were required to comply first; lower-risk classes follow. Manufacturers of lower-risk devices who have not yet implemented UDI should check the current SFDA UDI compliance timeline on the SFDA website and prepare accordingly.
+The SFDA is implementing UDI requirements in phases by device class. Higher-risk device classes (C and D) were required to comply first; lower-risk classes follow. Manufacturers of lower-risk devices should prioritize checking the current SFDA UDI compliance timeline on the SFDA website and begin implementation planning immediately, as compliance deadlines approach for classes A and B.
 
 → [UDI Compliance Timeline](../udi/udi-data-submission)
 
@@ -51,3 +51,7 @@ Check GHAD release notes for system updates affecting submission workflows.
 - [Recent Regulatory Changes](./recent-changes)
 - [Draft Guidance Open for Comment](./draft-guidance)
 - [GCC & International](../gcc-international/gcc-harmonization)
+
+As of 2024, device classes C and D have completed initial compliance periods. Device classes A and B compliance timelines should be verified on the current SFDA UDI roadmap, as these dates are subject to revision.
+
+Manufacturers should monitor the GHAD portal directly or subscribe to SFDA eServices notifications to receive timely updates on platform changes.

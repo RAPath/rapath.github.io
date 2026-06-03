@@ -15,7 +15,7 @@ The FDA product code system is a US-specific classification mechanism. Every reg
 
 ## What is a product code?
 
-A **product code** is a three-character alphanumeric identifier (e.g., FRN, DQO, IYO) assigned by FDA to a specific device type. It appears in:
+A product code is a three-character alphanumeric identifier (e.g., FRN, DQO, IYO) assigned by FDA to a specific device type. It appears in:
 
 - FDA's Product Classification Database
 - 510(k) and PMA submission databases
@@ -45,10 +45,10 @@ For each product code, FDA's database provides:
 
 1. Go to [FDA Product Classification Database](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPCD/classification.cfm)
 2. Search by:
-   - **Device name** — use descriptive terms, not brand names
-   - **Product code** — if you already know it
-   - **21 CFR section** — if you know the regulation
-   - **Review panel** — browse all devices in a specialty
+   - Device name — use generic or descriptive terms (e.g., 'glucose meter' rather than a brand name like 'OneTouch')
+   - Product code — if you already know it
+   - 21 CFR section — if you know the regulation
+   - Review panel — browse all devices in a specialty
 3. Review the results and identify the most applicable product type
 
 ---
@@ -69,8 +69,8 @@ Selecting an incorrect product code is a common technical deficiency that can de
 
 If your device type has no existing product code, you have two main options:
 
-1. **De Novo classification request** — creates a new product code, device type, and classification order
-2. **Contact CDRH** via a Q-submission (pre-sub meeting) to discuss classification before submitting
+1. De Novo classification request — creates a new product code, device type, and classification order
+2. Contact CDRH via a Q-submission (pre-sub meeting) to discuss classification before submitting
 
 ---
 
@@ -78,3 +78,5 @@ If your device type has no existing product code, you have two main options:
 
 - [FDA Product Classification Database](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPCD/classification.cfm)
 - [FDA — Classification Database Help](https://www.fda.gov/medical-devices/classify-your-medical-device/product-code-classification-database)
+
+For De Novo requests, FDA will assign a new product code as part of the classification order. This product code can then be searched in the FDA Product Classification Database by future manufacturers seeking to use the device as a predicate for 510(k) submissions.

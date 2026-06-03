@@ -147,3 +147,25 @@ This route provides stronger product-level assurance but is resource-intensive. 
 | IVDR Annex XI | IVDR product conformity verification |
 | MDR Art. 52(3) | Available procedures by class |
 | MDCG 2020-3 | Guidance on significant changes |
+
+Annex XI — Product conformity verification
+
+Annex XI is always used in combination with Annex X and defines how the manufacturer must verify that products in production conform to the approved type.
+
+Part A — Internal production control
+
+Under Annex XI Part A, the manufacturer:
+- Implements internal quality control procedures
+- Tests samples from each production batch or representative samples
+- Maintains records of all tests and any non-conformities
+- Does not require ongoing notified body involvement after type approval
+
+Part B — EC quality assurance
+
+Under Annex XI Part B, the notified body:
+- Audits the manufacturer's QMS for production and product verification
+- Reviews production records and test data
+- Conducts regular surveillance audits (typically annually)
+- Must approve significant changes before implementation
+
+Part B provides additional oversight and is used for higher-risk devices or where the notified body determines it is necessary.

@@ -8,7 +8,7 @@ keywords: [ANVISA, Brazil, medical device]
 # Clinical Investigations in Brazil (RDC 10/2015)
 
 :::info BR-unique
-Brazil regulates clinical investigations of medical devices through **RDC 10/2015**, a dedicated regulation setting out requirements for investigation design, ethics approval, investigational site qualification, and ANVISA notification.
+Brazil regulates clinical investigations of medical devices through **RDC 10/2015**, a dedicated regulation setting out requirements for investigation design, ethics approval, investigational site qualification, and ANVISA safety reporting, notification and oversight throughout the investigation.
 :::
 
 | Requirement | Detail |
@@ -27,3 +27,5 @@ Brazil regulates clinical investigations of medical devices through **RDC 10/201
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+"Investigational device classification: Devices under clinical investigation may be exempted from standard registration requirements while the investigation is ongoing, provided all RDC 10/2015 requirements are met."

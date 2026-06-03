@@ -28,3 +28,9 @@ For devices requiring controlled manufacturing environments (cleanrooms, control
 ## Sterilisation process controls
 
 For sterile devices, sterilisation is a validated special process. The sterilisation cycle must be validated against the recognised sterilisation standard, and every production batch must be traceable to sterilisation cycle records. Sterilisation validation records are reviewed in detail by PMDA during inspections.
+
+## Process validation
+
+​Change control and re-validation
+
+MO 169 requires that changes to validated processes, equipment, or environmental conditions be controlled through a documented change management system. Changes must be evaluated for impact on product quality and may require re-validation. PMDA inspectors review change control records to assess how the manufacturer manages process modifications and determines re-validation scope.

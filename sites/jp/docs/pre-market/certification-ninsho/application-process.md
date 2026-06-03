@@ -42,3 +42,5 @@ Ninsho timelines are significantly faster than Shonin:
 ## Responding to RCB queries
 
 RCBs issue queries similar to PMDA Q&As during Shonin review. Prompt, complete responses help avoid timeline extensions. If an RCB query reveals that the device does not fully conform to the applicable standard, you may need to either modify the device or switch to the Shonin pathway.
+
+For some device types, the RCB may conduct a factory inspection or document-based QMS audit during or after the technical review. If an inspection is scheduled, this extends the overall timeline and should be confirmed with the RCB at the time of submission.

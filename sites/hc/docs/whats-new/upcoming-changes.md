@@ -18,8 +18,8 @@ Health Canada's UDI framework was anticipated to move from consultation to final
 - GS1 and HIBCC as accredited issuing agencies
 
 **What manufacturers should do now:**
-- If you have UDI for FDA or EU markets, your UDI will likely be accepted for Canada with minimal modification
-- Engage with Health Canada's UDI working group if you have complex product lines
+- If you have UDI codes from FDA or EU markets, you should verify compatibility with Canada's issuing agency requirements (GS1 or HIBCC); direct cross-acceptance has not been officially confirmed.
+- If or multi-jurisdiction UDI requirements, consider engaging through MEDEC (Medical Devices and Diagnostics Industry Association) or Health Canada's regulatory consultation channels for technical guidance. you have complex product lines
 - See [UDI Framework](/docs/international/udi-framework)
 
 ## Mandatory post-market surveillance requirements
@@ -45,3 +45,5 @@ Upcoming changes listed here are anticipated based on Health Canada consultation
 :::info Official source
 [Health Canada — Upcoming regulatory changes](https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices.html)
 :::
+
+Modify the bullet point to read: 'Regulatory framework for AI-assisted diagnostic devices (regulatory status—guidance vs. amendments—to be confirmed)'

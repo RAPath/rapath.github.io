@@ -97,3 +97,5 @@ All Thai FDA approvals (Listing, Notification, License) expire after **5 years**
 - MDCD reviews and issues renewed approval for a further 5 years
 
 **A lapsed approval means the device cannot legally be distributed** — track expiry dates carefully.
+
+Class 1 + not on Positive List | Notification' with a note: '(Class 1 devices not on the Positive List follow Class 2–3 Notification requirements)

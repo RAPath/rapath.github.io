@@ -8,7 +8,9 @@ description: How to report and communicate a Field Safety Corrective Action (FSC
 
 ## Notifying HSA
 
-FSCA reports are submitted to HSA via the SHARE portal or through the dedicated FSCA reporting channel described on the HSA website:
+FSCA reports are submitted to HSA through the product registration system. Manufacturers and registrants should confirm the current submission method by visiting:
+hsa.gov.sg/medical-devices/field-safety-corrective-action/how-to-report
+Standardly, FSCAs are submitted using the same portal or system through which the device was originally registered.
 
 [hsa.gov.sg/medical-devices/field-safety-corrective-action/how-to-report](https://www.hsa.gov.sg/medical-devices/field-safety-corrective-action/how-to-report)
 
@@ -21,7 +23,7 @@ The FSCA report to HSA should include:
 
 ## The Field Safety Notice (FSN)
 
-A **Field Safety Notice** is a written communication sent by the manufacturer or registrant to users, healthcare professionals, and distributors to inform them of the FSCA and the actions they must take. The FSN must:
+A Field Safety Notice is a written communication sent by the manufacturer or registrant to users, healthcare professionals, and distributors to inform them of the FSCA and the actions they must take. The FSN must:
 
 - Clearly identify the device and the safety issue;
 - Describe the risk in plain language;
@@ -35,3 +37,5 @@ HSA may publish information about the FSCA on its [List of Published Risk Commun
 
 - [HSA: FSCA — How to report](https://www.hsa.gov.sg/medical-devices/field-safety-corrective-action/how-to-report)
 - [HSA: Published risk communications](https://www.hsa.gov.sg/medical-devices/field-safety-corrective-action/list-of-published-risk-communication)
+
+FSCAs related to serious safety issues should be reported to HSA without delay. While no specific maximum timeframe is prescribed in the regulations, companies should submit FSCA notifications as soon as they have assessed the safety issue and determined corrective action is necessary. For life-threatening or immediately dangerous situations, contact HSA directly before submitting a formal report.

@@ -8,3 +8,5 @@ keywords: [India, CDSCO, updates, regulatory, UDI, PLI, draft rules]
 # Cdsco Circulars
 
 > **Official sources:** [CDSCO](https://cdsco.gov.in); [Official Gazette](https://egazette.gov.in); [SUGAM portal](https://sugam.cdsco.gov.in)
+
+This section should contain a chronological list of recent CDSCO circulars with brief summaries. Example structure:

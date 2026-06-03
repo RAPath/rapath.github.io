@@ -12,7 +12,7 @@ keywords: [eMDR, MedWatch 3500A, FDA MDR submission, how to report MDR, electron
 Since 2014, FDA requires **electronic submission** of MDRs via the **eMDR** system for all manufacturers and importers. User facilities may submit electronically or via paper.
 
 **eMDR submission methods:**
-- **FDA ESG (Electronic Submissions Gateway)** — for high-volume submitters using HL7 ICSR format
+- **FDA ESG (Electronic Submissions Gateway)** — for high-volume submitters submitting in or ICH E2B(R3) (recommended for first-time MDR submitters) HL7 ICSR format
 - **CDRH eSubmitter** — for lower-volume submitters using a guided web-based interface
 
 ## MedWatch 3500A
@@ -39,3 +39,5 @@ All submitted MDRs (mandatory and voluntary) are entered into the **MAUDE (Manuf
 - [FDA eMDR](https://www.fda.gov/medical-devices/mandatory-reporting-requirements-manufacturers-importers-and-device-user-facilities/electronic-medical-device-reporting-emdr)
 - [MedWatch 3500A form](https://www.fda.gov/safety/medwatch-fda-safety-information-and-adverse-event-reporting-program/medwatch-forms-fda-safety-reporting)
 - [MAUDE Database](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfmaude/search.cfm)
+
+After submitting via eMDR, manufacturers receive an electronic confirmation number. FDA's CDRH typically sends written acknowledgment of receipt within 30 days. Manufacturers should retain submission documentation and tracking numbers for regulatory inspection purposes. Contact FDA's Office of Surveillance and Biometrics if confirmation is not received within 45 days.

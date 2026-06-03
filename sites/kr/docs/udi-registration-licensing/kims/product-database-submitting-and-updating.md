@@ -27,3 +27,14 @@ KIMS records must be updated when:
 
 ## Related pages
 - [What is KIMS?](./what-is-kims) · [UDI-K — KIMS database registration](../udi-k/kims-database-registration)
+
+## Common KIMS Submission Issues
+
+When submitting or updating KIMS records via the MFDS eSubmission portal, ensure:
+
+- All required data fields are complete and match official 품목허가/품목신고 documents
+- Device classification codes align with MFDS classification guidelines
+- UDI-K Device Identifier (DI) format is correct (GS1 or HIBCC issued)
+- Manufacturer details match the official registration
+
+Incomplete or inaccurate submissions will be rejected by the MFDS portal and must be corrected before resubmission.

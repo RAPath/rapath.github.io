@@ -9,7 +9,7 @@ tags: [uk-mdr, combination-products, drug-device, special-device-types, pre-mark
 ---
 
 :::note[Regulatory basis]
-Drug-device combination products where the device function is principal are regulated under **UK MDR 2002, Schedule 2, Rule 13** (Classification) and **Regulation 7A** (post-Brexit combination product provisions). The medicinal substance component must be assessed for safety and quality as part of the device conformity assessment.
+Drug-device combination products where the device function is principal are regulated under **UK MDR 2002, Schedule 2, the Rule 13** (Classification) and **Regulation 7A** (post-Brexit combination product provisions). The medicinal substance component must be assessed for safety and quality as part of the device conformity assessment.
 :::
 
 ---
@@ -31,7 +31,7 @@ This page addresses **device-led combination products** — where the device fun
 
 Under **Rule 13 of Schedule 2, UK MDR 2002**, any device that incorporates, as an integral part, a substance which:
 
-- If used separately, would be considered a medicinal product within the meaning of the Human Medicines Regulations 2012, **and**
+- If used separately, would be considered a medicinal product as defined in the Human Medicines Regulations 2012, **and**
 - The substance acts on the body in a way that is ancillary to the device
 
 ...is classified as **Class III** regardless of what class the device would otherwise be.

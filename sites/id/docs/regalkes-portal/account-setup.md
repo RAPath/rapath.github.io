@@ -8,12 +8,12 @@ description: How Regalkes accounts are set up for medical device registration �
 
 ## Who Creates the Account?
 
-The Regalkes account is created and owned by the **Indonesian LAR/IDAK holder**. Foreign manufacturers do not have direct accounts — all portal interactions occur under the LAR's credentials.
+The Regalkes account is created and owned by the Indonesian LAR/IDAK holder. Foreign manufacturers do not have direct accounts — all portal interactions occur under the LAR's credentials.
 
 The account is linked to the LAR's:
-- **IDAK** licence number
-- **NIB** (*Nomor Induk Berusaha*) from OSS
-- **CDAKB** certificate status
+- IDAK licence number
+- NIB (Nomor Induk Berusaha) from OSS
+- CDAKB certificate status
 
 ---
 
@@ -38,12 +38,14 @@ Foreign manufacturers typically do not have direct access to the Regalkes portal
 - Fee payment coordination
 - Document upload confirmation
 
-:::tip Best practice
+Best Practice
+
 Establish clear communication protocols with your LAR from the outset:
-- Agree on turnaround times for your review of Regalkes-generated clarification queries
-- Request screenshots or exports of the application status at regular intervals
-- Agree on a document naming convention that your LAR implements consistently in Regalkes uploads
-:::
+
+- Agree on turnaround times for your review of Regalkes-generated clarification queries (recommend 5–7 business days)
+- Request regular status updates and screenshots/exports of the application progress at defined intervals (e.g. weekly or bi-weekly)
+- Agree on a document naming convention that your LAR implements consistently in Regalkes uploads to avoid file rejection
+- Clarify who will manage responses to Kemenkes queries and the internal sign-off process for responses
 
 ---
 

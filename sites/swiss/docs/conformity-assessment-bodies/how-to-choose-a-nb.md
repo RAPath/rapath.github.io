@@ -10,7 +10,7 @@ description: How to choose an EU notified body for Swiss market access — scope
 Verify on NANDO that the NB is designated under EU MDR or IVDR for your specific device class *and* device type. A NB may be designated for medical devices generally but not for your specific product type.
 
 **2. Capacity and realistic timelines**
-NB capacity has been significantly constrained since EU MDR transition. For Class III first submissions, plan 18–24+ months from application to certificate. Ask the NB directly for current queue estimates before committing.
+NB capacity remains a critical factor post-MDR transition. For Class III first submissions, plan 18–24+ months from application to certificate; for Class II devices, expect 4–8 months; for Class I devices, 2–3 months. Ask the NB directly for current queue estimates before committing.
 
 **3. Experience with your device type**
 NBs develop specialisations (cardiovascular, orthopaedics, IVD, SaMD, active implantables). Ask for examples of similar devices certified. Specialist experience means a more efficient, predictable assessment process.
@@ -34,3 +34,5 @@ See [NANDO Database](./nando-database) for search instructions.
 :::warning Disclaimer
 AI-assisted navigation aid only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
 :::
+
+## Disclaimer

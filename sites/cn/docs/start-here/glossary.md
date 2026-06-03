@@ -51,15 +51,12 @@ Key English and Chinese terms used throughout RAPath CN and in NMPA regulatory d
 
 ## S–Z
 
-| English | Chinese | Notes |
-|---|---|---|
-| SaMD | 独立软件 | Software as a Medical Device |
-| Serious adverse event | 严重不良事件 | Must be reported to NMPA within 30 days (death/serious injury: immediately) |
-| Supplemental information request | 补充资料通知 | CMDE request for additional dossier information during review |
-| UDI | 医疗器械唯一标识 | Unique Device Identification |
-| UDID | 医疗器械唯一标识数据库 | NMPA UDI Database |
-| YY/T 0287 | YY/T 0287-2017 | China's equivalent of ISO 13485:2016 |
+YY/T 0287-2017
+YY/T 0287-2017
+China's national standard for medical device quality management systems; equivalent to ISO 13485:2016. Mandatory compliance required for GMP compliance.
 
 :::note Disclaimer
 Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [NMPA](https://www.nmpa.gov.cn/) sources before making regulatory decisions. Not affiliated with NMPA or any Chinese Government body. Not legal or regulatory advice.
 :::
+
+Add entries for: (1) 'Breakthrough Device' / '突破性医疗器械' — expedited designation; (2) 'Conditional Approval' / '条件批准' — approval with post-market conditions; (3) 'Responsible Person' / '质量负责人' — expanded definition noting personal accountability; (4) 'Change Supplement' / '变更申请' — type of post-approval notification; (5) 'Pre-submission Meeting' / '申前沟通' — CMDE pre-submission guidance meeting; (6) 'Dossier' / '技术资料' — complete regulatory submission package.

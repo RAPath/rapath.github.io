@@ -8,7 +8,7 @@ tags: [international]
 
 # Multi-Market Strategy
 
-*This page provides a plain English comparison of multi-market strategy from the perspective of China's NMPA regulatory framework. Full content to be completed during editorial review.*
+*This page provides guidance on multi-market regulatory strategy when including China in your international launch plan. Detailed sequencing and data reuse strategies are being developed.*
 
 ---
 

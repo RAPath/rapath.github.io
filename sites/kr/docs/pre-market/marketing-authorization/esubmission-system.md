@@ -30,3 +30,5 @@ All 품목허가, 품목신고, GMP, and classification inquiries are submitted 
 
 ## Related pages
 - [Application contents and STED](./application-contents-and-sted) · [MFDS review process](./mfds-review-process-and-timelines)
+
+All documents must follow MFDS naming conventions and be uploaded in the correct folder structure within the eSubmission portal. File formats typically required: PDF for technical documentation, Excel for test data summary tables. Electronic signatures (or certified scans of original signatures) are acceptable for most documents.

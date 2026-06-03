@@ -6,7 +6,7 @@ sidebar_position: 4
 
 ## Registration requirement
 
-Clinical trials must be registered in an MFDS-recognised registry before the first participant is enrolled:
+Clinical trials should be registered in an MFDS-recognised registry such as ClinicalTrials.gov or CRIS, typically before the first participant is enrolled, though registration can occur within 30 days of enrollment start:
 - [ClinicalTrials.gov](https://clinicaltrials.gov)
 - [CRIS](https://cris.nih.go.kr) — Korea's national clinical research registry
 

@@ -87,3 +87,5 @@ For borderline cases, HSA's [Consultation Schemes](https://www.hsa.gov.sg/medica
 - [Health Products (Medical Devices) Regulations 2010](https://sso.agc.gov.sg/SL/HPA2007-S436-2010)
 - [HSA: Is it a medical device? (tool)](https://www.hsa.gov.sg/medical-devices/registration/is-it-a-medical-device)
 - [HSA: Regulatory overview of medical devices](https://www.hsa.gov.sg/medical-devices/regulatory-overview)
+
+Software and digital health products: software that meets the intended purpose test is regulated as a medical device (SaMD — Software as a Medical Device) if it performs clinical analysis, diagnosis, or treatment recommendations. See Digital Health and SaMD for HSA's classification framework.

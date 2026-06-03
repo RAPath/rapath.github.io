@@ -33,3 +33,7 @@ GDP requirements are integrated into the ISO 13485-aligned QMS. The QMS should i
 
 - [HSA: Dealer's licence](https://www.hsa.gov.sg/medical-devices/dealers-licence)
 - [HSA: QMS for Medical Devices](https://www.hsa.gov.sg/medical-devices/dealers-licence/quality-management-system-(qms)-for-medical-devices)
+
+## What is GDP?
+
+GDP for medical devices in Singapore is based on HSA guidance aligned with international standards. The requirement is embedded in the QMS obligation under the HP(MD) Regulations 2010 and is enforced through dealer's licence conditions.

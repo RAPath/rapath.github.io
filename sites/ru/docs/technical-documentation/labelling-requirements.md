@@ -49,3 +49,20 @@ Advertising of medical devices in Russia must not be misleading and must comply 
 :::info Official source
 MOH Order No. 11: [minzdrav.gov.ru](https://minzdrav.gov.ru/)
 :::
+
+## Language requirement
+
+Cyrillic script requirement
+​
+All labelling and IFU must be in Russian using Cyrillic script. Latin transliteration of Russian terms is not acceptable. Brand names or trademarks may be presented in Latin characters alongside the Russian translation, but all mandatory regulatory information must appear in Russian Cyrillic.
+
+## IFU requirements
+
+Label space constraints and abbreviated IFU
+​
+Where label space is limited (e.g. on small devices or packaging), an abbreviated IFU referencing the full instructions may be acceptable if:
+- The label clearly directs users to the full IFU
+- All essential safety warnings and contraindications are included on the label itself
+- The full IFU in Russian is provided with the device or packaging
+
+Confirm with Roszdravnadzor whether your device qualifies for abbreviated labelling during dossier preparation.

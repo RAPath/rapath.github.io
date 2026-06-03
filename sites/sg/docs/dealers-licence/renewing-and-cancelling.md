@@ -12,7 +12,7 @@ Dealer's licences have a fixed validity period and must be renewed before expiry
 
 HSA typically issues renewal reminders before a licence expires. Renewal applications are submitted through SHARE:
 
-[hsa.gov.sg/medical-devices/dealers-licence/renew](https://www.hsa.gov.sg/medical-devices/dealers-licence/renew)
+[hsa.gov.sg/medical-devices/dealers-licence/renew-or-cancel](https://www.hsa.gov.sg/medical-devices/dealers-licence/renew)
 
 The renewal process involves confirming that:
 - The QMS remains appropriate and current;

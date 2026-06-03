@@ -173,3 +173,5 @@ Technical documentation must be:
 | MDR Art. 10(8) | Retention period for technical documentation |
 | MDCG 2019-9 | Summary of safety and clinical performance (SSCP) |
 | MDCG 2020-6 | Guidance on templates for technical documentation |
+
+Complete the sentence: 'See Post-market surveillance data in technical documentation.'

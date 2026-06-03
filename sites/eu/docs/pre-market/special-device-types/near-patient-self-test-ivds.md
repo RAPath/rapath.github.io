@@ -128,3 +128,5 @@ Self-test device post-market surveillance has unique aspects:
 | IVDR Annex I §20 | GSPR for near-patient and self-test IVDs |
 | IEC 62366-1:2015+A1:2020 | Usability engineering |
 | MDCG 2022-9 | Performance evaluation guidance (includes self-test) |
+
+The section "Labelling and IFU requirements for self-test devices" currently ends with "Illustrated with step-by-step pictures" and "A" incomplete. Complete this section with: "A reading level appropriate for the general population (typically no higher than secondary school level); Color-coded or symbol-based result indicators (e.g. positive/negative/invalid clearly marked); Clear instructions on what action to take based on the result (e.g. 'If positive, contact your doctor immediately'); Contact information for customer support or further information; Language requirements: IFU must be in the official language(s) of the country where the device is marketed."

@@ -12,7 +12,7 @@ description: NMRA's mandatory Consolidated Dossier submission format — F-MDR-0
 
 The NMRA uses a **Consolidated Dossier approach** — a single, comprehensive application package covering all aspects of device registration in one submission. The dossier structure is defined by the **F-MDR-035 Consolidated Dossier Submission Checklist**, published by the NMRA.
 
-**Important:** From **2 June 2026**, all submissions must use the **revised F-MDR-035 format**. Applications submitted after this date using the old format will be rejected. Download the current checklist from the NMRA website before preparing any submission.
+**Important:** From **2 June 2026**, all submissions must use the **revised F-MDR-035 format**. Applications submitted after this date using the old format will be new on or rejected without NMRA review. Applicants with submissions in progress are advised to confirm the applicable format with NMRA early in the submission process. Download the current checklist from the NMRA website before preparing any submission.
 
 ## Dossier Structure
 
@@ -57,3 +57,7 @@ To bring in samples before registration is complete, the MAH must first obtain a
 The current checklist is available on the **NMRA official website**: [www.nmra.gov.lk](https://www.nmra.gov.lk/) → Application Forms → Medical Devices Regulatory Division.
 
 Always download a fresh copy — do not use forms from previous years. The revised format from 2 June 2026 is the mandatory current version.
+
+Fee Information
+
+Consult the NMRA website (www.nmra.gov.lk) for current application fees associated with consolidated dossier submission. Fees vary by device class and submission route (full vs. reliance). Annual renewal fees are also applicable after initial Registration Certificate issuance.

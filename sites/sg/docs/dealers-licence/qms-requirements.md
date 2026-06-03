@@ -44,3 +44,4 @@ Before a dealer's licence can be issued, an **HSA-recognised Medical Device Audi
 
 - [HSA: QMS for Medical Devices](https://www.hsa.gov.sg/medical-devices/dealers-licence/quality-management-system-(qms)-for-medical-devices)
 - [HSA: Medical Device Auditors](https://www.hsa.gov.sg/medical-devices/dealers-licence/medical-device-auditors)
+

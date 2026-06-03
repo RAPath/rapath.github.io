@@ -118,3 +118,7 @@ All documents: **[DGDA Official Website — www.dgda.gov.bd](https://www.dgda.go
 :::info Documentation quality matters
 DGDA reviewers check documents carefully. Ensure all certificates are current, signatures and stamps are present, translations are certified, and information is consistent across all dossier documents.
 :::
+
+Examples:
+- A manufacturer produces three models of non-invasive blood pressure monitors using the same transducer design and materials. All three can be grouped under one application if they share the same intended clinical purpose (non-invasive monitoring) and differ only in display size or wireless connectivity—peripheral differences that do not affect safety or performance.
+- A manufacturer cannot group a Class B diagnostic device with a Class D implantable device under one application, even if manufactured by the same company, because they have fundamentally different risk profiles and clinical purposes.

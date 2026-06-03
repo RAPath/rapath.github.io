@@ -40,7 +40,7 @@ FDA applies a risk-based approach to SaMD, aligned with the **IMDRF SaMD Risk Ca
 | **II** | Non-serious | Driving clinical management |
 | **I (lowest)** | Any | Informing clinical management |
 
-Higher-risk SaMD typically requires a more rigorous premarket review (PMA or De Novo) and more extensive clinical evidence.
+Higher-risk SaMD (Risk Categories III and IV) typically requires a more rigorous premarket review pathway (PMA or De Novo rather than 510(k)) and substantial clinical evidence, including head-to-head performance studies against applicable reference standards.
 
 ---
 
@@ -74,3 +74,5 @@ SaMD is classified under the same Class I/II/III system as all other devices, us
 - [FDA — Software as a Medical Device](https://www.fda.gov/medical-devices/digital-health-center-excellence/software-medical-device-samd)
 - [FDA — Software Functions Guidance (2023)](https://www.fda.gov/media/117683/download)
 - [IMDRF SaMD Documents](https://www.imdrf.org/documents?field_document_type_target_id%5B%5D=22)
+
+Key distinction: SaMD is standalone software that performs medical functions independently. Device software functions are software embedded within or controlling a hardware device (e.g., firmware in an infusion pump, algorithms in a ventilator). Both are regulated, but device software functions are regulated as part of the hardware device classification, not as separate SaMD.

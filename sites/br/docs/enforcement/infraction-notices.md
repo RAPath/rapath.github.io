@@ -24,7 +24,7 @@ Common grounds for an auto de infração in the medical device context include:
 ## The infraction notice process
 
 1. ANVISA inspector identifies the violation and issues an *auto de infração* at the close of the inspection.
-2. The company has the right to present a **preliminary defence** (*defesa prévia*) within 10 working days.
+2. The company has the right to present a **preliminary defence** (*defesa prévia*) within 10 working days of receipt of the auto de infração. The defence must address each alleged violation and may include evidence of correction, mitigation, or legal argument against the infraction.
 3. ANVISA reviews the defence and issues a decision.
 4. If a penalty is imposed, the company may file an **administrative appeal** (*recurso*) within 10 working days.
 5. Final administrative decision is published.
@@ -37,3 +37,7 @@ Common grounds for an auto de infração in the medical device context include:
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+After the first paragraph, add: "Penalties imposed following an auto de infração may include fines (multas), suspension of product registration, temporary facility closure, or other administrative sanctions. Penalty amounts are graduated based on device class, severity of violation, and company size. The specific penalty framework is defined in Lei 6.437/1977 and ANVISA implementing regulations."
+
+"If no preliminary defence is filed within 10 working days, the infraction notice becomes administratively final. Similarly, if no administrative appeal is filed within 10 working days of ANVISA's decision, the penalty decision becomes final."

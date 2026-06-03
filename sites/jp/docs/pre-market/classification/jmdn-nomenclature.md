@@ -43,3 +43,5 @@ The **Global Medical Device Nomenclature (GMDN)** is an international system use
 ## Creating new JMDN codes
 
 If no existing JMDN code covers a genuinely novel device type, the MAH must request MHLW to create a new code. This process can take 6–12+ months and should be initiated early in the development/regulatory strategy process. A new JMDN code also requires MHLW to assign the risk class and determine pathway eligibility, which may involve engagement with PMDA.
+
+It is advisable to confirm the JMDN code with a Japan-based regulatory consultant or PMDA before formally filing an application, as an incorrect code assignment can delay the application process and may require resubmission.

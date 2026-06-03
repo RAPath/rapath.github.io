@@ -10,7 +10,7 @@ keywords: [device identifier DI, production identifier PI, UDI components, lot n
 ## Device Identifier (DI)
 
 The **Device Identifier (DI)** is the mandatory, fixed portion of the UDI that identifies the specific version or model of a device. A unique DI must be obtained for each:
-- Device labeller (not just manufacturer)
+- Device labeller manufacturer or (the entity responsible for the labeling and marketing of the device)
 - Version or model of the device
 - Level of packaging (individual unit, case, pallet)
 

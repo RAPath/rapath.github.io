@@ -143,3 +143,5 @@ IVDR 2017/746 contains **113 Articles** and **16 Annexes**, mirroring the MDR st
 | Regulation (EU) 2022/112 | First IVDR transitional amendment |
 | Regulation (EU) 2024/1860 | Further IVDR transitional amendments |
 | EUR-Lex consolidated text | Current consolidated IVDR |
+
+Complete the table row: 'Annex VI | Information to be submitted to EUDAMED'

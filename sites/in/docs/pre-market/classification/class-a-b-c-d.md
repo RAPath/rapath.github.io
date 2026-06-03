@@ -60,3 +60,5 @@ keywords: [Class A, Class B, Class C, Class D, India, MDR 2017, device classific
 - Manufacture: CDSCO
 
 **GMP:** Schedule 5 Part I and Part II (full quality system requirements comparable to ISO 13485).
+
+**Note**: Hearing aids classification may vary; some advanced hearing aids with signal processing features may be reclassified as Class C. Verify specific device classification with CDSCO before submission.

@@ -105,7 +105,7 @@ The UDI/device registration module has both public and restricted elements:
 | Device name, description, intended purpose | **Public** |
 | Basic UDI-DI and class | **Public** |
 | Certificate status | **Public** |
-| Manufacturer/EU REP contact details | **Public** |
+| Manufacturer name and EU REP details Public Contact details of manufacturer Restricted (competent authorities only) Full device history and amendments Restricted (competent authorities only) REP contact details | **Public** |
 | Detailed device characteristics | **Public** (for most data) |
 | Clinical investigation links | **Restricted** to registered users |
 

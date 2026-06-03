@@ -44,3 +44,7 @@ Manufacturers of radiation-emitting medical devices must:
 4. Maintain records of testing
 
 > **Legislative source:** Radiation Emitting Devices Act, RSC 1985, c R-1; Radiation Emitting Devices Regulations, CRC, c 1370
+
+## REDA vs MDR
+
+"Some medical devices may be exempt from REDA if they emit radiation only as an unintended consequence of their primary function and the radiation exposure is negligible. Examples may include certain electrical surgical units that emit incidental RF radiation. Manufacturers should consult with Health Canada to confirm whether their device requires REDA compliance before proceeding with market authorization."

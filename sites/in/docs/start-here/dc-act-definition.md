@@ -13,7 +13,7 @@ The Drugs and Cosmetics Act 1940 was originally enacted to regulate drugs and co
 
 ## Section 3(b) — Full text (as amended)
 
-Section 3(b)(iv) of the D&C Act defines "drug" to include:
+Section 3(b) of the D&C Act defines "drug" to include devices as follows:
 
 > *"such devices intended for internal or external use in the diagnosis, treatment, mitigation or prevention of disease or disorder in human beings or animals, as may be specified from time to time by the Central Government by notification in the Official Gazette, after consultation with the Board."*
 
@@ -30,7 +30,7 @@ The Medical Devices Rules 2017 (Rule 3) provide the operative definition for reg
 | Used alone or in combination | Combination products included |
 | Intended by the manufacturer | Intended use test applies |
 | Specific medical purpose | Distinguished from general wellness |
-| Does not achieve principal action through pharmacological means | Excludes drugs |
+| Does not achieve principal action through its chemical, pharmacological, metabolic, or immunological means | Excludes drugs |
 
 ## Official source
 

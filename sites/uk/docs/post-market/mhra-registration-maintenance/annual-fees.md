@@ -34,7 +34,7 @@ MHRA publishes its current fee schedule at:
 
 [gov.uk/guidance/register-as-a-manufacturer-to-sell-medical-devices](https://www.gov.uk/guidance/register-as-a-manufacturer-to-sell-medical-devices)
 
-Always check the current schedule — fees are subject to change and this site cannot guarantee the figures remain current.
+Always consult the official MHRA fee schedule at gov.uk before submitting payment — fees are updated periodically and this site cannot guarantee the figures remain current. The MHRA Submissions portal will display your current fee amount when you log in.
 
 ---
 
@@ -60,3 +60,5 @@ MHRA applies reduced fees for manufacturers that qualify as SMEs under UK Govern
 |---|---|
 | MHRA: Registration fees | Current fee schedule — gov.uk |
 | MHRA: Registering medical devices | Fee payment guidance |
+
+MHRA typically provides notice of upcoming fees and a deadline for payment. If payment is not received by the deadline, the manufacturer should contact MHRA immediately to discuss payment options. Continued non-payment without contact may result in automatic suspension without further warning.

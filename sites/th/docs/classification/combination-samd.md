@@ -75,3 +75,7 @@ Must be clearly labelled as single-use. Thai FDA has requirements for single-use
 ## Export-Only Devices
 
 Devices manufactured in Thailand for export only (not for domestic market placement) follow a separate registration pathway. Contact the MDCD for current requirements.
+
+Thai FDA Guidance: When the principal action is unclear, manufacturers may request a pre-submission meeting with the MDCD to obtain a written determination before proceeding with full application preparation. This formal clarification is strongly recommended for combination products to avoid rejection or reclassification during review.
+
+Custom-Made Devices Exemption: Devices manufactured for a specific individual patient on a clinician's written prescription may be exempt from standard Thai FDA registration. To qualify: (1) the device must be uniquely designed for that patient, (2) a written prescription from a licensed clinician must be on file, (3) manufacturing must be documented with traceability. Contact the MDCD for a formal exemption determination and documentation requirements. This exemption does not apply to devices manufactured in batches for potential future use.

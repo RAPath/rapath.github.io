@@ -8,7 +8,7 @@ keywords: [ANVISA, Brazil, medical device]
 # Interdição (Seizure) & Apprehension by VISA
 
 :::info BR-unique
-**Interdição** is the physical seizure and apprehension of medical devices by ANVISA or state/municipal VISA bodies — a direct enforcement action with no direct parallel in EU, US, AU, SG, or CA frameworks in terms of how frequently it is used.
+Interdição (also called Apreensão) is the physical seizure and apprehension of medical devices by ANVISA or state/municipal VISA bodies — an enforcement action that allows for immediate removal of non-compliant devices from the market.
 :::
 
 VISA bodies may order interdição when:

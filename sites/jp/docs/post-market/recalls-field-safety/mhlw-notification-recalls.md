@@ -12,9 +12,8 @@ Japan requires MAHs to notify MHLW before or immediately upon initiating a recal
 ## When to notify MHLW
 
 The MAH must notify MHLW:
-- **Before** initiating the recall, where time permits — ideally MHLW is informed of the planned recall action before the first customer notification
-- **Immediately upon** initiating the recall, where the urgency of the situation means simultaneous MHLW notification and customer action is necessary
-- **In all cases**, MHLW must be notified promptly — delays in MHLW notification are a compliance issue
+Before initiating the recall, where time permits — ideally MHLW is informed of the planned recall action before or simultaneously with the first customer notification
+Immediately upon initiating the recall, where the urgency of the situation means customer notification cannot be delayed pending MHLW approval
 
 ## Required information in the notification
 
@@ -40,3 +39,12 @@ After notification:
 ## Recall effectiveness verification
 
 The MAH must verify that the recall has reached all affected customers and that the required action (return, correction, or quarantine) has been completed. A final effectiveness report is submitted to MHLW when the recall is closed.
+
+Recall classification system
+
+Recalls are classified using the international risk classification system:
+- Class I: Serious adverse health consequences or death is possible
+- Class II: Adverse health consequences or serious adverse health consequences is possible, but is not likely
+- Class III: Adverse health consequences is not likely
+
+The classification must be justified in the MHLW notification based on the severity of the defect and the likelihood of harm. PMDA guidance documents provide decision trees for appropriate classification of specific device issues.

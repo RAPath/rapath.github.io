@@ -26,7 +26,7 @@ ANVISA accepts FSCs issued by:
 - Must be issued by a competent regulatory authority;
 - Must identify the specific device (name, model, manufacturer);
 - Must confirm the device is legally marketed in the issuing country; and
-- Must be current (typically not older than 1–3 years, per ANVISA's current requirements at the time of submission).
+- Must be current and typically issued no more than 2 years before submission to ANVISA (though ANVISA may accept older FSCs on a case-by-case basis if the device remains legally marketed in the issuing country).
 
 FSCs should be accompanied by a certified Portuguese translation.
 
@@ -35,3 +35,5 @@ FSCs should be accompanied by a certified Portuguese translation.
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+FSCs from MERCOSUL regulatory authorities (MERCOSUL member countries' competent authorities) are also accepted by ANVISA as part of MERCOSUL regulatory harmonization agreements. This includes authorities from Argentina, Paraguay, and Uruguay.

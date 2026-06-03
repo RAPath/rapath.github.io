@@ -13,7 +13,7 @@ State and municipal *Vigilância Sanitária* (VISA) bodies have independent enfo
 
 ## State VISA bodies
 
-Each of Brazil's 26 states and the Federal District has its own VISA body. Their key roles include:
+Each of Brazil's 26 states and the Federal District has its own VISA (Brasília) body, for a total of 27 state/federal district VISA authorities. Their key roles include:
 
 - GMP inspections of manufacturers and importers;
 - Market surveillance — pulling non-compliant products from the market;

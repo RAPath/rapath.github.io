@@ -8,41 +8,51 @@ tags: [legislation]
 
 # MDSAR 2021
 
-**Medical Device Supervision and Administration Regulations 2021**
-**医疗器械监督管理条例 (State Council Order No. 739)**
+Medical Device Supervision and Administration Regulations 2021
+医疗器械监督管理条例 (State Council Order No. 739)
 
-MDSAR 2021 is China's primary medical device regulation. It came into force on **1 June 2021**, replacing the 2017 version. It is a State Council (国务院) regulation — one level below national law in the Chinese legal hierarchy, but binding on all parties in the supply chain.
+MDSAR 2021 is China's primary medical device regulation. It came into force on 1 June 2021, replacing the 2017 version. It is a State Council (国务院) regulation — one level below national law in the Chinese legal hierarchy, but binding on all parties in the supply chain.
 
 ---
 
 ## Structure
 
-MDSAR 2021 has **8 Chapters and 107 Articles**:
+MDSAR 2021 has 8 Chapters and 107 Articles:
 
-| Chapter | Title | Key articles |
-|---|---|---|
-| I | General Provisions | Arts. 1–9: Purpose, definitions, jurisdiction |
-| II | Medical Device Registration and Filing | Arts. 10–43: Registration obligations by class, China Agent, dossier requirements, certificate |
-| III | Medical Device Production | Arts. 44–57: Production licence, GMP, quality system |
-| IV | Medical Device Operation | Arts. 58–72: Business licence, storage, traceability, advertising |
-| V | Medical Device Supervision and Administration | Arts. 73–80: NMPA powers, market surveillance, inspection |
-| VI | Adverse Event Monitoring and Re-evaluation | Arts. 81–87: Reporting, PMS, recalls |
-| VII | Legal Liability | Arts. 88–101: Penalties for violations |
-| VIII | Supplementary Provisions | Arts. 102–107: Definitions, effective date |
+Chapter
+        Title
+        Key articles
+        I
+        General Provisions
+        Arts. 1–9: Purpose, scope, definitions, NMPA jurisdiction
+        II
+        Medical Device Registration and Filing
+        Arts. 10–43: Registration and filing by class, China Agent, dossier requirements, certificate issuance and validity
+        III
+        Medical Device Production
+        Arts. 44–57: Production licence requirement and exemptions, GMP compliance, quality system
+        IV
+        Medical Device Operation
+        Arts. 58–72: Business licence, storage and transportation, traceability, distribution, advertising restrictions
+        V
+        Medical Device Supervision and Administration
+        Arts. 73–80: NMPA authority, market surveillance, inspection and sampling
+        VI
+        Adverse Event Monitoring and Re-evaluation
+        Arts. 81–87: Adverse event reporting, post-market surveillance, risk re-evaluation, recalls and corrections
+        VII
+        Legal Liability
+        Arts. 88–101: Administrative and criminal penalties for violations
+        VIII
+        Supplementary Provisions
+        Arts. 102–107: Interpretation, transitional provisions, effective date
 
 ---
 
 ## Key articles
 
-| Article | Subject |
-|---|---|
-| Art. 13 | Class I filing requirement |
-| Art. 14 | Class II registration requirement |
-| Art. 15 | Class III / imported registration requirement |
-| Art. 39 | China Agent mandatory requirement and joint liability |
-| Art. 44 | Production licence requirement (Class II/III) |
-| Art. 76 | Definitions — medical device, IVD, registrant |
-| Arts. 88–101 | Penalty provisions |
+Arts. 102–107
+        Definitions and effective date (Chapter VIII Supplementary Provisions includes key definitions; primary definitions are found in Arts. 1-9 Chapter I General Provisions)
 
 ---
 

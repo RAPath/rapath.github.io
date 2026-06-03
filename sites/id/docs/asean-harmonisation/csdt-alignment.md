@@ -14,7 +14,7 @@ The **ASEAN Common Submission Dossier Template (CSDT)** is the standardised form
 
 ## How Regalkes Maps to the CSDT
 
-Indonesia's Regalkes submission format closely follows the CSDT module structure, with the following country-specific additions:
+BPOM's Regalkes submission portal requires dossiers to follow the CSDT module structure with the following country-specific additions:
 
 | CSDT Module | Regalkes Requirement | Indonesia-Specific Additions |
 |---|---|---|
@@ -42,7 +42,7 @@ If you have already registered a device through Singapore's HSA using a CSDT, th
 5. **ISO 13485 / GMP**: Verify currency; apostille as required
 6. **Regalkes formatting**: Rename files per Regalkes naming conventions; restructure document organisation to match Regalkes template
 
-Clinical evidence, risk management, technical specifications, and performance data can largely be reused from the HSA submission.
+Clinical evidence, risk management, technical specifications, and performance data can largely be reused from the HSA submission, provided they are restructured to fit BPOM's Regalkes template format and any BPOM-specific requirements outlined in the dossier checklist.
 
 ---
 
@@ -58,3 +58,7 @@ EU MDR Technical Documentation (TD) can be adapted for Indonesia but requires mo
 | Labeling translation | Full Bahasa Indonesia translation of all safety content |
 | Biocompatibility | ISO 10993 data acceptable |
 | Standards | Map EU MDR referenced standards to equivalent ASEAN/Indonesian standards |
+
+## How Regalkes Maps to the CSDT
+
+"Regalkes is BPOM's web-based registration system for medical device submissions. The CSDT structure is adapted to align with Regalkes' module requirements for dossier submission and evaluation."

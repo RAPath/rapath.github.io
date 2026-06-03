@@ -42,3 +42,7 @@ The Medical Devices Law and Implementing Regulation are published in Arabic on t
 
 - [MDS-REQ Series](./mds-req-series)
 - [Regulatory Framework Overview](../getting-started/regulatory-framework-overview)
+
+Modify the opening paragraph to:
+
+The **Medical Devices and Supplies Regulation** — commonly referred to as the **Medical Devices Law** — is the primary legislation governing medical devices in the Kingdom of Saudi Arabia. It was issued by the Council of Ministers as **Resolution No. 337** and came into effect on **[INSERT SPECIFIC DATE, e.g., June 1, 2021]**, replacing the earlier Medical Device Interim Regulation. [Verify the exact date from the SFDA website and insert.]

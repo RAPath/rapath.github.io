@@ -33,3 +33,5 @@ A Class II device requires Shonin when:
 3. MHLW has specifically designated the device type as requiring Shonin
 
 If you begin a Ninsho application and the RCB determines the device falls outside the standard, you will need to restart with a Shonin application.
+
+Class II devices using the Ninsho pathway typically complete certification within 6–12 months, whereas those requiring Shonin may take 12–24+ months due to PMDA scientific review.

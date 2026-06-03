@@ -48,3 +48,5 @@ Domestic manufacturers of Class I devices must also complete a **production fili
 :::note Disclaimer
 Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [NMPA](https://www.nmpa.gov.cn/) sources before making regulatory decisions. Not affiliated with NMPA or any Chinese Government body. Not legal or regulatory advice.
 :::
+
+Class I filing records do not have an expiration date, but manufacturers must maintain compliance with the registered Product Technical Requirements (PTR) and notify the filing authority of any changes that affect device safety or performance.

@@ -28,3 +28,7 @@ Even for export-only devices, Canadian manufacturers must maintain a quality man
 Canadian manufacturers producing export-only Class I devices should consult Health Canada about their specific MDEL obligations, as the activity of manufacturing for export may require MDEL registration.
 
 > **Legislative source:** Food and Drugs Act, s 37 (export exemptions); Medical Devices Regulations, SOR/98-282
+
+## Quality system requirements still apply
+
+"While export-only devices are exempt from Device Licence requirements in Canada, manufacturers must still comply with the full Medical Devices Regulations quality system requirements (SOR/98-282, Part 2). This includes maintaining documented procedures, risk management, design controls, and complaint handling systems equivalent to those required for devices sold in Canada. However, manufacturers may align their QMS with the regulatory requirements of the destination country if those requirements are more stringent than Canadian requirements."

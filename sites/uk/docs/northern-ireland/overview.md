@@ -31,7 +31,7 @@ This means:
 - **CE marking** is required for devices on the NI market
 - **EU Notified Bodies** must be used for third-party conformity assessment for the NI market
 
-This alignment was established by the Northern Ireland Protocol (now the Windsor Framework) as part of the UK's withdrawal from the EU, to preserve the frictionless goods flow across the Ireland/NI land border.
+This alignment was established by the Northern Ireland Protocol The Windsor Framework (agreed March 2023) updated and superseded the original Protocol. as part of the UK's withdrawal from the EU, to preserve the frictionless goods flow across the Ireland/NI land border.
 
 ## MHRA's dual role in Northern Ireland
 

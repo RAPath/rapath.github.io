@@ -9,7 +9,7 @@ tags: [uk-mdr, labelling, post-market]
 ---
 
 :::note[Regulatory basis]
-Labelling requirements are in **Schedule 1, Essential Requirement 18 of the UK MDR 2002**. For IVDs, the equivalent requirements are in **Schedule 1A of Part III**. All devices placed on the GB market must comply with these labelling requirements regardless of whether they bear a UKCA or CE mark.
+Labelling requirements are in Schedule 1, Essential Requirement 18 of the UK MDR 2002. For IVDs, the equivalent requirements are in Schedule 1A of Part III. All devices placed on the GB market must comply with these labelling requirements regardless of whether they bear a UKCA or CE mark.
 :::
 
 ---
@@ -30,7 +30,7 @@ The following information must appear on the label or, where this is not practic
 
 ### 1. Manufacturer identification
 - The name or trade name and the address of the manufacturer
-- For devices manufactured outside the UK: in addition to the manufacturer's details, the name and address of the **UK Responsible Person (UKRP)** must be stated
+- For devices manufactured outside the UK: in addition to the manufacturer's details, the name and address of the UK Responsible Person (UKRP) must be stated
 
 ### 2. Device identification
 - The device name or trade name
@@ -39,7 +39,7 @@ The following information must appear on the label or, where this is not practic
 - Batch/lot number (preceded by "Lot") or serial number (preceded by "SN")
 
 ### 3. UKCA mark / CE mark
-- The **UKCA mark** (for devices compliant with UK MDR 2002 under UKCA route) or the **CE mark** (for devices relying on CE marking under transitional acceptance)
+- The UKCA mark (for devices compliant with UK MDR 2002 under UKCA route) or the CE mark (for devices relying on CE marking under transitional acceptance)
 - For devices requiring UKAB involvement: the UKAB identification number alongside the UKCA/CE mark
 
 ### 4. Dates
@@ -63,7 +63,7 @@ The following information must appear on the label or, where this is not practic
 
 ### 9. For IVDs additionally:
 - The "IVD" symbol or the words "In Vitro Diagnostic"
-- For List A and List B devices: the CE mark (or UKCA mark) with the UKAB number
+- For List A and List B IVDs: the CE mark with the Notified Body number (UKCA is not applicable to IVDs under current UK regulations)
 - Performance characteristics summary
 - Specimen type(s) intended
 
@@ -71,13 +71,13 @@ The following information must appear on the label or, where this is not practic
 
 ## Language requirements
 
-All mandatory label information must be in **English** for the GB market. Additional languages may be included but English is required. Instructions for Use must be in English.
+Language requirements: All mandatory label information must be in English for the GB market. Additional languages may be included but English is required for all safety-critical information. Instructions for Use (IFU) must be provided in English. Where a device is supplied to a healthcare facility that specifies an additional language for safe use, the IFU may be provided in that language in addition to English.
 
 ---
 
 ## UKRP on the label
 
-For devices placed on the GB market by a **non-UK manufacturer**, the label (or packaging or IFU where the label is too small) must include the UKRP's name and address. The UKRP must be identified as such (e.g., "UK Responsible Person:" followed by name and address).
+For devices placed on the GB market by a non-UK manufacturer, the label (or packaging or IFU where the label is too small) must include the UKRP's name and address. The UKRP must be identified as such (e.g., "UK Responsible Person:" followed by name and address).
 
 This requirement applies whether the device bears a UKCA or CE mark.
 

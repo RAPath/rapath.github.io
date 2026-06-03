@@ -25,3 +25,5 @@ Submit via MFDS eSubmission portal (의료기기 전자민원).
 
 ## Related pages
 - [Korean agent obligations](./korean-agent-obligations) · [Foreign GMP certificate requirement](../../gmp-quality-system/foreign-manufacturers/foreign-gmp-certificate-requirement)
+
+Designated Quality Assurance Manager with qualifications meeting MFDS standards (typically requiring relevant academic background and experience in medical device quality assurance)

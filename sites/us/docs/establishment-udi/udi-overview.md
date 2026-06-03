@@ -42,3 +42,6 @@ The UDI must appear on the device label in:
 ## Official resources
 - [21 CFR Part 830 — UDI](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-H/part-830)
 - [FDA — UDI System](https://www.fda.gov/medical-devices/unique-device-identification-system-udi-system)
+
+UDI Compliance Timeline
+UDI compliance became mandatory for most devices on January 1, 2020. Phased implementation timelines vary by device class and type — check 21 CFR 801.20 and FDA guidance for your specific device category. Devices lacking required UDI will be considered misbranded.

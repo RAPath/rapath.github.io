@@ -21,3 +21,5 @@ MFDS GCP for medical device clinical trials is aligned with **ISO 14155**:
 ## Relevant legislation
 - Medical Devices Act, Articles 10–12
 - MFDS Notification — GCP standards for medical device clinical trials
+
+Korean IRBs reviewing medical device trials must include at least one member with medical device expertise. Standard IRB composition requirements under the Bioethics and Safety Act apply, including lay members and community representatives.

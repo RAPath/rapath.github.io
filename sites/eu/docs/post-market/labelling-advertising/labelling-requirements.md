@@ -123,3 +123,16 @@ NCAs enforce labelling requirements during market surveillance inspections. Non-
 | Commission Regulation (EU) 207/2012 | eIFU rules |
 | MDCG 2019-16 | IFU content guidance |
 | MDCG 2020-3 | Significant change assessment (relevant for labelling updates) |
+
+Complete the final section:
+
+Electronic instructions for use (eIFU)
+​
+For non-implantable devices, MDR permits electronic IFU (eIFU) as an alternative to printed instructions where:
+
+- The device is supplied with electronic means of access (QR code, NFC, URL)
+- The user can reliably access the eIFU before use
+- The eIFU is available for the lifetime of the device
+- Printed safety-critical information (warnings, contraindications) remains on or with the device
+
+eIFU reduces translation and printing costs for multi-market devices, but manufacturers must ensure reliable access and maintain versions in all required languages. Printed backup instructions should be available upon request.

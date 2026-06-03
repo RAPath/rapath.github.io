@@ -76,3 +76,7 @@ If an FSCA is initiated in another country (e.g. US, EU, Australia), the Malaysi
 :::tip Maintain a Distribution List
 Maintain an up-to-date distribution list with batch/lot traceability to all direct customers. This is essential for rapid, targeted FSCAs. MDA will ask you to demonstrate the scope of notification during FSCA reviews.
 :::
+
+**Proactive Safety Monitoring Across Markets**
+
+Manufacturers and LARs must continuously monitor safety information from other regulatory authorities (FDA, EMA, TGA, etc.). If a safety issue is identified in another market affecting the same device design distributed in Malaysia, the LAR must assess the risk to Malaysian patients and either initiate an FSCA in Malaysia or document the assessment showing why no action is needed. This obligation exists independently of whether another country initiates an FSCA.

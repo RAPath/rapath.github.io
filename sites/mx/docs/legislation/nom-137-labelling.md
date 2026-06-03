@@ -57,3 +57,6 @@ Available through:
 - [Labelling — NOM-137 (post-market section)](../postmarket/labelling-nom-137)
 - [Technical dossier requirements](../premarket/technical-dossier)
 - [NOMs overview](noms-overview)
+
+Transition guidance (when PROY-NOM-137-SSA1-2024 is published as final):
+When the updated NOM-137-SSA1-2024 is formally published, COFEPRIS will announce a transition period. Manufacturers will be required to migrate labelling to comply with the new standard by a specified date. During the transition period, existing labels complying with the 2008 version may remain in use until inventory is exhausted, subject to COFEPRIS guidance. Monitor the DOF and COFEPRIS website for transition timeline and any grandfathering provisions.

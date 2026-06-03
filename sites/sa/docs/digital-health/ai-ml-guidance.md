@@ -31,10 +31,14 @@ In addition to standard SaMD requirements, AI/ML devices should address in the t
 
 ## Predetermined Change Control Plans (PCCPs)
 
-For **adaptive AI/ML algorithms** (those that learn or update after deployment), the SFDA is expected to align with IMDRF guidance on **Predetermined Change Control Plans (PCCPs)** — pre-agreed protocols describing the types of changes the algorithm may undergo without requiring a new MDMA submission. This is an emerging area and manufacturers should monitor SFDA guidance updates.
+For **adaptive AI/ML algorithms** (those that learn or update after deployment), the SFDA aligns with IMDRF guidance on **Predetermined Change Control Plans (PCCPs)** — pre-agreed protocols describing the types of changes the algorithm may undergo without requiring a new MDMA submission. This is an emerging area and manufacturers should monitor SFDA guidance updates.
 
 ## Further reading
 
 - [SaMD Overview](./samd-overview)
 - [SFDA Digital Health Framework](./sfda-digital-health)
 - [Software & SaMD Classification](../device-classification/software-samd-classification)
+
+When PCCPs are Required
+
+Adaptive algorithms — those that incorporate continuous learning, post-deployment model updates, or dynamic re-training — require Predetermined Change Control Plans. Examples include diagnostic algorithms that learn from new patient data or monitoring systems that adjust thresholds based on population feedback. Manufacturers should prospectively define in the PCCP which types of algorithm updates can proceed without re-submission and which trigger new MDMA submissions. Non-adaptive, static algorithms do not require PCCPs.

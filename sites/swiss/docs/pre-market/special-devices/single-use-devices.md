@@ -20,3 +20,7 @@ The manufacturer must: indicate single-use status prominently on the label; incl
 :::warning Disclaimer
 AI-assisted content for navigation only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
 :::
+
+Healthcare Institution Reprocessing
+
+Under MedDO Art. 17 para. 2, healthcare institutions may reprocess single-use devices for use in their own patients only if they: establish and maintain a validated reprocessing procedure; implement appropriate quality assurance and risk management; maintain records of all reprocessing activities; notify Swissmedic of their reprocessing practices. The institution assumes full responsibility for the reprocessed device's safety and performance. Reprocessed devices must not be distributed to other healthcare facilities or the public.

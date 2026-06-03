@@ -90,3 +90,7 @@ MDA will acknowledge receipt and may request further information.
 ## Record Keeping
 
 All adverse event reports, investigation files, and MDA correspondence must be retained for at least **5 years** from the date of the report or the date of the last device manufactured, whichever is later.
+
+**Reporting of International Events**
+
+If an adverse event occurs in another country involving a device registered in Malaysia (bearing a Malaysian DRN), the manufacturer or LAR must assess whether the event is reportable under Malaysian timelines and report it to MDA if it meets the reportable criteria, even if it has already been reported to another regulator.

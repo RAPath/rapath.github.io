@@ -25,7 +25,7 @@ A combination product consists of two or more regulated components — a device 
 
 ### How classification is determined
 
-The primary mode of action determines the lead regulatory pathway:
+The **primary (principal) mode of action** determines the lead regulatory pathway. This is the mechanism by which the product achieves its intended therapeutic or diagnostic effect. Secondary mechanisms do not change classification.
 
 | Primary mode of action | Lead pathway |
 |---|---|
@@ -40,3 +40,5 @@ Submit a **consulta de enquadramento** via ANVISA's Peticionamento Eletrônico. 
 ## Official resources
 
 - [ANVISA — Peticionamento Eletrônico](https://peticionamento.anvisa.gov.br)
+
+## Seeking a classification opinion

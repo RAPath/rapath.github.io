@@ -21,7 +21,7 @@ The cost of MFDS overseas inspections (inspector travel, accommodation, fees) is
 
 ## Preparing for an MFDS overseas inspection
 
-- All documentation must be available in Korean (translation required)
+- All quality documentation, batch records, and procedural records must be available in Korean or with certified Korean translation. MFDS may accept documents in English for reference, but all records of regulatory significance must be in Korean.
 - Facility in normal operation during inspection
 - Key personnel (QA Manager, production manager) present and available for interview
 - All records complete and current
@@ -29,3 +29,5 @@ The cost of MFDS overseas inspections (inspector travel, accommodation, fees) is
 
 ## Related pages
 - [Foreign GMP certificate requirement](./foreign-gmp-certificate-requirement) · [Recognised foreign GMP certificates](./recognised-foreign-gmp-certificates)
+
+## Who pays?

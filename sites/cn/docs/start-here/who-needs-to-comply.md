@@ -53,3 +53,5 @@ Hospitals and clinics using medical devices have obligations under MDSAR 2021 to
 :::note Disclaimer
 Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [NMPA](https://www.nmpa.gov.cn/) sources before making regulatory decisions. Not affiliated with NMPA or any Chinese Government body. Not legal or regulatory advice.
 :::
+
+For certain Class II and III devices, manufacturers must submit technical documentation and clinical data through NMPA-designated notified bodies. These independent testing organizations conduct technical reviews and safety assessments. Manufacturers must work with a notified body during the registration process to receive a technical review report (检测报告).

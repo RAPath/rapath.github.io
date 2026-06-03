@@ -36,3 +36,5 @@ If the overseas manufacturer and Kannin MAH part ways, the approval must be **tr
 ## Common Kannin service providers
 
 Specialist Kannin MAH companies exist in Japan offering regulatory, QMS, and post-market surveillance services to overseas manufacturers. Law firms and regulatory consulting companies also offer MAH services. Selection should be based on scope, expertise in the relevant device categories, and financial stability.
+
+When selecting a Kannin MAH service provider, assess their financial stability and longevity. If a Kannin MAH company ceases operations without facilitating an orderly transfer of approvals to a new MAH, the approvals will lapse. Include contractual provisions and escrow arrangements (such as data escrow or successor-MAH nomination clauses) to protect against this scenario.

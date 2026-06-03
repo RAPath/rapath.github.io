@@ -53,3 +53,7 @@ For a PMDA on-site inspection of a foreign manufacturing site:
 4. An interpreter (usually arranged by the MAH) facilitates communication
 5. Inspection findings are communicated to the MAH in writing after the inspection
 6. The MAH coordinates the site's response to findings
+
+## Prefectural government inspection scope
+
+Escalation to PMDA. If a prefectural inspection of a domestic Class I or II manufacturer identifies significant QMS deficiencies or safety concerns, the prefectural government reports findings to MHLW. Serious findings may trigger a PMDA investigation or for-cause inspection, particularly if the device is involved in an adverse event or recall.

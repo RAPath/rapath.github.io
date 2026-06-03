@@ -10,7 +10,7 @@ description: Overview of the Device Licence application process for Class II, II
 
 A **Device Licence** is the market authorisation required to sell **Class II, III, and IV** medical devices in Canada. It is issued by Health Canada's Medical Devices Directorate (MDD) upon satisfactory review of a manufacturer's application.
 
-The Device Licence is issued to the **manufacturer** and is specific to a device model or family of devices.
+The Device Licence is issued to the **manufacturer** and is specific to a device model, variant, Each Device Licence is assigned a unique licence number and applies only to the devices and manufacturing site(s) specified in the application. or family of devices.
 
 ## Who must apply
 
@@ -75,7 +75,7 @@ A complete Device Licence application includes:
 | Class III | 75 days |
 | Class IV | 300 days |
 
-These are target times — complex submissions or those requiring additional information may take longer.
+These are target review times from the date Health Canada accepts the application as complete. Complex submissions, those requiring additional information (Deficiency Notices), or those requiring external expert consultation may exceed these timeframes. The clock may be paused while the applicant responds to deficiency requests.
 
 ## After licensing
 
@@ -85,3 +85,7 @@ Once a Device Licence is issued:
 - Ongoing post-market obligations begin immediately
 
 > **Legislative source:** Medical Devices Regulations, SOR/98-282, ss 32–43 (Device Licence applications)
+
+Class I devices — Post-market obligations
+
+Although Class I devices do not require pre-market Device Licence approval, manufacturers must comply with post-market obligations including adverse event reporting, recall procedures, and Medical Device Establishment Licence (MDEL) requirements if manufacturing or importing the device. Class I devices are subject to inspection and enforcement action if safety issues are identified.

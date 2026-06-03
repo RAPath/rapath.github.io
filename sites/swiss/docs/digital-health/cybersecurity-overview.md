@@ -9,11 +9,11 @@ keywords: [cybersecurity, medical device security, IEC 81001-5-1, MedDO, Switzer
 Cybersecurity is a safety requirement for medical devices that contain software or are connected to other systems. This page provides an overview of Swiss cybersecurity requirements for medical devices. For the pre-market technical documentation requirements in detail, see [Cybersecurity Requirements](../pre-market/gspr/cybersecurity).
 
 ## Regulatory Basis
-**MedDO Annex I § 17.2** requires that devices with software or connectivity achieve a level of IT security appropriate to their intended purpose, protect against unauthorised access affecting device operation or safety, and have documented minimum security requirements.
+MedDO Annex I § 17.2 requires that devices with software or connectivity achieve a level of IT security appropriate to their intended purpose, protect against unauthorised access affecting device operation or safety, and have documented minimum security requirements.
 
-**MDCG 2019-16** (Guidance on cybersecurity for medical devices) is the primary interpretive guidance, applicable in Switzerland.
+MDCG 2019-16 (Guidance on cybersecurity for medical devices) is the primary interpretive guidance, applicable in Switzerland.
 
-**IEC 81001-5-1:2021** is the primary harmonised standard for medical device cybersecurity lifecycle management.
+IEC 81001-5-1:2021 is the primary harmonised standard for medical device cybersecurity lifecycle management.
 
 ## Pre-Market Cybersecurity Requirements Summary
 Technical documentation must include:
@@ -25,11 +25,7 @@ Technical documentation must include:
 - Software Bill of Materials (SBOM) for third-party components
 - Documented security update/patch management process
 
-## Post-Market Cybersecurity Obligations
-- **Vulnerability monitoring**: Continuous monitoring of CVE databases and third-party component vendor advisories for vulnerabilities in components used in the device
-- **Patch management**: Timely assessment and deployment of security patches as part of the PMS process
-- **Incident reporting**: Cybersecurity incidents that result in or could result in patient harm are reportable to Swissmedic via eVigilance as serious incidents
-- **SBOM maintenance**: The SBOM must be maintained and updated as the software evolves
+Incident reporting : Cybersecurity incidents, vulnerabilities, or exploits that result in or could result in patient harm are reportable to Swissmedic via eVigilance as serious incidents; manufacturers should also implement internal processes to monitor security incident trends and assess causality to the medical device
 
 ## Connection to nFADP
 Connected medical devices that process personal health data must comply with both MedDO cybersecurity requirements and the Swiss Federal Data Protection Act (nFADP, SR 235.1). Health data is classified as particularly sensitive personal data under nFADP, attracting heightened protection obligations including: appropriate technical and organisational security measures; data breach notification to the Federal Data Protection and Information Commissioner (FDPIC) and affected individuals.
@@ -42,3 +38,5 @@ Connected medical devices that process personal health data must comply with bot
 :::warning Disclaimer
 AI-assisted navigation aid only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
 :::
+
+Revise the 'Regulatory Basis' section to read:

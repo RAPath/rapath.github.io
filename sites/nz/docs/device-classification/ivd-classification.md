@@ -60,3 +60,5 @@ Unlike the 22-rule system for non-IVD devices, IVD classification is based prima
 | European Union | EU IVDR 2017/746 | Yes — CE marking required |
 
 This is one of the most significant areas where NZ diverges from its regulatory neighbours. Sponsors selling IVDs in both NZ and AU must meet the full TGA IVD framework for Australia, but only need to voluntarily notify (or simply maintain evidence) for New Zealand.
+
+If an IVD is intended for multiple purposes (e.g., diagnosis and monitoring), the highest applicable class across all intended uses determines the final classification.

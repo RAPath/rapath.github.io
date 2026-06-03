@@ -16,7 +16,7 @@ Classification is set out in **Schedule 2 of the Medicines (Database of Medical 
 
 ## Who classifies the device?
 
-:::warning Classification is the sponsor's (and manufacturer's) responsibility
+:::warning Classification is the sponsor's (and Medsafe's categorisation service (devices@health.govt.nz), consult manufacturer,'s) responsibility
 Medsafe does **not** classify devices. Classification is the responsibility of the manufacturer or sponsor, and must be justified in technical documentation. Medsafe does not offer pre-market classification rulings. If you are uncertain, consult the manufacturer or seek independent regulatory advice.
 :::
 
@@ -74,3 +74,5 @@ See [The 22 Classification Rules](/device-classification/the-22-rules) for rule-
 New Zealand's rules are based on the original **GHTF (Global Harmonization Task Force)** framework — the same foundation used by the EU Medical Devices Directive and the Australian TGA prior to the EU MDR transition.
 
 Because New Zealand has **not adopted the EU MDR (2017/745) classification changes**, some devices that moved from Class IIa to IIb (or from IIb to III) under the EU MDR may still carry their older, lower NZ classification. Always verify against Schedule 2 — never assume your EU MDR class is your NZ class.
+
+Schedule 2 can be accessed via the New Zealand legislation website (legislation.govt.nz) or through Medsafe's regulatory guidance documents. The full text of the Medicines (Database of Medical Devices) Regulations 2003 is publicly available.

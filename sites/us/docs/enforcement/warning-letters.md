@@ -17,6 +17,7 @@ A **warning letter** is FDA's primary enforcement communication — it is public
 
 ## Key facts
 - Must respond in writing within **15 business days**
+- Response should address each 483 observation and explain corrective actions taken or planned. Failure to respond adequately or failure to promptly correct violations may result in escalated enforcement action, including seizure, injunction, or criminal prosecution.
 - Published publicly on FDA's website
 - Visible to customers, partners, and other regulators globally
 

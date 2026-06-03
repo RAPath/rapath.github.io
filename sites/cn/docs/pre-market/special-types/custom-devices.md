@@ -40,3 +40,5 @@ Refer to [CMDE technical review guidelines](https://www.cmde.org.cn/) specific t
 :::note Disclaimer
 Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [NMPA](https://www.nmpa.gov.cn/) sources before making regulatory decisions. Not affiliated with NMPA or any Chinese Government body. Not legal or regulatory advice.
 :::
+
+Custom-made devices (such as patient-specific implants manufactured to individual patient specifications) follow a streamlined registration pathway under NMPA Order No. 55. The applicant must register with a single clinical institution and provide evidence of medical necessity, material biocompatibility, sterilization validation, and labelling. A separate custom device registration certificate is issued for each patient or small batch. While simplified compared to mass-produced devices, custom devices still require NMPA approval before manufacturing. Batch modifications or use in additional patients require separate registration.

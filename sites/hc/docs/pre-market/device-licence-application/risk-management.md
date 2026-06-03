@@ -66,3 +66,5 @@ For **Class II** devices, a risk management summary is typically sufficient.
 The risk management process does not end at market authorisation. Post-market information (complaints, incidents, vigilance data) must feed back into the risk management process. This is particularly important when preparing for licence amendments or periodic reviews.
 
 > **Legislative source:** Medical Devices Regulations, SOR/98-282, Schedule 1; ISO 14971:2019
+
+For Class I devices, while a Device Licence application is not submitted to Health Canada, manufacturers must still conduct risk management in accordance with ISO 14971:2019 and maintain the risk management file internally. This documentation must be available for inspection and is essential for post-market surveillance and recall management.

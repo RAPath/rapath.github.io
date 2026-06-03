@@ -27,7 +27,7 @@ Fees are per product group — device families with the same basic design may qu
 | Class IIb registration | 8–16 weeks |
 | Class III registration | 12–24 weeks |
 
-Incomplete submissions are placed on hold pending additional information.
+Incomplete submissions are placed on hold pending additional These timelines apply only to complete submissions with all required documentation. information and the timeline restarts upon resubmission of missing documents. Processing times may be extended if Swissmedic requests clarifications or additional technical information from the applicant.
 
 ## Official Sources
 - [MedDO Fees Ordinance (SR 812.213.1)](https://www.fedlex.admin.ch/eli/cc/2021/206/en)
@@ -35,3 +35,7 @@ Incomplete submissions are placed on hold pending additional information.
 :::warning Disclaimer
 AI-assisted content for navigation only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
 :::
+
+Class Im, Is, Ir Notification Fees
+
+Notifications for Class I modified devices with Notified Body involvement (Im, Is, Ir) typically incur a fee between CHF 300–800 depending on complexity. These notifications include NB certificate details and require verification of sterility or design modifications but are processed faster than full Class IIa registrations (typically 3–6 weeks).

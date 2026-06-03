@@ -52,3 +52,5 @@ All decisions not to report must be documented in the vigilance log:
 |---|---|
 | UK MDR 2002, Regulations 16–22 | Basis for exemption analysis |
 | MHRA: Adverse incident reporting guidance | Exemption criteria |
+
+Any adverse event in a population or use not covered by the pre-market clinical evidence → always report. Events occurring in off-label uses or populations excluded from clinical trials may indicate that the device is being used beyond its intended purpose and pose unknown risks — report to MHRA.

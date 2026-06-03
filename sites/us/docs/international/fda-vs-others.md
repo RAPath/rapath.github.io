@@ -43,7 +43,7 @@ Understanding how the US FDA framework compares to other major jurisdictions is 
 
 | Jurisdiction | Clinical evidence required for mid-risk devices? |
 |---|---|
-| **USA (510(k))** | Not always — bench testing often sufficient for Class II |
+| **USA (510(k))** | Not always — bench testing, performance data, or limited clinical data may be depending on the predicate device and device type sufficient for Class II |
 | **EU (MDR)** | Yes — clinical evaluation mandatory for all classes |
 | **Australia (TGA)** | Depends on class and pathway |
 | **Canada** | Required for Class III/IV; Class II often documentation-based |
@@ -67,3 +67,5 @@ FDA 510(k) clearance or PMA approval is accepted as a reference for submissions 
 - [RAPath HC — Health Canada](https://rapath.github.io/hc/)
 - [RAPath SG — Singapore HSA](https://rapath.github.io/sg/)
 - [IMDRF](https://www.imdrf.org)
+
+FDA 510(k) predicates must be US-cleared or approved devices; FDA does not accept predicates cleared or approved in other jurisdictions. All predicates must have valid 510(k) or PMA clearance numbers in the US market.

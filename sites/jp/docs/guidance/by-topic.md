@@ -70,3 +70,5 @@ MHLW guidance (Japanese): [mhlw.go.jp — medical devices](https://www.mhlw.go.j
 - PMDA guidance on IVD performance evaluation requirements
 - MHLW notification on reference range establishment for Japanese population
 - PMDA guidance on IVD clinical performance studies
+
+"Change management: MHLW notification on Ichibu Henko (partial change approval) classification and procedures. PMDA guidance on determining whether proposed manufacturing, design, or labelling changes require Ichibu Henko approval or minor notification."

@@ -57,5 +57,5 @@ If the Authorised Representative changes, the manufacturer must:
 4. Ensure the outgoing representative cooperates with the transition
 
 :::warning Continuity of representation
-There must be no gap in representative appointment. A device without an active Authorised Representative on record cannot remain legally on the market. Plan representative transitions carefully.
+There must be no gap in representative appointment. A device without an active Authorised Representative on record cannot remain legally on the market in Vietnam. During transitions, ensure the new representative's Letter of Authorisation is filed with DAV before the outgoing representative's authority expires to avoid suspension of post-market obligations.
 :::

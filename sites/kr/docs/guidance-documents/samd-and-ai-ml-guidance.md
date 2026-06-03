@@ -22,3 +22,7 @@ MFDS SaMD guidance aligns with:
 
 ## Related pages
 - [SaMD — MFDS policy](../pre-market/special-device-types/samd-mfds-policy) · [AI/ML medical devices](../pre-market/special-device-types/ai-ml-medical-devices)
+
+## Key MFDS guidance documents
+
+The guideline addresses validation of machine learning models, transparency of algorithmic decision-making, cybersecurity requirements, and post-market management of algorithm updates and model retraining (PCCP).

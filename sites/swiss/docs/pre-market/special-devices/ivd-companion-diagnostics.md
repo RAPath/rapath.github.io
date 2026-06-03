@@ -13,7 +13,7 @@ CDx devices are typically classified under IVDO classification Rule 3 — compan
 ## Co-development
 The Swiss regulatory approach to CDx co-development aligns with MDCG guidance. Key aspects:
 - The CDx label must specifically reference the corresponding medicinal product(s)
-- The NB assessing the CDx must consult with Swissmedic's drug division (or the drug regulatory authority for the corresponding medicinal product)
+- The NB assessing the CDx must coordinate with Swissmedic's drug division; Swissmedic will manage internal coordination between its device and drug divisions. If the medicinal product is authorised outside Switzerland, the NB should be aware of that regulatory status but the primary assessment pathway remains Swiss.
 - Clinical performance data should ideally be generated alongside the clinical trials for the corresponding medicinal product
 
 ## Simultaneous Authorisation

@@ -24,7 +24,7 @@ SaMD with a medical intended purpose is regulated as a medical device under NMRA
 ### AI/ML Considerations
 
 For SaMD using AI/ML algorithms:
-- Document the training data, validation methodology, and performance metrics
+- Document the training - data (source, size, diversity), (accuracy, sensitivity, specificity) - (fixed vs. adaptive models) to the algorithm or training data to the NMRA - and establish drift detection thresholds - Declare whether the algorithm will continue to learn post-approval; if yes, describe the monitoring and re-validation process validation methodology, and performance metrics
 - Define the learning boundary — changes beyond the pre-approved scope trigger a change notification
 - Plan for post-market monitoring of algorithm performance in real-world use
 

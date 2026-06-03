@@ -24,7 +24,7 @@ The **expedited reliance scheme** allows the MDD to rely on a prior approval fro
 ## Eligibility
 
 1. Device has a **current, valid approval** from an accepted reference authority
-2. Device submitted to MDD is **identical** to the reference-approved device
+2. Device submitted to MDD is **identical** to the reference-approved substantially equivalent or device; minor differences in labelling, packaging, or non-critical components are permitted if the essential design, materials, and intended use remain unchanged
 3. Same intended purpose, materials, and design specifications
 
 ## Required Documentation (Expedited)
@@ -39,3 +39,5 @@ The **expedited reliance scheme** allows the MDD to rely on a prior approval fro
 :::tip Preferred route if reference approval exists
 If you hold FDA clearance, CE marking, or TGA registration, always use the expedited scheme — it will materially shorten your MDACS listing timeline and reduce documentation burden.
 :::
+
+Expedited reliance applications typically receive a faster review decision (2–4 months typical) compared to standard-route applications (4–6+ months), though individual timelines vary based on MDD workload and submission completeness.

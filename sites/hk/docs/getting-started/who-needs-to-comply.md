@@ -29,3 +29,5 @@ Importers/distributors are incentivised to source only MDACS-listed devices (for
 ## Healthcare Facilities
 
 Public hospitals must procure MDACS-listed AMDs under Stage C. Private facilities commonly impose equivalent standards.
+
+One LRP may represent multiple foreign manufacturers, subject to MDD approval. The LRP must have adequate resources and governance to manage all assigned devices and maintain separate complaint and vigilance records per manufacturer.

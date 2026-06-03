@@ -29,3 +29,5 @@ Brazil is a founding member of MERCOSUL (Mercado Comum do Sul), comprising also 
 
 - [MERCOSUL official portal](https://www.mercosur.int)
 - [ANVISA — Relações Internacionais](https://www.gov.br/anvisa/pt-br/acessoainformacao/institucional/relacoes-internacionais)
+
+## What harmonisation means in practice

@@ -7,7 +7,7 @@ keywords: [MDUFA timelines, FDA review timelines, 510k 90 days, PMA 180 days, De
 
 # MDUFA Performance Goals & Timelines
 
-Under **MDUFA VI** (FY2023–2027), FDA has committed to meeting defined review performance goals. These goals are measured as **Total Time to Decision (TTD)** — from the date FDA receives a substantially complete submission to the date of the final decision.
+Under **MDUFA VI** (FY2023–2027, with potential extension through FY2028), FDA has committed to meeting defined review performance goals. These goals are measured as **Total Time to Decision (TTD)** — from the date FDA receives a substantially complete submission to the date of the final decision.
 
 ---
 
@@ -54,7 +54,7 @@ Under **MDUFA VI** (FY2023–2027), FDA has committed to meeting defined review 
 ## What the clock includes (and excludes)
 
 The review clock **pauses** (stops) when:
-- FDA issues an Additional Information (AI) request — clock stops until submitter responds
+- FDA issues an Additional Information (AI) request — clock stops until submitter submits a substantive response
 - A major deficiency letter is issued on a PMA — clock stops during response period
 
 The review clock **starts** when:
@@ -73,3 +73,6 @@ FDA publishes **quarterly MDUFA performance reports** measuring actual performan
 - [FDA — MDUFA VI Commitment Letter](https://www.fda.gov/media/163422/download)
 - [MDUFA Performance Reports](https://www.fda.gov/industry/fda-user-fee-programs/medical-device-user-fee-amendments-mdufa/mdufa-performance-reports)
 - [FDA — MDUFA Overview](https://www.fda.gov/industry/fda-user-fee-programs/medical-device-user-fee-amendments-mdufa)
+
+What counts as substantially complete
+A submission is considered substantially complete when it contains all required sections, required forms, and sufficient information for FDA to begin its review. Submissions with missing required elements will be issued a Refuse to Accept (RTA) letter and the review clock does not start until resubmission.

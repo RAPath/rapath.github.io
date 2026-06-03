@@ -10,3 +10,17 @@ keywords: [UDI, India, CDSCO, UDID, GS1, issuing agency]
 India's UDI framework aligns with IMDRF UDI guidance. CDSCO accepts UDI barcodes from internationally accredited issuing agencies (GS1, HIBCC, ICCBBA). Devices must be enrolled in the UDID national database.
 
 > **Official source:** [UDID — CDSCO](https://udid.cdsco.gov.in); Medical Devices Rules 2017 (as amended)
+
+Add the following section:
+
+## CDSCO-Recognized Issuing Agencies
+
+CDSCO accepts UDI barcodes issued by the following internationally accredited organizations:
+
+| Issuing Agency | Acronym | Type of Identifier |
+|---|---|---|
+| GS1 India | GS1 | GTIN (Global Trade Item Number) |
+| Health Industry Business Communications Council | HIBCC | UPN (Unique Product Number) |
+| International Committee for the Red Cross Blood Bank Coding | ICCBBA | ISBT 128 |
+
+Manufacturers may obtain UDI codes from any of these accredited agencies. Registration with CDSCO is required before commercial distribution in India.

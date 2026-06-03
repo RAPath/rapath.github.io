@@ -38,3 +38,5 @@ Swissmedic can review advertising on its own initiative or following complaints.
 :::warning Disclaimer
 AI-assisted content for navigation only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
 :::
+
+Swissmedic typically provides a grace period for voluntary withdrawal of non-compliant advertising. Manufacturers should contact Swissmedic immediately upon receipt of an enforcement notice to discuss remediation timelines.

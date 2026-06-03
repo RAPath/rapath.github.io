@@ -7,7 +7,7 @@ keywords: [ANVISA, Brazil, medical device]
 
 # Cadastro — Class II Devices
 
-The **Cadastro** pathway applies to **Class II** devices. Requires abbreviated technical documentation and ANVISA simplified review (3–6 months).
+The Cadastro pathway applies to Class II devices. Requires abbreviated technical documentation and ANVISA simplified review (3–6 months).
 
 ## Required documentation
 
@@ -21,10 +21,12 @@ The **Cadastro** pathway applies to **Class II** devices. Requires abbreviated t
 | CBPF GMP certificate | From manufacturer |
 | FSC (Free Sale Certificate) | Required for imported devices |
 
-Cadastro is valid for **10 years**. Post-registration changes require a *Petição de Alteração*.
+Cadastro registration is valid for 10 years from the date of approval. Material post-registration changes (design, manufacturing site, intended use expansion) require submission of a Petição de Alteração; minor labeling or contact information changes may be reported via simplified procedures.
 
 ---
 
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+For Class II devices via Cadastro, a literature-based clinical summary or evidence of substantial equivalence to a comparator device is required. This may include peer-reviewed publications, regulatory submissions, or manufacturer technical files demonstrating safety and performance.

@@ -20,7 +20,7 @@ A PMA application must contain sufficient valid scientific evidence to demonstra
 | **Contraindications, warnings, precautions** | Known hazards, limitations, precautions |
 | **Device design** | Engineering drawings, specifications, materials |
 | **Manufacturing information** | Manufacturing process, facilities, QMS compliance |
-| **Non-clinical studies** | Bench testing, biocompatibility (ISO 10993), animal studies, in vitro |
+| **Non-clinical studies** | Bench testing, biocompatibility (ISO testing 10993 series), and testing as applicable animal studies, in vitro |
 | **Clinical investigations** | Full clinical study report(s) — typically IDE-approved study |
 | **Risk-benefit analysis** | Comprehensive benefit-risk determination |
 | **Labelling** | Final label, IFU, packaging labelling |
@@ -41,3 +41,5 @@ FDA may also accept **post-approval study data** from comparable studies or publ
 ## Official resources
 - [21 CFR § 814.20 — PMA Application Contents](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-H/part-814/subpart-B/section-814.20)
 - [FDA — PMA Application Contents Guidance](https://www.fda.gov/media/71990/download)
+
+Add "Chemistry, Manufacturing & Controls (CMC)" as a separate row in the Required PMA sections table with description: "Manufacturing process, quality assurance, process controls, stability data, and facility information demonstrating consistent device quality"

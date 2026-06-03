@@ -17,7 +17,7 @@ RDC 752/2022 requires top management of medical device manufacturers to demonstr
 - Establishing **quality objectives** that are measurable and aligned with the quality policy; and
 - Ensuring customer requirements are understood and met.
 
-The Responsável Técnico (RT) often serves as the management representative for the QMS, but top management remains accountable.
+The Responsável Técnico (RT) is the designated technical representative responsible for ensuring GMP compliance and often serves as the management representative for the QMS. However, top management must retain overall accountability for the quality management system and the RT must have direct access to top management to escalate critical compliance issues.
 
 ---
 

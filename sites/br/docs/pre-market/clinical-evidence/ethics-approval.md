@@ -21,3 +21,5 @@ All ethics submissions are made through **Plataforma Brasil**. CONEP review is r
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+CEP review typically takes 30–60 days; CONEP review of complex studies may require 60–120 days. Approval documentation must be submitted with the clinical investigation protocol and protocol amendments. For post-study adverse events or serious deviations, formal notifications to CEP/CONEP are required.

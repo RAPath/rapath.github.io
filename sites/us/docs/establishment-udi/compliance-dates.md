@@ -24,3 +24,7 @@ As of September 24, 2020, **all device classes** are required to comply with UDI
 
 ## Official resources
 - [FDA — UDI Implementation Timeline](https://www.fda.gov/medical-devices/unique-device-identification-system-udi-system/udi-implementation-timeline)
+
+## Full compliance as of 2020
+
+Devices already in commercial distribution before their respective compliance date were subject to a transition period; however, any device repackaged or relabelled after the compliance date must comply with UDI requirements regardless of the original clearance/approval date.

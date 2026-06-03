@@ -73,3 +73,5 @@ Licence holders must notify MDA promptly of material changes, including:
 - Change in scope of activities
 - Change in company ownership or structure
 - Cessation of activities
+
+Add this sentence to the 'Application Process' section after the processing time information:

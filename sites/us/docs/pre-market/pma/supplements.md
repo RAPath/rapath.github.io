@@ -13,7 +13,7 @@ The PMA supplement system is a US-specific mechanism for managing post-approval 
 
 ## When a PMA supplement is required
 
-Any change to an approved PMA that **affects safety or effectiveness** requires a supplement — not a new PMA. Changes requiring supplements include:
+Any change to an approved PMA that **affects safety or effectiveness** requires a supplement — not a new device PMA application. Changes requiring supplements include:
 - New indications for use
 - Material changes to the device
 - New or modified manufacturing methods

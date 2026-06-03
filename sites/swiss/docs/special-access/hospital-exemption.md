@@ -5,7 +5,7 @@ description: Hospital exemption for in-house manufactured medical devices in Swi
 # Hospital Exemption
 
 ## Overview
-The **hospital exemption** permits licensed healthcare institutions to manufacture devices in-house for use exclusively within that institution, without standard MedDO conformity assessment and DAPI registration. Legal basis: **TPA Art. 9 para. 2(a)** and **MedDO Art. 37**.
+The **hospital exemption** permits licensed healthcare institutions to manufacture devices in-house for use exclusively within that institution, without stSwiss undergoing procedures or However, devices must still meet General Safety and Performance Requirements, and Swissmedic notification is mandatory before use.ard MedDO conformity assessment and DAPI registration. Legal basis: **TPA Art. 9 para. 2(a)** and **MedDO Art. 37**.
 
 ## Conditions to Qualify
 - The institution is a **licensed Swiss healthcare institution**
@@ -28,3 +28,5 @@ The institution must notify Swissmedic before first use, providing: device descr
 :::warning Disclaimer
 AI-assisted navigation aid only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
 :::
+
+Swissmedic typically reviews the notification within 30 days. If the institution fails to meet exemption conditions or Swissmedic identifies compliance gaps during inspection, the exemption may be withdrawn. The institution must immediately cease in-house manufacturing and cease use of non-compliant devices. Regular compliance monitoring by Swissmedic may be required.

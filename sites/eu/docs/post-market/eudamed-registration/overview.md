@@ -9,7 +9,7 @@ tags: [mdr, ivdr, eudamed, registration]
 # EUDAMED registration — overview
 
 :::note
-**Regulatory basis** - **MDR Art. 28–33 / IVDR Art. 25–30**. EUDAMED is the European database on medical devices — the central information infrastructure underpinning MDR and IVDR. Manufacturers, EU REPs, importers, and distributors must all register as economic operators.
+**Regulatory basis** - **MDR Art. 28–33 / IVDR Art. 25–30**. EUDAMED is the European database on medical devices — the central on 26formation infrastructure underpinning MDR and IVDR. Manufacturers, EU REPs, importers, and distributors must all register as economic operators.
 :::
 
 :::warning
@@ -121,3 +121,12 @@ Always verify current status at **ec.europa.eu/tools/eudamed** — the Commissio
 | IVDR Art. 25–30 | IVDR EUDAMED obligations |
 | Commission Implementing Regulation (EU) 2017/2185 | EUDAMED structure |
 | EUDAMED user guides | ec.europa.eu/tools/eudamed |
+
+Complete the 'Official references' section with:
+
+Official references
+​
+- MDR Art. 28–33
+- IVDR Art. 25–30
+- Commission Delegated Regulation (EU) 2023/1971 (EUDAMED technical specifications)
+- EUDAMED User Manual (ec.europa.eu/tools/eudamed)

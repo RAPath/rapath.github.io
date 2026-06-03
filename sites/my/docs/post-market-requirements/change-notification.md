@@ -89,3 +89,7 @@ For Category 2 and 3 variations:
 :::warning Implement Before Approval = Non-Compliance
 Implementing a Category 2 or 3 change without prior MDA approval is a regulatory non-compliance that can result in enforcement action, device recall, and registration suspension. Always complete the variation process before implementing.
 :::
+
+**Change of Manufacturer vs. Change of Manufacturing Site**
+
+A change of manufacturer (Category 4 — requires new registration) occurs when a different legal entity assumes responsibility for manufacturing and quality assurance. A change of manufacturing site or contract manufacturer under the same registered manufacturer is a major variation (Category 3) requiring prior approval. The key distinction is change of legal manufacturing responsibility, not just location.

@@ -52,3 +52,9 @@ AI/ML-based medical devices follow the same SaMD framework. Russia has engaged w
 :::info Official source
 Roszdravnadzor methodological guidelines on medical software (2018): [roszdravnadzor.gov.ru](https://roszdravnadzor.gov.ru/)
 :::
+
+## AI and machine learning
+
+Post-market surveillance for SaMD
+
+Software medical devices classified as Class IIb or III registered after January 2021 must submit annual clinical post-market monitoring reports. Updates to software versions that change the algorithm or diagnostic output must be reported to Roszdravnadzor. Critical security patches should be documented in post-market reports.

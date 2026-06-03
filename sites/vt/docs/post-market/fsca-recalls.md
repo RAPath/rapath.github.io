@@ -62,3 +62,5 @@ DAV has authority to issue a mandatory recall or market suspension order for a m
 :::warning Do not delay FSCA notification
 Delayed notification of an FSCA to DAV is an offence under Decree 98/2021 and can significantly increase regulatory and legal exposure. When in doubt, notify early and update DAV as the situation develops.
 :::
+
+Draft or final Field Safety Notices should be submitted to DAV for review at least 5 working days before distribution to end-users, where feasible. In cases of immediate patient safety risk, notification to DAV must be made concurrently with or immediately after FSN distribution. DAV may request revisions to the FSN to ensure clarity and completeness before approval for distribution.

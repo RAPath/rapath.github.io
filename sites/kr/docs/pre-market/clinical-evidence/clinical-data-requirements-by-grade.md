@@ -25,3 +25,5 @@ For IVDs: Grade A/B require performance data; Grade C/D require formal performan
 - Foreign data not applicable to the Korean population
 - First-in-class novel technology
 - Specific MFDS safety/performance concerns
+
+Note: Grade I devices may still require clinical data if they are novel or have new indications. The IVD grading system (A/B/C/D) differs from the general device grading system (I/II/III/IV) and follows separate performance evaluation pathways.

@@ -34,3 +34,7 @@ MHLW issued guidance in 2021 on the regulation of AI-based medical devices. Key 
 ## Cybersecurity
 
 MHLW and PMDA have published guidance on cybersecurity requirements for networked and software-enabled devices. Cybersecurity documentation is expected as part of the pre-market dossier for connected devices and Programme Medical Devices.
+
+Legacy and Transition Provisions
+
+Devices that were approved or notified under earlier frameworks before the 2019 MHLW notification on Programme Medical Devices may retain their approvals under transitional rules. PMDA does not typically require re-approval of previously authorised devices based on the updated SaMD guidance, though post-market change notifications must follow current requirements. Clarify your device's approval date with PMDA to confirm whether transitional provisions apply to planned modifications.

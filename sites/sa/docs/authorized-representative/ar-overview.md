@@ -53,3 +53,5 @@ Foreign manufacturers who wish to keep their technical documentation confidentia
 - [AR Obligations](./ar-obligations)
 - [Changing Your AR](./changing-ar)
 - [MDEL for AR](./mdel-for-ar)
+
+To appoint an AR, identify a Saudi-licensed entity willing to act as your regulatory liaison. The prospective AR must hold (or be prepared to obtain) a valid MDEL AR license. Execute a properly authenticated and legalized AR contract that clearly defines roles, responsibilities, and obligations. Submit the AR appointment via GHAD as part of your initial MDMA application or as a change notification if updating an existing registration. The SFDA will validate the AR's MDEL status and licensing credentials before accepting the appointment.

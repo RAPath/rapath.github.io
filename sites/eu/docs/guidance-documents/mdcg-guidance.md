@@ -84,13 +84,7 @@ This site provides general information only. Always refer to the original guidan
 
 ## Special device types
 
-| Document | Title | Applies to |
-|---|---|---|
-| MDCG 2019-11 | Software qualification and classification | MDR/IVDR |
-| MDCG 2019-16 | Cybersecurity for medical devices | MDR |
-| MDCG 2020-10 | CMR substances and endocrine disruptors | MDR |
-| MDCG 2021-3 | Custom-made devices | MDR |
-| MDCG 2022-4 | Systems and procedure packs; reprocessing | MDR |
+MDCG 2020-10: Electromagnetic compatibility and safety
 
 ---
 
@@ -115,9 +109,9 @@ This site provides general information only. Always refer to the original guidan
 
 ## How to access MDCG guidance
 
-All MDCG guidance is published and freely available on the **European Commission DG SANTE** website:
+All MDCG guidance is published and freely available on the European Commission DG SANTE website:
 
-**URL**: [https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en](https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en)
+URL: [https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en](https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en)
 
 Guidance is organised by topic on the Commission website. New and revised documents are announced through the MDCG meeting schedule and the Commission's medical devices news page.
 

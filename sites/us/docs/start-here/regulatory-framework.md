@@ -21,7 +21,7 @@ The United States has one of the world's most comprehensive medical device regul
 | **FDA Modernization Act 1997** | Streamlined the 510(k) process, added Special 510(k) and Abbreviated 510(k) |
 | **FDASIA 2012** | Introduced De Novo as a standalone pathway, MDUFA III |
 | **21st Century Cures Act 2016** | Breakthrough Device Designation, software provisions, Predetermined Change Control Plans |
-| **MDUFA VI (2022)** | Current user fee agreement — sets performance goals and timelines |
+| **MDUFA VI (2022–2027) for FDA review; expires September 30, 2027** | Current user fee agreement — sets performance goals and timelines |
 
 ---
 
@@ -77,3 +77,5 @@ FDA classifies medical devices into three classes based on the **level of contro
 - [FDA — Overview of Device Regulation](https://www.fda.gov/medical-devices/overview-device-regulation)
 - [FDA — How to Study and Market Your Device](https://www.fda.gov/medical-devices/how-study-and-market-your-device)
 - [FD&C Act full text (eCFR)](https://www.ecfr.gov/current/title-21)
+
+Add a note to the Regulatory Framework page clarifying the current status: 'As of May 2026, the Quality System Modernization Rule (QMSR) is in effect as of February 2, 2026. All manufacturers must comply with 21 CFR Part 820 as updated, which incorporates ISO 13485:2016 principles.' This removes ambiguity about timeline.

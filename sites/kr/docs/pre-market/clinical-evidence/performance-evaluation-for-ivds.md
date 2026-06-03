@@ -4,13 +4,13 @@ description: "Performance evaluation requirements for IVD devices under the Kore
 sidebar_position: 6
 ---
 
-IVD devices require **performance evaluation** rather than clinical evaluation.
+IVD (in vitro diagnostic) devices follow a performance evaluation pathway rather than the traditional clinical evaluation pathway used for invasive and implantable devices. Performance evaluation focuses on analytical and clinical validity rather than safety and clinical benefit.
 
 ## Components
 
-- **Analytical performance**: accuracy, precision, linearity, interference, cross-reactivity, reference intervals
-- **Clinical performance**: sensitivity, specificity, PPV, NPV vs reference method
-- **Scientific validity**: evidence that the analyte has the claimed clinical relevance
+- Analytical performance: accuracy, precision, linearity, interference, cross-reactivity, reference intervals
+- Clinical performance: sensitivity, specificity, PPV, NPV vs reference method
+- Scientific validity: evidence that the analyte has the claimed clinical relevance
 
 ## By grade
 

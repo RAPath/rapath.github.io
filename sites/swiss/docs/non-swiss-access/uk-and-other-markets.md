@@ -49,3 +49,5 @@ When planning simultaneous market access across CH, EU, and other jurisdictions:
 :::warning Disclaimer
 AI-assisted navigation aid only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
 :::
+
+Note: As of 2024, the transitional period for CE-marked devices has ended. All new medical devices placed on the UK market must carry the UKCA mark. Verify the current MHRA position on the acceptance of legacy CE-marked stock before planning market entry.

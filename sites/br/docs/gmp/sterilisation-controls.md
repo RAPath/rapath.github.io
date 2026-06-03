@@ -27,3 +27,5 @@ For manufacturers of sterile medical devices, RDC 752/2022 and applicable ABNT s
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+(or their equivalent ABNT standards such as ABNT NBR ISO 11135, ABNT NBR ISO 11137, ABNT NBR ISO 17665)

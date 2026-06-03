@@ -12,7 +12,7 @@ This page tracks regulatory developments across the GCC that affect medical devi
 
 ## GCC harmonisation status
 
-GCC member states share a commitment to harmonising medical device regulations, underpinned by their shared use of IMDRF-aligned frameworks and similar classification structures (EU MDR-based). However, each country maintains its own national registration system and regulatory authority.
+GCC member states are committed to harmonizing medical device regulations through IMDRF-aligned frameworks and similar risk-based classification systems (aligned with EU MDR models). However, each country operates independent national registration systems, regulatory authorities, and technical file submission portals. Manufacturers cannot register a device across multiple GCC countries with a single submission.
 
 Current state of harmonisation:
 - **Classification** — broadly aligned across GCC (all use risk-based A/B/C/D or I/IIa/IIb/III systems)

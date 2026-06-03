@@ -20,7 +20,7 @@ A **borderline product** is one where it is unclear whether it should be regulat
 
 CDSCO will determine the primary mode of action. If the device component is primary and the drug component is secondary, MDR 2017 applies (and the drug component requires a separate drug licence). If the drug is primary, drug regulation applies.
 
-There is no formal pre-submission borderline classification procedure equivalent to the EU SCENIHR process, but manufacturers can seek informal guidance from CDSCO before investing in a full submission.
+Manufacturers should submit a pre-submission inquiry (PSI) to CDSCO seeking formal clarification on borderline classification status before conducting full developmental studies. While India does not have a formal advisory procedure equivalent to the EU SCENIHR, CDSCO will typically respond to written requests within 30-45 days.
 
 ## Combination products
 

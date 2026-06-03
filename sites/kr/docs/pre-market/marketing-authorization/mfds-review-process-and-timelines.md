@@ -19,11 +19,11 @@ sidebar_position: 4
 
 ## Clock stops on 보완요청
 
-When MFDS requests additional information (보완요청), the review clock **stops** until response is received. Applicants typically have 60–90 days to respond.
+Clock stops on 보충요청 When MFDS requests additional information (보충요청), the review clock stops until a complete response is received. Applicants are typically given 60–90 days to submit responses, though this period may be extended upon request. The review clock resumes upon receipt of the response.
 
 ## Post-approval certificate
 
-The **품목허가증 (Product Permit Certificate)** must be maintained and updated whenever changes occur to the product, labelling, or manufacturing site.
+The 품목허가증 (Product Permit Certificate) must be maintained and updated whenever changes occur to the product, labelling, or manufacturing site.
 
 ## Relevant legislation
 - Medical Devices Act, Articles 6, 8

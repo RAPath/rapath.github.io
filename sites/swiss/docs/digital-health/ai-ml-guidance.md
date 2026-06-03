@@ -43,3 +43,5 @@ The EU AI Act (entered into force August 2024) classifies high-risk AI systems, 
 :::warning Disclaimer
 AI-assisted navigation aid only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
 :::
+
+## AI/ML-Specific Technical Documentation Requirements

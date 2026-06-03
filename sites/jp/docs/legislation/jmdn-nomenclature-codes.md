@@ -19,7 +19,7 @@ JMDN is a hierarchical system that assigns every type of medical device a unique
 
 ## Structure of JMDN codes
 
-JMDN codes are typically 7-digit numeric codes. The code structure places devices into broad category groupings, though the specific groupings are not directly derived from the code number alone — the database must be referenced.
+JMDN codes are typically 7-digit numeric codes (though older codes and some special categories may have different digit structures; users should verify the exact format of their assigned code in the MHLW database). The code structure places devices into broad category groupings, though the specific groupings are not directly derived from the code number alone — the database must be referenced.
 
 Example groupings include:
 - Cardiovascular devices (including stents, pacemakers, catheters)
@@ -32,16 +32,13 @@ Example groupings include:
 ## How JMDN determines regulatory pathway
 
 The JMDN code directly determines:
-1. **Risk class** — the class pre-assigned to that device type determines whether Shonin, Ninsho, or Todokede applies
-2. **Ninsho eligibility** — whether a recognised standard exists for the code determines whether Ninsho is available
-3. **Post-market requirements** — re-examination periods and GPSP intensity are set based on device class and JMDN category
+1. Risk class — the class pre-assigned to that device type determines whether Shonin, Ninsho, or Todokede applies
+2. Ninsho eligibility — whether a recognised standard exists for the code determines whether Ninsho is available
+3. Post-market requirements — re-examination periods and GPSP intensity are set based on device class and JMDN category
 
 ## Searching the JMDN database
 
-MHLW publishes the JMDN database as a searchable resource. The search is available in Japanese at MHLW's website. For English-speaking users:
-- Search using device type descriptions in Japanese (translation of the device type name)
-- Cross-reference with GMDN (Global Medical Device Nomenclature) codes, noting that JMDN and GMDN do not map 1:1
-- Engage a Japan-based regulatory consultant experienced in JMDN code identification
+For English-speaking users without Japanese proficiency: Engage a Japan regulatory consultant or translator to identify the Japanese device type name, then search the MHLW JMDN database
 
 ## JMDN and GMDN — comparison
 
@@ -63,3 +60,7 @@ For genuinely novel device types with no existing JMDN code, the MAH must reques
 4. Timeline: typically 6–18 months depending on novelty and MHLW workload
 
 New JMDN code creation is a critical path item for novel devices — begin early.
+
+Example: a Class III cardiovascular stent might be coded as 2670024 (where the first digit or digit group indicates the major category, and subsequent digits further subdivide the device type). The exact hierarchical meaning of each digit position is not publicly documented; only the final assigned code matters for regulatory purposes.
+
+Reclassification of existing devices: If a device differs substantially from the existing JMDN code definition but does not qualify as entirely new, an MAH may request reclassification or request assignment to a different existing code. Submit a request to MHLW with supporting evidence of material differences in intended use, design, or risk profile. Timeline is typically 3–12 months.

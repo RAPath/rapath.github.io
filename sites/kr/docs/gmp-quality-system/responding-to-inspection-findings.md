@@ -14,7 +14,7 @@ sidebar_position: 7
 
 ## CAPA quality
 
-MFDS will assess whether root cause analysis is thorough and genuine. Superficial corrective actions (e.g., retraining only, without fixing the underlying process issue) are unlikely to be accepted for major nonconformities.
+MFDS will assess whether the root cause analysis is thorough and whether corrective actions address the systemic issue. Superficial corrective actions such as retraining alone, without fixing the underlying process deficiency, are unlikely to be accepted, particularly for major nonconformities.
 
 ## Related pages
 - [MFDS inspections and administrative actions](./mfds-inspections-and-actions) · [CAPA](./core-qms-requirements/capa)

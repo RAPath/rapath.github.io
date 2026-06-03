@@ -37,7 +37,7 @@ The **Periodic Safety Update Report (PSUR)** is a more comprehensive document in
 - Summary of any FSCAs or recalls in the reporting period
 - Updated CAPA records
 
-Class B manufacturers must update the PSUR **at least every two years**; Class C and D manufacturers must update **annually**.
+Class B manufacturers must update the PSUR **at least every 2 These intervals commence from the date of first MDMA certificate issuance. years**; Class C and D manufacturers must update **annually**.
 
 ## PMS data sources
 

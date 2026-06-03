@@ -8,7 +8,7 @@ tags: [guidance]
 
 # Registration Technical Guidance
 
-*This page provides an index and plain English summary of registration technical guidance published by NMPA and CMDE. Full content to be completed during editorial review.*
+*This page indexes registration technical guidance documents published by NMPA and CMDE. Content is being expanded. Below are direct links to official sources.*
 
 ---
 
@@ -21,3 +21,5 @@ NMPA technical guidance documents are published on:
 :::note Disclaimer
 Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [NMPA](https://www.nmpa.gov.cn/) sources before making regulatory decisions. Not affiliated with NMPA or any Chinese Government body. Not legal or regulatory advice.
 :::
+
+Medical device registration in China follows a risk-based classification system (Class I, II, III). The registration process includes: application submission, technical review, clinical evaluation (when required), site inspection, and approval. Registration validity is typically 5 years from approval date, after which re-registration is required. Expedited pathways exist for breakthrough devices and products addressing unmet clinical needs.

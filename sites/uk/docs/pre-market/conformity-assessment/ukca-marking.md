@@ -178,3 +178,5 @@ Given UKAB capacity constraints, starting UKCA transition significantly before t
 | MHRA: UKCA marking for medical devices | Detailed MHRA guidance |
 | gov.uk: Using the UKCA mark | UKCA mark artwork files |
 | DHSC: June 2023 announcement | Extension of CE marking acceptance to 30 June 2030 |
+
+The sentence should be completed with guidance on what manufacturers are relying on. The full context should explain: 'This is one of the most common compliance gaps among manufacturers relying on the CE transitional acceptance — MHRA registration is a separate, non-negotiable requirement and does not depend on the validity of the CE mark.'

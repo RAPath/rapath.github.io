@@ -165,3 +165,5 @@ Class III active implantable devices. Battery life, hermetic sealing, and long-t
 | EN ISO 10993-6 | Tests for local effects after implantation |
 | EN ISO 14242 series | Wear testing for hip joint prostheses |
 | MDCG 2021-6 | Clinical evidence for legacy implantable devices |
+
+The section "Who gives it to the patient?" currently reads: "The healthcare institution performing" and then cuts off. It should continue with: "The healthcare institution performing the implantation procedure is responsible for providing the implant card to the patient at the time of implantation or discharge. The card must be provided in a format the patient can retain (typically a wallet-sized card or printout). The patient should be instructed to carry the card at all times and present it to healthcare professionals in case of emergency or future procedures."

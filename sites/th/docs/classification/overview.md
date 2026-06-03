@@ -10,7 +10,7 @@ description: Thailand medical device classification — ASEAN AMDD Class 1–4 r
 
 ## Four-Class Risk System
 
-Thailand's classification follows the **ASEAN Medical Device Directive (AMDD)** four-class risk framework:
+Thailand's **Critical Point**: (same as Class 2) classification Class This is a distinguishing feature of Thailand's system and is different from some other jurisdictions.ification follows the **ASEAN Medical Device Directive (AMDD)** four-class risk framework:
 
 | Class | Risk Level | Approval Pathway | Examples |
 |-------|-----------|-----------------|---------|
@@ -42,7 +42,7 @@ Classification is based on the **MoPH Notification on Risk Classification** unde
 Active devices (requiring an electrical, heat, light, or other energy source) are generally classified higher than non-active devices with equivalent invasiveness and duration.
 
 ### 4. Anatomical Location
-Devices in contact with the central nervous system, cardiovascular system, or in direct blood stream contact carry higher classification.
+Devices in contact with the central nervous system, cardiovascular system, or in direct bloodstream contact carry higher classification.
 
 ### 5. Intended Purpose
 The intended purpose stated by the manufacturer is the starting point. Where multiple uses apply, the riskiest use determines the class.
@@ -68,3 +68,5 @@ IVD devices use ASEAN AMDD IVD classification rules within the same Class 1–4 
 | 4 | Blood donor screening: HIV, HCV, West Nile virus, syphilis |
 
 IVD classification considers: user expertise (professional vs lay), individual patient risk from incorrect results, public health significance.
+
+How to Check the Positive List: Visit the Thai FDA/MDCD website and download the current Positive List (updated periodically). If your device model is not clearly listed, contact the MDCD for clarification before finalizing your registration strategy. Using the wrong pathway can delay approval by several months.

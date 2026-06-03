@@ -42,6 +42,8 @@ All documents and latest forms: **[www.nmra.gov.lk](https://www.nmra.gov.lk/)** 
 | ISO 10993 series | Devices with patient contact |
 | IEC 60601-1 | Active/electrical devices |
 
-:::info Always use current checklist versions
+:::info Always Use Current Checklist Versions from the NMRA website new If you are uncertain whether a document revision affects your ongoing application, contact the NMRA Medical Devices Regulatory Division before submitting.
 F-MDR-035 was revised effective 2 June 2026. Previous versions are no longer accepted. Download a fresh copy for every submission.
 :::
+
+Update the example rate or add: 'This rate was current as of May 2026. NMRA updates the USD/LKR conversion monthly. Always check www.nmra.gov.lk for the rate applicable to your submission date before calculating fees.'

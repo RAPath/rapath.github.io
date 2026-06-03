@@ -27,3 +27,5 @@ Both **MFDS approval** and **IRB approval** are required before the trial begins
 
 ## Related pages
 - [IRB and GCP requirements](./irb-and-gcp-requirements) · [Clinical trials in Korea](./clinical-trials-in-korea)
+
+Protocol amendments must be submitted to both MFDS and IRB for approval before implementation. Amendments may be subject to a simplified review process depending on the nature of the change. Clarify that the 30 working day timeline begins after completeness check.

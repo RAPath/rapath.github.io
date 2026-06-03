@@ -78,3 +78,5 @@ Near-patient testing IVDs used outside of central laboratories (e.g. emergency d
 :::note Rapid Diagnostic Tests (RDTs)
 Rapid antigen tests and lateral flow assays for infectious diseases frequently fall into Annex II List B or A. Ensure clinical performance data is generated on Malaysian or regionally-relevant clinical samples where possible.
 :::
+
+Clinical performance studies should be designed with adequate statistical power (typically 80–90%) to demonstrate acceptable diagnostic sensitivity and specificity. For blood screening assays (Annex II List A), minimum sample sizes are typically several thousand samples. For self-testing IVDs, ensure the study population includes a representative sample of the intended lay user population. Provide sample size justification and statistical analysis plan with your dossier.

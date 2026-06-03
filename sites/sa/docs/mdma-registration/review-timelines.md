@@ -22,8 +22,7 @@ SFDA review timelines depend on the device class, the completeness and quality o
 | **Total (typical): Class B** | **3–6 months** |
 | **Total (typical): Class C/D** | **6–12+ months** |
 
-:::note These are indicative
-Actual timelines vary significantly. Query responses, resubmissions, and SFDA workload can extend review periods. Manufacturers should build sufficient lead time into market entry plans.
+:::note **These timelines are indicative only.** Actual timelines vary significantly based on query complexity, resubmission cycles, and SFDA workload. Manufacturers should build a safety margin of **at least 2–3 months** beyond the maximum indicative timeline into their market entry plans to account for unexpected delays.
 :::
 
 ## Factors affecting review duration
@@ -43,3 +42,5 @@ When the SFDA issues a deficiency letter, the AR or manufacturer must respond wi
 - [MDMA Overview](./mdma-overview)
 - [GHAD Portal](./ghad-portal)
 - [Device Grouping](./device-grouping)
+
+## Factors affecting review duration

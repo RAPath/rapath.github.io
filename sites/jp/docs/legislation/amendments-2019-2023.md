@@ -7,11 +7,11 @@ sidebar_position: 3
 
 ## 2019 amendments — accelerated access and digital health
 
-The 2019 amendments (effective December 2019 and phased thereafter) introduced several significant changes:
+The 2019 amendments became effective in December 2019, with certain provisions phased in through 2020. They introduced several significant changes:
 
 ### SAKIGAKE designation system — statutory basis
 
-The **SAKIGAKE Designation System** (先駆け審査指定制度 — Breakthrough Device Designation equivalent) was given a statutory basis in the 2019 amendments, making it a permanent feature of the regulatory framework rather than a pilot programme. SAKIGAKE designation provides:
+The SAKIGAKE Designation System (先駆け審査指定制度 — Breakthrough Device Designation equivalent) was given a statutory basis in the 2019 amendments, making it a permanent feature of the regulatory framework rather than a pilot programme. SAKIGAKE designation provides:
 - Early and intensive PMDA consultation
 - Priority review (Yusen Shinsa) as a standard component
 - Target PMDA review time: 6 months
@@ -46,4 +46,6 @@ Updated provisions to clarify the application of advertising restrictions to dig
 
 ## Finding the current consolidated PMD Act
 
-The current consolidated text (incorporating all amendments in effect) is maintained on [e-Gov](https://laws.e-gov.go.jp/law/335AC0000000145). When researching specific provisions, always use the e-Gov version rather than older printed or unofficial versions, as amending acts are incorporated on a rolling basis.
+The current consolidated text of the PMD Act (incorporating all amendments in effect) is maintained on e-Gov and automatically updated when new amendments take effect.
+
+This target applies to SAKIGAKE-designated devices and represents PMDA's review timeline; actual approval may take longer if additional information is required from the applicant.

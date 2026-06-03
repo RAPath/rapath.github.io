@@ -56,3 +56,5 @@ Similarly, **MDSAP audit certificates** are recognised as GMP evidence.
 - [COFEPRIS inspections](inspections-cofepris)
 - [NOM-241 legislation page](../legislation/nom-241-gmp)
 - [Technical dossier requirements](../premarket/technical-dossier)
+
+Modify the bullet point to: 'SaMD provisions — acknowledgement of software as a medical device category (see Digital Health & SaMD section for detailed requirements).'

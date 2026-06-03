@@ -44,7 +44,7 @@ The IFU must:
 - Cover all necessary information for safe and effective use: intended purpose, indications, contraindications, warnings, adverse effects, performance characteristics, maintenance/calibration, disposal
 - For home-use devices: be available in Bengali
 
-**Electronic IFU (eIFU):** Contact the DGDA to confirm whether eIFU is currently accepted for specific device categories. Physical IFU is the standard expectation.
+**Electronic IFU (eIFU):** Electronic IFU (eIFU) is not currently routinely accepted by the DGDA. Physical IFU printed or packaged with the device remains the standard expectation. Contact the DGDA in writing if you wish to propose eIFU as an alternative for a specific device category; approval is unlikely without prior agreement.
 
 ## Promotional Claims
 
@@ -63,3 +63,5 @@ When adapting labelling for the Bangladesh market, ensure:
 3. Bengali translation is accurate and reviewed by a qualified medical translator
 4. The label version used in Bangladesh matches the version submitted to DGDA during registration
 5. Any post-registration labelling changes are notified to the DGDA before implementation
+
+Combination Products: Where a device is combined with a pharmaceutical product or cosmetic, ensure labelling clearly distinguishes the device component from the pharmaceutical/cosmetic component. Both components must meet their respective regulatory requirements. Consult the DGDA early if unsure about classification.

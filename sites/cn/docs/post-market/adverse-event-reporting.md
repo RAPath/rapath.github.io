@@ -33,3 +33,24 @@ Requirements for adverse event reporting are set out in MDSAR 2021 and implement
 :::note Disclaimer
 Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [NMPA](https://www.nmpa.gov.cn/) sources before making regulatory decisions. Not affiliated with NMPA or any Chinese Government body. Not legal or regulatory advice.
 :::
+
+## Reporting Requirements
+- **Who reports**: Manufacturers, distributors, hospitals, users, and healthcare professionals
+- **What to report**: Serious adverse events and unexpected adverse events; suspected causal relationship not required
+- **When to report**: Within 30 days of awareness for serious events; annual report for non-serious events
+- **Where to report**: Manufacturer (for non-serious); NMPA via CDRMP system for serious events
+- **Required information**: Device identification, event description, outcome, patient demographics, reporter information
+
+## Key Reporting Channels
+1. **CDRMP (China Drug/Device Registration and Management Platform)**: www.nmpa.gov.cn/datasearch/
+2. **NMPA adverse event portal**: Direct submission for manufacturers and healthcare providers
+3. **Yellow Card system**: For healthcare professionals and public
+
+## Manufacturer Obligations
+- Conduct post-market surveillance (PMS) and periodic safety update reports (PSUR)
+- Assess signal detection and causal relationship
+- Implement corrective actions (labeling updates, recalls) as needed
+- Notify NMPA of significant safety findings within timeframe specified in implementing measures
+
+## Reference Documents
+Report forms and detailed procedures available on www.nmpa.gov.cn under 'Adverse Event Reporting' and 'Guidance Documents'

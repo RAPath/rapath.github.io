@@ -20,3 +20,5 @@ MHLW has been studying the eIFU question as part of broader digital health regul
 ## Monitoring for regulatory changes
 
 Given that eIFU adoption has proceeded in the EU and is under discussion in multiple markets, Japan is expected to formalise an eIFU framework in coming years. Monitor MHLW notifications and PMDA guidance for updates.
+
+Note: This guidance reflects regulatory status as of 2024. Japan's eIFU policy is actively under development. MHLW and PMDA have indicated consideration of eIFU frameworks aligned with international standards (EU Regulation 207/2012). Manufacturers should:

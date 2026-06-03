@@ -28,3 +28,5 @@ Where all information is not available at the time of the initial report, an **i
 
 - [HSA: Report adverse events — medical devices](https://www.hsa.gov.sg/medical-devices/adverse-events)
 - [HP(MD) Regulations 2010](https://sso.agc.gov.sg/SL/HPA2007-S436-2010)
+
+'Becomes aware' means the point at which any part of the dealer's or registrant's organisation (including sales, customer service, technical support, field teams, or quality assurance) first receives information suggesting an adverse event. Companies should establish internal procedures to ensure adverse event information is promptly escalated to the regulatory function responsible for HSA reporting, regardless of which department initially received the information.

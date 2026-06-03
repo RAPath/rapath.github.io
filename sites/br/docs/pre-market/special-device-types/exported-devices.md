@@ -22,3 +22,5 @@ The **Certificado de Exportação** (CFG — Certificate of Free Sale) is issued
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+Add: 'All manufacturing facilities exporting medical devices from Brazil must maintain a valid AFE regardless of whether the device is registered in Brazil. The AFE certifies GMP compliance and is independent of product registration status.'

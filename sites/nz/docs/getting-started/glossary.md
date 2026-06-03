@@ -45,3 +45,9 @@ description: Key terms and definitions used in New Zealand medical device regula
 **TTMRA** — Trans-Tasman Mutual Recognition Arrangement. An agreement between Australia and New Zealand allowing goods lawfully supplied in one country to generally be supplied in the other without additional regulatory requirements.
 
 **WAND** — Web Assisted Notification of Devices. Medsafe's online database where sponsors must notify medical devices before supply. WAND is not publicly accessible — only sponsors and Medsafe staff can view entries.
+
+Notified Body — An organisation designated by EU member states to conduct conformity assessment activities under the EU MDR. Medsafe accepts CE certificates issued by Notified Bodies as evidence of conformity for medical devices.
+
+ARTG — Australian Register of Therapeutic Goods. The mandatory registry maintained by the TGA for therapeutic goods (medicines and medical devices) lawfully supplied in Australia. Medsafe accepts ARTG listings as evidence of conformity.
+
+Conformity Assessment — The process of demonstrating that a medical device meets applicable safety and performance standards before or during supply. In New Zealand, formal conformity assessment routes are not mandated, but evidence of safety and performance must be held by the sponsor.

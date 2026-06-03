@@ -3,7 +3,7 @@ title: 2014 PMD Act Amendments — Overview
 sidebar_position: 2
 ---
 
-# 2014 PMD Act Amendments — Overview
+# April 2014 (with some provisions effective in 2014) PMD Act Amendments — Overview
 
 :::note JP-unique
 The 2014 amendments — which took effect in November 2014 — are the most significant restructuring of Japan's medical product legislation in decades. They renamed the law, created dedicated frameworks for medical devices and regenerative medicine, and introduced the three-pathway pre-market system (Shonin/Ninsho/Todokede) in its modern form.

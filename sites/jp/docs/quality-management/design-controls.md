@@ -33,3 +33,5 @@ The process of transferring the design from development to manufacturing must be
 ## Design changes
 
 All design changes must be reviewed, verified, and validated before implementation and must be approved before implementation. Changes to the approved design must be evaluated against the criteria for Ichibu Henko (partial change approval) under the PMD Act before implementation.
+
+For devices with user-facing interfaces or where user actions directly affect device safety or performance, formal usability engineering (human factors) testing is required as part of design validation. This testing must address both normal use and foreseeable misuse scenarios.

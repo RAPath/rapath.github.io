@@ -64,3 +64,5 @@ Vietnam also has a body of national standards (TCVN — Tiêu chuẩn Việt Nam
 :::note
 The list of recognised standards in Vietnam is updated periodically. Always verify the current list with DAV or your Authorised Representative before finalising your Essential Principles checklist.
 :::
+
+Where a TCVN standard exists and conflicts with a corresponding ISO/IEC standard, compliance with the TCVN standard is mandatory for market access in Vietnam. Consult with DAV or your Authorised Representative to confirm which standard takes precedence for your specific device category. Document your compliance strategy in the Essential Principles checklist submitted with your registration dossier.

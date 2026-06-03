@@ -22,7 +22,7 @@ The AMDD establishes common frameworks for:
 
 ## How the AMDD Shapes Indonesian Regulation
 
-Indonesia's Permenkes 62/2017 and associated guidance are built on AMDD principles:
+Indonesia's Permenkes 62/2017 and associated guidance, enforced by BPOM, are built on AMDD principles:
 
 | AMDD Element | Indonesia Implementation |
 |---|---|
@@ -62,3 +62,5 @@ The AMDD harmonisation means that manufacturers can leverage a single **CSDT-for
 - ISO 13485 and GMP certificates valid across all ASEAN submissions (same scope applies)
 
 The ASEAN CSDT prepared for Singapore (HSA) or Malaysia (MDA) is the closest starting point for an Indonesian submission — requiring primarily administrative adaptation, labeling revision, and verification of consistency with Regalkes formatting requirements.
+
+"BPOM (Badan Pengawas Obat dan Makanan / Indonesian Agency for Drug and Food Control) is the regulatory authority responsible for implementing AMDD principles and overseeing device registration and post-market surveillance in Indonesia."

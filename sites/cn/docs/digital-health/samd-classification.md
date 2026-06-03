@@ -23,3 +23,5 @@ NMPA's digital health and SaMD framework is based on:
 :::note Disclaimer
 Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [NMPA](https://www.nmpa.gov.cn/) sources before making regulatory decisions. Not affiliated with NMPA or any Chinese Government body. Not legal or regulatory advice.
 :::
+
+NMPA classifies SaMD into three risk categories (Class I, II, III) based on intended use and risk level. Class I devices (lowest risk) are exempt from premarket registration under certain conditions. Class II devices require registration through the standard pathway. Class III devices (highest risk) require registration with clinical evaluation and more stringent quality controls.

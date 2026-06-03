@@ -63,3 +63,5 @@ The quality of Bahasa Indonesia translation matters. Kemenkes evaluators are nat
 :::tip
 Use qualified Indonesian medical translators for all BI label and IFU content. Have the translation reviewed by a local regulatory affairs professional before submission.
 :::
+
+Reference the Kamus Istilah Kesehatan (Indonesian Health Terminology Dictionary) published by Kemenkes or consult with Indonesian regulatory affairs specialists who maintain current terminology databases. Inconsistency in medical term translation (e.g., using different Indonesian terms for the same device function across the IFU) is a common reason for label revision requests during review.

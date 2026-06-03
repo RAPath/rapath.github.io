@@ -36,3 +36,5 @@ For overseas manufacturers, Japan's IMDRF adoption means:
 - Technical documentation structured to STED format (IMDRF-recommended) is acceptable to PMDA
 - Cybersecurity documentation prepared for FDA cybersecurity guidance will largely meet PMDA expectations
 - PMDA pre-submission consultations increasingly reference IMDRF guidance as the starting framework for data expectations
+
+"MDSAP participation: Japan participates in MDSAP, allowing manufacturers to conduct a single quality management system audit that can satisfy both Japan's MO 169 QMS requirements and requirements in other MDSAP jurisdictions (US, Canada, Brazil, Japan). This can significantly streamline QMS audits for multi-market applications. Contact PMDA for MDSAP auditor lists and qualification requirements."

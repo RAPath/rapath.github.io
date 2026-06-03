@@ -102,3 +102,12 @@ Class III is subject to the highest pre-market regulatory scrutiny. Applications
 - [Overview & Process](./overview.md)
 - [Application Audits](./application-audits.md)
 - [Fees & Charges](./fees-and-charges.md)
+
+The complete 'Official Sources' section should read:
+
+Official Sources
+​
+Steps to supply for sponsors — TGA
+Device classification rules — Schedule 2, MD Regulations 2002
+Schedule 2A (IVD classification) — MD Regulations 2002
+Conformity assessment procedures — TGA

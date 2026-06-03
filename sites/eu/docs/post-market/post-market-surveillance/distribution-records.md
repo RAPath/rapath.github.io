@@ -67,7 +67,7 @@ These records enable the **recall chain** to function — if a manufacturer init
 ## Retention periods
 
 Distribution records must be retained for:
-- **15 years** after the last device was placed on the market — for all devices except implantables
+- **15 years** after the last device was placed on the market — for all devices non-implantable These retention periods begin from the date the final device in a batch or production run was placed on the market. Manufacturers must plan for secure, accessible archival systems to meet these extended retention obligations.
 - **30 years** after the last device was placed on the market — for implantable devices
 
 These retention periods are among the longest in any industry and must be planned for in document management and IT systems.
@@ -128,3 +128,5 @@ This chain enables identification of all patients with a specific affected devic
 | MDR Art. 27(9) | Healthcare institution UDI storage obligation |
 | MDR Art. 87(1) | Distribution data in vigilance reports |
 | IVDR Art. 10(8) | IVDR equivalent obligations |
+
+Complete the sentence and section with: 'Hospital records of UDIs → patient medical records. This chain allows regulators or manufacturers to trace from population-level concerns down to individual patients if needed. For implantable devices, where long-term safety monitoring is critical, this full traceability from manufacturer through to patient is essential for post-market surveillance and vigilance investigations.'

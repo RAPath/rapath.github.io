@@ -17,14 +17,14 @@ Understanding how Vietnam's regulatory framework compares with major internation
 | Market access | Declaration / Registration | ARTG listing/registration | CE marking (via Notified Body) | 510(k) / De Novo / PMA | Listing / Registration |
 | Pre-market review (low risk) | No (Type A/B self-declared) | No (Class I listing) | Limited (Class I) | Limited (Class I exempt) | No (Class A self-declared) |
 | Pre-market review (high risk) | Yes (Type C/D — DAV review) | Yes (TGA evaluation) | Yes (Notified Body conformity assessment) | Yes (FDA 510(k)/PMA review) | Yes (HSA review) |
-| QMS requirement | ISO 13485 / MDSAP | ISO 13485 / MDSAP | ISO 13485 | QMSR (21 CFR 820, ISO 13485 aligned) | ISO 13485 / MDSAP |
+| QMS requirement | ISO 13485 / MDSAP | ISO 13485 / MDSAP | ISO 13485 | QMS Regulation (21 CFR 820) — ISO 13485 alignment expected but QMSR does not require ISO 13485 certification; both are acceptable. | ISO 13485 / MDSAP |
 | Local representative | Required (foreign manufacturers) | Required (Sponsor) | Required (Authorised Rep) | Required (US Agent) | Required (Local Reg Agent) |
 | Dossier format | ASEAN CSDT | ARTG dossier | GSPR + Technical File + CER | eSTAR (510k/PMA) | ASEAN CSDT |
 | UDI | Planned | Implemented | Implemented | Implemented | Planned |
 
 ## Using foreign approvals to support Vietnam registration
 
-DAV accepts evidence of foreign regulatory approvals as supporting information within the CSDT — particularly within the clinical evidence and Essential Principles modules. However, a foreign approval alone is **not sufficient** — it supports but does not replace a complete Vietnam dossier.
+DAV accepts evidence of foreign regulatory approvals as supporting information within the CSDT — particularly within the clinical evidence and Essential Principles modules. However, a foreign approval alone is ****not sufficient** Manufacturers must still prepare a full CSDT tailored to Vietnamese requirements, reference standards (including TCVN), and the Essential Principles framework, even if the device is already registered in other markets.** — it supports but does not replace a complete Vietnam dossier.
 
 Particularly useful foreign evidence:
 - **CE marking (EU MDR):** Robust clinical evaluation standards; CER directly usable
@@ -51,3 +51,7 @@ Vietnam participates in IMDRF and generally aligns with IMDRF guidance on:
 - UDI (planned adoption)
 
 IMDRF-aligned submissions are well-positioned for Vietnam as DAV updates its guidance to reflect IMDRF developments.
+
+Either add a UK (MHRA) column to the comparison table with relevant data, or remove the reference to MHRA from the page description. If adding MHRA, include columns for: Primary law (Medical Devices Regulations 2002 / upcoming changes), Classification (Class I-IV), Market access (CE marking via Notified Body / UKCA marking post-Brexit), Pre-market review requirements, QMS requirement, Local representative, Dossier format, and UDI status.
+
+Revise the USA dossier format entry to: 'eSTAR portal (510(k) / PMA via eCopy format)' for clarity.

@@ -57,3 +57,7 @@ When the public health emergency is lifted:
 - Manufacturers wishing to continue distributing the device must submit a full NIE registration application
 - Kemenkes may grant a transitional period to allow EUA-covered product already in the market to be sold down
 - Begin standard NIE registration proceedings during the emergency period to avoid a market access gap
+
+## Eligibility Criteria
+
+"Checking Emergency Status - Manufacturers should verify the current emergency declaration status and applicable EUA regulations through the official Kemenkes website (www.kemkes.go.id) and check for published guidance or Surat Edaran (ministerial circulars) that outline EUA-specific requirements, timeline, and documentation. Emergency declarations and their associated EUA pathways are time-limited and subject to revision."

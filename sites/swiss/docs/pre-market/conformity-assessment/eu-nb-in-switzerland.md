@@ -6,7 +6,7 @@ keywords: [EU notified body, Switzerland, MRA, CE certificate, Swiss market acce
 # EU Notified Bodies for Switzerland
 
 ## Overview
-Switzerland has **no Swiss-designated notified bodies** for medical devices. Manufacturers use **EU-designated NBs** (under EU MDR/IVDR) for all conformity assessment procedures requiring NB involvement. The EU NB certificate forms the basis for Swiss market access, subject to the MRA.
+Switzerland has **no Swiss-designated notified bodies** for medical devices under the MedDO/IVDO framework. All conformity assessment procedures requiring notified body involvement must use EU-designated notified bodies. Manufacturers use **EU-designated NBs** (under EU MDR/IVDR) for all conformity assessment procedures requiring NB involvement. The EU NB certificate forms the basis for Swiss market access, subject to the MRA.
 
 ## Practical Workflow
 1. Engage an EU-designated NB with scope covering your device class (check NANDO)

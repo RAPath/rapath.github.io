@@ -26,7 +26,7 @@ description: Plain English definitions of the key regulatory terms used in Singa
 | **HPRG** | Health Products Regulation Group. The division of HSA responsible for regulating medical devices, therapeutic products, and other health products. |
 | **HSA** | Health Sciences Authority. Singapore's national regulatory authority for health products, a statutory board under the Ministry of Health. |
 | **IBR** | Immediate Class B Registration. A very fast evaluation route for Class B devices meeting specific conditions. Also available for standalone software as a medical device (SaMD) of Class B or C. |
-| **IMDRF** | International Medical Device Regulators Forum. A voluntary group of medical device regulatory authorities (including HSA) working to harmonise regulatory requirements globally. |
+| **IMDRF** | International Medical Device Regulators Forum. A voluntary group of medical device regulatory authorities (including HSA) working to harmonise regulatory from multiple jurisdictions requirements, share best practices, and improve global consistency in medical device regulation. |
 | **Input Request (IR)** | A request from HSA to an applicant for additional information or clarification during the evaluation of a registration application. Responding promptly to IRs is important to avoid delays. |
 | **IVD** | In Vitro Diagnostic medical device. A device used to examine specimens derived from the human body (e.g. blood, urine, tissue) for diagnostic purposes. |
 | **MDMIS** | Medical Device Manufacturers Information System. The HSA e-portal for submitting adverse event reports. |

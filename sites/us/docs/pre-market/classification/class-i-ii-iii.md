@@ -86,3 +86,5 @@ Being Class I or II does **not** automatically mean 510(k) is required. Exemptio
 
 - [FDA — Device Classes](https://www.fda.gov/medical-devices/classify-your-medical-device/device-classes)
 - [21 CFR Parts 862–892](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-H)
+
+How to determine a device class: Device classifications are published in 21 CFR Parts 862–892 (organized by product code and device type). Use the FDA Product Classification Database (accessdata.fda.gov) to search for your device by name, product code, or intended use to confirm its current classification and any 510(k) exemption status.

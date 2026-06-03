@@ -19,7 +19,7 @@ Custom-made devices are made to meet the unique needs of a specific, identified 
 
 Custom-made devices are **exempt from the device registration requirement** under Act 737. This means:
 
-- No Device Registration Number (DRN) is required
+- No Device Registration Number (DRN) is required. However, manufacturers must still hold an establishment licence and maintain compliance with safety and quality obligations.
 - No registration application is submitted to MDA
 - No conformity assessment against Essential Principles by a third party is required
 

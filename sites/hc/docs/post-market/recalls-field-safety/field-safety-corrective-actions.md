@@ -39,3 +39,9 @@ The manufacturer must maintain records of:
 - The final FSCA report submitted to Health Canada
 
 > **Legislative source:** Medical Devices Regulations, SOR/98-282, s 65; Health Canada Guidance on Medical Device Recalls
+
+Include manufacturer contact information
+A contact point (phone, email, or web portal) for customers to report actions taken or seek clarification
+
+Timelines
+Manufacturers must report FSCA progress and final effectiveness results to Health Canada within specified timeframes (typically 30 days for initial notification, with periodic updates for ongoing recalls).

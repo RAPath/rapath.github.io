@@ -27,3 +27,7 @@ Some hospitals and third-party reprocessors reprocess and reuse SUDs to reduce c
 The single-use designation is part of the device's intended use as licensed by Health Canada. If a manufacturer adds a single-use claim to a previously multi-use device (or vice versa), a Device Licence amendment is required.
 
 > **Legislative source:** Medical Devices Regulations, SOR/98-282, s 21 (labelling); ISO 15223-1 (symbols)
+
+## Why single use matters
+
+"Establishing Single-Use Status\n\nWhen designating a device for single use, manufacturers must provide scientific and technical rationale demonstrating that:\n• The device's materials degrade or deteriorate after use in a manner that cannot be reliably reversed\n• Reprocessing and re-sterilization would compromise device integrity, safety, or effectiveness\n• Residual contamination or material breakdown cannot be adequately removed by standard cleaning and sterilization methods\nThis justification becomes part of the Device Licence application and must be reviewed by Health Canada."

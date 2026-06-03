@@ -47,3 +47,5 @@ Distributing unapproved advertising can result in:
 - MDS-REQ 8 — Medical Device Advertising
 - [Labelling & IFU](../technical-documentation/labelling-ifu)
 - [MDMA Renewal](./mdma-renewal)
+
+Once advertising materials are approved, they must not be substantively altered without resubmitting for approval. If claims, images, or key messaging are modified, resubmission to the SFDA is required before distribution of the revised materials. Archive all approved versions and maintain evidence of SFDA approval for audit and inspection purposes.

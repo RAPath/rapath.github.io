@@ -58,7 +58,7 @@ All inspection, measuring, and test equipment must be:
 - Calibrated at defined intervals against recognised standards
 - Maintained with calibration records (equipment ID, calibration date, next due date, results)
 
-Uncalibrated equipment used in production or inspection is a common 483 citation.
+Use of uncalibrated inspection or measuring equipment in production decisions or acceptance testing is a common and serious 483 citation that can invalidate inspection and acceptance records.
 
 ---
 
@@ -74,3 +74,5 @@ Where necessary to prevent contamination of device or product:
 ## Official resources
 - [21 CFR §§ 820.70–820.86 (eCFR)](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-H/part-820)
 - [FDA — Process Validation Guidance (2011)](https://www.fda.gov/media/71021/download)
+
+Process validation must be revalidated when significant changes are made to the process, equipment, manufacturing location, or materials that could affect process capability or product quality. Change control procedures must trigger revalidation evaluation.

@@ -51,3 +51,15 @@ A device with an approved PCCP can implement pre-specified changes **without sub
 - [FDA — Digital Health Center of Excellence](https://www.fda.gov/medical-devices/digital-health-center-excellence)
 - [FDA — Software as a Medical Device](https://www.fda.gov/medical-devices/digital-health-center-excellence/software-medical-device-samd)
 - [FDA — PCCP Guidance (2024)](https://www.fda.gov/media/166704/download)
+
+510(k) Submission for SaMD
+
+Most SaMD products follow the 510(k) pathway and must:
+
+Identify an appropriate predicate device — the predicate may be another SaMD product, a cleared medical device software component, or a substantially equivalent hardware device with the same intended use
+
+Demonstrate substantial equivalence — show that the SaMD is as safe and effective as the predicate device in terms of performance, indications for use, and technological characteristics
+
+Submit software documentation — including software specifications, algorithm descriptions, cybersecurity documentation, and clinical/analytical validation data
+
+Note: Identifying a predicate device is more challenging for novel AI/ML algorithms; sponsors may pursue De Novo classification if no suitable predicate exists.

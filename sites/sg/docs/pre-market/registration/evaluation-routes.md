@@ -134,3 +134,5 @@ HSA provides an interactive tool to check registration and licensing requirement
 - [HSA: Registration overview — evaluation routes](https://www.hsa.gov.sg/medical-devices/registration/overview)
 - [HSA: Registration and licensing requirements tool](https://www.hsa.gov.sg/medical-devices/registration/requirements)
 - [HSA: Fees and turnaround time](https://www.hsa.gov.sg/medical-devices/fees)
+
+The EDR section should be completed with: "EDR exclusions — the following Class D devices cannot use EDR and must use Full or Abridged: [list of specific exclusions]. Applicants should verify EDR eligibility before submission."

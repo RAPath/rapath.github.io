@@ -60,3 +60,5 @@ Information on this page is drawn from Ministry of Health publications at [healt
 - [Ministry of Health Bill page](https://www.health.govt.nz/regulation-legislation/medicines-legislation/regulating-medicines-medical-devices-and-natural-health-products/documents-on-the-medical-products-bill)
 - [Medsafe What's New](https://www.medsafe.govt.nz/other/new.asp)
 - [New Zealand Parliament](https://www.parliament.nz) — for Bill status once introduced
+
+Under the new Bill, devices manufactured in NZ but exported only (not supplied domestically) will not require NZ regulatory approval. However, current WAND Regulations may still require notification for manufacturing traceability — this will be clarified during transition planning.

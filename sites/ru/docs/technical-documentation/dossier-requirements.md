@@ -73,3 +73,9 @@ Missing translations or incorrectly certified documents are a common cause of Ph
 Government Decree No. 1684: [government.ru](https://government.ru/)  
 MOH Order No. 11: [minzdrav.gov.ru](https://minzdrav.gov.ru/)
 :::
+
+## Pre-clinical and clinical data
+
+When pre-clinical testing is required
+​
+Pre-clinical test reports demonstrating safety and performance are required for all device classes. For Class I non-sterile devices, pre-clinical data alone may be sufficient if no clinical investigation is requested by the FGBU. For higher classes or novel devices, clinical data is typically required in addition to pre-clinical testing.

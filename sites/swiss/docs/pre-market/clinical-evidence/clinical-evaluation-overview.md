@@ -35,3 +35,5 @@ The clinical evaluation must be updated throughout the device lifecycle based on
 :::warning Disclaimer
 AI-assisted content for navigation only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
 :::
+
+MDCG 2020-5 provides detailed equivalence appraisal templates. For Swiss submissions, manufacturers must document equivalence using: technical specification comparison tables, biocompatibility/material matching, clinical endpoint mapping, and literature gap analysis. Equivalence claims without all three dimensions (technical, biological, clinical) are typically rejected by Swissmedic.

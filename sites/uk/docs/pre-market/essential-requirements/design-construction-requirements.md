@@ -268,3 +268,5 @@ Full labelling requirements are addressed in [Labelling requirements](../../post
 | ISO 11135 / 11137 / 11607 | Sterilisation and packaging (ER 8) |
 | ISO 22442 | Animal tissue devices (ER 16) |
 | MHRA: Designated standards | Current UK-designated standard list |
+
+The section should continue with: 'rance Level (SAL) of 10^-6 or better. The sterilisation process validation must demonstrate: (a) the sterilisation method achieves the required SAL; (b) the packaging maintains sterility throughout the claimed shelf-life; (c) the process is suitable for the device design, materials, and any residues; and (d) parameters are monitored and documented in manufacturing. Where appropriate, reference ISO 11135-1 (ethylene oxide) or ISO 14971 (other sterilisation methods).'

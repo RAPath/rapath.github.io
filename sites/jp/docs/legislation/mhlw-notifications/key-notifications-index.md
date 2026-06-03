@@ -54,3 +54,5 @@ Example: 薬機発0401第1号 (Yakki-hatsu 0401 No. 1) = Notification No. 1 issu
 All MHLW notifications: [mhlw.go.jp — pharmaceutical notifications](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iyakuhin/kigu/index.html) (Japanese)
 PMDA administrative notices: [pmda.go.jp — administrative information](https://www.pmda.go.jp/english/) (some available in English)
 :::
+
+Note: Specific notification numbers, dates, and issuing bureaus are not listed here because they change with periodic updates. Always verify the current version on mhlw.go.jp by searching for the topic (e.g., "認証基準" for recognised standards or "プログラム医療機器" for SaMD) rather than relying on stored notification numbers.

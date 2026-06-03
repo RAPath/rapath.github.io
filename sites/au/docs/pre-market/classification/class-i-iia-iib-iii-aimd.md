@@ -131,3 +131,23 @@ If you have an existing AIMD ARTG entry, check the current status of your reclas
 - [IVD Class 1–4](./ivd-class-1-2-3-4.md)
 - [Conformity Assessment Overview](../conformity-assessment/overview.md)
 - [ARTG Inclusion by Device Class](../artg-inclusion/by-device-class.md)
+
+The complete AIMD section should read:
+
+AIMD — Active Implantable Medical Devices
+​
+Risk level:
+High
+Status:
+Being phased into Class III
+Effective date:
+From 25 November 2021, all new AIMD applications are classified as Class III
+Examples:
+Pacemakers, implantable cardioverter-defibrillators (ICDs), cochlear implants, deep brain stimulators, neurostimulators.
+Key regulatory requirements:
+Full QMS certification (ISO 13485) required
+Product design dossier assessment required
+EU MDR CE certificate, TGA Conformity Assessment Certificate, or other accepted comparable regulator certificate required
+Mandatory audit applies for most new applications
+Annual reporting obligations (minimum 3 years after inclusion)
+Note: Existing AIMD entries retain AIMD classification. All new active implantable devices must be classified as Class III under the updated rules.

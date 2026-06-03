@@ -21,3 +21,7 @@ MFDS may reclassify a device based on new evidence, safety data, or internationa
 
 ## Related pages
 - [How classification works](./how-classification-works) · [Grade I–IV overview](./grade-i-ii-iii-iv-overview)
+
+## MFDS decision published; Classification Table updated if approved
+
+The reclassification review process typically takes 2–4 months. Once approved, the updated classification is effective upon publication in the Classification Table notification. Manufacturers with existing approvals under the previous grade must comply with the new requirements within a specified transition period.

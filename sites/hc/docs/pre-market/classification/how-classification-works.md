@@ -60,3 +60,10 @@ If you are uncertain about the classification of your device, you can:
 Health Canada's classification decisions are binding for the purposes of regulatory submissions.
 
 > **Legislative source:** Medical Devices Regulations, SOR/98-282, Schedule 2
+
+Expand the 'How to determine the class of your device' section to include:
+For IVDs specifically:
+- Determine the seriousness of the condition being tested
+- Assess impact of false positive/negative results
+- Consider whether the IVD is for point-of-care or laboratory use (POC/home-use may be elevated one class)
+- Reference IVD Classification Rules for specific classification factors

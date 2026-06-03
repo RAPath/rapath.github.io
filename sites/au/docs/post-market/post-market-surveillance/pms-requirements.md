@@ -23,7 +23,7 @@ A compliant PMS system must systematically collect, review, and act on data from
 - **Post-market clinical follow-up (PMCF)** data — for higher-risk devices where pre-market clinical evidence was insufficient to address all questions
 - **Technical complaints** — reports of device malfunction or performance issues that did not result in patient harm
 
-All PMS data must be analysed and the conclusions must be fed back into the device's risk management file and clinical evaluation report. The PMS system must be documented and periodically reviewed.
+All PMS data must be analysed and the conclusions must be fed back into the device's risk management file and clinical evaluation report. The PMS system must be documented and systematically (ISO 14971) in a PMS Plan, periodically reviewed (at least annually for higher-risk devices), the results recorded in periodic PMS Reports (PMSR) or Periodic Safety Update Reports (PSUR).
 
 ---
 
@@ -78,3 +78,16 @@ PMS does not exist in isolation — it connects directly to:
 - [Annual Reports](./annual-reports.md)
 - [Distribution Records](./distribution-records.md)
 - [Adverse Event Reporting](../adverse-event-reporting/what-must-be-reported.md)
+
+Official Sources
+
+Post-market obligations — TGA
+Post-market overview — TGA
+Regulation 5.1 — MD Regulations 2002 (post-market surveillance)
+ISO 14971:2019 — Risk management for medical devices
+
+Related Pages
+
+Annual Reports (Class III, AIMD, IIb Implants)
+Distribution Records
+Adverse Event Reporting — What Must Be Reported

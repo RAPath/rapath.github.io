@@ -113,3 +113,15 @@ Indonesian regulations can be updated through:
 :::tip
 Subscribe to official Kemenkes and BPOM announcement channels, and monitor the Regalkes portal for system updates. Regulatory changes are not always widely publicised in English.
 :::
+
+Staying Up to Date
+
+Indonesian regulations and Kemenkes guidance documents are updated periodically through ministerial circulars (Surat Edaran), amended regulations, and announcements via the Regalkes portal and Kemenkes website. Monitor the Regalkes system and Kemenkes official communications for updates to:
+
+- PNBP fee schedules
+- CDAKB and IDAK requirements
+- Classification guidance
+- Dossier format requirements
+- Halal certification timelines
+
+Your LAR should maintain awareness of regulatory updates as part of their ongoing compliance responsibility.

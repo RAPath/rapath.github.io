@@ -38,10 +38,14 @@ The GCC has a **group purchasing programme** that covers all member states, offe
 ## Practical implications for manufacturers
 
 - An SFDA MDMA does **not** automatically grant market access in other GCC countries — each country requires its own registration
-- The alignment of classification rules (EU MDR-based) across GCC countries simplifies technical file preparation for multi-country submissions
+- The alignment of classification rules (based on EU MDR Annex VIII) across most GCC countries simplifies technical file preparation for multi-country submissions, though technical file format and submission procedures vary by country.
 - Manufacturers entering the GCC should consider a **coordinated registration strategy** across all target markets
 
 ## Further reading
 
 - [SFDA vs Other Regulators](./sfda-vs-regulators)
 - [Multi-Market Strategy](./multi-market-strategy)
+
+Status of Mutual Recognition in GCC
+
+While GCC member states have harmonised classification rules and technical documentation requirements, there is no formal mutual recognition agreement that automatically grants market access based on SFDA registration alone. Each GCC country maintains independent review and approval processes. However, SFDA MDMA documentation serves as a strong foundation for parallel submissions in other GCC markets, reducing the need for substantive re-testing or re-validation. Manufacturers should appoint local ARs in each target GCC country.

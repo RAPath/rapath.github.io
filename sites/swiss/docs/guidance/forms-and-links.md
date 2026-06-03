@@ -42,3 +42,8 @@ description: Official Swiss medical device forms, portals, and reference links �
 :::warning Disclaimer
 AI-assisted navigation aid only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
 :::
+
+## Reference
+
+| Swissmedic — Guidance and standards | swissmedic.ch/guidance |
+| Swissmedic — Harmonised standards | swissmedic.ch/harmonised-standards |

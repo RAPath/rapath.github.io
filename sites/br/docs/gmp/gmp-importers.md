@@ -23,3 +23,5 @@ ANVISA may conduct inspections at foreign manufacturer sites for Class IV device
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+Importers are also responsible for implementing post-market surveillance procedures, including collection and evaluation of adverse event reports, and must report serious adverse events to ANVISA within the required timeframe. Importers must maintain records of all complaints and adverse events associated with imported devices.

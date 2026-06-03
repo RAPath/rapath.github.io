@@ -18,7 +18,7 @@ Conditional authorization may be granted when:
 - Mandatory **post-market clinical follow-up (PMCF)** study
 - Restricted indication or patient population
 - Enhanced pharmacovigilance/device surveillance
-- Time-limited approval — must be converted to full approval upon data submission
+- Time-limited approval — typically valid for 2–4 years and must be converted to full 품목허가 (marketing authorization) upon satisfactory submission of required post-market data
 
 ## Risk to the manufacturer
 
@@ -26,3 +26,13 @@ If the conditions are not fulfilled (e.g., PMCF study not completed), MFDS may *
 
 ## Related pages
 - [Innovative medical device designation](./innovative-medical-device-designation) · [Post-market clinical follow-up](../post-market/post-market-surveillance/post-market-clinical-follow-up)
+
+Re-evaluation and conversion
+​
+Upon submission of required post-market data, MFDS will:
+— Review evidence against the original conditions
+— Grant full approval (품목허가) if conditions are satisfied
+— Request additional data if evidence is insufficient
+— May revoke approval if the device is shown to have unacceptable risk-benefit profile
+
+Conditional authorization is typically valid for 2–4 years pending data submission.

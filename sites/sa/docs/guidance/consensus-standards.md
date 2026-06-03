@@ -45,7 +45,7 @@ The SFDA also accepts **Saudi GSO standards** (Gulf Standards Organisation) wher
 |---|---|
 | IEC 60601-1:2005+A1+A2 | General requirements for basic safety and essential performance |
 | IEC 60601-1-2:2014+A1 | EMC requirements |
-| IEC 60601-1-6:2010+A1+A2 | Usability |
+| IEC 62366-1:2015+A1:2020 engineering — application of usability engineering (Note: IEC 60601-1-6 addresses risk management for usability; IEC 62366-1 is the primary usability engineering standard. The page already lists IEC 62366-1 separately below, so the IEC 60601-1-6 row should be removed or clarified as 'Risk management related to usability' if retained.) | Usability |
 
 ### Software and IEC 62304
 | Standard | Scope |
@@ -89,3 +89,7 @@ The SFDA publishes its list of recognised standards on the SFDA website. Always 
 - MDS-REQ 1 — Essential Principles and standards references
 - [Essential Principles](../technical-documentation/essential-principles)
 - [Guidance Overview](./guidance-overview)
+
+## SFDA standard recognition
+
+Expand the Biocompatibility section as follows:

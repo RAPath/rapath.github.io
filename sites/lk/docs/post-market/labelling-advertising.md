@@ -72,3 +72,5 @@ Any significant change to device labelling after registration must be notified t
 - Addition or deletion of warnings
 - Changes to the approved intended purpose or indications
 - Changes to storage conditions
+
+Confirm the effective date and any transition provisions for advertising pre-approval with the NMRA, as this requirement may have specific implementation timelines for existing registrations.

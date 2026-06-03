@@ -6,7 +6,7 @@ description: Vietnam's National Medical Device Information System (DMEC) — how
 
 # The DMEC Portal (National Medical Device Information System)
 
-The **National Medical Device Information System — DMEC** (Hệ thống Thông tin Quản lý Trang thiết bị Y tế) at [dmec.gov.vn](https://dmec.gov.vn) is the central online platform for all medical device regulatory interactions with DAV and provincial health departments in Vietnam.
+The National Medical Device Information System — DMEC (Hệ thống Thông tin Quản lý Trang thiết bị Y tế) at [dmec.gov.vn](https://dmec.gov.vn) is the central online platform for all medical device regulatory interactions with DAV and provincial health departments in Vietnam.
 
 ## What can you do in DMEC?
 
@@ -29,7 +29,7 @@ DMEC supports the full regulatory lifecycle:
 4. Verify the account via email
 5. Log in and complete the company profile
 
-**Foreign manufacturers** cannot create a DMEC account directly — the account is created by and in the name of the Vietnamese **Authorised Representative**.
+Foreign manufacturers cannot create a DMEC account directly — the account is created by and in the name of the Vietnamese Authorised Representative.
 
 ## Submitting a declaration (Type A/B)
 
@@ -60,10 +60,9 @@ Use the dashboard to:
 
 ## Common DMEC issues
 
-- **Browser compatibility:** DMEC works best with Google Chrome; some features may not function correctly in other browsers
-- **Document upload limits:** Dossier modules have individual file size limits — split large files and use compressed PDFs
-- **Language:** DMEC is primarily in Vietnamese; consider engaging a Vietnamese-speaking regulatory specialist for initial account setup
+- Browser compatibility: DMEC works best with Google Chrome; some features may not function correctly in other browsers
+- Document upload limits: Dossier modules have individual file size limits — split large files and use compressed PDFs
+- Language: DMEC is primarily in Vietnamese; consider engaging a Vietnamese-speaking regulatory specialist for initial account setup
 
-:::note
-DMEC is actively developed and updated by MOH. The interface and features may change as the system evolves. Always check the official [dmec.gov.vn](https://dmec.gov.vn) for the current version.
-:::
+note
+DMEC is actively developed and maintained by DAV under MOH. The interface, features, and submission requirements may change. Always consult the official dmec.gov.vn homepage and the latest MOH circulars for current guidance before submitting critical applications.

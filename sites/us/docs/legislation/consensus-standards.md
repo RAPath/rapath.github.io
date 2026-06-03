@@ -70,3 +70,5 @@ When a manufacturer demonstrates conformance to an FDA-recognised standard:
 - [FDA Standards Database](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfStandards/search.cfm)
 - [FDA — Use of Consensus Standards](https://www.fda.gov/medical-devices/premarket-submissions-selecting-and-preparing-correct-submission/recognition-and-use-consensus-standards)
 - [21 CFR Part 898](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-H/part-898)
+
+FDA Recognized Consensus Standards

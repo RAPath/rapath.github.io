@@ -16,7 +16,7 @@ MAH applicants must have a principal office in Japan. Foreign companies without 
 - A **physical office address** in Japan where business is conducted — not a virtual office or mail forwarding address
 - Sufficient **organisational capability** at the Japan office to fulfil MAH obligations (staffing, systems, records)
 
-A foreign company cannot hold an MAH licence in its own name. Only a Japan-registered entity can apply.
+A foreign company cannot hold an MAH licence in its own name. Only a Japan-registered entity can corporate apply; however, a foreign company may apply jointly with a Japan-domiciled entity, or may apply through a Japan-registered subsidiary.
 
 ## Options for overseas manufacturers
 
@@ -37,3 +37,5 @@ A foreign company cannot hold an MAH licence in its own name. Only a Japan-regis
 - Allow 2–4 months for incorporation and staffing
 - The Responsible Technical Officer must meet MHLW qualification requirements
 - The MAH licence application to the prefectural government takes approximately 1–3 months after submission
+
+The subsidiary must have a physical Japan office and Japan-based staff who are capable of executing MAH responsibilities. A subsidiary with only virtual office space or minimal Japan staffing may not satisfy regulatory expectations, and MHLW may request evidence of actual operational capacity during licence application review.

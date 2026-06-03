@@ -33,3 +33,5 @@ HSA's guidance documents frequently reference these standards as the basis for e
 
 - [Singapore Statutes Online](https://sso.agc.gov.sg)
 - [HSA: Standards for Medical Devices](https://www.hsa.gov.sg/medical-devices/standards-for-medical-devices)
+
+In addition to the standards listed above, HSA publishes Medical Device Advisories, Safety Communications, and guidance documents that provide interpretive guidance on regulatory requirements. These documents are available on the HSA website (hsa.gov.sg/medical-devices) and should be reviewed as part of ongoing compliance monitoring, though they do not have the force of law.

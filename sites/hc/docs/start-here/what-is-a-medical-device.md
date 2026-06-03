@@ -15,7 +15,7 @@ Under the **Food and Drugs Act (FDA)**, a **medical device** is defined as any a
 - the **diagnosis of pregnancy** in human beings or animals
 - the **care of human beings or animals** during pregnancy and at and after birth of the offspring, including care of the offspring
 
-A medical device does **not** achieve its primary intended action by chemical, pharmacological, immunological, or metabolic means — this is the principal distinction from a drug.
+A medical device does **not** achieve its primary intended action through If a product works primarily through these mechanisms, it is regulated as a drug rather than a device. chemical, pharmacological, immunological, or metabolic means — this is the principal distinction from a drug.
 
 > **Legislative source:** Food and Drugs Act, RSC 1985, c F-27, s 2 (definition of "device")
 

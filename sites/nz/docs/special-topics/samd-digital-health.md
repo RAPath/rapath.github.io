@@ -56,7 +56,7 @@ Software that uses AI for general-purpose purposes (e.g., scheduling, administra
 
 ## Medical Products Bill — SaMD provisions
 
-The upcoming **Medical Products Bill** will for the first time explicitly regulate SaMD in New Zealand. Cabinet agreed in July 2025 that:
+The upcoming **Medical Products Bill** will for the first time explicitly regulate SaMD in New Zealand. Cabinet agreed (with the effective date to be confirmed) that:
 
 - The Bill will regulate SaMD (including AI used for a therapeutic purpose)
 - The SaMD definition will be **internationally aligned** (IMDRF-based)
@@ -76,3 +76,5 @@ Mobile health apps and consumer wearables sit on the device/non-device borderlin
 :::tip Borderline software products
 Use Medsafe's categorisation service (devices@health.govt.nz) to get an advisory opinion on whether your software is a medical device in New Zealand before investing in WAND notification or technical documentation.
 :::
+
+The Medical Products Bill's SaMD provisions are expected to come into effect after Cabinet confirmation in 2025, though the exact implementation date has not yet been announced. Until the Bill is enacted, SaMD classification and notification follow existing Medicines Act rules. Sponsors developing SaMD intended for the NZ market should monitor Medsafe's website for announcements about the Bill's passage and any interim guidance on the transition period.

@@ -28,3 +28,7 @@ description: An overview of Class C medical device registration routes in Singap
 
 - [HSA: Class C registration guides](https://www.hsa.gov.sg/medical-devices/registration/guides)
 - [HSA: Fees and turnaround time](https://www.hsa.gov.sg/medical-devices/fees)
+
+ECR-1: Available when the device has ≥1 approval from a reference agency, ≥3 years of safe marketing history, no known safety issues, and no prior rejection by HSA or the reference agency. ECR-2: Available when the device has ≥2 approvals from different reference agencies and no prior rejection or withdrawal by HSA or any reference agency.
+
+The Immediate route is available for Class C devices that meet specific criteria including approval from overseas reference agencies and safe marketing history. Refer to HSA guidance for detailed eligibility conditions.

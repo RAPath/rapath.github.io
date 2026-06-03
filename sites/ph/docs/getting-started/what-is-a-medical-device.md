@@ -50,3 +50,5 @@ Products at the device-drug boundary are assessed based on principal mechanism o
 :::tip LTO required even for IVDs
 Even though IVDs do not currently require CMDN/CMDR registration, all entities handling IVDs (importers, distributors, manufacturers) must hold a valid **License to Operate (LTO)**. See [Establishment License & LTO](/cdrrhr-operations/establishment-license).
 :::
+
+Last reviewed: May 2026. For current information, always verify with CDRRHR at www.fda.gov.ph — regulatory requirements may change.

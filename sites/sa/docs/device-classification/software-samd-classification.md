@@ -18,7 +18,7 @@ The SFDA applies the general classification rules of MDS-REQ 1 to software, info
 - The **significance of the information provided** — whether it is the basis for final clinical decisions or merely informs a clinician
 - The **intended user** — healthcare professional vs. lay person
 
-Software that directly drives clinical decisions for life-threatening conditions is likely Class C or D; software providing low-risk informational support may be Class A or B.
+Software that directly drives clinical decisions for life-threatening conditions is likely Class C or independent (e.g. autonomous diagnostic systems with no clinician review) D. Software that is reviewed by a clinician before use providing low-risk informational support may be Class A or B.
 
 ## Software version management in MDMA
 
@@ -44,3 +44,7 @@ The SFDA is developing its approach to AI and machine learning-enabled medical d
 - IMDRF SaMD guidance documents
 - [Digital Health & SaMD Overview](../digital-health/samd-overview)
 - [Borderline & Combination Products](./borderline-products)
+
+Submission Timeline and Pathways
+
+The SFDA reviews SaMD applications through the standard MDMA pathway via GHAD. Standard review timelines typically range from 3–12 months depending on device complexity and classification. No expedited or accelerated pathways are currently available for SaMD. Manufacturers should budget for substantive pre-market review, particularly for Class C and D devices.

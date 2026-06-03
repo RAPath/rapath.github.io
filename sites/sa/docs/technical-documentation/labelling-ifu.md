@@ -58,3 +58,5 @@ All promotional and advertising materials for medical devices require **pre-appr
 - MDS-REQ 8 — Medical Device Advertising
 - [UDI Overview](../udi/udi-overview)
 - [Post-Market Labelling & Advertising](../post-market/labelling-advertising)
+
+While English is acceptable for professional-use devices, manufacturers should consider providing Arabic translations on labels even for professional devices, as many healthcare professionals in Saudi Arabia may benefit from bilingual labelling. This supports compliance with good manufacturing practice and user safety principles.

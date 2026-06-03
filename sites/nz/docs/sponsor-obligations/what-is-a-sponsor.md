@@ -82,3 +82,5 @@ The Sponsor carries significant legal exposure. Failing to notify WAND, failing 
 | European Union | Authorised Representative | Yes — EU presence | No formal registration |
 | United Kingdom | UKRP (UK Responsible Person) | Yes — UK presence | Yes — must register with MHRA |
 | United States | US Agent (for foreign manufacturers) | No (must have US address) | No formal registration |
+
+A registered office or principal place of business means a physical address in New Zealand where the entity can be contacted and where records can be kept. A PO box alone is not sufficient; there must be a genuine business presence with ability to receive correspondence and maintain regulatory records.

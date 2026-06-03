@@ -53,7 +53,7 @@ The class of market action determines the urgency and extent of the corrective a
 
 ## The Obligation to Notify the TGA Promptly
 
-When a sponsor becomes aware of a situation that may require a market action, they must notify the TGA **as soon as possible**. For Class I situations (critical safety issues), this means immediate notification. The sponsor must not begin communicating with customers or initiating product removal until the TGA has reviewed and approved the recall strategy — except in the most serious situations where an imminent threat to patient safety means immediate action is necessary before TGA approval can be obtained.
+When a sponsor becomes aware of a situation that may require a market action, they must notify the TGA **as soon as possible**. For Class I situations (critical safety issues), this means immediate notification. The sponsor must not publicly communicate with customers or initiate product removal until the TGA has reviewed and approved the recall strategy — except in the most serious situations where an imminent threat to patient safety means immediate action is necessary before TGA approval can be obtained. In such cases, the sponsor must notify the TGA immediately of the action taken and provide justification for proceeding without prior approval.
 
 Notifying the TGA late — or failing to notify at all — is a serious breach of ARTG conditions.
 
@@ -80,3 +80,17 @@ Contact the TGA Recalls team: recalls@tga.gov.au
 - [Recall Classifications & Levels](./recall-classifications-and-levels.md)
 - [Field Safety Corrective Actions](./field-safety-corrective-actions.md)
 - [TGA-Initiated Actions](./tga-initiated-actions.md)
+
+Official Sources
+
+PRAC — TGA
+Recalls and other market actions — TGA
+Section 41GN — Therapeutic Goods Act 1989
+Database for Recalls, Product Alerts and Product Corrections (DRAC) — TGA
+
+Related Pages
+
+Recall Classifications & Levels
+Field Safety Corrective Actions
+TGA-Initiated Actions
+Distribution Records

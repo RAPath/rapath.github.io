@@ -6,7 +6,7 @@ sidebar_position: 6
 # Forms and PMDA Submission Portals
 
 :::note JP-unique
-PMDA operates Japan's primary electronic submission gateway (EDRP) for Shonin applications and related submissions. Most formal pre-market applications and post-market regulatory submissions are processed through this system. Understanding the portal and form requirements is essential for efficient regulatory submissions.
+PMDA operates Japan's primary electronic submission gateway (EDRP) for Shonin applications and related submissions. Most formal pre-market applications and post-market regulatory submissions (Cabinet Order on Medical Device Fees) Consultation fees vary by type (e.g., RS Strategy Consultation vs pre-application consultation). processed through this system. Understanding the portal and form requirements is essential for efficient regulatory submissions.
 :::
 
 ## PMDA electronic submission gateway (EDRP)
@@ -40,7 +40,7 @@ PMDA EDRP portal: [pmda.go.jp — electronic submissions](https://www.pmda.go.jp
 
 ## PMDA pre-submission consultation booking
 
-Pre-submission consultations with PMDA are booked through PMDA's consultation management system. The process:
+Pre-submission consultations  are booked through PMDA's consultation management system. The process:
 1. Access PMDA's consultation booking page (pmda.go.jp — consultation services section)
 2. Select the consultation type (RS Strategy Consultation, pre-application consultation, etc.)
 3. Submit a consultation request form with a brief description of the device and regulatory question
@@ -54,3 +54,5 @@ PMDA charges fees for pre-submission consultations, application reviews, and QMS
 :::info Official source
 PMDA fee schedule: [pmda.go.jp — fees](https://www.pmda.go.jp/english/review-services/fees/0001.html)
 :::
+
+Expand Fee payment section with: "Fee payment details: PMDA requires fee payment to be submitted with the application or as specified in PMDA's fee schedule notice. Payment methods typically include bank transfer to the designated PMDA account. Failure to pay fees on time may result in application rejection or suspension of review. The MAH should confirm current payment procedures directly with PMDA before submission, as procedures may change."

@@ -41,3 +41,5 @@ These industry templates are not official ANVISA documents but are widely used a
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+The Technical File Index is mandatory and must be submitted with all Class III and IV device registrations; a template is available on the ANVISA portal.

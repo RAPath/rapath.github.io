@@ -32,7 +32,7 @@ MHLW allows several practical approaches for managing international labelling:
 
 - Include the Japanese MAH address and MAH name on the primary label — MHLW inspectors focus on this
 - Confirm approval/certification number format with your MAH before printing
-- Approval/certification numbers change if you transfer the approval to a new MAH — all printed labels become incorrect
+- Approval/certification numbers change if is transferred previously bearing the old MAH name and approval number and cannot be used. Plan inventory carefully and coordinate labelling reprinting with the transfer approval timeline to avoid stock obsolescence. the approval to a new MAH — all printed labels become incorrect
 - Plan labelling change timelines carefully — Ichibu Henko may be required for certain label changes
 
 ## Electronic IFU considerations

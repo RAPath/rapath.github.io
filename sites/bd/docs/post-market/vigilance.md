@@ -87,3 +87,8 @@ When a recall is initiated (voluntarily or by DGDA order):
 - AR coordinates collection from hospitals, clinics, distributors
 - AR reports recall progress to DGDA at required intervals
 - AR confirms completion and provides reconciliation records to DGDA
+
+affected users and distributors in a timely manner
+AR coordinates with DGDA on communication strategy
+AR maintains records of all notifications and confirmations of receipt
+Following completion of the recall, AR submits a final report to DGDA confirming the scope of the FSCA, devices recalled/modified, and confirmation that the safety issue has been resolved.

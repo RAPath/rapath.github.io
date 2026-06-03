@@ -73,3 +73,5 @@ Certain device categories require **physical testing to be conducted locally** i
 | Medical gas cylinders | ✅ Yes |
 
 To conduct local testing, a **Sample Import Licence** must be obtained before the samples can enter Sri Lanka. Budget the time and cost for local testing into your overall registration planning.
+
+In ISO 13485 section, add: 'The certification body must be accredited to ISO/IEC 17021 standards and recognized by the NMRA. Confirm acceptability of your certification body with the NMRA before submission if using a less common auditor.'

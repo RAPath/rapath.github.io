@@ -8,14 +8,19 @@ tags: [enforcement]
 
 # Administrative Penalties
 
-*This page provides a plain English reference for administrative penalties under China's NMPA enforcement framework. Full content to be completed during editorial review.*
+This page provides a plain English reference for administrative penalties under China's NMPA enforcement framework. Full content to be completed during editorial review.
 
 ---
 
 ## Regulatory basis
 
-NMPA enforcement powers are set out in **MDSAR 2021 Chapter VII (Legal Liability — Arts. 88–101)** and the **Medical Device Operation Supervision and Administration Measures (NMPA Order No. 54)**.
+NMPA enforcement authority and penalties are provided under:
+
+- **MDSAR 2021 Chapter VII (Legal Liability — Articles 88–101)** — establishes penalty framework, amounts, and enforcement procedures
+- **Medical Device Operation Supervision and Administration Measures (NMPA Order No. 54)** — details operational compliance requirements and enforcement mechanisms for manufacturers, distributors, and users
 
 :::note Disclaimer
 Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [NMPA](https://www.nmpa.gov.cn/) sources before making regulatory decisions. Not affiliated with NMPA or any Chinese Government body. Not legal or regulatory advice.
 :::
+
+MDSAR 2021 Chapter VII authorizes NMPA and local authorities to impose administrative penalties including: warnings, confiscation of illegal devices and proceeds, fines (up to RMB 3 million for serious violations), suspension or revocation of registration certificates, and public disclosure of violations. Penalties vary based on violation severity and intent.

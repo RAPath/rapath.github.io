@@ -35,3 +35,9 @@ The **Drugs and Cosmetics Act 1940 (D&C Act)** is the principal legislation gove
 The D&C Act has been amended multiple times. The most significant amendment for medical devices was the **Drugs and Cosmetics (Amendment) Act 2008**, which formally brought medical devices under the statutory definition and framework.
 
 > **Official source:** [D&C Act 1940 — CDSCO](https://cdsco.gov.in/opencms/opencms/en/Acts-Rules/Acts/)
+
+## Key provisions for medical devices
+
+Section 26 | Adulteration and misbranding of medical devices
+Section 144 | Rules for medical devices (including classification rules and quality standards)
+Schedule Y (Part A-XIII) | Requirements for medical device manufacturing, documentation, and safety

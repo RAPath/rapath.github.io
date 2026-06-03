@@ -55,3 +55,5 @@ Does the product achieve its primary intended effect through pharmacological, im
 :::tip MDA Clarification Request
 If uncertain, submit a product classification enquiry via the MyMDA portal. MDA will provide a formal determination.
 :::
+
+Add this note to Step 1 after the medical purposes list:

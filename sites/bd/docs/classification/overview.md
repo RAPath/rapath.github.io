@@ -60,8 +60,13 @@ If a device falls under multiple classification rules simultaneously, the **high
 4. **Assign the highest class** indicated by any applicable rule
 5. **Document the classification rationale** — this must be included in the registration dossier
 
-:::tip When in doubt, classify higher
-DGDA guidance supports a conservative approach. If a device could fall in Class B or C under different interpretations, classify as Class C. Registering a lower-class device as a higher class wastes resources; registering a higher-class device as lower class is a compliance violation.
+:::tip When in Doubt, Classify Higher
+
+DGDA guidance supports a conservative approach. If a device could fall in Class B or C under different interpretations, classify as Class C. The rationale:
+- Registering a higher-class device as lower class = compliance violation and enforcement risk
+- Registering a lower-class device as higher class = wasted registration resources but no regulatory risk
+
+Document your classification rationale clearly in the dossier to support the classification chosen.
 :::
 
 ## IVD Classification
@@ -84,3 +89,7 @@ IVD devices follow separate classification rules within the same A–D framework
 - **Software**: Classified within A–D framework based on clinical function and risk of the software's output. See [Software & IVD Classification](/classification/software-ivd).
 - **Accessories**: Classified independently based on their own risk profile, not necessarily the same class as the device they accompany.
 - **Systems and procedure packs**: May be eligible for grouped registration. See [Guidance & Resources](/guidance-resources/overview) for grouping rules.
+
+Accessories: Classified independently based on their own risk profile. If an accessory is critical to a device's essential function, it may be classified in the same class as the principal device or higher, depending on the risk assessment.
+
+Example: A sterile introducer sheath for a Class D catheter may itself be classified as Class C or D if its failure could compromise the device's safety.

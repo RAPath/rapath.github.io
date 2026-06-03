@@ -78,3 +78,5 @@ Malaysia aligns its standards acceptance with **IMDRF**, **ISO**, **IEC**, and *
 :::note Deviations from Standards
 If you cannot fully comply with a standard, document the deviation and provide an alternative means of demonstrating compliance with the corresponding Essential Principle. Unjustified deviations are a common cause of MDA queries.
 :::
+
+If partial compliance is claimed, provide documented risk assessment and technical justification for each deviation. Waivers must be justified by design necessity or equivalence to the Essential Principle. Unsupported deviations are a frequent source of deficiency letters and may result in rejection.

@@ -165,3 +165,5 @@ This information must be updated if the manufacturer's details change. Manufactu
 | IVDR Art. 10 | General obligations of manufacturers (IVDR) |
 | MDCG 2019-6 | Guidance on the PRRC |
 | ISO 13485:2016 | Medical device QMS standard |
+
+Complete the truncated sentence. It should read: 'Maintain distribution records sufficient to enable field safety actions to reach all customers who have received a device.'

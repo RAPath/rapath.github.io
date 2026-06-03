@@ -56,3 +56,5 @@ Vietnam is a member of the **Association of Southeast Asian Nations (ASEAN)** an
 | Circular 14/2020/TT-BYT | Device classification rules |
 
 For full legislative coverage, see the [Legislation section](../legislation/decree-98-2021).
+
+For detailed information on DMEC account setup, submission procedures, and technical requirements, see the dedicated DMEC Portal page.

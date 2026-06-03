@@ -10,7 +10,7 @@ keywords: [FDA international, global regulatory, IMDRF, FDA global comparisons]
 ## FDA's international role
 
 - **IMDRF founding member** — the US was a founding participant of the International Medical Device Regulators Forum
-- **Global benchmark** — FDA 510(k) clearance and PMA approval are used as reference points in other countries' reliance pathways
+- **Global benchmark** — FDA 510(k) clearance and PMA approval are used as reference points in recognized and of multiple countries including Australia, Singapore, and Canada, demonstrating FDA's influence in international regulatory harmonization reliance pathways
 - **GMP mutual recognition** — FDA has MRAs for GMP inspections with EU, Canada, and others
 
 ## Quick comparison

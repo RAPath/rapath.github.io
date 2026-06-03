@@ -55,3 +55,7 @@ Required label statements must appear prominently and conspicuously — at least
 - [21 CFR Part 801 (eCFR)](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-H/part-801)
 - [FDA — General Device Labelling Requirements](https://www.fda.gov/medical-devices/device-labeling/general-device-labeling-requirements)
 - [FDA — Guidance: Labelling — Regulatory Requirements for Medical Devices (2019)](https://www.fda.gov/media/73765/download)
+
+## Electronic Labelling (eLabel)
+
+FDA permits certain labelling requirements to be satisfied through electronic format (eLabel) rather than on the physical device label. This is particularly common for prescription devices and devices where physical space is limited. eLabels must be available to users before use and must contain all required information that would otherwise appear on the physical label.

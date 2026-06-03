@@ -11,7 +11,7 @@ All federal legislation is available free of charge at **[laws-lois.justice.gc.c
 - **Acts** (statutes passed by Parliament) — e.g., Food and Drugs Act
 - **Regulations** (subordinate legislation made under Acts) — e.g., Medical Devices Regulations (SOR/98-282)
 
-All texts are available in both English and French. The consolidated version is the most current, incorporating all amendments.
+All texts are available in both English and French. The consolidated version is the most current, incorporating all amendments to the date of consolidation. Always verify the amendment history to confirm no more recent amendments have been made between the consolidation date and the current date.
 
 ## Legislation structure
 

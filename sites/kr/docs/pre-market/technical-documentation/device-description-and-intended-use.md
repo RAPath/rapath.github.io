@@ -20,3 +20,15 @@ The device description and intended use section is the **foundation** of the STE
 ## Why intended use matters in Korea
 
 The 품목허가 is granted **specifically for the stated intended use**. Marketing outside the approved use is a regulatory violation. Keep the intended use precise and clinically meaningful.
+
+Intended use precision examples
+​
+Overly broad (likely rejected):
+• "For diagnosis of infectious diseases"
+• "For general laboratory testing"
+​
+Precise and clinically meaningful:
+• "For in vitro diagnosis of COVID-19 infection via nasopharyngeal swab sample in symptomatic adults"
+• "For quantitative measurement of HbA1c in whole blood samples for diabetes management monitoring"
+​
+Precision prevents regulatory violations from off-label marketing and supports robust clinical evaluation.

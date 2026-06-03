@@ -47,3 +47,5 @@ Consultants and auditors working in Switzerland should have specific knowledge o
 :::warning Disclaimer
 AI-assisted navigation aid only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
 :::
+
+Medical devices previously approved under the EU Medical Device Directive (MDD, 93/42/EEC) must comply with the new MedDO requirements. The transition period ended on 26 May 2024. Consultants assessing legacy MDD devices should identify gaps in technical documentation, risk management, and post-market surveillance to ensure full MedDO compliance, including requirements for clinical evaluation reports and GSPR alignment with the updated standards.

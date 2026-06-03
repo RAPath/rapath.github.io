@@ -45,7 +45,7 @@ This site provides general information only. Legislative timelines and requireme
 - Class A self-declared: until **26 May 2027**
 
 ### Regulation (EU) 2024/1860 — Second IVDR transitional extension
-**Published**: July 2024
+**Published**: 20 June (OJ L 2024/1860, 20.6.2024) 2024
 **Effect**: Further extended IVDR transitional provisions:
 - Class D: certificates valid until **31 December 2027**
 - Class C: certificates valid until **31 December 2028**

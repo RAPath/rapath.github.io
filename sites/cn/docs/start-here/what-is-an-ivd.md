@@ -35,3 +35,5 @@ See [Classification Rules for IVDs](/cn/docs/pre-market/classification/classific
 :::note Disclaimer
 Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [NMPA](https://www.nmpa.gov.cn/) sources before making regulatory decisions. Not affiliated with NMPA or any Chinese Government body. Not legal or regulatory advice.
 :::
+
+Certain low-risk IVDs may qualify for exemptions or simplified registration pathways, such as self-test kits and home-use diagnostic tests. NMPA publishes a separate exemption list. Manufacturers should verify whether their IVD qualifies for an exemption before beginning the registration process.

@@ -36,7 +36,7 @@ HSA's medical device functions are accessible at [hsa.gov.sg/medical-devices](ht
 
 All regulatory transactions with HSA for medical devices — product registration, product notifications (Class A), dealer's licence applications, adverse event reports, and change notifications — are conducted through the **SHARE** (Submission of Health products And Registration via E-portal) online portal.
 
-SHARE replaced the legacy PRISM portal. References to PRISM in older HSA guidance documents or company SOPs should be understood as referring to SHARE.
+SHARE replaced the legacy PRISM portal in [INSERT DATE]. References to PRISM in HSA guidance documents published before this date, or in older company SOPs, should be understood as referring to SHARE. All new submissions must use SHARE.
 
 ---
 
@@ -85,3 +85,5 @@ Singapore is also an active participant in the **ASEAN Medical Device Committee 
 - [Health Products (Medical Devices) Regulations 2010](https://sso.agc.gov.sg/SL/HPA2007-S436-2010)
 - [HSA: Regulatory overview of medical devices](https://www.hsa.gov.sg/medical-devices/regulatory-overview)
 - [HSA: Health Sciences Authority](https://www.hsa.gov.sg/about-us)
+
+The classification system (A/B/C/D) is broad-based and risk-tiered, with Class A being lowest-risk (exempt from registration but requiring notification) and Class D highest-risk (requiring full registration and evaluation). See Classification Overview for the detailed risk-based framework.

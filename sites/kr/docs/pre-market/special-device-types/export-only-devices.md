@@ -4,11 +4,11 @@ description: "Regulatory treatment of medical devices manufactured in Korea sole
 sidebar_position: 11
 ---
 
-Export-only devices are **exempt from 품목허가 / 품목신고**, but:
+Export-only devices are exempt from 품목허가 / 품목신고, but:
 
-- Manufacturer must hold a **manufacturer licence (제조업 허가)**
-- **KGMP certification** still required
-- MFDS may issue an **export certificate (수출 의료기기 증명서)** confirming KGMP compliance and that the product is not prohibited in Korea — required by many importing countries
+MFDS issues an
+export certificate (수출 의료기기 증명서, also called Certificate of Free Sale in some jurisdictions)
+confirming KGMP compliance at the manufacturing site and that the product is not banned or prohibited for marketing in Korea — required by many importing countries as proof of regulatory standing
 
 ## To obtain an export certificate
 - KGMP-certified manufacturing site required

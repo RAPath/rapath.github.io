@@ -37,3 +37,5 @@ RDCs may be revoked (*revogada*) or amended (*alterada*) by subsequent RDCs. Alw
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+RDCs and international harmonisation: Many ANVISA RDCs transpose MERCOSUL GMC Resolutions into Brazilian national law. Additionally, RDC 751/2022 and its companions align with IMDRF guidance and EU MDR principles. When reading RDCs, check the preamble for references to MERCOSUL or international standards to understand the regulatory intent.

@@ -4,21 +4,13 @@ description: "Overview of post-market obligations for medical device manufacture
 sidebar_position: 1
 ---
 
-Once a medical device is on the Korean market, manufacturers and importers have **ongoing regulatory obligations** for the life of the product.
+Once a medical device is on the Korean market, manufacturers and importers have ongoing regulatory obligations for the life of the product.
 
 ## Core obligations
 
-| Obligation | Who | Key detail |
-|---|---|---|
-| Adverse event reporting | Manufacturers, importers | 15-day (serious) or 30-day (malfunction) |
-| Post-market surveillance (PMS) | Grade III/IV holders | PMS plan and periodic reports |
-| Re-examination (재심사) | Grade III/IV holders | Required 3–5 years post-approval for new devices |
-| Re-evaluation (재평가) | All — triggered by MFDS | Based on new safety signals |
-| Recalls / FSCA | All | Mandatory when device is defective or unsafe |
-| Korean-language labelling | All | Labels must remain compliant |
-| UDI-K / KIMS maintenance | All | Keep KIMS records current |
-| Business licence maintenance | All | Keep manufacturer/importer licence active |
-| GMP certificate maintenance | All | Keep KGMP / foreign GMP certificate valid |
+Adverse event reporting
+Manufacturers, importers
+15 calendar days (serious/unexpected adverse events) or 30 calendar days (other adverse events/malfunctions)
 
 ## MFDS active post-market role
 

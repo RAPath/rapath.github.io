@@ -35,3 +35,7 @@ Despite the simplified pre-market process:
 - Adverse events must be reported to MHLW where required
 - QMS requirements under MO 169 still apply (lighter requirements than for Class II–IV)
 - If a safety issue requires a recall, the MAH must notify MHLW
+
+Post-Market Safety Reporting and Recall for Class I Devices
+
+Although Class I devices are not pre-market reviewed, they remain subject to the GPSP adverse event reporting requirements. If a Class I device causes a serious injury or unexpected safety issue, the MAH must report the event to MHLW. If widespread safety concerns emerge, MHLW may issue a recall notice or advisory. In severe cases, MHLW can mandate withdrawal of the device from the market. Regular monitoring of post-market complaint data and adverse event trends is essential even for notified Class I devices.

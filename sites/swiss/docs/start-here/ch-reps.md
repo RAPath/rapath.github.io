@@ -47,3 +47,5 @@ The CH REP is jointly and severally liable with the manufacturer for regulatory 
 :::warning Disclaimer
 Content is AI-assisted and intended as a navigation aid only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
 :::
+
+As of the most recent updates, the CH–EU MRA operational status should be verified directly with Swissmedic, as its implementation affects whether CE-marked devices from EU manufacturers require CH REP appointment and DAPI registration. See MRA with EU — Current Status for the latest position.

@@ -58,3 +58,5 @@ The Act made additional modifications to the Humanitarian Device Exemption:
 - [FD&C Act § 520(o) — Software exclusions](https://www.law.cornell.edu/uscode/text/21/360j)
 - [FD&C Act § 515B — Breakthrough Devices](https://www.law.cornell.edu/uscode/text/21/360e-3)
 - [FDA — 21st Century Cures Act Overview](https://www.fda.gov/regulatory-information/selected-amendments-fdc-act/21st-century-cures-act)
+
+Update the software exclusions section: 'The CDS exclusion in particular has been the subject of extensive FDA guidance — the FDA issued its final guidance on Software as a Medical Device (SaMD): Clinical Decision Support Software in January 2021, with PCCP guidance finalized in December 2023.'

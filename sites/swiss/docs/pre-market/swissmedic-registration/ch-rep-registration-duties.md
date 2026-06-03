@@ -20,3 +20,7 @@ After registration: promptly update DAPI when manufacturer details, device detai
 :::warning Disclaimer
 AI-assisted content for navigation only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
 :::
+
+CH REP Authority and Liability
+
+The CH REP acts on behalf of the manufacturer for all Swiss regulatory matters. The CH REP must ensure the manufacturer maintains compliance with Swiss regulations and must immediately notify Swissmedic of any safety issues, market withdrawals, or regulatory non-compliance. The CH REP does not assume liability for product safety but is accountable for regulatory correspondence and documentation accuracy.

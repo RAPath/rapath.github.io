@@ -40,3 +40,5 @@ This is not a theoretical risk. MAH licence lapses have occurred, typically due 
 - **6 months before expiry:** Prepare renewal documents and confirm RTO status
 - **3 months before expiry:** Submit renewal application
 - **Before expiry:** Confirm receipt and processing by the prefectural government or MHLW
+
+If the prefectural government or MHLW identifies deficiencies in the renewal application, they will issue a notice requesting clarification or additional documentation. The applicant must respond within the specified timeframe. Failure to cure deficiencies before the expiry date will result in licence lapse.

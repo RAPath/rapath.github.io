@@ -76,5 +76,5 @@ While electrically powered medical devices must comply with the **Electricity Ac
 ---
 
 :::tip Uncertain about your product?
-Use Medsafe's **categorisation service**. Submit a product description, labelling, intended use statement, and promotional materials to devices@health.govt.nz for an advisory opinion before investing in WAND notification or technical documentation.
+Use Medsafe's **categorisation service**. Submit a product description, labelling, intended use statement, and promotional materials to devices@health.govt.nz for an advisory opinion before opinion. Categorisation enquiries typically receive a response within 10–15 working days. An advisory does not constitute formal approval but helps clarify the correct regulatory pathway you invest in WAND notification or technical documentation.
 :::

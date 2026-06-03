@@ -14,21 +14,16 @@ The China Agent's obligations span the full regulatory lifecycle — from pre-ma
 
 ## Pre-market obligations
 
-- **Submit registration or filing application** on behalf of the overseas manufacturer
-- **Maintain the registration dossier** including product technical requirements, clinical evaluation, and quality system documentation
-- **Ensure Chinese labelling** meets NMPA mandatory requirements before market entry
-- **Manage registration changes** — submit change supplements when the device, manufacturer, or Agent details change
+- Submit registration or filing application on behalf of the overseas manufacturer
+- Maintain the registration dossier including product technical requirements, clinical evaluation, and quality system documentation
+- Ensure Chinese labelling meets NMPA mandatory requirements before market entry
+- Manage registration changes — submit change supplements when the device, manufacturer, or Agent details change
 
 ---
 
 ## Post-market obligations
 
-### Adverse event reporting
-The China Agent must:
-- Operate an adverse event monitoring system
-- Report serious adverse events to NMPA within **30 days** of becoming aware
-- Report events causing death or serious injury **as soon as possible**, and in any event within 5 days for deaths
-- Submit periodic adverse event trend reports as required by NMPA
+Adverse event reporting​ The China Agent must: Establish and maintain an adverse event monitoring system with documented procedures for identifying, investigating, and reporting events Report serious adverse events (causing hospitalization, disability, or other serious health consequences) to NMPA within 30 days of becoming aware Report events causing death or serious injury immediately and no later than 15 days; deaths must be reported as soon as possible Report events resulting in product recalls or FSCAs to NMPA within required timeframes Submit periodic adverse event trend reports (typically semi-annual) as required by NMPA
 
 ### Recalls and FSCAs
 - Co-ordinate and execute recalls of defective devices within China

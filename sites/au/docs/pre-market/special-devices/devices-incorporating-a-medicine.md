@@ -22,7 +22,7 @@ A device incorporating a medicine is generally classified as **Class III** under
 
 ## The TGA's Boundary and Combination Products Guidance
 
-The TGA has published guidance specifically addressing the boundaries between medicines, biologicals, and medical devices, and how combination products are regulated:
+The TGA has published guidance specifically addressing the boundaries between medicines, biologicals, and medical devices, and how combination products are regulated. This guidance is essential for determining whether a product containing both a device and a medicinal component should be regulated as a device, medicine, or under combination product provisions:
 
 👉 [Boundary and combination products — TGA](https://www.tga.gov.au/products/medical-devices/specific-types-medical-devices/devices-incorporating-medicine-substance)
 
@@ -44,3 +44,5 @@ For devices incorporating a medicine, the manufacturer must demonstrate complian
 
 - [How Classification Works](../classification/how-classification-works.md)
 - [Animal, Microbial, Recombinant Origin](./animal-microbial-recombinant-origin.md)
+
+While devices incorporating a medicine are typically classified as Class III under Rule 5.1, manufacturers may seek a lower classification through a formal request to the TGA if comprehensive evidence demonstrates that the combination does not present the risks typically associated with Class III devices. Such requests require strong clinical and technical justification and are assessed on a case-by-case basis.

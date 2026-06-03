@@ -24,3 +24,7 @@ Swissmedic aligns with MDCG guidance and is monitoring the EU AI Act's implicati
 :::warning Disclaimer
 AI-assisted content for navigation only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
 :::
+
+Regulatory Basis
+
+AI/ML-based medical devices in Switzerland must comply with MedDO and IEC 62304 (Medical device software lifecycle processes). The Predetermined Change Control Plan (PCCP) is a critical component of the technical documentation for devices with planned post-market algorithm updates and must be validated by the Notified Body as part of the conformity assessment.

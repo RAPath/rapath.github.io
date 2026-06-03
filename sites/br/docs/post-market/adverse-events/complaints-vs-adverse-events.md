@@ -7,18 +7,18 @@ keywords: [ANVISA, Brazil, medical device]
 
 # Queixas Técnicas vs. Adverse Events
 
-:::info BR-unique
-ANVISA's Tecnovigilância framework distinguishes between two types of reportable events — **adverse events** (*eventos adversos*) and **technical complaints** (*queixas técnicas*). Understanding this distinction is important for correct NOTIVISA reporting.
-:::
+BR-unique: Two-Category Reporting System
 
-## Adverse events (*eventos adversos*)
+ANVISA's Tecnovigilância framework distinguishes between two types of reportable events — adverse events (eventos adversos) and technical complaints (queixas técnicas). This distinction is critical because it determines reporting timeframes, investigation triggers, and regulatory action pathways. Misclassification can result in missed deadlines and enforcement action.
+
+## Adverse events (eventos adversos)
 
 An adverse event is any unintended and undesired effect resulting from device use that caused or could have caused harm to a patient, user or third party. This includes:
 - Deaths attributable to device use;
 - Serious injuries (life-threatening, requiring hospitalisation, or causing permanent damage); and
 - Near-miss events that, if they had occurred in a different clinical context, would have caused death or serious injury.
 
-## Technical complaints (*queixas técnicas*)
+## Technical complaints (queixas técnicas)
 
 A technical complaint is a device malfunction, quality deviation, or failure that does not result in patient harm but:
 - Could have caused an adverse event in a different clinical context; or
@@ -31,3 +31,4 @@ Technical complaints must also be reported via NOTIVISA. They often trigger ANVI
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+

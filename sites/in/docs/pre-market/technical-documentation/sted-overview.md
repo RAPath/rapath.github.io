@@ -7,7 +7,7 @@ keywords: [technical documentation, STED, India, CDSCO, risk management, essenti
 
 # Technical Documentation
 
-Indian technical documentation requirements are based on the **IMDRF STED** (Summary Technical Documentation) format.
+Indian technical documentation requirements are based on the **IMDRF STED** (Summary Technical Documentation) for pre-market approval format, as specified in Schedule 4 of the Medical Devices Rules 2017.
 
 ## Core technical file contents
 

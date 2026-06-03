@@ -240,3 +240,5 @@ Manufacturers must classify their devices independently under each framework for
 | MHRA: Classification of medical devices | MHRA guidance on applying Schedule 2 rules |
 | MHRA: Guidance on the UK Medical Devices Regulations 2002 | General guidance document |
 | EU MDD 93/42/EEC Annex IX | Source of the UK Schedule 2 classification rules (for reference) |
+
+The page should include complete sections for Class IIa (full definition, routes, examples), Class IIb (definition, routes, examples), and Class III (definition, routes, examples). Please restore the full content from the original source material or MHRA guidance on UK MDR 2002 Schedule 3.

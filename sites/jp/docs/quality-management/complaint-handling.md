@@ -28,4 +28,6 @@ The MAH's complaint handling system must:
 
 The complaint handling system is the primary source of adverse event reports. The evaluation step — determining whether a complaint meets reportability criteria — is a critical function. Failures in complaint handling evaluation are a common cause of late adverse event reports to MHLW.
 
-All complaints from Japan must ultimately be received by the MAH. Where complaints first reach the overseas manufacturer, a mechanism must exist to promptly forward them to the MAH for Japan regulatory evaluation.
+All complaints originating from or affecting the Japanese market must be documented and evaluated by the MAH. The MAH is responsible for determining whether complaints meet adverse event reporting criteria under Japanese regulations. Where complaints first reach the overseas manufacturer, a mechanism must exist to promptly forward them to the MAH for Japan regulatory evaluation.
+
+Complaints must be evaluated and investigated within a defined timeframe (typically within 10 business days of receipt). If a complaint meets adverse event reporting criteria, it must be reported to MHLW within the applicable reporting window (typically 30 days from the date MHLW receives the report, depending on the severity and urgency classification).

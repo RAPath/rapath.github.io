@@ -200,3 +200,5 @@ Carefully assess which role(s) your organisation occupies — each role carries 
 | MHRA: Guidance on UKRPs | MHRA's published guidance on the UKRP role |
 | MHRA: Registering medical devices | MHRA registration requirements for all economic operators |
 | ISO 13485:2016 | Quality management systems for medical devices |
+
+Complete the comparison: 'Unlike the EU Responsible Person (EU REP), the UKRP role is mandatory for all non-UK manufacturers (not optional) and must be a legal entity established in Great Britain. The UKRP shares legal responsibility with the manufacturer for regulatory compliance and has direct duties to MHRA.'

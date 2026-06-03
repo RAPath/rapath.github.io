@@ -65,6 +65,5 @@ This site is maintained as part of the RAPath open-source medical device regulat
 
 ---
 
-:::caution
-Links to government portals may change as Indonesian agencies update their digital infrastructure. If a link is broken, search for the portal name directly via a search engine.
+:::⚠️ Important: Links to government portals may change as Indonesian agencies update their digital infrastructure. If a link does not work, contact your LAR or search the Kemenkes website directly (www.kemkes.go.id) for the most current portal URL. Do not rely solely on cached or outdated links.
 :::

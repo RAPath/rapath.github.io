@@ -30,7 +30,7 @@ Submissions are typically accepted for 4–8 weeks. The TGA usually publishes a 
 
 ### Proposed Changes to Conformity Assessment Procedures (December 2025)
 
-The TGA consulted on proposed changes to Schedule 3 of the MD Regulations, including:
+The TGA consulted on proposed changes to Schedule 3 of the Therapeutic Goods (Medical Devices) Regulations 2002, (including EU MDR and FDA approaches) Implementation date to be confirmed. including:
 - Potential phasing out of Part 5 (Product Quality Assurance) procedures
 - Alignment with evolving international conformity assessment practices
 - Changes to requirements for specific device classes

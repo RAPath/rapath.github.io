@@ -27,3 +27,11 @@ Translations must be accurate, complete, and readable. ANVISA reviewers will eva
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+Replace the practical tips section with:
+
+Practical tips:
+- Use a professional translator with demonstrable experience in ANVISA medical device labelling (Brazilian Portuguese, not European Portuguese).
+- Have the translation reviewed by a regulatory professional or qualified person familiar with ANVISA labelling requirements before submission.
+- Retain documentation of the translator's qualifications and the translation review process, as ANVISA may request evidence of translation quality assurance during the review.
+- Note: ANVISA does not maintain an official list of approved translators; companies are responsible for ensuring translation accuracy.

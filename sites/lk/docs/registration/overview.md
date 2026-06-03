@@ -17,7 +17,7 @@ Sri Lanka requires **two separate regulatory approvals** before a device can be 
 | **1** | **Registration Certificate** | Device assessed and found to meet NMRA safety and performance requirements |
 | **2** | **Import Licence** | Device may be commercially imported and supplied to the Sri Lankan market |
 
-Each step requires a separate application to the NMRA. The Registration Certificate must be obtained before the Import Licence can be applied for.
+Each step requires a separate application to the NMRA. The Registration Certificate must be obtained before the Import Licence and fee submission and confirmed active (with annual fees current) an Import Licence application is accepted. The two applications should be staggered: obtain the Registration Certificate first, then submit application within 6 months.
 
 ## Pre-Registration Prerequisites
 
@@ -71,3 +71,7 @@ Once the Registration Certificate is issued, the MAH submits a separate **Import
 | Full | I / IIa | 4–6 months |
 | Full | IIb | 5–8 months (MDEC) |
 | Full | III | 6–12+ months (MDEC) |
+
+Fee Structure
+
+Registration Certificate and Import Licence applications each incur separate NMRA fees, which vary by device class. Class III and IIb devices typically carry higher fees due to MDEC review requirements. Current fee schedules are available on the NMRA website. All fees are payable in Sri Lankan Rupees (LKR); USD conversion rates are updated monthly by NMRA.

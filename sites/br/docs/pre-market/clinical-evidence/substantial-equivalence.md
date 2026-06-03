@@ -7,7 +7,7 @@ keywords: [ANVISA, Brazil, medical device]
 
 # Substantial Equivalence & Literature-Based Evidence
 
-ANVISA applies equivalence criteria similar to the EU MDR framework across three dimensions:
+ANVISA applies equivalence assessment to evaluate whether a device has demonstrated safety and performance comparable to a predicate or reference device across three dimensions:
 
 | Dimension | Key criteria |
 |---|---|

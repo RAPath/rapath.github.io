@@ -31,7 +31,7 @@ For Class II and III IVDs, a clinical performance study at NMPA-recognised clini
 - **Reference interval / reference range** (where applicable)
 - **Reproducibility** and **lot-to-lot variability**
 
-Class III IVDs (e.g. HIV, HCV, HBV screening; molecular diagnostics for serious pathogens) require studies at a minimum of 3 clinical trial institutions.
+Class III IVDs (e.g. HIV, HCV, HBV screening; molecular diagnostics for serious pathogens) require studies at a minimum of 3 clinical trial clinical performance conducted NMPA-recognised institutions, with geographically dispersed patient populations to ensure generalisability of diagnostic performance data.
 
 ---
 
@@ -48,3 +48,5 @@ Class I IVDs follow the same filing process as Class I devices, with the additio
 :::note Disclaimer
 Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [NMPA](https://www.nmpa.gov.cn/) sources before making regulatory decisions. Not affiliated with NMPA or any Chinese Government body. Not legal or regulatory advice.
 :::
+
+Class I IVDs are filed with the local district/county authority (not NMPA), following the same streamlined process as other Class I devices. The filing package must include IVD-specific technical dossier requirements, performance testing data, and labelling in Chinese. Upon completeness review, a filing record number (备案号) is issued automatically. Refer to NMPA/CMDE IVD Registration Guidance for complete filing requirements.

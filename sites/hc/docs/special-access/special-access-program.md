@@ -27,7 +27,7 @@ SAP access may be granted when:
 
 ## Application process
 
-1. Healthcare practitioner contacts the device manufacturer to obtain product information and any relevant clinical evidence
+1. Healthcare practitioner contacts the device manufacturer to obtain product or distributor information, technical specifications, or safety data and any relevant clinical evidence
 2. Practitioner submits a SAP request to Health Canada (via the SAP online portal or by phone for urgent requests)
 3. Health Canada reviews the request and issues an authorisation (or declines with reasons)
 4. Manufacturer supplies the device to the practitioner under the SAP authorisation

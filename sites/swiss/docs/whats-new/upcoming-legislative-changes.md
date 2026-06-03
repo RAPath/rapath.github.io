@@ -15,7 +15,7 @@ Legislative processes move at their own pace. Always verify the current status o
 ## How to Track Upcoming Legislative Changes
 
 **Federal Council consultation procedures (Vernehmlassung)**
-Major ordinance amendments are subject to formal consultation before enactment. Open consultations are published at: [fedlex.admin.ch — consultation procedures](https://www.fedlex.admin.ch/de/consultation-procedures/ongoing)
+Most ordinance amendments are subject to formal consultation (Vernehmlassung) before enactment, though minor technical corrections may proceed without consultation. Open consultations are published at: [fedlex.admin.ch — consultation procedures](https://www.fedlex.admin.ch/de/consultation-procedures/ongoing)
 
 **Federal Gazette (Bundesblatt/Feuille fédérale)**
 Enacted changes are published in the Federal Gazette before they take effect in the consolidated SR text on Fedlex. The Gazette is published every Tuesday and Friday at: [fedlex.admin.ch — Bundesblatt](https://www.fedlex.admin.ch/eli/fga/de)

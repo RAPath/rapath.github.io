@@ -25,7 +25,7 @@ These are approximate timelines for a complete, well-prepared dossier. Extension
 
 ## EAEU pathway timelines
 
-EAEU timelines are broadly comparable to national timelines but may extend due to the additional coordination between member states. There is no published statutory target for EAEU review completion.
+EAEU timelines typically range from 12–24 months depending on device class and are broadly comparable to national timelines, though may extend due to coordination between EAEU member state expert organisations. Unlike the national pathway, there is no published statutory maximum review period for EAEU registration.
 
 ## Innovative devices
 
@@ -38,3 +38,9 @@ Re-registration of an expiring national registration must be initiated well in a
 :::tip
 Engage your Russian Authorized Representative (RUS REP) early — dossier preparation, translation, and QMS inspection scheduling all take significant lead time.
 :::
+
+Add under 'Extensions commonly occur when':
+
+- Additional post-market data is requested or becomes available during review
+- Changes to related regulatory requirements occur during the review period
+- Manufacturing site changes or QMS inspection re-scheduling is required

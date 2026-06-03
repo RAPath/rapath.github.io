@@ -34,3 +34,7 @@ FSNs distributed to customers in Japan must be provided in Japanese. Bilingual n
 ## Distribution of FSNs
 
 The FSN must be distributed to all customers who received affected units, based on the MAH's distribution records. For widely distributed consumer devices, this may include direct patient notification. MHLW may require broader distribution or public announcement for significant safety issues.
+
+MHLW publication and escalation
+
+Major recalls (Class I and some Class II recalls) are typically published on the MHLW website within 5 working days of notification. The MAH should be prepared for public visibility of the FSN. For recalls affecting patient safety with high severity, MHLW may issue a separate public safety alert (安全性情報) in addition to the FSN, which may be distributed through healthcare institution networks and published in medical safety bulletins.

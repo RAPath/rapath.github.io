@@ -9,7 +9,7 @@ tags: [ivdr, clinical-evidence, performance-evaluation, annex-xiii]
 # Performance evaluation — IVDR
 
 :::note Regulatory basis
-**IVDR Art. 56 and Annex XIII**. Performance evaluation for IVDs is the IVDR equivalent of clinical evaluation under MDR. It is mandatory for all IVD classes and must be maintained as a continuous lifecycle process.
+IVDR Art. 56 and Annex XIII. Performance evaluation for IVDs is the IVDR equivalent of clinical evaluation under MDR. It is mandatory for all IVD classes and must be maintained as a continuous lifecycle process.
 :::
 
 :::warning Disclaimer
@@ -20,7 +20,7 @@ This site provides general information only and does not constitute legal or reg
 
 ## What is performance evaluation?
 
-A **performance evaluation** is the assessment and analysis of data to establish or verify the analytical and, where applicable, clinical performance of an IVD. It encompasses the full body of evidence demonstrating that the device:
+A performance evaluation is the systematic assessment and analysis of all available data to establish or verify that an IVD achieves its intended analytical and, where applicable, clinical performance. The performance evaluation must demonstrate that the device: (1) Achieves its intended analytical performance characteristics (sensitivity, specificity, accuracy, precision, linearity, measuring range, etc.) under the claimed conditions of use; (2) Achieves its intended clinical performance (diagnostic sensitivity, diagnostic specificity, positive/negative predictive values) where clinically relevant; (3) Is safe for use in its intended setting; and (4) Meets all claimed performance specifications across the intended use populations and use environments.
 
 - Achieves its intended analytical performance (sensitivity, specificity, accuracy, precision, etc.)
 - Achieves its intended clinical performance (diagnostic sensitivity/specificity, positive/negative predictive values)
@@ -50,14 +50,14 @@ Characterises how the device performs as a measurement or detection system, inde
 
 | Parameter | Definition |
 |---|---|
-| **Analytical sensitivity** | Lowest detectable amount of analyte (detection limit, LoD) |
-| **Analytical specificity** | Ability to detect only the intended analyte; freedom from cross-reactivity and interference |
-| **Accuracy (trueness)** | Closeness of test results to the true value |
-| **Precision** | Repeatability (within-run) and reproducibility (between-run, between-lab) |
-| **Linearity** | Range over which results are proportional to analyte concentration |
-| **Measuring range** | Range of analyte concentrations the device can reliably measure |
-| **Interference** | Effect of potentially interfering substances (haemolysis, lipaemia, medications) |
-| **Stability** | Reagent/calibrator stability; specimen stability |
+| Analytical sensitivity | Lowest detectable amount of analyte (detection limit, LoD) |
+| Analytical specificity | Ability to detect only the intended analyte; freedom from cross-reactivity and interference |
+| Accuracy (trueness) | Closeness of test results to the true value |
+| Precision | Repeatability (within-run) and reproducibility (between-run, between-lab) |
+| Linearity | Range over which results are proportional to analyte concentration |
+| Measuring range | Range of analyte concentrations the device can reliably measure |
+| Interference | Effect of potentially interfering substances (haemolysis, lipaemia, medications) |
+| Stability | Reagent/calibrator stability; specimen stability |
 
 ### Clinical performance
 
@@ -65,10 +65,10 @@ Characterises how well the device's results relate to clinical outcomes or estab
 
 | Parameter | Definition |
 |---|---|
-| **Diagnostic sensitivity** | Proportion of true positives correctly identified (TP / (TP + FN)) |
-| **Diagnostic specificity** | Proportion of true negatives correctly identified (TN / (TN + FP)) |
-| **Positive predictive value (PPV)** | Probability that a positive result is a true positive (varies with prevalence) |
-| **Negative predictive value (NPV)** | Probability that a negative result is a true negative (varies with prevalence) |
+| Diagnostic sensitivity | Proportion of true positives correctly identified (TP / (TP + FN)) |
+| Diagnostic specificity | Proportion of true negatives correctly identified (TN / (TN + FP)) |
+| Positive predictive value (PPV) | Probability that a positive result is a true positive (varies with prevalence) |
+| Negative predictive value (NPV) | Probability that a negative result is a true negative (varies with prevalence) |
 
 ---
 
@@ -76,22 +76,22 @@ Characterises how well the device's results relate to clinical outcomes or estab
 
 ### Part A — Pre-market performance evaluation
 
-**Stage 1**: Scientific validity of the analyte
+Stage 1: Scientific validity of the analyte
 - Is there a well-established association between the analyte and the clinical condition?
 - What is the evidence base for the analyte's clinical utility?
 
-**Stage 2**: Analytical performance studies
+Stage 2: Analytical performance studies
 - Laboratory studies establishing the analytical performance characteristics listed above
 - Typically conducted under controlled laboratory conditions
 - Must follow CLSI (Clinical and Laboratory Standards Institute) or equivalent validated protocols
 
-**Stage 3**: Clinical performance studies (where required)
+Stage 3: Clinical performance studies (where required)
 - Studies in the intended patient population confirming diagnostic sensitivity/specificity
 - Required when analytical performance alone cannot demonstrate clinical performance
 - More rigorous for Class C and D devices
 - For companion diagnostics: clinical performance linked to the therapeutic product's clinical trials
 
-The output is a **Performance Evaluation Report (PER)** — the IVDR equivalent of the CER.
+The output is a Performance Evaluation Report (PER) — the IVDR equivalent of the CER.
 
 ### Part B — Post-market performance follow-up (PMPF)
 
@@ -101,11 +101,11 @@ Ongoing collection and analysis of post-market performance data. See [Post-marke
 
 ## Performance studies — a note
 
-A **performance study** in the IVDR context is a study conducted on specimens derived from subjects specifically to evaluate the performance of an IVD. Performance studies are regulated under IVDR Art. 57–77 and Annex XIV.
+A performance study in the IVDR context is a study conducted on specimens derived from subjects specifically to evaluate the performance of an IVD. Performance studies are regulated under IVDR Art. 57–77 and Annex XIV.
 
 Key distinctions:
-- **Interventional performance studies**: involve additional invasive procedures to collect specimens beyond standard of care → highest regulatory oversight
-- **Non-interventional studies**: use specimens collected as part of standard care (retrospective or prospective) → lighter oversight
+- Interventional performance studies: involve additional invasive procedures to collect specimens beyond standard of care → highest regulatory oversight
+- Non-interventional studies: use specimens collected as part of standard care (retrospective or prospective) → lighter oversight
 
 Performance studies must be registered in EUDAMED.
 
@@ -113,7 +113,7 @@ Performance studies must be registered in EUDAMED.
 
 ## Common Specifications for IVDs
 
-For certain IVD categories, the European Commission has published or is developing **Common Specifications (CS)** that define specific analytical performance requirements. Where CS exist, manufacturers must comply or justify an equivalent approach. CS have been prioritised for:
+For certain IVD categories, the European Commission has published or is developing Common Specifications (CS) that define specific analytical performance requirements. Where CS exist, manufacturers must comply or justify an equivalent approach. CS have been prioritised for:
 - High-risk Class D analytes
 - Companion diagnostics
 - Specific near-patient and self-test formats

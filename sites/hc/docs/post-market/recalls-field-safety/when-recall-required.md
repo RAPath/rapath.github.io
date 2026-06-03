@@ -37,3 +37,6 @@ Manufacturers and importers must notify Health Canada **before** initiating a re
 A **Field Safety Corrective Action (FSCA)** is broader than a recall. Not all FSCAs involve retrieving devices — some involve modifications, software updates, or additional warnings communicated to users via a Field Safety Notice. See [Field Safety Corrective Actions](/docs/post-market/recalls-field-safety/field-safety-corrective-actions).
 
 > **Legislative source:** Medical Devices Regulations, SOR/98-282, s 65; Food and Drugs Act, s 21.3
+
+## Notifying Health Canada
+Notification timeline: Manufacturers must notify Health Canada without delay — ideally before the recall is announced publicly. Delays in notification can be viewed unfavorably during compliance reviews.

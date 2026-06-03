@@ -21,7 +21,7 @@ The CAPA process must include:
 5. Verification that measures were effective; and
 6. Communication to management.
 
-All CAPAs must be documented in the quality system and available to ANVISA inspectors. ANVISA inspection findings that result in non-conformity notices must be addressed through the CAPA process.
+All CAPAs must be formally documented in the quality system with completion dates, verification evidence, and approval by the Responsável Técnico, and must be made available to ANVISA inspectors upon request. When ANVISA inspection findings result in non-conformity notices (in an auto de infração or inspection report), the company must address them through the CAPA process and submit evidence of closure to ANVISA.
 
 ---
 

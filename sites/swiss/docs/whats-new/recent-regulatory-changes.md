@@ -31,3 +31,5 @@ This page tracks recent regulatory changes to Swiss medical device regulation. F
 :::warning Disclaimer
 AI-assisted navigation aid only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
 :::
+
+Swissmedic email alerts: Users can subscribe to Swissmedic news updates via swissmedic.ch/news to receive notifications of new guidance and regulatory changes by email.

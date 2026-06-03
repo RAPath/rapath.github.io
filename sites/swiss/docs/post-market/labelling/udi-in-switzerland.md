@@ -15,7 +15,7 @@ The Swiss UDI system mirrors the EU MDR/IVDR UDI requirements. All medical devic
 **UDI-PI (Production Identifier)** — Variable component identifying specific production units. Includes: lot/batch number, serial number (where applicable), manufacturing date, expiry date, software version (for software devices).
 
 ## Issuing Agencies
-Manufacturers must use an accredited UDI issuing agency to obtain a UDI-DI:
+Manufacturers must use one of the following accredited UDI issuing agencies to obtain a UDI-DI:
 - **GS1** — Uses GTIN (Global Trade Item Number) structure
 - **HIBCC** — Health Industry Business Communications Council
 - **ICCBBA** — For blood, tissues, cellular therapy products
@@ -37,3 +37,5 @@ IVDs under IVDO are subject to equivalent UDI requirements. The UDI-DI for IVDs 
 :::warning Disclaimer
 AI-assisted content for navigation only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
 :::
+
+Manufacturers should verify current implementation timelines for their device class on the DAPI portal, as Switzerland may have different transition dates than the EU MDR.

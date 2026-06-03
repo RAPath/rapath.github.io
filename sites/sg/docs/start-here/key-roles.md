@@ -83,3 +83,5 @@ HSA does not use a "Qualified Person" concept equivalent to the EU's PRRC (Perso
 - [HSA: Regulatory overview of medical devices](https://www.hsa.gov.sg/medical-devices/regulatory-overview)
 - [HSA: Dealer's licence](https://www.hsa.gov.sg/medical-devices/dealers-licence)
 - [HP(MD) Regulations 2010 — Part 4 (Dealer's licences)](https://sso.agc.gov.sg/SL/HPA2007-S436-2010)
+
+Complete the QP section with: "While HSA does not mandate a named Qualified Person role, dealer's licence applications must identify individuals responsible for quality and regulatory compliance. The responsible person(s) must have appropriate expertise, training, and authority to fulfil those functions."

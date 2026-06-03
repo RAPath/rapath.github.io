@@ -54,3 +54,7 @@ CDSCO periodically expands Schedules I and II through gazette notifications publ
 :::info
 If your device is not currently notified, it is still good practice to maintain technical documentation and quality systems in preparation for future notification.
 :::
+
+This is a representative sample. The complete list of notified Schedule I devices is updated periodically via Official Gazette of India notifications. Verify your specific device category at: CDSCO website (Medical Devices section) or search the India Gazette archive.'
+
+For Schedule II: 'This is a representative sample. The complete list of notified Schedule II IVD categories is maintained in the Official Gazette of India. Devices not listed may still require CDSCO approval if they pose similar risks; consult CDSCO for device classification confirmation.

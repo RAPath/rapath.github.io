@@ -24,3 +24,5 @@ MFDS inspectors will review:
 
 ## Related pages
 - [KGMP overview](../overview-kgmp) · [GMP Standards Notification](../../legislation/mfds-notifications/gmp-standards-notification)
+
+Management review meetings should be conducted at least annually, with documented evidence of attendance, agenda items, action items, and closure verification maintained in quality records.

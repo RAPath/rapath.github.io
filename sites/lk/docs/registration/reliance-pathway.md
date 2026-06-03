@@ -10,7 +10,7 @@ description: NMRA reliance pathway for faster device registration — eligible c
 
 ## Overview
 
-From **October 2025**, the NMRA operates a **Reliance Pathway** enabling faster registration for devices that already hold approval from a recognised reference country regulatory authority. The pathway applies to **Class I, IIa, and IIb** devices. Class III devices continue to require full MDEC review.
+From **October 2025**, the NMRA operates a **Reliance Pathway** enabling faster registration for devices that already hold approval from a recognised reference country regulatory authority. The pathway applies to **Class I, IIa, and IIb** a current, valid devices with existing reference approvals. Class III devices continue to require full MDEC review.
 
 ## Accepted Reference Countries
 
@@ -69,3 +69,7 @@ Even with reliance, **Class III devices require MDEC review**. The reliance path
 ## Strategic Value
 
 If your device holds FDA 510(k)/PMA, CE marking, TGA registration, or similar, the reliance pathway can save **2–4 months** compared to the full registration route. For a manufacturer entering Sri Lanka after major reference markets, this is typically the recommended pathway.
+
+Definition of 'Identical Device'
+
+For reliance pathway purposes, the device submitted to NMRA is considered identical to the reference-approved device if: (1) the intended use, clinical indications, and patient population are the same; (2) design, materials, and manufacturing processes are unchanged; (3) technical specifications (dimensions, materials, electrical/mechanical properties) match exactly; and (4) labelling and instructions for use convey the same safety and performance information. Minor labelling differences (language, symbols) specific to the Sri Lankan market are acceptable if the technical and safety content is substantively identical.

@@ -60,3 +60,5 @@ The application must include a **Clinical Evidence Summary** that:
 Where a device has received regulatory approval in a comparable jurisdiction (FDA, EU MDR, TGA), that approval — combined with the evidence used to support it — may be accepted as part of the evidence package for Canada. However, Health Canada conducts its own benefit-risk assessment and is not bound by other regulators' decisions.
 
 > **Legislative source:** Medical Devices Regulations, SOR/98-282, s 32(f); Schedule 1
+
+Class I devices, while not requiring pre-market review or Device Licence, are subject to post-market surveillance and adverse event reporting requirements. Although no formal clinical evidence submission is required, manufacturers must maintain records demonstrating safety and effectiveness as part of their Quality Management System (QMS) and must be prepared to provide this evidence if requested by Health Canada during an inspection or compliance review.

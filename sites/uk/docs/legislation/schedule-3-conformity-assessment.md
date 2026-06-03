@@ -41,3 +41,5 @@ See [Conformity assessment overview](../pre-market/conformity-assessment/overvie
 | Reference | Description |
 |---|---|
 | [UK MDR 2002, Schedule 3](https://www.legislation.gov.uk/uksi/2002/618/schedule/3/made) | Full conformity assessment procedures |
+
+Modify the 'Schedule 3 structure' table entry for Annex III to read: 'Annex III | EC type-examination (paired with Annex IV, V, or VI) | Class IIa, IIb' and add a note: 'Note: Annex III is always used with a production or product quality assurance annex (IV, V, or VI) for full conformity assessment.'

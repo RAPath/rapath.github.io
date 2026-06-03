@@ -7,7 +7,7 @@ sidebar_position: 1
 
 ## STED alignment in Japan
 
-Japan's Shonin application dossier structure broadly follows the **IMDRF STED (Summary Technical Documentation)** framework, reflecting Japan's membership in IMDRF and MHLW's efforts to harmonise with international best practice. However, Japan-specific sections (particularly the Essential Principles checklist and JMDN classification documentation) are added.
+Japan's Shonin application dossier structure broadly follows the IMDRF STED (Summary Technical Documentation) framework, reflecting Japan's membership in IMDRF and MHLW's efforts to harmonise with international best practice. However, Japan-specific sections (particularly the Essential Principles checklist and JMDN classification documentation) are added.
 
 ## Overview of modules
 
@@ -24,7 +24,7 @@ Japan's Shonin application dossier structure broadly follows the **IMDRF STED (S
 
 ## Electronic submission requirements
 
-PMDA requires electronic submission via the **PMDA electronic gateway (EDRP)**. Requirements include:
+PMDA requires electronic submission via the PMDA electronic gateway system. Submissions must be made through the designated PMDA online portal in compliance with current electronic submission standards. Requirements include:
 - Specific file naming conventions (published by PMDA)
 - Document format: primarily PDF for narrative content; XML for structured data
 - Electronic signatures where required
@@ -41,3 +41,7 @@ The most common reasons for PMDA returning or questioning applications:
 4. Manufacturing module that does not clearly identify all manufacturing sites
 5. Labelling that does not include all mandatory PMD Act label elements
 6. FMR number not yet issued at time of submission
+
+Submission Sequencing and Module Interdependencies
+
+All eight modules of the Shonin dossier must be submitted simultaneously in a single comprehensive package. PMDA will not accept phased or rolling submissions for Shonin applications. Ensure that cross-references between modules are consistent (e.g. the device description in Module 3 matches the description in the clinical evaluation report, Module 5; JMDN code justification in Module 3 aligns with the classification in Module 2). Internal consistency checks across modules reduce the likelihood of PMDA deficiency letters.

@@ -22,7 +22,7 @@ An **Export Certificate** is issued by HSA for medical devices that are exported
 
 ## How to obtain
 
-FSCs and Export Certificates are applied for through the HSA website and SHARE portal:
+FSCs and Export Certificates are applied for through the HSA website and SHARE portal. Current application procedures and forms are available at:
 
 [hsa.gov.sg/medical-devices/certificates](https://www.hsa.gov.sg/medical-devices/certificates)
 

@@ -17,7 +17,7 @@ Vigilance reporting requirements are in **Regulations 16–22 of the UK MDR 2002
 
 ### 1. Serious incidents
 
-A **serious incident** is any malfunction or deterioration in the characteristics or performance of a device — including use-error attributable to inadequate IFU — that has led to, or could have led to:
+A **serious incident** is any malfunction or deterioration in the characteristics or performance of a device — including use-error attributable to inadequate instructions for use (IFU) — that has led to, or could have led to:
 
 - The **death** of a patient, user, or other person, or
 - A **serious deterioration in the state of health** of a patient, user, or other person

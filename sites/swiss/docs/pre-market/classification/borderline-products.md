@@ -12,7 +12,7 @@ A borderline product is one whose regulatory status under Swiss law is unclear �
 If a product both collects specimens for in vitro analysis and applies a therapeutic action, the principal intended purpose determines the applicable ordinance. Point-of-care devices with both diagnostic and therapeutic functionality require a principal-function determination.
 
 ## Device vs Medicinal Product
-A device incorporating a medicinal substance as an integral part remains a medical device — but is classified as **Class III** and requires an ancillary medicinal substance assessment. The medicinal action must be *ancillary* to the device's physical action. See [Devices Incorporating Medicinal Substances](../special-devices/devices-with-medicinal-substances).
+A device incorporating a medicinal substance as an integral part remains a medical device — but is classified as **Class III** and requires an ancillary medicinal substance under MedDO (per MedDO Rule 14) assessment to confirm the medicinal action is truly ancillary to the device's primary physical function. The medicinal action must be *ancillary* to the device's physical action. See [Devices Incorporating Medicinal Substances](../special-devices/devices-with-medicinal-substances).
 
 ## Device vs Cosmetic
 The intended purpose (and therefore the labelling claims) is decisive. A product claiming to treat a skin condition is a medical device or medicinal product; the same product claiming only to moisturise is a cosmetic.

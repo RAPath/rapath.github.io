@@ -21,7 +21,7 @@ The most significant recent change was the **2022 regulatory modernisation packa
 | RDC 16/2013 (labelling) | RDC 754/2022 |
 | RDC 25/2008 (AFE) | RDC 755/2022 |
 
-The 2022 package introduced stricter clinical evidence requirements, a more structured PMS framework, and closer alignment with international standards (IMDRF, ISO).
+The 2022 package introduced: stricter and more detailed clinical evidence requirements for device registration; a more structured post-market surveillance (PMS) framework with mandatory PMS plans; enhanced adverse event reporting obligations; and closer alignment with international standards (IMDRF guidelines, ISO 14971 risk management, and ICH clinical data requirements).
 
 Monitor the [What's New](/docs/whats-new/regulatory-changes) section for ongoing regulatory changes.
 

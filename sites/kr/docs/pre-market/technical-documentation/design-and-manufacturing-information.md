@@ -16,3 +16,14 @@ sidebar_position: 3
 ## KGMP alignment
 
 Manufacturing information in the STED must be **consistent with the KGMP certificate scope**. Discrepancies identified during MFDS review will trigger clarification requests.
+
+Critical components definition
+​
+Critical components are those whose failure or defect could affect device safety or performance. These must be identified through risk analysis (ISO 14971) and documented with:
+​
+• Supplier qualification procedures
+• Specifications and acceptance criteria
+• Receiving inspection protocols
+• Change control procedures for supplier substitutions
+​
+For Grade III/IV devices, supplier audits and stability data may be required.

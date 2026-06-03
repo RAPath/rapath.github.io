@@ -47,3 +47,5 @@ Accessories specifically intended for use with a medical device to enable or ass
 :::tip B.E. Year Notation
 Thai legislation uses Buddhist Era (B.E.) year numbering. B.E. = CE year + 543. The Medical Device Act "B.E. 2562" is the 2019 CE Act. See [Regulatory Framework](/getting-started/regulatory-framework) for the B.E. year guide.
 :::
+
+Examples of software NOT regulated as SaMD in Thailand: general office software (word processors, spreadsheets), entertainment software, administrative database systems without medical decision-support or diagnostic functions, and raw data collection systems that do not analyze or interpret clinical data.

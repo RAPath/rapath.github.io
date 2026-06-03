@@ -54,3 +54,7 @@ Apply for a WOR from the NMRA Medical Devices Regulatory Division. Provide:
 ## Single-Use Devices (SUDs)
 
 Must be labelled as single-use. Third-party reprocessing of SUDs is a separate regulatory consideration that must be addressed if reprocessing is intended.
+
+In Radiation-Emitting Devices section, change 'See Radiation-Emitting Devices.' to 'See Radiation-Emitting Devices for detailed guidance on dual approval processes and AEA coordination.'
+
+For borderline cases where the medicinal and device components are inextricably combined, the NMRA may require a joint application or coordinated review with the medicinal products regulatory division.

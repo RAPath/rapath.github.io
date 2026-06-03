@@ -66,3 +66,5 @@ After receiving the DRN for a Class A device:
 - Notify MDA of any significant changes via a **variation application**
 - Monitor for adverse events and report as required
 - Renew registration before the 5-year expiry
+
+Examples of significant changes requiring a formal variation application include: changes to device design, materials, or intended use; relocation of manufacture; changes to sterile barrier system or sterilisation method (for Class A Sterile); material changes to IFU that affect safety or performance; and any change in the manufacturing quality system scope. Minor updates such as cosmetic label changes or correcting typographical errors may be submitted as administrative variations. When in doubt, contact MDA before making changes.

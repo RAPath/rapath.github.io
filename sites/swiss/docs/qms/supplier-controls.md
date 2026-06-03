@@ -48,3 +48,5 @@ MedDO Annex I § 22 (combination devices) and the GSPR requirements generally re
 :::warning Disclaimer
 AI-assisted navigation aid only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
 :::
+
+For software suppliers and Software as a Medical Device (SaMD) providers, critical controls must include verification of software development lifecycle (IEC 62304 compliance), cybersecurity measures, and software update/patch management protocols. These should be detailed in quality agreements and verified during supplier audits.

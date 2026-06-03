@@ -42,7 +42,7 @@ This Circular works in conjunction with Circular 29/2022 for devices imported fo
 - Procedure for requesting a classification determination from DAV
 - List of devices and their confirmed classifications
 
-This Circular is the primary technical reference for device classification.
+Circular 14/2020/TT-BYT is the primary technical reference for device classification; however, ensure you also consult any subsequent amendments or clarifications issued by DAV, as classification rules are subject to change.
 
 ## Official letters (Công văn)
 

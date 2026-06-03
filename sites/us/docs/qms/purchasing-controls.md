@@ -68,3 +68,5 @@ Incoming products must be inspected to verify conformance to specified requireme
 ## Official resources
 - [21 CFR § 820.50](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-H/part-820)
 - [21 CFR § 820.80 — Receiving Acceptance Activities](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-H/part-820)
+
+An acceptable supplier is one whose qualification records document it can consistently meet specified requirements. The level of documentation supporting this determination varies by risk: critical suppliers require full audit records, while standard suppliers may be qualified through certificate review. All suppliers of components or materials affecting device quality must be on a documented acceptable supplier list before purchase.

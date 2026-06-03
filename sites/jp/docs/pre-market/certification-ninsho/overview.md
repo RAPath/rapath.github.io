@@ -36,3 +36,7 @@ The MAH that holds a Ninsho certificate has the same core post-market obligation
 | Class III device on MHLW's Ninsho-eligible list | Ninsho (optional) |
 | Class III device not on MHLW's list | Shonin (required) |
 | Class IV device | Shonin only (always) |
+
+The Ninsho certification process typically takes 6–12 months from submission to issuance, depending on RCB workload and the complexity of the technical documentation. This is significantly faster than the Shonin pathway.
+
+If an RCB loses its accreditation status, MHLW may require affected Ninsho holders to transition their certifications to another accredited RCB or, in some cases, to undergo Shonin approval.

@@ -68,3 +68,7 @@ The CAPA log and complaint records feed directly into the **Technovigilance Repo
 - [Adverse event reporting](../postmarket/adverse-event-reporting)
 - [Technovigilance overview](../postmarket/technovigilance-overview)
 - [COFEPRIS inspections](inspections-cofepris)
+
+## Complaint handling
+
+"Complaints must be logged within 1 business day of receipt. Assessment for adverse event reportability under NOM-240 must be completed within 5 business days. Investigation must commence within 10 business days of the assessment decision."

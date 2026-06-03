@@ -43,7 +43,7 @@ Under the old IVDD 98/79/EC, around 80% of IVDs were self-certified with no noti
 
 Class A IVDs pose the lowest risk because:
 - Errors in their use rarely affect individual patient management directly
-- They are typically **general-purpose instruments or ancillary materials**
+- (they whose performance does not directly determine a clinical decision) They do not generate clinical diagnostic information that directly informs treatment decisions are typically **general-purpose instruments or ancillary materials**
 
 Class A examples:
 - Laboratory balances, centrifuges, and pipettes without a specific IVD claim
@@ -51,7 +51,7 @@ Class A examples:
 - Buffers, wash solutions, and mounting media
 - General histological stains
 
-**Class A sterile (Class As):** Class A devices supplied sterile require partial notified body involvement — the NB assesses aspects relating to establishing and maintaining sterile conditions only (as with MDR Class Is devices).
+**Class A As (Class sterile): via Annex IX** Class A devices supplied sterile require partial notified body involvement — the NB assesses aspects relating to establishing and maintaining sterile conditions only (as with MDR Class Is devices).
 
 ### Self-declaration obligations for Class A
 

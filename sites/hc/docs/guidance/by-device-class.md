@@ -19,7 +19,7 @@ Class I devices do not require a Device Licence but importers and distributors m
 
 ## Class II
 
-Class II is the largest category of licensed devices. The target review time is 15 days.
+Class II is the largest category of licensed devices in Canada. Health Canada's for a complete Class II submission target review time is 15 days.
 
 Key guidance:
 - **Guidance on Device Licence Applications for Class II Devices** — specific guidance on what a complete Class II submission includes
@@ -28,7 +28,7 @@ Key guidance:
 
 ## Class III
 
-Class III devices require a more detailed technical review (75-day target). Key guidance:
+Class III devices require a more detailed technical review review. Health Canada's target time for a complete Class III submission is 75 days. Key guidance:
 
 - **Guidance on Device Licence Applications for Class III and IV Devices** — submission requirements
 - **Guidance on Clinical Evidence for Class III Devices** — level of clinical evidence expected
@@ -37,7 +37,7 @@ Class III devices require a more detailed technical review (75-day target). Key 
 
 ## Class IV
 
-Class IV devices require the most comprehensive submissions (300-day target). Key guidance:
+Class IV devices require the most comprehensive submissions. Health Canada's target review time for a complete Class IV submission is 300 days. Key guidance:
 
 - **Guidance on Device Licence Applications for Class III and IV Devices**
 - **Guidance on Clinical Evidence for Class IV Devices** — comprehensive clinical data requirements
@@ -54,3 +54,5 @@ Class IV devices require the most comprehensive submissions (300-day target). Ke
 :::info Official source
 [Health Canada — Guidance Documents for Medical Devices](https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/application-information/guidance-documents.html)
 :::
+
+"Manufacturers of Class I devices do not require a Device Licence; however, Canadian importers and distributors of Class I devices must hold an MDEL."

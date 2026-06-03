@@ -25,3 +25,13 @@ Required for repair activities on Grade II, III, and IV devices. Grade I may hav
 
 ## Related pages
 - [Distributor and retail dealer registration](./distributor-and-retail-registration)
+
+## Scope Determination and Registration
+
+Repair business registration requires specifying the exact scope of repair activities. This includes:
+
+- Device grades and specific device types the business is qualified to repair
+- Types of repairs covered (e.g., mechanical adjustments, component replacement, software updates)
+- Geographical scope if applicable
+
+The scope must be approved by MFDS during registration and can only be modified through a formal scope change application.

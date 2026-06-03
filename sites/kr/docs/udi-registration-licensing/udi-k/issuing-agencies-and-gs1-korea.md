@@ -23,3 +23,10 @@ Manufacturers already using GS1 GTINs for FDA or EUDAMED UDI can use the **same 
 
 ## Related pages
 - [UDI-K overview](./udi-k-overview) · [KIMS database registration](./kims-database-registration)
+
+Support and resources
+
+For technical questions about GS1 GTIN assignment for UDI-K:
+- Contact GS1 Korea: +82-2-6954-0800 or support@gs1kr.org
+- Visit the GS1 Korea UDI-K information page (Korean): gs1kr.org/udi-k
+- MFDS UDI Portal support: udiportal.mfds.go.kr (help section)

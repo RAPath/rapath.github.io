@@ -24,3 +24,5 @@ Swiss custom-made device statements must be prepared in accordance with MedDO Ar
 :::warning Disclaimer
 AI-assisted content for navigation only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
 :::
+
+Manufacturers must submit the custom-made device statement to Swissmedic prior to first supply to the patient. The notification should include the manufacturer statement, device description, patient identifier (anonymised where permitted), and confirmation of GSPR compliance. Swissmedic maintains a registry of custom-made devices.

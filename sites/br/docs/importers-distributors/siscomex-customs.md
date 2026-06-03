@@ -30,3 +30,7 @@ Medical devices in Brazil are subject to import duties (II) and other taxes. Som
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+Note: Medical devices must be registered with ANVISA (Registro) before they can be imported into Brazil. Registration is a prerequisite for obtaining an ANVISA Import Licence (LI) in SISCOMEX.
+
+AFE (Autorização de Funcionamento de Empresa) is a facility operating permit issued by ANVISA. All importers of medical devices must hold a valid AFE before they can import devices into Brazil.

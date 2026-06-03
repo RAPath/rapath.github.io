@@ -10,7 +10,7 @@ sidebar_position: 6
 |---|---|
 | GMP certification inspection | Initial KGMP certification for domestic manufacturers |
 | Periodic re-inspection | KGMP certificate renewal (~every 3 years) |
-| Surveillance inspection | Unannounced or scheduled monitoring |
+| Surveillance inspection | Routine, unannounced conducted during certificate validity period monitoring |
 | For-cause inspection | Triggered by adverse events, complaints, or intelligence |
 | Market surveillance inspection | Distributors, retail; includes product sampling |
 
@@ -25,3 +25,5 @@ sidebar_position: 6
 
 ## Related pages
 - [Responding to inspection findings](./responding-to-inspection-findings) · [Enforcement — administrative actions](../enforcement-compliance/administrative-actions)
+
+## Administrative actions after inspection

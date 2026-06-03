@@ -12,7 +12,7 @@ Conformity assessment is the structured process manufacturers follow to demonstr
 
 | Device Class | Route |
 |---|---|
-| Class I (standard) | Annex IV self-declaration only |
+| Class I (standard) | Annex IV self-declaration; DAPI registration required |
 | Class Im (measuring) | Annex IV + NB (metrology aspects) under Annex IX or XI |
 | Class Is (sterile) | Annex IV + NB (sterility aspects) under Annex IX or XI |
 | Class Ir (reusable surgical) | Annex IV + NB (reprocessing aspects) |
@@ -37,3 +37,7 @@ Conformity assessment is the structured process manufacturers follow to demonstr
 :::warning Disclaimer
 AI-assisted content for navigation only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
 :::
+
+Technical Documentation Sampling for Class IIa
+​
+When Class IIa devices follow the Annex IX route, the NB may conduct sampling of technical documentation rather than full review of every device in a group. The extent of sampling depends on device family homogeneity, design similarity, and manufacturing processes. Manufacturers should be prepared to justify device grouping decisions and may be asked to provide full documentation for selected representatives.

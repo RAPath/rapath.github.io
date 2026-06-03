@@ -48,3 +48,4 @@ A report is required when the manufacturer **receives or otherwise becomes aware
 ## Official resources
 - [21 CFR Part 803](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-H/part-803)
 - [FDA — Medical Device Reporting (MDR)](https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-mdr-how-report-medical-device-problems)
+

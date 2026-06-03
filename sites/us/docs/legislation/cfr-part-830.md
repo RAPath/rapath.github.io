@@ -39,7 +39,7 @@ Device labels must include the UDI in:
 1. **Plain text** (human-readable)
 2. **AIDC** (automatic identification and data capture — barcode or 2D matrix)
 
-The UDI must be placed on the **label of each device** and, for higher-level packaging, on the packaging label of each higher level.
+The UDI must be placed on the **label of each device** in both plain text (human-readable) and AIDC format, and for higher-level packaging, on the packaging label of each higher level.
 
 ### § 830.50 — Direct marking
 
@@ -62,3 +62,5 @@ The **labeller** must submit the following information for each Primary DI to GU
 - [21 CFR Part 830 (eCFR)](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-H/part-830)
 - [AccessGUDID](https://accessgudid.nlm.nih.gov)
 - [FDA — UDI System](https://www.fda.gov/medical-devices/unique-device-identification-system-udi-system)
+
+Effective December 1, 2022, all Class III and Class II devices must bear UDI on labels. Effective December 1, 2023, Class I devices must comply (with limited exemptions for certain historical devices and in-vitro diagnostics with alternative identification requirements).

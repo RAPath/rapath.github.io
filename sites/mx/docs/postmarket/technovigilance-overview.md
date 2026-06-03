@@ -61,7 +61,7 @@ The **PROY-NOM-240-SSA1-2024** draft (open for comment until September 2024) int
 - An **Administrative Guide for Reporting Medical Device Incidents and Adverse Events** is planned to complement the updated NOM.
 
 :::info Monitor publication
-The draft NOM-240 update had not been formally published as of early 2026. Monitor the DOF and [What's New](../resources/useful-links) for the finalisation date.
+The draft NOM-240 update had not been formally published as of early 2025. Check the DOF regularly for the final version. Monitor the DOF and [What's New](../resources/useful-links) for the finalisation date.
 :::
 
 ## Related pages
@@ -71,3 +71,20 @@ The draft NOM-240 update had not been formally published as of early 2026. Monit
 - [Registration renewal](registration-renewal)
 - [MRH obligations](../mexico-registration-holder/mrh-obligations)
 - [NOM-240 technovigilance](../legislation/nom-240-technovigilance)
+
+## Who must maintain a technovigilance unit?
+
+Technovigilance unit structure & qualifications
+​
+While NOM-240 does not mandate specific staffing levels, best practice and COFEPRIS expectations include:
+
+A dedicated technovigilance coordinator (full-time or part-time depending on device portfolio size) responsible for day-to-day operations.
+A senior manager (often the Responsable Sanitario or quality manager) accountable for escalation and regulatory decisions.
+Access to medical or technical expertise for assessing device involvement in reported events.
+Personnel must receive documented training on:
+
+NOM-240 requirements and CNFV reporting procedures.
+Your device's intended use, known risks, and contraindications.
+Incident assessment methodology and severity classification.
+FSCA decision-making and Field Safety Notice preparation.
+REQUEST evidence of technovigilance training during COFEPRIS inspections. Document all training records and maintain them for at least 5 years.

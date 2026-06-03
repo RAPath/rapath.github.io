@@ -15,7 +15,7 @@ Implantable medical devices are devices intended to be totally or partially intr
 
 Implantable devices are classified based on invasiveness, duration, and anatomical location:
 
-- **Class IIa** — short-term surgical implants (intended for use less than 30 days, not in contact with heart, CNS, or central circulatory system)
+- **Class IIa** — short-term surgical implants (intended for use less than 60 days, not in contact with heart, CNS, or central circulatory system)
 - **Class IIb** — long-term implants not in contact with heart, CNS, or central circulatory system; includes most orthopaedic implants (hip, knee, shoulder), breast implants, spinal implants not in contact with CNS
 - **Class III** — long-term implants in contact with the heart, central circulatory system, or central nervous system; includes coronary stents, heart valves, deep brain stimulators
 
@@ -23,7 +23,7 @@ Implantable devices are classified based on invasiveness, duration, and anatomic
 
 ## Patient Implant Cards
 
-From 1 November 2024, manufacturers and sponsors of implantable devices are required to provide **patient implant cards** with their devices. Patient implant cards contain essential information about the implant that patients must have for their own medical management, including:
+From 1 November 2024, manufacturers and sponsors of implantable devices are required to provide **patient implant cards** with every implantable device they supply, regardless of implantation date or device class. Patient implant cards contain essential information about the implant that patients must have for their own medical management, including:
 
 - Device name and description
 - Manufacturer details
@@ -67,3 +67,5 @@ UDI requirements apply progressively to medical devices, with implantable device
 
 - [Class I, IIa, IIb, III & AIMD](../classification/class-i-iia-iib-iii-aimd.md)
 - [Post-Market Surveillance](../../post-market/post-market-surveillance/pms-requirements.md)
+
+Note: Under the current MD Regulations, the separate AIMD classification category no longer exists. Devices previously classified as AIMD are now classified as Class III. This transition occurred with the implementation of the new regulatory framework. Manufacturers of devices previously approved as AIMD should verify their current classification and compliance obligations.

@@ -8,7 +8,7 @@ tags: [uk-mdr, vigilance, reporting-timeframes, post-market]
 ---
 
 :::note[Regulatory basis]
-Reporting timeframes are in **Regulations 16–22 of the UK MDR 2002 (as amended by SI 2019/791)**. The clock starts from the date the manufacturer **becomes aware** of the incident — not from the date of occurrence.
+Reporting timeframes are in **Regulations 16–22 of the UK MDR 2002 (Part I, as amended by SI 2019/791)**. The clock starts from the date the manufacturer **becomes aware** of the incident — not from the date of occurrence.
 :::
 
 ---

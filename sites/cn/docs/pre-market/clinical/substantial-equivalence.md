@@ -48,3 +48,5 @@ Multiple predicates may be used if no single device satisfies all equivalence cr
 :::note Disclaimer
 Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [NMPA](https://www.nmpa.gov.cn/) sources before making regulatory decisions. Not affiliated with NMPA or any Chinese Government body. Not legal or regulatory advice.
 :::
+
+The equivalence claim and supporting comparative analysis must be clearly documented in the 'Clinical Evaluation Report' section of the registration dossier. CMDE will assess whether the claimed equivalence is scientifically justified; inadequate equivalence documentation may result in a supplemental information request requiring a clinical trial.

@@ -68,3 +68,5 @@ For electronic submissions via eCopy Program, see the current eCopy instructions
 - [FURLS Registration Portal](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfrl/rl.cfm)
 - [AccessGUDID](https://accessgudid.nlm.nih.gov)
 - [FDA — How to Study and Market Your Device](https://www.fda.gov/medical-devices/how-study-and-market-your-device)
+
+All FDA submission portals require secure user account creation and may require multi-factor authentication. Designate authorized personnel and maintain secure access credentials — unauthorized access to submissions is a regulatory violation.

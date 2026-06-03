@@ -40,3 +40,5 @@ Refer to [CMDE technical review guidelines](https://www.cmde.org.cn/) specific t
 :::note Disclaimer
 Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [NMPA](https://www.nmpa.gov.cn/) sources before making regulatory decisions. Not affiliated with NMPA or any Chinese Government body. Not legal or regulatory advice.
 :::
+
+For active devices, key dossier elements include: electrical safety testing per GB 9706 series and applicable IEC standards; biocompatibility assessment per ISO 10993 (relevant parts determined by duration and contact type); software validation documentation; electromagnetic compatibility (EMC) testing per GB 4343; and performance testing demonstrating intended functionality. Sterile active devices must additionally include sterilization validation and shelf-life stability data. Refer to specific CMDE technical guidelines for your device category.

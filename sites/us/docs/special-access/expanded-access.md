@@ -23,7 +23,7 @@ Expanded access for a device is appropriate when:
 
 ---
 
-## Two types of device expanded access
+## Three categories of device expanded access
 
 ### 1. Emergency access (individual patient — emergency)
 When there is no time to file a formal IDE or expanded access request, a physician may request emergency access from FDA by phone or other rapid means:
@@ -61,3 +61,5 @@ When multiple patients need access, a **Treatment IDE** (21 CFR § 812.36) may b
 ## Official resources
 - [21 CFR § 812.35–812.36 — Expanded Access IDE](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-H/part-812)
 - [FDA — Expanded Access for Devices](https://www.fda.gov/medical-devices/how-study-and-market-your-device/expanded-access-investigational-device-exemption-ide)
+
+— which establishes the regulatory framework for both emergency and non-emergency individual patient access as well as treatment IDEs.

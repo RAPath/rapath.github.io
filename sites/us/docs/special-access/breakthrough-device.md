@@ -37,7 +37,7 @@ The device must meet **at least one** of the following:
    - Basis for the claim that the device meets the criteria (disease seriousness, advantage over alternatives)
    - Available data supporting the preliminary evidence of effectiveness
 
-**FDA response time:** 60 calendar days from receipt
+**FDA response time:** 60 calendar days from FDA aims to respond to complete submissions within receipt, though complex requests may require additional time for clarification.
 
 ---
 

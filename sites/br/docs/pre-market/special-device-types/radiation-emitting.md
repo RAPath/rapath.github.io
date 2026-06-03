@@ -21,3 +21,5 @@ Beyond ANVISA registration, facilities using radiation-emitting devices must obt
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+CNEN (National Nuclear Energy Commission) is the primary regulator for radiological protection policy. IRD (Instituto de Radioproteção e Dosimetria) is CNEN's technical institute and typically conducts the actual oversight and licensing of radiation-emitting medical device facilities.

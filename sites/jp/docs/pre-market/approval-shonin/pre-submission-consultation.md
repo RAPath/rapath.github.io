@@ -49,3 +49,5 @@ A productive consultation requires:
 ## PMDA meeting records
 
 PMDA provides written minutes of consultations. These are important documents — they represent PMDA's formal position at the time of the meeting and can be referenced in the later application. Note that PMDA's position can change if new guidance is issued or if the device/data changes significantly.
+
+If PMDA's position changes between consultation and formal application (e.g., due to new guidance or evolving evidence), reference the consultation minutes in your application rationale and clearly document how changes are being addressed. PMDA generally honors consultation positions documented in meeting minutes, but if significant changes affect the advice, a brief written clarification to PMDA before submission is recommended.

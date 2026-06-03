@@ -15,7 +15,7 @@ Foreign manufacturers wishing to supply devices to Korea do not need a Korean ma
 
 ## Route 2 — ISO 13485 certificate recognition (most common)
 
-MFDS recognises **ISO 13485 certificates** from IAF MLA-accredited certification bodies. Requirements:
+MFDS recognises **ISO 13485 certificates** from IAF certification bodies holding Multilateral Recognition Agreement (MLA) accreditation. Requirements:
 - Certificate must be current
 - Certificate **scope must cover** the specific products being applied for
 - Certification body must be IAF MLA member-accredited
@@ -30,3 +30,5 @@ MFDS recognises **ISO 13485 certificates** from IAF MLA-accredited certification
 
 ## Related pages
 - [Recognised foreign GMP certificates](./recognised-foreign-gmp-certificates) · [MFDS overseas inspection program](./mfds-overseas-inspection-program) · [Korean agent obligations](../../udi-registration-licensing/business-licensing/korean-agent-obligations)
+
+## Route 2 — ISO 13485 certificate recognition

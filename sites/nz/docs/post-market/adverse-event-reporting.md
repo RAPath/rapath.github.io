@@ -9,7 +9,7 @@ description: What must be reported to Medsafe, reporting timeframes, how to subm
 ## What is an adverse event?
 
 An **adverse event** involving a medical device is an incident where:
-- A device has malfunctioned, failed, or deteriorated
+- A device has malfunctioned, failed, or (1) deteriorated, AND (2)
 - The malfunction or failure **caused or could have caused** serious injury or death to a patient, user, or other person
 
 The obligation to report applies when the event is **serious** — near-misses and incidents that caused no harm but revealed a latent risk should also be evaluated for reportability.
@@ -76,3 +76,5 @@ These should still be recorded internally as part of post-market surveillance, e
 ## Healthcare provider and patient reports
 
 Healthcare providers and patients can also report adverse events directly to Medsafe. Medsafe uses this information alongside Sponsor reports to identify safety signals. Sponsors should encourage their customers (hospitals, clinics) to report, and should have processes to receive and act on reports coming from end users.
+
+Healthcare providers and patients wishing to report directly to Medsafe should use the same contact method: Email devices@health.govt.nz or contact Medsafe by phone. While the NZ Sponsor remains the primary reporting obligation holder, direct reports from healthcare settings are valuable for signal detection and should be submitted as soon as possible after identifying a potential adverse event.

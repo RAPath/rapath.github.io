@@ -10,7 +10,7 @@ keywords: [design controls, CAPA, corrective action, ISO 13485, MedDO, Switzerla
 ### Why Design Controls Matter Under MedDO
 MedDO Annex I requires that devices are designed and manufactured to meet the General Safety and Performance Requirements. The design controls in ISO 13485 Section 7.3 provide the systematic process that ensures devices are designed to meet these requirements and that the design is verified and validated before market placement.
 
-Design controls are required for Class IIa, IIb, and III devices. For Class I devices, documented design controls are strongly recommended as they form the basis for the GSPR compliance demonstration in technical documentation.
+Design controls are required for Class IIa, IIb, and III devices. For non-implantable Class I devices, documented design controls are strongly recommended; for implantable Class I devices, full design controls aligned with ISO 13485 Section 7.3 are mandatory, as they form the basis for GSPR compliance demonstration and risk management in technical documentation.
 
 ### Key Design Control Elements (ISO 13485 Section 7.3)
 
@@ -63,3 +63,5 @@ A complete CAPA process includes:
 :::warning Disclaimer
 AI-assisted navigation aid only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
 :::
+
+A Design History File (DHF) or equivalent design documentation must be maintained that demonstrates the complete design process from initiation through validation. The DHF must be retained for the same period as technical documentation (10 years for general devices, 15 years for implantable devices).

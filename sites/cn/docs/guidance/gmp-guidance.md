@@ -8,7 +8,7 @@ tags: [guidance]
 
 # GMP and Quality System Guidance
 
-*This page provides an index and plain English summary of gmp and quality system guidance published by NMPA and CMDE. Full content to be completed during editorial review.*
+*This page indexes GMP and quality system guidance documents published by NMPA and CMDE. Content is being expanded. Below are direct links to official sources.*
 
 ---
 
@@ -21,3 +21,5 @@ NMPA technical guidance documents are published on:
 :::note Disclaimer
 Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [NMPA](https://www.nmpa.gov.cn/) sources before making regulatory decisions. Not affiliated with NMPA or any Chinese Government body. Not legal or regulatory advice.
 :::
+
+China's GMP (Good Manufacturing Practice) requirements for medical devices are outlined in the Regulations for the Supervision and Administration of Medical Device Production Quality Management (21 CFR Part 211 equivalent). Key areas include: facility design and maintenance, personnel qualifications, equipment validation, production controls, quality assurance, complaint handling, and documentation. Manufacturers must comply with QMS principles aligned with ISO 13485. NMPA conducts routine GMP inspections and compliance is mandatory for market authorization.

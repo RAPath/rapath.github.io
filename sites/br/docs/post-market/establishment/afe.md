@@ -39,3 +39,6 @@ The AFE is specific to the activity type (manufacture, import, distribution) and
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+
+Note: State VISA endorsement requirements vary significantly by jurisdiction. Check with your state VISA body (Vigilância Sanitária Estadual) early in the application process to confirm local requirements, as delays in obtaining state endorsement can extend the AFE approval timeline.

@@ -40,3 +40,8 @@ For the current complete list: [European Commission MDCG guidance page](https://
 :::warning Disclaimer
 AI-assisted navigation aid only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
 :::
+
+## Key MDCG Documents Applicable in Switzerland
+
+| MDCG 2023-3 | In vitro diagnostic regulation — performance evaluation |
+| MDCG 2023-8 | Post-market surveillance — key principles |

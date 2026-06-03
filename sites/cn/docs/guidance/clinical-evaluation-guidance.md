@@ -21,3 +21,5 @@ NMPA technical guidance documents are published on:
 :::note Disclaimer
 Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [NMPA](https://www.nmpa.gov.cn/) sources before making regulatory decisions. Not affiliated with NMPA or any Chinese Government body. Not legal or regulatory advice.
 :::
+
+NMPA's clinical evaluation guidance (including the 2022 AI Medical Device Registration Review Guidance Principle) requires different evidence strategies based on device risk class and type. Key guidance documents address: clinical study design and endpoints, use of real-world evidence, assessment of algorithm performance, biocompatibility testing, and leveraging existing clinical data. This index will summarize available NMPA clinical evaluation guidance documents with plain English explanations and links to original sources.

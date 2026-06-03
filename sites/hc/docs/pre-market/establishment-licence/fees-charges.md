@@ -41,3 +41,5 @@ Failure to pay annual MDEL fees within the required period may result in:
 - Loss of ability to legally import or distribute devices in Canada
 
 > **Official resource:** [Health Canada — Fees for medical device submissions](https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/application-information/fees.html)
+
+MDEL fees must be paid within 30 days of invoice. Health Canada may provide a grace period of up to 60 days before suspension proceedings begin, but reliance on this grace period is not recommended. Applicants should confirm current payment terms with Health Canada's online portal.

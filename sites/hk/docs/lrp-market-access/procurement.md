@@ -26,3 +26,5 @@ All **applicable medical devices (AMDs)** procured by the DH must have active MD
 ## Private Hospital Requirements
 
 Stage C applies only to DH public procurement. Many private hospitals independently require MDACS listing. Confirm requirements with specific private hospital customers.
+
+AMDs refers to medical devices on the DH procurement framework that fall within the mandated classes (Class II, III, IV for general devices; Class B, C, D for IVDs). Devices used only for research, training, or non-clinical purposes are typically excluded. Confirm device eligibility with the DH procurement team.

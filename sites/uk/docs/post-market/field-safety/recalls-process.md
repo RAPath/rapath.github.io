@@ -105,3 +105,5 @@ MHRA can independently require a manufacturer to recall a device if MHRA conclud
 | UK MDR 2002, Regulations 16–22 | Recall obligations |
 | MHRA: Adverse incident reporting guidance | Recall process guidance |
 | MHRA: Device alerts | Published recalls — gov.uk |
+
+Complete the truncated sentence with: 'Issue public warnings or Device Alerts on gov.uk if the risk requires immediate awareness among healthcare professionals or patients.'

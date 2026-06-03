@@ -31,3 +31,5 @@ After registration, any change that affects safety, performance, intended use, o
 
 - [ANVISA — Tecnovigilância](https://www.gov.br/anvisa/pt-br/assuntos/produtossaude/produtos-para-saude/tecnovigilancia)
 - [NOTIVISA](https://notivisa.anvisa.gov.br)
+
+Note: Post-market surveillance (PMS) is mandatory for Class III and IV devices. Class II devices may use a simplified PMS approach submitted with the Cadastro registration.

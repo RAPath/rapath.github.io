@@ -15,7 +15,7 @@ MHLW has issued guidance on what constitutes regulated advertising. It includes:
 - Published advertisements (print, digital, TV, radio)
 - Product brochures and promotional materials distributed to healthcare professionals
 - Website content promoting a specific device
-- Scientific symposia and presentations that include product promotion
+- Scientific symposia, sponsored educational presentations, and continuing medical education (CME) programmes that include product promotion or commercial support
 - Direct mail to healthcare institutions
 
 Note that the advertising restrictions also apply to **digital channels** — websites, social media, and email marketing materials promoting devices for specific uses.

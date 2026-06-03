@@ -75,4 +75,17 @@ Kemenkes evaluators review the **Site Master File** (or equivalent production fl
 - Key manufacturing steps and critical processes
 - Quality control checkpoints
 
-Ensure the manufacturing site described in the Site Master File matches exactly with the name and address on the ISO 13485 certificate and GMP certificate.
+Ensure the manufacturing site described in the Site Master File matches exactly with the name and address on the ISO 13485 certificate and GMP certificate (or country-of-origin GMP inspection certificate). If contract manufacturing is used, document all manufacturing partners in the Site Master File and confirm each has current GMP certification.
+
+
+Note: If the device may be used for multiple distinct clinical indications, each must be listed separately. If off-label use is anticipated or known, document this and explain how the device's safety and performance data cover (or do not cover) such uses. Kemenkes evaluators will assess whether residual risks for unintended uses are acceptable.
+
+Revise the Electrical Safety subsection to read:
+
+Electrical Safety
+
+For active (powered) devices:
+
+• IEC 60601 series compliance (general and particular standards)
+• EMC testing per IEC 61000 series
+• Test reports from accredited laboratories (ISO/IEC 17025 accreditation preferred; third-party laboratories are strongly recommended for regulatory credibility)

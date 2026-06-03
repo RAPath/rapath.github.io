@@ -12,3 +12,19 @@ Manufacturers and IARs must maintain a **Post-Market Surveillance (PMS)** plan a
 The PMS plan should cover complaint handling, trending, CAPA, and field safety corrective action (FSCA) procedures.
 
 > **Official source:** Medical Devices Rules 2017; [CDSCO](https://cdsco.gov.in)
+
+Post-Market Surveillance Report (PMSR) Submission
+
+Manufacturers and IARs must submit PMSRs to CDSCO containing:
+
+- Summary of complaints received and their classification
+- Trend analysis of complaint data
+- Details of CAPA and FSCA actions initiated
+- Effectiveness of corrective actions implemented
+- Any safety-related product modifications or labeling changes
+- Regulatory actions or recalls in other countries (if applicable)
+- Overall device safety assessment
+
+Submission Frequency: As specified in approval conditions (typically annually for lower-risk devices, or as requested by CDSCO)
+
+PMSRs must be supported by complete documentation and complaint records available for regulatory review.

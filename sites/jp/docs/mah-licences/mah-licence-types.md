@@ -11,16 +11,15 @@ Japan distinguishes between MAH licence categories based on the types of devices
 
 ## MAH licence categories
 
-**General MAH licence (一般販売業者 — ippan hanbai gyosha):** The standard MAH licence for entities marketing medical devices. Issued by the prefectural government where the MAH's principal office is located (in most cases).
+General MAH licence (一般販売業者 — ippan hanbai gyosha): The standard MAH licence for entities marketing medical devices. Issued by the prefectural government where the MAH's principal office is located (in most cases).
 
-**Shonin MAH** (the entity holding a specific Shonin approval for Class III or IV devices): Higher QMS and staffing requirements apply when the MAH holds approvals for high-risk devices.
+Class III/IV MAH licence (for entities marketing Class III or Class IV devices under Shonin approvals): Higher QMS and staffing requirements apply. Issued by MHLW at the national level.
 
 ## Staffing requirements
 
-To hold an MAH licence, the entity must designate a **Responsible Technical Officer** (総括製造販売責任者 — Sokatsu Seizouhanbaigyo Sekininsha). This individual:
-- Must meet education and experience requirements specified in MHLW ordinances (typically a pharmaceutical or scientific degree plus relevant experience)
-- Is personally responsible for QMS compliance
-- Must be accessible to MHLW and PMDA
+Staffing requirements
+​
+To hold an MAH licence, the entity must designate at least one Responsible Technical Officer. For higher-risk device categories (Class IV and specially designated Class III), additional qualified personnel may be required; confirm with the licensing authority.
 
 ## Quality system requirements for the MAH
 

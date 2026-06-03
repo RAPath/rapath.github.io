@@ -25,3 +25,7 @@ Test reports demonstrating conformance to applicable **KS** or recognised **IEC/
 
 ## Related pages
 - [eSubmission system](../marketing-authorization/esubmission-system) · [품목신고 overview](./overview)
+
+IVD Grade A and B standards compliance
+
+For IVDs, applicable standards may include ISO 13485, ISO 14644 (cleanroom), ISO 18385 (IVD quality systems), and IVD-specific international standards (ISO 18113 series, ISO 12882). Refer to MFDS guidance documentation for device-specific standard recommendations.

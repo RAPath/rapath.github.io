@@ -44,3 +44,5 @@ In Japan's model, the MAH and manufacturer can be the same company, or they can 
 - The **MAH** is responsible for the regulatory approval, post-market surveillance programme, adverse event reporting, and regulatory submissions
 
 This split is codified in MHLW guidance and requires a formal contract between the MAH and the manufacturer setting out each party's responsibilities.
+
+Physical business presence typically means a registered business address in Japan and the ability to conduct regulatory operations (such as adverse event receipt and documentation) within Japan. A subsidiary, branch office, or service provider address may satisfy this requirement; contact the prefectural government or MHLW for confirmation based on your specific structure.

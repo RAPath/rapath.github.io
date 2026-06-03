@@ -32,3 +32,5 @@ Where Swissmedic takes protective measures against a CE-marked device, it notifi
 :::warning Disclaimer
 AI-assisted navigation aid only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
 :::
+
+Modify the sentence 'This coordination operates through bilateral arrangements and the EU RAPEX/EUDAMED safety alert exchange mechanisms.' to: 'This coordination operates through bilateral arrangements and the EU RAPEX (Rapid Alert System for Non-Food Products) / EUDAMED safety alert exchange mechanisms.'

@@ -34,7 +34,7 @@ EU medical device regulation moves quickly — new MDCG guidance, implementing a
 
 ---
 
-## Key recent changes — summary timeline
+## Key Recent Changes — Summary Timeline (Most Recent First)
 
 ### 2024
 

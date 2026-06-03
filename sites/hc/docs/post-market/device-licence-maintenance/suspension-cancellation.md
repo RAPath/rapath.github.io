@@ -7,7 +7,7 @@ description: Device Licence and MDEL suspension and cancellation in Canada — w
 
 ## Device Licence suspension
 
-Health Canada may **suspend** a Device Licence when:
+Health Canada may **suspend** a Device Licence in the following circumstances: • • or persistent • adequately within specified timeframes • poses an unacceptable risk to health or
 - The licence holder fails to pay annual fees within the required period
 - The licence holder is found to be non-compliant with the MDR following an inspection or investigation
 - The device is found to pose a safety risk requiring immediate market withdrawal pending further investigation

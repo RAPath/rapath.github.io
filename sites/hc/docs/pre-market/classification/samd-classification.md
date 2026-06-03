@@ -54,3 +54,7 @@ Health Canada follows the **IMDRF SaMD classification framework**, which conside
 When software is updated, manufacturers must consider whether the update changes the device's classification or requires a Device Licence amendment. See [Amending a Device Licence](/docs/post-market/device-licence-maintenance/amending-device-licence).
 
 > **Legislative source:** Medical Devices Regulations, SOR/98-282, Schedule 2; IMDRF SaMD Classification guidance N12FINAL:2014
+
+Standalone vs. embedded software
+
+SaMD regulations apply to software that operates independently or on general-purpose computing platforms. Software that is integral to a hardware medical device (i.e., cannot function separately from the hardware) is typically regulated as part of the hardware device rather than as standalone SaMD. When determining regulatory pathway, consider whether the software can be used independently of any hardware component.

@@ -16,7 +16,7 @@ Certain high-risk device classes are subject to mandatory **annual reporting** o
 **Class III medical devices**
 Annual reports are required for a minimum of **3 years** after ARTG inclusion. After 3 years, the TGA assesses whether continued annual reporting is necessary based on the device's post-market safety profile.
 
-**AIMD (now classified as Class III)**
+**AIMD (now classified as Class III under the ARTG classification system; historically known as Active Implantable Medical Device)**
 Same as Class III requirements above.
 
 **Implantable Class IIb devices**
@@ -63,3 +63,5 @@ After the mandatory 3-year annual reporting period for Class III devices, the TG
 - [PMS Requirements by Class](./pms-requirements.md)
 - [Distribution Records](./distribution-records.md)
 - [Conditions of Inclusion](../../pre-market/artg-inclusion/conditions-of-inclusion.md)
+
+The sponsor is the person or entity responsible for the device on the Australian market. For devices manufactured overseas, the sponsor is typically an Australian-based company or the overseas manufacturer's authorized representative in Australia. Annual reports must be submitted by the sponsor listed on the ARTG entry.

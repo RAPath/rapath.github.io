@@ -23,3 +23,5 @@ NMPA's digital health and SaMD framework is based on:
 :::note Disclaimer
 Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [NMPA](https://www.nmpa.gov.cn/) sources before making regulatory decisions. Not affiliated with NMPA or any Chinese Government body. Not legal or regulatory advice.
 :::
+
+NMPA requires compliance with YY/T 0664 (based on IEC 62304), which mandates software development planning, implementation, verification, validation, and post-market surveillance. Manufacturers must document software specifications, configuration management, problem resolution processes, and maintain traceability throughout the product lifecycle.

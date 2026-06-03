@@ -9,7 +9,7 @@ tags: [china-agent,cn-unique]
 # What is a China Agent? (境内代理人)
 
 :::info China-unique
-The China Agent is mandatory for all overseas manufacturers of medical devices sold in China. It is defined in **MDSAR 2021 Article 39** and has no direct equivalent in the FDA, EU MDR, TGA, or HSA frameworks. Key difference: the China Agent bears **joint liability** for product quality — it is not a mere administrative representative.
+The China Agent is mandatory for all overseas manufacturers of medical devices (non-China) registered or filed with NMPA to supply devices in China. It is defined in **MDSAR 2021 Article 39** and has no direct equivalent in the FDA, EU MDR, TGA, or HSA frameworks. Key difference: the China Agent bears **joint liability** for product quality — it is not a mere administrative representative.
 :::
 
 ---

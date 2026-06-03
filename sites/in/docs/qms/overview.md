@@ -29,3 +29,10 @@ See [Core GMP Requirements (Schedule 5)](/docs/qms/schedule-5-gmp/management-res
 Manufacturing licences are granted following a successful **GMP inspection** by CDSCO (for Class C/D) or the State Licensing Authority (for Class A/B). Surveillance inspections occur during the licence period.
 
 > **Official source:** Medical Devices Rules 2017, Schedule 5; [ICMED — QCI](https://www.qcin.org/icmed)
+
+Inspection Authority by Device Class
+
+• Class A and B devices: GMP inspections conducted by State Licensing Authorities (SLAs);
+• Class C and D devices: GMP inspections conducted by CDSCO (Central Drugs Standard Control Organisation).
+
+Both authorities conduct initial inspections before licence grant and periodic surveillance inspections during the licence validity period.

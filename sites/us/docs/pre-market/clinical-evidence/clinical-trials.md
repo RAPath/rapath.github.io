@@ -45,3 +45,5 @@ For IDE-approved studies, FDA may:
 - [21 CFR Part 812](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-H/part-812)
 - [ClinicalTrials.gov](https://clinicaltrials.gov)
 - [FDA — Running Clinical Trials](https://www.fda.gov/science-research/clinical-trials-and-human-subject-protection)
+
+Results must be posted within 12 months of the primary completion date (or within 30 days of FDA action on the submission, whichever is later) for applicable trials.

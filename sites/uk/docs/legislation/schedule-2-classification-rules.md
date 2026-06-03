@@ -24,12 +24,12 @@ Schedule 2 of the UK MDR 2002 contains the 18 classification rules for general m
 
 Schedule 2 contains 18 rules grouped into four sections:
 
-- **Rules 1–4:** Non-invasive devices
-- **Rules 5–8:** Invasive devices
-- **Rules 9–12:** Active devices (including software)
-- **Rules 13–18:** Special rules
+- Rules 1–4: Non-invasive devices
+- Rules 5–8: Invasive devices
+- Rules 9–12: Active devices (including software)
+- Rules 13–18: Special rules
 
-The highest class produced by any applicable rule applies. See [Classification rules — Schedule 2 in detail](../pre-market/classification/classification-rules) for a full rule-by-rule walkthrough.
+If multiple rules apply to a device, the highest class produced by any applicable rule applies — this is known as the 'highest applicable class' principle. See Classification rules — Schedule 2 in detail for a full rule-by-rule walkthrough and worked examples.
 
 ## Classification rules for AIMDs
 

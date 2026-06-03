@@ -31,6 +31,8 @@ MDACS listing is **officially voluntary** — no current Hong Kong law mandates 
 
 Class I (general) and Class A (IVD) are not subject to the procurement mandate.
 
-:::warning Stage C is active from 23 March 2026
-Ensure MDACS listing is secured before this date to remain eligible for DH public procurement.
+:::warning Stage C becomes effective 23 March 2026.
+To remain eligible for DH public procurement from this date forward, all applicable medical devices (Classes II–IV / IVD B–D) must have either: (1) a valid MDACS listing, or (2) a pending application with an assigned reference number submitted before 23 March 2026. Devices without either status will be ineligible for DH tender participation.
 :::
+
+Devices with applications submitted before 23 March 2026 but not yet approved may be subject to transition provisions. Contact the MDD for clarification on in-flight applications near the deadline.

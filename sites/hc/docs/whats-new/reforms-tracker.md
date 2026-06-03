@@ -36,3 +36,5 @@ A running tracker of significant regulatory reforms affecting medical devices in
 :::info Official source
 [Canada Gazette](https://www.canadagazette.gc.ca) | [Health Canada Medical Devices](https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices.html)
 :::
+
+Post-market clinical data requirements are under development to define mandatory clinical evidence collection and submission timelines for certain device classes post-approval. Manufacturers should monitor Health Canada guidance documents for preliminary expectations on data collection protocols and follow-up study design.

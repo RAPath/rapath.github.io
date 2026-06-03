@@ -8,7 +8,7 @@ sidebar_position: 2
 
 The Korean importer must ensure imported devices carry:
 - Importer's name and address in Korean
-- Importer's **수입업 허가** number
+- Importer's **수입업체 (or 수입업자) registration / import license number** number
 - Korean-language translation of all labelling and IFU content
 
 ## Sticker labelling
@@ -20,3 +20,5 @@ Permitted to apply a **Korean-language sticker (부착 라벨)** alongside origi
 
 ## Related pages
 - [Labelling requirements](./labelling-requirements) · [IFU and package insert](./ifu-and-package-insert)
+
+"Safety-critical information includes warnings, contraindications, shelf life, storage conditions, sterilization method (if applicable), single-use indicators, and UDI-K barcode. Stickers must not overlap or obscure these elements."

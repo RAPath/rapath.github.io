@@ -30,3 +30,5 @@ Understanding which authority to contact for a specific licence, change, or noti
 ## Tokyo Metropolitan Government Health and Welfare Bureau
 
 The Tokyo Metropolitan Government Health and Welfare Bureau (東京都福祉保健局 — now reorganised under Tokyo Metropolitan Government restructuring) is the most frequently encountered prefectural licensing authority in the medical device industry, given Tokyo's concentration of MAHs and device manufacturers. Their processes and timelines are broadly similar to other prefectures but may have Tokyo-specific administrative practices.
+
+In addition to MAH licences, Japan also requires separate manufacturing licences for domestic manufacturing facilities. General domestic manufacturing licences are issued by the prefectural government where the facility is located. Manufacturing licences for specially designated Class III and all Class IV devices are issued by MHLW.

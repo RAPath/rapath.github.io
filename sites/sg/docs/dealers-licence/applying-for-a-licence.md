@@ -34,7 +34,7 @@ The application typically requires:
 
 ## Assessment process
 
-HSA reviews the application and may conduct a site inspection or request additional information. Upon satisfactory assessment, HSA issues the dealer's licence with specified conditions.
+HSA reviews the application and may conduct a site inspection or request additional information. Upon satisfactory assessment, HSA issues the dealer's licence with specified The inspection typically verifies that premises, storage conditions, and QMS implementation meet stated requirements. conditions and a defined validity period (typically 3 years).
 
 ## Fees and turnaround time
 
@@ -46,3 +46,4 @@ Current fees and turnaround times for dealer's licence applications are publishe
 
 - [HSA: Apply for a dealer's licence](https://www.hsa.gov.sg/medical-devices/dealers-licence/apply)
 - [HSA: QMS for Medical Devices](https://www.hsa.gov.sg/medical-devices/dealers-licence/quality-management-system-(qms)-for-medical-devices)
+

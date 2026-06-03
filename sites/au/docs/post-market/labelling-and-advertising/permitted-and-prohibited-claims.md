@@ -7,7 +7,7 @@ last_reviewed: 2026-04-30
 
 ## Overview
 
-The Therapeutic Goods Advertising Code 2021 and the Therapeutic Goods Regulations 1990 establish three categories of representations in advertising: **permitted**, **restricted** (requiring TGA approval before use), and **prohibited** (never permitted in consumer advertising, with very limited exceptions). Understanding which category applies to a claim before publishing any advertising is essential.
+The Therapeutic Goods Advertising Code 2021 and the Therapeutic Goods Regulations 1990 establish three categories of representations in advertising: permitted, restricted (requiring TGA approval before use), and prohibited (never permitted in consumer advertising, with very limited exceptions). Understanding which category applies to a claim before publishing any advertising is essential.
 
 ---
 
@@ -15,10 +15,10 @@ The Therapeutic Goods Advertising Code 2021 and the Therapeutic Goods Regulation
 
 Permitted claims are those that are:
 
-- **Consistent with the device's ARTG entry** — the intended purpose and indications approved at ARTG inclusion
-- **Accurate and substantiated** — based on clinical evidence or established fact
-- **Not misleading** — do not overstate benefits, understate risks, or imply effectiveness the device does not have
-- **Not comparative in a way that disparages competitors** — comparative claims must be fair and supported by evidence
+- Consistent with the device's ARTG entry — the intended purpose and indications approved at ARTG inclusion
+- Accurate and substantiated — based on clinical evidence or established fact
+- Not misleading — do not overstate benefits, understate risks, or imply effectiveness the device does not have
+- Not comparative in a way that disparages competitors — comparative claims must be fair and supported by evidence
 
 Examples of permitted claims for a Class IIa blood glucose monitor include claims about measurement accuracy, ease of use, and compatibility with diabetes management — all consistent with the device's ARTG-approved intended purpose.
 
@@ -26,13 +26,13 @@ Examples of permitted claims for a Class IIa blood glucose monitor include claim
 
 ## Restricted Representations
 
-A restricted representation is a representation in an advertisement that **refers (expressly or by implication) to a serious form of a disease, condition, ailment, or defect**. Restricted representations require **prior TGA approval** before they can be used in consumer advertising.
+A restricted representation is a representation in an advertisement that refers (expressly or by implication) to a serious form of a disease, condition, ailment, or defect. Restricted representations require prior TGA approval before they can be used in consumer advertising.
 
-**Examples of restricted representations:**
+Examples of restricted representations:
 - Claims referring to cancer, heart disease, stroke, diabetes, HIV/AIDS, or other serious conditions
 - Claims that a device treats, monitors, or diagnoses a life-threatening condition in a way directed at consumers
 
-**How to obtain approval:**
+How to obtain approval:
 Sponsors apply to the TGA for approval of restricted representations before using them. The TGA assesses the claim against the evidence and the public health implications. Approved restricted representations are published by the TGA.
 
 👉 [Apply for restricted representation approval — TGA](https://www.tga.gov.au/products/regulations-all-products/advertising/applying-advertising-code/restricted-and-prohibited-representations-advertising)
@@ -45,33 +45,33 @@ Prohibited representations are representations in advertising that the TGA has d
 
 Prohibited representations under Schedule 2 of the Therapeutic Goods Regulations 1990 include references to the treatment, cure, prevention, diagnosis, or monitoring of (among others):
 
-- **Neoplastic diseases** — all types of cancer
-- **Sexually transmissible infections** (certain)
-- **Mental illness** (certain)
-- **Serious eye conditions** requiring medical intervention
-- **Serious conditions of the heart and blood pressure**
-- **HIV/AIDS**
-- **Abortifacient action**
+- Neoplastic diseases — all types of cancer
+- Sexually transmissible infections (certain)
+- Mental illness (certain)
+- Serious eye conditions requiring medical intervention
+- Serious conditions of the heart and blood pressure
+- HIV/AIDS
+- Abortifacient action
 
-Prohibited representations may only be used in advertising if the TGA has **specifically permitted** their use for a particular advertisement (for example, where it is necessary for the appropriate use of the device or in the interests of public health). Advertising containing a prohibited representation without TGA permission is a criminal offence.
+Prohibited representations must not be used in consumer advertising, except where the TGA has specifically approved their use for a particular advertisement (for example, where the representation is necessary for safe and appropriate use of the device, or where there is a clear public health benefit in permitting the claim). Advertising containing a prohibited representation without prior TGA approval is a criminal offence under the Therapeutic Goods Act, with penalties including fines and potential imprisonment.
 
 ---
 
 ## Specific Claims to Avoid
 
-**"TGA approved" or "TGA registered"**
+"TGA approved" or "TGA registered"
 These phrases are expressly prohibited in advertising. The TGA does not "approve" or "register" medical devices — it includes them in the ARTG. Stating a device is "TGA approved" misleads consumers about the nature of TGA's assessment and is an offence.
 
-**"Safe" without qualification**
+"Safe" without qualification
 Unqualified claims that a device is "safe" can be misleading, as all medical devices carry some risk. Claims about safety should be qualified and consistent with the device's known risk profile.
 
-**Testimonials from health professionals or hospitals**
+Testimonials from health professionals or hospitals
 Current health professionals, government bodies, hospitals, and healthcare facilities cannot endorse therapeutic goods in advertising directed to the public.
 
-**Off-label claims**
+Off-label claims
 Claims that a device is effective for uses beyond its ARTG-approved intended purpose are prohibited.
 
-**Unsubstantiated claims**
+Unsubstantiated claims
 Any claim — whether about safety, performance, or clinical outcomes — must be substantiated. The TGA can issue substantiation notices requiring advertisers to provide evidence for claims.
 
 ---
@@ -99,3 +99,5 @@ The TGA has published specific guidance on advertising therapeutic goods on soci
 
 - [Labelling Requirements](./labelling-requirements.md)
 - [Advertising Rules](./advertising-rules.md)
+
+The final paragraph should be completed with: 'for uses beyond its ARTG-approved intended purpose are prohibited. If a device is approved only for monitoring blood glucose in Type 2 diabetes, advertising claims about its use in Type 1 diabetes management would be off-label and prohibited. Similarly, claims that a device is effective for conditions not included in its approved indications breach advertising requirements.'

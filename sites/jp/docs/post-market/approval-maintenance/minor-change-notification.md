@@ -10,7 +10,7 @@ sidebar_position: 2
 Not all changes to an approved device require full Ichibu Henko (partial change approval). MHLW has defined categories of "minor changes" that only require a notification to MHLW after implementation (not approval before implementation).
 
 Minor changes typically include:
-- Changes to packaging dimensions or materials that do not affect device sterility or performance
+- Changes to packaging dimensions or materials that do not affect device sterility, barrier protection, shelf-life or performance
 - Changes to labelling text that do not affect safety-critical information (e.g. correction of typographical errors, updating MAH address)
 - Addition of a new size or configuration of an existing design, where the change is within the scope of the existing approval and the new variant has been tested
 - Minor manufacturing process changes within validated ranges
@@ -26,3 +26,12 @@ Minor change notifications are filed with MHLW (via PMDA for Shonin devices) aft
 ## Classification uncertainty — when to seek PMDA advice
 
 If there is any doubt about whether a change is "minor" or "significant," the MAH should seek PMDA's advice before implementing the change. Implementing a change that should have gone through Ichibu Henko without approval is a PMD Act violation.
+
+Timing of notification submission:
+
+Minor change notifications must be submitted to MHLW within a reasonable timeframe after implementation. While MHLW does not specify a fixed deadline in days, regulatory practice expects notification to occur:
+
+- Before or concurrent with distribution of the changed device to the market
+- No later than the first distribution following implementation
+
+Delayed notification of implemented minor changes may be viewed as non-compliance. Maintain documentation of the implementation date and notification submission date in your quality system records.

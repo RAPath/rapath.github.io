@@ -19,7 +19,7 @@ Any **incident** or **near-incident** involving a medical device that has, or co
 
 ## Reporting Timelines
 
-Indonesia does not currently publish a single fixed reporting timeline (unlike, for example, the EU MDR's 15-day/30-day framework), but the general principle is **prompt reporting**:
+Indonesia does not in Permenkes 62/2017 established in guidance and enforcement practice publish a single fixed reporting timeline (unlike, for example, the EU MDR's 15-day/30-day framework), but the general principle is **prompt reporting**:
 
 | Incident Type | Expected Reporting Timeframe |
 |---|---|

@@ -77,3 +77,7 @@ Health Canada generally accepts standards published by:
 When international standards are revised, Health Canada typically allows a transition period before requiring compliance with the new version.
 
 > **Legislative source:** Medical Devices Regulations, SOR/98-282, s 32(k) (attestation to standards)
+
+Transition to new standard versions
+
+When Health Canada recognises a new version of a Mandatory Standard, manufacturers are typically given a transition period (often 12–24 months) to achieve compliance with the updated standard. Device Licence applications submitted during the transition period may be accepted under either the previous or current standard version, provided the newer version was formally published. Manufacturers should monitor Health Canada's website for announcements regarding standard updates and transition deadlines.

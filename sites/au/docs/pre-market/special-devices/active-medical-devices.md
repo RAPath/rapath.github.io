@@ -17,7 +17,7 @@ Active devices are classified under Schedule 2, Part 2, based on their intended 
 
 - **Active diagnostic devices** — classified based on the severity of the condition being diagnosed and the public health implications of an incorrect result (Class I to Class III)
 - **Active therapeutic devices** — classified based on whether energy exchange with the patient could be hazardous (Class IIa or IIb)
-- **Active implantable devices** — now classified as Class III (following AIMD reclassification)
+- **Active implantable devices** — now classified as Class III (AIMD) under the updated classification rules (Schedule 2, Rule 5.2). This reclassification means all active implantable devices require the same high level of conformity assessment evidence as other Class III devices, including full quality management system assessment and product design dossier review.
 
 👉 [Active & Software Devices — Classification](../classification/active-and-software-devices.md)
 

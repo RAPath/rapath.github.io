@@ -5,12 +5,12 @@ description: Overview of the four key roles in Swiss medical device regulation â
 # Who Needs to Comply?
 
 ## Overview
-MedDO assigns specific obligations based on your role in the supply chain. The four primary roles are **manufacturer**, **CH REP**, **importer**, and **distributor**.
+MedDO assigns specific obligations based on your role in the supply chain. The four primary roles are manufacturer, CH REP, importer, and distributor.
 
 | Role | Established in Switzerland? | Conformity Assessment | DAPI Registration | Vigilance Reporting |
 |---|---|---|---|---|
 | Manufacturer | Not required | Yes (primary responsibility) | Yes (or via CH REP) | Yes (primary) |
-| CH REP | **Required** | No (assists) | Yes (on manufacturer's behalf) | Yes (assists) |
+| CH REP | Required | No (assists) | Yes (on manufacturer's behalf) | Yes (assists) |
 | Importer | Required | Verify only | No | Report to manufacturer/CH REP |
 | Distributor | Not required | Verify only | No | Report to manufacturer/CH REP |
 
@@ -20,8 +20,7 @@ Responsible for ensuring device compliance, QMS, technical documentation, confor
 ## Swiss Authorised Representative (CH REP)
 Mandatory for non-Swiss manufacturers. Performs or assists with Swissmedic registration, vigilance reporting, FSCA coordination, and inspections. Jointly and severally liable with manufacturer. See [CH REP](./ch-reps).
 
-## Importer
-Any natural or legal person established in Switzerland who places a non-Swiss manufacturer's device on the Swiss market. Must verify conformity, labelling, and CH REP appointment. See [Importers and Distributors](./importers-and-distributors).
+Importer â€” Any natural or legal person established in Switzerland who imports and places a non-Swiss manufacturer's device on the Swiss market without being the manufacturer themselves. Must verify device conformity, proper labelling (DE/FR/IT), and confirm CH REP appointment is in place. Has no registration obligation but must cooperate with Swissmedic surveillance activities.
 
 ## Distributor
 Makes a device available on the Swiss market without being the manufacturer or importer. Must verify labelling and cooperate with surveillance activities.
@@ -33,3 +32,5 @@ Makes a device available on the Swiss market without being the manufacturer or i
 :::warning Disclaimer
 Content is AI-assisted and intended as a navigation aid only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
 :::
+
+Expand the 'Swiss Authorised Representative (CH REP)' section: "CH REPs are jointly and severally liable with manufacturers for regulatory compliance, including technical documentation accuracy, vigilance reporting, and FSCA implementation. Swissmedic can pursue enforcement action against either the manufacturer or CH REP independently."

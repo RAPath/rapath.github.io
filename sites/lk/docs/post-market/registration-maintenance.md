@@ -6,16 +6,16 @@ description: NMRA annual fees, post-approval change management, and MAH licence 
 
 # Registration Maintenance
 
-> *NMRA · Annual fees · USD-denominated · Change management*
+> NMRA · Annual fees · USD-denominated · Change management
 
 ## Annual Fees — LK-Unique USD-Based Schedule
 
-The NMRA charges **annual maintenance fees** for registered devices. These fees are:
-- **Denominated in USD** — set in US dollars, not Sri Lankan Rupees
-- **Converted at the monthly USD/LKR exchange rate** published by the NMRA on its website
-- **Payable annually** — non-payment can result in lapsing of the Registration Certificate
+The NMRA charges annual maintenance fees for registered devices. These fees are:
+- Denominated in USD — set in US dollars, not Sri Lankan Rupees
+- Converted at the monthly USD/LKR exchange rate published by the NMRA on its website
+- Payable annually — non-payment can result in lapsing of the Registration Certificate
 
-**Current USD rate (May 2026):** LKR 315.19 per USD — check the NMRA website for the current monthly rate before payment.
+Exchange rates are updated monthly by the NMRA — check the NMRA website for the current monthly USD/LKR rate before payment, as rates fluctuate regularly.
 
 ### Fee Payment
 
@@ -37,9 +37,9 @@ The MAH must notify the NMRA and obtain approval for changes to:
 ### Variation Classification
 
 Not all changes require the same level of NMRA review:
-- **Minor administrative changes** (e.g., address change) — notification may suffice
-- **Technical changes** with no safety impact — notification with supporting evidence
-- **Significant technical changes** (new materials, new indications) — may require re-evaluation
+- Minor administrative changes (e.g., address change) — notification may suffice
+- Technical changes with no safety impact — notification with supporting evidence
+- Significant technical changes (new materials, new indications) — may require re-evaluation
 
 Confirm the applicable variation type with the NMRA before implementing changes.
 
@@ -53,7 +53,7 @@ Registration Certificates have a defined validity period (initially 1–2 years 
 4. NMRA reviews and issues renewed Registration Certificate
 5. Apply for renewed Import Licence (if applicable)
 
-**Start renewal at least 4–6 months before expiry** to allow for NMRA processing time.
+Start renewal at least 4–6 months before expiry to allow for NMRA processing time.
 
 ## MAH Transfer — Changing the Marketing Authorization Holder
 
@@ -64,3 +64,5 @@ If the Sri Lanka MAH changes:
 4. Ensure there is no gap in valid Registration Certificate or Import Licence coverage during the transition
 
 A gap in MAH coverage can interrupt commercial supply — plan transfers carefully and well in advance.
+
+Replace 'Current USD rate (May 2026): LKR 315.19 per USD' with 'Current USD rate: Check the NMRA website for the current monthly exchange rate, as rates are updated monthly. As of [current date], refer to the NMRA's published schedule.'

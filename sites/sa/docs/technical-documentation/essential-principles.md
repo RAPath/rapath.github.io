@@ -8,9 +8,9 @@ description: The SFDA's Essential Principles of Safety and Performance — what 
 
 ## What are the Essential Principles?
 
-The **Essential Principles of Safety and Performance** are the fundamental safety and performance requirements that all medical devices must meet before they can receive MDMA. They are set out in **MDS-REQ 2** and in **Annexes 1 and 2 of the Medical Devices Law**.
+The Essential Principles of Safety and Performance are the fundamental safety and performance requirements that all medical devices must meet before they can receive MDMA. They are set out in MDS-REQ 2 and in Annexes 1 and 2 of the Medical Devices Law.
 
-The Essential Principles are closely modelled on the **General Safety and Performance Requirements (GSPR)** of EU MDR Annex I, with equivalent scope and structure.
+The Essential Principles are substantially aligned with the General Safety and Performance Requirements (GSPR) of EU MDR Annex I, reflecting Saudi Arabia's commitment to harmonizing medical device regulation with international standards.
 
 ## General Essential Principles (Annex 1)
 
@@ -36,12 +36,12 @@ For IVDs, additional principles apply:
 ## Demonstrating compliance
 
 Compliance with each applicable Essential Principle must be demonstrated in the technical file, typically through:
-- Reference to **harmonised or SFDA-recognised consensus standards** (e.g. ISO 10993, ISO 14971, IEC 60601-1, IEC 62304)
+- Reference to harmonised or SFDA-recognised consensus standards (e.g. ISO 10993, ISO 14971, IEC 60601-1, IEC 62304)
 - Test reports from accredited laboratories
 - Clinical evaluation data
 - Risk management documentation
 
-An **Essential Principles checklist or compliance matrix** — listing each applicable principle, the method of compliance, and the evidence reference — is a practical way to organise this section of the technical file.
+An Essential Principles checklist or compliance matrix — listing each applicable principle, the method of compliance, and the evidence reference — is a practical way to organise this section of the technical file.
 
 ## Further reading
 

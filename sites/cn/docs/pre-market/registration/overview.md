@@ -21,7 +21,7 @@ The filing/registration split by device class — and in particular the three di
 | Class | Pathway | Authority | Typical timeline |
 |---|---|---|---|
 | Class I (domestic) | Filing (备案) | District/county-level authority | 1–3 months |
-| Class I (imported) | Filing (备案) | National NMPA | 2–4 months |
+| The page correctly states imported Class I devices are filed with National NMPA, but the accompanying text under 'What filing involves' does not clarify that imported Class I devices bypass local authorities—this should be explicitly stated to avoid confusion with domestic Class I filing at local level. |
 | Class II (domestic) | Registration (注册) | Provincial NMPA bureau | 6–12 months |
 | Class II (imported) | Registration (注册) | National NMPA | 12–18 months |
 | Class III (domestic) | Registration (注册) | National NMPA / CMDE | 12–24 months |
@@ -56,3 +56,5 @@ Class I filing does not produce a "certificate" equivalent to a registration cer
 :::note Disclaimer
 Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [NMPA](https://www.nmpa.gov.cn/) sources before making regulatory decisions. Not affiliated with NMPA or any Chinese Government body. Not legal or regulatory advice.
 :::
+
+Note: Although Class I domestic devices are filed with local district/county authorities, Class I imported devices must be filed with national NMPA, creating a different workflow despite both being classified as "filing" pathways.

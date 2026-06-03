@@ -23,3 +23,16 @@ Technical documentation (기술 문서) follows the **IMDRF STED** format, adapt
 
 - Test reports from **MFDS-recognised testing labs** (IEC 60601 series, ISO 10993, KS standards)
 - Korean-language labelling draft · Biocompatibility (ISO 10993) · Sterilisation validation
+
+STED submission format and version control
+​
+The STED submitted to MFDS must include:
+​
+• Document version number and date
+• Table of contents with section numbering
+• Revision history documenting all changes from previous versions
+• Cross-references between sections
+• Index of referenced standards and test reports
+• Korean-language executive summary (1–2 pages)
+​
+Electronic submission via the MFDS portal requires PDF format with searchable text. Large documents (>50 MB) should be divided into logical sections for review.

@@ -27,6 +27,8 @@ From **23 March 2026**, all applicable medical devices (AMDs) procured by the De
 | Submit MDACS listing via MDIS | ☐ |
 | Receive HKMD number before 23 March 2026 | ☐ |
 
-:::warning Timeline matters
-Standard route Class III/IV reviews can take 3–6+ months. Submit well in advance. Use the expedited reliance scheme if you have a reference-country approval.
+:::warning Timeline Recommendations
+Standard route Class III/IV reviews typically take 3–6+ months from MDIS submission. Submit well in advance of the 23 March 2026 deadline. Expedited reliance pathways may be available if you hold reference-country approvals (CE, FDA, TGA, PMDA).
 :::
+
+Note: AMD refers to Applicable Medical Devices — those subject to MDACS listing under Stage C (Class II, III, IV general devices and Class B, C, D IVDs).

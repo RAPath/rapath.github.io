@@ -61,3 +61,7 @@ BPOM conducts market surveillance on products within its mandate. For devices, t
 - **BPOM website**: [www.pom.go.id](https://www.pom.go.id)
 - **e-Registration portal**: [e-reg.pom.go.id](https://e-reg.pom.go.id) (for pharmaceutical products)
 - BPOM publishes regulatory guidance, public alerts, and recall notices on its official website and social media channels
+
+## Key takeaway
+
+"If your device is imported from a manufacturer that has not yet undergone GMP inspection by BPOM, you may be required to arrange a pre-approval inspection before NIE issuance. Additionally, if your device is classified as Class C or D, BPOM may conduct unannounced post-approval inspections at irregular intervals as part of its risk-based inspection programme."

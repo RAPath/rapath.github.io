@@ -25,3 +25,5 @@ See also: [Multi-Market Strategy](/cn/docs/international/multi-market-strategy)
 :::note Disclaimer
 Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [NMPA](https://www.nmpa.gov.cn/) sources before making regulatory decisions. Not affiliated with NMPA or any Chinese Government body. Not legal or regulatory advice.
 :::
+
+This section provides an overview of how China's NMPA framework compares to major international regulatory systems including FDA (USA), EMA (Europe), TGA (Australia), and HSA (Singapore). Use the comparison pages to understand alignment, gaps, and strategic market-entry sequencing for your device.

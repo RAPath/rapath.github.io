@@ -40,3 +40,7 @@ Always verify current MRA status before planning Swiss registration timelines â€
 :::warning Disclaimer
 AI-assisted content for navigation only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
 :::
+
+CH REP Requirement
+
+Manufacturers not established in Switzerland must appoint a single Authorized Representative (CH REP) established in Switzerland. The CH REP is responsible for all communications with Swissmedic, registration updates, and compliance with Swiss requirements. Failure to maintain a CH REP mandate results in mandatory market withdrawal.

@@ -40,3 +40,5 @@ For the definitive, real-time list of new Swissmedic guidance, always check the 
 :::warning Disclaimer
 AI-assisted navigation aid only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
 :::
+
+Swissmedic typically publishes new guidance documents on a quarterly basis, though this varies by topic. Draft guidance documents are typically open for public comment for 4–6 weeks before finalisation.

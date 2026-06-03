@@ -27,7 +27,7 @@ Devices manufactured or imported into New Zealand solely for export — not for 
 Devices supplied solely for use in an authorised clinical investigation are exempt from WAND notification during the investigation period.
 
 ### Devices for evaluation purposes
-Devices provided free of charge and solely for the purpose of evaluation by a healthcare professional (not for patient use) may be exempt.
+Devices provided free of charge and solely for the purpose of evaluation by a healthcare professional (not for patient use, and typically as part of market research or product development) Sponsors should confirm exemption status with Medsafe if uncertain. may be exempt.
 
 ---
 

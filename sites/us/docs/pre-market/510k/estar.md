@@ -15,7 +15,7 @@ eSTAR is FDA's mandatory electronic submission format for 510(k), De Novo, and c
 
 ## What is eSTAR?
 
-**eSTAR (Electronic Submission Template And Resource)** is an interactive PDF-based template system developed by FDA to standardise the format and content of premarket device submissions. Since October 1, 2023, all Traditional and Abbreviated 510(k)s, and De Novo requests, must be submitted using eSTAR.
+**eSTAR (Electronic Submission Template And Resource)** is an interactive PDF-based template system developed by FDA to standardise the format and content of premarket device submissions. Effective October 1, 2023, all Traditional and Abbreviated 510(k)s, and De Novo requests submitted to FDA must use eSTAR format; submissions that do not comply with eSTAR requirements are subject to Refuse to Accept (RTA) decisions.
 
 ---
 
@@ -68,3 +68,5 @@ FDA is transitioning toward fully electronic submissions — check current instr
 
 - [FDA — eSTAR Information](https://www.fda.gov/medical-devices/how-study-and-market-your-device/estar-electronic-submission-template-and-resource)
 - [eSTAR Templates Download Page](https://www.fda.gov/medical-devices/premarket-submissions-selecting-and-preparing-correct-submission/estar-templates)
+
+Transition deadline: As of October 1, 2023, eSTAR is the only acceptable submission format for Traditional 510(k)s, Abbreviated 510(k)s, and De Novo requests. Submissions received before this date using non-eSTAR formats were accepted under the previous system, but all current submissions must comply with eSTAR requirements.

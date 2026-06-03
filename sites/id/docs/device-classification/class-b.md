@@ -46,3 +46,9 @@ Class B follows the **standard registration pathway** via Regalkes. Key features
 ## Halal Labeling Deadline
 
 Class B devices must comply with Halal labeling requirements by **17 October 2029** under Government Regulation 42/2024.
+
+Modify the examples section to read:
+
+Contact lenses (daily wear, non-corrective)
+
+Note: Corrective contact lenses are typically classified as Class C due to their therapeutic function.

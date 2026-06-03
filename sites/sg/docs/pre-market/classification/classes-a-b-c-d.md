@@ -132,3 +132,22 @@ Certain Class C and Class D devices cannot use the [Expedited Class C (ECR)](../
 - [HSA: Risk classification rules and factors](https://www.hsa.gov.sg/medical-devices/registration/risk-classification-rule)
 - [HSA: Risk classification tool](https://www.hsa.gov.sg/medical-devices/registration/risk-classification)
 - [HP(MD) Regulations 2010 — Schedule 1](https://sso.agc.gov.sg/SL/HPA2007-S436-2010)
+
+Class D — highest risk
+
+Class D covers devices with the highest inherent risk, including active implantable devices and devices where malfunction would immediately result in serious harm or death.
+
+General indicators include:
+Active implantable devices (devices powered by an energy source and intended to be wholly or partially implanted, e.g. pacemakers, neurostimulators, cochlear implants);
+Devices intended to contact the central circulatory system or central nervous system on a long-term basis;
+Devices intended to administer medicinal products by a potentially hazardous route or in a manner where there is a direct physiological link to a dangerous situation;
+Devices that incorporate a drug that is itself a registrable therapeutic product and the drug is the primary component;
+All active implantable IVDs and Class D IVDs (e.g. blood donor compatibility testing, blood products screening).
+
+Class D examples:
+Pacemakers and neurostimulators
+Cochlear implants
+Implantable cardioverter-defibrillators (ICDs)
+Drug-eluting stents (where the drug is primary)
+Blood donor compatibility testing IVDs
+Blood products screening IVDs

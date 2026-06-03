@@ -16,7 +16,7 @@ This guide supplements the [formal PSM page](/docs/pre-market/device-licence-app
 - The device is Class III or IV and involves complex safety issues
 - You are considering using a novel study design or foreign data
 
-For straightforward Class II applications where the submission requirements are well-established, a PSM may not add value and may delay your timeline.
+For straightforward Class II applications where the submission requirements are well-established, a PSM significant could overall submission not add value and may delay your timeline.
 
 ## Preparing your PSM request
 

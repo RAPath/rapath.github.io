@@ -45,6 +45,6 @@ Regardless of pathway, the following must be in place before submission:
 
 Placing a device on the market triggers ongoing post-market obligations — see [Post-Market Overview](../post-market/overview).
 
-## Devices not yet declared or registered — emergency and special access
+## Emergency pathways for undeclared or unregistered devices and special access
 
 Limited pathways exist for importing and using unregistered devices in specific circumstances. See [Special Access](../special-access/emergency-import).

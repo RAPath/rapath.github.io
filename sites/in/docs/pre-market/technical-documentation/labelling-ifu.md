@@ -20,3 +20,19 @@ Indian technical documentation requirements are based on the **IMDRF STED** (Sum
 - Post-market surveillance plan.
 
 > **Official source:** Medical Devices Rules 2017, Schedule 4; IMDRF STED guidance
+
+Labelling and IFU Requirements
+
+Under Schedule 4 of the Medical Devices Rules 2017, medical device labels and Instructions for Use must include:
+
+• Device name, model, and batch/serial number;
+• Intended use and user population;
+• Contraindications, warnings, and precautions;
+• Instructions for safe use, storage, and handling;
+• Manufacturer details (name, address, contact information);
+• Regulatory approval/licence number (if applicable);
+• Expiry date or shelf life (if applicable);
+• Sterilisation method and conditions (for sterile devices);
+• Disposal instructions.
+
+Labels must be in English and, where applicable, in local/regional Indian languages. IFUs must be clear, comprehensive, and accessible to the intended user. Labelling specimens must be submitted as part of the technical documentation for pre-market approval.

@@ -65,3 +65,5 @@ Distributor licences are renewed annually via MyMDA. The renewal fee is RM 500.
 :::note Multi-Site Distributors
 If a distributor operates from multiple warehouses or sites, each site may need to be covered by the licence. Confirm with MDA whether separate licences are required for each location.
 :::
+
+Distributors must comply with Good Distribution Practice (GDP) principles as outlined in PIC/S Guide to Good Distribution Practice (or equivalent MDA guidance). This includes maintaining written procedures for temperature monitoring, security, handling of recalls, and record-keeping. MDA may audit distributors to verify GDP compliance during licensing renewal or following serious incidents.

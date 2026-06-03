@@ -95,3 +95,5 @@ HSA follows IMDRF's Principles and Practices for Medical Device Cybersecurity gu
 - [HSA: Innovation Office (Medical Devices)](https://www.hsa.gov.sg/medical-devices/io)
 - [HSA: Guidance documents](https://www.hsa.gov.sg/medical-devices/guidance-documents)
 - [IMDRF: SaMD Working Group documents](https://www.imdrf.org/documents/software-medical-device-samd)
+
+Complete the cybersecurity section. The text ends at 'Post-market cybersecurity monitorin' and should continue with information about cybersecurity monitoring requirements.

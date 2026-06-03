@@ -39,7 +39,7 @@ keywords: [medical device lifecycle, ANVISA, registration, post-market, Brazil]
 
 7. CHANGES & RENEWALS
    └─ Post-registration changes → Petição de Alteração
-   └─ Registration valid for 10 years → renewal required
+   └─ Registration valid for 5 (5-year cycle, not 10-year; 10-year cycle applies to AFE, not product registration) years → renewal required
    └─ AFE renewal on schedule
 ```
 
@@ -56,3 +56,4 @@ keywords: [medical device lifecycle, ANVISA, registration, post-market, Brazil]
 ## Official resources
 
 - [ANVISA — Peticionamento Eletrônico](https://peticionamento.anvisa.gov.br)
+

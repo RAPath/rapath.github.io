@@ -32,7 +32,7 @@ The applicant must hold a valid **LTO** as a manufacturer, importer, or distribu
 - Configuration and variants covered
 
 ### 3. Minimal Technical Dossier
-Class A requires a lighter technical package compared to CMDR:
+Class A requires a lighter technical package compared to CMDR due to the lower-risk profile of Class A devices:
 - Device description and specifications
 - Labelling and IFU compliant with AO 2018-0002
 - Declaration of conformity with essential principles
@@ -59,3 +59,5 @@ The CMDN has a defined validity period. Renew before expiry to maintain uninterr
 ## One Application Per Device
 
 As a general rule, each device requires its own CMDN application. However, exceptions may apply for devices meeting specific shared application conditions — confirm current grouping/shared application rules with CDRRHR.
+
+Confirm with CDRRHR whether grouped or shared CMDN applications are permitted for closely related Class A devices (e.g., multiple variants of the same base device). Current guidance favours separate applications per device, but exception conditions may exist.

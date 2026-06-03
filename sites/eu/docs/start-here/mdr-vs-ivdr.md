@@ -147,3 +147,5 @@ National competent authorities can provide formal opinions. These are not bindin
 | MDR Art. 1(8) | Interaction with medicinal product rules |
 | MDCG 2022-5 | Borderline product guidance |
 | MDCG 2019-11 | Software qualification guidance |
+
+Complete the guidance list: 'MDCG 2022-5 — Borderline manual between MDR and other legislation; MDCG 2019-11 — Software qualification and classification; MDCG 2022-1 — Borderline between medical devices and biocidal products; MDCG 2021-6 — Borderline between medical devices and cosmetics. For additional clarification, contact your national competent authority or consult a qualified regulatory specialist.'

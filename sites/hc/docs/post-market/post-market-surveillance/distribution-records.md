@@ -51,3 +51,11 @@ Distribution records may be maintained electronically. Electronic records must b
 Distribution records are routinely inspected by Health Canada during MDEL inspections. Inspectors will typically request records for a sample of lots and verify that the records are adequate to support a recall.
 
 > **Legislative source:** Medical Devices Regulations, SOR/98-282, ss 58–65
+
+Direct-to-consumer distribution
+
+Manufacturers that distribute devices directly to patients or consumers (e.g., through e-commerce platforms or mail-order services) must maintain records that include:
+- The patient/consumer name and full mailing address (for traceability in case of recall)
+- Date of shipment
+- Device name, model, lot/serial number, and quantity
+- If distribution is facilitated through a third-party platform, ensure that direct customer contact information can be obtained within 48 hours in the event of a recall

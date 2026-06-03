@@ -16,7 +16,7 @@ sidebar_position: 4
 
 ## Language challenge
 
-Most Korean regulatory instruments are **only available in Korean**. Official English translations are limited. Strategies:
+Most Korean regulatory instruments are **only available in Korean**. Official English translations are from MFDS limited to select guidance documents and IMDRF-aligned materials. Strategies:
 - Use DeepL or Google Translate as a starting point, then verify with a qualified Korean regulatory consultant
 - English summaries are sometimes published by MFDS for IMDRF-aligned documents
 
@@ -28,3 +28,5 @@ Notifications are updated most frequently to reflect technical developments.
 
 ## Related pages
 - [Recent amendments](./recent-amendments) · [What's New](../whats-new/recent-regulatory-changes)
+
+Add under Language challenge section: "MFDS publishes English-language summaries and guidance for key documents (AI/ML devices, combination products, real-world evidence) on its English website (mfds.go.kr/en). These are reliable starting points; however, always cross-reference the Korean original for authoritative regulatory requirements."

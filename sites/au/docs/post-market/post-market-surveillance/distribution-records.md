@@ -63,3 +63,5 @@ The progressive introduction of **Unique Device Identification (UDI)** requireme
 
 - [PMS Requirements by Class](./pms-requirements.md)
 - [When a Recall is Required](../recalls-and-field-safety/when-a-recall-is-required.md)
+
+The TGA typically expects distribution records to be provided within 10 business days of a request, although complex supply chains may warrant a longer timeframe by agreement with the TGA. Sponsors should establish processes to retrieve and compile records efficiently to meet regulatory expectations.

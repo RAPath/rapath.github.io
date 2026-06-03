@@ -193,3 +193,5 @@ MHRA also publishes its borderline product assessments, which manufacturers can 
 | MHRA: Borderline products guidance | MHRA published opinions on borderline products |
 | MHRA: Pre-submission meetings | How to request a borderline opinion |
 | EU MDR 2017/745, Annex XVI | Non-medical purpose device provisions (EU & NI only — not GB) |
+
+The section ends with 'where both components contribute to the product's pu' which is incomplete. The full definition and guidance on combination products needs to be completed.

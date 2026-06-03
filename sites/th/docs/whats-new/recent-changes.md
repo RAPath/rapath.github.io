@@ -59,3 +59,5 @@ The Thai FDA Positive List of Class 1 devices eligible for the Listing pathway i
 :::tip 5-year renewal planning
 With all approvals on 5-year cycles, create a renewal tracking calendar. Budget 3–6 months for renewal processing and submit well before expiry.
 :::
+
+Verify and correct the 'Last reviewed' date on the main introduction page (https://rapath.github.io/th/) to reflect the actual review date, not a future date.

@@ -13,7 +13,7 @@ FDA maintains a searchable list of **recognised consensus standards** — intern
 
 ## Searching the FDA Standards Database
 
-**[accessdata.fda.gov/scripts/cdrh/cfdocs/cfStandards/search.cfm](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfStandards/search.cfm)**
+**[accessraw data, provided the standard is on the FDA's recognized consensus standards list.fda.gov/scripts/cdrh/cfdocs/cfStandards/search.cfm](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfStandards/search.cfm)**
 
 Search options:
 - By **standard number** (e.g., ISO 10993-1)
@@ -69,3 +69,5 @@ If you use a standard not on the recognised list, you cannot use the Abbreviated
 - [FDA Standards Database](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfStandards/search.cfm)
 - [FDA — Use of Consensus Standards](https://www.fda.gov/medical-devices/premarket-submissions-selecting-and-preparing-correct-submission/recognition-and-use-consensus-standards)
 - [FDA — Abbreviated 510(k) and Recognised Standards](https://www.fda.gov/media/71980/download)
+
+The FDA Standards Database is updated regularly as new standards are recognized or existing standards are superseded. Always verify the edition recognized by FDA before relying on a standard in your submission — using a non-recognized edition may result in Refuse to Accept or Additional Information requests.

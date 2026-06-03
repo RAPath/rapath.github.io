@@ -37,3 +37,7 @@ For each device, the listing must include:
 ## Official resources
 - [21 CFR § 807.20–807.39](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-H/part-807/subpart-C)
 - [FURLS — Listing Portal](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfrl/rl.cfm)
+
+## Accessing and modifying listings
+
+Manufacturers can view, update, and manage their device listings through FURLS (Federal Unified Registration and Listing System). Changes must be submitted through the same portal and FDA should be notified of any material changes to device information within 30 days.

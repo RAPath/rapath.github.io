@@ -23,3 +23,5 @@ See [SaMD Classification](/docs/pre-market/classification/samd-classification) f
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+For AI/ML-based SaMD, ANVISA requires: documentation of training data sources and characteristics, validation across different patient populations, procedures for algorithm updates and versioning, documented performance monitoring post-market, and change management that triggers new clinical validation if algorithm modifications alter intended use or performance beyond pre-defined parameters.

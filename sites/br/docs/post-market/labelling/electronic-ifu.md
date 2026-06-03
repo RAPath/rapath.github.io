@@ -9,7 +9,7 @@ keywords: [ANVISA, Brazil, medical device]
 
 ANVISA's position on electronic IFU (eIFU) — the delivery of the instructions for use electronically rather than in paper form — is evolving.
 
-As of the date of this site (May 2026), ANVISA has not issued a formal regulation equivalent to the EU's Commission Regulation (EU) No 207/2012 on eIFU for medical devices. However, ANVISA has been consulting on digital health and eIFU topics through its audiências públicas process.
+Currently, ANVISA has not issued a formal regulation equivalent to the EU's Commission Regulation (EU) No 207/2012 on eIFU for medical devices. However, ANVISA has been consulting on digital health and eIFU topics through its audiências públicas process.
 
 **Current practice:** Paper IFU in Portuguese is required for all devices. Where a manufacturer wishes to supplement with an eIFU (e.g., via QR code), this may be done provided the paper IFU remains available and complete. ANVISA should be consulted if a manufacturer wishes to provide eIFU only.
 

@@ -97,3 +97,5 @@ Any SaMD or hardware device with network connectivity (Wi-Fi, Bluetooth, cellula
 3. Engage MDA for a pre-submission meeting if the SaMD classification is uncertain
 4. For AI/ML SaMD: document training data provenance, validation datasets, and performance metrics comprehensively
 5. Plan for post-market software update management from the outset
+
+Complete the Practical Recommendations section: 'Practical Recommendations — Determine if your software meets the Act 737 definition of a medical device. If uncertain, consult MDA before significant investment in development. For SaMD classified as Class C or D, begin conformity assessment and technical file preparation early. Engage with MDA via pre-submission meetings to clarify AI/ML validation expectations. Include comprehensive cybersecurity documentation for any networked SaMD. Use the IMDRF SaMD framework and IMDRF/CYBER WG/N60 as the basis for your technical file. Consider MDSAP eligibility if planning multi-market entry.'

@@ -34,7 +34,7 @@ A Malaysian company or individual manufacturing medical devices in Malaysia must
 
 Malaysian manufacturers must maintain a **Quality Management System (QMS)** meeting the requirements of:
 
-- **ISO 13485:2016** — Medical devices — Quality management systems
+- **ISO 13485:2016** — Medical devices — Quality management (or later version) systems. Note: ISO 13485:2024 was published in December 2023 and may be recognised by MDA; verify current acceptable versions with MDA.
 - **MDA's GMP guidelines** for medical devices
 - Malaysian Standard **MS ISO 13485** (equivalent to international standard)
 
@@ -78,3 +78,5 @@ The manufacturer licence must be renewed **annually**. Renewal requires:
 :::warning Licence Expiry
 If a manufacturer licence lapses, all associated device registrations are at risk of suspension. Set reminders for annual renewal — the MDA portal sends notifications but do not rely solely on these.
 :::
+
+Add this paragraph to the 'Annual Renewal' section after the existing renewal requirements:

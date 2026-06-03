@@ -33,3 +33,5 @@ Decree No. 1684 governs **national registration only**. From 1 January 2027, new
 :::info Official source
 Government Decree No. 1684: [government.ru](https://government.ru/)
 :::
+
+Transition from Decree No. 1416: Manufacturers with existing registrations under Decree No. 1416 may continue to maintain and renew those registrations under the national pathway until 1 January 2027. Amendments to existing national registrations may be submitted under Decree No. 1684 rules. However, all new device registrations submitted after 1 January 2027 must follow the EAEU pathway under EEC Decision No. 46.

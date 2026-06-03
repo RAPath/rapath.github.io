@@ -39,3 +39,7 @@ Ministry of Health Orders are published on the official Minzdrav website and in 
 :::info Official source
 Ministry of Health of Russia: [minzdrav.gov.ru](https://minzdrav.gov.ru/)
 :::
+
+(dated [specific date]) — Technical & User Documentation Requirements
+
+(dated [specific date]) — Classification Rules

@@ -50,3 +50,5 @@ Not every aspect of every device is covered by a recognised standard. For gaps:
 - Reference the test report in the dossier
 
 PMDA will question Essential Principles entries that are vague or unsupported. Incomplete checklist entries are one of the most common causes of PMDA queries during application review.
+
+Japan's Essential Principles are specified in Ministerial Ordinance 165 (General Affairs Ministerial Ordinance on Medical Devices and In Vitro Diagnostic Devices). The Essential Principles checklist must be completed in Japanese and submitted as part of every Shonin (approval) application.

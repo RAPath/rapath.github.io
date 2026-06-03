@@ -35,3 +35,5 @@ Most overseas manufacturers entering Japan:
 2. Apply for FMR through the MAH as part of the Shonin/Ninsho application process
 3. Prepare their QMS documentation to demonstrate MO 169 compliance, drawing on their existing ISO 13485 system
 4. Cooperate with PMDA inspections as directed by the MAH
+
+FMR is required for overseas manufacturers of finished devices. Suppliers of components or raw materials to domestic manufacturers may have different requirements; verify with PMDA.

@@ -101,3 +101,5 @@ The QMS must include a programme of **internal audits**:
 - [ISO 13485 Overview](./iso-13485-overview)
 - [SFDA Inspections & Audits](./inspections-audits)
 - [Post-Market Surveillance](../post-market/pms-psur)
+
+SFDA inspection focus: CAPA records are frequently the first documents requested during an SFDA inspection. Incomplete, delayed, or superficial CAPAs are a common finding. Ensure every CAPA record includes a genuine root cause analysis, not just surface-level corrective actions. Document the effectiveness check demonstrating that the corrective action actually resolved the problem.

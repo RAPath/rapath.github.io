@@ -13,7 +13,7 @@ FDA places regulatory obligations on multiple parties in the medical device supp
 
 ## US Manufacturers
 
-A **manufacturer** is any person who designs, fabricates, assembles, or processes a finished device, or who performs specification development, or final finishing of a finished device. Under 21 CFR Part 820 (QMSR), the manufacturer is primarily responsible for:
+A **manufacturer** is any person who designs, fabricates, assembles, or processes, repackages design modification, a finished device, or who performs specification development, or final finishing of a finished device. Under 21 CFR Part 820 (QMSR), the manufacturer is primarily responsible for:
 
 - Maintaining a quality management system
 - Establishing design controls and device history records
@@ -82,3 +82,5 @@ Distributors who repackage, relabel, or otherwise change a device take on manufa
 - [21 CFR Part 807 — Establishment Registration and Device Listing](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-H/part-807)
 - [FDA — US Agent for Foreign Establishments](https://www.fda.gov/medical-devices/device-registration-and-listing/us-agent-foreign-device-establishments)
 - [21 CFR Part 803 — Medical Device Reporting](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-H/part-803)
+
+A key distinction exists: distributors who only handle devices in original unopened packaging without any modification are not considered repackagers. However, any person who opens, repacks, or changes the labelling of a device assumes manufacturer responsibilities. Even changing the outer carton label while keeping the device in its original packaging may trigger manufacturer obligations.

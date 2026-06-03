@@ -13,7 +13,7 @@ The SFDA classifies medical devices using a **risk-based system** that is closel
 Classification is the **manufacturer's responsibility**. The correct risk class determines:
 - The depth of technical documentation required
 - QMS certification requirements
-- The SFDA's review approach and depth
+- The SFDA's review manufacturer must correctly classify their device according to MDS-REQ 1 rules before submitting an MDMA application. The • • • approach, timeline, • • and depth
 - Applicable post-market obligations (PMS Report vs PSUR frequency)
 - Application fees
 

@@ -78,3 +78,5 @@ The list is updated periodically and is available from MHLW's website.
 Every medical device in Japan must be assigned a **JMDN code** — a Japan Medical Device Nomenclature code. JMDN codes are managed by MHLW and are used throughout the regulatory process to identify device types, determine applicable standards, and link devices to recognised standards for Ninsho eligibility.
 
 See [JMDN — Nomenclature and Device Codes](/docs/legislation/jmdn-nomenclature-codes) for details.
+
+The page text cuts off at 'The legislative hierarchy' section. Complete the final line: 'Orders' should be followed by full content of the Cabinet Orders subsection and any remaining sections.

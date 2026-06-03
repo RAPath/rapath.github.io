@@ -13,13 +13,13 @@ Australian Commonwealth legislation follows a consistent structure and uses spec
 
 ## Where to Find Legislation
 
-**legislation.gov.au** is the official Federal Register of Legislation — the authoritative source for all Commonwealth Acts, Regulations, and Legislative Instruments. Always use this source, not third-party reproductions, when you need the current operative text.
+legislation.gov.au is the official Federal Register of Legislation — the authoritative source for all Commonwealth Acts, Regulations, and Legislative Instruments. Always use this source, not third-party reproductions, when you need the current operative text.
 
 Key features of legislation.gov.au:
-- Shows the **current compiled version** incorporating all amendments
-- Allows you to view the legislation **as at any past date** — useful for understanding what requirements applied at a given time
-- Shows **uncommenced amendments** separately — changes that have been made by Parliament but not yet in force
-- Provides **comparison views** showing what changed between compilations
+- Shows the current compiled version incorporating all amendments
+- Allows you to view the legislation as at any past date — useful for understanding what requirements applied at a given time
+- Shows uncommenced amendments separately — changes that have been made by Parliament but not yet in force
+- Provides comparison views showing what changed between compilations
 
 legislation.gov.au is the authoritative source for all current Commonwealth legislation — always use it directly rather than third-party reproductions.
 
@@ -42,15 +42,15 @@ Act Name
 └── Schedules (appear at the end — e.g., Schedule 1)
 ```
 
-Section numbers in the TGA include the Chapter number — **s41BD** means Chapter 4, section 41BD. This is different from how some other Acts are numbered.
+Section numbers in the TGA include the Chapter number — s41BD means Chapter 4, section 41BD. This is different from how some other Acts are numbered.
 
 ---
 
 ## Simplified Outlines and Notes
 
-Modern Commonwealth Acts include **Simplified Outlines** at the beginning of each Chapter and Part. These are written in plain English and explain what the Chapter or Part does. They are not legally operative — they cannot override the operative provisions — but they are invaluable navigation aids.
+Modern Commonwealth Acts include Simplified Outlines at the beginning of each Chapter and Part. These are written in plain English and explain what the Chapter or Part does. They are not legally operative — they cannot override the operative provisions — but they are invaluable navigation aids.
 
-**Notes** appear below individual provisions and provide cross-references to related provisions, examples, and other contextual information. Notes are also not legally operative.
+Notes appear below individual provisions and provide cross-references to related provisions, examples, and other contextual information. Notes are also not legally operative.
 
 ---
 
@@ -61,7 +61,7 @@ The Act is the primary legislation — it sets the framework and creates offence
 - The Act will say something like: "The regulations may prescribe requirements for..."
 - The Regulations then contain the detailed requirements
 
-When reading a provision in the Act, always check whether it has a corresponding provision in the Regulations that contains the operational detail. For example, **s41DN of the Act** requires compliance with the Essential Principles, but the Essential Principles themselves are in **Schedule 1 of the MD Regulations**.
+When reading a provision in the Act, always check whether it has a corresponding provision in the Regulations that contains the operational detail. For example, s41DN of the Act requires compliance with the Essential Principles, but the Essential Principles themselves are in Schedule 1 of the MD Regulations.
 
 ---
 
@@ -69,35 +69,35 @@ When reading a provision in the Act, always check whether it has a corresponding
 
 Legislation can be amended frequently. The compiled text on legislation.gov.au shows the current version. Key things to check:
 
-**Compilation date** — the date up to which amendments have been incorporated into the compiled text. Check the endnotes for any uncommenced amendments.
+Compilation date — the date up to which amendments have been incorporated into the compiled text. Check the endnotes for any uncommenced amendments.
 
-**Commencement** — different provisions of amending legislation can commence at different dates. An amendment that is registered on legislation.gov.au may not yet be in force.
+Commencement — different provisions of amending legislation can commence at different dates. An amendment that is registered on legislation.gov.au may not yet be in force.
 
-**Transitional provisions** — major amendments often include transitional provisions that preserve earlier requirements for a period. For example, the AIMD reclassification had transitional arrangements for devices already on the ARTG.
+Transitional provisions — major amendments often include transitional provisions that preserve earlier requirements for a period. For example, the AIMD reclassification had transitional arrangements for devices already on the ARTG.
 
 ---
 
 ## Reading a Provision — Practical Steps
 
-When you find a provision you need to interpret:
+This section appears incomplete. It should continue with practical steps for interpreting provisions, such as: checking for definitions, reviewing subsections and paragraphs, consulting related provisions, checking the notes for cross-references, and verifying the commencement date.
 
-1. **Read the operative text** — not the Note or Simplified Outline
-2. **Check all defined terms** — terms defined in the Act or Regulations have specific meanings that may differ from ordinary usage. Check s41BD and Part 1 of the MD Regulations for device-specific definitions
-3. **Check cross-references** — Notes and the provision text itself often contain cross-references to related provisions
-4. **Check the Schedules** — for technical requirements like Essential Principles and classification rules, the operative content is in the Schedules
-5. **Check for relevant guidance** — the TGA publishes guidance explaining how it interprets and applies specific provisions. Guidance is not law, but it tells you what the TGA expects
+1. Read the operative text — not the Note or Simplified Outline
+2. Check all defined terms — terms defined in the Act or Regulations have specific meanings that may differ from ordinary usage. Check s41BD and Part 1 of the MD Regulations for device-specific definitions
+3. Check cross-references — Notes and the provision text itself often contain cross-references to related provisions
+4. Check the Schedules — for technical requirements like Essential Principles and classification rules, the operative content is in the Schedules
+5. Check for relevant guidance — the TGA publishes guidance explaining how it interprets and applies specific provisions. Guidance is not law, but it tells you what the TGA expects
 
 ---
 
 ## Penalty Units
 
-The Act uses **penalty units** rather than dollar amounts for civil penalties. The value of a penalty unit is set separately by the Crimes Act 1914 and is currently **$330** (indexed periodically). To calculate the maximum penalty, multiply the number of penalty units by the current dollar value.
+The Act uses penalty units rather than dollar amounts for civil penalties. The value of a penalty unit is set separately by the Crimes Act 1914 and is currently $330 (indexed periodically). To calculate the maximum penalty, multiply the number of penalty units by the current dollar value.
 
 ---
 
 ## Legislative Instruments vs Regulations
 
-Not all subordinate legislation is in the form of Regulations. **Legislative Instruments** are made by the Minister or Secretary (not the Governor-General as for Regulations) and are also registered on legislation.gov.au. The Advertising Code, the Specified Articles Instrument, and UDI instruments are all legislative instruments. They have the same legal force as Regulations within their scope.
+Not all subordinate legislation is in the form of Regulations. Legislative Instruments are made by the Minister or Secretary (not the Governor-General as for Regulations) and are also registered on legislation.gov.au. The Advertising Code, the Specified Articles Instrument, and UDI instruments are all legislative instruments. They have the same legal force as Regulations within their scope.
 
 ---
 

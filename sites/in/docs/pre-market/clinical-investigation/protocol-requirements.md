@@ -20,3 +20,21 @@ Clinical investigations for medical devices in India are governed by **Chapter V
 Form MD-24 (clinical investigation permission) or Form MD-28 (amendment) is submitted via SUGAM, along with a clinical investigation protocol reviewed and approved by a CDSCO-recognised Ethics Committee.
 
 > **Official source:** Medical Devices Rules 2017, Chapter V; ND&CT Rules 2019; [CDSCO](https://cdsco.gov.in)
+
+## Key Protocol Elements
+
+A clinical investigation protocol for medical devices must include:
+
+- Study objectives (primary and secondary endpoints)
+- Detailed device description and its intended use
+- Patient population definition, inclusion/exclusion criteria
+- Study design (e.g., RCT, single-arm, non-comparative)
+- Safety and efficacy assessment methods
+- Statistical analysis plan with justified sample size
+- Interim analysis rules (if applicable)
+- Safety monitoring and stopping rules
+- Data management and quality assurance procedures
+- Insurance/compensation arrangements for study participants
+- Timeline and milestones
+
+CDSCO expects protocols to follow good clinical practice (GCP) principles. Protocols adapted from international studies should be justified for applicability to the Indian patient population.

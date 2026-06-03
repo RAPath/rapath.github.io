@@ -54,3 +54,5 @@ PMDA reviews the application and MHLW makes a decision. Outcomes:
 ## Re-evaluation (re-hyōka)
 
 Re-evaluation (再評価 — saihyōka) is different from re-examination. Re-evaluation is **MHLW-initiated** and can apply to any device class at any time, not just Shonin devices within their re-examination period. MHLW initiates re-evaluation when new safety information emerges that calls into question the benefit-risk profile of an entire device category.
+
+Failure to submit the re-examination application by the deadline may result in automatic suspension of the approval until the application is received. The MAH should submit well before the deadline to allow PMDA adequate review time. If extenuating circumstances prevent timely submission, the MAH should contact PMDA immediately to discuss options.

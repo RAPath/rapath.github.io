@@ -43,3 +43,5 @@ After exhausting administrative appeals, judicial review is available in the Bra
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+Add a note below the fine ranges table:

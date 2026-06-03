@@ -24,7 +24,7 @@ Software qualifies as a medical device if it is:
 1. **Intended** by the manufacturer for a medical purpose (diagnosis, monitoring, treatment, etc.), and
 2. Performs an action that **goes beyond storage, archival, lossless compression, or simple search**
 
-Software that only stores, displays, or transmits data without any processing, interpretation, or transformation of that data into clinical information does **not** qualify as a medical device.
+Software that only stores, displays, or transmits data without any processing, interpretation, or transformation of that data into clinically relevant Examples include Electronic Health Record (EHR) systems, picture archiving and communication systems (PACS) used solely for image storage and retrieval, or laboratory information systems (LIS) that route samples without interpreting results. information does **not** qualify as a medical device.
 
 The MDCG 2019-11 qualification checklist is the primary tool for making this determination:
 
@@ -132,3 +132,5 @@ AI/ML-based SaMD raises specific concerns addressed by MDCG and the EU AI Act:
 | MDCG 2021-24 | MDR Rule 11 classification |
 | MDCG 2019-16 | Cybersecurity guidance |
 | EU AI Act (Reg. 2024/1689) | AI system obligations |
+
+The section "AI and machine learning in SaMD" currently ends with "AI/ML-based SaMD raises sp" and is incomplete. This section should include guidance on: Algorithm transparency and explainability requirements; Training data documentation and validation; Algorithm updating procedures and version control; Bias assessment and mitigation; Continuous monitoring of algorithm performance post-market; Reference to MDCG 2023-1 guidance on qualification and classification of AI/ML-based software as a medical device."

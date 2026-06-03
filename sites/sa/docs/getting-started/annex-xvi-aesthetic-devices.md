@@ -46,7 +46,7 @@ Marketing labelling does not determine regulatory classification. The SFDA asses
 
 ## Borderline determination
 
-If you are uncertain whether your aesthetic or wellness device falls within the regulated scope in Saudi Arabia, request a formal borderline determination from the SFDA via your AR before commencing MDMA preparation. This avoids both unnecessary registration costs and the risk of marketing a device that should have been registered.
+If you are uncertain whether your aesthetic or wellness device falls within the regulated scope in Saudi Arabia, request a formal borderline determination from the SFDA via your Authorized Representative (AR) Submit your request through the GHAD portal with a detailed product description, intended use, technical specifications, and labelling/marketing claims. compliance before commencing MDMA preparation. This avoids both unnecessary registration costs and the risk of marketing a device that should have been registered.
 
 ## Further reading
 

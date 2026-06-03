@@ -14,7 +14,7 @@ The SFDA addresses cybersecurity for connected medical devices within its existi
 
 ## SFDA regulatory approach
 
-The SFDA does not yet have a standalone cybersecurity-specific guidance document (equivalent to the FDA's Cybersecurity Guidance for Medical Devices). Instead, cybersecurity requirements for connected devices are addressed through:
+The SFDA has not yet issued a standalone cybersecurity-specific guidance document, although it references IMDRF N60 and IEC standards in regulatory practice. The FDA's Cybersecurity Guidance for Medical Devices and IMDRF N60 serve as de facto reference frameworks. Instead, cybersecurity requirements for connected devices are addressed through:
 
 - **Essential Principles of Safety and Performance** — connected devices must not introduce unacceptable risks to patients or users, including cybersecurity risks
 - **Risk management (ISO 14971)** — cybersecurity threats must be identified and addressed within the risk management process
@@ -85,3 +85,7 @@ Manufacturers of connected devices should:
 - [AI/ML Guidance](./ai-ml-guidance)
 - [Essential Principles](../technical-documentation/essential-principles)
 - [Risk Management](../technical-documentation/risk-management)
+
+Post-Market Cybersecurity Incident Reporting
+
+Manufacturers of connected medical devices must report cybersecurity incidents that could reasonably affect patient safety or device functionality to the SFDA via the Vigilance system. Incidents should be reported without undue delay; the SFDA expects notification of confirmed security breaches, zero-day exploits affecting deployed devices, and any security updates issued to users. Coordinate with the SFDA on the appropriate severity classification and reporting timeline.

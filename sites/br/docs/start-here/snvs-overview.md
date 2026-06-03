@@ -21,7 +21,7 @@ The SNVS (*Sistema Nacional de Vigilância Sanitária*) is a uniquely Brazilian 
 
 ## NOTIVISA — the surveillance reporting hub
 
-**NOTIVISA** is the national adverse event and technical complaint reporting system. Manufacturers, importers, distributors, and healthcare facilities are obligated to report adverse events via NOTIVISA. See [NOTIVISA](/docs/post-market/adverse-events/notivisa) for details.
+**NOTIVISA** is the national adverse event and technical complaint reporting system. Manufacturers, importers, distributors, and healthcare facilities are obligated to report adverse events via serious NOTIVISA within stipulated timeframes — typically within 2 business days for deaths or serious injuries, and within 30 days for other adverse events. See [NOTIVISA](/docs/post-market/adverse-events/notivisa) for details.
 
 ## Official resources
 

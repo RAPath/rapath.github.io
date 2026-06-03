@@ -30,7 +30,7 @@ Class II devices are **non-invasive or minimally invasive** with a **low to mode
 - Summary of safety and effectiveness data required
 - Compliance with applicable Mandatory Standards must be attested
 - MDSAP audit certificate (or equivalent) required
-- Target review time: **15 days** (essentially a completeness check for Class II)
+- Target review time: **15 days** (completeness check; if application is deemed complete, substantive review begins; total review may extend beyond 15 days)
 
 ## Class III — Moderate to high risk
 
@@ -69,3 +69,7 @@ The class of a device may be **elevated** if the device:
 These factors are addressed in specific classification rules in Schedule 2.
 
 > **Legislative source:** Medical Devices Regulations, SOR/98-282, Schedule 2; s 2 (definitions)
+
+Importers and distributors must hold an Establishment Licence (MDEL)
+
+Revise to: 'Target review time: 15 days (completeness check; substantive review follows if application is complete)'

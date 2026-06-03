@@ -6,27 +6,27 @@ description: All parties in Mexico's medical device supply chain — domestic ma
 
 # Who Needs to Comply?
 
-Every party in Mexico's medical device supply chain has regulatory obligations under the **Reglamento de Insumos para la Salud** and the applicable NOMs. The key roles are defined below.
+Every party in Mexico's medical device supply chain has regulatory obligations under the Reglamento de Insumos para la Salud and the applicable NOMs. The key roles are defined below.
 
 ## Domestic manufacturers
 
 Mexican manufacturers must:
 
-- Hold a **sanitary registration** (*registro sanitario*) for each device they manufacture and market.
-- Comply with **NOM-241-SSA1-2025** (GMP) and maintain a certified or compliant quality management system.
-- Establish a **technovigilance unit** under NOM-240-SSA1-2012.
+- Hold a sanitary registration (registro sanitario) for each device they manufacture and market.
+- Comply with NOM-241-SSA1-2025 (GMP) and maintain a certified or compliant quality management system.
+- Establish a technovigilance unit under NOM-240-SSA1-2012.
 - Submit adverse event reports to COFEPRIS/CNFV within mandated timeframes.
-- Renew registration every **5 years** (subsequent renewals may be granted for up to 10 years from January 2026).
+- Renew registration every 5 years (subsequent renewals may be granted for up to 10 years from January 2026).
 
 ## Foreign manufacturers
 
-Foreign manufacturers cannot hold a Mexican sanitary registration directly. They must appoint a **Mexico Registration Holder (MRH)** — a legally constituted Mexican entity — to act on their behalf. The MRH holds the registration and manages all regulatory interactions with COFEPRIS.
+Foreign manufacturers cannot hold a Mexican sanitary registration directly. They must appoint a Mexico Registration Holder (MRH) — a legally constituted Mexican entity — to act on their behalf. The MRH holds the registration and manages all regulatory interactions with COFEPRIS.
 
 See [Mexico Registration Holder](../mexico-registration-holder/what-is-mrh) for full detail.
 
 ## Mexico Registration Holder (MRH)
 
-The **MRH** is the pivotal role for foreign market access. Key obligations:
+The MRH is the pivotal role for foreign market access. Key obligations:
 
 - Hold the sanitary registration in Mexico.
 - Submit and manage applications, renewals, and modifications via DIGIPRiS.
@@ -34,17 +34,15 @@ The **MRH** is the pivotal role for foreign market access. Key obligations:
 - Report adverse events to CNFV on behalf of the manufacturer.
 - Manage distributor technical agreements (required under NOM-241).
 
-:::warning Choosing your MRH carefully
-The MRH legally owns your registrations. Changing MRH requires a formal transfer process that can take months. Many manufacturers use an independent regulatory firm rather than their commercial distributor to decouple regulatory and commercial relationships.
-:::
+Choosing your MRH carefully: The MRH legally holds the sanitary registration in their name on behalf of the foreign manufacturer (via power of attorney). Changing MRH requires a formal transfer application submitted to COFEPRIS and typically takes 30–90 days to process. Many manufacturers use an independent regulatory firm or contract research organisation rather than their commercial distributor to decouple regulatory and commercial relationships, reducing conflicts of interest.
 
 ## Importers
 
 Importers of medical devices must:
 
 - Ensure the device has valid COFEPRIS sanitary registration (or is legitimately exempt).
-- Hold the relevant **import permit** where required.
-- Comply with the **Aviso de funcionamiento** (notice of operation) for their storage facility.
+- Hold the relevant import permit where required.
+- Comply with the Aviso de funcionamiento (notice of operation) for their storage facility.
 - Maintain distribution records and traceability.
 - Report adverse events to the MRH for onward submission to CNFV.
 
@@ -54,8 +52,8 @@ Distributors must:
 
 - Verify that devices they handle carry valid COFEPRIS registration.
 - Comply with NOM-241 storage and distribution requirements.
-- Maintain a **technovigilance unit** and notify the MRH of any adverse incidents.
-- Hold an **Aviso de funcionamiento** for their warehouse, including a **Responsable Sanitario** (Health Manager).
+- Maintain a technovigilance unit and notify the MRH of any adverse incidents.
+- Hold an Aviso de funcionamiento for their warehouse, including a Responsable Sanitario (Health Manager).
 
 ## Healthcare facilities
 
@@ -70,3 +68,5 @@ Hospitals, clinics, and laboratories are required to:
 - [Mexico Registration Holder — full guide](../mexico-registration-holder/what-is-mrh)
 - [Technovigilance overview](../postmarket/technovigilance-overview)
 - [Quality System — NOM-241](../quality-system/nom-241-overview)
+
+The MRH must designate a Responsable Sanitario (Health Manager) — a qualified professional with appropriate technical and pharmaceutical training — to oversee regulatory compliance and technovigilance activities. This role is mandatory and must be formally registered with COFEPRIS.

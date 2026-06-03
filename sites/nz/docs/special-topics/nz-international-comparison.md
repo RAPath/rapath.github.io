@@ -8,9 +8,9 @@ description: How New Zealand's Medsafe framework sits in the global medical devi
 
 ## Medsafe's international participation
 
-Medsafe participates in the **International Medical Device Regulators Forum (IMDRF)**, the body that coordinates international regulatory harmonisation for medical devices. IMDRF guidance is a key reference for Medsafe in areas not explicitly covered by the Medicines Act 1981.
+Medsafe participates in the International Medical Device Regulators Forum (IMDRF), the body that coordinates international regulatory harmonisation for medical devices. IMDRF guidance is a key reference for Medsafe in areas not explicitly covered by the Medicines Act 1981.
 
-New Zealand's regulatory framework is most closely aligned with the **GHTF (Global Harmonization Task Force)** model — the predecessor to IMDRF — and through that, with the original EU Medical Devices Directive framework.
+New Zealand's regulatory framework is aligned with the GHTF (Global Harmonization Task Force) model, which was succeeded by IMDRF (International Medical Device Regulators Forum). While GHTF informed the original EU Medical Devices Directive, NZ's framework predates and is based on GHTF principles rather than direct EU MDD alignment.
 
 ---
 
@@ -32,11 +32,11 @@ New Zealand's regulatory framework is most closely aligned with the **GHTF (Glob
 
 For manufacturers targeting NZ as part of a broader APAC or global strategy:
 
-**NZ + AU** — the most common pairing. The TTMRA provides a natural bridge. Use a single Sponsor for both markets where possible. Australian TGA evidence directly satisfies NZ conformity requirements.
+NZ + AU — the most common pairing. The TTMRA provides a natural bridge. Use a single Sponsor for both markets where possible. Australian TGA evidence directly satisfies NZ conformity requirements.
 
-**NZ + EU + AU** — CE certification and TGA listing together cover most global market entry evidence needs. NZ WAND notification is then administratively straightforward.
+NZ + EU + AU — CE certification and TGA listing together cover most global market entry evidence needs. NZ WAND notification is then administratively straightforward.
 
-**NZ standalone** — possible but rare. Manufacturers entering NZ without other major market approvals need to be prepared to hold strong technical documentation, as there is no Notified Body or TGA process to generate conformity evidence.
+NZ standalone — possible but rare. Manufacturers entering NZ without other major market approvals need to be prepared to hold strong technical documentation, as there is no Notified Body or TGA process to generate conformity evidence.
 
 ---
 

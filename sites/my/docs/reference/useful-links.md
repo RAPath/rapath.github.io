@@ -58,3 +58,5 @@ description: Official MDA portal, MyMDA system, MOH Malaysia, ASEAN, IMDRF, and 
 :::tip Check MDA Website Regularly
 MDA publishes updated guidance documents, safety alerts, and regulatory information on its website. Subscribe to MDA notifications or check the website monthly to stay current with regulatory developments.
 :::
+
+Replace the ASEAN ACCSQ-MDPWG URL with: 'ASEAN ACCSQ-MDPWG — asean.org/work-streams/asean-standards-quality — ASEAN medical device product working group'

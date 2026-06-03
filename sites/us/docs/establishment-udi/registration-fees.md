@@ -30,3 +30,5 @@ Registration fees are paid through FDA's **FEE** system (Federal eCopy Electroni
 
 ## Official resources
 - [FDA — Registration and Listing Fees](https://www.fda.gov/industry/fda-user-fee-programs/medical-device-user-fee-amendments-mdufa/device-registration-and-listing-fees)
+
+FY2026 fees are effective October 1, 2025 through September 30, 2026. Failure to pay the registration fee by the deadline will result in deactivation of your establishment registration and you will not be permitted to import or distribute devices in the USA.

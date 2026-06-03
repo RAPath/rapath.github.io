@@ -25,7 +25,7 @@ A company may receive inspection visits from ANVISA and the state VISA independe
 
 - State VISA inspectors may have different interpretations of some requirements;
 - A state VISA finding can trigger ANVISA involvement (and vice versa);
-- A state VISA-issued CBPF may be accepted by ANVISA for lower-risk devices in some states.
+- In some states, a state VISA-issued CBPF may be accepted by ANVISA for Class I devices; however, ANVISA inspection and issuance of a federal CBPF is typically required for Class II, III, or IV devices regardless of state VISA involvement.
 
 ## Practical advice
 
@@ -40,3 +40,5 @@ A company may receive inspection visits from ANVISA and the state VISA independe
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+"Although both ANVISA and state VISA apply the same GMP standards, ANVISA holds final authority over national registration decisions. If a state VISA inspection uncovers serious GMP deficiencies, ANVISA may initiate a federal inspection and take precedence in enforcement actions such as facility closure or registration cancellation."

@@ -45,3 +45,7 @@ For the complete, current list always refer directly to [swissmedic.ch](https://
 :::warning Disclaimer
 AI-assisted navigation aid only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
 :::
+
+## Technical Documentation and Conformity Assessment
+
+AI and Machine Learning — Algorithm development, training data documentation, performance monitoring, algorithm change management procedures

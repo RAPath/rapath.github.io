@@ -25,3 +25,23 @@ Apply to MFDS or the Ministry of Science and ICT (depending on the product type)
 
 ## Related pages
 - [MFDS digital health framework](../digital-health-samd/mfds-digital-health-framework) · [Innovative medical device designation](./innovative-medical-device-designation)
+
+Eligibility and application requirements
+​
+Products eligible for sandbox testing must:
+— Represent genuinely novel technology not clearly addressed in existing regulations
+— Have potential for significant public health or clinical benefit
+— Not pose unacceptable safety risks during the testing period
+
+Application materials must include:
+— Detailed product description and technology overview
+— Proposed real-world testing environment and duration (typically 1–3 years)
+— Safety and performance monitoring plan
+— Data collection and reporting obligations
+
+Post-sandbox pathway
+​
+Upon sandbox completion, the product must either:
+— Transition to standard 품목허가 pathway with regulatory guidance informed by sandbox data
+— Seek conditional marketing authorization if appropriate
+— Exit the Korean market if the permanent regulatory pathway is not pursued

@@ -22,19 +22,19 @@ All medical devices submitted for registration in Russia must be supported by cl
 ## What constitutes clinical evidence
 
 Clinical evidence may consist of:
-- Published clinical literature (peer-reviewed studies, systematic reviews)
+- Published clinical literature (peer-reviewed studies, systematic reviews from indexed databases) (must meet international standards, preferably ISO 14155 or equivalent) technological and clinical to a registered device in the GRLS scientifically from post-market surveillance of already-registered devices Clinical data must be presented in a structured Clinical Evaluation Report prepared by a qualified technical expert.
 - Clinical investigation data from studies conducted abroad
 - Equivalent device clinical data (where equivalence can be justified)
 - Post-market clinical follow-up data
 
-However, for innovative devices or where foreign data is considered insufficient, Roszdravnadzor (via the FGBU) may require **local clinical testing in Russia**.
+For innovative devices (those with no registered equivalent in Russia), local clinical testing is mandatory, not discretionary.
 
 ## Innovative devices
 
-For devices **with no registered equivalent in Russia**, a local clinical investigation must be conducted. This means:
+For devices with no registered equivalent in Russia, a local clinical investigation must be conducted. This means:
 1. The manufacturer must design a clinical investigation protocol
-2. **National Ethics Committee** approval must be obtained before starting the investigation
-3. The investigation must be conducted in **approved Russian clinical centres**
+2. National Ethics Committee approval must be obtained before starting the investigation
+3. The investigation must be conducted in approved Russian clinical centres
 4. Results are submitted to Roszdravnadzor as part of Phase 2 of registration
 
 This requirement adds considerable time to the registration process — plan for several additional months at minimum.

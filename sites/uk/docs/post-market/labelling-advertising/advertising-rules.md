@@ -78,3 +78,5 @@ Symposia, exhibitions, and promotional activities directed at HCPs are all subje
 | ASA: CAP Code | Non-broadcast advertising standards |
 | ASA: BCAP Code | Broadcast advertising standards |
 | MHRA: Advertising medical devices | MHRA advertising guidance |
+
+Social media advertising of medical devices must clearly identify the content as advertising and comply with CAP Code requirements. Hashtags, sponsored posts, and influencer partnerships promoting devices are subject to the same substantiation and non-misleading standards as traditional advertising.

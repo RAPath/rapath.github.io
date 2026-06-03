@@ -22,3 +22,5 @@ Field Safety Notices must be in **Portuguese**, clearly describe the safety issu
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+FSCAs must be reported to ANVISA via NOTIVISA and the registration holder must demonstrate that Field Safety Notices have been distributed within a reasonable timeframe to all known distributors and healthcare facilities holding the affected device.

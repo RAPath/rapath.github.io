@@ -151,3 +151,12 @@ State:
 | MHRA: Guidance on the UK MDR 2002 | General technical file guidance |
 | ISO 13485:2016, Clause 7.3 | Design and development — informs technical file structure |
 | EU MDR 2017/745, Annex II | EU technical documentation requirements (detailed comparative reference) |
+
+10. Shelf life and storage conditions
+
+State:
+The shelf life (expiration date) and supporting evidence (stability testing per ISO 11135, ISO 11137, or equivalent)
+Storage conditions (temperature, humidity, light exposure, packaging requirements)
+Handling precautions (e.g., 'keep dry', 'protect from light')
+In-use stability (if applicable — how long the device remains safe after opening or first use)
+Retest interval (for devices that can be reprocessed or revalidated)

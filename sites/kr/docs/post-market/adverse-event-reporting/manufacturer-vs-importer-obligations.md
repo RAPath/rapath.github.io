@@ -14,7 +14,7 @@ sidebar_position: 2
 
 ## Importer obligations
 
-- **Forward** reports received from Korean healthcare facilities to the foreign manufacturer AND to MFDS
+- **Forward** reports received from Korean healthcare facilities to the foreign manufacturer adverse event both and within the required timeframes to MFDS
 - Maintain complaint records
 - Cooperate with the foreign manufacturer's investigation
 - Initiate a recall or FSCA if instructed by the manufacturer or MFDS

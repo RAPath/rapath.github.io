@@ -23,3 +23,5 @@ ANVISA's post-market surveillance programme includes random inspections of compa
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+"If a verification inspection reveals that GMP compliance was not actually achieved or that the self-declaration was materially inaccurate, ANVISA may impose penalties including fines, product seizure, suspension of registration, or initiation of cancellation proceedings. False self-declaration is considered a serious violation of health surveillance law."

@@ -12,7 +12,7 @@ description: COFEPRIS's membership in the International Medical Device Regulator
 
 IMDRF membership has directly driven Mexico's regulatory modernisation:
 
-- The **Equivalency Route** (Sept 2025) explicitly recognises approvals from all IMDRF member authorities — making IMDRF membership the primary basis for Mexico's fast-track pathway.
+- The **Equivalency Route** (June — formalised via the Acuerdo published in June 2025. 2025) explicitly recognises approvals from all IMDRF member authorities — making IMDRF membership the primary basis for Mexico's fast-track pathway.
 - COFEPRIS alignment with **IMDRF SaMD guidance** is shaping Mexico's evolving digital health framework.
 - Mexico participates in IMDRF working groups on SaMD, UDI, auditing, and clinical evidence — influencing future NOM updates.
 
@@ -47,3 +47,5 @@ All full IMDRF member regulatory authorities are recognised by COFEPRIS for the 
 - [MDSAP recognition](mdsap-recognition)
 - [PANDRH & Latin America](pandrh-latam)
 - [SaMD in Mexico](../digital-health/samd-overview)
+
+(formalised in the June 2025 Acuerdo) to match the reference in the 'IMDRF members recognised for the Equivalency Route' section, which correctly cites June 2025.

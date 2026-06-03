@@ -68,3 +68,5 @@ COFEPRIS has undergone significant modernisation since 2024:
 - [Reglamento de Insumos para la Salud](../legislation/reglamento-insumos-salud)
 - [NOMs overview](../legislation/noms-overview)
 - [Who needs to comply?](who-needs-to-comply)
+
+Enforcement mechanisms: COFEPRIS has broad authority to conduct market surveillance, inspect manufacturing and distribution facilities, seize non-compliant devices, impose administrative sanctions, and pursue criminal proceedings for serious violations. Non-compliance with GMP, technovigilance, or registration requirements can result in product seizure, facility closures, and significant financial penalties.

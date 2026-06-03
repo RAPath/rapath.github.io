@@ -22,3 +22,5 @@ The ITA page in this section is a cross-reference. For the full ITA guide, see:
 | **Post-ITA** | Data may be used to support subsequent Device Licence application |
 
 > **Legislative source:** Medical Devices Regulations, SOR/98-282, ss 72–89 (Investigational Testing)
+
+Expand the cross-reference statement: "The full Investigational Testing Authorization (ITA) guidance and submission requirements are located in the Pre-Market → Clinical Evidence section. That comprehensive guide covers protocol requirements, safety reporting obligations (SADE reporting timelines and criteria), study termination procedures, and conversion to Device Licence applications."

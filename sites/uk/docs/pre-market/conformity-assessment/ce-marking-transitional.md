@@ -18,7 +18,7 @@ CE marking acceptance in GB is a policy position implemented through statutory i
 
 Following the UK's exit from the EU, the Government has maintained a transitional policy permitting CE-marked medical devices to continue to be placed on the Great Britain market — rather than requiring immediate UKCA marking.
 
-The current position (as of May 2026):
+The current position (as of June 2024):
 
 > CE-marked medical devices may be placed on the GB market until **30 June 2030**, provided they bear a valid CE mark issued under an applicable EU regulatory framework.
 
@@ -83,7 +83,7 @@ The 2030 deadline will require manufacturers currently relying solely on CE mark
 - Affix UKCA mark
 
 **Option B: Maintain CE marking for GB under a mutual recognition or equivalence arrangement**
-If a UK-EU mutual recognition agreement on medical devices is reached before 2030, CE marking may continue to be accepted in GB beyond 2030 without UKCA marking. As of May 2026, no such agreement is in place. Monitor [What's New](../../whats-new/recent-regulatory-changes) for developments.
+If a UK-EU mutual recognition agreement on medical devices is reached before 2030, CE marking may continue to be accepted in GB beyond 2030 without UKCA marking. As of June 2024, no such agreement is in place. Monitor [What's New](../../whats-new/recent-regulatory-changes) for developments.
 
 **Recommended approach:** Begin UKCA transition planning now. UKAB capacity is limited and demand will increase significantly as 2030 approaches. Early movers will have greater choice of UKAB and faster turnaround.
 

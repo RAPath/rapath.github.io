@@ -21,3 +21,7 @@ For devices with direct or indirect patient contact, MFDS requires a **biocompat
 Surface contacting · External communicating · Implant — combined with contact duration (transient < 24h / short-term ≤ 30 days / long-term > 30 days) determines required tests.
 
 A **biocompatibility evaluation matrix** must be included in the STED. Tests must be conducted by a recognised testing laboratory.
+
+Testing laboratories
+​
+Biocompatibility testing must be performed by laboratories accredited to ISO/IEC 17025 or equivalent. MFDS maintains a list of recognised international and Korean testing laboratories. Test reports must include: laboratory accreditation documentation, test protocol compliance with ISO 10993 standards, raw data summaries, and qualified reviewer certification. Foreign test reports must be accompanied by Korean translations.

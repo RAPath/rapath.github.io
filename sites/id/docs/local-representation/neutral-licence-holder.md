@@ -8,7 +8,7 @@ description: Using an independent third-party licence holder to register devices
 
 ## The Problem with Distributor-Held NIEs
 
-Under Indonesian law, the NIE is issued to a single local entity — and **only that entity** can import and distribute the registered device. When a commercial distributor holds the NIE:
+Under Indonesian law, the NIE is issued to a single local entity — and only that entity can import and distribute the registered device. When a commercial distributor holds the NIE:
 
 - The distributor effectively "owns" your product's access to the Indonesian market
 - If the commercial relationship breaks down, you cannot switch distributors without losing your registration
@@ -21,12 +21,12 @@ This arrangement is convenient for initial market entry but creates serious long
 
 ## What Is a Neutral Licence Holder?
 
-A **neutral licence holder** is an independent Indonesian company — typically a professional regulatory services firm — that:
+A neutral licence holder is an independent Indonesian company — typically a professional regulatory services firm — that:
 
 - Holds the IDAK + CDAKB licences required to register devices
 - Acts as the NIE holder on behalf of the foreign manufacturer
 - Manages all regulatory interactions with Kemenkes (Regalkes submissions, clarifications, renewals, change notifications)
-- Is **separate from** the commercial distributor(s)
+- Is separate from the commercial distributor(s)
 
 The commercial distribution of the product is then handled by one or more distributors under a separate commercial agreement — and these distributors can be changed at any time without affecting the NIE.
 
@@ -36,12 +36,12 @@ The commercial distribution of the product is then handled by one or more distri
 
 | Benefit | Detail |
 |---|---|
-| **Control** | The manufacturer (via contract with the neutral holder) effectively controls the NIE |
-| **Distributor flexibility** | Change distributors freely as your commercial strategy evolves |
-| **Negotiating power** | Distributors cannot hold your registration hostage |
-| **Portfolio management** | Works across multiple distributors and product lines |
-| **Faster entry** | No need to set up a PT PMA — use the holder's existing licences |
-| **Compliance** | Professional neutral holders are expert in Kemenkes requirements and CDAKB maintenance |
+| Control | The manufacturer (via contract with the neutral holder) effectively controls the NIE |
+| Distributor flexibility | Change distributors freely as your commercial strategy evolves |
+| Negotiating power | Distributors cannot hold your registration hostage |
+| Portfolio management | Works across multiple distributors and product lines |
+| Faster entry | No need to set up a PT PMA — use the holder's existing licences |
+| Compliance | Professional neutral holders are expert in Kemenkes requirements and CDAKB maintenance |
 
 ---
 
@@ -49,10 +49,10 @@ The commercial distribution of the product is then handled by one or more distri
 
 A neutral licence holder arrangement requires careful contractual documentation:
 
-- **Licence holder agreement** — defines the responsibilities of the holder, protects the manufacturer's interests, establishes that the manufacturer's instructions govern regulatory decisions
-- **LoA from manufacturer** — formally appoints the neutral holder as LAR for specified devices
-- **Commercial distribution agreement** — separate agreement between the manufacturer (or neutral holder) and the commercial distributor(s)
-- **Exit provisions** — what happens to the NIE if the neutral holder relationship ends (typically: NIE cancellation and re-registration with a new holder; plan this in advance)
+- Licence holder agreement — defines the responsibilities of the holder, protects the manufacturer's interests, establishes that the manufacturer's instructions govern regulatory decisions
+- LoA from manufacturer — formally appoints the neutral holder as LAR for specified devices
+- Commercial distribution agreement — separate agreement between the manufacturer (or neutral holder) and the commercial distributor(s)
+- Exit provisions — define clearly what happens to the NIE if the neutral holder relationship ends. Options typically include: (1) NIE cancellation and fresh registration with a new holder (slower but gives you full control), or (2) transfer of the NIE holder contract to a new neutral licence holder (faster). Document the preferred scenario in your licence holder agreement and plan for implementation 6–12 months before anticipated transition.
 
 ---
 

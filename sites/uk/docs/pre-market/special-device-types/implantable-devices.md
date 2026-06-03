@@ -125,3 +125,5 @@ Implantable devices carry the most stringent post-market obligations:
 | ISO 10993 series | Biological evaluation of medical devices |
 | ISO 5832 series | Metallic materials for surgical implants |
 | ISO 14708 series | Implants for surgery — active implantable devices |
+
+Registry participation — submission of device and safety data to national or international registries (e.g., implant registries) where available. Periodic Safety Update Reports (PSURs) — annual reports summarizing adverse events, complaints, and any changes to the risk-benefit profile. Traceability — maintaining records of device distribution and implantation to enable rapid patient notification in the event of a field action. Design and production changes — notifying MHRA of any changes to the device design or manufacturing process that could affect safety or performance. Recalls and field safety notices — implementing and documenting any corrective actions required as a result of post-market safety issues.

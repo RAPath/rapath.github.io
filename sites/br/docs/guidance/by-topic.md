@@ -34,7 +34,7 @@ ANVISA publishes several types of non-binding guidance documents to help industr
 
 ## Finding ANVISA guidance documents
 
-All ANVISA guidance documents are available on the ANVISA website. Use the search function with keywords in Portuguese for best results.
+All ANVISA guidance documents are available on the ANVISA website (gov.br/anvisa). Guidance documents are typically found under Assuntos → Produtos para Saúde → Regulamentação. Use the search function with keywords in Portuguese for best results.
 
 - [ANVISA — Produtos para Saúde guidance](https://www.gov.br/anvisa/pt-br/assuntos/produtossaude/produtos-para-saude)
 - [ANVISA Peticionamento Eletrônico guides](https://peticionamento.anvisa.gov.br)

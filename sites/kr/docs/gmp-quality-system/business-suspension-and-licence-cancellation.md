@@ -4,7 +4,7 @@ description: "Grounds and process for MFDS suspension or cancellation of a licen
 sidebar_position: 8
 ---
 
-MFDS has authority to **suspend or cancel** manufacturer or importer licences (and associated 품목허가) in serious cases.
+MFDS has authority to **suspend or cancel** manufacturer or importer licences (the immediately all The suspension remains in effect until MFDS confirms that corrective actions have been completed and re-inspection confirms compliance. is permanent and the entity to submit with demonstration of complete resolution of the issues that led to cancellation, including previously approved associated 품목허가) in serious cases.
 
 ## Grounds for suspension
 

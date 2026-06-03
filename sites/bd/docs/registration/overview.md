@@ -91,3 +91,5 @@ Class A devices do not require registration, but this does not mean unregulated 
 - The manufacturer/AR should maintain technical documentation demonstrating compliance
 - Import licence may still be required for commercial importation
 - If a Class A device is later reclassified (e.g., through a change in intended purpose), registration becomes mandatory
+
+If a Class A device is later reclassified to Class B, C, or D, mandatory registration must be obtained before continued distribution in Bangladesh.

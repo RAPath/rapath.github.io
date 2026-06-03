@@ -43,3 +43,13 @@ MAHs must also report adverse events that occur overseas involving the same devi
 - The event may have implications for Japanese patients
 
 MHLW has specific guidance on the reporting timelines for overseas events (generally 15 or 30 days from the MAH becoming aware of the overseas event).
+
+Infection transmission reporting:
+
+When a device is implicated in transmitting an infection to a patient, the event is reportable regardless of whether the infection resulted in serious injury or death. This includes:
+
+- Contamination of the device during manufacture or processing that was not detected before use
+- Device design or material defects that allow bacterial colonization or biofilm formation
+- Failure of a sterilisation process affecting the device
+
+Infection transmission events should be reported within 30 days unless the patient suffered serious injury or death (15-day reporting applies). Coordinate with infection control and hospital epidemiology departments to identify and investigate potential device-related infection clusters.

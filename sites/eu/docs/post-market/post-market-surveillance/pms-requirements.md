@@ -28,7 +28,7 @@ tags: [mdr, ivdr, pms, post-market-surveillance]
 - Determine whether improvements to the device or IFU are needed
 - Ensure the benefit-risk analysis remains positive
 
-PMS is **mandatory for all manufacturers** of all device classes and IVD classes. There is no exemption.
+PMS is **mandatory for all manufacturers** of all device classes and IVD all classes, regardless of conformity assessment route or whether notified body involvement is required. There is no exemption.
 
 ---
 
@@ -192,3 +192,7 @@ This creates the lifecycle loop that is central to MDR/IVDR's approach — the t
 | MDR Annex III | Post-market technical documentation |
 | MDCG 2022-21 | PSUR guidance |
 | MDCG 2020-7 | PMCF plan and evaluation report template |
+
+Complete the IVDR Class A table entry as: 'PMPF: Not required (PMS report suffices)' or 'PMPF: Required — must be justified if not conducted' depending on regulatory intent, and add corresponding explanatory text below the table clarifying the PMPF expectation for Class A devices.
+
+Add complete IVDR Classes B, C, and D requirement tables with the following structure: IVDR Class B — PMS system (Required), PMS plan (Required), PMS report (Required), PMPF (Not required or Required as justified), Notified body review (PMS report reviewed at surveillance); IVDR Class C — similar structure with PSUR required at minimum every 2 years; IVDR Class D — PSUR required at minimum annually.

@@ -19,7 +19,7 @@ ABIMO is the primary trade association for Brazilian medical device and dental e
 - Represents Brazilian industry in IMDRF, ISO, and MERCOSUL technical committees; and
 - Publishes regulatory updates and guidance for members.
 
-### SBCTA — Sociedade Brasileira de Ciência e Tecnologia de Alimentos / health tech associations
+### SBCTA (Sociedade Brasileira de Ciência e Tecnologia de Alimentos) is a food science association and is not a primary representative for medical device manufacturers. Sector-specific medical device associations include ABIIS and ABRIFIBRA for IVD and clinical research support.
 
 Various other sector-specific associations represent IVD manufacturers, radiation equipment companies, and healthcare technology providers.
 
@@ -41,3 +41,5 @@ SINDIMED represents the interests of the medical device industry in labour and i
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+Remove the reference to SBCTA as a health tech association. Instead, add: 'ABIIS (Associação Brasileira da Indústria de Dispositivos Médicos) — represents in vitro diagnostics and medical device manufacturers. ABRIFIBRA (Associação Brasileira de Infraestrutura para a Pesquisa Clínica) — represents clinical research organisations and providers.'

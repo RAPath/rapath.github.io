@@ -31,6 +31,6 @@ ICMED certification validates that a manufacturer's QMS complies with **Schedule
 1. Select an ICMED-accredited certification body from the QCI directory;
 2. Conduct a gap analysis against Schedule 5;
 3. Undergo Stage 1 (documentation review) and Stage 2 (on-site audit);
-4. Receive ICMED certificate (valid 3 years with annual surveillance).
+4. Receive ICMED certificate, valid for 3 years. Certification requires annual surveillance audits to maintain validity.
 
 > **Official source:** [QCI ICMED](https://www.qcin.org/icmed)

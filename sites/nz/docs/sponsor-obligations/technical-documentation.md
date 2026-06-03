@@ -10,7 +10,7 @@ description: What technical documentation Medsafe may request, how to structure 
 
 New Zealand does not prescribe a specific format or content list for technical documentation. There is no "Technical File" equivalent mandated by regulation. However, Medsafe **may request documentation** at any time to verify that a device is safe and performs as intended.
 
-The practical standard is: hold documentation that would satisfy a regulator who knows what good looks like.
+The practical standard is: hold documentation that would satisfy a regulator conducting a compliance audit or post-market investigation.
 
 ---
 
@@ -71,3 +71,5 @@ There is no explicit document retention period prescribed in the WAND Regulation
 - **At least 15 years** for implantable devices
 
 Sponsors should ensure the manufacturer agrees to retain documentation for this period and to provide it to the Sponsor on request even after the commercial relationship ends.
+
+If the manufacturer cannot or will not provide technical documentation, the Sponsor should not proceed. Medsafe may request documentation at any time, and a Sponsor unable to provide it faces regulatory action. The Sponsor agreement must include a contractual obligation on the manufacturer to provide all documentation within a specified timeframe (typically 5–10 working days) and to maintain it for the retention periods specified below.

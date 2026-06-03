@@ -9,7 +9,7 @@ description: A complete reference list of Vietnamese legislation, decrees, and c
 A reference list of the key legislative instruments governing medical devices in Vietnam. All instruments are available in Vietnamese at [vbpl.vn](https://vbpl.vn) and [moh.gov.vn](https://moh.gov.vn).
 
 :::warning Always verify the current version
-Vietnamese regulatory instruments are frequently amended. This list was accurate at the time of writing but may not reflect the latest amendments. Always verify the current consolidated version through official government sources.
+Vietnamese regulatory instruments are frequently amended. This list was accurate at the time of writing but may not reflect the latest amendments. Always verify the current consolidated version through official government sources (vbpl.vn, moh.gov.vn, dav.gov.vn) or consult your Authorised Representative or regulatory counsel to confirm applicability before making compliance decisions.
 :::
 
 ---
@@ -68,3 +68,5 @@ Vietnamese regulatory instruments are frequently amended. This list was accurate
 - **Ministry of Health:** [moh.gov.vn](https://moh.gov.vn)
 - **Drug Administration of Vietnam:** [dav.gov.vn](https://dav.gov.vn)
 - **National Medical Device Information System (DMEC):** [dmec.gov.vn](https://dmec.gov.vn)
+
+Note: Verify current classification guidance on the DMEC portal or DAV website, as classification rules may have been updated by subsequent circulars or DAV guidance documents.

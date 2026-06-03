@@ -50,3 +50,5 @@ Third-party resources such as Pure Global's fee calculator and similar tools pro
 - [Registration renewal](../postmarket/registration-renewal)
 - [DIGIPRiS portal](../getting-started/digiepris-portal)
 - [Useful links](useful-links)
+
+Note: Class II and Class III new registration fees are subject to annual updates in the Ley Federal de Derechos. Current 2025 figures should be verified directly via the DOF or COFEPRIS before submission, as these fees are not published on this reference page.

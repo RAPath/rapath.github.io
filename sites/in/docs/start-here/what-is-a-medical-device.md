@@ -70,3 +70,7 @@ See [What is Not a Medical Device?](/docs/start-here/what-is-not-a-medical-devic
 :::warning Disclaimer
 Always verify the current notified device schedule at [CDSCO](https://cdsco.gov.in). The scope of regulated devices in India is expanding.
 :::
+
+**Combination Products (Drug + Device)**
+
+When a device is integral to or inseparable from a drug, the regulatory classification depends on the primary intended action. If the drug is the primary mode of action, the product is regulated as a drug. If the device function is primary, it may be regulated as a device. CDSCO makes case-by-case determinations for combination products; manufacturers should seek a classification opinion before filing applications.

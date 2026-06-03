@@ -37,3 +37,7 @@ Software medical devices must have an assigned OKPD-2 code. The official OKPD-2 
 :::info Official source
 Roszdravnadzor methodological guidelines on medical software (2018): [roszdravnadzor.gov.ru](https://roszdravnadzor.gov.ru/)
 :::
+
+## Practical notes
+
+Cybersecurity risk assessment is mandatory for all software medical devices and must address data protection, authentication, encryption, and vulnerability management in accordance with GOST R 56956-2016 (Information security in medical devices).

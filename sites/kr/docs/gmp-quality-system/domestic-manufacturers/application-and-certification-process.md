@@ -32,3 +32,7 @@ The KGMP certificate specifies the manufacturing site and the **categories of de
 
 ## Related pages
 - [MFDS on-site GMP inspection](./mfds-on-site-gmp-inspection) · [Certification scope and grading](./certification-scope-and-grading)
+
+## Step-by-step process
+
+## Application requirements

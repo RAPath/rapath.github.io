@@ -41,3 +41,7 @@ IVDs — products used for the in vitro examination of human specimens — are r
 :::warning Disclaimer
 Content is AI-assisted and intended as a navigation aid only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
 :::
+
+## The Legal Definition
+
+"Additionally, products without a medical purpose that are specifically listed in MedDO Annex XVI (such as coloured contact lenses) are also regulated as medical devices under MedDO."

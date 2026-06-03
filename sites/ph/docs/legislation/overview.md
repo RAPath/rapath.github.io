@@ -61,6 +61,10 @@ Circulars are numbered and dated. Always confirm you have the current version �
 - **Chan Robles Virtual Law Library**: Comprehensive repository of Philippines laws
 - **CDRRHR**: [www.fda.gov.ph/center-for-device-regulation-radiation-health-and-research/](https://www.fda.gov.ph/center-for-device-regulation-radiation-health-and-research/) — device-specific guidance
 
-:::info Always check for superseded AOs
-DOH Administrative Orders may be revised or replaced. Always confirm you are referencing the current version before preparing an application.
+:::info Always Check for Superseded AOs
+
+DOH Administrative Orders may be revised or replaced without formal notice in some cases. Always confirm you are referencing the current version before preparing an application by:
+• Checking the FDA Philippines official website (www.fda.gov.ph)
+• Contacting CDRRHR directly if the version date is unclear
+• Downloading fresh templates and documents for each new application
 :::

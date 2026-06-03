@@ -50,3 +50,5 @@ During declared public health emergencies (such as COVID-19), the Minister of He
 :::tip Keep evidence of unavailability
 A key condition for emergency import approval is demonstrating that no registered equivalent is available. Maintain a brief evidence file showing the search you conducted for registered alternatives — this significantly speeds up DAV's assessment.
 :::
+
+For genuine public health emergencies, contact DAV directly (via DMEC or telephone) to flag the urgency; DAV may provide expedited review within 2–5 working days. Standard emergency import applications typically receive DAV response within 10–15 working days, though timelines may vary depending on workload and completeness of submitted documentation.

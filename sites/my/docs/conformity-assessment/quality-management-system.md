@@ -8,7 +8,7 @@ description: ISO 13485 QMS requirements for medical device manufacturers supplyi
 
 ## ISO 13485 as the Standard
 
-**ISO 13485:2016** — *Medical devices — Quality management systems — Requirements for regulatory purposes* — is the internationally recognised QMS standard for medical device manufacturers and is the primary standard accepted by MDA for Malaysian market access.
+ISO 13485:2016 — Medical devices — Quality management systems — Requirements for regulatory purposes — is the internationally recognised QMS standard for medical device manufacturers and is the primary standard accepted by MDA for Malaysian market access.
 
 All manufacturers registering Class B, C, or D devices must provide evidence of ISO 13485 certification as part of their registration dossier.
 
@@ -29,11 +29,17 @@ ISO 13485 specifies requirements for a quality management system that encompasse
 
 ## Scope of Certification
 
-The **scope statement on the ISO 13485 certificate** must cover the activities relevant to the device(s) being registered in Malaysia. For example:
+The scope statement on the ISO 13485 certificate must cover the activities relevant to the device(s) being registered in Malaysia. For example:
 
-- If the manufacturer designs and manufactures the device, the scope must cover design and manufacture
-- If only manufacturing (contract manufacturer), the scope must cover at minimum the manufacturing activities
-- If a sterilisation step is outsourced, the scope should reference sterilisation or the outsourced process must be controlled under the QMS
+Scope of Certification
+​
+The scope statement on the ISO 13485 certificate must comprehensively cover all activities relevant to the device(s) being registered in Malaysia. MDA will verify scope alignment with claimed manufacturing and design activities. Key examples:
+
+If the manufacturer designs and manufactures the device: scope must cover both design and manufacture
+If the company is a contract manufacturer only: scope must cover at minimum manufacturing and all relevant processes (sterilisation, assembly, labelling, etc.)
+If a sterilisation or critical process is outsourced to another facility: scope must explicitly reference that process or include evidence that the outsourced facility holds separate ISO 13485 certification with appropriate scope
+
+Scope gaps are a frequent deficiency. Verify exact scope language matches your manufacturing footprint before submission.
 
 :::warning Scope Mismatch
 MDA reviewers check that the ISO 13485 certificate scope matches the registered device type and manufacturing activities. A mismatch is a common deficiency. Verify scope before submission.
@@ -57,13 +63,13 @@ Check the current MDA website for the up-to-date list of recognised CBs, as reco
 
 ## Certificate Validity
 
-ISO 13485 certificates are typically valid for **3 years**, with annual surveillance audits. Ensure the certificate is **current and not expired** at the time of submission. MDA will not accept expired certificates.
+ISO 13485 certificates are typically valid for 3 years, with annual surveillance audits. Ensure the certificate is current and not expired at the time of submission. MDA will not accept expired certificates.
 
 If a certificate expires during the registration review, provide MDA with evidence of the renewed certificate promptly.
 
 ## Malaysian Manufacturers — GMP Requirements
 
-Malaysian manufacturers are subject to both ISO 13485 and **MDA's GMP requirements**. MDA conducts GMP audits of licensed Malaysian manufacturers. Key GMP expectations include:
+Malaysian manufacturers are subject to both ISO 13485 and MDA's GMP requirements. MDA conducts GMP audits of licensed Malaysian manufacturers. Key GMP expectations include:
 
 - Documented manufacturing procedures
 - Validated processes (sterilisation, cleaning, assembly)
@@ -74,4 +80,6 @@ Malaysian manufacturers are subject to both ISO 13485 and **MDA's GMP requiremen
 
 ## MDSAP — Alternative QMS Evidence
 
-Holders of a current **Medical Device Single Audit Programme (MDSAP) certificate** may be able to use this as supporting QMS evidence, potentially reducing the need for separate Malaysian QMS assessments. See [MDSAP Recognition](./mdsap-recognition).
+Holders of a current Medical Device Single Audit Programme (MDSAP) certificate may be able to use this as supporting QMS evidence, potentially reducing the need for separate Malaysian QMS assessments. See [MDSAP Recognition](./mdsap-recognition).
+
+Note: MDA's acceptance of MDSAP in lieu of ISO 13485 is discretionary and depends on audit scope and outcome. For Class B devices, pre-submission confirmation with MDA is recommended. See MDSAP Recognition for full details.

@@ -45,12 +45,10 @@ When a De Novo request is granted for a novel device, FDA effectively creates a 
 
 ## Impact on existing devices
 
-When a device type is downclassified:
-- Devices approved under PMA may continue to be marketed under the existing PMA
-- New devices of that type may seek 510(k) clearance
+When a device type is downclassified: Devices already approved under PMA may continue to be marketed under the existing PMA (if the manufacturer chooses) or transition to the new pathway. New devices of that type may seek 510(k) clearance using the downclassified type as a predicate.
 
 When a device type is upclassified:
-- Existing PMA-exempt devices receive a **transition period** to submit PMAs
+- Existing PMA-exempt devices receive a transition period to submit PMAs
 - New devices of that type require PMA immediately
 
 ---

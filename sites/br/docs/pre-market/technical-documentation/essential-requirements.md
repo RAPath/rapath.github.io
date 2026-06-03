@@ -18,3 +18,5 @@ Compliance is demonstrated by reference to **harmonised ABNT standards** (creati
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+The Essential Requirements Checklist (also called the Conformity Assessment Report) must be completed for each device and included in the dossier. A template can be obtained from ANVISA or developed based on RDC 751/2022 Annex II. The checklist must show the requirement number, requirement text, applicable ABNT/ISO standards or test data, and the location of supporting evidence in the technical dossier.

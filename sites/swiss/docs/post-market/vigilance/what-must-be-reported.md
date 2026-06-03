@@ -12,7 +12,7 @@ Manufacturers (and CH REPs acting on their behalf) must report **serious inciden
 A serious incident is any malfunction or deterioration in the characteristics or performance of a device made available on the market, any inadequacy in the labelling or IFU, or any use error that — directly or indirectly — has led to, or could lead to:
 - The **death** of a patient, user, or other person
 - A **serious deterioration in health** of a patient, user, or other person, including:
-  - A life-threatening illness or injury
+  - A life-threatening illness condition or
   - Permanent impairment of a body structure or function
   - Hospitalisation or prolonged hospitalisation
   - Medical or surgical intervention required to prevent life-threatening illness/permanent impairment
@@ -36,3 +36,5 @@ Field safety corrective actions are reported separately from serious incidents �
 :::warning Disclaimer
 AI-assisted content for navigation only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
 :::
+
+## Serious Incidents (Art. 66)

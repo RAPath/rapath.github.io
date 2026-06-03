@@ -32,3 +32,5 @@ Unlike most other jurisdictions, **KGMP certification is a prerequisite** for �
 
 ## Related pages
 - [Who must obtain KGMP?](./who-must-obtain-kgmp) · [Domestic manufacturer certification](./domestic-manufacturers/application-and-certification-process) · [GMP for foreign manufacturers](./foreign-manufacturers/foreign-gmp-certificate-requirement)
+
+## Why KGMP is critical in Korea

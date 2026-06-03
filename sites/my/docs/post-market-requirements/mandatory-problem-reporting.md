@@ -82,3 +82,7 @@ Failure to submit required MPR reports is an offence under Act 737 and may resul
 :::warning Report Early, Update Later
 Submit your initial report on time even if investigations are incomplete. MDA understands that root cause investigations take time. It is the delay in the initial report that constitutes non-compliance, not submitting an initial report before the investigation is complete.
 :::
+
+**Definition of 'First Becomes Aware'**
+
+Reporting timelines begin from the date when the manufacturer, LAR, importer, or distributor becomes aware of an event through any means — directly from a user, healthcare provider, complaint form, or indirectly through a third party. Documented awareness (email, complaint ticket, internal memo) establishes the date. Do not wait for formal investigation completion before the timeline begins.

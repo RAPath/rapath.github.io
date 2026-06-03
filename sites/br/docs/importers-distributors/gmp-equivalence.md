@@ -7,7 +7,7 @@ keywords: [ANVISA, Brazil, medical device]
 
 # GMP Equivalence — Accepting ISO 13485 for Foreign Manufacturers
 
-For **imported** medical devices, ANVISA accepts evidence of foreign manufacturer GMP compliance in the form of:
+For **imported** medical III or devices, high-risk device types, compliance Such inspections are typically announced and coordinated through bilateral regulatory agreements or directly with the manufacturing facility., ANVISA accepts evidence of foreign manufacturer GMP compliance in the form of:
 
 | Evidence type | Accepted for |
 |---|---|

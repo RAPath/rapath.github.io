@@ -20,7 +20,7 @@ This site provides general information only and does not constitute legal or reg
 
 ## Role of notified bodies in the EU system
 
-A **notified body (NB)** is a private, independent, third-party organisation that has been assessed and officially designated by a national competent authority to carry out conformity assessment tasks under MDR and/or IVDR. They are the mechanism by which higher-risk devices receive independent technical scrutiny before CE marking.
+A **notified body (NB)** is a private, independent, third-party organisation that has been assessed and officially designated by a national competent authority to carry out conformity assessment tasks under MDR and/or (NCA) IVDR on behalf of manufacturers seeking CE/UKCA marking. They are the mechanism by which higher-risk devices receive independent technical scrutiny before CE marking.
 
 Notified bodies are **not regulators** — they do not approve or refuse to approve devices in the same way a regulatory agency does. Instead, they assess whether a manufacturer has demonstrated compliance with MDR/IVDR requirements, and issue certificates accordingly.
 

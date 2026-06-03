@@ -38,3 +38,7 @@ To be removed from an import alert, the manufacturer typically must:
 ## Official resources
 - [FDA Import Alerts Database](https://www.accessdata.fda.gov/cms_ia/ialist.html)
 - [FDA — Importing Medical Devices](https://www.fda.gov/medical-devices/importing-and-exporting-medical-devices)
+
+## Import alerts
+
+FDA typically notifies the manufacturer via the established US Agent contact when an import alert is placed. The notice includes the reason for the alert and the violations that triggered it. Importers and CBP agents are also informed of the alert through FDA's system.

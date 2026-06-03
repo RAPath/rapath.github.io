@@ -66,7 +66,7 @@ Cybersecurity is not a one-time pre-market exercise. Post-market obligations inc
 
 ## National cybersecurity law context
 
-Vietnam's **Law on Cybersecurity 2018** (Luật An ninh mạng) and associated regulations impose obligations on operators of critical information infrastructure — which includes healthcare. Connected medical devices operating within hospital IT networks may be in scope. Coordinate with hospital IT and security teams to understand the applicable requirements in the deployment context.
+Vietnam's **Law on Cybersecurity 2018** (Luật An ninh mạng, effective 2019) and associated regulations impose obligations on operators of critical information infrastructure — which includes healthcare. Connected medical devices operating within hospital IT networks may be in scope. Coordinate with hospital IT and security teams to understand the applicable requirements in the deployment context.
 
 :::note
 International standards IEC 81001-5-1 (Health software cybersecurity) and AAMI TIR57 (Cybersecurity risk management for medical devices) are the most directly applicable technical standards. IMDRF guidance N60 (Cybersecurity for medical devices) is the key international regulatory reference and provides a solid framework for preparing cybersecurity documentation for Vietnamese DAV submissions.

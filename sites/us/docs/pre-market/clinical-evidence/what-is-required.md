@@ -43,3 +43,5 @@ Per FDA guidance, valid scientific evidence must:
 ## Official resources
 - [FDA — Use of Clinical Information in 510(k)s (Guidance)](https://www.fda.gov/media/105758/download)
 - [21 CFR § 860.7 — Substantial Evidence](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-H/part-860/subpart-A/section-860.7)
+
+When non-clinical data alone may be sufficient: For devices with proven predicate equivalence, bench testing, biocompatibility testing, software validation, and sterilization validation may adequately support substantial equivalence without clinical data. This is most common for Class I devices and low-risk modifications to Class II devices.

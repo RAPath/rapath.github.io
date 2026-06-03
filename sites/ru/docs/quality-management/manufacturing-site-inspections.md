@@ -8,7 +8,7 @@ description: Russia's mandatory manufacturing site QMS inspection process — ho
 
 ## Background
 
-Since **September 2022**, Russia introduced a requirement for manufacturing site QMS inspections as part of the national registration process for higher-risk devices. Following a transition period, this became **fully mandatory from 1 January 2024** for new registrations and most amendments for Class IIa sterile, IIb, and III devices.
+Since **September 2022**, Russia introduced a requirement for manufacturing site QMS inspections as part of the national registration process for higher-risk devices. Following a transition period, this became **fully mandatory from 1 January 2024** for new registrations and certain (not all amendments may require a new inspection — this depends on the nature and scope of the change) amendments for Class IIa sterile, IIb, and III devices.
 
 This inspection is separate from and in addition to ISO 13485 certification by a third-party certification body.
 
@@ -52,3 +52,5 @@ Plan for QMS inspection **before preparing the registration submission**. Schedu
 - Decree No. 135: [government.ru](https://government.ru/)
 - Decree No. 136: [government.ru](https://government.ru/)
 :::
+
+QMS inspections must be conducted by organizations designated or recognized by Roszdravnadzor. In some cases, accredited certification bodies may conduct inspections that meet the regulatory requirement, but confirmation should be obtained from Roszdravnadzor or the applicant's RUS REP.

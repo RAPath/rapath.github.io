@@ -60,3 +60,7 @@ All official guidance is available on the **[Health Canada guidance documents pa
 :::info Official source
 [Health Canada — Guidance Documents for Medical Devices](https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/application-information/guidance-documents.html)
 :::
+
+## Device Licence applications
+
+"Guidance on Bilingual Labelling Requirements — English and French labelling requirements for all devices sold in Canada"

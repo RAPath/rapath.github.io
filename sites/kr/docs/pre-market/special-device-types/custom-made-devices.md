@@ -12,9 +12,9 @@ A custom-made device is manufactured per written prescription from a qualified p
 - Adverse event reporting
 
 ## Requirements
-- Made **specifically for a named patient** per professional's written prescription
+- Made specifically for a named patient per professional's written prescription
 - Cannot be mass-produced
-- Records kept for at least **10 years** per device
+- Records kept for at least 5 years per device, or longer if required by applicable standards
 
 ## Common examples
 Orthopaedic implants (patient-specific) · Dental prostheses · Custom-moulded hearing aids

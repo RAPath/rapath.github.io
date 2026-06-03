@@ -36,3 +36,5 @@ The full text of Federal Law No. 323-FZ is publicly available (in Russian) via:
 :::info Official source
 Federal Law No. 323-FZ (Russian text): [base.garant.ru/12180860/](https://base.garant.ru/12180860/)
 :::
+
+Federal Law No. 323-FZ was signed into law on November 21, 2011. Major amendments have been introduced periodically, including updates related to the introduction of QMS inspections (2022) and changes to post-market surveillance requirements.

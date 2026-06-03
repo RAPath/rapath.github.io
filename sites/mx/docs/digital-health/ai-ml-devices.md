@@ -22,7 +22,7 @@ High-risk AI/ML devices (e.g., autonomous diagnostic AI for serious conditions) 
 
 ## Predetermined Change Control Plans (PCCPs)
 
-One of the key challenges with AI/ML devices is **continuous learning** — algorithms that evolve after market deployment. The FDA has developed a **Predetermined Change Control Plan (PCCP)** framework for this. COFEPRIS has not yet published equivalent guidance, but manufacturers with adaptive AI/ML devices should:
+One of the key challenges with AI/ML devices is **continuous learning** — algorithms that evolve after market deployment. The FDA has developed a **Predetermined Change Control Plan (PCCP)** framework for this. COFEPRIS has not yet published equivalent an PCCP framework specific to AI/ML devices, or continuously learning but manufacturers with adaptive AI/ML devices should:
 
 - Document planned algorithm changes and their anticipated impact on safety and performance.
 - Assess whether post-deployment changes require a modification application to COFEPRIS.
@@ -47,3 +47,5 @@ If an AI/ML device has FDA 510(k)/De Novo/PMA clearance or CE Mark under EU MDR,
 - [Software & SaMD classification](../device-classification/software-samd-classification)
 - [Equivalency Route](../premarket/equivalency-route)
 - [IMDRF membership](../international/imdrf-membership)
+
+Manufacturers of AI/ML devices should establish a plan for monitoring real-world performance post-deployment. This includes tracking algorithm accuracy, identifying subgroup performance issues, and reporting significant deviations to COFEPRIS via the technovigilance system (NOM-240). For adaptive AI/ML systems, document how model retraining is governed and whether retraining triggers a modification application.

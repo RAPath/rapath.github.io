@@ -40,7 +40,7 @@ For standard route submissions, COFEPRIS permits use of a designated pre-approvi
 - Ensure all uploaded documents are in **Spanish** or are accompanied by **officially certified translations**.
 - Check COFEPRIS's current list of accepted homoclave codes before submitting — codes are periodically updated.
 - Keep proof of fee payment (pago de derechos) on file; this is required as part of the submission.
-- DIGIPRiS may time out during long sessions — save work frequently.
+- DIGIPRiS may time out after extended periods of inactivity — save work frequently and consider breaking large dossier uploads into multiple sessions to avoid timeout errors.
 
 ## Related pages
 
@@ -48,3 +48,5 @@ For standard route submissions, COFEPRIS permits use of a designated pre-approvi
 - [Equivalency Route](../premarket/equivalency-route)
 - [Registration fees & timelines](../premarket/registration-fees-timelines)
 - [Mexico Registration Holder](../mexico-registration-holder/what-is-mrh)
+
+Translation certification: All non-Spanish documents must be accompanied by official certified translations (traducción certificada) prepared by a certified translator (traductor certificado) recognised by COFEPRIS or Mexican authorities. Scanned translations without proper certification stamps will be rejected.

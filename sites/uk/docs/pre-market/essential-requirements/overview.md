@@ -22,7 +22,7 @@ This site provides general information only and does not constitute legal or reg
 
 The **Essential Requirements (ERs)** are the fundamental safety and performance standards that every medical device placed on the GB market must satisfy. They are the legal expression of what "safe and effective" means for a medical device under UK MDR 2002.
 
-Essential Requirements are **outcome-based** — they specify what must be achieved (e.g., "the device must not compromise the clinical condition or safety of patients"), not precisely how to achieve it. Manufacturers have flexibility in the technical means they use to meet each requirement, provided they can demonstrate the required outcome is met.
+Essential Requirements are **outcome-based** — they specify what must be achieved (e.g., "the device must not compromise the clinical condition or safety of patients"), not precisely how to achieve it. Manufacturers have flexibility in the technical means they use to meet each requirement, provided they can demonstrate the required outcome is met through evidence in the technical file. This performance-based approach recognises that multiple valid technical solutions can satisfy a single Essential Requirement.
 
 No device may bear the UKCA mark (or rely on the CE marking transitional acceptance) unless it has been demonstrated to conform with all applicable Essential Requirements.
 

@@ -8,13 +8,13 @@ description: Malaysia's participation in the ASEAN Medical Device Directive (AMD
 
 ## The ASEAN Framework for Medical Devices
 
-ASEAN (Association of Southeast Asian Nations) has developed a regional harmonisation framework for medical devices through the **ASEAN Medical Device Directive (AMDD)**. Malaysia is an active participant in this framework.
+ASEAN (Association of Southeast Asian Nations) has developed a regional harmonisation framework for medical devices through the ASEAN Medical Device Directive (AMDD). Malaysia is an active participant in this framework.
 
 The goal of ASEAN harmonisation is to reduce regulatory barriers within the region, facilitate market access, and align regulatory requirements across member states — while maintaining appropriate safety standards.
 
 ## ASEAN Medical Device Directive (AMDD)
 
-The **AMDD** provides a framework covering:
+The AMDD provides a framework covering:
 
 - Common risk classification system (Classes A–D, aligned with GHTF/IMDRF)
 - Common Essential Principles of Safety and Performance
@@ -23,16 +23,16 @@ The **AMDD** provides a framework covering:
 - Post-market vigilance alignment
 - Mutual information exchange on safety issues
 
-**ASEAN Member States:** Brunei, Cambodia, Indonesia, Lao PDR, Malaysia, Myanmar, Philippines, Singapore, Thailand, Vietnam.
+ASEAN Member States: Brunei, Cambodia, Indonesia, Lao PDR, Malaysia, Myanmar, Philippines, Singapore, Thailand, Vietnam.
 
 ## ASEAN Common Submission Dossier Template (CSDT)
 
-The **CSDT** is the most practically significant output of ASEAN harmonisation for industry. It provides a **common format for registration dossiers** that is accepted by participating ASEAN regulatory authorities, including Malaysia (MDA).
+The CSDT is the most practically significant output of ASEAN harmonisation for industry. It provides a common format for registration dossiers that is accepted by participating ASEAN regulatory authorities, including Malaysia (MDA).
 
 Benefits of using CSDT:
-- **Prepare once, submit across ASEAN** — the same dossier structure can be used for multiple ASEAN country registrations
-- **Reduced translation and reformatting effort** between countries
-- **MDA accepts CSDT-formatted submissions** — it is the recommended dossier format for Malaysia
+- Prepare once, submit across ASEAN — the same dossier structure can be used for multiple ASEAN country registrations
+- Reduced translation and reformatting effort between countries
+- MDA accepts CSDT-formatted submissions — it is the recommended dossier format for Malaysia
 
 ### CSDT Structure
 
@@ -52,18 +52,18 @@ Benefits of using CSDT:
 
 Malaysia adopts ASEAN-agreed technical guidance documents, including:
 
-- **ASEAN Guidelines on Classification of Medical Devices** (based on GHTF SG1)
-- **ASEAN Guidelines on Clinical Evidence** (based on GHTF SG5)
-- **ASEAN Guidelines on Labelling**
-- **ASEAN Guidelines on Post-Market Vigilance**
+- ASEAN Guidelines on Classification of Medical Devices (based on GHTF SG1)
+- ASEAN Guidelines on Clinical Evidence (based on GHTF SG5)
+- ASEAN Guidelines on Labelling
+- ASEAN Guidelines on Post-Market Vigilance
 
 ## AHWP — Asia-Pacific Harmonization Working Party
 
-Malaysia participates in the **Asia Harmonization Working Party (AHWP)**, a broader Asia-Pacific grouping working to align medical device regulation with IMDRF principles across the region. AHWP activities inform MDA's adoption of IMDRF guidance documents.
+Malaysia (through MDA) participates actively in the Asia Harmonization Working Party (AHWP), a strategic Asia-Pacific regulatory coordination body tasked with aligning medical device regulation with IMDRF principles and facilitating regulatory convergence across the region. AHWP activities inform MDA's adoption of IMDRF guidance documents.
 
 ## IMDRF Membership
 
-Malaysia (MDA) is a **full member of IMDRF** (International Medical Device Regulators Forum). IMDRF develops internationally harmonised regulatory documents, which MDA adopts and implements as Malaysian guidance. Key adopted IMDRF documents include:
+Malaysia (MDA) is a full member of IMDRF (International Medical Device Regulators Forum). IMDRF develops internationally harmonised regulatory documents, which MDA adopts and implements as Malaysian guidance. Key adopted IMDRF documents include:
 
 - IMDRF SaMD guidance documents
 - IMDRF MDCE WG clinical evaluation guidance

@@ -20,7 +20,7 @@ This site provides general information only and does not constitute legal or reg
 
 A practical guide to navigating legislation.gov.uk to find, read, and interpret the UK MDR 2002 and its amendments — including the difference between the original and revised (consolidated) text.
 
-## legislation.gov.uk — the authoritative source
+## legislation.gov.uk — the authoritative, legally binding All regulatory compliance decisions should be based on the consolidated text at this site. source
 
 All UK legislation, including the UK MDR 2002 and its amending instruments, is available free of charge at [legislation.gov.uk](https://www.legislation.gov.uk). This is the authoritative source for UK statutory instruments and primary legislation.
 

@@ -21,3 +21,5 @@ NMPA technical guidance documents are published on:
 :::note Disclaimer
 Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [NMPA](https://www.nmpa.gov.cn/) sources before making regulatory decisions. Not affiliated with NMPA or any Chinese Government body. Not legal or regulatory advice.
 :::
+
+This page will provide a categorical index of NMPA guidance documents organized by topic including: software as medical device classification, clinical evaluation methods, quality management systems, risk management, software validation, AI/machine learning applications, post-market surveillance, and device-specific guidance. Each topic will include English summaries of key guidance documents with links to original Chinese sources on CMDE and NMPA websites.

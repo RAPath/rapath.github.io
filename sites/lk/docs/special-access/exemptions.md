@@ -47,3 +47,7 @@ What qualifies as custom-made:
 - Under the written prescription of a clinician
 - Not manufactured in series
 - Not the same design as devices ordinarily available on the market
+
+Waiver Validity and Extension
+
+A Waiver of Registration is typically issued for a specific period aligned with the approved use (e.g., duration of a clinical trial, one-year exhibition permit). The applicant must reapply or seek an extension if the exempt use will continue beyond the original waiver period. Extensions should be requested from NMRA before the waiver expires. If the device is no longer used for the approved exempt purpose, NMRA must be notified immediately and the device must be returned, destroyed, or formally withdrawn.

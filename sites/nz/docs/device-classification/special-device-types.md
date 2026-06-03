@@ -10,7 +10,7 @@ description: Classification and regulatory treatment of SaMD, combination produc
 
 New Zealand currently applies GHTF and IMDRF guidance to determine whether software is a medical device. Rule 11 of Schedule 2 is the primary classification rule for standalone diagnostic/therapeutic software:
 
-- Software that provides diagnostic or treatment decision support is generally **Class IIa** as a minimum
+- Software that provides diagnostic or treatment decision support is generally **Class IIa** as a (e.g., ECG analysis software, clinical calculators) minimum, unless it meets criteria for a higher class under other rules
 - Software that could cause death or irreversible deterioration if it fails is **Class IIb or III**
 - General-purpose clinical software (e.g., electronic health records) is generally **not** a medical device
 
@@ -70,3 +70,7 @@ The reprocessing (cleaning, sterilisation, and reuse) of single-use devices (SUD
 ## Devices incorporating human tissue
 
 Devices that incorporate non-viable human tissue or cells as an integral part are classified as **Class III** (or higher) and require robust technical documentation. The Human Tissue Act 2008 may also apply to the tissue component itself.
+
+A reprocessor should verify whether the original GMDN code remains appropriate for the reprocessed device, or whether a new code is required if the reprocessing process materially changes the device's classification or intended use. WAND notification must reflect the reprocessor as the manufacturer/sponsor.
+
+If a healthcare practitioner manufactures a custom-made device, they may appoint a Sponsor to handle WAND notification on their behalf, or they may act as both manufacturer and Sponsor if they have a New Zealand business registration. Regardless, notification is still required unless the device qualifies for a Schedule 1 exemption.

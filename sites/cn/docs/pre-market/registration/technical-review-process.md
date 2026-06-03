@@ -19,7 +19,7 @@ Application submitted to NMPA
     │
     ▼
 NMPA completeness check (5 working days)
-    │  If incomplete → rejection with written reasons
+    │  If incomplete → return to applicant for resubmission │ (Device enters review queue only after completeness acceptance) with written reasons
     ▼
 CMDE technical review assigned
     │  (up to 60 working days, extendable for complex devices)

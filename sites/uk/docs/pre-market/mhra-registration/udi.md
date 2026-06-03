@@ -30,7 +30,7 @@ A **Unique Device Identifier (UDI)** is a series of numeric or alphanumeric char
 MHRA is phasing in UDI requirements for GB. Unlike the EU MDR/IVDR (which has a fully operational EUDAMED UDI database), the UK's UDI infrastructure is still being developed.
 
 **Current status (as of May 2026):**
-- MHRA requires manufacturers to include UDI on device labels for higher-risk device classes (Class III, AIMD, and certain Class IIb devices) from specified dates
+- MHRA requires manufacturers to include UDI on device labels for higher-risk device classes (Class III, AIMD, and certain Class IIb devices) by implementation that have been progressively delayed. specified dates
 - MHRA has indicated its intention to implement a full UK UDI database (separate from EUDAMED)
 - Specific implementation dates by class are published in MHRA guidance — always check the current position
 

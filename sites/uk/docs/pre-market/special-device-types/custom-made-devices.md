@@ -9,7 +9,7 @@ tags: [uk-mdr, custom-made, special-device-types, pre-market]
 ---
 
 :::note[Regulatory basis]
-Custom-made devices are defined and regulated under **Regulation 3 and Part I, Schedule 3, Annex VIII equivalent of the UK MDR 2002**. The custom-made exemption provides a modified conformity assessment pathway — not a full exemption from regulatory requirements.
+Custom-made devices are defined and regulated under **Schedule 2, Rule 7 and Regulation 3 of the UK MDR 2002, with conformity assessment per Annex VIII equivalent (Schedule 3, Part I)**. The custom-made exemption provides a modified conformity assessment pathway — not a full exemption from regulatory requirements.
 :::
 
 ---
@@ -126,3 +126,5 @@ Manufacturers of custom-made devices must register with MHRA as a manufacturer. 
 | UK MDR 2002, Schedule 3, Annex VIII equivalent | Custom-made device statement requirements |
 | MHRA: Custom-made medical devices guidance | MHRA guidance on custom-made devices |
 | ISO 13485:2016 | QMS — applicable to custom-made device manufacturers |
+
+Manufacturers of custom-made devices are required to register with MHRA as manufacturers on the UK medical device register. Registration is mandatory regardless of whether the device is for the UK market or export-only. A separate device registration is not required for each custom-made device; manufacturer-level registration covering custom-made device activities is sufficient. Manufacturers must provide details of their quality management system, manufacturing premises, and contact information to MHRA.

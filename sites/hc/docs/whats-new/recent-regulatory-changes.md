@@ -5,17 +5,16 @@ description: Recent changes to Health Canada medical device regulation, current 
 ---
 # Recent Regulatory Changes
 
-*Current to May 2026. Always verify against the [Canada Gazette](https://www.canadagazette.gc.ca) and Health Canada's official communications.*
+Current to May 2026. Always verify against the [Canada Gazette](https://www.canadagazette.gc.ca) and Health Canada's official communications.
 
 ---
 
 ## 2025–2026
 
 ### MDSAP audit requirements — ongoing enforcement
-Health Canada continues to require a current MDSAP audit certificate (or equivalent) for all Class II–IV Device Licence applications and amendments. Certificates from all five MDSAP jurisdictions (Canada, USA, Australia, Brazil, Japan) are accepted. Health Canada has confirmed that ISO 13485 certificates alone are no longer sufficient for new Device Licence applications.
+Health Canada continues to require a current MDSAP audit certificate (or equivalent) for all Class II–IV Device Licence applications and amendments. Certificates from all five MDSAP jurisdictions (Canada, USA, Australia, Brazil, Japan) are accepted. Health Canada has confirmed that ISO 13485 certificates alone are no longer sufficient for new Device Licence Class II–IV applications; however, ISO 13485 may still be acceptable as supplementary evidence for Class I devices.
 
-### UDI framework development
-Health Canada has released further consultation documents on its proposed Unique Device Identification (UDI) framework, aligned with the IMDRF UDI framework. Final regulations were anticipated for publication in the Canada Gazette, Part II in 2025–2026. Manufacturers with devices in other UDI jurisdictions (FDA, EU EUDAMED) should begin planning for Canadian UDI requirements. See [UDI Framework](/docs/international/udi-framework).
+Health Canada released further consultation documents on its proposed Unique Device Identification (UDI) framework, aligned with the IMDRF UDI framework. As of May 2026, final regulations remain under development with expected publication in the Canada Gazette, Part II in 2026–2027.
 
 ### SaMD and AI/ML guidance update
 Health Canada released updated guidance on Software as a Medical Device and AI/ML-based medical devices, incorporating IMDRF N23 guidance on SaMD clinical evaluation and new IMDRF guidance on predetermined change control plans for adaptive algorithms. Manufacturers of AI/ML SaMD should review their clinical evidence and PMS plans against the updated guidance.
@@ -40,3 +39,7 @@ This page summarises key changes. For the complete regulatory change history, co
 :::info Official source
 [Canada Gazette — Part II](https://www.canadagazette.gc.ca/rp-pr/p2/index-eng.html) | [Health Canada Medical Devices — What's New](https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/activities/announcements.html)
 :::
+
+This page is updated quarterly to reflect published regulatory changes, consultation closures, and finalized guidance documents. Changes listed here are based on official Canada Gazette publications and Health Canada announcements. For intra-quarter updates, consult the Canada Gazette and Health Canada's What's New page directly.
+
+See also: [UDI Framework](/docs/international/udi-framework)

@@ -27,7 +27,7 @@ The TGA currently accepts evidence from the following comparable overseas regula
 | **MDSAP** | Multi-country | MDSAP certificate (QMS only) |
 | **Japan PMDA** | Japan | PMDA QMS certificate |
 
-The definitive list of accepted documents and their combinations for each device class is set out in the TGA guidance document on use of overseas regulator evidence (updated 1 July 2024):
+The definitive list of accepted documents and their combinations for each device class is set out in the TGA guidance document on use of overseas regulator evidence (updated 1 July 2024). Sponsors should consult this document before preparing applications, as the accepted evidence combinations vary significantly by device class and have been updated to reflect alignment with EU IVDR requirements:
 
 👉 [Use of market authorisation evidence from comparable overseas regulators — TGA guidance (PDF)](https://www.tga.gov.au/sites/default/files/2024-10/use-market-authorisation-evidence-comparable-overseas-regulators-assessment-bodies-medical-devices-including-ivds.pdf)
 

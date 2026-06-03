@@ -24,3 +24,5 @@ Registration holders should have a recall procedure documented in their quality 
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+Add as a new section: "Recall decision timelines: Registration holders must assess reported issues and decide on recall initiation within a reasonable timeframe proportionate to the risk. ANVISA must be notified via Peticionamento Eletrônico within 24 hours of the recall decision for urgent recalls, or without undue delay for non-urgent recalls."

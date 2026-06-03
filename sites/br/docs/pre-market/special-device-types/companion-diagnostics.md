@@ -16,3 +16,5 @@ The CDx must be registered separately from the drug it supports. The registratio
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+The regulatory pathway for CDx depends on its classification (typically Notificação for Class I/II or Registro for Class III/IV IVDs). CDx registrations are reviewed and approved separately from the companion therapeutic product.

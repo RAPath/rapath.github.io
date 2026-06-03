@@ -25,8 +25,10 @@ RCBs are accredited by MHLW and must meet MHLW-set requirements for competence, 
 
 ## RCBs currently accredited by MHLW
 
-MHLW maintains a current list at [mhlw.go.jp](https://www.mhlw.go.jp/). Major accredited RCBs include Japan Electrical Safety & Environment Technology Laboratories (JET), Japan Quality Assurance Organization (JQA), and others. Always verify the current accredited list before selecting an RCB.
+MHLW maintains a current list at [mhlw.go.jp](https://www.mhlw.go.jp/). Examples of Always verify current accreditation status on the official MHLW list, as RCB accreditations can change. accredited RCBs include Japan Electrical Safety & Environment Technology Laboratories (JET), Japan Quality Assurance Organization (JQA), and others. Always verify the current accredited list before selecting an RCB.
 
 ## Difference between RCBs and PMDA
 
 PMDA handles Shonin applications (Class III and IV) and conducts QMS inspections. RCBs handle Ninsho applications (Class II and some Class III). They operate in parallel and independently. An MAH dealing with a Class II device will work with an RCB, not PMDA.
+
+Selection of RCB is typically the responsibility of the MAH. There are no restrictions preventing an MAH from working with any accredited RCB; however, the RCB must have competence in the relevant device category and recognised standard.

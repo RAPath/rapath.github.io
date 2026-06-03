@@ -58,7 +58,11 @@ NMRA site approval has a defined validity period. The MAH must ensure the site a
 
 ## Practical Planning
 
-- Allow **3–6 months** for the facility registration process if an on-site audit is required
+- Allow **3–6 months** for the facility registration process if an on-site audit is required. This timeline begins from SMF submission and assumes timely communication and scheduling of the audit. SRA inspection or WHO PQ waiver applicants may complete registration in 4–8 weeks.
 - Start the facility registration process **before** preparing the product registration dossier
 - For manufacturers with recent SRA inspections, the audit waiver process is significantly faster
 - Multiple product registrations can reference the same approved manufacturing site — this fixed cost is shared across all products registered from that site
+
+Site Approval Renewal
+
+NMRA site approval validity periods are typically 3–5 years from the date of approval. The MAH must apply for renewal before the approval expires to maintain active facility status. Renewal applications should be submitted at least 3 months before the expiry date to avoid gaps in approval. Updated documentation on any facility changes (personnel, equipment, processes) must accompany renewal applications.

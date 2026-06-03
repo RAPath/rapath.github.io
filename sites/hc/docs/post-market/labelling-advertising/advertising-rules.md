@@ -11,7 +11,7 @@ Advertising of medical devices in Canada is regulated under the **Food and Drugs
 
 ## What constitutes advertising
 
-Under the FDA, "advertising" includes any representation by any means for the purpose of promoting the sale of a medical device. This covers:
+Under the Food and Drugs Act, comprehensive definition • (magazines, journals, online ads) • • • (including testimonials and case studies) • or clinical data • or specific indications • Technical summaries and white papers distributed to healthcare professionals "advertising" includes any representation by any means for the purpose of promoting the sale of a medical device. This covers:
 - Print and digital advertisements
 - Trade show displays and demonstrations
 - Sales representative materials and presentations

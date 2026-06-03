@@ -52,3 +52,5 @@ All five MDSAP jurisdictions (Canada, US, Australia, Brazil, Japan) accept MDSAP
 - **Align clinical evidence early** — design studies to meet the most stringent requirements (typically EU MDR Class III/IV), and the Canadian evidence package will be largely satisfied
 - **Plan bilingual labelling from the start** — retrofitting French labelling is costly and delays Canadian registration
 - **Submit in parallel** where possible — Health Canada review timelines are competitive
+
+Expand the PMS requirements row for Canada to: "Guidance only (regulations anticipated) — comprehensive PMS requirements expected to be formally codified in upcoming regulatory amendments"

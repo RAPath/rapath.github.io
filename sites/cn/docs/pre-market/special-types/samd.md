@@ -40,3 +40,5 @@ Refer to [CMDE technical review guidelines](https://www.cmde.org.cn/) specific t
 :::note Disclaimer
 Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [NMPA](https://www.nmpa.gov.cn/) sources before making regulatory decisions. Not affiliated with NMPA or any Chinese Government body. Not legal or regulatory advice.
 :::
+
+SaMD-Specific Requirements: SaMD products are classified based on their intended use and risk level. NMPA recognizes three risk categories: low-risk, medium-risk, and high-risk SaMD. Documentation must include software development lifecycle (SDLC) evidence, cybersecurity risk assessment, software validation and verification (V&V) documentation, and post-market surveillance plans. Refer to CMDE Technical Review Guidance for Software as a Medical Device (SaMD) for detailed dossier requirements by risk category.

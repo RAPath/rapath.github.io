@@ -9,7 +9,7 @@ tags: [mdr, ivdr, fundamentals, lifecycle]
 # Lifecycle of a medical device
 
 :::note Applies to
-**MDR** (Regulation (EU) 2017/745) and **IVDR** (Regulation (EU) 2017/746)
+MDR (Regulation (EU) 2017/745) and IVDR (Regulation (EU) 2017/746)
 :::
 
 :::warning Disclaimer
@@ -20,9 +20,9 @@ This site provides general information only and does not constitute legal or reg
 
 ## Overview
 
-The EU regulatory framework under MDR and IVDR is explicitly **lifecycle-based**. Unlike the MDD/IVDD era, where regulatory engagement was concentrated at the point of initial market access, MDR and IVDR impose continuous, evolving obligations from first design intent through to device discontinuation and decommissioning.
+The EU regulatory framework under MDR and IVDR is explicitly lifecycle-based. Unlike the MDD/IVDD era, where regulatory engagement was concentrated at the point of initial market access, MDR and IVDR impose continuous, evolving obligations from first design intent through to device discontinuation and decommissioning.
 
-Understanding the lifecycle is essential to planning compliance activity, resourcing regulatory functions, and avoiding the common failure mode of treating CE marking as the finish line rather than a milestone.
+Understanding the lifecycle is essential to planning compliance activity, resourcing regulatory functions, and avoiding the common failure mode of treating CE marking as the finish line rather than a checkpoint. Post-market obligations—including surveillance, vigilance reporting, and performance follow-up—often extend the active regulatory burden well beyond initial market entry and continue until device discontinuation.
 
 ---
 
@@ -46,9 +46,9 @@ Phase 6 — Discontinuation & Decommissioning
 
 ## Phase 1 — Design & development
 
-**What happens:** The device concept is defined, requirements established, and the design developed and verified/validated.
+What happens: The device concept is defined, requirements established, and the design developed and verified/validated.
 
-**Key regulatory activities:**
+Key regulatory activities:
 
 | Activity | MDR/IVDR requirement |
 |---|---|
@@ -61,18 +61,15 @@ Phase 6 — Discontinuation & Decommissioning
 | Determine conformity assessment route | Depends on classification |
 | Engage notified body early (if required) | Pre-submission discussions — mandatory for Class III/IIb MDR scrutiny |
 
-**Common mistakes at this phase:**
-- Defining the intended purpose too broadly (triggers higher classification) or too narrowly (limits commercial use)
-- Failing to begin GSPR mapping during design — retrofitting is costly
-- Starting clinical evaluation planning late, making timelines unrealistic
+Common mistakes at this phase: Defining the intended purpose too broadly (may trigger higher classification and conformity assessment burden) or too narrowly (may limit legitimate commercial use and create post-market compliance issues if actual use diverges from the narrow definition)
 
 ---
 
 ## Phase 2 — Pre-market (conformity assessment)
 
-**What happens:** The manufacturer demonstrates that the device meets all applicable requirements and obtains a notified body certificate (where required).
+What happens: The manufacturer demonstrates that the device meets all applicable requirements and obtains a notified body certificate (where required).
 
-**Key regulatory activities:**
+Key regulatory activities:
 
 | Activity | MDR/IVDR requirement |
 |---|---|
@@ -84,8 +81,8 @@ Phase 6 — Discontinuation & Decommissioning
 | Draw up EU Declaration of Conformity | MDR Annex IV / IVDR Annex IV |
 | Assign UDI | MDR Art. 27 / IVDR Art. 24 |
 
-**Timeline considerations:**
-- Notified body timelines for new applications currently range from **12 to 36+ months** depending on NB capacity and device risk class
+Timeline considerations:
+- Notified body timelines for new applications currently range from 12 to 36+ months depending on NB capacity and device risk class
 - Class III MDR devices require the scrutiny procedure (additional ~90 days after NB assessment)
 - IVDR Class C and D devices face the longest timelines due to NB capacity constraints in the transitional period
 
@@ -93,9 +90,9 @@ Phase 6 — Discontinuation & Decommissioning
 
 ## Phase 3 — Market access (CE marking & registration)
 
-**What happens:** The device is CE marked, registered in EUDAMED, and placed on the EU market for the first time.
+What happens: The device is CE marked, registered in EUDAMED, and placed on the EU market for the first time.
 
-**Key regulatory activities:**
+Key regulatory activities:
 
 | Activity | MDR/IVDR requirement |
 |---|---|
@@ -107,7 +104,7 @@ Phase 6 — Discontinuation & Decommissioning
 | Ensure IFU is available in required language(s) | MDR Annex I §23.4 |
 | Establish distribution records system | Required for traceability |
 
-**Who can place the device on the market:**
+Who can place the device on the market:
 - EU-based manufacturer: directly
 - Non-EU manufacturer: only through a designated EU REP
 
@@ -115,11 +112,11 @@ Phase 6 — Discontinuation & Decommissioning
 
 ## Phase 4 — Post-market (PMS, vigilance, PMCF/PMPF)
 
-**What happens:** The device is in active use in the market. The manufacturer continuously monitors safety and performance, reports incidents, updates clinical/performance evaluation, and maintains the technical documentation.
+What happens: The device is in active use in the market. The manufacturer continuously monitors safety and performance, reports incidents, updates clinical/performance evaluation, and maintains the technical documentation.
 
 This phase is ongoing for the entire period the device is on the market — it does not end until the device is discontinued.
 
-**Key regulatory activities:**
+Key regulatory activities:
 
 | Activity | Applies to | Frequency |
 |---|---|---|
@@ -137,9 +134,9 @@ This phase is ongoing for the entire period the device is on the market — it d
 
 ## Phase 5 — Device changes & lifecycle events
 
-**What happens:** The device or its regulatory context changes. This triggers assessment of whether the existing certification remains valid, and whether new conformity assessment is needed.
+What happens: The device or its regulatory context changes. This triggers assessment of whether the existing certification remains valid, and whether new conformity assessment is needed.
 
-**Triggers for regulatory reassessment:**
+Triggers for regulatory reassessment:
 
 | Change type | Likely regulatory impact |
 |---|---|
@@ -153,15 +150,15 @@ This phase is ongoing for the entire period the device is on the market — it d
 | New harmonised standard published | Review for adoption; transition period managed per standard |
 | Regulatory change (new MDR amendment, CS, MDCG guidance) | Impact assessment; timeline for compliance |
 
-Manufacturers must have a documented **change management process** within their QMS that captures these triggers and routes them through appropriate impact assessment.
+Manufacturers must have a documented change management process within their QMS that captures these triggers and routes them through appropriate impact assessment.
 
 ---
 
 ## Phase 6 — Discontinuation & decommissioning
 
-**What happens:** The manufacturer decides to withdraw the device from the market, or ceases to manufacture it. Regulatory obligations continue beyond the last sale date.
+What happens: The manufacturer decides to withdraw the device from the market, or ceases to manufacture it. Regulatory obligations continue beyond the last sale date.
 
-**Key obligations on discontinuation:**
+Key obligations on discontinuation:
 
 | Obligation | MDR/IVDR requirement |
 |---|---|
@@ -174,14 +171,14 @@ Manufacturers must have a documented **change management process** within their 
 | Update EUDAMED | Reflect discontinuation status |
 
 :::caution
-Discontinuation does not end regulatory responsibility. Manufacturers of implantable devices in particular may have ongoing vigilance and field safety obligations for **years or decades** after the last device was placed on the market.
+Discontinuation does not end regulatory responsibility. Manufacturers of implantable devices in particular may have ongoing vigilance and field safety obligations for years or decades after the last device was placed on the market.
 :::
 
 ---
 
 ## The continuous nature of clinical/performance evaluation
 
-One of the most significant shifts under MDR/IVDR from the MDD/IVDD era is that **clinical evaluation (MDR) and performance evaluation (IVDR) are not one-time activities**. They must be:
+One of the most significant shifts under MDR/IVDR from the MDD/IVDD era is that clinical evaluation (MDR) and performance evaluation (IVDR) are not one-time activities. They must be:
 
 - Planned from the outset
 - Updated throughout the device's lifecycle
@@ -230,3 +227,7 @@ Initial clinical/performance evaluation
 | IVDR Art. 78–82 | PMS and PMPF |
 | MDCG 2020-6 | Guidance on sufficient clinical evidence for legacy devices |
 | MDCG 2022-21 | Guidance on PSUR requirements |
+
+Complete Phase 3 with the following addition after the table: 'Timeline considerations: EUDAMED registration must occur before or on the date of placing the device on the market. Economic operators must register in EUDAMED and obtain a Single Registration Number (SRN) before making the device available. Delay in EUDAMED registration prevents lawful market access, even if CE marking and technical documentation are complete.'
+
+Phase 4 — Post-market (PMS, Vigilance, PMCF/PMPF): What happens: The device is now on the market. The manufacturer monitors safety and performance, reports adverse events to competent authorities, and (for higher-risk classes) conducts post-market clinical/performance follow-up. Key regulatory activities: [table with: Implement PMS/Vigilance system, Conduct PMCF (MDR) / PMPF (IVDR), Prepare PSUR (MDR Class IIb/III and IVDR Class C/D), Respond to competent authority requests, Manage field safety notices and recalls]. Phase 5 — Device changes & lifecycle events: What happens: The device is modified, the intended purpose changes, or the manufacturer's details change. Key regulatory activities: [table with: Assess change impact on classification, Update technical documentation, Re-notify body if required, Amend DoC, Update EUDAMED registration, Communicate changes to users/distributors]. Phase 6 — Discontinuation & decommissioning: What happens: The device is withdrawn from the market, either permanently or temporarily. Key regulatory activities: [table with: Notify competent authorities, Manage existing stock, Arrange device collection/destruction, Retain technical file for required period (10–15 years), Handle post-market data and complaints until retention period expires].

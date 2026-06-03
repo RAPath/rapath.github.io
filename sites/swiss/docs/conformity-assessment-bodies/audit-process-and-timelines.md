@@ -12,7 +12,7 @@ description: Notified body audit process and indicative timelines — initial ce
 | NB document review (completeness check) | 4–8 weeks |
 | NB technical review (QMS documentation) | 8–16 weeks |
 | Technical documentation assessment (Class III) | Add 6–12 months |
-| On-site QMS audit | 1–5 days on-site |
+| On-site QMS audit | 2–5 (typically 3 days for initial certification; scope and complexity determine duration) days on-site |
 | NB questions / deficiency requests | Variable (1–3 rounds) |
 | Certificate issuance | Total: 12–24+ months (Class III) |
 
@@ -31,3 +31,4 @@ Full technical documentation review for each Class III device or device group. M
 :::warning Disclaimer
 AI-assisted navigation aid only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
 :::
+

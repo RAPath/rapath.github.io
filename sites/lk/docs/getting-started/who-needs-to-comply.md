@@ -32,7 +32,7 @@ The **MAH** is a Sri Lanka-based entity — company or individual — that carri
 | Distribution | Oversee Sri Lankan distribution channels |
 | NMRA cooperation | Assist NMRA inspections and investigations |
 
-The MAH model means the local entity has significantly more legal exposure than a typical distributor. Manufacturers should vet potential MAHs carefully and ensure they have the technical capacity to fulfil these obligations.
+The MAH model means the local entity bears full end-to-end regulatory accountability. The MAH is legally responsible for all registration, licensing, post-market vigilance, recalls, and advertising approvals, regardless of who physically handles distribution. Manufacturers should vet potential MAHs carefully for technical competence, legal standing, and financial stability, and ensure they have documented procedures to fulfil each obligation.
 
 ## Importers and Distributors
 

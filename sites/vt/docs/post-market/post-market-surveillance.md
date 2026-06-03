@@ -43,7 +43,7 @@ Vietnamese distributors and the Authorised Representative must forward all compl
 
 ## Periodic summary reports
 
-For Type C and D devices, DAV may request a periodic safety update or PMS summary report. The report should cover:
+For Type C and D devices (registered devices), Type A and B devices (declared devices) are also subject to PMS obligations, though formal periodic reports may not be routinely requested. DAV may request a periodic safety update or PMS summary report. The report should cover:
 - Complaint summary and trend analysis
 - Adverse event reports submitted in the period
 - Any FSCAs or field corrections conducted
@@ -52,7 +52,7 @@ For Type C and D devices, DAV may request a periodic safety update or PMS summar
 
 ## When PMS triggers further action
 
-If PMS analysis reveals a safety signal — an unexpected increase in adverse events, a pattern of complaints pointing to a systemic issue, or a literature report of a previously unrecognised risk — the manufacturer must:
+If PMS analysis reveals a safety signal—such as an unexpected increase in adverse events, a pattern of similar complaints suggesting a systemic issue, or published clinical evidence of a previously unrecognised risk—the manufacturer must:
 1. Conduct a formal risk assessment
 2. Update the risk management file
 3. If the risk is unacceptable → initiate an [FSCA](fsca-recalls)

@@ -69,8 +69,10 @@ A distinctive Thai FDA provision allows importers to **affix Thai labels after i
 ## Promotional Claims
 
 All promotional claims must:
-- Be truthful and not misleading
+- Be truthful and not and marketing materials misleading; and any restrictions in the approval letter; clinical or performance included or published peer-reviewed literature; Not make disease claims or imply efficacy for unapproved indications.
 - Be consistent with the approved intended purpose
 - Be evidence-based — supported by data in the approved dossier
 
 Claims that exceed the approved indication or make unsubstantiated performance claims are prohibited.
+
+Significant labelling changes include: changes to intended purpose statements, safety warnings, contraindications, or usage instructions. Minor changes (e.g., manufacturer contact updates with no safety impact, translations to additional languages) may not require formal variation notification — confirm with MDCD if unclear.

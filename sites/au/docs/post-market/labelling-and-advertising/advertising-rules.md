@@ -98,3 +98,5 @@ The TGA monitors advertising compliance and handles complaints from the public, 
 
 - [Labelling Requirements](./labelling-requirements.md)
 - [Permitted & Prohibited Claims](./permitted-and-prohibited-claims.md)
+
+The final section should be completed with: 'Only ARTG-included medical devices (or devices covered by a specific exemption) can be advertised in Australia. Advertising an unapproved device is a criminal offence. The sponsor is responsible for ensuring that all advertising complies with the Advertising Code and is consistent with the device's ARTG entry and approved intended purpose.'

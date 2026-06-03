@@ -8,14 +8,14 @@ tags: [pre-market,special-types]
 
 # Single-Use Devices
 
-*This page provides a plain English reference for single-use devices requirements under China's NMPA regulatory framework. Full content to be completed during editorial review.*
+This page provides a plain English reference for single-use devices requirements under China's NMPA regulatory framework. Full content to be completed during editorial review.
 
 ---
 
 ## Regulatory basis
 
 Requirements for single-use devices are set out in:
-- **MDSAR 2021** (State Council Order No. 739)
+- MDSAR 2021 (State Council Order No. 739)
 - Relevant NMPA technical guidelines published on [www.cmde.org.cn](https://www.cmde.org.cn/)
 - Applicable YY/T and GB standards
 
@@ -29,14 +29,16 @@ Device type significantly affects classification. Consult the [National Medical 
 
 ## Key obligations
 
-Refer to [CMDE technical review guidelines](https://www.cmde.org.cn/) specific to this device type for the latest dossier requirements.
+Refer to CMDE technical review guidelines available on www.cmde.org.cn for the latest dossier requirements, including labeling specifications, material compatibility documentation, and reprocessing validation (if applicable) specific to single-use devices.
 
 :::tip Official Sources
-- **NMPA** — [www.nmpa.gov.cn](https://www.nmpa.gov.cn/)
-- **CMDE** — [www.cmde.org.cn](https://www.cmde.org.cn/)
-- **NMPA Medical Device Registration Query** — [datasearch.nmpa.gov.cn](https://www.nmpa.gov.cn/datasearch/home-index.html)
+- NMPA — [www.nmpa.gov.cn](https://www.nmpa.gov.cn/)
+- CMDE — [www.cmde.org.cn](https://www.cmde.org.cn/)
+- NMPA Medical Device Registration Query — [datasearch.nmpa.gov.cn](https://www.nmpa.gov.cn/datasearch/home-index.html)
 :::
 
 :::note Disclaimer
 Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [NMPA](https://www.nmpa.gov.cn/) sources before making regulatory decisions. Not affiliated with NMPA or any Chinese Government body. Not legal or regulatory advice.
 :::
+
+Single-Use Device Requirements: NMPA-approved single-use devices (SUDs) are labeled for one use only and must not be reprocessed or reused. Manufacturers must provide clear labeling in Chinese and English stating "Single Use Only" (单次使用). If reprocessing is considered, manufacturers must submit validation data demonstrating safety and effectiveness after reprocessing, and the device must be reclassified accordingly. Documentation of material degradation, sterilization efficacy, and functional performance after simulated reuse is required.

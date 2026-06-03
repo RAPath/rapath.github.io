@@ -24,3 +24,5 @@ Certain provisions affect the supply of medical products to the public.
 ## Proposed Medical Devices Ordinance
 
 Consultation has occurred on a statutory framework. If enacted, listing would become legally mandatory. See [Reform Outlook](/legislation/reform-outlook).
+
+Radiation devices require separate approval under the Radiation Ordinance and are subject to additional inspection and licensing. Submit MDACS applications and Radiation Ordinance applications concurrently; processing timelines are independent. Consult the Radiation Protection Bureau for specific requirements.

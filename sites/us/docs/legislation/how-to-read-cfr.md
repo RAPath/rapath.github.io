@@ -14,7 +14,7 @@ keywords: [how to read CFR, Code of Federal Regulations, Federal Register, eCFR,
 The **CFR** is the official codification of all permanent US federal regulations. It is divided into 50 Titles:
 
 - **Title 21 — Food and Drugs** contains all FDA regulations
-- Medical device regulations are in **Title 21, Chapter I, Subchapter H (Parts 800–898)**
+- Medical device regulations are in **Title 21, Chapter I, Subchapter H (Parts 800–898), with most submissions governed by Parts 807–830 and device classification in Parts 862–892**
 
 ### CFR citation format
 
@@ -83,3 +83,5 @@ CFR is updated to reflect the final rule
 - [eCFR — Title 21](https://www.ecfr.gov/current/title-21)
 - [Federal Register](https://www.federalregister.gov)
 - [govinfo.gov — CFR](https://www.govinfo.gov/app/collection/cfr)
+
+FDA Guidance Documents: FDA issues guidance documents (guidance for industry, guidance for reviewers) that explain how FDA interprets and applies regulations. Guidance is not legally binding but carries significant persuasive authority. FDA guidance can be found on the FDA website by product area or searched by topic at fda.gov/medical-devices/guidance-compliance-regulatory-information.

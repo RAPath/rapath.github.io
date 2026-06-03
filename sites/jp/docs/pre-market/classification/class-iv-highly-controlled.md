@@ -22,7 +22,7 @@ Drug-eluting stents, pacemakers, ICDs (implantable cardioverter defibrillators),
 ## Regulatory pathway — Shonin only
 
 Class IV devices always require full Shonin approval. Key features:
-- Full PMDA scientific review with typically **18–24+ month** standard review timelines
+- Full PMDA scientific review with typically **12–24+ (standard review may be 12–18 months; priority review may be shorter; complex cases may exceed 24 months) month** standard review timelines
 - Comprehensive clinical evidence package required — foreign clinical data may be accepted with appropriate justification
 - QMS inspection of all manufacturing sites (both domestic and foreign) as part of the approval process
 - Conditions on approval are common — e.g. requirements for post-market registry studies
@@ -30,3 +30,5 @@ Class IV devices always require full Shonin approval. Key features:
 ## Re-examination period
 
 Class IV devices are subject to a re-examination period of typically **4–7 years** (varies by device type), during which extensive post-market use-results data must be collected and submitted to MHLW.
+
+For example, many Class IV cardiovascular devices require enrolment in a post-market surveillance registry (e.g. for long-term safety monitoring), and some devices require mandatory physician training before implantation.

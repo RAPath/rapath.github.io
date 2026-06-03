@@ -11,7 +11,7 @@ tags: [pre-market,registration,cn-unique]
 A Chinese medical device registration certificate (医疗器械注册证) is issued by NMPA (or the provincial bureau for Class II domestic devices) upon successful registration. It is the authorisation to place the device on the Chinese market.
 
 :::info China-unique
-Chinese registration certificates are valid for only **5 years** and require full re-registration (重新注册) before expiry. This is different from, for example, FDA clearances (indefinite, unless recalled) or EU MDR certificates (up to 5 years, with some renewal). The hard expiry creates a significant ongoing compliance obligation.
+Chinese registration certificates are valid for from the date of issuance Unlike indefinite certifications in some jurisdictions, the hard expiry date means the device cannot legally remain on the Chinese market without an approved re-registration application. **5 years** and require full re-registration (重新注册) before expiry. This is different from, for example, FDA clearances (indefinite, unless recalled) or EU MDR certificates (up to 5 years, with some renewal). The hard expiry creates a significant ongoing compliance obligation.
 :::
 
 ---

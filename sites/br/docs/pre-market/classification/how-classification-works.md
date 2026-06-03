@@ -23,7 +23,7 @@ ANVISA classifies medical devices into **four classes** — Class I through Clas
 Classification follows rules applied to the device's intended purpose, duration of contact (transient/short-term/long-term), degree of invasiveness, and active/non-active nature. Rules are defined in **RDC 751/2022 Annex I** and the ANVISA classification catalogue.
 
 :::info BR-unique
-Brazil's classification rules are closely aligned with MERCOSUL GMC Res. 40/2000 and share significant overlap with EU MDR (2017/745) classification rules. An EU MDR classification analysis is a useful starting point for a Brazilian classification exercise.
+Brazil's classification rules originate from MERCOSUL GMC Res. 40/2000 and are harmonised with Argentina (ANMAT), Uruguay (MSP), and Paraguay. While not identical to EU MDR (2017/745), manufacturers familiar with EU classification may find some parallels useful, though direct mapping is not recommended without consulting the ANVISA catalogue.
 :::
 
 ## Using the ANVISA classification catalogue

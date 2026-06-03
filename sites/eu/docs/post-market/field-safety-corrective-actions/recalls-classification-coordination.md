@@ -126,3 +126,20 @@ NCAs may request progress updates and can escalate oversight if recall effective
 | IVDR Art. 90 | IVDR NCA corrective action powers |
 | MDCG 2022-14 | FSCA and recall guidance |
 | EN ISO 14971:2019 | Risk assessment for recall decisions |
+
+Complete the final section:
+
+Implanted devices — the most complex recalls
+​
+Recall of implanted devices presents unique challenges:
+
+- Traceability: UDI records at implanting centres must identify which patients received which devices
+- Patient notification: direct communication with patients may be required — not just healthcare institutions
+- Clinical complexity: removal of an implanted device may carry greater risk than leaving it in place; risk-benefit must be carefully assessed
+- Healthcare institution coordination: operating theatres, imaging, and patient management must be coordinated
+- Reimbursement: cost of explantation and replacement is typically borne by the manufacturer
+- Psychological impact: patient distress from learning of a potentially serious defect in an implanted device
+
+Manufacturers should have explantation protocols in place before CE marking high-risk implantable devices, and should maintain a registry of implant recipients to enable rapid patient contact in an emergency.
+
+For Class III and implantable Class IIb devices, the SSCP (summary of safety and clinical performance) in EUDAMED supports rapid identification of devices at risk.

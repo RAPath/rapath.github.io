@@ -51,7 +51,7 @@ The full NOM-241-SSA1-2025 text is available through:
 - **DOF (dof.gob.mx)** — search "NOM-241-SSA1-2025".
 - **COFEPRIS website** — regulatory requirements section for medical devices.
 
-An unofficial English translation of the prior NOM-241-SSA1-2021 version is available from the Inter-American Coalition for Medical Technology (IAMTECH) but is not an official document.
+Unofficial English translations of prior NOM-241 versions may be available from third-party sources, but these are not official documents and should not be relied upon for compliance determinations. Always refer to the official Spanish text published in the DOF.
 
 ## Related pages
 
@@ -59,3 +59,6 @@ An unofficial English translation of the prior NOM-241-SSA1-2021 version is avai
 - [GMP requirements in detail](../quality-system/gmp-requirements)
 - [COFEPRIS inspections](../quality-system/inspections-cofepris)
 - [NOMs overview](noms-overview)
+
+ISO 13485 equivalency – Partial scope coverage:
+Manufacturers with ISO 13485 certification that does not cover all device categories they market in Mexico must ensure the certificate scope explicitly includes the relevant medical device classification(s). If your ISO 13485 certificate excludes certain device types, those devices must still undergo GMP assessment by COFEPRIS or be manufactured under a separate validated system. Confirm scope alignment with your MRH before submission.

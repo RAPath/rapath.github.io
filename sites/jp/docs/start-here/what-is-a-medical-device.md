@@ -36,3 +36,5 @@ Standalone apps and AI-based diagnostic software are the most common examples re
 ## Accessories
 
 Accessories to medical devices can themselves be medical devices if they are intended specifically for use with a regulated device and their use affects safety or performance. The MAH should confirm the classification status of accessories separately from the primary device.
+
+Combination products (drugs with devices, or devices with multiple distinct functions). If a product contains both a pharmaceutical and a device component, or has multiple intended uses that could fall under different regulatory categories, the primary intended use determines classification. Manufacturer should confirm the classification of each component separately and discuss with PMDA if the relationship is unclear.

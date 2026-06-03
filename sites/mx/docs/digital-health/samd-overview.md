@@ -52,3 +52,5 @@ COFEPRIS's SaMD framework is still maturing. Manufacturers with novel SaMD produ
 - [AI/ML devices](ai-ml-devices)
 - [IVD digital & point-of-care software](ivd-digital)
 - [IMDRF membership](../international/imdrf-membership)
+
+Given the evolving SaMD regulatory landscape in Mexico, manufacturers of novel or borderline SaMD products are encouraged to submit a classification request to COFEPRIS via DIGIPRiS before finalising the dossier. Early engagement typically takes 15–30 business days and can prevent delays in the formal registration submission. Include a detailed product description, intended use statement, and technical architecture in the classification request.

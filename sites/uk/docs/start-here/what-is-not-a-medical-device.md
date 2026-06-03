@@ -164,3 +164,5 @@ MHRA also participates in the **Borderline and Classification Section (BCS)** ne
 | UK Biocidal Products Regulation (retained) | Biocidal product framework |
 | MHRA: Borderline products guidance | MHRA guidance on products that may or may not be medical devices |
 | MHRA: Pre-submission meetings | How to request a borderline opinion from MHRA |
+
+The truncated text ends with 'If a supplement makes claims to diagnose, prevent, treat, or alleviate a specific disease, it risks being characterised as an unlicensed medicinal product or a medical device depending on i'. This section must be completed with full criteria for distinguishing between medical devices, medicinal products, and food supplements.

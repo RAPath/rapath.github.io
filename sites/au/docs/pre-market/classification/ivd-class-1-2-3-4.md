@@ -122,3 +122,5 @@ In-house IVDs are IVDs manufactured and used within a single laboratory, not sup
 - [Class I, IIa, IIb, III & AIMD](./class-i-iia-iib-iii-aimd.md)
 - [IVD Medical Devices (Special Types)](../special-devices/ivd-medical-devices.md)
 - [Conformity Assessment Overview](../conformity-assessment/overview.md)
+
+The section ends with 'Self-tests (designed for use by consumers without clinical training) and point-of-care tests (designed for use in near-patient settings such as GP clinics, pharmacies, or emergency departments) are treated as higher risk regardle' — this appears to be truncated. The complete thought should be: 'Self-tests (designed for use by consumers without clinical training) and point-of-care tests (designed for use in near-patient settings such as GP clinics, pharmacies, or emergency departments) are treated as higher risk regardless of the underlying test methodology, as errors in execution or interpretation are more likely when clinical training is absent or limited.'

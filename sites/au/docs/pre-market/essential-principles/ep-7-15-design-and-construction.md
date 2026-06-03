@@ -147,3 +147,16 @@ Essential Principles 7 to 15 are the **design and construction principles** that
 - [EP 1–6 General Principles](./ep-1-6-general-principles.md)
 - [Checklist & Compliance](./checklist-and-compliance.md)
 - [Clinical Evidence](../clinical-evidence/what-is-required.md)
+
+The full EP 11 section should be: 'EP 11 — Protection Against Radiation
+
+Applies to:
+Devices that generate radiation (X-ray equipment, lasers, ultrasound, MRI)
+
+What it requires:
+Devices must be designed and manufactured to minimise exposure to radiation for patients, users, and third parties, while still enabling the device to perform its intended diagnostic or therapeutic function. Unintended radiation must be minimised. Users must be informed about residual radiation risks.
+
+In practice:
+Radiation protection testing and shielding validation must be documented. For diagnostic devices, the principle of As Low As Reasonably Achievable (ALARA) must be applied. Dose measurement and monitoring capabilities must be validated. Warning labels and user training requirements must be specified in labelling and instructions for use.
+
+Relevant standards: IEC 60601-1 series (for electrical safety), device-specific radiation standards (IEC 60601-2-43 for X-ray, IEC 60601-2-22 for laser), ISO 4871 (laser product safety)'

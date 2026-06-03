@@ -69,3 +69,7 @@ If COFEPRIS determines serious non-compliance, it may:
 - [NOM-241 overview](nom-241-overview)
 - [GMP requirements](gmp-requirements)
 - [CAPA & complaint handling](capa-complaint-handling)
+
+## Types of inspection
+
+"Routine inspections of registered manufacturing facilities are typically scheduled once every 2–3 years, though high-risk Class III devices or facilities with prior non-conformities may be inspected more frequently. COFEPRIS publishes an annual inspection schedule in November of the prior year. Importers and distributors may be inspected annually or on a risk-based schedule."

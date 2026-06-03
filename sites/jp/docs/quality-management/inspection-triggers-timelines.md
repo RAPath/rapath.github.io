@@ -39,3 +39,9 @@ PMDA may initiate an unannounced or short-notice inspection at any time in respo
 | Routine inspection (foreign site) | 1–2 days on-site |
 | Document-based review | 2–4 weeks (PMDA reviews documentation sent remotely) |
 | Prefectural inspection (domestic site) | 0.5–1 day |
+
+## For-cause inspections
+
+​Document-based review
+
+For certain routine inspections or in cases where on-site inspection is not feasible, PMDA may conduct a document-based review. The manufacturer submits quality system documentation, inspection records, audit reports, and CAPA evidence to PMDA for remote evaluation. This process typically takes 2–4 weeks and may be followed by an on-site inspection if documentation raises concerns.

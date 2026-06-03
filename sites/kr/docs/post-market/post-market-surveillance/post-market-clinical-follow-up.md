@@ -22,3 +22,7 @@ PMCF data forms part of the ongoing PMS and feeds into the **re-examination** do
 
 ## Related pages
 - [PMS plan and report](./pms-plan-and-report) · [Re-examination system](./re-examination-system)
+
+## Results reported to MFDS within the agreed timeframe
+
+"Responsibility lies with the 품목허가 holder (manufacturer or importer). Failure to submit results on time may result in suspension or revocation of the 품목허가 or enforcement action."

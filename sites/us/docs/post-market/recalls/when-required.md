@@ -30,3 +30,4 @@ Reports must be submitted to FDA **within 10 working days** of initiating the co
 ## Official resources
 - [21 CFR Part 806](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-H/part-806)
 - [FDA — Recalls, Corrections and Removals](https://www.fda.gov/medical-devices/medical-device-recalls)
+

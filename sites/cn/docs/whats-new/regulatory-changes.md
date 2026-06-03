@@ -8,7 +8,7 @@ tags: [whats-new]
 
 # Recent Regulatory Changes
 
-This page tracks significant NMPA regulatory changes, new orders, and guidance documents relevant to medical device regulation in China. Last reviewed: **May 2026**.
+This page tracks significant NMPA regulatory changes, new orders, and guidance documents relevant to medical device regulation in China. Last reviewed: **[insert actual review date, e.g., December 2024 or January 2025]**.
 
 ---
 
@@ -43,3 +43,5 @@ NMPA publishes updates via its official website and WeChat public account (å¾®ä¿
 :::note Disclaimer
 Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [NMPA](https://www.nmpa.gov.cn/) sources before making regulatory decisions. Not affiliated with NMPA or any Chinese Government body. Not legal or regulatory advice.
 :::
+
+Last reviewed: [actual current month/year]

@@ -13,7 +13,7 @@ There are two main categories of manufacturing business licence under the PMD Ac
 
 **General manufacturing licence** — required for facilities that manufacture the final finished device, perform sterilisation, or conduct final packaging/labelling. This is the most common licence type.
 
-**Manufacturing registration** (製造業登録 — seizō gyō tōroku) — a lighter-touch registration (rather than full licence) introduced for certain lower-risk manufacturing activities.
+**Manufacturing registration** (製造業登録 — seizō gyō tōroku) — a lighter-touch registration (rather than full licence) Manufacturing registration has fewer compliance obligations than a full manufacturing licence but applies only to specific device classes and manufacturing operations. for certain lower-risk manufacturing activities.
 
 The type of licence required depends on the device class and the specific manufacturing activities performed at the facility.
 
@@ -32,3 +32,5 @@ All licensed domestic manufacturers must maintain a quality management system th
 ## Licence renewal
 
 Manufacturing business licences must be renewed every **5 years**. The renewal requires demonstrating continued QMS compliance and facility capability.
+
+General Manufacturing Licence is typically required for Class III and IV devices, while Manufacturing Registration may be available for lower-risk Class I and II devices. Consult PMDA or the prefectural government to confirm the specific requirement for your device class and manufacturing activity.

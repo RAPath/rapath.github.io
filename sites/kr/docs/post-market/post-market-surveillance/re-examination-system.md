@@ -4,15 +4,15 @@ description: "Korea's unique re-examination system for newly approved medical de
 sidebar_position: 2
 ---
 
-**Re-examination (재심사)** is a **uniquely Korean** post-market requirement mandating a formal MFDS review of newly approved devices after a defined period on the market.
+Re-examination (재심사) is a Korean post-market requirement mandating periodic formal MFDS review of newly approved Grade III and IV devices after a defined period on the market to reassess benefit-risk balance based on accumulated post-market evidence.
 
 ## Who is subject?
 
-Grade III and IV devices that received a **first-ever 품목허가** in Korea (새로운 허가).
+Grade III and IV devices that received a first-ever 품목허가 in Korea (새로운 허가).
 
 ## Re-examination period
 
-Typically **3 to 5 years** from first approval. The manufacturer/importer must submit a re-examination application within a specified window before expiry (typically 6 months before).
+Typically 3 to 5 years from first approval. The manufacturer/importer must submit a re-examination application within a specified window before expiry (typically 6 months before).
 
 ## What re-examination involves
 
@@ -38,3 +38,5 @@ Typically **3 to 5 years** from first approval. The manufacturer/importer must s
 
 ## Related pages
 - [Re-evaluation system](./re-evaluation-system) · [PMS plan and report](./pms-plan-and-report)
+
+"Failure to submit: If the re-examination dossier is not submitted by the deadline, MFDS may suspend or revoke the 품목허가 without further notice."

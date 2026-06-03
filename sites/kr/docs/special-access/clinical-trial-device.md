@@ -23,3 +23,15 @@ Full manufacturing and distribution records must be maintained for all investiga
 
 ## Related pages
 - [Clinical trial approval](../pre-market/clinical-evidence/clinical-trial-approval) · [IRB and GCP requirements](../pre-market/clinical-evidence/irb-and-gcp-requirements)
+
+Clinical trial approval process
+​
+The 임상시험 승인 (clinical trial approval) application must include:
+— Investigator's Brochure (IB) or Summary of Product Characteristics
+— Risk management plan and safety information
+— Quality/manufacturing information (CMC)
+— Clinical trial protocol and statistical analysis plan
+— Curriculum vitae of principal investigator(s)
+— Insurance or compensation information
+
+Typical approval timeline: 30 days from receipt of complete application (may be extended for safety assessment)

@@ -14,7 +14,7 @@ Switzerland occupies a distinctive position in the global medical device regulat
 The core technical requirements — classification rules, GSPRs, conformity assessment procedures, clinical evidence standards — are identical to EU MDR/IVDR. A manufacturer who has completed EU MDR conformity assessment has completed the substantive technical work for Swiss market access. The Swiss-specific additions are primarily procedural: CH REP, DAPI registration, and Swiss labelling (DE/FR/IT).
 
 **A regulatory testing ground**
-Switzerland's smaller market size and Swissmedic's history of pragmatic, science-based regulation mean that Switzerland is sometimes used as a first-access market for novel devices before the full EU MDR CE marking process is completed — though this requires compassionate use or hospital exemption pathways rather than full registration.
+Switzerland's smaller market size and Swissmedic's history of pragmatic, science-based regulation mean that Switzerland may serve as an early-access market for novel devices before full EU MDR CE marking, through compassionate use pathways (TPA Art. 9 para. 4) rather than standard registration, enabling limited patient access while EU conformity assessment is ongoing.
 
 **Strong manufacturing and R&D base**
 Switzerland is home to major global medical device and pharmaceutical companies (Medtronic, Straumann, Ypsomed, Hamilton Medical, among many others). Swissmedic has significant experience regulating complex, high-risk devices.

@@ -42,3 +42,6 @@ keywords: [classification rules, MedDO Annex VIII, Class I IIa IIb III, Switzerl
 :::warning Disclaimer
 AI-assisted content for navigation only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
 :::
+
+Complete the truncated ending by adding: 'MDCG 2021-24 — Manual on borderline and classification (applicable in Switzerland)
+Medical Device Reporting Checklist — Rule-by-rule classification decision tree'

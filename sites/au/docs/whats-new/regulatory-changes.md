@@ -15,7 +15,7 @@ This page summarises significant regulatory changes affecting Australian medical
 
 ### May 2026 — New TGA AI and SaMD Guidance Published
 
-In **February 2026**, the TGA published updated guidance specifically addressing how artificial intelligence (AI) is regulated within the existing Software as a Medical Device (SaMD) framework. Two complementary guidance pages clarify:
+The page header states '2026' and 'May 2026 — New TGA AI and SaMD Guidance Published' but then states 'In guidance' — verify whether the actual publication date was February or May 2026, as these conflict. If the was published in February, the section header should read 'February 2026' not 'May 2026'. **February 2026**, the TGA published updated guidance specifically addressing how artificial intelligence (AI) is regulated within the existing Software as a Medical Device (SaMD) framework. Two complementary guidance pages clarify:
 
 - AI medical devices are regulated within the established SaMD framework — there is no separate AI-specific regime
 - Classification remains based on intended purpose and clinical context, not the presence of AI features
@@ -144,3 +144,5 @@ From **1 July 2024**, new classification and conformity assessment requirements 
 - [Upcoming Changes](./upcoming-changes.md)
 - [Reforms Tracker](./reforms-tracker.md)
 - [Recent Amendments (Legislation)](/docs/legislation/recent-amendments)
+
+This page requires substantial completion. Based on context from other pages, it should include full descriptions of: November 2024 SaMD changes, Patient implant card requirements, AIMD reclassification, and any other 2024–2025 changes referenced in the Reforms Tracker and Upcoming Changes pages.

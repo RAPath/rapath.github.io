@@ -15,10 +15,13 @@ This page tracks recent regulatory changes in India's medical device regulatory 
 
 ## How to stay updated
 
-1. Subscribe to CDSCO email alerts on the CDSCO website;
-2. Monitor the Official Gazette for new notifications;
-3. Follow CDSCO SUGAM portal announcements;
-4. Check this page regularly — it is updated as changes are identified.
+How to stay updated
+​
+Subscribe to CDSCO email alerts on the CDSCO website;
+Monitor the Official Gazette of India for new notifications;
+Follow CDSCO SUGAM portal announcements for real-time updates;
+Check this page regularly — it is updated as changes are identified;
+Review CDSCO circulars and public notices issued via the SUGAM portal.
 
 :::warning Disclaimer
 Content on this site is written with AI assistance. Regulatory information may change after publication. Always verify with [CDSCO](https://cdsco.gov.in) before making regulatory decisions.

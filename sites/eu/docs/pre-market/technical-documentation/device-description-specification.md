@@ -135,3 +135,5 @@ If the intended purpose changes — even slightly — a formal change control pr
 | MDR Art. 2(24) | Definition of intended purpose |
 | MDCG 2020-6 | Technical documentation templates |
 | MDCG 2022-2 | Guidance on intended purpose |
+
+The section "Common mistakes to avoid" shows a table header with 'Mistake' and 'Consequence' columns but no rows are visible. Add completed table rows such as: "Vague intended purpose (e.g. 'for diagnostic use') | Leads to unclear GSPR applicability and classification disputes"; "Overly broad patient population | Requires extensive clinical evidence and may trigger higher classification"; "Omitting contraindications | Notified body will reject technical documentation; creates liability"; "Listing accessories without specifying intended use | Confusion about what is and is not part of the device scope"; "Not aligning intended purpose with labelling | Product labelling and IFU must match the stated intended purpose exactly."

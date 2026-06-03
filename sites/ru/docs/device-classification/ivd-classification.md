@@ -24,7 +24,7 @@ High-risk IVDs — where an incorrect result could lead to life-threatening cons
 | Class | Examples |
 |---|---|
 | **Class I** | General chemistry analysers, sample collection tubes with no diagnostic function |
-| **Class IIa** | Pregnancy tests, blood glucose monitors, urine dipsticks |
+| **Class IIa** | Pregnancy tests (such as HIV and hepatitis serology for blood donation purposes), with critical consequences of false results blood glucose monitors, urine dipsticks |
 | **Class IIb** | HIV tests, hepatitis B/C tests, blood typing reagents |
 | **Class III** | High-risk blood screening tests, tests for rare life-threatening infectious diseases |
 

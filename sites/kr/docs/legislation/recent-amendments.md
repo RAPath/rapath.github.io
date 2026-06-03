@@ -21,3 +21,7 @@ sidebar_position: 5
 - [MFDS website](https://www.mfds.go.kr) — notifications (고시) database
 - [law.go.kr](https://www.law.go.kr) — for Acts and Decrees
 - [What's New — Reforms tracker](../whats-new/reforms-tracker)
+
+For the 2024 AI/ML guidance update entry, add: 'Includes mandatory algorithm change monitoring protocol (ACMP), explainability documentation for high-risk algorithms, and requirements for clinician notification of significant algorithm modifications.'
+
+For the 2024 eIFU entry, add: 'Electronic IFU permitted only for professional-use devices and in-vitro diagnostic devices; limited to online access with downloadable PDF backup option.'

@@ -38,3 +38,7 @@ While CE marking does not replace MDMA, manufacturers can **reuse most EU techni
 - [SFDA vs Other Regulators](./sfda-vs-regulators)
 - [GCC Harmonisation](./gcc-harmonization)
 - [MDMA Overview](../mdma-registration/mdma-overview)
+
+Post-SFDA Approval: Timing for GCC Expansion
+
+After SFDA MDMA is granted, manufacturers typically apply to other GCC markets within 3–6 months to leverage momentum and market positioning. However, some manufacturers defer UAE registration (the second-largest GCC market) if it requires separate clinical evidence or local manufacturing partnerships. A typical GCC entry sequence is: Saudi Arabia (SFDA) → UAE (MOHAP/DHA) → Kuwait and Bahrain (parallel) → Qatar and Oman (as market opportunity permits). Coordinate with your regional distributor or AR network to align timelines.

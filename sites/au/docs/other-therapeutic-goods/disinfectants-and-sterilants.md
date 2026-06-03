@@ -99,3 +99,12 @@ The intended purpose stated in labelling and promotional materials determines re
 - [How Classification Works](/docs/pre-market/classification/how-classification-works)
 - [Essential Principles Overview](/docs/pre-market/essential-principles/overview)
 - [Tampons and Menstrual Cups](./tampons-and-menstrual-cups.md)
+
+Excluded Products
+
+Not all disinfectants and sterilants are regulated as medical devices. Products fall outside the medical device framework when they are intended for:
+
+General surface disinfection — cleaning environmental surfaces, benchtops, or general facility cleaning not specifically intended for medical devices
+Personal hygiene and skin disinfection — hand sanitisers, skin antiseptics, or products for personal use
+Household and consumer use — general-purpose disinfectants marketed for home or consumer purposes
+If a disinfectant product's labelling, marketing, and intended purpose do not specifically reference medical device disinfection or sterilisation, it may fall under the medicines framework (as an antiseptic or disinfectant medicine) or consumer product regulation instead.

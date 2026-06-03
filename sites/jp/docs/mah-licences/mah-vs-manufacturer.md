@@ -41,3 +41,5 @@ The Quality Agreement (品質契約) between the MAH and manufacturer must addre
 ## Risk allocation
 
 The overseas manufacturer and the Kannin MAH share regulatory risk in Japan. The MAH bears the direct legal risk before MHLW. The contract governs how liability and indemnification flow between the parties when a regulatory problem occurs.
+
+The Quality Agreement should specify lead times for change notifications—typically 30–60 days before implementation for the MAH to evaluate regulatory requirements and submit change applications. This allows adequate time for pre-market notification of Ichibu Henko applications before the change is implemented, avoiding compliance violations.

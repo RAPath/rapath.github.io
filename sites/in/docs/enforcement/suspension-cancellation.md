@@ -10,3 +10,5 @@ keywords: [enforcement, India, CDSCO, show-cause, suspension, appeals, prosecuti
 CDSCO enforcement actions are taken under the **Drugs and Cosmetics Act 1940** and the Medical Devices Rules 2017. Appeals against CDSCO orders are made to the Central Licensing Authority or, ultimately, to the Courts.
 
 > **Official source:** D&C Act 1940, Sections 22–27B; MDR 2017, Chapter VIII
+
+License Suspension & Cancellation Overview

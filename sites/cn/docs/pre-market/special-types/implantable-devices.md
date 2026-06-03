@@ -40,3 +40,5 @@ Refer to [CMDE technical review guidelines](https://www.cmde.org.cn/) specific t
 :::note Disclaimer
 Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [NMPA](https://www.nmpa.gov.cn/) sources before making regulatory decisions. Not affiliated with NMPA or any Chinese Government body. Not legal or regulatory advice.
 :::
+
+Implantable devices are typically Class III and require comprehensive biocompatibility assessment per ISO 10993 including cytotoxicity, sensitization, irritation, acute systemic toxicity, and long-term biological effects (genotoxicity, carcinogenicity, reproductive toxicity) depending on contact duration and tissue type. Retrieve biological effects testing per ISO 10993-12 is often required. Long-term in-vivo performance data, retrieval/explantation protocols, and shelf-life stability studies are mandatory. Clinical evaluation must demonstrate safety and performance over the intended dwell time. Post-market surveillance and adverse event monitoring requirements are stringent for implantable devices.

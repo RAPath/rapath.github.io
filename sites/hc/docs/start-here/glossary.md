@@ -80,3 +80,6 @@ A device intended to be used on a single patient during a single procedure and t
 
 **UDI**
 Unique Device Identification — a system for identifying medical devices through their distribution and use. Health Canada is developing a UDI framework aligned with international standards. See [UDI Framework](/docs/international/udi-framework).
+
+Safety and Effectiveness Requirements
+The requirements set out in Schedule 1 of the MDR that establish the minimum safety and effectiveness standards a medical device must meet before being licensed in Canada. These requirements are risk-based and vary by device class. Manufacturers must provide evidence demonstrating compliance with applicable requirements through testing, clinical data, and/or recognised standards.

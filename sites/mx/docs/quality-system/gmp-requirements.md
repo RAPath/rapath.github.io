@@ -36,7 +36,7 @@ This page summarises the core **Good Manufacturing Practice (GMP)** requirements
 
 ## Production and process controls
 
-- Validate manufacturing processes that cannot be fully verified by inspection.
+- Validate manufacturing processes that cannot be fully verified by inspection or testing alone, particularly sterilisation processes, manufacturing steps critical to device performance, and any new or modified manufacturing process prior to commercial release.
 - Monitor and control process parameters at defined control points.
 - Maintain **batch/lot records** traceable to finished device distribution.
 
@@ -83,3 +83,7 @@ NOM-241 requires **written technical agreements** between the MRH and each distr
 - [COFEPRIS inspections](inspections-cofepris)
 - [Technovigilance overview](../postmarket/technovigilance-overview)
 - [MRH obligations](../mexico-registration-holder/mrh-obligations)
+
+## Document and record controls
+
+"Record Retention: Manufacturing, quality, and distribution records must be retained for a minimum of the device lifetime plus 2 years, or as specified in the approved technical dossier, whichever is longer. Traceability must permit identification of: raw material lot to finished device lot, finished device lot to distributed units (by serial number or lot), and distributed units to customer/patient location where applicable. Traceability must enable rapid product recalls or market withdrawals."

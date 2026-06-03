@@ -34,7 +34,7 @@ The **Establishment License** and the **product approval** (Listing/Notification
 | Establishment License | The company's authorisation to operate as a manufacturer/importer |
 | Product Listing/Notification/License | The specific device's authorisation to be placed on the Thai market |
 
-A company may hold one Establishment License covering multiple product registrations across different device types.
+A company may hold one Establishment License covering multiple product registrations across different device types and classes. The Establishment License scope should reflect all device categories and operations the company intends to undertake.
 
 ## Establishment License Application
 
@@ -93,3 +93,7 @@ All Thai FDA registration applications are submitted through the **Thai FDA e-su
 - Approved certificates are issued electronically
 
 The Thai FDA e-submission portal is available at the Thai FDA website. Confirm the current portal URL and technical requirements with your AR or from [www.fda.moph.go.th](https://www.fda.moph.go.th/).
+
+Complete the final sentence: 'The Thai FDA e-submission portal is available at the Thai FDA website. Confirm the current portal URL and technical requirements with your regulatory affairs consultant or the Thai FDA directly.'
+
+Distributors typically do not need an Establishment License unless they are also engaged in repackaging, relabelling, or modification of devices. Confirm with the MDCD if your distribution activities include any processing or alteration of the device.

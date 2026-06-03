@@ -14,7 +14,7 @@ Registration holders and distributors must maintain **distribution records** tha
 - Name and address of the recipient (healthcare facility, distributor, retailer); and
 - Date of distribution.
 
-Distribution records must be retained for a minimum period specified by ANVISA (typically 5 years for non-implantable devices, 10 years for implantable devices). Records must be made available to ANVISA and state VISA on request.
+Distribution records must be retained for a minimum period specified by ANVISA (typically 5 years for non-implantable devices, 10 years for implantable devices, or for the device lifetime plus an additional period where applicable). Records must be made available to ANVISA and state VISA on request.
 
 See also [Traceability Overview](/docs/importers-distributors/traceability-overview).
 
@@ -23,3 +23,5 @@ See also [Traceability Overview](/docs/importers-distributors/traceability-overv
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+Distribution records are required under RDC 752/2022 (GMP) and RDC 751/2022 (PMS) and are essential for product traceability and post-market surveillance.

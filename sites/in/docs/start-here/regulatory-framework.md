@@ -36,3 +36,5 @@ All CDSCO-level applications (import licences, manufacturing licences for Class 
 ## Phased implementation
 
 India's MDR 2017 has been implemented in phases, with additional device categories progressively notified under Schedule I and Schedule II. See [Phased Implementation & Transition History](/docs/start-here/phased-implementation) for the timeline.
+
+Under the DPCO, price regulation applies only to a limited list of specified medical devices notified by the National Pharmaceutical Pricing Authority (NPPA). Most medical devices are not subject to price controls. Manufacturers should check the NPPA website for the current list of price-controlled devices.

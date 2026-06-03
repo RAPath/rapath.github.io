@@ -46,3 +46,7 @@ Local clinical testing typically adds **6–18 months** to the overall registrat
 :::info Official source
 Pre-clinical and clinical testing regulations (March 2022): [minzdrav.gov.ru](https://minzdrav.gov.ru/)
 :::
+
+## Laboratory testing
+
+The FGBU National Institute of Quality plays a critical role in Phase 1 expert review and determines which laboratory tests must be performed in Russian accredited facilities. This determination is communicated during the Phase 1 review period, which typically lasts 30 calendar days.

@@ -44,3 +44,5 @@ Subscribe to MHLW update notifications or periodically check the MHLW website to
 :::info Official source
 [MHLW recognised standards list](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iyakuhin/kigu/ninshoulist.html) (Japanese — updated periodically)
 :::
+
+MHLW publishes updates to the recognised standards list typically 1–2 times per year, often aligned with international standard revisions (ISO, IEC) or in response to new device types entering the market. Updates are announced via MHLW notifications (通知) and posted on mhlw.go.jp. There is no single automated alert system; monitor the site quarterly or subscribe to PMDA's notification service.

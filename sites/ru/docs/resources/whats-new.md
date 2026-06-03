@@ -53,3 +53,9 @@ The national registration pathway (Decree No. 1684) closes to new submissions fr
 :::info Stay current
 Regulatory updates are published by Roszdravnadzor at [roszdravnadzor.gov.ru](https://roszdravnadzor.gov.ru/) and by the Ministry of Health at [minzdrav.gov.ru](https://minzdrav.gov.ru/). This page is community-maintained and may not reflect the very latest changes — always verify against official sources.
 :::
+
+## 2025
+
+Decree No. 1684 implementation guidance (ongoing)
+​
+Roszdravnadzor is issuing supplementary guidance documents clarifying interpretation of Decree No. 1684 requirements. Monitor the official Roszdravnadzor website for updates on documentation requirements, QMS inspection procedures, and clinical investigation triggers.

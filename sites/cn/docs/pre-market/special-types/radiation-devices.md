@@ -40,3 +40,5 @@ Refer to [CMDE technical review guidelines](https://www.cmde.org.cn/) specific t
 :::note Disclaimer
 Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [NMPA](https://www.nmpa.gov.cn/) sources before making regulatory decisions. Not affiliated with NMPA or any Chinese Government body. Not legal or regulatory advice.
 :::
+
+Radiation-emitting devices require additional safety and performance testing beyond standard device requirements. Dossiers must include: radiation safety documentation per applicable standards (GB 5566 for diagnostic X-ray, GB 11318 for laser devices, etc.); shielding design and validation; dose rate measurement data; radiation output consistency testing; and quality control procedures. Coordination with China's Ministry of Ecology and Environment (radiation safety licensing) and National Health Commission may be required. Some radiation devices require pre-approval radiation safety inspection. Annual quality control and periodic safety inspections are post-market obligations.

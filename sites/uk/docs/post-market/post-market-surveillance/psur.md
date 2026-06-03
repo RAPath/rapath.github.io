@@ -109,3 +109,5 @@ PSURs are not routinely published but are treated as confidential technical docu
 | UK MDR 2002, Schedule 3 | Ongoing surveillance obligations including PSURs |
 | MHRA: Post-market surveillance guidance | PSUR requirements |
 | EU MDR 2017/745, Art. 86 | EU PSUR requirements (applies in NI — detailed reference) |
+
+If the PSUR concludes that the benefit-risk ratio is no longer clearly favourable, or if continued suitability for the market is in doubt, the manufacturer must: (1) notify MHRA and the UKAB immediately; (2) assess whether modifications, additional warnings, or restrictions on use are needed; (3) evaluate whether the device should be withdrawn from the market; (4) document the decision and rationale; (5) cooperate with any MHRA investigation or enforcement action.

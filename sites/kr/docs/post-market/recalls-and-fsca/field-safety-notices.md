@@ -4,7 +4,7 @@ description: "Requirements for issuing field safety notices in Korea."
 sidebar_position: 3
 ---
 
-A **Field Safety Notice (FSN)** is a communication to customers and healthcare professionals about a device safety issue, issued alongside or preceding an FSCA.
+A Field Safety Notice (FSN) is a formal communication from a manufacturer or importer to customers, healthcare professionals, and healthcare facilities about a device safety issue, issued alongside or preceding a Field Safety Corrective Action (FSCA).
 
 ## Required FSN content (MFDS expectation)
 
@@ -17,11 +17,15 @@ A **Field Safety Notice (FSN)** is a communication to customers and healthcare p
 
 ## Language requirement
 
-FSNs distributed in Korea must be in **Korean**.
+FSNs distributed in Korea must be in Korean.
 
 ## MFDS notification
 
-A copy of the FSN must be submitted to **MFDS** at the time of distribution.
+A copy of the FSN must be submitted to MFDS at the time of distribution.
 
 ## Related pages
 - [When a recall or FSCA is required](./when-recall-or-fsca-required) · [Voluntary vs MFDS-ordered recalls](./voluntary-vs-mfds-ordered-recalls)
+
+## MFDS notification
+
+"Timing: FSNs must be distributed without delay upon identification of a safety issue. MFDS notification should occur simultaneously with or before distribution to customers and healthcare professionals."

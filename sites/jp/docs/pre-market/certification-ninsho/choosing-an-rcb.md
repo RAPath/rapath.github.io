@@ -7,7 +7,7 @@ sidebar_position: 3
 
 ## MHLW-registered RCBs
 
-RCBs must be accredited by MHLW and their accreditation scope (the device types and standards they are authorised to certify) is published by MHLW. Major RCBs operating in Japan include Japan Electrical Safety & Environment Technology Laboratories (JET), Japan Quality Assurance Organization (JQA), and others. Always check MHLW's current accredited RCB list before making a selection.
+RCBs must be accredited by MHLW to operate under the Ninsho pathway. Their accreditation scope (the specific device types, standards, and product categories they are authorized to certify) is published by MHLW and should be verified directly on the MHLW website. Major RCBs operating in Japan include Japan Electrical Safety & Environment Technology Laboratories (JET), Japan Quality Assurance Organization (JQA), and others. Always check MHLW's current accredited RCB list before making a selection.
 
 ## Factors when selecting an RCB
 

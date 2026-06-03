@@ -18,3 +18,5 @@ Key deliverables: software development plan, software requirements specification
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+Software documentation is required for all devices that incorporate software, whether embedded firmware or standalone software applications. The extent of documentation required depends on the software safety classification: Class A software (minimal risk) requires basic documentation; Class B requires standard IEC 62304 documentation; Class C requires the most comprehensive documentation including formal verification and validation protocols.

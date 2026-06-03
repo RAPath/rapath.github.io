@@ -82,3 +82,13 @@ Essential Principles 1 to 6 are the **general principles** that apply to all med
 - [Overview — All 15 EPs](./overview.md)
 - [EP 7–15 Design & Construction](./ep-7-15-design-and-construction.md)
 - [Checklist & Compliance](./checklist-and-compliance.md)
+
+The full EP 5 section should be: 'EP 5 — Medical Devices Not to be Adversely Affected by Transport or Storage
+
+What it requires:
+Medical devices must be designed and manufactured so that they are not adversely affected by transport and storage conditions that might reasonably be anticipated, having regard to the instructions provided.
+
+In practice:
+Manufacturers must validate that the device maintains its performance characteristics under expected transport and storage conditions. This includes testing for vibration, temperature fluctuation, humidity, pressure changes, and mechanical shock. For devices with a defined shelf-life, stability testing must demonstrate that the device remains safe and effective until the expiry date when stored according to the labelled instructions.
+
+Relevant standards: ISO 11607 (sterilisation of medical devices), stability testing standards specific to device type'

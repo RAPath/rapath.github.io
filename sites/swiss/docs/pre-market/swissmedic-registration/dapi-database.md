@@ -14,7 +14,7 @@ keywords: [DAPI, Swissmedic database, medical device registration, Switzerland]
 
 ## How to Register in DAPI
 1. Create a user account with Swissmedic
-2. Log in to the DAPI submission portal at **[dapi.ch](https://www.dapi.ch)**
+2. Log in to the DAPI submission portal at **[www.swissmedic.ch (DAPI is managed directly by Swissmedic)](https://www.dapi.ch)**
 3. Submit device information using the appropriate form (notification or full registration)
 4. Attach required documents (DoC, NB certificates, labelling)
 5. Pay the applicable registration fee
@@ -29,3 +29,12 @@ UDI data must be registered in DAPI as part of the Swiss UDI system, mirroring E
 :::warning Disclaimer
 AI-assisted content for navigation only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
 :::
+
+How to Register in DAPI
+
+Create a user account with Swissmedic
+Access the DAPI portal at www.swissmedic.ch or via the official DAPI submission system
+Log in with your credentials
+Submit device information using the appropriate form (notification or full registration)
+Attach required documents (DoC, NB certificates, labelling)
+Pay the applicable registration fee

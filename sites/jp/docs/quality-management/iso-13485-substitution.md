@@ -28,3 +28,7 @@ Regardless of ISO 13485 certification status, sites supplying devices to Japan m
 - **Japanese labelling controls** — document control covering the approved Japanese labelling (Shonin/Ninsho approved text)
 - **GPSP interface** — how the manufacturer receives and transmits complaint/adverse event information to the MAH for GPSP purposes
 - **Japanese regulatory documentation** — FMR certificate, Japanese approval/certification documents, controlled as quality records
+
+## Practical use of ISO 13485 in PMDA inspections
+
+Scope reduction in pre-approval inspections. For sites with recent (typically within 2 years) ISO 13485 certification covering the specific manufacturing processes for the device under review, PMDA may reduce the scope of the pre-approval inspection. However, PMDA will still conduct a full assessment of MO 169-specific requirements, particularly MAH quality oversight documentation and GPSP integration.

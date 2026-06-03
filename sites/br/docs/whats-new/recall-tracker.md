@@ -39,3 +39,5 @@ Registration holders and distributors must monitor ANVISA's recall and safety al
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+All safety communications are indexed in ANVISA's Tecnovigilância (pharmacovigilance and device vigilance) database, which is publicly searchable. This database is the official source for post-market safety information and is monitored by PMS coordinators and regulatory affairs teams.

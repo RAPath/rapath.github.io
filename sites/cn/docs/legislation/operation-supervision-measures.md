@@ -25,3 +25,17 @@ Official texts are published on [www.nmpa.gov.cn](https://www.nmpa.gov.cn/) and 
 :::note Disclaimer
 Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [NMPA](https://www.nmpa.gov.cn/) sources before making regulatory decisions. Not affiliated with NMPA or any Chinese Government body. Not legal or regulatory advice.
 :::
+
+## Scope
+This measure implements MDSAR 2021 Chapter IV (Articles 58-72), establishing requirements for medical device business operations, including licensing, storage, distribution, traceability, and advertising compliance.
+
+## Key Requirements
+- Business licence required for manufacturers, distributors, and retailers (Class II/III devices)
+- Traceability system mandatory: manufacturers must track distribution to first recipient; distributors track upstream and downstream
+- Cold chain management and storage conditions per device technical specifications
+- Restricted advertising: promotional claims must not exceed approved indications and contraindications
+- Record-keeping: purchase, sale, and recall records retained for minimum 5 years
+- Distributor qualification: legal entity status, quality personnel, appropriate facilities
+
+## Relationship to MDSAR 2021
+This measure operationalizes Article 58 (business licence), Articles 63-65 (traceability), and Article 70 (advertising) of MDSAR 2021 Chapter IV with detailed procedural and technical requirements.

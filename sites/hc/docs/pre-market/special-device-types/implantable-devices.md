@@ -9,7 +9,7 @@ description: Regulatory requirements for implantable medical devices in Canada, 
 An **implantable device** is a device intended to be totally introduced into the human body, or to replace an epithelial surface or the surface of the eye, by surgical intervention, and intended to remain after the procedure.
 
 ## Classification implications
-Implantability generally elevates a device's classification. Most implantable devices are Class III or IV due to the risks associated with:
+Implantability is a significant risk factor in device classification. Most implantable devices are classified as Class III or IV due to the inherent risks associated with:
 - Long-term tissue contact (biocompatibility concerns)
 - Surgical implantation procedure
 - Difficulty of removal if problems arise
@@ -42,3 +42,7 @@ Long-term clinical data is typically required for implantable devices, as risks 
 Some implantable devices are subject to implant card requirements — a card given to the patient at the time of implantation containing device identification information. Health Canada follows IMDRF guidance on implant cards.
 
 > **Legislative source:** Medical Devices Regulations, SOR/98-282; ISO 10993 series
+
+## Long-term clinical evidence
+
+"The specific duration of clinical follow-up required depends on the device type and expected lifespan. For example, joint replacements typically require 5-10 year follow-up data, while cardiovascular implants may require longer observation periods. Manufacturers should consult Health Canada's device-specific guidance documents or request a Type A meeting to clarify clinical evidence requirements early in development. Participation in implant registries (such as provincial hip and knee registries) may be expected for certain device categories."

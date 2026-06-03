@@ -9,7 +9,7 @@ tags: [mdr, classification, annex-viii]
 # MDR classification rules 1–22
 
 :::note Regulatory basis
-**MDR 2017/745, Annex VIII**. All 22 classification rules must be applied systematically. Where more than one rule applies, the **highest resulting class** prevails.
+MDR 2017/745, Annex VIII. All 22 classification rules must be applied systematically. Where more than one rule applies, the highest resulting class prevails.
 :::
 
 :::warning Disclaimer
@@ -20,11 +20,7 @@ This site provides general information only and does not constitute legal or reg
 
 ## How to apply the rules
 
-1. Precisely define the device's **intended purpose** — the rules depend on it
-2. Determine the **device type**: non-invasive, invasive, active, or special
-3. Work through each applicable rule group
-4. Where multiple rules apply, take the **highest class**
-5. Document the rationale fully in technical documentation
+Where multiple rules apply, the highest resulting class takes precedence. The manufacturer must document the complete classification rationale in the technical documentation, including which rules were considered, why lower-class rules were not applicable, and the reasoning for selection of the highest applicable rule.
 
 ---
 
@@ -34,10 +30,10 @@ Non-invasive devices are those that do not penetrate the body surface (including
 
 | Rule | Class | Key condition |
 |---|---|---|
-| **Rule 1** | I | All non-invasive devices unless another rule applies |
-| **Rule 2** | IIa | Non-invasive devices intended to channel or store blood, body liquids, cells, tissues, or gases for transfusion/infusion/administration into the body (unless connected to an active device Class IIb or III, in which case: IIb or III) |
-| **Rule 3** | IIa | Non-invasive devices that modify the biological or chemical composition of human tissue, cells, blood, or other body liquids, or of other liquids intended for implantation — where the treatment involves filtration, centrifugation, or gas/heat exchange |
-| **Rule 4** | IIa / IIb | Non-invasive devices that come into contact with injured skin or mucous membranes: **IIa** if for mechanical barrier, compression, or absorption of exudates; **IIb** if managing the micro-environment of a wound; **Class III** if for chronic wounds or wounds healing by secondary intent |
+| Rule 1 | I | All non-invasive devices unless another rule applies |
+| Rule 2 | IIa | Non-invasive devices intended to channel or store blood, body liquids, cells, tissues, or gases for transfusion/infusion/administration into the body (unless connected to an active device Class IIb or III, in which case: IIb or III) |
+| Rule 3 | IIa | Non-invasive devices that modify the biological or chemical composition of human tissue, cells, blood, or other body liquids, or of other liquids intended for implantation — where the treatment involves filtration, centrifugation, or gas/heat exchange |
+| Rule 4 | IIa / IIb | Non-invasive devices that come into contact with injured skin or mucous membranes: IIa if for mechanical barrier, compression, or absorption of exudates; IIb if managing the micro-environment of a wound; Class III if for chronic wounds or wounds healing by secondary intent |
 
 ---
 
@@ -45,10 +41,10 @@ Non-invasive devices are those that do not penetrate the body surface (including
 
 | Rule | Class | Key condition |
 |---|---|---|
-| **Rule 5** | I | Invasive devices intended to contact only intact skin (e.g. examination gloves) |
-| **Rule 6** | IIa | Transient-use surgically invasive devices; **IIb** if for use specifically in direct contact with the heart, central circulatory system, or CNS; **Class III** if they are absorbable or if they are used with medicinal products in an integral manner |
-| **Rule 7** | IIa | Short-term surgically invasive devices; **IIb** if for use in direct contact with heart/CNS/central circulatory system; **Class III** if they are absorbable, or for use with medicinal products |
-| **Rule 8** | IIb | Long-term implantable devices and surgically invasive devices intended for long-term use; **Class III** if for implantation in teeth, spine, or in direct contact with heart/central circulatory system/CNS; **Class III** for breast implants, penile implants, and total joint replacements |
+| Rule 5 | I | Invasive devices intended to contact only intact skin (e.g. examination gloves) |
+| Rule 6 | IIa | Transient-use surgically invasive devices; IIb if for use specifically in direct contact with the heart, central circulatory system, or CNS; Class III if they are absorbable or if they are used with medicinal products in an integral manner |
+| Rule 7 | IIa | Short-term surgically invasive devices; IIb if for use in direct contact with heart/CNS/central circulatory system; Class III if they are absorbable, or for use with medicinal products |
+| Rule 8 | IIb | Long-term implantable devices and surgically invasive devices intended for long-term use; Class III if for implantation in teeth, spine, or in direct contact with heart/central circulatory system/CNS; Class III for breast implants, penile implants, and total joint replacements |
 
 ---
 
@@ -58,11 +54,11 @@ Active devices depend on an energy source other than gravity or human body energ
 
 | Rule | Class | Key condition |
 |---|---|---|
-| **Rule 9** | I / IIa / IIb | Active therapeutic devices: **Class I** if intended to administer/exchange energy in a non-potentially dangerous way; **IIa** if intended to administer energy to or exchange energy with the patient in a potentially dangerous way (considering the nature, density, and site); **IIb** if intended to control, monitor, or directly influence performance of Class IIb active therapeutic devices |
-| **Rule 10** | IIa | Active devices for diagnosis: intended to supply energy absorbed by the human body (except lighting); imaging devices using ionising radiation → **IIb** |
-| **Rule 11** | I / IIa / IIb / III | Software: see [Software & SaMD classification](./software-samd-classification) for full treatment under Rule 11 |
-| **Rule 12** | I | Active devices intended to administer medicinal products, body liquids, or other substances to or from the body — where done in a potentially dangerous manner → **IIb** |
-| **Rule 13** | IIb / III | All other active devices: **IIb** by default; **Class III** if intended to diagnose, monitor, or correct a deficiency in the heart/central circulatory system/CNS by delivering energy directly |
+| Rule 9 | I / IIa / IIb | Active therapeutic devices: Class I if intended to administer/exchange energy in a non-potentially dangerous way; IIa if intended to administer energy to or exchange energy with the patient in a potentially dangerous way (considering the nature, density, and site); IIb if intended to control, monitor, or directly influence performance of Class IIb active therapeutic devices |
+| Rule 10 | IIa | Active devices for diagnosis: intended to supply energy absorbed by the human body (except lighting); imaging devices using ionising radiation → IIb |
+| Rule 11 | I / IIa / IIb / III | Software: see [Software & SaMD classification](./software-samd-classification) for full treatment under Rule 11 |
+| Rule 12 | I | Active devices intended to administer medicinal products, body liquids, or other substances to or from the body — where done in a potentially dangerous manner → IIb |
+| Rule 13 | IIb / III | All other active devices: IIb by default; Class III if intended to diagnose, monitor, or correct a deficiency in the heart/central circulatory system/CNS by delivering energy directly |
 
 ---
 
@@ -72,15 +68,15 @@ These rules apply to specific product categories regardless of other rules, and 
 
 | Rule | Class | Covers |
 |---|---|---|
-| **Rule 14** | III | Devices incorporating, as an integral part, a substance which, if used separately, would be considered a medicinal product (including human blood derivatives) and which is liable to act on the human body with action ancillary to the device |
-| **Rule 15** | III | Devices used for contraception or prevention of sexually transmitted disease — **IIb** if implantable or long-term invasive |
-| **Rule 16** | III | Devices specifically intended for recording diagnostic images generated by X-ray radiation |
-| **Rule 17** | III | Devices manufactured using tissues or cells of human origin or their derivatives that are non-viable or rendered non-viable (unless they contact only intact skin) |
-| **Rule 18** | III | Devices manufactured using tissues or cells of animal origin or their derivatives that are non-viable (unless they contact only intact skin) |
-| **Rule 19** | IIb / III | Devices incorporating or consisting of nanomaterials: **IIb** if nano presents low-to-medium potential for internal exposure; **III** if medium-to-high potential |
-| **Rule 20** | IIb / III | Invasive devices with respect to body orifices — not surgically invasive — intended to administer medicinal products: **IIb** if inhaled; **III** if absorbed by the GI tract, nasal/oral mucosa |
-| **Rule 21** | III | Devices intended to be used for extracorporeal circulation of blood or other liquids through the device, for subsequent reinfusion or infusion |
-| **Rule 22** | IIb | Devices incorporating a CMR (carcinogenic, mutagenic, or reprotoxic) substance or substances that are endocrine disruptors and may enter the body in substantial quantities |
+| Rule 14 | III | Devices incorporating, as an integral part, a substance which, if used separately, would be considered a medicinal product (including human blood derivatives) and which is liable to act on the human body with action ancillary to the device |
+| Rule 15 | III | Devices used for contraception or prevention of sexually transmitted disease — IIb if implantable or long-term invasive |
+| Rule 16 | III | Devices specifically intended for recording diagnostic images generated by X-ray radiation |
+| Rule 17 | III | Devices manufactured using tissues or cells of human origin or their derivatives that are non-viable or rendered non-viable (unless they contact only intact skin) |
+| Rule 18 | III | Devices manufactured using tissues or cells of animal origin or their derivatives that are non-viable (unless they contact only intact skin) |
+| Rule 19 | IIb / III | Devices incorporating or consisting of nanomaterials: IIb if nano presents low-to-medium potential for internal exposure; III if medium-to-high potential |
+| Rule 20 | IIb / III | Invasive devices with respect to body orifices — not surgically invasive — intended to administer medicinal products: IIb if inhaled; III if absorbed by the GI tract, nasal/oral mucosa |
+| Rule 21 | III | Devices intended to be used for extracorporeal circulation of blood or other liquids through the device, for subsequent reinfusion or infusion |
+| Rule 22 | IIb | Devices incorporating a CMR (carcinogenic, mutagenic, or reprotoxic) substance or substances that are endocrine disruptors and may enter the body in substantial quantities |
 
 ---
 
@@ -88,11 +84,11 @@ These rules apply to specific product categories regardless of other rules, and 
 
 | Scenario | Common mistake | Correct approach |
 |---|---|---|
-| Catheter used temporarily | Classified as Class I non-invasive | Rule 6 applies — surgically invasive device, transient use → **IIa** |
+| Catheter used temporarily | Classified as Class I non-invasive | Rule 6 applies — surgically invasive device, transient use → IIa |
 | Software for diagnosis | Ignored Rule 11 | Must apply Rule 11 and consider severity of condition and reversibility |
-| Sterile wound dressing | Self-declared Class I | If sterile: **Class Is** — NB involvement required for sterility aspects |
-| Combination device with drug | Classified as drug only | If device action is principal → **Class III under Rule 14** |
-| Reusable surgical forceps | Class I self-declared | **Class Ir** — NB must assess reprocessing aspects |
+| Sterile wound dressing | Self-declared Class I | If sterile: Class Is — NB involvement required for sterility aspects |
+| Combination device with drug | Classified as drug only | If device action is principal → Class III under Rule 14 |
+| Reusable surgical forceps | Class I self-declared | Class Ir — NB must assess reprocessing aspects |
 
 ---
 

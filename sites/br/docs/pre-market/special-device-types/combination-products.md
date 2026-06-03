@@ -25,3 +25,5 @@ Brazil's combination products framework involves coordination between ANVISA's m
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+Note: Combination products typically follow the longest review timeline of the applicable pathways. When both device and drug components are submitted concurrently, ANVISA coordinates the review to align decision timelines where possible.

@@ -15,11 +15,11 @@ An ARTG entry must accurately reflect the current state of the device and the sp
 
 Some changes are so significant that the existing ARTG entry cannot be varied — a new application is required:
 
-- Change of **sponsor** (the new sponsor must hold their own ARTG entry)
-- Change of **manufacturer** (a different legal entity)
-- Change in **device classification** (the new class requires a new application pathway)
-- Addition of a new **intended purpose** that changes the device's risk profile or classification
-- Changes that result in the device becoming a **different kind of medical device**
+- Change of sponsor (the new sponsor must hold their own ARTG entry)
+- Change of manufacturer (a different legal entity)
+- Change in device classification (the new class requires a new application pathway)
+- Addition of a new intended purpose that changes the device's risk profile or classification
+- Changes that result in the device becoming a different kind of medical device
 
 ---
 
@@ -27,12 +27,12 @@ Some changes are so significant that the existing ARTG entry cannot be varied �
 
 The following changes typically require a formal variation application to update the existing ARTG entry:
 
-- Adding new **device models or variants** to an existing ARTG entry (where they are the same "kind" of device)
-- Change of **manufacturer's address** or manufacturing site
-- Update to **conformity assessment evidence** (e.g., new CE certificate replacing an expired one)
-- Changes to **labelling** beyond minor corrections
-- Changes to **conditions of inclusion** imposed by the TGA
-- Change of **sponsor's name** (not a change of legal entity — just a name change)
+- Adding new device models or variants to an existing ARTG entry (where they are the same "kind" of device)
+- Change of manufacturer's address or manufacturing site
+- Update to conformity assessment evidence (e.g., new CE certificate replacing an expired one)
+- Changes to labelling beyond minor corrections
+- Changes to conditions of inclusion imposed by the TGA
+- Change of sponsor's name (not a change of legal entity — just a name change)
 
 ---
 
@@ -40,9 +40,9 @@ The following changes typically require a formal variation application to update
 
 Minor changes may not require a formal variation but should still be assessed:
 
-- Minor **typographical corrections** to non-critical labelling information (assess against TGA guidance)
-- Updates to the sponsor's **contact details** within the same legal entity
-- Changes to the device's **instructions for use** that do not affect safety, performance, or intended purpose
+- Minor typographical corrections to non-critical labelling information (assess against TGA guidance)
+- Updates to the sponsor's contact details within the same legal entity
+- Changes to the device's instructions for use that do not affect safety, performance, or intended purpose
 
 The TGA's guidance on ARTG variations should be reviewed for each specific change type — the assessment is not always straightforward.
 
@@ -50,7 +50,7 @@ The TGA's guidance on ARTG variations should be reviewed for each specific chang
 
 ## How to Submit a Variation
 
-Variation applications are submitted through the **TGA Business Services (TBS) portal**. The application must include:
+Variation applications are submitted through the TGA Business Services (TBS) portal. The application must include:
 
 - Identification of the ARTG entry being varied
 - Description of the change
@@ -63,7 +63,7 @@ Fees may apply depending on the type of variation. The TGA reviews the variation
 
 ## The "Significant Change" Assessment
 
-Before making any change to a device, manufacturers must assess whether the change constitutes a **significant change** under the MD Regulations. A significant change is one that could affect the safety, performance, or classification of the device. A significant change must be notified to the TGA and may require:
+Before implementing any change to a device, manufacturers must assess whether the change constitutes a significant change under the MD Regulations. A significant change is one that could affect the safety, performance, intended purpose, classification, or compliance with the Essential Principles of the device. A significant change must be notified to the Australian sponsor, who must then notify the TGA. Depending on the nature of the change, the sponsor may need to: submit a variation application to update the ARTG entry, apply for new conformity assessment certification, or submit a new ARTG application if the device becomes a fundamentally different kind of device.
 
 - A variation application to update the ARTG entry
 - A new conformity assessment application

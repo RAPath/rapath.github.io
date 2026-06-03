@@ -7,11 +7,11 @@ keywords: [ANVISA, Brazil, medical device]
 
 # Cancelamento de Registro — Registration Cancellation
 
-**Cancelamento de Registro** (*registration cancellation*) is ANVISA's most severe pre-market enforcement action — the permanent revocation of a device's marketing authorisation in Brazil.
+Cancelamento de Registro (registration cancellation) is ANVISA's most severe pre-market enforcement action — the permanent revocation of a device's marketing authorisation in Brazil.
 
 ## When ANVISA may cancel a registration
 
-ANVISA may initiate *cancelamento de registro* when:
+ANVISA may initiate cancelamento de registro when:
 
 - The registered device is found to present an unacceptable risk to public health that cannot be adequately mitigated;
 - The registration holder has materially misrepresented information in the registration dossier;
@@ -22,10 +22,10 @@ ANVISA may initiate *cancelamento de registro* when:
 
 ## Process for cancellation
 
-1. ANVISA initiates an administrative proceeding (*processo administrativo*) — the registration holder is notified.
+1. ANVISA initiates a formal administrative proceeding (processo administrativo) and formally notifies the registration holder in writing of the intent to cancel and the specific grounds.
 2. The registration holder has the right to present a defence.
 3. ANVISA's collegiate board issues a decision.
-4. If cancellation is upheld, it is published in the *Diário Oficial da União* (DOU).
+4. If cancellation is upheld, it is published in the Diário Oficial da União (DOU).
 5. The registration holder must immediately cease distribution and implement a recall of all stock.
 6. The registration holder may appeal through the administrative appeals process and, ultimately, judicial review.
 
@@ -36,3 +36,5 @@ ANVISA may initiate *cancelamento de registro* when:
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+"Any devices manufactured and distributed under the cancelled registration remain subject to post-market surveillance requirements, and customers must be notified of the cancellation status. Devices cannot be legally sold or distributed after the cancellation date, regardless of when they were manufactured."

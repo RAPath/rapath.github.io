@@ -11,9 +11,11 @@ Japan requires MAHs to collect and report near-miss events (ヒヤリ・ハッ�
 
 ## Definition of a near-miss in Japan
 
-A near-miss (Hiyari Hatto) in the Japanese regulatory context is a device-related incident that:
-- Did not result in patient harm, but
-- Could have caused harm if circumstances had been slightly different
+A near-miss (Hiyari Hatto — ヒヤリ・ハット) in the Japanese regulatory context is a device-related incident that:
+
+- Did not result in patient harm or injury, but
+- Could have caused harm or injury if circumstances had been slightly different, or
+- Was identified and intercepted before it could cause harm
 
 Examples include:
 - A device alarm that failed to activate, where nursing staff happened to notice the patient issue by other means

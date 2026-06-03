@@ -15,7 +15,7 @@ keywords: [ANVISA glossary, medical device terms, Brazil regulatory, English Por
 | Cadastre / Listing | Cadastro | Required for Class II |
 | Notification | Notificação | Required for Class I |
 | Good Manufacturing Practices | Boas Práticas de Fabricação (BPF/GMP) | RDC 752/2022 |
-| GMP Certificate | Certificado de Boas Práticas de Fabricação (CBPF) | Issued by ANVISA or state VISA |
+| GMP Certificate | Certificado de Boas Práticas de Fabricação (CBPF) | Issued by ANVISA; required for AFE and product registration; valid for up to 3 years and subject to inspection. or state VISA |
 | Technical Responsible | Responsável Técnico (RT) | Legally mandatory; registered with professional council |
 | Legal Representative | Responsável Legal | Company's legal representative |
 | Establishment Operating Authorisation | Autorização de Funcionamento de Empresa (AFE) | Required for all economic operators |

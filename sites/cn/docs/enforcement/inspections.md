@@ -19,3 +19,5 @@ NMPA enforcement powers are set out in **MDSAR 2021 Chapter VII (Legal Liability
 :::note Disclaimer
 Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [NMPA](https://www.nmpa.gov.cn/) sources before making regulatory decisions. Not affiliated with NMPA or any Chinese Government body. Not legal or regulatory advice.
 :::
+
+NMPA conducts routine inspections, targeted inspections based on risk, and investigation inspections following complaints or adverse events. Local authorities (provincial and municipal) conduct on-site compliance inspections. MDSAR 2021 authorizes inspectors to examine facilities, equipment, records, and products. Inspection findings are documented and may trigger enforcement actions if violations are identified.

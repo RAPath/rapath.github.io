@@ -25,3 +25,5 @@ Distributors play a critical role in the recall and adverse event reporting syst
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+Distributors must report adverse events via NOTIVISA within the applicable timeframe — typically within 30 days for serious adverse events or as specified in RDC 752/2022. The recall implementation timeline should also be clarified: distributors must typically implement recalls within 5 to 10 business days of notification, depending on the severity classification assigned by ANVISA.

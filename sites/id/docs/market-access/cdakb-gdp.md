@@ -10,7 +10,7 @@ description: The CDAKB (Cara Distribusi Alat Kesehatan yang Baik) certificate �
 
 **CDAKB** stands for *Cara Distribusi Alat Kesehatan yang Baik* — Indonesia's Good Distribution Practice (GDP) certification for medical device distributors. It is issued by Kemenkes after inspection and verification that the IDAK holder's operations meet the required standards for device distribution.
 
-From **July 2024**, the CDAKB is **mandatory** — a valid CDAKB certificate must be held by any entity submitting a new NIE application. Holding an IDAK alone is no longer sufficient.
+As of (Note: Confirm whether this applies to renewals of existing NIEs as well.) **July 2024**, the CDAKB is **mandatory** — a valid CDAKB certificate must be held by any entity submitting a new NIE application. Holding an IDAK alone is no longer sufficient.
 
 ---
 
@@ -55,3 +55,7 @@ If your LAR's CDAKB certificate is **suspended** or **revoked** following a fail
 :::
 
 This is why due diligence on your LAR's CDAKB status — and ongoing monitoring — is essential. Request copies of your LAR's current CDAKB certificate and its expiry date before appointment.
+
+CDAKB Validity and Renewal
+
+The CDAKB is valid for a specified period (typically 5 years, though confirm current regulation). It must be renewed before expiry. If the CDAKB expires while a NIE is active, the NIE is automatically frozen until the CDAKB is restored. Monitor your LAR's CDAKB expiry date and coordinate renewal planning well in advance — Kemenkes may conduct re-inspection as part of the renewal process.

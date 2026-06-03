@@ -9,26 +9,21 @@ A Shonin application must demonstrate that the device is safe, effective, and of
 
 ## Required modules
 
-**Module 1 — Administrative information**
-- Application form (PMDA prescribed format)
-- Summary of reasons for application
-- Fee calculation
-- MAH information and licence copy
-- FMR certificate or domestic manufacturing licence
+Module 1 — Administrative information Application form (PMDA prescribed format) Summary of reasons for application Fee calculation and payment proof MAH business registration or licence copy Foreign Manufacturing Registration (FMR) certificate or domestic manufacturing licence
 
-**Module 2 — Summary**
+Module 2 — Summary
 - Summary Technical Documentation (STED)
 - Japanese-language summary of safety and efficacy
 - Overall benefit-risk summary
 
-**Module 3 — Device description**
+Module 3 — Device description
 - Full description of the device, components, materials
 - Intended use and indications
 - JMDN code justification
 - Dimensions, technical specifications
 - Accessories and software components
 
-**Module 4 — Non-clinical studies**
+Module 4 — Non-clinical studies
 - Biocompatibility (ISO 10993 series)
 - Sterilisation validation (if sterile)
 - Electrical safety and EMC (IEC 60601 series, as applicable)
@@ -36,23 +31,23 @@ A Shonin application must demonstrate that the device is safe, effective, and of
 - Mechanical testing, shelf life, packaging validation
 - Animal studies (if applicable)
 
-**Module 5 — Clinical evidence**
+Module 5 — Clinical evidence
 - Clinical evaluation report
 - Summary of clinical investigations (Japanese or foreign)
 - Literature review methodology and findings
 - Post-market data (if available)
 
-**Module 6 — Manufacturing information**
+Module 6 — Manufacturing information
 - Description of manufacturing processes
 - QMS confirmation (MO 169 compliance)
 - Manufacturing site information (FMR reference)
 - Sterilisation process validation summary
 
-**Module 7 — Labelling**
+Module 7 — Labelling
 - Draft labels (Japanese) and IFU
 - Translation certificates if source documents are in other languages
 
-**Module 8 — Essential Principles checklist**
+Module 8 — Essential Principles checklist
 - Completed checklist cross-referencing each Essential Principle to applicable standards or technical data in the dossier
 
 ## Language requirements
@@ -62,3 +57,7 @@ All application documents must be submitted in Japanese, or in English with cert
 ## Electronic submission
 
 Applications are submitted via PMDA's electronic submission gateway (EDRP — Electronic Document Review and Processing system). Paper submission is no longer the standard. Specific file format and naming requirements apply and are published by PMDA.
+
+JMDN code assignment is mandatory for all Shonin applications. The MAH must obtain the appropriate JMDN code from PMDA's JMDN database or request a new code if none exists for the device type. The code assignment should be confirmed before submission and referenced in the Module 3 device description.
+
+Clinical evidence must include either direct clinical investigation data from the device, or a comprehensive literature review with clinical evaluation report justifying that existing published data is sufficiently relevant and robust. At minimum, evidence must address the device's primary safety and efficacy endpoints under intended conditions of use. For Class IV devices and high-risk Class III devices, original clinical investigation data is typically expected. For lower-risk devices, literature-based evidence may be acceptable if thoroughly evaluated and justified.

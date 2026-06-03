@@ -6,7 +6,7 @@ keywords: [QMS audit, Swissmedic, notified body, NB audit, Switzerland, ISO 1348
 # Swissmedic vs EU NB QMS Audits
 
 ## Overview
-Understanding who audits what — and when — is important for efficient QMS management. For Swiss medical devices, QMS oversight comes from two sources: **EU-designated notified bodies** (as part of Annex IX conformity assessment) and **Swissmedic** (as part of market surveillance). These are distinct processes with different triggers and scope.
+Understanding the distinct roles of NB conformity assessment audits and Swissmedic market surveillance inspections is critical for effective QMS management and regulatory compliance. For Swiss medical devices, QMS oversight comes from two sources: **EU-designated notified bodies** (as part of Annex IX conformity assessment) and **Swissmedic** (as part of market surveillance). These are distinct processes with different triggers and scope.
 
 ## EU NB QMS Audits
 
@@ -54,3 +54,5 @@ Understanding who audits what — and when — is important for efficient QMS ma
 :::warning Disclaimer
 AI-assisted navigation aid only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
 :::
+
+In addition to post-market surveillance, Swissmedic may conduct pre-market inspections during conformity assessment procedures, particularly for Class III devices or when high-risk indicators are identified. These inspections assess the manufacturer\'s capability to comply with MedDO before the NB issues a conformity certificate.

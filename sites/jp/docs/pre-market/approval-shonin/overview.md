@@ -49,3 +49,5 @@ Shonin approvals do not expire — they remain valid until withdrawn by the MAH,
 | Re-examination requirement | Yes — typically 3–7 years | No re-examination period |
 | Clinical evidence | Full package usually required | Standard conformity may suffice |
 | Cost | Higher (PMDA review fees + application fees) | Lower (RCB fees only) |
+
+However, the MAH's manufacturing business license and facility registration must remain current. If the MAH's business license lapses or the manufacturing facility is no longer registered, the approval becomes inactive even if technically not revoked. The MAH must maintain continuous compliance with post-marketing obligations including adverse event reporting and re-examination requirements.

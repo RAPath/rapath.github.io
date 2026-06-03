@@ -14,7 +14,7 @@ The obligation to notify *before* implementing changes (rather than after) is im
 
 ## Types of changes and their notification categories
 
-HSA categorises changes into several types, each with different notification requirements:
+HSA categorises changes into several types, each with different notification requirements. The specific category determines whether HSA review and approval is required before implementation, or if notification alone is sufficient:
 
 | Change type | Description |
 |---|---|

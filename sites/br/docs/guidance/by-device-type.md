@@ -42,3 +42,5 @@ Search the ANVISA portal by device type name in Portuguese. ANVISA's technical t
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+For IVD classification and regulatory pathway, manufacturers should consult RDC 36/2015 and ANVISA's IVD classification catalogue (Catálogo de Produtos para Saúde — Produtos de Diagnóstico in vitro).

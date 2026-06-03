@@ -38,3 +38,5 @@ Some OTC devices (those sold directly to consumers without a prescription) are s
 ## Official resources
 - [21 CFR § 801.5](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-H/part-801/subpart-A/section-801.5)
 - [21 CFR § 801.109 — Prescription devices](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-H/part-801/subpart-D/section-801.109)
+
+Example of adequate directions: 'Apply thin layer to affected area twice daily for 7 days. Do not use on broken skin. Stop use if rash occurs.' Inadequate directions might use medical jargon without explanation or omit frequency entirely. The FDA evaluates 'ordinary terms' from the perspective of a typical consumer without medical training.

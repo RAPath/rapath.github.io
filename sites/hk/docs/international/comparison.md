@@ -25,7 +25,7 @@ Hong Kong's MDACS is an administratively-operated voluntary listing system — d
 ## Multi-Market Strategy Notes
 
 **For devices already CE-marked or FDA-cleared:**
-- HK's expedited reliance scheme accepts both → use the expedited route
+- HK's expedited reliance scheme accepts CE and FDA documentation with TR-002 'Reliance Pathway' as the conformity assessment basis. Processing time is typically shorter than full technical file review. → use the expedited route
 - SG's ASEAN CSDT aligns with IMDRF format used by HK → dossier reuse is straightforward
 - Consider submitting to HK and SG simultaneously to maximise efficiency
 
@@ -43,3 +43,5 @@ The Hong Kong Medical Device Division (MDD) participates in **IMDRF (Internation
 - UDI implementation guided by IMDRF UDI guidance
 
 IMDRF alignment means Hong Kong's technical documentation standards are broadly compatible with US (FDA), EU, Australia, and Canada — supporting the expedited reliance scheme.
+
+CSDT = Common Submission Dossier Template; STED = Submission Technical Electronic Documentation. Both are harmonised formats derived from IMDRF principles, enabling streamlined multi-market submissions.

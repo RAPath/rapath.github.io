@@ -28,8 +28,8 @@ Also reportable:
 | Serious adverse events — other | Within **30 calendar days** |
 | Trend reports | Per schedule agreed with CNFV or as specified in NOM-240 |
 
-:::caution Verify current timeframes
-NOM-240 is under revision (PROY-NOM-240-SSA1-2024). Reporting timeframes may be updated in the finalised version. Always check against the current NOM-240 text and CNFV guidance.
+:::caution Timeframe note
+The timeframes above reflect NOM-240-SSA1-2012 (current). A draft update (PROY-NOM-240-SSA1-2024) was under consultation as of early 2025. Once finalised, timeframes may change. Check the DOF and CNFV website for the final version before implementing any changes to your reporting procedures.
 :::
 
 ## Who submits to CNFV?
@@ -81,3 +81,14 @@ All adverse incidents reported during the 5-year registration period must be sum
 - [FSCAs & recalls](fsca-recalls)
 - [Registration renewal](registration-renewal)
 - [NOM-240 technovigilance](../legislation/nom-240-technovigilance)
+
+## Who submits to CNFV?
+
+Handling direct reports from healthcare facilities
+​
+Healthcare users and facilities can report device incidents directly to CNFV without notifying the MRH first. When this occurs:
+
+CNFV will contact the MRH to request an initial assessment and any available information about the device, manufacturer, and incident context.
+The MRH should respond to CNFV within 10 calendar days with available information, even if the full investigation is incomplete.
+Consider this direct reporting pathway when designing your distributor technical agreement — distributors should be contractually required to monitor CNFV communications and alert the MRH if direct reports are received.
+To reduce gaps, encourage major customers and distributors to notify you promptly when they become aware of incidents, even if they have also reported directly to CNFV.

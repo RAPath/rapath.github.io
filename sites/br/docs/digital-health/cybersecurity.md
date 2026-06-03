@@ -30,7 +30,7 @@ ANVISA expects manufacturers of connected medical devices and SaMD to address cy
 | NIST Cybersecurity Framework | General cybersecurity framework referenced by ANVISA |
 | ISO/IEC 27001 | Information security management systems |
 
-ANVISA has not issued a specific mandatory cybersecurity standard, but references AAMI TIR57 and NIST as acceptable frameworks in guidance documents.
+ANVISA expects manufacturers to address cybersecurity using international standards such as AAMI TIR57, IEC 81001-5-1, and NIST Cybersecurity Framework as part of the technical dossier, though no single mandatory standard is prescriptively required.
 
 ## Post-market cybersecurity obligations
 

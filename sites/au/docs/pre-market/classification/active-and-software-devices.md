@@ -82,3 +82,12 @@ AI and machine learning (ML) based software that meets the medical device defini
 - [How Classification Works](./how-classification-works.md)
 - [Software & AI (Special Types)](../special-devices/software-and-ai.md)
 - [Reclassification Updates](./reclassification-updates.md)
+
+After 'Key considerations for AI-based devices include:' add:
+
+Key considerations for AI-based devices include:
+Validation and performance data — the device's training data, validation methodology, and performance metrics must be documented and demonstrate safety and effectiveness
+Output interpretation — whether the output is presented as a diagnosis or merely a recommendation to a health professional affects classification
+Changes in AI performance — post-market monitoring of AI performance and regular updates must be documented
+Transparency — the manufacturer must be able to explain the AI's decision-making process to the extent applicable
+For more information on AI/ML-based SaMD regulatory expectations, refer to TGA guidance.

@@ -56,3 +56,7 @@ The regulatory lifecycle of a medical device in India mirrors the IMDRF Total Pr
 
 - Withdraw device from market; notify CDSCO if required;
 - Manage residual vigilance obligations for implantable devices.
+
+Form MD-14 is the import licence application form for Class B, C, and D devices; Form MD-15 is the registration form for Class A devices, which requires registration rather than full licensing.
+
+Schedule I contains most medical devices; Schedule II contains in vitro diagnostic (IVD) devices. Classification as Class A, B, C, or D determines the licensing pathway, not the schedule.

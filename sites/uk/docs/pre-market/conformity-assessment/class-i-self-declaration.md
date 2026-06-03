@@ -153,3 +153,5 @@ However, MHRA registration remains mandatory regardless of whether the device be
 | MHRA: Conformity assessment for medical devices | MHRA guidance on conformity assessment routes |
 | ISO 13485:2016 | QMS standard |
 | ISO 11607:2019 | Packaging for terminally sterilised medical devices |
+
+Complete the list of documentation required for sterile Class I devices: 'ISO 11135 or ISO 11137 sterilisation validation records; Sterile batch release test reports; Packaging validation data (ISO 11607); Microbial barrier performance data.'

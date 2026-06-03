@@ -8,7 +8,7 @@ description: SFDA risk management requirements for medical devices — ISO 14971
 
 ## SFDA requirement
 
-The SFDA requires manufacturers to implement a **risk management process** in accordance with **ISO 14971:2019** (Medical devices — Application of risk management to medical devices) for all device classes. Risk management is both an Essential Principle requirement and a QMS requirement under ISO 13485.
+The SFDA requires manufacturers to implement a **risk management process** in accordance with **ISO 14971:2019** (Medical devices — Application of risk management to medical devices) for all device classes. Risk management is both a mandatory Essential Principle requirement and a Quality Management System (QMS) requirement under ISO 13485. Manufacturers must implement and document a formal risk management process as part of the MDMA technical file submission.
 
 ## Key ISO 14971 requirements
 

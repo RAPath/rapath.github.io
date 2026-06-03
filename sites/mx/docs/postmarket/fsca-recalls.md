@@ -6,7 +6,7 @@ description: Field Safety Corrective Actions (FSCAs) and recalls in Mexico — w
 
 # FSCAs & Recalls
 
-A **Field Safety Corrective Action (FSCA)** is an action taken by a manufacturer (or MRH in Mexico) to reduce the risk of death or serious injury associated with a medical device already placed on the market. FSCAs include recalls, modifications, exchanges, and advisory notices.
+A Field Safety Corrective Action (FSCA) is an action taken by a manufacturer (or MRH in Mexico) to reduce the risk of death or serious injury associated with a medical device already placed on the market. FSCAs include recalls, modifications, exchanges, and advisory notices.
 
 ## When an FSCA is required
 
@@ -16,7 +16,7 @@ An FSCA should be initiated when:
 - A safety-related correction is required to bring a device into compliance.
 - Clinical or post-market data reveals an unacceptable risk that requires action.
 
-The decision to initiate an FSCA should be driven by your risk management process (ISO 14971). COFEPRIS and CNFV should be **notified promptly** when an FSCA decision is made.
+The decision to initiate an FSCA should be driven by your risk management process (ISO 14971). COFEPRIS and CNFV should be notified promptly when an FSCA decision is made.
 
 ## Types of FSCAs
 
@@ -29,25 +29,25 @@ The decision to initiate an FSCA should be driven by your risk management proces
 
 ## COFEPRIS/CNFV notification
 
-The MRH must notify **CNFV** when an FSCA is initiated:
+The MRH must notify CNFV when an FSCA is initiated:
 
 - Notification should include the FSCA rationale, scope, action plan, and timeline.
 - COFEPRIS may coordinate with international regulators if the issue affects other markets.
-- COFEPRIS may initiate its own **mandatory recall action** if it deems the risk warrants regulatory intervention.
+- COFEPRIS may initiate its own mandatory recall action if it deems the risk warrants regulatory intervention.
 
 ## Field Safety Notice (FSN)
 
-A **Field Safety Notice** is the written communication sent to customers, distributors, and healthcare facilities when an FSCA is undertaken. The FSN must:
+A Field Safety Notice (FSN) is the formal written communication distributed to all affected customers, distributors, healthcare facilities, and healthcare professionals when an FSCA is undertaken. The FSN is a critical regulatory document and should be prepared with legal and medical review. The FSN must:
 
 - Clearly identify the affected device (name, model, serial numbers or lot numbers, date of manufacture range).
 - Describe the hazard and the action required.
 - Provide instructions for the customer (return, stop use, apply correction, etc.).
 - Include contact information for the MRH.
-- Be drafted in **Spanish** for the Mexican market.
+- Be drafted in Spanish for the Mexican market.
 
 ## Record-keeping
 
-All FSCA activities must be documented and included in the **Technovigilance Report** submitted at registration renewal. Records should include:
+All FSCA activities must be documented and included in the Technovigilance Report submitted at registration renewal. Records should include:
 - The decision-making process for initiating the FSCA.
 - List of affected devices (by serial or lot number).
 - Customer contacts and responses.
@@ -59,3 +59,21 @@ All FSCA activities must be documented and included in the **Technovigilance Rep
 - [Technovigilance overview](technovigilance-overview)
 - [NOM-240 technovigilance](../legislation/nom-240-technovigilance)
 - [Enforcement & compliance](../international/imdrf-membership)
+
+## COFEPRIS/CNFV notification
+
+Mandatory recalls vs. voluntary FSCAs
+​
+FSCAs can be either:
+
+Voluntary — initiated by the manufacturer or MRH based on internal risk assessment. In this case, notify CNFV but retain control of scope and timeline.
+Mandatory — ordered by COFEPRIS when it determines an unacceptable risk exists, regardless of the manufacturer's assessment. Mandatory recalls must be implemented as directed and within COFEPRIS-specified timeframes.
+Failure to comply with a mandatory recall can result in:
+
+Suspension of the sanitary registration.
+Administrative penalties (multas).
+Closure of the MRH or distributor facilities.
+Criminal prosecution in cases of severe patient harm.
+Escalation to COFEPRIS
+
+If the MRH does not respond to CNFV notification with a timely assessment and corrective action plan, COFEPRIS may escalate to a mandatory recall without further consultation. Engage COFEPRIS early in the decision-making process for ambiguous cases.

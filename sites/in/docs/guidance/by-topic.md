@@ -25,3 +25,7 @@ For the most current list, visit [CDSCO — Medical Devices Guidance](https://cd
 :::info
 CDSCO guidance is not always published as standalone documents. Many requirements are communicated through office memoranda and gazette notifications. Monitor the CDSCO website and [What's New](/docs/whats-new/regulatory-changes) regularly.
 :::
+
+Change 'ND&CT Rules guidance' row to:
+
+Clinical investigation requirements | New Drugs and Clinical Trials Rules 2019 guidance | ND&CT Rules guidance

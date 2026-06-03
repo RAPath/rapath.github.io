@@ -103,3 +103,5 @@ Essential Principles compliance is not a one-time exercise — it must be mainta
 - [EP 7–15 Design & Construction](./ep-7-15-design-and-construction.md)
 - [Checklist & Compliance](./checklist-and-compliance.md)
 - [Clinical Evidence](../clinical-evidence/what-is-required.md)
+
+EP 13 applies to all devices and requires essential information to be provided on the device, packaging, labelling, and instructions for use. EP 13B is an additional requirement for software-based and programmable devices, requiring that version numbers and build numbers be provided to enable traceability of the specific software deployed. Both must be addressed in technical documentation.

@@ -7,7 +7,7 @@ description: Pathways for conducting clinical trials with medical devices in Can
 
 ## Overview
 
-Clinical investigations of medical devices in Canada require **Investigational Testing Authorization (ITA)** from Health Canada and **Research Ethics Board (REB)** approval at each participating clinical site.
+Clinical investigations of medical devices in Canada require **Investigational Testing Authorization (ITA)** from Health Canada and **Research Ethics Board (REB)** approval at each participating clinical unlicensed both approval institution. These are parallel, complementary authorizations—both must be obtained before the trial may begin.
 
 ## Regulatory pathway for device clinical trials
 
@@ -50,3 +50,7 @@ Data from clinical trials conducted outside Canada (US, EU, Australia) may be ac
 Where a clinical trial is ongoing but a patient cannot enter the trial (e.g., does not meet eligibility criteria), the **Special Access Program** may allow compassionate access to the investigational device for that specific patient.
 
 > **Legislative source:** Medical Devices Regulations, SOR/98-282, ss 72–89; ICH E6(R2) GCP
+
+## Regulatory pathway for device clinical trials
+
+"Health Canada typically issues an ITA decision within 30 calendar days of receiving a complete application via HRES. REB approval timelines vary by institution but typically range from 2-8 weeks. The ITA authorization does not take effect until REB approval is confirmed at all participating sites. Applicants should plan for a total timeline of 2-4 months from ITA submission to trial initiation, accounting for both Health Canada review and multi-centre REB coordination."

@@ -39,3 +39,9 @@ Monitor the 5-year expiry dates of your NMPA registration certificates. Re-regis
 :::note Disclaimer
 Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [NMPA](https://www.nmpa.gov.cn/) sources before making regulatory decisions. Not affiliated with NMPA or any Chinese Government body. Not legal or regulatory advice.
 :::
+
+Legislative updates
+
+No significant pending legislative changes have been confirmed from official NMPA sources at this time. This section will be updated as new draft regulations or amendments are announced. Monitor the official NMPA website and What's New section for announcements.
+
+Last verified: [insert date]. UDI implementation timelines for Class II and Class I devices have been extended multiple times. Refer to the latest NMPA UDI Implementation Timeline guidance and contact NMPA directly to confirm your device category's current deadline, as extensions may be announced without advance notice.

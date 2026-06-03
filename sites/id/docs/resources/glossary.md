@@ -62,7 +62,7 @@ A reference guide to the key Indonesian regulatory acronyms and terms used acros
 
 **IFU** — *Instructions for Use*. The document accompanying a medical device providing information for safe and effective use. Must be in Bahasa Indonesia (primary content) in Indonesia.
 
-**IPAK** — *Izin Penyalur Alat Kesehatan*. The former name for the medical device distribution licence (now called IDAK).
+**IPAK** — *Izin Penyalur Alat Kesehatan*. The former name for the medical device distribution licence (replaced by IDAK as of 2021). IDAK is now the current regulatory term, though some older documents may still reference IPAK.
 
 ---
 
@@ -145,3 +145,5 @@ A reference guide to the key Indonesian regulatory acronyms and terms used acros
 ## U
 
 **UU PDP** — *Undang-Undang Perlindungan Data Pribadi* (Personal Data Protection Law, Law No. 27 of 2022). Governs personal data processing in Indonesia, relevant to connected devices and digital health platforms processing Indonesian patient data.
+
+Complete the LAR definition: "LAR — Local Authorized Representative. The Indonesian legal entity appointed by a foreign manufacturer to act as its representative for regulatory purposes in Indonesia. The LAR must be registered as an importer/distributor with a valid IDAK and CDAKB, and must maintain the company address registered in OSS. The LAR is legally accountable to Kemenkes for all regulatory compliance obligations including adverse event reporting, product recalls, and market surveillance cooperation."

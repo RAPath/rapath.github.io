@@ -8,11 +8,11 @@ tags: [start-here]
 
 # What is a Medical Device?
 
-Under **Article 76 of MDSAR 2021**, a medical device is defined as any instrument, equipment, appliance, in vitro diagnostic reagent, calibration material, material, or other similar or related article — including required software — that meets all of the following:
+Under Article 76 of MDSAR 2021 (State Council Order No. 739), a medical device is defined as any instrument, equipment, appliance, in vitro diagnostic reagent, calibration material, material, or other similar or related article — including required software — that meets all of the following conditions simultaneously:
 
 1. It is used alone or in combination for human beings.
 2. Its intended purpose is diagnosis, prevention, monitoring, treatment, alleviation, or compensation of a disease or injury; examination, replacement, adjustment, or support of a physiological structure or process; supporting or sustaining life; pregnancy control; or examination of samples taken from the human body.
-3. Its primary intended action in or on the human body **is not achieved by pharmacological, immunological, or metabolic means** — though it may be assisted by such means.
+3. Its primary intended action in or on the human body is not achieved by pharmacological, immunological, or metabolic means — though it may be assisted by such means.
 
 This is the foundational definition. If a product meets this definition, it is subject to NMPA regulation regardless of where it is manufactured.
 
@@ -41,12 +41,12 @@ Several product categories sit at the boundary between medical devices and other
 
 ## Next step
 
-Once you have confirmed a product is a medical device, the next question is its **classification**. See [How Classification Works](/cn/docs/pre-market/classification/how-classification-works).
+Once you have confirmed a product is a medical device, the next question is its classification. See [How Classification Works](/cn/docs/pre-market/classification/how-classification-works).
 
 :::tip Official Sources
-- **NMPA** — [www.nmpa.gov.cn](https://www.nmpa.gov.cn/)
-- **CMDE** — [www.cmde.org.cn](https://www.cmde.org.cn/)
-- **NMPA Medical Device Registration Query** — [datasearch.nmpa.gov.cn](https://www.nmpa.gov.cn/datasearch/home-index.html)
+- NMPA — [www.nmpa.gov.cn](https://www.nmpa.gov.cn/)
+- CMDE — [www.cmde.org.cn](https://www.cmde.org.cn/)
+- NMPA Medical Device Registration Query — [datasearch.nmpa.gov.cn](https://www.nmpa.gov.cn/datasearch/home-index.html)
 :::
 
 :::note Disclaimer

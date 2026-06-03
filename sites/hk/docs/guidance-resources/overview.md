@@ -8,16 +8,28 @@ description: Index of official MDD guidance — TR series, GN series, and MDIS u
 
 ## Technical References (TR) — Normative
 
-| Document | Topic |
-|----------|-------|
-| TR-001 | Essential Principles |
-| TR-002 | Conformity Assessment |
-| TR-003 | Classification — General Devices |
-| TR-004 | Classification — IVDs |
-| TR-005 | Adverse Event Reporting |
-| TR-006 | FSCAs |
-| TR-007 | Labelling |
-| TR-008 | Clinical Evidence |
+Technical References (TR) — Normative
+
+TRs define technical requirements and are binding for MDACS compliance. Always use the current version.
+
+Document
+Topic
+TR-001
+Essential Principles and general device requirements
+TR-002
+Conformity Assessment pathways and acceptable evidence
+TR-003
+Classification rules for general medical devices (Class I–IV)
+TR-004
+Classification rules for in vitro diagnostic devices (Class A–D)
+TR-005
+Adverse event and incident reporting procedures
+TR-006
+Field Safety Corrective Actions (FSCAs) and notifications
+TR-007
+Labelling, instructions for use (IFU), and user information
+TR-008
+Clinical evidence requirements by device class and type
 
 ## Guidance Notes (GN) — Procedural
 
@@ -31,8 +43,10 @@ Operational guides for the MDIS online submission portal — available from the 
 
 ## Official Source
 
-All documents: **[MDD Official Website](https://www.dh.gov.hk/)** → Department of Health → Medical Device Division
+All documents: [MDD Official Website](https://www.dh.gov.hk/) → Department of Health → Medical Device Division
 
 :::info Always use current versions
 TRs and GNs are periodically updated. Download fresh copies before each submission.
 :::
+
+Last Updated' column with note: 'All TRs and GNs include publication/revision dates. Download only the current version from the MDD website (https://www.drugoffice.gov.hk/english/infopage/mdm/201601/md_ref.html). Verify version numbers before submission.

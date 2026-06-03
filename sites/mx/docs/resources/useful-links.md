@@ -48,9 +48,7 @@ description: Official COFEPRIS portals, DOF access, NOM texts, international reg
 | USA (FDA) | [rapath.github.io/us/](https://rapath.github.io/us/) |
 | Mexico (COFEPRIS) | [rapath.github.io/mx/](https://rapath.github.io/mx/) |
 
-:::caution Link currency
-COFEPRIS and the Mexican government periodically restructure their web portals. If a link above is broken, search for the resource directly on gob.mx/cofepris or dof.gob.mx.
-:::
+Link maintenance: COFEPRIS and Mexican government agencies periodically restructure their web portals. If any link above is broken or returns a 404 error, search for the resource directly on gob.mx/cofepris or dof.gob.mx, or contact COFEPRIS through their official contact channels listed on the main portal.
 
 ## Related pages
 

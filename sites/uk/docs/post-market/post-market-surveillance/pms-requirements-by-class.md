@@ -102,3 +102,5 @@ The PMS report feeds directly into the PSUR for classes requiring PSURs.
 | UK MDR 2002, Schedule 3 | Conformity assessment surveillance obligations |
 | MHRA: Post-market surveillance guidance | MHRA's PMS guidance |
 | ISO 13485:2016, Clause 8.2 | Post-production monitoring and measurement |
+
+IVD self-test devices: PSUR requirements depend on the conformity assessment route. Self-test devices assessed by a UKAB must submit PSURs at least every 2 years. Self-test devices that are not UKAB-certified (if permitted by the classification) may have different reporting obligations — consult MHRA guidance on IVD classification and conformity assessment requirements.

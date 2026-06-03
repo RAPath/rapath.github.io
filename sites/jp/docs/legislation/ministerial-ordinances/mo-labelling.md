@@ -35,7 +35,7 @@ Every medical device sold in Japan must carry a label in Japanese containing:
 
 ## IFU requirements
 
-Every medical device (Class II and above) must be accompanied by a Japanese-language Instructions for Use (添付文書 — tenpū bunsho). The IFU must include:
+Every medical device (Class II and marketed in Japan above; Class I devices may have reduced requirements) must be accompanied by a Japanese-language Instructions for Use (添付文書 — tenpū bunsho). The IFU must include:
 - Approved intended use / indications
 - Contraindications
 - Warnings and precautions
@@ -50,3 +50,5 @@ The content of the IFU must not exceed the scope of the approved intended use. C
 ## Special labelling rules by device type
 
 MHLW has issued device category-specific labelling notifications for implants, sterile devices, active devices, and IVDs that add requirements beyond the general rules. Verify applicable specific notifications for your device category.
+
+Class I devices may have different or reduced IFU requirements depending on the specific device category and risk classification. Refer to applicable MHLW notifications for Class I device labelling and IFU exemptions.

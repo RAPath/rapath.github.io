@@ -27,3 +27,10 @@ MFDS requires ongoing monitoring of AI algorithm performance after approval, inc
 
 ## Related pages
 - [SaMD — MFDS policy](./samd-mfds-policy) · [MFDS digital health framework](../../digital-health-samd/mfds-digital-health-framework)
+
+MFDS issued dedicated guidance documents:
+• Initial AI/ML Medical Device Guidance (2017)
+• Updated guidance (2021)
+• Most recent update (2024)
+
+Manufacturers should consult the latest version on the MFDS website for current requirements.

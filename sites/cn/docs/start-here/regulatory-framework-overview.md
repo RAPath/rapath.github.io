@@ -23,7 +23,7 @@ The three-tier authority split — where the level of government responsible for
 | **Class I** | District/county-level NMPA bureau (or municipal in some jurisdictions) | Self-declaration; no independent technical review |
 | **Class II** | Provincial NMPA bureau | Provincial bureau technical review team |
 | **Class III** (domestic) | National NMPA | CMDE (Centre for Medical Device Evaluation) |
-| **All imported devices** (Class I–III) | National NMPA | CMDE (for Class II/III); national NMPA for Class I filing |
+| **All imported devices** (Class I–III) | National NMPA | CMDE (for Class II/III); district/county-level (via national NMPA portal) NMPA for Class I filing |
 
 ---
 
@@ -60,3 +60,5 @@ See [Legislation & Regulations](/cn/docs/legislation/mdsar-2021) for the full le
 :::note Disclaimer
 Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [NMPA](https://www.nmpa.gov.cn/) sources before making regulatory decisions. Not affiliated with NMPA or any Chinese Government body. Not legal or regulatory advice.
 :::
+
+Recent Framework Developments: NMPA continues to issue guidance documents and announcements updating aspects of MDSAR 2021 implementation. Key areas of ongoing evolution include: UDI implementation timelines, real-world evidence standards for re-registration, and data localization requirements for clinical trial data. Applicants should monitor www.nmpa.gov.cn for announcements.

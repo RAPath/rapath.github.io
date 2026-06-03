@@ -39,3 +39,5 @@ Notifications specifying IFU content requirements, UDI implementation timelines,
 Full notification database: [mhlw.go.jp — pharmaceutical notifications](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iyakuhin/kigu/index.html)
 Search by topic area or date range. Note: the notification database is in Japanese only.
 :::
+
+"Unique Device Identification (UDI): MHLW notifications specify Japan's UDI implementation requirements, including GTIN, lot/serial number formats, and labelling placement for devices sold in Japan. Timeline for mandatory UDI compliance varies by device class. Check current MHLW notifications for your device's UDI deadline."

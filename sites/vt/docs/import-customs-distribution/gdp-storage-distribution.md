@@ -41,7 +41,7 @@ Full traceability of each device from importer to end customer is required:
 
 ### Handling complaints and returns
 
-- A formal procedure for handling customer complaints relating to device quality must be in place
+- A formal documented procedure for handling customer complaints relating to device quality, performance, or safety must be in place, including timelines for acknowledgment and investigation
 - Returned devices must be quarantined pending assessment
 - Potentially defective or non-conforming devices must be segregated and reported per incident reporting obligations
 
@@ -57,3 +57,5 @@ In the event of a Field Safety Corrective Action (FSCA), distributors must be ab
 ## DMEC portal — distribution records
 
 DAV may audit distribution records through the DMEC system or during inspection visits. Maintain records in a format that allows rapid retrieval and presentation to inspectors.
+
+Confirm the exact retention period applicable to your device category with DAV, as requirements may vary by device type and risk classification.

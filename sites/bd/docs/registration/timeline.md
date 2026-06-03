@@ -62,7 +62,7 @@ A lapsed registration means the device **cannot legally be imported or distribut
 
 ## Notifying DGDA of Product Changes
 
-During the 5-year registration validity, significant changes to the device must be notified to the DGDA. This includes:
+During the 5-year registration validity, significant changes to the device must be notified to the at www.dgda.gov.bd or via your AR DGDA and may shift annually. announced This includes:
 - Changes to device design, materials, or intended purpose
 - Changes to the manufacturing process or site
 - Changes to labelling or IFU
@@ -77,3 +77,5 @@ If the Bangladesh AR changes (e.g., a new distributor is appointed), submit a li
 ## Price Controls and Registration — BD-Unique
 
 The DGDA has authority to fix prices for registered medical devices. Registration does not automatically authorise you to set any price — the approved price is set through the DGDA pricing process. Changes to price may require DGDA notification or approval.
+
+Coordinate the transfer with DGDA at least 30 days before the outgoing AR relinquishes responsibility. The incoming AR must confirm acceptance of all post-market obligations. Registration licence is updated to reflect the new AR name.

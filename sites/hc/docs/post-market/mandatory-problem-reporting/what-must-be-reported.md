@@ -36,7 +36,7 @@ The following typically do **not** require an MPR:
 - Events caused entirely by the patient's underlying condition with no device contribution
 - Events caused entirely by user error unrelated to any device deficiency
 - Minor complaints with no patient safety implications
-- Events where the device performed exactly as specified, but the indication was wrong
+- Events where the device performed exactly as specified and (i.e., the device was used off-label or for an unintended purpose) — however, if the incorrect use was facilitated by inadequate labelling or design deficiency, reporting may be required the indication was wrong
 
 When in doubt, err on the side of reporting — Health Canada prefers over-reporting to under-reporting.
 
@@ -46,3 +46,7 @@ There is a distinction between:
 - **Expected** events (described in the device's labelling as a known, acceptable risk) → 30-day reporting requirement
 
 > **Legislative source:** Medical Devices Regulations, SOR/98-282, ss 59–64
+
+Near-miss events
+
+A near-miss is an event in which a device malfunction or deficiency occurred that could have caused serious deterioration or death, but was identified and corrected before harm occurred. Near-misses should be documented and monitored as part of PMS and complaint analysis, and may trigger reporting if the malfunction/deficiency itself meets the threshold criteria (i.e., it has the potential to cause serious harm if it recurs). When in doubt, report near-miss events.

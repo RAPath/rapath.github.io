@@ -151,3 +151,5 @@ The PRRC's name and contact information must be available to the competent autho
 | MDR Art. 15(3) | Micro and small enterprise provisions |
 | MDCG 2019-6 | Questions & Answers on the PRRC |
 | Commission Recommendation 2003/361/EC | Definition of micro, small, and medium-sized enterprises |
+
+Complete the truncated sentence. It should read: 'they may contract an external person as PRRC, provided the external PRRC has appropriate qualifications and is always available, even if not permanently employed by the organisation.'

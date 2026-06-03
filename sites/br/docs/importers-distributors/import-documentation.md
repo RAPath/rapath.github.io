@@ -33,3 +33,5 @@ ANVISA has inspectors at major Brazilian ports of entry (São Paulo/Guarulhos, R
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+The ANVISA Import Licence (LI) must be obtained before shipment dispatch and is typically processed within 5 to 10 business days via SISCOMEX. Import duty rates vary by NCM code (typically 12–18% ad valorem for medical devices). IPI (Imposto sobre Produtos Industrializados) may also apply depending on device classification. Importers should budget for these costs when planning imports.

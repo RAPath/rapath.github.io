@@ -22,7 +22,7 @@ UK-designated standards for medical devices — the list of standards that provi
 
 ## What are UK-designated standards?
 
-UK-designated standards are published standards (British Standards, ISO standards, IEC standards, and others) that have been designated by MHRA/BSI as providing a **presumption of conformity** with the Essential Requirements to which they relate. This is the UK equivalent of harmonised standards in the EU.
+UK-designated standards are published standards (British Standards, ISO standards, IEC standards, and others) that have been designated by MHRA/BSI as providing a presumption of conformity with the Essential Requirements to which they relate. This is the UK equivalent of harmonised standards in the EU.
 
 When a manufacturer applies a UK-designated standard in full, they benefit from a presumption that the device meets the relevant Essential Requirements — they do not need to demonstrate conformity through other means for those requirements.
 
@@ -47,9 +47,7 @@ When a manufacturer applies a UK-designated standard in full, they benefit from 
 MHRA publishes the current list of UK-designated standards at:
 [gov.uk/government/publications/designated-standards-for-medical-devices](https://www.gov.uk/government/publications/designated-standards-for-medical-devices)
 
-:::tip
-Not all EU harmonised standards are automatically UK-designated. Check MHRA's current list — do not assume EU harmonised status equals UK-designated status.
-:::
+⚠ Important: Not all EU harmonised standards under EU MDR 2017/745 are automatically UK-designated under UK MDR 2002. Check MHRA's current official list at gov.uk/government/publications/designated-standards-for-medical-devices — do not assume EU harmonised status equals UK-designated status. Using non-designated standards does not confer presumption of conformity in GB.
 
 ## Official references
 
@@ -57,3 +55,5 @@ Not all EU harmonised standards are automatically UK-designated. Check MHRA's cu
 |---|---|
 | MHRA: Designated standards for medical devices | Current list of UK-designated standards |
 | BSI | British Standards Institution — UK standards body |
+
+To determine which standards apply to your device: (1) identify the device's classification and intended use, (2) consult the relevant Essential Requirements in Schedule 1, (3) cross-reference MHRA's current designated standards list to find applicable standards, and (4) ensure all requirements addressed by a standard are fully met — partial compliance does not confer presumption of conformity. If a standard is not fully applied, document alternative conformity methods.

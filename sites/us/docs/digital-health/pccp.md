@@ -78,3 +78,5 @@ A PCCP does not authorise:
 - [FDA — PCCP Guidance (2024)](https://www.fda.gov/media/166704/download)
 - [FD&C Act § 515C — PCCP statutory basis](https://www.law.cornell.edu/uscode/text/21/360e-4)
 - [FDA — AI/ML-Enabled Devices](https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-and-machine-learning-aiml-enabled-medical-devices)
+
+If an implemented modification results in unexpected performance degradation, safety signals, or adverse events, the manufacturer must immediately notify FDA and may be required to submit a new premarket submission or seek modification of the approved PCCP. Failure to report performance issues discovered during real-world use can trigger FDA enforcement action.

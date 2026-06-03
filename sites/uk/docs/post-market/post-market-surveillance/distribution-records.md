@@ -9,7 +9,7 @@ tags: [uk-mdr, distribution-records, post-market-surveillance, post-market]
 ---
 
 :::note[Regulatory basis]
-Distribution record requirements are in **Schedule 1 (Essential Requirements) and Schedule 3 (conformity assessment conditions) of the UK MDR 2002**. Records must be retained for minimum periods and must be detailed enough to enable effective recall and FSCA implementation.
+Distribution record requirements are in Schedule 1 (Essential Requirements) and Schedule 3 (conformity assessment conditions) of the UK MDR 2002. Records must be retained for minimum periods and must be detailed enough to enable effective recall and FSCA implementation.
 :::
 
 ---
@@ -41,10 +41,7 @@ Manufacturers and importers must maintain records that enable identification of 
 | Recipient contact person | Facilitate rapid communication |
 | Delivery confirmation reference | Prove receipt |
 
-For **implantable devices**, records must additionally capture (where available):
-- The healthcare facility performing implantation
-- Date of implantation
-- Patient identifier (held by the facility, not necessarily the manufacturer)
+For implantable and AIMD devices, records must additionally capture (where available):
 
 ---
 
@@ -80,3 +77,5 @@ The entire supply chain must be traceable from manufacturer to end user. Where d
 |---|---|
 | UK MDR 2002, Schedule 3 | Distribution record requirements in conformity assessment conditions |
 | MHRA: Post-market surveillance guidance | Record-keeping guidance |
+
+Upon cessation of business, the distributor or importer must transfer all distribution records to the manufacturer or another party capable of maintaining them. The manufacturer remains responsible for ensuring that distribution records are retained for the full retention period even if the original distributor no longer exists. The transfer of records must be documented and traceable.

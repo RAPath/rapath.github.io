@@ -13,7 +13,7 @@ India's Medical Devices Rules 2017 adopts a **four-class, risk-based** classific
 
 | Class | Risk level | Licensing authority |
 |---|---|---|
-| **Class A** | Low risk | State Licensing Authority (SLA) for manufacture; CDSCO Form MD-15 for import |
+| **Class A** | Low risk | State Licensing Authority (SLA) for manufacture; (self-declaration / registration) (no CDSCO approval required) Form MD-15 for import |
 | **Class B** | Low-to-medium risk | SLA for manufacture; CDSCO Form MD-14 for import |
 | **Class C** | Medium-to-high risk | CDSCO for manufacture; CDSCO Form MD-14 for import |
 | **Class D** | High risk | CDSCO for manufacture; CDSCO Form MD-14 for import |
@@ -33,7 +33,7 @@ Classification is based on:
 1. Identify whether the device is listed in **Schedule I** (medical devices) or **Schedule II** (IVDs);
 2. Review the classification criteria in **Rule 4** and the applicable Schedule;
 3. Apply the classification rules to the intended use and technical characteristics;
-4. If borderline or ambiguous, seek guidance from CDSCO or refer to IMDRF classification guidance.
+4. If borderline or ambiguous, submit a pre-submission inquiry (PSI) to CDSCO with device description, intended use, and technical specifications before full development. You may also refer to published IMDRF classification guidance documents and precedent classifications available on the CDSCO website.
 
 ## IVDs have a separate classification track
 
@@ -42,3 +42,6 @@ In vitro diagnostics listed in Schedule II follow distinct classification rules 
 ## Software and SaMD
 
 Software as a Medical Device (SaMD) is classified using the IMDRF SaMD classification framework, adapted for the Indian context. See [SaMD Classification](/docs/pre-market/classification/samd-classification).
+
+**Note on State Licensing Authorities (SLA)**
+Manufacturing licenses for Class A and B devices are issued by State Licensing Authorities designated by individual state governments. Manufacturers must apply through their respective state health department or state drug licensing authority. There is no centralized CDSCO application for Class A and B manufacturing licenses.

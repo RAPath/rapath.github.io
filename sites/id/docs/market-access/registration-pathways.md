@@ -78,3 +78,7 @@ Not every change to a registered device requires a new NIE:
 - **Major changes** (new intended use, new brand name, change of NIE holder) → Full re-registration required
 
 See [Change Notifications](../post-market-surveillance/change-notifications) for the decision framework.
+
+Use of Foreign Clinical Data
+
+While foreign regulatory approvals (FDA, CE Mark, TGA, HSA) can be submitted as supporting evidence to facilitate Kemenkes review, they do not waive the requirement to provide an ASEAN CSDT-compliant dossier. Kemenkes evaluators conduct an independent assessment. For Class B and higher, you must still provide clinical evaluation reports or literature reviews aligned with ASEAN requirements, even if the device holds foreign approval. The foreign approval reduces evaluator questions but does not replace local documentation requirements.

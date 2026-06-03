@@ -47,3 +47,7 @@ If the software is **intended to be the primary basis** for clinical decision-ma
 - [FDA — CDS Software Guidance (2022)](https://www.fda.gov/media/133650/download)
 - [FD&C Act § 520(o)](https://www.law.cornell.edu/uscode/text/21/360j)
 - [FDA — Digital Health Center of Excellence](https://www.fda.gov/medical-devices/digital-health-center-excellence)
+
+Documentation requirements
+
+Manufacturers should document their § 520(o) exclusion analysis as part of premarket submissions or device master record maintenance. FDA recommends including: (1) a detailed assessment of how the software meets each of the four criteria, (2) evidence that independent clinical review is feasible and expected, and (3) labelling or training materials that reinforce the clinician's independent review obligation.

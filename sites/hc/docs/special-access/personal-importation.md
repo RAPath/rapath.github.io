@@ -28,7 +28,7 @@ The personal importation pathway is generally accepted when:
 Personal importation does **not** allow:
 - Import for distribution to others (even at no charge — this constitutes distributing, which requires an MDEL)
 - Import of large quantities beyond personal use
-- Import of devices that have been subject to a Health Canada safety advisory or recall in Canada
+- Import of devices that are subject to an active Health Canada safety advisory or are under recall in Canada. Devices previously subject to resolved recalls may be importable depending on current status.
 
 ## CBSA and Health Canada interaction
 

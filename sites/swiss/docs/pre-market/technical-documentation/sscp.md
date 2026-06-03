@@ -6,7 +6,7 @@ keywords: [SSCP, summary of safety clinical performance, MedDO Art 35, Class III
 # Summary of Safety and Clinical Performance (SSCP)
 
 ## Overview
-The **SSCP** is a publicly available document summarising device safety and clinical performance. Required by MedDO Art. 35 for **Class III devices** and all **implantable devices** (excluding custom-made and investigational devices). Must be written in terms understandable to intended users and, where relevant, to patients.
+The SSCP (Summary of Safety and Clinical Performance) is a publicly available document providing a comprehensive summary of device safety and clinical performance data accessible to healthcare professionals and, where relevant, patients. Required by MedDO Art. 35 for Class III devices and all implantable devices (excluding custom-made and investigational devices). Must be written in terms understandable to intended users and, where relevant, to patients.
 
 ## Content Requirements (MedDO Art. 35)
 1. Device identification — name, model, intended purpose, UDI, CE status
@@ -24,7 +24,7 @@ The **SSCP** is a publicly available document summarising device safety and clin
 The NB validates the SSCP as part of conformity assessment for Class III and implantable devices, reviewing it for accuracy, completeness, and accessibility.
 
 ## Swiss Language Requirements
-The SSCP must be available in **German, French, and Italian** where the device is available to patients. For professional-use-only devices, fewer language versions may be required.
+The SSCP must be available in German, French, and Italian where the device is available to patients. For professional-use-only devices, fewer language versions may be required.
 
 ## Official Sources
 - [MedDO Art. 35 (SR 812.213)](https://www.fedlex.admin.ch/eli/cc/2021/205/en)
@@ -33,3 +33,5 @@ The SSCP must be available in **German, French, and Italian** where the device i
 :::warning Disclaimer
 AI-assisted content for navigation only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
 :::
+
+The SSCP must be updated and revalidated by the NB whenever significant new safety or performance data becomes available, including post-market surveillance findings, serious incidents, or material changes to the device design or intended use. The update frequency should be defined in the manufacturer\'s post-market surveillance plan.

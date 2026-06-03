@@ -183,3 +183,5 @@ AIMDs are subject to the most stringent post-market obligations:
 | MHRA: Active implantable medical devices guidance | MHRA AIMD guidance |
 | EU AIMDD 90/385/EEC | Source directive for UK Part II (comparative reference) |
 | ISO 14708 series | Implants for surgery — active implantable devices standards |
+
+The section ends with 'Ele' which is clearly truncated. The full content discussing 'Electrical, mechanical, and biological properties' needs to be completed.

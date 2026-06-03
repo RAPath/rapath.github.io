@@ -63,3 +63,5 @@ Target: **120 working days** from acceptance of complete application.
 :::warning Clinical Data is Critical
 MDA scrutinises clinical evidence for Class C devices carefully. Insufficient clinical data is a leading cause of rejections. Ensure your Clinical Evaluation Report is comprehensive, current, and product-specific.
 :::
+
+ISO 13485 QMS certificate from a recognised certification body is required. MDSAP certificates may supplement but typically do not replace ISO 13485 certification for Class C devices due to the enhanced conformity assessment requirements. Confirm acceptance of MDSAP via pre-submission query if intended as primary QMS evidence.

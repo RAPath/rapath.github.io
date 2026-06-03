@@ -35,7 +35,7 @@ A complete initial MPR should include:
 - Date the company became aware of the incident
 - Date of the incident (if known)
 - Description of what happened
-- Patient/user information (anonymised — initials, age, sex)
+- Patient/user information (anonymised where possible using initials or identifier codes; include age and sex if relevant to the incident; do not include full patient name or health insurance number)
 - Clinical outcome (death, serious deterioration, near miss)
 
 ### Initial assessment

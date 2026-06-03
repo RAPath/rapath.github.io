@@ -194,3 +194,9 @@ Software risks are managed through the integration of IEC 62304 (software lifecy
 | IEC 62366-1:2015 + A1:2020 | Usability engineering — use-related risk |
 | IEC 62304:2006 + A1:2015 | Software lifecycle — software risks |
 | MHRA: Designated standards | ISO 14971 is a UK-designated standard |
+
+The risk evaluation section should continue:
+
+Step 5: Risk evaluation
+
+Each estimated risk is evaluated against the risk acceptability criteria defined in the Risk Management Plan. Risks above the acceptance threshold are deemed 'unacceptable' and must be mitigated through risk control measures (design changes, protective features, or warnings). Acceptable risks may be tolerated as-is. The risk evaluation must be documented with clear traceability to the risk acceptability criteria.

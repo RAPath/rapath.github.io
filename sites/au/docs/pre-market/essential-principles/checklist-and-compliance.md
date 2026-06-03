@@ -7,7 +7,7 @@ last_reviewed: 2026-04-30
 
 ## Overview
 
-Demonstrating compliance with the Essential Principles requires systematic documentation. The manufacturer must identify which EPs apply to their device, gather and assess evidence of compliance for each applicable EP, and compile this into a structured format — typically as part of their technical file. The TGA publishes a standard **Essential Principles Checklist** template that is expected in most ARTG applications and is a practical starting point for documenting compliance.
+Demonstrating compliance with the Essential Principles requires systematic documentation. The manufacturer must identify which EPs apply to their device, gather and assess evidence of compliance for each applicable EP, and compile this into a structured format — typically as part of their technical file. The TGA publishes a standard Essential Principles Checklist template that is expected in most ARTG applications and is a practical starting point for documenting compliance.
 
 ---
 
@@ -62,11 +62,11 @@ Any alternative approach must still demonstrate that the EP's underlying intent 
 
 During an ARTG application audit, TGA auditors review the EP checklist and supporting evidence. Common issues that cause audit delays or failures include:
 
-- **Using outdated standards** — the edition of the standard must be current at the time of application or the deviation must be justified
-- **Missing EP applicability justifications** — simply marking an EP as "N/A" without explanation is insufficient
-- **Gaps between the checklist and the technical file** — the checklist references documents that are not actually in the technical file
-- **Incomplete biocompatibility assessment** — for patient-contacting devices, a biological safety evaluation report (BSER) following ISO 10993-1 is expected
-- **Inadequate clinical evidence** — the level of clinical evidence must be proportionate to the device class and novelty
+- Using outdated standards — manufacturers should apply the most current edition of the standard at the time of technical file preparation. If an earlier edition is applied, this must be justified and documented, and evidence that the intended compliance is still achieved must be provided
+- Missing EP applicability justifications — simply marking an EP as "N/A" without explanation is insufficient
+- Gaps between the checklist and the technical file — the checklist references documents that are not actually in the technical file
+- Incomplete biocompatibility assessment — for patient-contacting devices, a biological safety evaluation report (BSER) following ISO 10993-1 is expected
+- Inadequate clinical evidence — the level of clinical evidence must be proportionate to the device class and novelty
 
 ---
 

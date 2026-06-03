@@ -15,3 +15,6 @@ Technical documentation must demonstrate the device **performs as intended**:
 - **Usability testing** — human factors, especially for lay users
 
 Test reports from **MFDS-recognised testing laboratories** required for standards-mandated tests.
+
+Clinical performance testing
+— human clinical data, comparative effectiveness, safety outcomes in intended use population

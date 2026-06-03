@@ -33,7 +33,7 @@ ANVISA inspectors are empowered to:
 
 ## Preparing for an ANVISA inspection
 
-- Maintain a current GMP/CBPF compliance programme at all times — do not treat inspections as isolated events.
+- Maintain a current and documented GMP compliance programme at all times, with records demonstrating continuous compliance — do not treat inspections as isolated events. A robust quality system should be your baseline operating standard, not a preparation activity.
 - Ensure all required documents are readily accessible: AFE, CBPF certificate, batch records, NOTIVISA reports, CAPA records.
 - Brief the Responsável Técnico on their role as the primary contact for ANVISA inspectors.
 - Conduct regular internal audits using ANVISA's inspection checklist as a reference.
@@ -45,3 +45,7 @@ ANVISA inspectors are empowered to:
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+"Products collected during market surveillance inspections are submitted to ANVISA laboratories for testing and analysis. If non-conformities are detected, the registration holder is notified and enforcement action may be initiated, ranging from corrective action requests to seizure or registration cancellation."
+
+"Organize batch records, complaint handling logs, CAPA documentation, and non-conformance reports by date and device for quick retrieval. Ensure all required signatures, approvals, and timestamps are present in quality system documentation."

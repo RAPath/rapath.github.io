@@ -68,3 +68,5 @@ See [eSTAR Templates](/docs/guidance/estar-templates) for more detail.
 - [FDA Form 3881 — Indications for Use](https://www.fda.gov/media/72421/download)
 - [FDA — 510(k) Refuse to Accept Policy (2019 Guidance)](https://www.fda.gov/media/83888/download)
 - [eSTAR Templates](https://www.fda.gov/medical-devices/how-study-and-market-your-device/estar-electronic-submission-template-and-resource)
+
+Note: When submitting via eSTAR, the Indications for Use information is captured within the eSTAR template itself. FDA Form 3881 as a standalone document is no longer required for eSTAR submissions, though the required content elements remain the same.

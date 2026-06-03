@@ -9,7 +9,7 @@ tags: [mdr, ivdr, advertising, claims, labelling]
 # Advertising rules & permitted/prohibited claims
 
 :::note
-**Regulatory basis** - **MDR Art. 7** (claims); **MDR Art. 2(24)** (intended purpose shaped by advertising); **IVDR Art. 7** (IVDR claims). Advertising and promotional materials are part of the "information supplied by the manufacturer" and shape the legal intended purpose of the device.
+Regulatory basis - MDR Art. 7 (claims); MDR Art. 2(24) (intended purpose shaped by advertising); IVDR Art. 7 (IVDR claims). Advertising and promotional materials are part of the "information supplied by the manufacturer" and shape the legal intended purpose of the device.
 :::
 
 :::warning Disclaimer
@@ -20,14 +20,14 @@ This site provides general information only and does not constitute legal or reg
 
 ## Why advertising matters for device regulation
 
-In EU device law, **advertising and promotional materials are not separate from regulatory obligations** — they form part of the information used to determine the device's intended purpose.
+In EU device law, advertising and promotional materials are not separate from regulatory obligations — they form part of the information used to determine the device's intended purpose.
 
-MDR Art. 2(24) defines "intended purpose" as the use for which a device is intended **according to the data supplied by the manufacturer on the labelling, in the instructions and in promotional or sales material or statements and as specified by the manufacturer in the clinical evaluation**.
+MDR Art. 2(24) defines "intended purpose" as the use for which a device is intended according to the data supplied by the manufacturer on the labelling, in the instructions and in promotional or sales material or statements and as specified by the manufacturer in the clinical evaluation.
 
 This means:
-- A claim made in a brochure, website, or sales presentation can **expand the intended purpose** beyond what is stated in the IFU
-- If the expanded intended purpose triggers a higher classification or additional conformity assessment requirements, the advertising claim makes the device **non-compliant**
-- Claims must always be **consistent with and supported by** the clinical evaluation
+- A claim made in a brochure, website, or sales presentation can expand the intended purpose beyond what is stated in the IFU
+- If the expanded intended purpose triggers a higher classification or additional conformity assessment requirements, the advertising claim makes the device non-compliant
+- Claims must always be consistent with and supported by the clinical evaluation
 
 ---
 
@@ -37,10 +37,10 @@ MDR Art. 7 prohibits claims in labelling, IFU, and any advertising materials tha
 
 | Prohibited claim type | Example |
 |---|---|
-| **Misleading as to intended purpose, safety, or performance** | "100% safe"; "eliminates all risk of infection" |
-| **Likely to mislead the user or patient** | Selective presentation of clinical data ignoring adverse events |
-| **Attributes to the device properties it does not have** | "Clinically proven to cure [disease]" when evidence is insufficient |
-| **Suggests use or clinical performance for which the device is not CE marked** | Advertising use cases outside the approved intended purpose |
+| Misleading as to intended purpose, safety, or performance | "100% safe"; "eliminates all risk of infection" |
+| Likely to mislead the user or patient | Selective presentation of clinical data ignoring adverse events |
+| Attributes to the device properties it does not have | "Clinically proven to cure [disease]" when evidence is insufficient |
+| Suggests use or clinical performance for which the device is not CE marked | Advertising use cases outside the approved intended purpose |
 
 ---
 
@@ -48,10 +48,10 @@ MDR Art. 7 prohibits claims in labelling, IFU, and any advertising materials tha
 
 Permitted advertising claims are those that are:
 
-1. **Accurate and factual** — supported by clinical evidence in the technical documentation
-2. **Consistent with the CE-marked intended purpose** — within the scope of the clinical evaluation
-3. **Not misleading** — presented in context with relevant limitations, contraindications, and expected side effects
-4. **Appropriately qualified** — comparative claims backed by head-to-head data; performance claims linked to specific test conditions
+1. Accurate and factual — supported by clinical evidence in the technical documentation
+2. Consistent with the CE-marked intended purpose — within the scope of the clinical evaluation
+3. Not misleading — presented in context with relevant limitations, contraindications, and expected side effects
+4. Appropriately qualified — comparative claims backed by head-to-head data; performance claims linked to specific test conditions
 
 ### Examples of permitted claims
 
@@ -66,8 +66,11 @@ Permitted advertising claims are those that are:
 
 ## Prohibited claims — what to avoid
 
-### Absolute safety claims
-"Safe", "100% safe", "no risk of infection" — these imply zero risk, which no medical device can guarantee. MDR requires that residual risks be acknowledged. Absolute safety claims are misleading.
+Prohibited claims — what to avoid
+​
+Absolute safety claims
+​
+"Safe", "100% safe", "no risk of infection", "risk-free" — these imply zero risk, which no medical device can guarantee. MDR Art. 7 and the GSPR (Annex I §1.1) require that residual risks be acknowledged and managed. Absolute safety claims contradict this requirement and are prohibited as misleading.
 
 ### Unsubstantiated superiority claims
 "Best in class", "market-leading efficacy", "superior to all alternatives" — unless supported by direct comparative clinical evidence, these are unsubstantiated and misleading.
@@ -87,10 +90,10 @@ Patient testimonials or clinician endorsements that imply guaranteed outcomes fo
 
 Digital advertising channels are subject to the same rules as printed materials:
 
-- **Company websites**: product pages must be consistent with the CE-marked intended purpose; claims must be substantiated
-- **Social media**: posts, sponsored content, and influencer partnerships must not make claims inconsistent with the IFU
-- **Mobile apps associated with devices**: app content is part of the device information system; claims in the app are subject to Art. 7
-- **Search advertising**: ad copy must not make prohibited claims even in condensed format
+- Company websites: product pages must be consistent with the CE-marked intended purpose; claims must be substantiated
+- Social media: posts, sponsored content, and influencer partnerships must not make claims inconsistent with the IFU
+- Mobile apps associated with devices: app content is part of the device information system; claims in the app are subject to Art. 7
+- Search advertising: ad copy must not make prohibited claims even in condensed format
 
 ---
 
@@ -98,9 +101,9 @@ Digital advertising channels are subject to the same rules as printed materials:
 
 MDR/IVDR do not distinguish advertising rules between professional and consumer audiences — Art. 7 applies to all promotional materials. However:
 
-- **Direct-to-consumer advertising** of prescription-only devices is restricted in most member states
-- **Advertising to healthcare professionals** has different practical norms but remains subject to Art. 7
-- **Some member states** have additional national advertising rules for medical devices (particularly those countries with active enforcement of national laws)
+- Direct-to-consumer advertising of prescription-only devices is restricted in most member states
+- Advertising to healthcare professionals has different practical norms but remains subject to Art. 7
+- Some member states have additional national advertising rules for medical devices (particularly those countries with active enforcement of national laws)
 
 ---
 

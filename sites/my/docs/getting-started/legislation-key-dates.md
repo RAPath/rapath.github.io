@@ -46,3 +46,5 @@ description: History and key commencement dates for the Medical Device Act 2012 
 :::note Check for Updates
 Always verify the latest version of any legislation or guidance via the AGC website or directly from MDA.
 :::
+
+Add this note at the end of the 'Key Milestones' section:

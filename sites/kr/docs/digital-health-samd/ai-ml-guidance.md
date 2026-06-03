@@ -16,7 +16,7 @@ Korea has been at the forefront of **AI/ML medical device regulation**, with MFD
 | Training data | Characteristics, size, representativeness, labelling quality |
 | Validation data | Independent test dataset; performance metrics (sensitivity, specificity, AUC, etc.) |
 | Clinical validation | Real-world performance in the intended use population |
-| Explainability | For high-risk AI: explanation of how decisions are made |
+| Explainability | Explainability and interpretability: For Grade III–IV AI/ML devices, manufacturers must provide documentation explaining how the model makes diagnostic or treatment decisions, suitable for review by clinicians and regulators. This may include feature importance analysis, decision rules, or other interpretability techniques proportionate to the model's complexity. |
 | Intended use statement | Precise statement of what the AI is intended to do and in which setting |
 
 ### Post-market requirements
@@ -34,3 +34,5 @@ MFDS is developing PCCP guidance allowing manufacturers to pre-define the scope 
 
 ## Related pages
 - [AI/ML-based medical devices](../pre-market/special-device-types/ai-ml-medical-devices) · [MFDS digital health framework](./mfds-digital-health-framework)
+
+Risk-based explainability: MFDS requires explainability documentation proportionate to the device's risk classification. For Grade III–IV AI/ML devices or those used in high-stakes clinical decisions (e.g., cancer diagnosis), full model explainability is mandatory. Lower-risk applications may require performance metrics documentation instead of detailed model architecture explanation.

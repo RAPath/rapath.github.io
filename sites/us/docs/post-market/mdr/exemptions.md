@@ -24,3 +24,5 @@ Manufacturers may submit a written **exemption or variance request** to FDA unde
 ## Official resources
 - [21 CFR § 803.19 — Exemptions and Variances](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-H/part-803/subpart-B/section-803.19)
 - [FDA — MDR Exemptions](https://www.fda.gov/medical-devices/mandatory-reporting-requirements-manufacturers-importers-and-device-user-facilities/exemptions-and-variances-reporting)
+
+Historically exempt device categories include: certain custom-made devices used only for a specific patient; devices used exclusively in research settings; certain in vitro diagnostic devices for research use only; and devices manufactured and distributed solely within a single state under exemption. For a current list of exempt device types, manufacturers should consult 21 CFR Part 803 and FDA's MDR Exemptions guidance document.

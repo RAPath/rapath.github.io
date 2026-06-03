@@ -25,3 +25,7 @@ MFDS publishes import ban decisions on its website. Importers and distributors m
 
 ## Related pages
 - [Administrative actions](./administrative-actions) · [Recalls and FSCA — MFDS-initiated](../post-market/recalls-and-fsca/mfds-initiated-corrective-actions)
+
+Appeal and review
+
+Manufacturers and importers subject to an import ban may request reconsideration or appeal through the MFDS administrative review process. Requests should include evidence demonstrating that the grounds for the ban no longer apply or were incorrectly assessed.

@@ -6,14 +6,13 @@ description: Health Canada's regulatory approach to Software as a Medical Device
 # Software as a Medical Device (SaMD)
 
 ## Definition
-**Software as a Medical Device (SaMD)** is software that qualifies as a medical device in its own right — not embedded software that drives a hardware medical device, but standalone software with a medical intended use.
+Software as a Medical Device (SaMD) is software that qualifies as a medical device in its own right — not embedded software that drives a hardware medical device, but standalone software with a medical intended use.
 
-## Is your software a SaMD?
-Software is a SaMD if it:
-- Has a medical **intended use** (diagnosis, treatment, monitoring, prevention)
-- Achieves this purpose **without being part of a hardware medical device**
+Software qualifies as a SaMD if it:
+• Has a declared medical intended use (such as diagnosis, treatment, monitoring, or prevention of disease)
+• Achieves its intended purpose as a standalone software application, not as embedded firmware that controls or operates a hardware medical device
 
-General wellness apps, administrative software, and software with no medical claims are **not** SaMDs.
+General wellness apps, administrative software, and software with no medical claims are not SaMDs.
 
 ## Classification
 See [Software & SaMD Classification](/docs/pre-market/classification/samd-classification) for the IMDRF-based classification framework Health Canada applies.
@@ -45,4 +44,8 @@ AI/ML SaMD presents unique challenges due to adaptive algorithms. Health Canada 
 ## Software updates
 Not all software updates require a Device Licence amendment. See [Amending a Device Licence](/docs/post-market/device-licence-maintenance/amending-device-licence) for criteria.
 
-> **Legislative source:** Medical Devices Regulations, SOR/98-282; IMDRF SaMD guidance documents
+> Legislative source: Medical Devices Regulations, SOR/98-282; IMDRF SaMD guidance documents
+
+## AI/ML-based SaMD
+
+"Health Canada offers Type A meetings for AI/ML SaMD to discuss proposed risk management approaches, performance monitoring strategies, and change control plans before submission. Applicants are encouraged to seek guidance early, particularly when the algorithm will be adaptive or when the device will be updated post-market. Documentation of the meeting and Health Canada's feedback should be included in the Device Licence application to demonstrate alignment with regulatory expectations."

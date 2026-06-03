@@ -13,7 +13,7 @@ A TGA Conformity Assessment Certificate is a certificate issued by the TGA confi
 
 ## When is TGA Certification Required or Appropriate?
 
-**Mandatory TGA certification is no longer required** for most device types, following amendments in 2021 and 2024 that expanded acceptance of comparable overseas regulator evidence. However, TGA certification remains appropriate in the following situations:
+**Mandatory TGA certification is no longer required** for most device types, following amendments in 2021 and subsequent updates However, certain device categories — particularly some high-risk IVDs and devices with novel intended purposes — may still require TGA assessment. Always consult current TGA guidance to confirm whether your device type is subject to mandatory certification requirements. that expanded acceptance of comparable overseas regulator evidence. However, TGA certification remains appropriate in the following situations:
 
 - **Australian manufacturers** who do not hold overseas regulatory approvals and are supplying primarily in Australia
 - **Manufacturers seeking abridgement** of TGA assessment, where overseas audit reports are submitted to reduce the TGA's assessment scope
@@ -83,3 +83,5 @@ TGA conformity assessment fees apply and vary based on the conformity assessment
 - [Conformity Assessment Overview](./overview.md)
 - [Comparable Overseas Regulators](./comparable-overseas-regulators.md)
 - [Manufacturer's Evidence](./manufacturers-evidence.md)
+
+CAB-issued certificates are treated by the TGA as equivalent to TGA-issued certificates and may also be accepted as comparable overseas regulator evidence under the comparable overseas regulators pathway, depending on the CAB's accreditation and scope.

@@ -66,3 +66,7 @@ After market approval:
 - AEA approval may have conditions regarding installation, commissioning, and periodic inspection
 - Radiation-emitting equipment in clinical use is typically subject to periodic AEA inspection
 - Adverse events involving radiation emissions must be reported to both NMRA and AEA as applicable
+
+AEA Application Submission
+
+While the primary AEA contact is www.aea.gov.lk, applicants should contact the Atomic Energy Authority of Sri Lanka directly via their official website to obtain current submission procedures, required technical documentation templates, and contact details for the radiation safety review division. Processing timelines and fee structures should also be confirmed directly with the AEA.

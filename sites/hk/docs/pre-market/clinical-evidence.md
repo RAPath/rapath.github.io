@@ -28,3 +28,5 @@ IVDs require **performance evaluation** rather than a CER:
 ## Overseas Clinical Data
 
 The MDD accepts clinical data generated outside Hong Kong, provided the study population is reasonably representative of HK patients and the device is identical or equivalent to the one submitted.
+
+PMCF is typically required for higher-risk devices (Class III/IV) or when clinical evidence from pre-market sources is limited.

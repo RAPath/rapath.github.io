@@ -38,3 +38,28 @@ As of May 2026, the formal Approved for Use designation mechanism has not yet be
 |---|---|
 | Medical Devices Act 2021 | Enabling powers for Approved for Use |
 | MHRA: Innovation office | MHRA's innovation support |
+
+Consider expanding this section to include:
+
+Key application requirements
+
+To apply for an Approved for Use designation, manufacturers should provide:
+Preliminary safety and performance data (even if not yet complete)
+Clinical evidence of unmet need or public health urgency
+Quality Management System certification or evidence of conformity with ISO 13485
+Proposed conditions of use and monitoring requirements
+Commitment to complete full conformity assessment within a defined timeframe
+
+Expected timelines and conditions
+
+Approved for Use designations are typically time-limited (e.g., 12–24 months) and conditional on:
+Providing periodic updates to MHRA on safety and performance
+Completing full conformity assessment and obtaining UKCA marking before designation expires
+Agreeing to enhanced post-market surveillance
+Maintaining transparent communication with MHRA
+
+Approved for Use vs. Exceptional Use Authorisation (EUA)
+
+While both mechanisms support early access, they differ:
+Approved for Use: for innovative devices with unmet clinical need; intended for planned market access
+EUA: emergency mechanism for acute supply shortages or public health crises

@@ -41,3 +41,5 @@ Transition deadlines are set by ANVISA and may be updated. Always verify current
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+UDI (Unique Device Identification) — a harmonised international system for identifying medical devices and their packages to improve traceability and safety surveillance. eIFU (electronic Instructions for Use) — regulatory guidance allowing manufacturers to provide device instructions in digital format instead of printed form, subject to specified conditions.

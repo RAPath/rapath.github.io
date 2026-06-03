@@ -29,3 +29,5 @@ Fees are specified in the First Schedule to the Medical Devices Rules 2017 and m
 ## Expedited pathways
 
 Devices already approved by reference authorities (US FDA, EU, TGA, Health Canada, PMDA Japan) may be eligible for faster review under CDSCO's policy for already-approved devices. See [New Device vs Already-Approved Device Routes](/docs/pre-market/import-registration/new-device-vs-approved).
+
+Factors affecting timelines: CDSCO processing capacity, completeness of initial submission, complexity of the device, requirement for additional testing, and state of public health priorities. To estimate your likely timeline, consider: (1) whether your device is new to the Indian market; (2) the availability of clinical data from reference jurisdictions; (3) whether CDSCO may require local testing. Query cycles typically add 30–90 days per round.

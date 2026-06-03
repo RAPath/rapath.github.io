@@ -27,8 +27,10 @@ For certain high-risk devices, FDA may order **device tracking** under 21 CFR Pa
 
 ## UDI and distribution records
 
-The **UDI** system (21 CFR Part 830) integrates with distribution records — the Device Identifier (DI) and Production Identifier (PI) on the device label enable traceability through the supply chain and support efficient recalls.
+The **UDI** system (21 CFR Part 801 Subpart E) integrates with distribution records — the Device Identifier (DI) and Production Identifier (PI) on the device label enable traceability through the supply chain and support efficient recalls.
 
 ## Official resources
 - [21 CFR § 820.160 — Distribution](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-H/part-820)
 - [21 CFR Part 821 — Device Tracking](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-H/part-821)
+
+No addition needed — see accuracy_errors section for the correction.

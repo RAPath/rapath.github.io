@@ -19,7 +19,7 @@ Two options: Chapter I (NB QMS audit of production) or Chapter II (NB testing of
 
 ## NB Selection Tips
 - Confirm NB is designated under EU MDR/IVDR for your device class and type via NANDO
-- Ask for realistic timelines — NB capacity has been constrained since MDR transition; plan 12–18+ months for Class III
+- Ask for realistic timelines and confirm current NB capacity — notified body backlogs have been significant since the MDR transition; plan 18–24+ months for Class III devices requiring design examination, particularly if multi-site QMS audits are needed
 - Confirm availability of audit team in your working language
 
 ## Official Sources

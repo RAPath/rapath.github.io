@@ -8,7 +8,7 @@ description: Full registration dossier requirements for Class B medical devices 
 
 ## Overview
 
-Class B devices require a **full registration application** with a technical dossier and conformity assessment evidence. MDA performs a technical review before issuing the DRN. Target processing time is **90 working days**.
+Class B devices require a full registration application with a technical dossier and conformity assessment evidence. MDA performs a technical review before issuing the DRN. Target processing time is 90 working days.
 
 ## Dossier Structure
 
@@ -45,7 +45,7 @@ Class B devices require a **full registration application** with a technical dos
 
 ### Section 5 — Conformity Assessment Evidence
 
-- Current **ISO 13485 certificate** issued by a MDA-recognised certification body
+- Current ISO 13485 certificate issued by a MDA-recognised certification body
 - Declaration of Conformity to Essential Principles
 
 ### Section 6 — Technical Documentation Summary
@@ -68,12 +68,21 @@ Class B devices require a **full registration application** with a technical dos
 1. Submit complete dossier via MyMDA
 2. MDA performs administrative acceptance check (~10 working days)
 3. Technical review commences
-4. MDA may issue a **Deficiency Letter (DL)** requesting clarification or additional data
+4. MDA may issue a Deficiency Letter (DL) requesting clarification or additional data
 5. Applicant responds within stipulated timeframe
 6. MDA completes review and issues DRN or rejection notice
 
 ## Tips for Class B Applications
 
-- **Foreign registrations help** — include CE certificate, TGA registration, or other approvals as supporting evidence; MDA may place weight on recognised regulator approvals
-- **Translate summaries** — if source documents are not in English, provide certified translations
-- **Ensure ISO 13485 scope matches** — the certification scope must cover the device being registered
+Tips for Class B Applications
+
+Foreign registrations help
+— include CE certificate, TGA registration, FDA 510(k) clearance, or HSA approval as supporting evidence; MDA places significant weight on approvals from these recognised regulators and may use them to reduce the depth of independent technical review
+Translate summaries
+— if source documents are not in English, provide certified English translations; ensure the translator's credentials are documented
+Ensure ISO 13485 scope matches
+— the certification scope on your ISO 13485 certificate must explicitly cover the device being registered; if the scope is narrow, request a scope extension from your CB before submission
+Allow time for CAB clarification
+— even for Class B, MDA may request clarification from your CAB if evidence from a recognised regulator is not available
+
+If your device holds approvals from regulators not mentioned above (e.g., from less widely-recognised markets), include them with a brief explanation of the regulator's standards. MDA may not give them the same weight as FDA or TGA approvals, but they still demonstrate your commitment to compliance and can support the application.

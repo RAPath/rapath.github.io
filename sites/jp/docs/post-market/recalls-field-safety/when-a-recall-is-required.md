@@ -36,3 +36,7 @@ The MAH makes the initial decision to recall. In practice, this decision is ofte
 - In complex cases, PMDA consultation
 
 The MAH is responsible for the recall strategy, execution, and verification of effectiveness. Even where the technical root cause is the manufacturer's, the MAH bears the regulatory responsibility in Japan.
+
+Recall vs other corrective actions
+
+Not all FSCAs require formal recall classification. Software-only updates that address safety issues may be handled as mandatory software patches if the update can be universally deployed and verified without device retrieval. Similarly, labelling-only corrections may be handled through Field Safety Notices without physical recall. However, if patient-level devices have already been distributed and cannot be reliably contacted for a software update, recall procedures should be considered. Consult PMDA when the appropriate corrective action pathway is unclear.

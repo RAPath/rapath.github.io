@@ -29,7 +29,7 @@ Once designated, submit an HDE application to CDRH. Unlike PMA, the HDE uses a *
 
 | Feature | HDE | PMA |
 |---|---|---|
-| Patient population | ≤ 8,000/year in USA | Any size |
+| Patient population | rare ≤8,000/year in USA | Any size |
 | Effectiveness standard | **Probable benefit** (lower standard) | **Valid scientific evidence** (full standard) |
 | Clinical data | Encouraged but not always required | Usually required (IDE study) |
 | Advisory panel | Less common | Common for novel devices |
@@ -72,3 +72,5 @@ Devices approved under HDE that are implantable must comply with device tracking
 - [FD&C Act § 520(m)](https://www.law.cornell.edu/uscode/text/21/360j)
 - [FDA — HDE Information](https://www.fda.gov/medical-devices/premarket-submissions-selecting-and-preparing-correct-submission/humanitarian-device-exemption)
 - [FDA OOPD — HUD Designation](https://www.fda.gov/industry/medical-products-rare-diseases-and-conditions/designating-humanitarian-use-device-hud)
+
+If a device subsequently demonstrates use in a patient population exceeding 8,000 patients per year in the USA, the HDE approval may be withdrawn and the manufacturer must pursue standard 510(k) or PMA approval.

@@ -54,7 +54,7 @@ Most other frameworks fold dealer obligations into a single product-centred auth
 
 ## How the two obligations interact — a worked example
 
-Consider an overseas manufacturer (Company A, based in Germany) whose Class C device is being distributed in Singapore by a Singapore company (Company B):
+Consider an overseas manufacturer's regulatory compliance in their home country does not confer any authority to supply in Singapore. A Singapore distributor or subsidiary must separately obtain both product registration and a dealer's licence before supplying in Singapore.as manufacturer (Company A, based in Germany) whose Class C device is being distributed in Singapore by a Singapore company (Company B):
 
 | Step | Who does it | What they do |
 |---|---|---|

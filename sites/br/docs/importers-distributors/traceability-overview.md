@@ -31,3 +31,5 @@ ANVISA has been consulting with industry on adopting a UDI system aligned with I
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+ANVISA has issued proposals for mandatory UDI implementation but has not yet set a firm deadline. Manufacturers should monitor ANVISA's Peticionamento Eletrônico portal and official communications for announcements regarding mandatory UDI effective dates.

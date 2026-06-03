@@ -19,3 +19,5 @@ NMPA enforcement powers are set out in **MDSAR 2021 Chapter VII (Legal Liability
 :::note Disclaimer
 Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [NMPA](https://www.nmpa.gov.cn/) sources before making regulatory decisions. Not affiliated with NMPA or any Chinese Government body. Not legal or regulatory advice.
 :::
+
+Seriously Illegal and Untrustworthy (SILU) listing is a credit punishment mechanism applied to device manufacturers and operators who commit serious violations under MDSAR 2021. Listed entities face restrictions including: ineligibility for government procurement, public disclosure, exclusion from certain incentive programs, and potential enforcement actions by multiple government agencies coordinated through China's social credit system.

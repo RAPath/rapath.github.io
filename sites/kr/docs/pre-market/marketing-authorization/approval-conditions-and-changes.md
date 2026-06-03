@@ -24,3 +24,5 @@ MFDS may impose **conditions** such as mandatory PMCF studies, restricted indica
 
 ## Related pages
 - [MFDS review process](./mfds-review-process-and-timelines) · [Post-market overview](../../post-market/overview)
+
+PMCF conditions may require ongoing safety and performance data collection after approval. Approved devices remain valid indefinitely provided the GMP certificate and product status remain current; however, MFDS may require periodic documentation of compliance with approval conditions.

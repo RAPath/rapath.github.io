@@ -23,3 +23,5 @@ IVD-specific requirements include analytical performance (accuracy, precision, l
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+Performance Evaluation Reports (PER) must follow RDC 36/2015 guidance and include documented protocols, statistical analysis plans, and full analytical and clinical validation data. For in vitro diagnostic devices, comparison with established reference methods or predicate devices may be required.

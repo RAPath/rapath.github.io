@@ -7,7 +7,7 @@ last_reviewed: 2026-04-30
 
 ## Overview
 
-Clinical trials of unapproved medical devices in Australia are regulated under the Therapeutic Goods Act 1989. Devices used in clinical trials must be covered by either the **Clinical Trial Notification (CTN)** scheme or the **Clinical Trial Approval (CTA)** scheme. Most medical device clinical trials in Australia are conducted under the CTN scheme, which is administered by Human Research Ethics Committees (HRECs) rather than the TGA. The TGA retains oversight of clinical trials and can intervene where safety concerns arise.
+Clinical trials of unapproved medical devices in Australia are regulated under the Therapeutic Goods Act 1989. Devices used in clinical trials must be covered by either the **Clinical Trial Notification (CTN)** scheme or the **Clinical Trial Approval (CTA)** scheme, and the trial must be reviewed and approved by a Human Research Ethics Committee (HREC). Most medical device clinical trials in Australia are conducted under the CTN scheme, which is administered by Human Research Ethics Committees (HRECs) rather than the TGA. The TGA retains oversight of clinical trials and can intervene where safety concerns arise.
 
 ---
 

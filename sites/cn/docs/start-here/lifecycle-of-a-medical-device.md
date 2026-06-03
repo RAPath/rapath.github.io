@@ -37,9 +37,9 @@ The regulatory lifecycle of a medical device in China follows a predictable sequ
    └─ Certificate lists device name, model, specifications, registrant, China Agent
 
 6. MARKET ENTRY
-   └─ Comply with labelling requirements
-   └─ Register in NMPA UDI database (UDID) — phased by class
-   └─ Distributor obtains Business Licence if Class II/III
+└─ Comply with Chinese language labelling requirements (see MDSAR 2021 Article 51)
+└─ Register device in NMPA UDI database (UDID) within specified timeline: Class III within 6 months; Class II by end of 2025; Class I phased through 2026
+└─ Distributor registration: Class II/III devices may only be distributed through wholesalers/retailers holding required business licenses; Class I has fewer restrictions
 
 7. POST-MARKET OBLIGATIONS
    └─ Adverse event monitoring and reporting
@@ -72,3 +72,7 @@ Timelines vary significantly depending on dossier quality and supplemental infor
 :::note Disclaimer
 Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [NMPA](https://www.nmpa.gov.cn/) sources before making regulatory decisions. Not affiliated with NMPA or any Chinese Government body. Not legal or regulatory advice.
 :::
+
+UDI Registration: Devices must be registered in NMPA's UDI Database (UDID) within specified timeframe (Class III: within 6 months of registration; Class II: by 2025; Class I: phased implementation). Failure to register affects sales permissions.
+
+Timelines assume: (1) complete and compliant initial dossier; (2) no supplemental information requests (SIR); (3) no major quality or safety issues identified during review. Class III devices typically experience 1–3 rounds of supplemental requests, adding 3–6 months per round.

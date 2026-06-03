@@ -4,7 +4,7 @@ description: "Which manufacturers and importers need KGMP certification for Kore
 sidebar_position: 2
 ---
 
-**All manufacturers of medical devices for the Korean market** — whether domestic or foreign — must have their manufacturing sites certified under KGMP or have an equivalent recognised by MFDS.
+**All manufacturers of medical devices for the Korean market** — whether domestic or foreign — must have their manufacturing sites certified under KGMP or have an equivalent recognised by (Korean GMP) quality system MFDS as meeting Korean standards.
 
 ## Domestic manufacturers
 
@@ -26,3 +26,5 @@ See [Foreign GMP certificate requirement](./foreign-manufacturers/foreign-gmp-ce
 
 ## Related pages
 - [KGMP overview](./overview-kgmp) · [Domestic manufacturer certification](./domestic-manufacturers/application-and-certification-process)
+
+## Domestic manufacturers

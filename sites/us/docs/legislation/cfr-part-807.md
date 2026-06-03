@@ -29,7 +29,7 @@ keywords: [21 CFR Part 807, establishment registration, device listing, FURLS, F
 - Repackagers and relabellers
 - Initial importers
 - Foreign establishments that manufacture finished devices exported to the USA
-- Specification developers (entities that design devices but contract manufacturing)
+- Specification developers (entities that design devices but outsource manufacturing to third parties)
 
 ---
 
@@ -67,3 +67,7 @@ Foreign manufacturers exporting to the USA must:
 - [21 CFR Part 807 (eCFR)](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-H/part-807)
 - [FURLS — FDA Registration Portal](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfrl/rl.cfm)
 - [FDA — Device Registration and Listing](https://www.fda.gov/medical-devices/how-study-and-market-your-device/device-registration-and-listing)
+
+## Registration timing
+
+Failure to renew registration by December 31 may result in automatic deactivation of establishment registration and prohibit continued commercial distribution. Reactivation requires submission of a new registration application and may delay market access.

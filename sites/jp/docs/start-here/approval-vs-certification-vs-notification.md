@@ -6,7 +6,7 @@ sidebar_position: 8
 # Approval vs Certification vs Notification
 
 :::note JP-unique
-Japan's three-pathway system — Shonin (承認), Ninsho (認証), and Todokede (届出) — maps loosely to device risk class but has its own logic that differs from all other major markets. The key differentiator between Shonin and Ninsho is not just class, but whether an applicable MHLW-recognised standard exists for the device type.
+Japan's three-pathway system — Shonin (承認), Ninsho (認証), and Todokede (届出) — maps loosely to device risk class but has its own logic that differs from all other major markets. The key differentiator between Shonin and Ninsho is not just class, but whether an applicable MHLW-recognised standard exists for the device risk type and whether the device can be shown to conform to that standard.
 :::
 
 ## Quick reference
@@ -54,3 +54,5 @@ Post-market obligations for Class I devices are lighter than for Class II–IV, 
 3. **Confirm with PMDA if uncertain** — a pre-submission consultation can confirm the pathway before significant resource is committed
 
 Borderline situations (e.g. a Class II device where an RCB determines it does not conform to the available standard) require case-by-case evaluation.
+
+If an RCB determines during review that the device does not conform to the applicable recognised standard, the application will be rejected and the MAH must pursue Shonin (full approval) instead. Similarly, if post-market evidence emerges that the device no longer conforms to its standard, the MAH must transition to Shonin or withdraw the device.

@@ -6,7 +6,7 @@ keywords: [post-market, MedDO, ongoing obligations, PMS, vigilance, Switzerland]
 # Post-Market Overview
 
 ## Overview
-Once a medical device is on the Swiss market, the manufacturer's regulatory obligations continue throughout the device's lifetime. Post-market obligations include active surveillance, incident reporting, periodic safety reporting, and maintaining the DAPI registration.
+Once a medical device is on the Swiss market, the manufacturer's regulatory obligations continue throughout the device's lifetime. Post-market obligations include implementing a post-market surveillance (PMS) system, conducting periodic safety reviews, reporting serious incidents and field safety corrective actions, managing vigilance data, maintaining an accurate DAPI registration, and updating technical documentation based on post-market findings.
 
 ## Key Post-Market Obligations
 

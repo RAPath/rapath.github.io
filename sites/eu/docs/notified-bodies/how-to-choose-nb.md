@@ -38,7 +38,7 @@ With fewer designated NBs than under MDD/AIMDD/IVDD, **NB capacity is constraine
 - What is the timeline from application submission to certificate issue for Class IIa / IIb / III?
 - Do you have capacity for unannounced audits within the required frequency?
 
-For **Class III devices**, realistic timelines from application to certificate are 18–36 months. Contact NBs **at least 12–24 months** before you need the certificate.
+For **Class III devices**, realistic timelines from application to certificate are 18–36+ months, depending on the complexity of clinical evaluation, expert panel consultation requirements, and NB capacity. Contact NBs **at least 12–24 months** before you need the certificate.
 
 ---
 

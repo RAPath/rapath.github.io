@@ -36,3 +36,5 @@ Always verify the auditor's current recognition status with HSA before engaging 
 
 - [HSA: Medical Device Auditors](https://www.hsa.gov.sg/medical-devices/dealers-licence/medical-device-auditors)
 - [HSA: QMS for Medical Devices](https://www.hsa.gov.sg/medical-devices/dealers-licence/quality-management-system-(qms)-for-medical-devices)
+
+## What is a Medical Device Auditor?

@@ -15,7 +15,7 @@ keywords: [Form MD-14, import licence, India, CDSCO, SUGAM, Class B C D]
 
 - Issued by the **Central Licensing Authority (DCGI / CDSCO)**;
 - Linked to a specific device, manufacturer, and IAR;
-- Typically valid for **5 years** from the date of grant;
+- Typically valid for **5 years** from the date of grant; validity is subject to annual compliance certification and may be suspended if GMP conditions are breached;
 - Renewable before expiry.
 
 ## Step-by-step application process
@@ -43,3 +43,5 @@ Note: these are indicative and subject to query cycles and CDSCO workload.
 The licence is subject to conditions including: maintenance of GMP by the manufacturer, label compliance, adverse event reporting, and notification of changes.
 
 > **Official source:** Medical Devices Rules 2017, Rule 10 and Form MD-14; [SUGAM portal](https://sugam.cdsco.gov.in)
+
+Application rejection or withdrawal: If CDSCO rejects the application after the review period, the applicant may resubmit with additional data or clarifications. If the applicant withdraws the application, a new application with a fresh fee must be submitted. Withdrawn applications do not preserve review timeline progress.

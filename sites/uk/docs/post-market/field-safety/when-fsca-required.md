@@ -9,7 +9,7 @@ tags: [uk-mdr, fsca, field-safety, post-market]
 ---
 
 :::note[Regulatory basis]
-Field Safety Corrective Actions are addressed in **Regulations 16–22 of the UK MDR 2002** and MHRA's adverse incident reporting guidance. The obligation to take an FSCA can arise from a serious incident investigation, a trend analysis, or from proactive identification of a safety issue before harm occurs.
+Field Safety Corrective Actions are addressed in **Regulations 16–22 of the UK MDR 2002** and MHRA's adverse incident reporting guidance. The obligation to take an FSCA can arise from a serious incident investigation, a trend analysis, or from proactive identification of a safety issue before any adverse events are reported A manufacturer's failure to take timely corrective action when a safety issue is identifiable, even in the absence of reported harm, may result in MHRA enforcement action or criminal prosecution. confirmed patient.
 :::
 
 ---
@@ -118,3 +118,5 @@ MHRA reviews the notification and may request modifications to the FSCA scope or
 | MHRA: Adverse incident reporting guidance | FSCA notification requirements |
 | ISO 14971:2019 | Risk management — FSCA risk determination |
 | IMDRF/NCAR/N18FINAL | International definitions for FSCAs |
+
+Complete the truncated section with: 'Affected batches or serial numbers — which specific units? All units, or only those manufactured during a specific date range or with specific material lot codes? The scope must be clearly defined and documented.'

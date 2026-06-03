@@ -8,7 +8,7 @@ description: The full regulatory lifecycle of a medical device in Switzerland �
 The Swiss regulatory lifecycle follows a defined sequence from initial product definition to post-market monitoring. Understanding this sequence helps manufacturers and CH REPs plan regulatory activities effectively.
 
 ## Stage 1 — Device Definition and Classification
-Define the intended purpose; determine MedDO or IVDO scope; classify the device (Class I–III or IVD categories). Classification drives all subsequent requirements. → [How Classification Works](../pre-market/classification/how-classification-works)
+Define the intended purpose by reviewing labelling, instructions for use, promotional materials, and technical claims. Determine whether the device falls under MedDO (medical devices: Classes I–III) or IVDO (in vitro diagnostics: List A, List B, Self-test, General). Classification drives all subsequent requirements. → [How Classification Works](../pre-market/classification/how-classification-works)
 
 ## Stage 2 — General Safety and Performance Requirements (GSPRs)
 Systematic assessment against MedDO Annex I requirements. Map each GSPR to harmonised standards and document compliance evidence. → [GSPR Overview](../pre-market/gspr/gspr-overview)
@@ -35,3 +35,5 @@ Report serious incidents to Swissmedic via eVigilance. Implement and notify FSCA
 :::warning Disclaimer
 Content is AI-assisted and intended as a navigation aid only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
 :::
+
+Expand Stage 5 description: "Notify or register the device in DAPI before (or within 30 days of) market placement. For Class I devices, notification suffices (subject to MRA status). For Class IIa and higher, full registration with NB documentation is required before market placement."

@@ -10,3 +10,13 @@ keywords: [recall, India, CDSCO, field safety, FSN, FSCA]
 Medical device recalls in India may be **voluntary** (initiated by the manufacturer) or **CDSCO-directed**. All recalls require a Field Safety Notice (FSN) to customers and coordination with CDSCO via the SUGAM vigilance module.
 
 > **Official source:** Medical Devices Rules 2017, Schedule 7; [CDSCO](https://cdsco.gov.in)
+
+Recall Classification in India
+
+Medical device recalls are classified based on severity and risk to public health:
+
+- Class I: Device poses serious adverse health consequences or death
+- Class II: Device may cause adverse health consequences but severity is not as serious as Class I
+- Class III: Device is unlikely to cause adverse health consequences
+
+Classification determines the urgency of communication, scope of recall, and CDSCO reporting requirements. Recalls may be expanded or downgraded based on evolving safety information.

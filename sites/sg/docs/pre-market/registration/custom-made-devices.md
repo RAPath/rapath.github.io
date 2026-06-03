@@ -12,7 +12,7 @@ A **custom-made medical device** is a device that is manufactured specifically f
 
 ## Regulatory treatment
 
-Custom-made medical devices are subject to a specific regulatory pathway under Singapore's framework. They are **not** required to go through the standard product registration process, but the manufacturer must:
+Custom-made medical devices are subject to a specific regulatory pathway under Singapore's framework. They are **not** required to go through the standard product registration process on the Singapore Medical Device Register (SMDR), but the manufacturer must:
 
 - Comply with applicable quality and safety requirements;
 - Maintain documentation on the device's design, manufacture, and the practitioner's prescription;

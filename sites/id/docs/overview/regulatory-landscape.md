@@ -24,7 +24,7 @@ One of the most important features of Indonesia's regulatory landscape is its **
 | **National Agency of Drug and Food Control** | Badan Pengawas Obat dan Makanan (BPOM / NADFC) | Pharmaceuticals, traditional medicines, cosmetics, food, health supplements, GMP inspections of device manufacturers |
 
 :::tip For device manufacturers
-Your primary regulator is **Kemenkes**, not BPOM. The NIE (Nomor Izin Edar) that authorises your device for sale is issued by Kemenkes via the Regalkes portal. BPOM may be involved in GMP inspections and clinical trial authorisations, but it does not issue device marketing approvals.
+Your primary regulator is **Kemenkes**, not BPOM. The NIE (Nomor Izin Edar) that authorises your device for sale is issued by Kemenkes via the Regalkes portal. BPOM may conduct GMP inspections of device manufacturers at the manufacturing site and may be consulted on clinical trial protocols, but it does not issue device marketing approvals (NIE). Marketing authorization is exclusively the responsibility of Kemenkes.
 :::
 
 ---
@@ -79,3 +79,6 @@ Under Permenkes No. 62/2017, each device (under one trade name) may only be regi
 
 **4. Halal labeling is now on the horizon**
 Government Regulation 42/2024 introduces phased mandatory Halal compliance. Class A devices must comply by October 2026. Manufacturers with animal-derived materials should begin preparation now.
+
+4. Halal labeling is now on the horizon
+Government Regulation 42/2024 introduces phased Halal labeling obligations for medical devices. While full implementation timelines are still being clarified, manufacturers should begin assessing the impact on packaging, labeling, and supply chain documentation. Non-compliance at the time of NIE renewal or during market surveillance may result in sanctions.

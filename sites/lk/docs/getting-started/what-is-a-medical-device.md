@@ -51,3 +51,5 @@ Contact the NMRA for a formal determination if classification is uncertain. Do n
 :::tip Classification is the first step
 Once confirmed as a medical device, determine the risk class. See [Classification Overview](/classification/overview).
 :::
+
+Reagent suppliers and component manufacturers selling to IVD kit manufacturers are not required to register directly with the NMRA. Only the manufacturer of the final assembled IVD kit, or the MAH marketing it in Sri Lanka, must obtain NMRA registration. However, the Consolidated Dossier must document all components and their suppliers.

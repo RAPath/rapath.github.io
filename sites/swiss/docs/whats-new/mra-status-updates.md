@@ -27,8 +27,12 @@ These obligations always apply:
 - [ ] Vigilance reporting processes to Swissmedic eVigilance established
 - [ ] FSCA notification process to Swissmedic established
 
-What changes with MRA status: whether a simplified DAPI notification suffices (MRA operational) or full DAPI registration is required (MRA not fully operational).
+What changes with MRA status: whether CE-marked devices can rely on EU NB assessment (MRA operational) or whether additional Swiss technical review may be required (MRA not fully operational). Both notification and registration requirements in DAPI apply regardless of MRA status.
 
 :::warning Disclaimer
 AI-assisted navigation aid only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
 :::
+
+## Practical Checklist — Regardless of MRA Status
+
+"During periods when the MRA is suspended or not fully operational, CE-marked devices may require full Swiss technical dossier review and cannot rely solely on EU NB assessment. Check current MRA status before finalizing market access timelines."

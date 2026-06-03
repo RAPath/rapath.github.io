@@ -67,3 +67,7 @@ Before appointing any entity as your LAR, verify:
 ## Letter of Authorization
 
 The formal appointment of your LAR is documented in a **Letter of Authorization (LoA)**. This is one of the most critical documents in the registration dossier. See [Letter of Authorization](./letter-of-authorization) for full requirements.
+
+LAR Termination and NIE Status
+
+If you terminate the relationship with your LAR, notify Kemenkes in writing via Regalkes. The NIE does not automatically transfer to a new LAR — the registration remains held by the original LAR entity. Depending on your contractual arrangement (distributor vs. neutral licence holder), the new LAR may need to submit a fresh NIE registration application, or the NIE may be cancelled and re-registered under new ownership. Plan exit provisions carefully before appointing a LAR.

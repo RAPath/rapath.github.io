@@ -61,3 +61,5 @@ The **Personal Data Protection Law** (Law No. 27 of 2022) came into force in 202
 - Restrictions on cross-border data transfer
 
 Manufacturers of connected devices that process Indonesian patient data must assess UU PDP compliance alongside the device registration process.
+
+A cybersecurity risk management approach should address threats to confidentiality, integrity, and availability of device functions and data. Reference IEC 62304 (medical device software lifecycle) and IEC 80001 (network security) as applicable frameworks. Kemenkes evaluators expect documentation of how security updates will be managed post-launch and whether firmware/software updates trigger re-registration requirements.

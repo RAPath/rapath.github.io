@@ -8,9 +8,11 @@ See [Classification — combination products](../classification/combination-prod
 
 ## When the device is the lead
 
-- Submit 품목허가 under the Medical Devices Act
-- MFDS pharma division consulted on the drug component
-- Safety data must address both device and drug (leachables, compatibility, interaction)
+When the device is the lead
+
+Submit 품목허가 (Marketing Authorization) under the Medical Devices Act to MFDS medical devices division
+MFDS pharmaceutical division provides consultation on the drug component's safety and efficacy
+Safety data must comprehensively address both device and drug interactions, including leachables testing, material compatibility, and any pharmacokinetic or pharmacodynamic interactions
 
 ## Common combination products
 

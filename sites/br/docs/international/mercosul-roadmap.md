@@ -13,18 +13,14 @@ ANVISA and its MERCOSUL counterparts (ANMAT in Argentina, MSP in Uruguay, DINAVI
 
 ## Current state of harmonisation (2026)
 
-| Area | Current status |
-|---|---|
-| Classification framework | Harmonised — all MERCOSUL countries use the GMC Res. 40/2000 four-class framework |
-| Registration systems | National — separate registrations required in each country |
-| GMP requirements | Partially harmonised — GMC Res. 33/2006; ISO 13485 widely accepted |
-| Adverse event reporting | Partially harmonised — GMC Res. 12/2014 |
-| UDI | Not yet harmonised — each country at different stage |
-| Clinical evidence | Not yet harmonised — national requirements apply |
+Area
+Current status
+Classification framework
+Harmonised — all MERCOSUL countries use GMC (MERCOSUR Common Market Group) Resolution 40/2000, which establishes a four-class risk classification system (I, II, III, IV)
 
 ## The regulatory harmonisation roadmap
 
-MERCOSUL's long-term goal is a **mutual recognition** arrangement where a regulatory approval in one MERCOSUL country is recognised by others — similar to how ASEAN AMDD works for Singapore, Malaysia, Thailand, and other members. Progress has been slow due to differences in regulatory capacity and political priorities.
+MERCOSUL's long-term goal is a mutual recognition arrangement where a regulatory approval in one MERCOSUL country is recognised by others — similar to how ASEAN AMDD works for Singapore, Malaysia, Thailand, and other members. Progress has been slow due to differences in regulatory capacity and political priorities.
 
 Key milestones expected:
 - Harmonised UDI system across MERCOSUL countries
@@ -33,7 +29,7 @@ Key milestones expected:
 
 ## Practical implications for manufacturers
 
-Until full harmonisation is achieved, manufacturers must file **separate registrations** in each MERCOSUL country:
+Until full harmonisation is achieved, manufacturers must file separate registrations in each MERCOSUL country:
 - Brazil → ANVISA
 - Argentina → ANMAT (Administración Nacional de Medicamentos, Alimentos y Tecnología Médica)
 - Uruguay → MSP (Ministerio de Salud Pública)
@@ -48,3 +44,5 @@ Documentation prepared to ANVISA/GMC standards is reusable for ANMAT submissions
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+As of 2026, no firm timeline has been announced for mutual recognition of medical device registrations across MERCOSUL countries. Manufacturers should expect to file separate registrations in each country indefinitely unless MERCOSUL announces a mutual recognition agreement.

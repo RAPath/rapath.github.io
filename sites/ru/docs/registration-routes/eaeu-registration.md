@@ -8,7 +8,7 @@ description: How to register a medical device under the Eurasian Economic Union 
 
 ## Overview
 
-The EAEU (Eurasian Economic Union) registration pathway, governed by **EEC Decision No. 46**, provides a single Registration Certificate valid across all five EAEU member states: Russia, Belarus, Kazakhstan, Armenia, and Kyrgyzstan.
+1. 2. 3. 4. (typically 30 days) 5. Upon consensus or resolution of concerns, the valid across all five member states EAEU (Eurasian Economic Union) registration pathway, governed by **EEC Decision No. 46**, provides a single Registration Certificate valid across all five EAEU member states: Russia, Belarus, Kazakhstan, Armenia, and Kyrgyzstan.
 
 From **1 January 2027**, this will be the only route available for new medical device registrations in Russia. Companies entering the market or approaching renewal should plan for EAEU registration from the outset.
 
@@ -48,3 +48,5 @@ Devices registered under the EAEU pathway must bear the **EAC mark** (Евраз
 EEC Decision No. 46: [eec.eaeunion.org](https://eec.eaeunion.org/)  
 EAEU medical device database: [eec.eaeunion.org](https://eec.eaeunion.org/)
 :::
+
+From January 1, 2027, new registrations and most registration renewals must follow the EAEU pathway. Existing national Registration Certificates issued before this date will remain valid until their expiry date, after which re-registration under EAEU rules will be required.

@@ -50,7 +50,7 @@ For many manufacturers, Saudi Arabia is the **entry point to the MENA market**. 
 | Market size | ~USD 2.1B | ~USD 140B | ~USD 180B | ~USD 8B |
 | Regulatory maturity | High | Very high | Very high | High |
 | Registration speed (typical) | 3–12 months | 6–18 months | 3–18 months | 3–12 months |
-| Reference market acceptance | No (since 2022) | N/A | N/A | Yes (ARTG paths) |
+| Reference market acceptance | No — the SFDA does not accept reference approvals from other regulators; full MDMA submission required | N/A | N/A | Yes (ARTG paths) |
 | In-country rep required | Yes (AR) | Yes (EU AR) | Yes (US Agent) | Yes (Sponsor) |
 
 ## Further reading
@@ -59,3 +59,7 @@ For many manufacturers, Saudi Arabia is the **entry point to the MENA market**. 
 - [IMDRF Membership](./imdrf-membership)
 - [SFDA vs Other Regulators](./sfda-vs-regulators)
 - [Saudi Vision 2030](../getting-started/vision-2030)
+
+SFDA Recognition of Foreign Approvals
+
+As of 2022, the SFDA does not grant reference market acceptance for devices approved by the EU EMA, US FDA, or TGA. This means manufacturers cannot submit a device to SFDA on the basis of prior approval in another jurisdiction — full SFDA MDMA with complete technical documentation is required. However, manufacturers may reference clinical data, standards compliance, and quality management evidence generated for other markets to support their SFDA submission.

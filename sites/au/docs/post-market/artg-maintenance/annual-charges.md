@@ -7,7 +7,7 @@ last_reviewed: 2026-04-30
 
 ## Overview
 
-Sponsors are required to pay **annual charges** for each active ARTG entry they hold. Annual charges are the mechanism by which the TGA recovers the costs of ongoing regulatory oversight — post-market surveillance activities, adverse event monitoring, compliance activities, and administration. Annual charges are a condition of ARTG inclusion. Failure to pay results in cancellation of the ARTG entry.
+Sponsors are required to pay annual charges for each active ARTG entry they hold. Annual charges are the mechanism by which the TGA recovers the costs of ongoing regulatory oversight — post-market surveillance activities, adverse event monitoring, compliance activities, and administration. Annual charges are a condition of ARTG inclusion. Failure to pay results in cancellation of the ARTG entry.
 
 ---
 
@@ -24,10 +24,10 @@ Annual charges are payable within a set timeframe (typically 28 days of the invo
 
 ## Annual Charge Amounts
 
-Annual charges vary by device class — higher-risk devices attract higher annual charges, reflecting the greater regulatory oversight they require. Current annual charge amounts are published in:
+Annual charges vary by device class and are risk-based — higher-risk devices attract higher annual charges, reflecting the greater regulatory oversight they require. Current annual charge amounts are published in Schedule 5 of the Therapeutic Goods (Medical Devices) Regulations 2002 and the TGA's Annual Fees and Charges Summary document, which is updated each financial year (typically July). Charges are indexed annually for inflation.
 
-- **Schedule 5 of the Therapeutic Goods (Medical Devices) Regulations 2002**, and
-- The **TGA's annual fees and charges summary** document (updated each July)
+- Schedule 5 of the Therapeutic Goods (Medical Devices) Regulations 2002, and
+- The TGA's annual fees and charges summary document (updated each July)
 
 Always check the current year's fee schedule, as charges are indexed annually:
 
@@ -37,13 +37,13 @@ Always check the current year's fee schedule, as charges are indexed annually:
 
 ## Managing Annual Charges Efficiently
 
-**Cancel unwanted ARTG entries promptly**
+Cancel unwanted ARTG entries promptly
 Annual charges apply to all active ARTG entries, regardless of whether the device is actively being supplied. Sponsors who have withdrawn a device from the Australian market should cancel the ARTG entry to avoid ongoing annual charge obligations. Cancellation must be done before the annual charge is levied to avoid that year's charge being payable.
 
-**Multiple device entries**
+Multiple device entries
 Sponsors with large portfolios may have significant annual charge obligations. Annual charges are per ARTG entry — each unique sponsor-manufacturer-device combination has its own charge. Consolidating entries where possible (e.g., grouping variants under a single entry where the TGA permits) can reduce the charge burden.
 
-**Export-only devices**
+Export-only devices
 Annual charges for export-only ARTG entries are generally lower than for devices supplied in Australia.
 
 ---

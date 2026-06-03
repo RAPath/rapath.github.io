@@ -193,3 +193,5 @@ Both frameworks reach similar practical outcomes for most software, but the EU M
 | MDCG 2021-24 (reference) | EU guidance on software classification — useful comparative reference |
 | IEC 62304 | Medical device software — software lifecycle processes (designated UK standard) |
 | IEC 82304-1 | Health software — general requirements for product safety |
+
+The page ends with 'Rule 10 Software used for diagnosis and/or monitoring of vital physiological parameters where the nature of variations could result in immediate danger to the patien' which is incomplete.

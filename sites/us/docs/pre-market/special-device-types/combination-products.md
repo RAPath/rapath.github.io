@@ -29,3 +29,13 @@ For prefilled syringes, autoinjectors, and delivery devices where the drug PMOA 
 ## Official resources
 - [FDA OCP — Combination Products](https://www.fda.gov/combination-products)
 - [21 CFR Part 3](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-A/part-3)
+
+Primary Mode of Action (PMOA) Determination
+
+For combination products, the lead center is determined by identifying the primary mode of action:
+
+CDRH leads if: The primary mode of action is device-based (the drug/biologic component contributes to the overall effect but the device mechanism is primary)
+
+CDER leads if: The primary mode of action is drug or biologic-based (the drug/biologic mechanism is primary, and the device is ancillary)
+
+When PMOA is unclear, FDA's Office of Combination Products (OCP) can provide guidance through a Combination Product Classification Request.

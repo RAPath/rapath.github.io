@@ -32,3 +32,5 @@ Where the CH REP has been delegated vigilance reporting duties (or where the man
 :::warning Disclaimer
 AI-assisted content for navigation only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
 :::
+
+Expand 'What a Vigilance Report Must Contain' section:

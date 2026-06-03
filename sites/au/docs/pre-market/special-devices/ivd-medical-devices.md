@@ -24,7 +24,7 @@ Performance evaluation studies demonstrating compliance with EP 15 must be docum
 
 ## Performance Evaluation vs Clinical Evaluation
 
-For IVDs, clinical evidence requirements under EP 14 are addressed through **performance evaluation** rather than clinical investigation in the traditional sense. Performance evaluation includes:
+For IVDs, clinical evidence requirements under EP 14 are addressed through **performance evaluation** rather than clinical investigation in the traditional (Clinical Evidence) sense used for non-IVD devices. Performance evaluation is the equivalent pathway for demonstrating clinical safety and effectiveness. Performance evaluation includes:
 
 - **Analytical performance** — accuracy, precision, measurement range, interference, cross-reactivity
 - **Clinical performance** — sensitivity and specificity relative to a reference standard or clinical diagnosis
@@ -66,3 +66,5 @@ In-house IVDs are manufactured and used within a single laboratory (not supplied
 - [IVD Class 1–4 (Classification)](../classification/ivd-class-1-2-3-4.md)
 - [EP 15 — IVD Principles](../essential-principles/ep-7-15-design-and-construction.md)
 - [Clinical Evidence](../clinical-evidence/what-is-required.md)
+
+In-house IVDs above Class 1 have been subject to progressive regulatory requirements since 2020. As of 1 November 2024, all in-house IVDs above Class 1 must comply with Essential Principles and either be included in the ARTG or be covered by a valid exemption. Laboratories must verify their current obligations based on the class of each in-house IVD they manufacture and use.

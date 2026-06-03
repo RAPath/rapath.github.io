@@ -30,7 +30,7 @@ Class D requires a **comprehensive registration dossier** with the highest level
 - Post-market surveillance plan
 - Periodic Safety Update Reports (PSUR) commitment
 - ISO 13485 mandatory
-- Review timeline: 6–12 months minimum; complex devices may exceed this
+- Review timeline: 6–12 months minimum; complex devices may exceed with extensive clinical data or those requiring deficiency letter cycles this. Applicants should plan for potential review cycles and queries from Kemenkes evaluators.
 
 ## Documentation Requirements
 
@@ -54,3 +54,7 @@ Class D manufacturers face the most stringent ongoing obligations:
 ## Halal Labeling Deadline
 
 Class D devices (and biological products) have a Halal labeling compliance deadline of approximately **2039** under Government Regulation 42/2024, reflecting the complexity of material sourcing for these device categories.
+
+The ASEAN CSDT (Common Submission Dossier Template) must include all required modules: administrative data, device description and specifications, nonclinical laboratory study data, clinical data, clinical evaluation report, risk management file (ISO 14971), and production information. Digital submission via the Regalkes system is required.
+
+Manufacturers should designate a qualified Regulatory Affairs representative to serve as the primary contact with Kemenkes during the review period. Two-way communication with evaluators, including responses to queries (deficiency letters), is expected within specified timeframes (typically 30 days for each query cycle).

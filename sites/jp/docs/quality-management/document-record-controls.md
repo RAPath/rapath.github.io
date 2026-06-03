@@ -28,3 +28,5 @@ Under MO 169, the approved labelling (including approved intended use from the S
 ## Electronic records
 
 MO 169 accepts electronic records subject to controls ensuring integrity, security, and retrievability. Electronic records systems must prevent unauthorised modification of approved records.
+
+Record retention requirements vary by device type: for permanent implants, retain records for at least 15 years after market release; for non-implantable devices, retain for the expected device service life plus at least 2 years; for in vitro diagnostic devices, retain for at least 2 years after the device expires or is recalled. In all cases, records related to adverse events or recalls must be retained for longer periods.

@@ -228,3 +228,15 @@ Manufacturers should also retain technical documentation for as long as the devi
 | MHRA: Guidance on the UK MDR 2002 | Includes technical file guidance |
 | EU MDD 93/42/EEC, Annex II/V | Source of technical file requirements (for reference) |
 | ISO 13485:2016, Section 4 | Document and record control requirements |
+
+The page content for Section 7 appears to end abruptly at 'Section 7 — Man'. This section should cover 'Manufacturing and quality management' — suggest completing as:
+
+Section 7 — Manufacturing and quality management
+
+Quality Management System (QMS) summary aligned to ISO 13485
+Manufacturing process description and process controls
+Subcontractor / supplier information (if applicable)
+Manufacturing facilities and equipment qualifications
+Process validation records
+Sterilisation process validation (where applicable)
+Labelling and packaging process controls

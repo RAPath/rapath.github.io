@@ -20,7 +20,7 @@ An FSCA is required when the manufacturer identifies a device-related risk that 
 
 ## Field Safety Notices (FSNs)
 
-When an FSCA is initiated, the manufacturer (via the AR) must issue a **Field Safety Notice (FSN)** to all affected users, healthcare facilities, distributors, and importers in Saudi Arabia. FSNs must be provided in **both Arabic and English** for the Saudi market — an important Saudi-specific requirement.
+When an FSCA is initiated, the manufacturer (via the AR) must issue a **Field Safety Notice (FSN)** to all affected users, healthcare facilities, distributors, and importers in Saudi Arabia. FSNs must be provided in **both Arabic and English** for the Saudi market — known a critical Bilingual FSNs ensure that both clinical and administrative staff understand the safety issue and required actions. Saudi-specific requirement.
 
 The FSN must:
 - Clearly identify the affected device(s) (by name, model, lot numbers)

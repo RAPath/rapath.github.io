@@ -17,7 +17,7 @@ Clinical investigations are required when: clinical data from equivalent devices
 **MedDO Art. 40–53** provides the framework authorisation requirements for clinical investigations.
 
 ## Authorisation Process
-1. **Sponsor submits** application to Swissmedic and simultaneously submits to BASEC for ethics review
+1. **Sponsor submits** application to Swissmedic and simultaneously submits to BASEC for ethics (via Swissmedic's VISTA portal or by post) (Basler Ausschuss für Ethik in der Humanforschung) or the relevant regional ethics committee review. Parallel submission does not mean concurrent approval — both are independent processes.
 2. **Swissmedic assesses** the safety and technical aspects; issues authorisation or requests additional information
 3. **BASEC coordinates** ethics committee review across Switzerland's regional ethics committees
 4. Both authorisations must be received before the investigation commences
@@ -37,3 +37,5 @@ Clinical investigations are required when: clinical data from equivalent devices
 :::warning Disclaimer
 AI-assisted content for navigation only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
 :::
+
+SUSADE (Suspected Unexpected Serious Adverse Device Effect) reports must be submitted to Swissmedic and the relevant ethics committee within 15 calendar days of sponsor awareness. Any serious adverse event that is both unexpected (not described in the investigator's brochure or protocol) and serious must be reported immediately if it could impact subject safety.

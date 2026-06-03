@@ -7,7 +7,7 @@ description: The Medical Device Single Audit Program (MDSAP) — how it works, w
 
 ## What is MDSAP?
 
-The **Medical Device Single Audit Program (MDSAP)** is an international audit program that allows a single regulatory audit of a medical device manufacturer's quality management system to satisfy the requirements of **five regulatory jurisdictions**:
+The Medical Device Single Audit Program (MDSAP) is an international audit program that allows a single regulatory audit of a medical device manufacturer's quality management system to satisfy the requirements of five regulatory jurisdictions:
 
 | Jurisdiction | Regulatory authority |
 |---|---|
@@ -21,21 +21,21 @@ A single MDSAP audit certificate satisfies all five jurisdictions' QMS audit req
 
 ## Why MDSAP matters for Canada
 
-Health Canada requires a **current MDSAP audit certificate** (or equivalent) as part of Device Licence applications for Class II, III, and IV devices. An ISO 13485 certificate from an accredited certification body is **no longer sufficient** on its own for Health Canada submissions.
+Health Canada requires a current MDSAP audit certificate (or equivalent) as part of Device Licence applications for Class II, III, and IV devices. For Class II, III, and IV devices, an MDSAP audit certificate is required. An ISO 13485 certificate from an accredited certification body alone is no longer sufficient for Health Canada Device Licence submissions for these classes.
 
 ## MDSAP audit structure
 
 The MDSAP audit covers the manufacturer's QMS against:
-- **ISO 13485:2016** (the QMS standard)
-- **Regulatory requirements** of each participating jurisdiction
+- ISO 13485:2016 (the QMS standard)
+- Regulatory requirements of each participating jurisdiction
 
-MDSAP audits are conducted by accredited **Auditing Organizations (AOs)** — third-party certification bodies accredited by the relevant IAF-recognised accreditation body to conduct MDSAP audits.
+MDSAP audits are conducted by accredited Auditing Organizations (AOs) — third-party certification bodies accredited by the relevant IAF-recognised accreditation body to conduct MDSAP audits.
 
 ### MDSAP audit cycle
-MDSAP audits follow a **3-year cycle**:
-- **Year 1** — Full System Audit (FSA): comprehensive audit of all QMS processes
-- **Year 2** — Surveillance Audit 1 (SA1): focused audit of selected processes
-- **Year 3** — Surveillance Audit 2 (SA2): focused audit of remaining processes + renewal preparation
+MDSAP audits follow a 3-year cycle:
+- Year 1 — Full System Audit (FSA): comprehensive audit of all QMS processes
+- Year 2 — Surveillance Audit 1 (SA1): focused audit of selected processes
+- Year 3 — Surveillance Audit 2 (SA2): focused audit of remaining processes + renewal preparation
 
 At the end of Year 3, a new FSA resets the cycle.
 
@@ -49,17 +49,17 @@ At the end of Year 3, a new FSA resets the cycle.
 
 ## MDSAP audit report vs. certificate
 
-- The **MDSAP Audit Report** details the findings and non-conformances
-- The **MDSAP Audit Certificate** confirms the QMS meets requirements and is valid for the audit cycle period
+- The MDSAP Audit Report details the findings and non-conformances
+- The MDSAP Audit Certificate confirms the QMS meets requirements and is valid for the audit cycle period
 
-Health Canada requires submission of both the **MDSAP Certificate** and the **MDSAP Audit Report Summary** (or equivalent documentation) in Device Licence applications.
+Health Canada requires submission of both the MDSAP Certificate and the MDSAP Audit Report Summary (or equivalent documentation) in Device Licence applications.
 
 ## Non-conformances
 
 MDSAP non-conformances are graded:
-- **Grade 1 (Major)** — systemic failure to meet a critical requirement
-- **Grade 2 (Minor)** — isolated failure or weakness
-- **Grade 3 (Opportunity for Improvement)** — informational
+- Grade 1 (Major) — systemic failure to meet a critical requirement
+- Grade 2 (Minor) — isolated failure or weakness
+- Grade 3 (Opportunity for Improvement) — informational
 
 Major non-conformances must be resolved before the certificate can be issued. Unresolved major non-conformances are reported to the regulatory authorities.
 

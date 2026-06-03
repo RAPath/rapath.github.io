@@ -323,3 +323,5 @@ This is not optional — a classification without a documented rationale is not 
 | UK MDR 2002, Schedule 2 | Full text of all 18 classification rules |
 | MHRA: Classification of medical devices | MHRA guidance on applying Schedule 2 |
 | EU MDD 93/42/EEC, Annex IX | Source of Schedule 2 rules (for reference) |
+
+The page ends with 'Step 2 — Apply the relevant rules: Rule' and appears to be missing the remainder of the classification rules guidance (Rules 5-18).

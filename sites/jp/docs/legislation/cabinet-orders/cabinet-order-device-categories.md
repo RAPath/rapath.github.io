@@ -7,7 +7,7 @@ sidebar_position: 1
 
 ## Role of Cabinet Orders in the PMD Act framework
 
-Cabinet Orders (政令 — seirei) are secondary legislation issued by the Japanese Cabinet. They sit between the PMD Act (which requires Diet approval to amend) and Ministerial Ordinances (which only require the MHLW Minister's signature). Cabinet Orders can be amended by Cabinet decision without Diet involvement, making them a more flexible tool for updating device classification lists.
+Cabinet Orders (政令 — seirei) are secondary legislation issued by the Cabinet (executive branch, not Parliament). They have binding legal force equivalent to legislation but can be amended by Cabinet decision without Diet approval. They sit between the PMD Act (which requires Diet approval to amend) and Ministerial Ordinances (which only require the MHLW Minister's signature). Cabinet Orders can be amended by Cabinet decision without Diet involvement, making them a more flexible tool for updating device classification lists.
 
 For medical devices, the key Cabinet Orders:
 - List the specific product categories designated as medical devices (making the general PMD Act definition operational)
@@ -30,3 +30,5 @@ The PMD Act Enforcement Regulations (薬事法施行規則) are technically a Mi
 :::info Official source
 Current Cabinet Orders: [e-Gov Cabinet Order database](https://laws.e-gov.go.jp/) (search 高度管理医療機器 Cabinet Order)
 :::
+
+MHLW publishes Cabinet Order amendments via e-Gov and MHLW news releases. No single subscription mechanism exists; monitoring should be conducted through: (1) periodic e-Gov searches for 高度管理医療機器, (2) MHLW pharmaceutical bureau announcements, and (3) PMDA notification updates referencing reclassifications.

@@ -56,7 +56,7 @@ FDA uses 18 expert advisory panels, each corresponding to a medical specialty. T
 | 878 | General & plastic surgery |
 | 880 | General hospital & personal use |
 | 882 | Neurology |
-| 884 | Obstetrics & gynaecology |
+| 884 | Obstetrics & gynecology |
 | 886 | Ophthalmic |
 | 888 | Orthopaedic |
 | 890 | Physical medicine |
@@ -78,3 +78,5 @@ FDA uses 18 expert advisory panels, each corresponding to a medical specialty. T
 - [FDA Product Classification Database](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPCD/classification.cfm)
 - [21 CFR Parts 862–892 — Device Classifications](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-H)
 - [FDA — Classify Your Medical Device](https://www.fda.gov/medical-devices/overview-device-regulation/classify-your-medical-device)
+
+Class I devices present minimal risk and require only general controls (labeling, manufacturing standards). Class II devices present moderate risk and require special controls in addition to general controls. Class III devices present the highest risk and require Premarket Approval (PMA) demonstrating safety and effectiveness through valid scientific evidence.

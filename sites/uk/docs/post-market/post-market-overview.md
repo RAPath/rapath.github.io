@@ -42,7 +42,7 @@ Post-market obligations cluster into six areas:
 | **Field Safety Corrective Actions (FSCAs)** | Manufacturer / UKRP | Taking corrective action in the field when safety issues arise |
 | **MHRA registration maintenance** | Manufacturer / UKRP | Keeping registration current as devices and company details change |
 | **Labelling and advertising compliance** | Manufacturer / distributor | Ensuring ongoing compliance with labelling and promotional rules |
-| **UKAB surveillance** | Manufacturer | Participating in annual UKAB surveillance audits; maintaining certification |
+| **UKAB surveillance** | Manufacturer | / UKAB Manufacturer participation (UKAB responsibility: conducting the surveillance audits) in annual UKAB surveillance audits; maintaining certification |
 
 ---
 

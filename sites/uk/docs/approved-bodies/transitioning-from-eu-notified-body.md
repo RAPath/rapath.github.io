@@ -23,23 +23,23 @@ How manufacturers with EU Notified Body certificates transition to UK Approved B
 
 ## The current position: CE transitional acceptance
 
-Until **30 June 2030**, CE-marked devices may be placed on the GB market without UKCA marking. This means manufacturers with current EU Notified Body certificates for their devices can continue to supply the GB market under CE marking during this period.
+Until 30 June 2030, CE-marked devices certified by EU Notified Bodies may be placed on the GB market without UKCA marking. This transition period allows manufacturers with valid EU Notified Body certificates to continue supplying the GB market under CE marking without the need for parallel UKAB certification during this time.
 
 See [CE marking — transitional acceptance in GB](../pre-market/conformity-assessment/ce-marking-transitional) for the full transitional position.
 
 ## When will UKCA marking be needed?
 
-From **1 July 2030**, UKCA marking will be required for devices placed on the GB market. Manufacturers relying solely on CE marking for GB access must obtain UKCA marking before this date.
+From 1 July 2030, UKCA marking will be required for devices placed on the GB market. Manufacturers relying solely on CE marking for GB access must obtain UKCA marking before this date.
 
 ## Steps to transition to a UKAB
 
-1. **Select a UKAB** — identify a UKAB designated for your device type and conformity assessment route (see [Finding a UKAB](./finding-a-ukab))
-2. **Engage early** — UKAB capacity is limited; demand will surge as 2030 approaches. Begin engagement well in advance (aim for 2–3 years before your target UKCA date)
-3. **Gap analysis** — assess your technical file and QMS against UK MDR 2002 Essential Requirements; most EU MDR-compliant technical files will broadly satisfy UK ERs, but differences exist
-4. **Apply to the UKAB** — submit formal application and documentation
-5. **Complete the audit and assessment** — address any non-conformities
-6. **Obtain UKAB certificate** — issue UK Declaration of Conformity; affix UKCA mark
-7. **Update MHRA registration** — update certificate reference in MHRA Submissions portal
+1. Select a UKAB — identify a UKAB designated for your device type and conformity assessment route (see [Finding a UKAB](./finding-a-ukab))
+2. Engage early — UKAB capacity is limited; demand will surge as 2030 approaches. Begin engagement well in advance (aim for 2–3 years before your target UKCA date)
+3. Gap analysis — assess your technical file and QMS against UK MDR 2002 Essential Requirements; most EU MDR-compliant technical files will broadly satisfy UK ERs, but differences exist
+4. Apply to the UKAB — submit formal application and documentation
+5. Complete the audit and assessment — address any non-conformities
+6. Obtain UKAB certificate — issue UK Declaration of Conformity; affix UKCA mark
+7. Update MHRA registration — update certificate reference in MHRA Submissions portal
 
 ## Can the same certificate cover both EU and GB?
 
@@ -57,3 +57,4 @@ Devices that were certified under the legacy EU directives (MDD, AIMDD, IVDD) be
 | MHRA: UK Approved Bodies | UKAB designation list |
 | UK MDR 2002, Schedule 3 | UKCA conformity assessment procedures |
 
+Manufacturers serving Northern Ireland should note that NI remains on the EU MDR/IVDR regime and continues to accept EU Notified Body certificates and CE marking. The transition steps outlined above apply only to the GB market. See Great Britain vs Northern Ireland for the full regulatory split between GB and NI.

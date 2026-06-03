@@ -25,3 +25,17 @@ Official texts are published on [www.nmpa.gov.cn](https://www.nmpa.gov.cn/) and 
 :::note Disclaimer
 Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [NMPA](https://www.nmpa.gov.cn/) sources before making regulatory decisions. Not affiliated with NMPA or any Chinese Government body. Not legal or regulatory advice.
 :::
+
+## Scope
+This measure implements Articles 81-87 of MDSAR 2021, establishing the framework for adverse event monitoring, medical device safety signals, risk re-evaluation, and recalls.
+
+## Key Requirements
+- Manufacturers and registrants must establish adverse event monitoring systems
+- Serious adverse events must be reported to NMPA within 30 days
+- Regular periodic safety update reports (PSURs) required for Class II and III devices
+- NMPA conducts risk re-evaluation based on reported data
+- Manufacturers must implement recalls when safety risks are identified
+- Distributors and medical institutions must report adverse events to manufacturers or NMPA
+
+## Relationship to MDSAR 2021
+This measure operationalizes Chapter VI of MDSAR 2021, providing detailed procedures for the adverse event reporting, monitoring, and re-evaluation obligations outlined in Articles 81-87.

@@ -10,3 +10,15 @@ keywords: [MDR 2017, India, CDSCO, chapter, rules]
 This page summarises the key rules in this chapter of the Medical Devices Rules 2017 and links to the relevant primary source.
 
 > **Official source:** [MDR 2017 — CDSCO](https://cdsco.gov.in/opencms/opencms/en/Medical-Device-Diagnostics/Medical-Device-Diagnostic-Rules/)
+
+Chapter VIII (Licensing) covers the licensing framework for manufacturers and importers of medical devices. It establishes procedures for license application, approval, renewal, suspension, and cancellation. Different license categories apply based on device classification (Class A, B, or C) and type of entity (manufacturer or importer).
+
+Chapter VIII of the Medical Devices Rules 2017 covers licensing authorities, appeals, and miscellaneous provisions (Rules 63–75). Key topics include:
+
+- Appointment and powers of licensing authorities
+- Application procedures for licenses and approvals
+- Grant, refusal, suspension, and cancellation of licenses
+- Appeal procedures and dispute resolution
+- Miscellaneous provisions including powers of inspectors and competent authorities
+
+For detailed requirements, refer to Rules 63–75 of MDR 2017.

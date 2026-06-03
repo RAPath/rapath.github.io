@@ -36,3 +36,5 @@ Each expansion notification generally provides a transition period (typically 12
 :::info
 Always check the CDSCO website and the Official Gazette for the most current schedule of notified devices and any active transition periods.
 :::
+
+The 2020 expansion (1 April 2020) brought 21 categories into scope, including orthopaedic implants (knees, hips, spine), cardiac stents, and cardiac pacemakers. Manufacturers should cross-reference the Official Gazette notification G.S.R. 262(E) dated 1 April 2020 for the complete list of notified categories effective from that date.

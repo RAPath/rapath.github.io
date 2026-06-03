@@ -91,3 +91,5 @@ Gather evidence     →     Sponsor in place    →     Report events    →    
 Appoint Sponsor     →     Supply begins       →     Update WAND      →      Notify customers
 Prepare labelling                                   Manage FSCAs
 ```
+
+GMDN codes are assigned by the GMDN Agency and typically take 5–10 business days to obtain. A fee may apply depending on the GMDN Agency's current pricing structure. Ensure the code is obtained before submitting WAND notification.

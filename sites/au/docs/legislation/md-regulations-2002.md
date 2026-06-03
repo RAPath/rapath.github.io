@@ -149,3 +149,5 @@ The requirement to maintain distribution records sufficient to enable an effecti
 - [How to Read Legislation](./how-to-read-legislation.md)
 - [Essential Principles](../pre-market/essential-principles/overview.md)
 - [Classification](../pre-market/classification/how-classification-works.md)
+
+After 'The current compilation (Compilation No. 63 as at July 2024' add the sentence: 'This compilation date may be outdated. Always check the endnotes on legislation.gov.au to confirm you are viewing the latest compilation and to identify any uncommenced amendments.'

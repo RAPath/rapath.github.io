@@ -85,3 +85,5 @@ In-vitro diagnostic devices (IVDs) follow a **separate classification framework*
 ## GHTF Classification Reference
 
 The GHTF SG1 Study Group documents, particularly **GHTF/SG1/N77:2012 — Guidelines for Regulatory Auditing of Quality Management Systems of Medical Device Manufacturers** and **GHTF/SG1/N71:2012 — Summary Technical Documentation (STED)**, are key references for understanding how Indonesia's framework maps to international norms.
+
+If a manufacturer disagrees with the Kemenkes classification determination during technical review, the LAR can submit a written justification to the evaluator with additional supporting evidence or alternative classification rationale. The evaluator will reconsider the classification and communicate the final determination in the deficiency letter or approval decision. There is no formal appeal process; however, manufacturers can request pre-submission meetings with Kemenkes to clarify classification before submitting the full registration dossier.

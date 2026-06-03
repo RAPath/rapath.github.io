@@ -87,3 +87,5 @@ All documents submitted to COFEPRIS must be in **Spanish** or accompanied by an 
 - [Clinical evidence](clinical-evidence)
 - [Labelling — NOM-137](../postmarket/labelling-nom-137)
 - [Quality System — NOM-241](../quality-system/nom-241-overview)
+
+Expand section '4. Clinical evidence' to include: "Class II devices may be divided into two subcategories: (a) substantially similar to existing marketed devices may require only a clinical evaluation report and published literature review; (b) novel Class II or higher-risk Class II devices typically require clinical study data, which may be from published literature, registry data, or sponsored studies. COFEPRIS recommends pre-submission consultation for novel Class II devices to clarify evidence expectations."

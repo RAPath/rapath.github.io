@@ -13,7 +13,7 @@ All manufacturers are expected to conduct post-market surveillance (PMS) appropr
 - Complaint handling and tracking
 - Distribution records
 - Reactively monitoring for safety signals
-- No proactive literature review required (but recommended for novel Class I devices)
+- No routine proactive literature review required; however, reactively review published literature when safety signals or adverse events are identified. Proactive literature monitoring is recommended for novel Class I devices or devices with emerging safety concerns
 
 ## Class II
 **Required:** Systematic complaint analysis and signal detection
@@ -40,3 +40,11 @@ All manufacturers are expected to conduct post-market surveillance (PMS) appropr
 - Evidence-based updates to the risk management file based on PMS findings
 
 > **Legislative source:** Medical Devices Regulations, SOR/98-282; ISO 14971 (PMS as input to risk management); IMDRF PMS guidance
+
+Post-Market Clinical Follow-Up (PMCF)
+
+For Class III and IV devices, Health Canada may require or recommend a Post-Market Clinical Follow-Up plan. A PMCF plan should:
+- Identify data to be collected post-market to verify the long-term safety and performance of the device
+- Specify the duration of follow-up, patient population, and data collection methodology
+- Describe how PMCF data will be integrated into the periodic safety assessment
+- Be included in the Device Licence application or requested during a compliance review

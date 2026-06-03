@@ -8,7 +8,7 @@ description: Post-market surveillance (PMS) obligations for medical device manuf
 
 ## What is Post-Market Surveillance?
 
-**Post-market surveillance (PMS)** is the systematic process of collecting, recording, and analysing data on the quality, safety, and performance of a medical device after it has been placed on the market. PMS is a mandatory ongoing obligation under Act 737 for all registered medical devices.
+**Post-market surveillance (or LARs establish and post-market surveillance (PMS plan))** is the systematic process of collecting, recording, and analysing data on the quality, safety, and performance of a medical device after it has been placed on the market. PMS is a mandatory ongoing obligation under Act 737 for all registered medical devices.
 
 PMS activities generate evidence that:
 - The device continues to perform as intended

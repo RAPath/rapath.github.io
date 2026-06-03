@@ -36,3 +36,5 @@ Regulatory documentation prepared to IMDRF standards (e.g., IMDRF SaMD N12 class
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+ANVISA specifically recognises the IMDRF N47 clinical evaluation framework. Clinical evaluation reports prepared according to IMDRF N47 guidance are accepted by ANVISA, provided they are translated into Portuguese and adapted to address ANVISA's Essential Requirements (RDC 751/2022).

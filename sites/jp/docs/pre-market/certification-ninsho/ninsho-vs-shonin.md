@@ -25,4 +25,4 @@ A device that was originally certified via Ninsho may need to switch to Shonin i
 4. Maintain the existing Ninsho certification while the Shonin application is under review (where possible and permissible)
 5. Upon Shonin issuance, cancel the Ninsho certification with the RCB
 
-The transition period needs careful management to avoid market access gaps.
+The transition period requires MAHs should coordinate with PMDA about the timing of Ninsho cancellation relative to Shonin approval issuance to ensure continuous market authorization. careful management to avoid market access gaps.

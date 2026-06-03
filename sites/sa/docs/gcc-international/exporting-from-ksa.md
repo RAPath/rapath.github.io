@@ -54,3 +54,7 @@ A **Saudi-based manufacturer** can serve as the legal manufacturer on regulatory
 - [SFDA vs Other Regulators](./sfda-vs-regulators)
 - [MDEL Overview](../authorized-representative/mdel-overview)
 - [Multi-Market Strategy](./multi-market-strategy)
+
+Export Certificate Validity
+
+SFDA export certificates are typically valid for a specified period (confirm current duration with SFDA via GHAD). Manufacturers must renew the export certificate if the device specification, manufacturing location, or MDEL status changes. Export certificates are device and destination-specific; a separate certificate is required for each destination country and each distinct device variant.

@@ -32,3 +32,5 @@ The **Registro** pathway is required for **Class III and Class IV** devices — 
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+If registration is denied, applicants may file an administrative appeal (recurso) within the timeframe specified in the ANVISA rejection notice. See Appeals section for details.

@@ -154,3 +154,17 @@ A failure at any level cascades. A manufacturer who does not follow the state of
 | IVDR Annex I, Chapter I | Equivalent IVDR provisions |
 | EN ISO 14971:2019 | Risk management for medical devices |
 | MDCG 2022-14 | Guidance on GSPR application |
+
+GSPR 3 — Performance under conditions of use
+
+Devices shall be designed, manufactured, and packaged in such a way that their characteristics and performance during their intended use are not adversely affected under transport and storage conditions (for example, fluctuations of temperature and humidity), taking account of the duration of transport and storage.
+
+What this requires in practice
+
+- The device must maintain its performance characteristics throughout the entire supply chain — from manufacture to point of use
+- Environmental stressors (temperature, humidity, pressure, vibration, light exposure) must be evaluated during validation
+- Packaging must protect the device during transport and storage for the intended shelf-life
+- For sterile devices, transport and storage conditions must not compromise sterility
+- Instructions must specify storage conditions (temperature range, humidity limits, protection from light, etc.)
+- Expiry dating and shelf-life must be scientifically justified based on stability testing
+- If performance is sensitive to environmental factors, this must be clearly communicated in the IFU and labelling

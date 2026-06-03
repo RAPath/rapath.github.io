@@ -52,3 +52,7 @@ Post-market obligations: PMS, NOTIVISA, labelling, AFE renewal
 
 - [ANVISA — Produtos para Saúde](https://www.gov.br/anvisa/pt-br/assuntos/produtossaude/produtos-para-saude)
 - [Lei 9.782/1999](https://www.planalto.gov.br/ccivil_03/leis/l9782.htm)
+
+RDC 36/2015 is already listed in the table, but add a note in the section introduction:
+
+'RDC 36/2015 provides the dedicated framework for in vitro diagnostics, which operate under a parallel but distinct registration system from general medical devices.'

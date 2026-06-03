@@ -27,6 +27,6 @@ description: Key regulatory terms for Philippines FDA / CDRRHR medical device re
 | **FSCA** | Field Safety Corrective Action — post-market corrective action for marketed devices |
 | **eReport** | FDA Philippines online adverse event reporting system |
 | **90-day rule** | Applicants have 90 calendar days to address application deficiencies before the application is deemed abandoned |
-| **IVD** | In Vitro Diagnostic — currently exempt from CMDN/CMDR registration in the Philippines (as of May 2026) |
+| **IVD** | In Vitro Diagnostic — currently exempt from CMDN/CMDR registration in the Philippines; LTO still required for importers and distributors. Registration requirements expected to be implemented in the future — monitor CDRRHR announcements. |
 | **Regional Field Offices** | FDA Philippines offices in regions outside Metro Manila — conduct local compliance monitoring |
 | **BOC** | Bureau of Customs — coordinates with CDRRHR on importation control of unregistered devices |

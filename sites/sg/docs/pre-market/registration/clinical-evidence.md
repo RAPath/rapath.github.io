@@ -17,7 +17,7 @@ HSA accepts a range of clinical evidence types:
 - Published literature on equivalent or similar devices;
 - Post-market clinical follow-up data;
 - Clinical data from overseas regulatory submissions (e.g. the FDA's Summary of Safety and Effectiveness Data, or a CE clinical evaluation report);
-- Real-world evidence and registry data.
+- Real-world evidence and registry data; Post-market surveillance data from the same or similar devices.
 
 ## Clinical evidence by route
 

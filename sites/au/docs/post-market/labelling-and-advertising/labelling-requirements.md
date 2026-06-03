@@ -55,7 +55,7 @@ Every device must be supplied with adequate instructions for use unless the devi
 
 ## EP 13B — Software Version Numbers
 
-Under EP 13B (added 2021), software-based medical devices must display the current version and build number of the software in a way that is identifiable and accessible to users. The version and build number must be presented in English.
+Under EP 13B (effective from 1 January 2021), software-based medical devices must display the current software version and build number in a way that is clearly identifiable and readily accessible to users during normal operation. The version and build number must be presented in English and must be unambiguous (e.g., not formatted in a way that could be misinterpreted).
 
 ---
 
@@ -106,3 +106,5 @@ A device may not be supplied or advertised for uses outside its ARTG-approved in
 - [Advertising Rules](./advertising-rules.md)
 - [Permitted & Prohibited Claims](./permitted-and-prohibited-claims.md)
 - [EP 13 — Essential Principles](../../pre-market/essential-principles/ep-7-15-design-and-construction.md)
+
+The final section should be completed with: 'Off-Label Use and Labelling. Labelling and instructions for use must not promote or encourage use of the device beyond its ARTG-approved intended purpose. References to off-label uses in labelling or accompanying materials breach advertising and labelling requirements. Sponsors should ensure that IFUs clearly define the intended use and do not suggest applications beyond the ARTG entry.'

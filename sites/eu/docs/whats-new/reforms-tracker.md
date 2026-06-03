@@ -105,3 +105,5 @@ As of early 2026, approximately 40 NBs are designated under MDR and approximatel
 - [Transitional provisions & timelines](/start-here/transitional-provisions)
 - [Legacy & grandfathered devices](/pre-market/special-device-types/legacy-grandfathered-devices)
 - [Notified bodies — capacity](/notified-bodies/what-notified-bodies-do)
+
+Complete the EUDAMED rollout table with the full date. The entry should read: '2 — UDI/Device registration (Class I/A) | Mandatory | May 2024' (or verify the actual date from EC sources and update accordingly).

@@ -51,3 +51,5 @@ While Decree 98/2021 does not mandate ISO 13485 certification for importers and 
 - Record-keeping for traceability
 
 These are inspectable obligations — provincial health departments and DAV can request to review quality records during market surveillance inspections.
+
+QMS certificates must be renewed before expiration. If a manufacturer's QMS certificate expires during the validity period of a marketed device's registration, the manufacturer must submit a new valid QMS certificate to DAV within 30 days of renewal. Failure to maintain a valid QMS certificate may result in suspension of the device's marketing authorisation.

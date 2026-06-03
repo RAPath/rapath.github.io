@@ -28,3 +28,5 @@ All registrations are valid for **10 years**.
 ## IVDs — separate classification under RDC 36/2015
 
 See [IVD Classification](/docs/pre-market/classification/ivd-classification).
+
+"IVD registrations are also valid for 10 years from the date of approval."

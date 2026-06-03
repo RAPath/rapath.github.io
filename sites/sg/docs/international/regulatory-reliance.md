@@ -25,7 +25,7 @@ When an applicant submits via the Abridged route, HSA:
 3. Reviews a reduced set of technical documentation, relying on the reference agency's assessment for elements already reviewed;
 4. Applies its own Singapore-specific assessment where needed (e.g. checking labelling for Singapore market requirements).
 
-The depth of HSA's residual review decreases as the number of qualifying approvals and years of safe marketing increase — hence the progression from Abridged → ECR/EDR → IBR.
+The depth of HSA's residual review generally decreases as the strength of supporting evidence increases, including the number of qualifying approvals from reference agencies and duration of safe marketing history. This principle underlies the progression from Full → Abridged → Expedited (ECR/EDR) → Immediate (IBR) routes.
 
 ## HSA's regulatory reliance page
 

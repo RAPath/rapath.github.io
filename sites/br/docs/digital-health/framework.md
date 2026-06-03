@@ -8,7 +8,7 @@ keywords: [ANVISA, Brazil, medical device]
 # ANVISA's Digital Health Regulatory Framework
 
 :::info BR-unique
-ANVISA has been developing a dedicated digital health regulatory framework through a series of public consultations and technical publications. As of May 2026, the framework is still evolving — with the core device regulation (RDC 751/2022) applying to SaMD, and specific guidance being developed for AI/ML, mobile health, and connected devices.
+ANVISA has established a dedicated digital health regulatory framework through RDC 752/2022 (specific regulation for software as a medical device) and a series of public consultations and technical publications. The framework continues to evolve — with the core device regulation (RDC 751/2022) applying to all medical devices including SaMD, RDC 752/2022 providing specific requirements for software, and additional guidance being developed for AI/ML, mobile health, and connected devices.
 :::
 
 ## ANVISA's approach to digital health
@@ -45,3 +45,7 @@ ANVISA has a dedicated digital health team within GPRODS that handles:
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+Add the following sentence after the RDC 751/2022 entry in the Key regulatory instruments table:
+
+RDC 752/2022 | Specific regulation for software as a medical device (SaMD) and digital health products — complements RDC 751/2022

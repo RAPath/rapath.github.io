@@ -7,9 +7,9 @@ keywords: [IDE pathway, investigational device exemption, IDE application, signi
 
 # IDE Clinical Investigation Pathway
 
-The **Investigational Device Exemption (IDE)** pathway enables the clinical investigation of medical devices that have not yet been cleared or approved by FDA. It is governed by **21 CFR Part 812** and FD&C Act § 520(g).
+The Investigational Device Exemption (IDE) pathway enables the clinical investigation of medical devices that have not yet been cleared or approved by FDA. It is governed by 21 CFR Part 812 and FD&C Act § 520(g).
 
-See [IDE — Investigational Device Exemption](/docs/pre-market/clinical-evidence/ide) for the full detailed overview of IDE requirements.
+For a comprehensive guide to IDE requirements and procedures, see the [detailed IDE overview](/docs/pre-market/clinical-evidence/ide).
 
 ---
 
@@ -43,7 +43,7 @@ See [IDE — Investigational Device Exemption](/docs/pre-market/clinical-evidenc
 ## IDE and the premarket pathway
 
 The IDE is the clinical data gateway for PMA submissions. For most Class III PMA devices:
-- Clinical data must come from an IDE-approved **pivotal study**
+- Clinical data must come from an IDE-approved pivotal study
 - The pivotal study must be designed with FDA input (via Q-submissions/Pre-Sub meetings)
 - The study must be conducted under GCP with IRB oversight
 
@@ -53,7 +53,7 @@ For 510(k) submissions, clinical data from an IDE study may support substantial 
 
 ## IDE supplements
 
-Once an IDE is approved, changes to the study — including protocol amendments, new sites, or device modifications — require **IDE supplements** submitted to FDA before implementation.
+Once an IDE is approved, changes to the study — including protocol amendments, new sites, or device modifications — require IDE supplements submitted to FDA before implementation.
 
 ---
 
@@ -61,3 +61,5 @@ Once an IDE is approved, changes to the study — including protocol amendments,
 - [21 CFR Part 812](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-H/part-812)
 - [FDA — IDE Overview](https://www.fda.gov/medical-devices/how-study-and-market-your-device/investigational-device-exemption-ide)
 - [FDA — IDE Early Collaboration Meetings Guidance](https://www.fda.gov/media/71577/download)
+
+For Non-Significant Risk (NSR) devices, the abbreviated IDE application is submitted directly to the IRB without FDA review. However, the device sponsor must still maintain records demonstrating NSR determination and must notify FDA if the IRB disagrees with the NSR classification.

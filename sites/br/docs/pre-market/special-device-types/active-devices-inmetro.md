@@ -22,3 +22,5 @@ INMETRO certification is required for electrical and electronic medical equipmen
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+Add: 'The current INMETRO compulsory certification portaria can be accessed through the INMETRO Avaliação da Conformidade portal. Update your regulatory strategy whenever INMETRO's scope of compulsory certification changes.'

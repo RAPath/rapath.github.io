@@ -7,20 +7,15 @@ keywords: [ANVISA, Brazil, medical device]
 
 # IVD Classification (RDC 36/2015)
 
-IVDs are classified under **RDC 36/2015** using a separate four-class risk-based system.
+IVDs are classified under RDC 36/2015 using a separate four-class risk-based system.
 
 ## IVD classification matrix
 
-| Class | Individual risk | Public health risk | Examples |
-|---|---|---|---|
-| Class I | Low | Low | General chemistry reagents, specimen containers |
-| Class II | Medium | Low–medium | Pregnancy tests, cholesterol tests, urinalysis strips |
-| Class III | Medium–high | Medium–high | HIV confirmatory tests, hepatitis B surface antigen |
-| Class IV | High | High | HIV screening, blood grouping reagents, NAT for blood screening |
+Class IV → High → High → HIV screening tests, blood grouping reagents, nucleic acid testing (NAT) for blood screening, and blood transfusion screening tests
 
 Classification factors: intended use, risk of false results, technological risk, and population screened.
 
-**Registration pathways:** Class I → Notificação | Class II → Cadastro | Class III/IV → Registro
+Registration pathways: Class I → Notificação | Class II → Cadastro | Class III/IV → Registro
 
 - [RDC 36/2015](https://www.gov.br/anvisa/pt-br/assuntos/produtossaude/produtos-para-saude)
 

@@ -44,7 +44,7 @@ All performance testing must generally be conducted in China-recognised testing 
 
 ## Biocompatibility
 
-Biological evaluation must follow **YY/T 0268** (equivalent to ISO 10993 series). CMDE has published specific guidance on which ISO 10993 endpoints are required for different device-contact scenarios.
+Biological evaluation must follow **YY/T 0268** (harmonised with ISO 10993 series). CMDE has published specific guidance on which ISO 10993 endpoints are required for different device-contact scenarios.
 
 :::note Disclaimer
 Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [NMPA](https://www.nmpa.gov.cn/) sources before making regulatory decisions. Not affiliated with NMPA or any Chinese Government body. Not legal or regulatory advice.

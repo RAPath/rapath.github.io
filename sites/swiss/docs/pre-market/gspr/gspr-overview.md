@@ -29,7 +29,7 @@ Manufacturers demonstrate compliance by: identifying all applicable GSPRs; mappi
 | §§ 1–9 Risk management | ISO 14971:2019 |
 | § 10 Chemical/biological | ISO 10993 series |
 | § 11 Infection | ISO 11135, EN ISO 11607 |
-| § 14 Ionising radiation | IEC 60601-1-3 |
+| § 14 Ionising radiation | IEC 60601-2-2 (or other relevant IEC 60601 part depending on device type) or equivalent standards for ionising radiation safety |
 | § 17 Software | IEC 62304, IEC 62366-1 |
 | §§ 23–24 Labelling | ISO 15223, EN ISO 7000 |
 
@@ -40,3 +40,5 @@ Manufacturers demonstrate compliance by: identifying all applicable GSPRs; mappi
 :::warning Disclaimer
 AI-assisted content for navigation only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
 :::
+
+MedDO Annex I (SR 812.213) is structured in three chapters with specific article ranges. Manufacturers should verify the exact article numbers in the official SR 812.213 regulation for precise compliance mapping.

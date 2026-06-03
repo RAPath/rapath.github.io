@@ -126,3 +126,21 @@ After an FSCA is implemented, the manufacturer must verify its effectiveness:
 | MDR Art. 95 | NCA power to order recalls |
 | MDCG 2022-14 | FSCA guidance |
 | EN ISO 14971:2019 | Risk management — used to assess FSCA need |
+
+Complete the final section:
+
+Scope of an FSCA — determining affected devices
+​
+Defining the scope correctly is critical:
+
+Too narrow: unaffected users remain at risk → ineffective FSCA; regulatory non-compliance
+Too broad: unnecessary disruption to clinical care; economic loss; loss of user confidence
+
+Scope definition requires:
+
+- Identification of the root cause — is this a batch-specific issue or a class-wide design problem?
+- Traceability data — UDI distribution records to identify which lots/serial numbers went to which customers
+- Risk stratification — which devices pose genuine risk and which are unaffected?
+- Market and patient population — does the risk apply to all geographies or only specific regions or patient populations?
+
+Once scope is defined, it must be clearly communicated in the FSN and justified in the NCA notification. Narrower scopes require stronger evidence that unaffected devices do not carry the risk.

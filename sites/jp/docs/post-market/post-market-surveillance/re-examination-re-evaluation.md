@@ -42,3 +42,7 @@ Re-evaluation (再評価) is separate from MAH-initiated re-examination. MHLW ca
 - International regulatory actions suggest risk signals not yet addressed in Japan
 
 All MAHs holding approvals for the re-evaluated device category are required to provide data to MHLW on request. The outcome of a re-evaluation can range from no change to conditions being added to approvals, reclassification, or withdrawal of approvals.
+
+Re-examination timeline and compliance
+
+The re-examination period is typically 4–8 years (specified at the time of approval). The re-examination application must be submitted before the end of this period. Failure to submit a timely re-examination application or to provide sufficient data to support re-examination may result in approval withdrawal. PMDA should be contacted at least 12 months before the application deadline to confirm final timing and data requirements.

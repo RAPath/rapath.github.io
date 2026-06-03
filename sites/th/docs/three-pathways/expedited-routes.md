@@ -18,14 +18,14 @@ Thai FDA provides a **Concise Evaluation (Reliance) Route** for devices that alr
 
 ## Reference NRA Approvals Accepted
 
-Thai FDA accepts approvals from the following reference regulatory authorities for the Concise route:
+Thai FDA accepts approvals from the following reference regulatory authorities for the Concise route. This list is periodically updated; confirm the current list with MDCD before planning your submission:
 
 | Authority | Jurisdiction |
 |----------|-------------|
 | FDA (CDRH/CBER) | United States (510(k)/PMA/De Novo) |
 | EU Notified Body | European Union (CE marking) |
 | TGA | Australia |
-| Health Canada | Canada |
+| Health Verify 'Health Canada' reference — the content should specify whether this refers to Canada's Medical Devices Directorate (MDD) or Biologic and Radiopharmaceutical Drugs Directorate (BRDD) approval, or if it is actually recognized by Thai FDA. If unsure, flag with MDCD. | Canada |
 | PMDA | Japan |
 | MHRA | United Kingdom |
 | HSA | Singapore |

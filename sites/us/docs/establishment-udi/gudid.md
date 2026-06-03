@@ -28,7 +28,7 @@ For each Primary DI, the submitter must provide:
 ## How to submit
 
 Submissions to GUDID can be made via:
-- **GUDID Web Interface** — manual entry; suitable for small device portfolios
+- **GUDID Web Interface** — manual entry through the FDA portal; or single submissions recommended manufacturers with or complex device standardized format and regulatory submissions suitable for small device portfolios
 - **GUDID Bulk Upload** — XML-based batch submission; for large portfolios
 - **HL7 SPL (Structured Product Labelling)** — for integration with enterprise systems
 
@@ -39,3 +39,7 @@ Submissions to GUDID can be made via:
 ## Official resources
 - [FDA — GUDID](https://www.fda.gov/medical-devices/unique-device-identification-system-udi-system/global-unique-device-identification-database-gudid)
 - [AccessGUDID](https://accessgudid.nlm.nih.gov)
+
+## What is GUDID?
+
+GUDID submissions must be completed before the device is commercially distributed or marketed in the United States. Failure to submit required information to GUDID before marketing can result in warning letters and enforcement action.

@@ -24,7 +24,7 @@ A De Novo request must include:
 
 ## Proposed special controls
 
-A key component of a De Novo request is the submitter's **proposed special controls** — specific requirements (e.g., performance standards, post-market surveillance, patient registries, labelling requirements) that, together with general controls, provide reasonable assurance of safety and effectiveness.
+A key component of a De Novo request is the submitter's **proposed special controls** — specific requirements (such as and performance standards, post-market surveillance, patient registries, labelling requirements) that, together with general controls, provide reasonable assurance of safety and effectiveness.
 
 FDA may accept, modify, or reject the proposed special controls. The final special controls become part of the De Novo order and apply to all future devices of that type.
 
@@ -45,3 +45,17 @@ FDA may accept, modify, or reject the proposed special controls. The final speci
 ## Official resources
 - [FDA — De Novo Classification Request Guidance (2021)](https://www.fda.gov/media/116574/download)
 - [De Novo Database](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm)
+
+
+De Novo Classification Decision
+
+Upon review, FDA will:
+
+• Grant the De Novo request — the device receives authorization to market and is classified as Class I or II with associated special controls
+• Decline the De Novo request — FDA determines the device does not meet criteria for De Novo classification (typically because it is deemed Class III and requires PMA)
+
+If declined, the applicant may:
+
+• Resubmit as a PMA if the device is determined to be Class III
+• Request a meeting to discuss alternative pathways
+• Appeal FDA's classification decision through the Device Classification Appeal Process

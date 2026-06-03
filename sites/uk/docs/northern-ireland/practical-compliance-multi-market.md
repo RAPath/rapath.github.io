@@ -70,3 +70,4 @@ If using a UKAB for third-party assessment and needing NI access:
 | MHRA: Regulating medical devices in the UK | Multi-market compliance guidance |
 | MHRA: Great Britain and Northern Ireland | GB vs NI regulatory position |
 
+Register with MHRA (GB registration via MHRA Submissions portal) and EUDAMED (EU/NI registration)

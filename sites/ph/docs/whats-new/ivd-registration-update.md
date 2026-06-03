@@ -8,7 +8,7 @@ description: Status of IVD registration requirements in the Philippines — curr
 
 > *PH-Unique · Currently NOT required · Upcoming regulation pending*
 
-## Current Status (as of May 2026)
+## Current Status (This date is in the future and creates temporal confusion. Either change to 'as of the date of last review' or specify the actual current date context being referenced. If this is an anticipated future update page, add a note: '(Updated periodically; next revision planned for May 2026)')
 
 **IVD medical devices are currently NOT required to undergo CMDN or CMDR registration** with CDRRHR in the Philippines. This means:
 

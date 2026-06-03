@@ -65,3 +65,7 @@ A device without a valid NIE that is found in the market — by Kemenkes market 
 :::warning IDAK suspension freezes your NIE
 The NIE is legally tied to the IDAK licence of the holding entity. If the IDAK holder's IDAK licence is suspended (e.g. due to a failed CDAKB audit), the NIE is **automatically frozen** — you cannot import or sell new stock until the IDAK is restored. Monitor your LAR's licence status regularly.
 :::
+
+NIE Renewal
+
+Before the NIE expires, the LAR must submit a renewal application via Regalkes. Renewal typically requires submission of an updated dossier demonstrating continued compliance with the original registration requirements (updated safety/performance data, confirmation of no major changes, current regulatory approvals, etc.). The renewal process is generally faster than initial registration (typically 2–4 months for Class B) but still requires Kemenkes review. Plan the renewal application to be submitted 3–6 months before expiry to avoid market access gaps.

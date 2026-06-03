@@ -47,3 +47,5 @@ The current recognised standards list is published by MHLW and updated periodica
 :::
 
 Always check the current list before selecting a standard for a Ninsho application — standards are added and updated regularly.
+
+"Transition periods: When MHLW designates a new edition of a standard, a transition period is typically provided allowing manufacturers to use either the old or new edition. The notification specifies the exact transition dates. Applications submitted during the transition period must clearly identify which edition of the standard was used in the certification package."

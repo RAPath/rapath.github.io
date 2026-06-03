@@ -10,7 +10,7 @@ keywords: [ANVISA, Brazil, medical device]
 See also [Borderline & Combination Products](/docs/start-here/borderline-products) for the *consulta de enquadramento* process.
 
 The presence of a pharmacological component typically elevates the device class:
-- Device with medicinal substance as **principal action** → drug pathway
+- Device with medicinal substance as **principal action** → drug typically regulated as a (may be co-regulated by ANVISA's GGMED depending on the combination's characteristics)
 - Device with medicinal substance as **ancillary** → medical device (typically Class IV)
 - Drug-eluting stents, antibiotic-coated catheters → generally Class IV
 

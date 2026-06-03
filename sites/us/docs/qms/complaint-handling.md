@@ -77,3 +77,13 @@ QMSR requires that complaint data be used as a **data source for CAPA** (§ 820.
 ## Official resources
 - [21 CFR § 820.198 (eCFR)](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-H/part-820)
 - [21 CFR Part 803 — MDR](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-H/part-803)
+
+Complaint Timeframe Requirements
+
+While 21 CFR § 820.198 does not specify fixed deadlines for complaint investigation completion, FDA expects:
+
+Rapid evaluation of MDR reportability — within a reasonable timeframe (typically 2–5 business days) to enable timely MDR submission if required
+
+Complaint investigation — should be conducted expeditiously; unreasonable delays may be cited as QMSR deficiencies
+
+MDR-reportable complaints — must be submitted within 30 days of discovery (or 5 days if death or serious injury and urgent public health notification is needed), which drives faster evaluation timelines

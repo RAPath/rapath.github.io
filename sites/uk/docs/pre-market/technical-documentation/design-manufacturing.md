@@ -37,7 +37,7 @@ Design Transfer               Design Review
 Design Changes (controlled throughout lifecycle)
 ```
 
-All stages must be documented and retained as part of the design history file (DHF), which forms the core of the technical documentation.
+All stages must be documented and retained as part of the design history file (DHF), which forms the core of the technical design dossier and the file that will be submitted to the UKAB for higher-risk devices or retained by the manufacturer for lower-risk devices.
 
 ---
 
@@ -182,3 +182,5 @@ Any changes to the device design — materials, components, manufacturing proces
 | IEC 62304:2006+AMD1:2015 | Software lifecycle processes |
 | EU MDR 2017/745, Annex II | EU technical documentation requirements (detailed reference) |
 | MHRA: Guidance on the UK MDR 2002 | General technical file guidance |
+
+Critical process parameters — defined limits for temperature, pressure, time, humidity, or other parameters critical to device performance; with documented rationale for each limit. Process validation studies — results of validation runs demonstrating that the process consistently produces conforming devices; for sterilization and other critical processes, validation per ISO 11135 (sterilization) or equivalent standard. Supplier control procedures — documentation of supplier qualification, material inspection, and incoming quality checks. Manufacturing equipment — list of critical equipment with maintenance and calibration records. Environmental controls — specifications for cleanroom classification, temperature, humidity, particulate control (if applicable). Documentation control — procedures for updating manufacturing instructions and maintaining version control. Change control procedures — process for evaluating, approving, and documenting any changes to the manufacturing process. Quality assurance and testing procedures — in-process and finished-device testing; acceptance criteria; testing frequency. Traceability — procedures for lot number assignment, batch tracking, and record retention.

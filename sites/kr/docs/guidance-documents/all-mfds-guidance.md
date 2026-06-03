@@ -23,3 +23,5 @@ MFDS publishes **official guidance documents (가이드라인)** and **notificat
 ## Language
 
 Most MFDS guidance is in **Korean only**. Selected key documents have unofficial English translations. IMDRF-aligned documents sometimes have English source documents available from [imdrf.org](https://www.imdrf.org).
+
+## Major topic areas

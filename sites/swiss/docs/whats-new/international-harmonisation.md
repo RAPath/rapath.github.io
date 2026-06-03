@@ -11,7 +11,7 @@ Swiss medical device regulation does not exist in isolation — changes to inter
 ## Key International Frameworks to Monitor
 
 ### EU MDR/IVDR (Most Directly Relevant)
-As MedDO mirrors EU MDR and IVDO mirrors IVDR, all significant EU MDR/IVDR developments are relevant to Switzerland:
+As MedDO mirrors EU MDR 2017/745 and IVDO mirrors IVDR 2017/746 in structure and substance, all significant EU MDR/IVDR developments — including delegated regulations, implementing regulations, and MDCG guidance — are relevant to Switzerland and may eventually inform Swiss regulatory changes or immediate applicability through MDCG alignment:
 - **Delegated Regulations** (via EU Official Journal) — add or modify device-specific requirements
 - **Implementing Regulations** — operational rules (e.g. EUDAMED, UDI timelines, eIFU conditions)
 - **MDCG new guidance** — new MDCG documents applicable in Switzerland

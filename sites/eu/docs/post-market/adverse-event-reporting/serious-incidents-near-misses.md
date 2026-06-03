@@ -38,7 +38,7 @@ When a device-related event occurs, the manufacturer must work through a structu
 | Serious deterioration of health | Temporary or permanent; includes life-threatening illness, permanent impairment, foetal distress |
 | Serious public health threat | As defined by MDR Art. 2(65)(c) |
 
-Both elements must be present. A device malfunction that poses no plausible pathway to serious harm is not a serious incident.
+Both elements must be present for an incident to qualify as serious. A device malfunction or inadequacy that poses no plausible pathway to serious harm is not a serious incident and does not require vigilance reporting (though it should still be documented in the PMS system and complaints database).
 
 ---
 
@@ -123,3 +123,5 @@ When a potentially reportable event is identified, the manufacturer must:
 | MDR Art. 87(1) | Reporting obligation |
 | MDCG 2023-3 | Serious incident reporting guidance |
 | MDCG 2019-14 | Vigilance reporting worked examples |
+
+MDR Art. 2(65) explicitly includes use errors due to ergonomic features within the definition of serious incident. This is a significant expansion beyond traditional adverse event reporting — it places responsibility on manufacturers to evaluate whether design or ergonomic features of the device could lead users to make mistakes that result in serious harm. Examples include confusing button layouts, unclear labelling, or inadequate visual/audio feedback that causes a user to operate the device incorrectly.

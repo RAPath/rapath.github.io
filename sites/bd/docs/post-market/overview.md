@@ -52,4 +52,4 @@ The DGDA has authority to inspect establishments and request records. The AR mus
 - Provide access to distribution records, complaint files, and registration documentation
 - Respond to DGDA queries promptly
 
-Failure to cooperate with DGDA inspections is a serious regulatory violation subject to enforcement under the Drug and Cosmetics Act 2023, including potential Drug Court proceedings.
+Failure to cooperate with DGDA inspections is a serious regulatory violation subject to enforcement under the Drug and Cosmetics Act 2023, including potential Drug Court proceedings and penalties including fines, imprisonment, and cancellation of registration and import licences.

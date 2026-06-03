@@ -24,11 +24,11 @@ sidebar_position: 6
 ## MHLW notification updates — recent key publications
 
 MHLW issues new and updated notifications regularly. Recent areas of activity include:
-- **AI/ML medical devices** — classification and post-market change management guidance (2021 onwards)
-- **Cybersecurity** — guidance for networked and software-enabled devices (PMDA notices, 2021 onwards)
-- **UDI implementation** — phased implementation schedule by device class
-- **eIFU** — ongoing policy development (no general permission issued as of knowledge date)
-- **IMDRF guidance adoption** — Japan continues to adopt and adapt IMDRF guidance documents on an ongoing basis
+- AI/ML medical devices — classification and post-market change management guidance (2021 onwards)
+- Cybersecurity — guidance for networked and software-enabled devices (PMDA notices, 2021 onwards)
+- UDI implementation — phased implementation schedule by device class
+- eIFU — ongoing policy development; limited eIFU use is permitted for certain device categories with MHLW approval, but a comprehensive general eIFU framework has not been finalised as of the current date
+- IMDRF guidance adoption — Japan continues to adopt and adapt IMDRF guidance documents on an ongoing basis
 
 ## Upcoming changes
 

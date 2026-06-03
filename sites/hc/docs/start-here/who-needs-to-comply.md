@@ -53,7 +53,7 @@ A **distributor** is a person who distributes a medical device at the wholesale 
 - Maintain **distribution records** for traceability
 
 ### Retailers
-Retailers who sell medical devices directly to end users (e.g. pharmacies, medical supply stores) are **not** required to hold an MDEL, provided they only sell to end users. However, if a retailer also distributes at the wholesale level, MDEL obligations apply.
+Retailers who sell medical devices directly to end users (e.g. pharmacies, medical supply stores) are **not** required to hold an MDEL, provided they do not engage in wholesale distribution and maintain appropriate complaint handling and record retention procedures. However, if a retailer also distributes at the wholesale level, MDEL obligations apply.
 
 ## Healthcare institutions
 
@@ -76,3 +76,8 @@ Regulatory affairs consultants and professionals who act on behalf of regulated 
 | Wholesale distributor (any class) | No | Yes |
 | Retailer (direct to end user only) | No | No |
 | Healthcare institution (user) | No | No |
+
+## Foreign manufacturers
+
+Class I manufacturers with additional activities
+A Class I manufacturer that also imports or distributes devices must hold an MDEL covering all applicable activities (manufacture, importing, distributing). The MDEL requirements apply in addition to quality management obligations.

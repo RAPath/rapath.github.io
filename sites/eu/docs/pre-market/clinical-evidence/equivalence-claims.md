@@ -142,3 +142,5 @@ The CER must include:
 | MDR Annex XIV §3 | Equivalence criteria |
 | MDCG 2020-5 | Clinical evaluation guidance including equivalence |
 | MDCG 2021-6 | Sufficient clinical evidence for legacy devices |
+
+The section should be completed with: 'For Class III devices and implantable Class IIb devices, the use of equivalence is heavily restricted. MDR Art. 61(4) mandates that a clinical investigation must be performed unless the device is a modification of an already-marketed device and the notified body agrees that sufficient clinical evidence exists. Even where equivalence is claimed, the reliance on literature alone is insufficient for these higher-risk devices — post-market clinical follow-up (PMCF) must be planned and justified.'

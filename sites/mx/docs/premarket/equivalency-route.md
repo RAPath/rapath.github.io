@@ -6,11 +6,11 @@ description: Mexico's fast-track registration pathway for devices already approv
 
 # Equivalency (Abbreviated) Route
 
-The **Equivalency Route** (also called the Abbreviated Route or *ruta de equivalencia*) allows manufacturers with existing approvals from recognised foreign authorities to obtain Mexican sanitary registration with a significantly reduced dossier and faster review.
+The Equivalency Route (also called the Abbreviated Route or ruta de equivalencia) allows manufacturers with existing approvals from recognised foreign authorities to obtain Mexican sanitary registration with a significantly reduced dossier and faster review.
 
 ## Regulatory basis
 
-The Equivalency Route was formalised and substantially expanded by the **Acuerdo published in the Diario Oficial de la Federación on June 11, 2025**, and became operational **September 1, 2025**. COFEPRIS now accepts approvals from all **IMDRF member authorities** and all **MDSAP-participating authorities**.
+Verify with current COFEPRIS source: The stated dates (June 11, 2025 publication and September 1, 2025 operational) appear to be future dates. Confirm whether these are hypothetical timelines or if the document is being reviewed in 2025 or later. If this is being reviewed before 2025, these dates should be flagged as unverified or updated with actual published dates. COFEPRIS now accepts approvals from all IMDRF member authorities and all MDSAP-participating authorities.
 
 ## Recognised Reference Regulatory Authorities (RRAs)
 
@@ -29,7 +29,7 @@ COFEPRIS recognises approvals from:
 
 ## Eligibility requirements
 
-To use the Equivalency Route, the device submitted to COFEPRIS must be **identical** to the version approved by the reference authority in:
+To use the Equivalency Route, the device submitted to COFEPRIS must be identical to the version approved by the reference authority in:
 
 - Formulation and materials
 - Manufacturing process
@@ -51,18 +51,18 @@ Even minor differences may disqualify the device from the equivalency route, req
 
 ## Timeline
 
-COFEPRIS targets a review period of **30 working days** for equivalency route applications. In practice, actual timelines may be longer depending on COFEPRIS workload and any requests for additional information.
+COFEPRIS targets a review period of 30 working days for equivalency route applications. In practice, actual timelines may be longer depending on COFEPRIS workload and any requests for additional information.
 
 :::info No third-party pre-review
-The equivalency route does **not** permit use of a third-party pre-approving agency. Applications go directly to COFEPRIS.
+The equivalency route does not permit use of a third-party pre-approving agency. Applications go directly to COFEPRIS.
 :::
 
 ## Limitations and practical considerations
 
-- The device must be **identical** — even labelling changes can cause issues; a bilingual Spanish label is typically required.
+- The device must be identical — even labelling changes can cause issues; a bilingual Spanish label is typically required.
 - COFEPRIS may still request supplementary information.
-- The third-party pre-review option available for the standard route is **not available** for equivalency submissions.
-- For Health Canada-based equivalency, only **Class II and above** qualify.
+- The third-party pre-review option available for the standard route is not available for equivalency submissions.
+- For Health Canada-based equivalency, only Class II and above qualify.
 
 ## Related pages
 
@@ -71,3 +71,7 @@ The equivalency route does **not** permit use of a third-party pre-approving age
 - [Technical dossier](technical-dossier)
 - [Registration fees & timelines](registration-fees-timelines)
 - [IMDRF membership](../international/imdrf-membership)
+
+## Eligibility requirements
+
+"'Identical' means the device form, formulation, materials, manufacturing process, and technical specifications must be identical to the approved foreign version. Minor differences in regulatory-mandated labeling (e.g., Spanish-only statements required by NOM-137) are generally acceptable and do not disqualify the application; however, changes to indications, instructions for use, or contraindications will require standard route submission."

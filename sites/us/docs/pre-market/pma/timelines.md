@@ -43,3 +43,20 @@ Failure to comply with conditions of approval may result in withdrawal of approv
 ## Official resources
 - [FDA PMA Database](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm)
 - [21 CFR Part 814](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-H/part-814)
+
+
+Filing Review (Refuse to File Review)
+
+Within 45 days of submission, FDA conducts a filing review to determine if the PMA is sufficiently complete to permit a substantive review. FDA may:
+
+• Accept the application and begin substantive review
+• Issue a Refuse to File (RTF) letter if the PMA lacks essential information or does not comply with regulatory requirements
+
+Common reasons for RTF include:
+
+• Missing required sections (e.g., clinical data, manufacturing information)
+• Inadequate clinical study design or data
+• Incomplete financial disclosures
+• Missing or non-compliant environmental assessment
+
+If RTF is issued, the applicant may resubmit after addressing deficiencies.

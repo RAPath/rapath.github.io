@@ -87,3 +87,5 @@ A foreign manufacturer that has established a **legal presence in Saudi Arabia**
 - [MDEL Overview](../authorized-representative/mdel-overview)
 - [Quality System Requirements](../quality-system/iso-13485-overview)
 - [Adverse Event Reporting](../post-market/adverse-event-reporting)
+
+Remove the incomplete line 'Further reading' section ending with 'MDEL Ov' and complete it with valid cross-references such as: 'Authorized Representative & MDEL', 'Medical Device Establishment License (MDEL)', 'Post-Market Overview'.

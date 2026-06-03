@@ -8,7 +8,7 @@ tags: [international]
 
 # China vs TGA (Australia)
 
-*This page provides a plain English comparison of china vs tga (australia) from the perspective of China's NMPA regulatory framework. Full content to be completed during editorial review.*
+*This page compares China's NMPA device regulation framework with TGA's requirements. Detailed comparison tables are being developed.*
 
 ---
 

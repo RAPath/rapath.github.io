@@ -44,3 +44,11 @@ Japan is developing its UDI system aligned with the IMDRF UDI guidance. MHLW has
 ## Languages
 
 All mandatory label elements must appear in Japanese. Additional languages (English, Chinese, etc.) may also appear on the label. Where the Japanese and any other language text differ, the Japanese text is the operative version.
+
+Label format and placement
+
+Mandatory label elements may appear on the device itself, on packaging, or on both, depending on device type and practicality. For very small devices where label placement is not feasible, the label may appear only on packaging or in accompanying documentation. PMDA guidance should be consulted for specific device types to confirm acceptable label placement alternatives.
+
+Instructions for Use (IFU) requirements
+
+In addition to device labelling, medical devices must be accompanied by Instructions for Use (IFU) in Japanese. The IFU must include: intended use, directions for proper use, contraindications, warnings and precautions, maintenance/storage instructions, and troubleshooting guidance (where applicable). The IFU may be provided in printed or electronic format, subject to PMDA approval of the electronic distribution method.

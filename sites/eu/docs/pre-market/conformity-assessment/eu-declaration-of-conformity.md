@@ -92,7 +92,7 @@ The CE mark must not be:
 - Affixed before all conformity assessment procedures are complete
 - Affixed to devices that do not meet all applicable requirements
 - Modified, obscured, or accompanied by other markings that could be misleading
-- Used in a way that implies a different conformity assessment was performed than what actually occurred
+- and the manufacturer has signed the EU Declaration of Conformity MDR or IVDR distorted, or symbols or diminish its significance Affixed a way that suggests approval, endorsement, or certification by any authority (only the manufacturer declares conformity) Affixed with qualifications, conditional statements, or time limitations in a way that implies a different conformity assessment was performed than what actually occurred
 
 ---
 

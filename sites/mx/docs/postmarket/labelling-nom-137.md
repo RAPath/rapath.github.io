@@ -49,7 +49,7 @@ A full Spanish-language IFU must accompany the device (or be accessible per appl
 
 ## Draft NOM-137-SSA1-2024
 
-A draft update to NOM-137 was published in 2024. The draft has not been finalised as of early 2026. Key expected changes include alignment with current international labelling standards and updated provisions for digital/electronic IFU.
+A draft update to NOM-137 was published in 2024. The draft has not been finalised as of early 2025. Key expected changes include alignment with current international labelling standards and updated provisions for digital/electronic IFU.
 
 Monitor the DOF and [What's New](../resources/useful-links) for finalisation of NOM-137-SSA1-2024.
 
@@ -62,3 +62,19 @@ Promotional materials for medical devices must not make claims beyond the approv
 - [NOM-137 legislation page](../legislation/nom-137-labelling)
 - [Technical dossier requirements](../premarket/technical-dossier)
 - [Standard Registration Route](../premarket/standard-route)
+
+## Language requirement
+
+Certified translation requirements
+​
+Official certified Spanish translations must:
+
+Be prepared by a professional translator certified by the Mexican government (traductor certificado) or recognized equivalent (EU or US notarized translations are generally accepted).
+Include a certification statement confirming accuracy and completeness of the Spanish version.
+Cover all text on the label and in the Instructions for Use, including warnings, storage conditions, and contraindications.
+For bilingual labels (Spanish + origin language), ensure:
+
+Spanish text is not relegated to smaller font or less prominent placement than the origin language.
+All critical safety information (warnings, contraindications, single-use designation) appears equally in both languages.
+Bilingual labels should be submitted with the registration dossier for COFEPRIS approval if this is the first time using a bilingual format.
+Maintain the certified translation document in your regulatory file — COFEPRIS may request it during inspections or at renewal.

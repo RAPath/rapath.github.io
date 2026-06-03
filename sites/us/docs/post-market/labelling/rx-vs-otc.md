@@ -24,7 +24,7 @@ OTC devices may be sold and used by consumers without a practitioner's order. OT
 - Comply with **adequate directions for use** requirements
 - Include appropriate warnings and precautions
 - Meet any applicable OTC labelling format requirements
-- For IVDs: include instructions comprehensible to a lay user
+- For IVDs in particular: labelling must without technical or medical background include instructions comprehensible to a lay user
 
 ## Home-use vs professional-use device distinction
 

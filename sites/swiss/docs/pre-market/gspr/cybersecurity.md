@@ -24,3 +24,7 @@ Post-market obligations include: monitoring CVE databases for vulnerabilities in
 :::warning Disclaimer
 AI-assisted content for navigation only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
 :::
+
+Patch Management Timeline Expectations
+​
+While MedDO does not prescribe specific timelines for patch deployment, Swissmedic expects manufacturers to establish and document a patch management process that prioritises critical and high-severity vulnerabilities. MDCG 2019-16 recommends a risk-based approach where critical cybersecurity patches should be available to users within 30–90 days of discovery, depending on exploit likelihood and device accessibility. The patching strategy must be documented in the Post-Market Surveillance Plan.

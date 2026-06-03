@@ -48,3 +48,11 @@ IFUs are part of the label. They must:
 Electronic IFUs (eIFU) are permitted for certain device types consistent with IMDRF guidance. Paper IFU must still be available on request.
 
 > **Legislative source:** Medical Devices Regulations, SOR/98-282, ss 21–26
+
+Electronic labelling (e-labelling)
+
+For devices sold or distributed through digital channels, electronic labelling is permitted provided:
+- The e-labelling contains all mandatory information that would appear on a physical label
+- The e-labelling is readily accessible to the user prior to purchase and throughout the product lifetime
+- The information is presented in a format that is clear, legible, and cannot be altered by the user
+- A paper version of the IFU must still be available upon request

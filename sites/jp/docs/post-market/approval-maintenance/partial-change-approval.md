@@ -45,3 +45,13 @@ An Ichibu Henko application is submitted to PMDA and follows a similar process t
 - Updated Essential Principles checklist if affected
 
 PMDA reviews the application and MHLW issues the amended approval. Timelines are typically shorter than a full Shonin review but depend on the nature and complexity of the change.
+
+Changes to post-market surveillance and safety monitoring:
+
+Significant changes to the MAH's GPSP (Good Post-market Surveillance Practice) programme, safety monitoring protocols, or post-market data collection requirements may require Ichibu Henko depending on the nature of the change:
+
+- Changes to the GPSP plan that affect device safety assessment: typically require Ichibu Henko
+- Changes to complaint-handling or adverse event investigation procedures: generally do not require Ichibu Henko if they strengthen compliance
+- Addition of new post-market surveillance studies or safety monitoring requirements: consult PMDA for classification
+
+When in doubt, submit a pre-application question to PMDA before implementing changes to approved post-market safety programmes.

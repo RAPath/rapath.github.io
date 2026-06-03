@@ -30,3 +30,5 @@ Swissmedic participates in European market surveillance coordination through bil
 :::warning Disclaimer
 AI-assisted navigation aid only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
 :::
+
+FSCA (Field Safety Corrective Action) is a manufacturer-initiated action to address or mitigate a known or suspected device defect or non-compliance.

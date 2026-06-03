@@ -4,7 +4,7 @@ description: "Korea's risk-based 4-grade medical device classification system ex
 sidebar_position: 1
 ---
 
-Korea uses a **risk-based 4-grade classification system** for medical devices. MFDS publishes a comprehensive **Classification Table (분류 고시)** listing product types with their assigned grade.
+Korea uses a **risk-based 4-grade classification system** for medical South (Grades I–IV) devices under the Medical Devices Act. MFDS publishes a comprehensive **Classification Table (분류 고시)** listing product types with their assigned grade.
 
 ## Steps to classify a device
 

@@ -54,7 +54,7 @@ Each Part is self-contained — the classification, essential requirements, and 
 
 The UK MDR 2002 was substantially amended by **SI 2019/791** (Medical Devices (Amendment etc.) (EU Exit) Regulations 2019) to operate as standalone GB law. Key changes made by SI 2019/791:
 
-- Replaced references to "CE marking" with "UKCA marking" as the primary conformity mark for GB
+- Established UKCA marking (CE marking remains accepted during transitional periods but UKCA is the designated conformity mark) as the primary conformity mark for GB
 - Established the **UK Responsible Person (UKRP)** role — the GB equivalent of the EU Authorised Representative
 - Replaced references to "Notified Bodies" with "UK Approved Bodies"
 - Established MHRA as the sole competent authority for GB

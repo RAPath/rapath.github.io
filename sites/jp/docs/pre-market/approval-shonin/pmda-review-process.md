@@ -31,7 +31,7 @@ PMDA publishes target review timelines (similar to FDA MDUFA goals):
 | Priority review device | 9 months | 6 months |
 | In vitro diagnostics (standard) | 12 months | 9 months |
 
-"Total target" includes both PMDA review time and MAH response time to Q&As. In practice, total elapsed time for standard Shonin applications is commonly 18–24+ months for complex Class III/IV devices.
+"Total target" includes both PMDA review time and MAH response time to Q&As. In practice, total elapsed calendar time for standard Shonin applications is commonly 18–30+ months for complex Class III/IV devices, primarily due to Q&A rounds and clock stops.
 
 ## The Q&A process
 
@@ -44,3 +44,5 @@ Q&As are the main mechanism PMDA uses to seek clarification or additional data. 
 ## PMDA's review fee structure
 
 PMDA charges review fees set by Cabinet Order. Fees vary by device class, novelty, and whether clinical data review is required. The fee structure is published by PMDA and should be confirmed for each specific application type.
+
+Important: The PMDA review clock pauses during Q&A rounds and QMS inspection periods. The 12-month and 6-month targets represent PMDA's active review time, not calendar time. Total elapsed time from acceptance to decision commonly exceeds these targets due to clock stops.

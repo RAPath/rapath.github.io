@@ -49,3 +49,7 @@ description: Key official links for Russia medical device regulation — Roszdra
 :::info Disclaimer
 Link accuracy is maintained on a best-effort basis. Official Russian government websites occasionally change structure. If a link is broken, search for the authority name directly.
 :::
+
+Add clarification note after the FGBU entry:
+
+Note: The FGBU National Institute of Quality operates under Rosminzdrav. Specific FGBU contact details and submission procedures are typically communicated by Roszdravnadzor during the registration process.

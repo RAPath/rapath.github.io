@@ -73,7 +73,7 @@ An IMDRF programme allowing a single audit of a manufacturer's QMS to satisfy th
 Malaysia's mechanism for reporting adverse events and device problems to MDA, under Act 737.
 
 **MyMDA**  
-The MDA's online portal for regulatory submissions, including establishment licensing, device registration, and post-market reporting.
+The MDA's online portal for regulatory submissions, including establishment licensing, device registration, and post-market reporting (adverse events, field safety actions), variations, renewal applications. Accessible at mymda.mda.gov.my.arket reporting.
 
 **PMCF (Post-Market Clinical Follow-Up)**  
 A continuing process for systematically collecting clinical data on a registered device to confirm its ongoing safety and performance. Required for Class C and D devices.

@@ -43,7 +43,7 @@ Physical printed labels in Bahasa Indonesia are **still mandatory** for:
 For professional-use devices where e-labeling is appropriate:
 
 1. Place a durable QR code on device/packaging linking to the hosted BI IFU
-2. Include on the physical label: device name, NIE, manufacturer, LAR, lot/expiry, storage, warnings, and the QR code
+2. Include on the physical label in Bahasa Indonesia: device name, NIE, manufacturer, LAR contact details, lot/batch number, expiry date, storage conditions, key safety warnings, contraindications (if applicable), and a clear QR code linking to the full electronic IFU
 3. Ensure the hosted IFU is maintained and accessible throughout the device's Indonesian market life
 4. Include a brief statement directing users to access the full IFU electronically
 5. Submit the e-labeling approach (including the QR code target URL and the physical label design) as part of the Regalkes dossier
@@ -53,3 +53,5 @@ For professional-use devices where e-labeling is appropriate:
 ## Ongoing URL Maintenance
 
 The electronic IFU URL must remain active for the entire period the device is on the Indonesian market. If the URL changes, a change notification via Regalkes is required. URL expiry or inaccessibility constitutes a labeling non-compliance.
+
+Quality Assurance for e-Labeling: Before submission, verify that the QR code links correctly, the hosted IFU loads completely and displays properly on multiple devices (mobile, tablet, desktop), the PDF or web version is readable and printable if needed, and Bahasa Indonesia content is complete and accurate. Kemenkes may test the QR code and URL accessibility during the review phase or during market sampling post-approval.

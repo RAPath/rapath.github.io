@@ -9,7 +9,7 @@ tags: [mdr, ivdr, classification, reclassification]
 # Reclassification & SCENIHR opinions
 
 :::note Regulatory basis
-**MDR Art. 51(2)** and **IVDR Art. 47(2)** empower the European Commission to reclassify devices or device categories by implementing act. Scientific opinions informing reclassification were historically provided by **SCENIHR** (now replaced by **SAG-MD** and the **MDCG**).
+MDR Art. 51(2) and IVDR Art. 47(2) empower the European Commission to reclassify devices or device categories by implementing act. Scientific opinions informing reclassification were historically provided by SCENIHR (now replaced by SAG-MD and the MDCG).
 :::
 
 :::warning Disclaimer
@@ -22,7 +22,7 @@ This site provides general information only and does not constitute legal or reg
 
 Reclassification is the process by which the European Commission, following consultation with the MDCG, changes the classification of an individual device or a category of devices — typically from a lower to a higher class — in response to new clinical or safety evidence.
 
-Reclassification does **not** require changes to the MDR or IVDR themselves; it is effected through **implementing acts** published in the Official Journal of the EU.
+Reclassification does not require changes to the MDR or IVDR themselves; it is effected through implementing acts published in the Official Journal of the EU.
 
 ---
 
@@ -32,8 +32,8 @@ Reclassification does **not** require changes to the MDR or IVDR themselves; it 
 
 The Commission may, at the request of a member state or on its own initiative, adopt implementing acts to:
 
-- **Reclassify** a specific device or category of devices
-- Determine that a device should be subject to **a particular conformity assessment procedure** other than what the standard rules would produce
+- Reclassify a specific device or category of devices
+- Determine that a device should be subject to a particular conformity assessment procedure other than what the standard rules would produce
 
 The MDCG must be consulted before any implementing act is adopted.
 
@@ -47,20 +47,17 @@ The equivalent provision for IVDs. The Commission may similarly reclassify an IV
 
 Reclassification can be initiated:
 
-1. **By a member state** — if a national competent authority identifies a device or category posing greater risk than its current classification suggests
-2. **By the European Commission** — on its own initiative, based on vigilance data, scientific opinions, or emerging safety signals
-3. **Via the MDCG** — through its borderline and classification working group, which may recommend reclassification
+1. By a member state — if a national competent authority identifies a device or category posing greater risk than its current classification suggests
+2. By the European Commission — on its own initiative, based on vigilance data, scientific opinions, or emerging safety signals
+3. Via the MDCG — through its borderline and classification working group, which may recommend reclassification
 
 ---
 
 ## Historical context — SCENIHR
 
-The **Scientific Committee on Emerging and Newly Identified Health Risks (SCENIHR)** was the European Commission's independent scientific advisory body that historically provided opinions on medical device safety. SCENIHR issued opinions on specific device types that informed regulatory action, including classification changes.
+The Scientific Committee on Emerging and Newly Identified Health Risks (SCENIHR) was the European Commission's independent scientific advisory body that historically provided opinions on medical device safety. SCENIHR issued opinions on specific device types that informed regulatory action, including classification changes.
 
-SCENIHR was dissolved in 2016 and its functions distributed to:
-- **SCHEER** (Scientific Committee on Health, Environmental and Emerging Risks) — for general health and environmental risks
-- **MDCG** sub-groups — for medical device-specific classification and borderline questions
-- **Expert panels** — for clinical evaluation consultation under MDR Art. 54 and Art. 61
+SCENIHR was dissolved in 2016. Its functions for medical device-specific matters were distributed to the MDCG and its sub-groups, while broader health and environmental risk assessment functions were transferred to SCHEER (Scientific Committee on Health, Environmental and Emerging Risks).
 
 ### Notable historical SCENIHR opinions influencing MDR classification
 
@@ -75,7 +72,7 @@ SCENIHR was dissolved in 2016 and its functions distributed to:
 
 ## MDR Annex XVI — a form of reclassification
 
-The inclusion of **non-medical-purpose devices in Annex XVI** represents a deliberate expansion of MDR scope that functions similarly to reclassification — bringing previously unregulated aesthetic and cosmetic device categories into the medical device framework. Current Annex XVI categories include:
+The inclusion of non-medical-purpose devices in Annex XVI represents a deliberate expansion of MDR scope that functions similarly to reclassification — bringing previously unregulated aesthetic and cosmetic device categories into the medical device framework. Current Annex XVI categories include:
 
 1. Non-corrective contact lenses
 2. Dermal and subcutaneous fillers
@@ -92,9 +89,9 @@ Common Specifications (CS) must be published by the Commission before each Annex
 
 When a device or category is reclassified:
 
-- **Existing certificates** may remain valid for a transitional period specified in the implementing act
-- Manufacturers must **initiate conformity assessment** under the new, higher classification without undue delay
-- **Technical documentation** must be updated to reflect the new class requirements
+- Existing certificates may remain valid for a transitional period specified in the implementing act
+- Manufacturers must initiate conformity assessment under the new, higher classification without undue delay
+- Technical documentation must be updated to reflect the new class requirements
 - If the reclassification requires notified body involvement for the first time, manufacturers must engage a notified body and complete assessment before the transitional period expires
 
 ---
@@ -103,10 +100,10 @@ When a device or category is reclassified:
 
 Manufacturers should monitor:
 
-- **Official Journal of the EU** (OJ L series) — implementing acts are published here
-- **MDCG meeting minutes and published guidance** — borderline and classification group outputs
-- **EUDAMED** — registry of certificates; changes in certificate status can signal reclassification pressures
-- **National competent authority announcements** — NCAs may issue national guidance pending EU-level reclassification
+- Official Journal of the EU (OJ L series) — implementing acts are published here
+- MDCG meeting minutes and published guidance — borderline and classification group outputs
+- EUDAMED — registry of certificates; changes in certificate status can signal reclassification pressures
+- National competent authority announcements — NCAs may issue national guidance pending EU-level reclassification
 
 ---
 

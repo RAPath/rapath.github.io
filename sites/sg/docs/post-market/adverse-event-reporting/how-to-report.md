@@ -16,7 +16,7 @@ Adverse event reports for medical devices are submitted to HSA through the **Med
 
 An adverse event report should include:
 
-- Details of the **reporter** (company name, contact person, dealer's licence number);
+- Details of the **reporter** (company name, contact person, dealer's licence number if applicable, and contact telephone/email);
 - **Device identification** (device name, model number, lot/serial number, registration number if applicable);
 - **Description of the event** — what happened, when, where, and to whom;
 - **Patient/user information** (anonymised — patient identity is not reported to HSA);

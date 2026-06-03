@@ -43,3 +43,5 @@ Use HSA's interactive tool to determine the licence type(s) needed for a specifi
 
 - [HSA: Dealer's licence](https://www.hsa.gov.sg/medical-devices/dealers-licence)
 - [HP(MD) Regulations 2010 — Part 4](https://sso.agc.gov.sg/SL/HPA2007-S436-2010)
+
+Note: While an overseas manufacturer does not need a dealer's licence, they should designate or appoint a Singapore-based local agent to support regulatory communications with HSA, as required under HP(MD) Regulations 2010.

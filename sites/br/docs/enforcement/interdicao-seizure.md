@@ -38,3 +38,5 @@ Facility closure is one of the most serious enforcement actions ANVISA can take 
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+"The registration holder must be formally notified of the seizure. The company may file an administrative appeal requesting release of products by demonstrating compliance with applicable regulations. ANVISA typically provides a timeline for remediation; if not corrected within the specified period, seized products may be destroyed or donated to authorized entities."

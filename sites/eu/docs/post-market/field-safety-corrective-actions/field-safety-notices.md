@@ -64,7 +64,7 @@ MDCG 2023-3 provides a recommended FSN template. An FSN must contain:
 
 FSNs must be issued in the **official language(s) of each member state** where the affected device is marketed. A single English-only FSN is generally not sufficient for distribution to French, German, Spanish, Italian, or other-language markets.
 
-For urgent FSCAs, an initial English-language notice may be issued first (with immediate NCA notification) while translations are being completed, provided translated versions follow rapidly.
+For truly urgent FSCAs requiring immediate action (e.g., imminent risk of death), an initial English-language notice may be issued concurrently with NCA notification while translated versions are being finalised, provided translations are completed and distributed within 1–2 weeks.
 
 ---
 
@@ -115,3 +115,15 @@ The FSN document is uploaded to EUDAMED as part of the FSCA notification. It bec
 | MDCG 2023-3 | FSN template and guidance |
 | MDR Art. 11(5) | Importer obligation to pass on FSNs |
 | MDR Art. 14(5) | Distributor obligation to pass on FSNs |
+
+Complete the final section:
+
+EUDAMED — FSN upload
+​
+The FSN document is uploaded to EUDAMED (Module 5 — Vigilance) as part of the FSCA notification. The uploaded FSN:
+
+- Is visible to NCAs and notified bodies with restricted access
+- May be visible to the public depending on NCA discretion and the sensitivity of the safety issue
+- Constitutes the official record of the FSCA communication
+- Must be dated and version-numbered
+- Triggers NCA acknowledgement of the FSCA notification in EUDAMED

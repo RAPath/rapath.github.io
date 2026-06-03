@@ -37,3 +37,5 @@ Industry associations (ABIMO, SBCTA) often coordinate collective responses to au
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+After 'After the hearing:' section, add: 'Note: ANVISA may also publish a Relatório de Contribuições (Contributions Report) or include responses in the Análise de Impacto Regulatório (AIR) that accompanies the final regulation in the DOU.'

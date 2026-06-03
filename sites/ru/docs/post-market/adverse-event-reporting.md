@@ -25,7 +25,7 @@ This includes device malfunctions, failures, and design deficiencies that, if th
 
 ## How to report
 
-Reports are submitted to Roszdravnadzor via the official portal. Contact your Russian Authorized Representative (RUS REP) to ensure reports are filed correctly and within timeframes.
+Reports are submitted to Roszdravnadzor via the official portal. Contact your Russian Authorized Representative (RUS REP) to ensure reports are filed correctly and within or local distributor the specified timeframes, as they are responsible for filing with Roszdravnadzor on behalf of foreign manufacturers.
 
 ## Mandatory import reporting
 
@@ -51,3 +51,5 @@ These reports must summarise post-market clinical follow-up data and any safety 
 - Regulation No. 1113: [roszdravnadzor.gov.ru](https://roszdravnadzor.gov.ru/)
 - Regulation No. 11020: [roszdravnadzor.gov.ru](https://roszdravnadzor.gov.ru/)
 :::
+
+Note: 'Serious deterioration in the state of health' is interpreted broadly and may include extended hospitalization, temporary or permanent disability, or other significant health impacts as defined in Roszdravnadzor guidance documents.

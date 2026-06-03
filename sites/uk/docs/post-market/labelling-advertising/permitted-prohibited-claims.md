@@ -16,7 +16,7 @@ The basis for permitted and prohibited claims is the **intended purpose** regist
 
 ## The fundamental rule: claims must match evidence
 
-Every claim made about a medical device — whether on the label, in the IFU, in promotional materials, or in advertising — must be:
+Every claim made about a medical device — whether on the label, in the Instructions for Use (IFU), sales literature, website content, social media, promotional materials, or in advertising — must be:
 
 1. **Within the registered intended purpose** — the device cannot be promoted for uses not included in the registered intended purpose
 2. **Substantiated by evidence** — the claim must be supported by clinical, performance, or technical data in the technical file
@@ -78,3 +78,7 @@ Key points for digital marketing:
 | UK MDR 2002 | Prohibition on misleading claims |
 | ASA: CAP Code — Medical and Healthcare | Specific rules on health claims |
 | MHRA: Advertising medical devices | MHRA's guidance on claims |
+
+Competitor device names should not be used unless they are the actual registered/established name; visual comparisons must not distort relative performance through scale manipulation or selective data presentation. Comparative claims in advertising are subject to ASA substantiation rules in addition to UK MDR 2002.
+
+Expert and healthcare professional claims: Claims attributed to healthcare professionals or clinical experts must be: (1) made by individuals with genuine expertise in the relevant field; (2) substantiated by the same evidence standards as manufacturer claims; (3) clearly identified as expert opinion rather than clinical data; (4) not presented as clinical proof if based only on personal experience or case series. Testimonials from healthcare professionals are subject to the same ASA rules as patient testimonials.

@@ -71,7 +71,7 @@ Class I is not monolithic. Three sub-categories of Class I device require UKAB i
 | **Class I (measuring)** — devices with a measuring function | UKAB assesses the metrology aspects only |
 | **Class Im** — reusable surgical instruments | UKAB assesses the reprocessing aspects only |
 
-Even within these sub-categories, the manufacturer self-declares conformity for the non-UKAB aspects.
+Even within these sub-categories, the manufacturer self-declares conformity for aspects not subject to UKAB assessment.
 
 ### How the classification rules work
 
@@ -209,3 +209,5 @@ If a UKAB disagrees with a manufacturer's classification, the manufacturer must 
 | MHRA guidance: Classification of medical devices | MHRA guidance on applying the classification rules |
 | MHRA guidance: IVD medical devices | IVD-specific classification guidance |
 | MDCG 2021-24 (reference) | EU software classification guidance — useful comparative reference |
+
+The page ends with 'Step' and the complete step-by-step guidance for applying classification rules is missing.

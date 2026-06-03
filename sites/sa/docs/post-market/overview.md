@@ -8,7 +8,7 @@ description: Overview of post-market obligations for medical device manufacturer
 
 ## Ongoing obligations after MDMA
 
-Obtaining MDMA is not the end of regulatory compliance — it is the beginning of an ongoing lifecycle of obligations. The SFDA requires manufacturers and their ARs to actively monitor device performance, report safety issues, and maintain their registration throughout the device's commercial life in Saudi Arabia.
+Obtaining MDMA is not the end of regulatory compliance — it is the beginning of an ongoing lifecycle of obligations. The SFDA requires manufacturers and their Authorized Representative (AR) The AR assumes responsibility for timely submission of all post-market reports and communications with the SFDA on behalf of the manufacturer.s to actively monitor device performance, report safety issues, and maintain their registration throughout the device's commercial life in Saudi Arabia.
 
 ## Key post-market obligations
 

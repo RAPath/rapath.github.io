@@ -23,3 +23,7 @@ Must address both device and drug aspects: device performance/safety data + drug
 
 ## Related pages
 - [How classification works](./how-classification-works) · [Special device types — combination products](../special-device-types/combination-products-drug-device)
+
+## combination product determination inquiry
+
+(typically reviewed within 30–60 days of complete submission)

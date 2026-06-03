@@ -35,3 +35,5 @@ ANVISA and state VISA bodies conduct **inspeções sanitárias** (health surveil
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+Routine CBPF inspections are generally conducted every 2 years for renewal purposes. Surveillance inspections may be conducted at any time based on ANVISA's risk assessment. Inspections may be triggered by adverse event reports, product recalls, customer complaints, previous inspection non-conformities, or random selection based on device risk classification.

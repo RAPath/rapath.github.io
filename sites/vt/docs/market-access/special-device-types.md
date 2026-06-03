@@ -52,3 +52,5 @@ Unregistered devices may be imported for emergency or humanitarian use under spe
 ## Export-only devices
 
 A device manufactured in Vietnam solely for export is subject to export certificate requirements but does not need to be declared or registered for the Vietnamese domestic market. An export certificate (Certificate of Free Sale) can be obtained from DAV to support market access applications in the destination country.
+
+Manufacturers must maintain detailed software documentation including: software architecture and design specifications, software development lifecycle (SDLC) documentation, cybersecurity risk assessment and mitigation measures, software testing and validation protocols, and procedures for managing software updates and change control. DAV may request evidence of compliance with IEC 62304 requirements during registration review.

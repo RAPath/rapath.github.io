@@ -10,7 +10,7 @@ description: Current Swissmedic and Federal Council open consultations on Swiss 
 - **European Commission MDCG consultations** (applicable in Switzerland): [European Commission](https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en)
 
 ## How to Participate
-Swiss consultations are open to any interested party — manufacturers, CH REPs, healthcare professionals, patients, and the public. Responses are submitted via the Fedlex consultation portal or directly to Swissmedic. Industry associations (Fasmed, MedTech Switzerland) coordinate collective responses.
+Swiss consultations are open to any interested party — manufacturers, Authorised Representatives (CH REPs), Individual submissions are recorded, and industry associations typically coordinate collective responses to strengthen sector input. healthcare professionals, patients, and the public. Responses are submitted via the Fedlex consultation portal or directly to Swissmedic. Industry associations (Fasmed, MedTech Switzerland) coordinate collective responses.
 
 ## Types of Consultations Relevant to Medical Devices
 - **Ordinance amendments** — proposed changes to MedDO, IVDO, ClinO-MD, or Fees Ordinance
@@ -25,3 +25,5 @@ Swiss consultations are open to any interested party — manufacturers, CH REPs,
 :::warning Disclaimer
 AI-assisted navigation aid only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
 :::
+
+Typical consultation periods are 8–12 weeks. Responses must be submitted in writing by the specified deadline. For Fedlex consultations, responses are submitted via the online portal; for Swissmedic-specific consultations, check the individual consultation notice for submission instructions.

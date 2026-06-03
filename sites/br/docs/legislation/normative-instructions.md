@@ -27,3 +27,5 @@ All ANVISA regulations are published in the **Diário Oficial da União (DOU)** 
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+These INs support the core RDC 751/2022 framework and its companion regulations (RDC 752–755/2022). IN 57/2022 provides the detailed classification catalogue referenced in RDC 751 Annex I.

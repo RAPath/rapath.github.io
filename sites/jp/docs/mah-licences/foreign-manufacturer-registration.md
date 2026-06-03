@@ -27,3 +27,5 @@ The MAH applies for FMR on behalf of the overseas manufacturer. The FMR certific
 ## Annual confirmation
 
 FMR registrations must be **confirmed annually** by the MAH. The MAH files an annual confirmation with MHLW confirming the site's continued registration. Failure to file annual confirmation risks lapsing the FMR.
+
+If annual confirmation is not filed by the specified deadline, the FMR may lapse. A lapsed FMR cannot be used for new applications. The manufacturing site must reapply for FMR, which involves resubmitting the full FMR application package and undergoing review again.

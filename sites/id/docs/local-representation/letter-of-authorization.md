@@ -60,3 +60,11 @@ Common Apostille Convention members: EU countries, UK, USA, Australia, Japan, Si
 4. **Device scope** — Define scope broadly enough to cover your current and near-term product portfolio, avoiding the need for new LoAs for each product addition.
 
 5. **Original vs copy** — Kemenkes generally requires submission of the original apostilled/legalised document or a certified true copy. Confirm current requirements with your LAR.
+
+Signatory Requirements
+
+The LoA must be signed by an authorized representative of the foreign manufacturer — typically the CEO, Managing Director, or someone holding power of attorney (POA). The signatory must have clear authority to bind the company in regulatory matters. Kemenkes may request evidence of signatory authority (board resolution, power of attorney document, or extract from company articles of association) if the LoA signatory role is unclear.
+
+Timing of LoA Issue
+
+The LoA should be dated prior to or concurrently with the NIE application submission. Kemenkes will not accept a retroactively issued LoA (dated after the application submission date). Ensure the LoA is executed and legalised/apostilled before final dossier assembly.

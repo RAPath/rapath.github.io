@@ -19,7 +19,7 @@ ANVISA aligns with the **IMDRF SaMD classification framework** (IMDRF/SaMD N12):
 | Inform clinical management | Serious | Class II |
 | Inform clinical management | Non-serious | Class I |
 
-ANVISA expects manufacturers of AI/ML SaMD to include a **change management protocol** in the technical dossier, particularly for continuously learning algorithms.
+ANVISA expects manufacturers of AI/ML SaMD to include a **change management protocol** in the technical dossier, particularly for continuously learning detailed and performance monitoring plan algorithms, to demonstrate how updates and algorithm modifications will be validated and controlled post-market.
 
 - [ANVISA Digital Health](https://www.gov.br/anvisa/pt-br/assuntos/produtossaude/produtos-para-saude/tecnologia-em-saude-digital)
 

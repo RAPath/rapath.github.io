@@ -8,7 +8,7 @@ tags: [guidance,cn-unique]
 
 # SaMD and AI/ML Guidance
 
-*This page provides an index and plain English summary of samd and ai/ml guidance published by NMPA and CMDE. Full content to be completed during editorial review.*
+*This page indexes SaMD and AI/ML guidance documents published by NMPA and CMDE. Content is being expanded. Below are direct links to official sources.*
 
 ---
 
@@ -21,3 +21,5 @@ NMPA technical guidance documents are published on:
 :::note Disclaimer
 Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [NMPA](https://www.nmpa.gov.cn/) sources before making regulatory decisions. Not affiliated with NMPA or any Chinese Government body. Not legal or regulatory advice.
 :::
+
+NMPA released guidance on Software as a Medical Device (SaMD) and AI/ML-based medical devices in 2021-2022. Key requirements include: algorithm validation, cybersecurity assessment, performance stability testing across intended use populations, and transparency in AI decision-making. CMDE provides specific technical review guidelines for machine learning model development, validation datasets, and post-market monitoring strategies.

@@ -111,3 +111,5 @@ The IVD equivalent of PMCF is **Post-Market Performance Follow-up (PMPF)**. For 
 | MEDDEV 2.12/2 Rev.2 | PMCF studies guidance (reference) |
 | MHRA: Clinical evaluation guidance | MHRA's position on PMCF |
 | EU MDR 2017/745, Annex XIV Part B | Detailed EU PMCF requirements (applies in NI) |
+
+If PMCF identifies a previously unknown or significantly underestimated risk that was not adequately addressed in the pre-market clinical evaluation, the manufacturer must: (1) immediately notify MHRA and the UKAB; (2) assess whether the risk affects the benefit-risk determination; (3) determine whether an FSCA, risk management revision, or device modification is required; (4) update the clinical evaluation report and risk management file; (5) consider whether continued market distribution is justified pending risk assessment.

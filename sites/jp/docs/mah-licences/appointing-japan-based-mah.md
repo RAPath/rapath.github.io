@@ -9,26 +9,26 @@ sidebar_position: 7
 
 When selecting a Japan-based Kannin MAH, assess:
 
-**Regulatory credentials:**
-- Does the company hold a valid MAH licence for the relevant device class?
-- What is the Responsible Technical Officer's experience and qualification?
-- Does the company have experience with the specific device type or therapeutic area?
+Regulatory credentials:
+Does the company hold a valid MAH licence for the relevant device class (check licence status on MHLW public database)?
+What is the Responsible Technical Officer's education, training, and experience in medical device regulation?
+Does the company have documented experience managing approvals for the same or similar device types or therapeutic areas?
 
-**Operational capability:**
+Operational capability:
 - Does the company have the capacity to manage the post-market obligations for your device?
 - What GPSP infrastructure does the company have (survey management, data collection)?
 - How does the company manage adverse event reporting?
 - What languages does the company work in? Can they work in English with your team?
 
-**Financial stability:**
+Financial stability:
 - How financially stable is the company? MAH licence lapsing due to the Kannin's financial failure is a risk
 - What insurance does the company carry?
 
-**Contractual terms:**
+Contractual terms:
 - What are the transition terms if the relationship ends?
 - Who controls the dossier and approval documents?
 
-**References:**
+References:
 - Can the company provide references from other overseas manufacturer clients?
 
 ## Key contract provisions

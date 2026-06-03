@@ -31,3 +31,5 @@ The original manufacturer's ARTG inclusion **does not cover** the reprocessed de
 ## Related Pages
 
 - [EP 13 — Labelling Requirements](../essential-principles/ep-7-15-design-and-construction.md)
+
+Healthcare facilities that reprocess single-use devices without explicit manufacturer validation may face significant liability if adverse events occur. Additionally, staff involved in reprocessing may be personally liable. Many healthcare facilities now require documented risk assessments and governance approval before proceeding with reprocessing. Consultation with the TGA and legal advisers is strongly recommended before establishing reprocessing programs.

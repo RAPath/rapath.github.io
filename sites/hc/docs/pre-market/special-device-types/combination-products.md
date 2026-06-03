@@ -30,3 +30,5 @@ Products where a device and drug are co-packaged but not physically or chemicall
 - The combined labelling and IFU must address the use of both together
 
 > **Legislative source:** Food and Drugs Act, s 2 (definitions); Medical Devices Regulations, SOR/98-282
+
+For device-led combination products, manufacturers must provide stability data demonstrating that the device component does not chemically or physically degrade the drug component, and vice versa. This includes data across the claimed shelf life, storage conditions, and after sterilisation (if applicable). Compatibility testing protocols should be aligned with both drug and device guidance documents.

@@ -15,7 +15,7 @@ A reportable incident is any malfunction or deterioration in the characteristics
 - A **serious deterioration in the health** of a patient, user, or third party (including a serious injury or serious illness requiring medical intervention)
 - A potentially serious public health threat
 
-Near-misses — events that could have resulted in the above but did not, due to fortunate circumstance or timely intervention — should also be assessed and may require reporting.
+Near-misses—events that could have resulted in death or serious deterioration in health but did not due to fortunate circumstance or timely intervention—should be systematically assessed. If a near-miss reveals a significant hazard or design defect, it should be reported to DAV and may trigger a risk assessment or FSCA.
 
 ## Who reports?
 
@@ -30,7 +30,7 @@ Near-misses — events that could have resulted in the above but did not, due to
 
 | Event type | Timeframe |
 |---|---|
-| Event resulting in death or unanticipated serious deterioration | **Within 10 days** of becoming aware |
+| Event resulting in death or in health serious deterioration | **Within 10 days** of becoming aware |
 | Event resulting in serious injury | **Within 30 days** of becoming aware |
 | Trend report (increased frequency of expected events) | **Within 30 days** of trend analysis indicating a signal |
 | Periodic summary report | **Annually** or as requested by DAV |
@@ -57,3 +57,5 @@ After submitting an initial report, the manufacturer must:
 :::tip Track all complaints, not just reportable ones
 A robust complaint-handling system that tracks all customer complaints — not just those that are reportable — is essential for detecting trends and fulfilling PMS obligations. Many FSCAs originate from a pattern of non-reportable complaints.
 :::
+
+Healthcare facilities may report serious adverse events directly to the provincial health department (Sở Y tế) or DAV without waiting for manufacturer investigation. Such reports should include available device identification information and a description of the adverse event. The Authorised Representative should monitor DAV databases for reports originating from healthcare facilities and ensure timely investigation and follow-up.

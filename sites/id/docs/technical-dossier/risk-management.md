@@ -59,3 +59,5 @@ Kemenkes evaluators frequently raise clarification queries on:
 ## ISO 14971:2019 vs Earlier Versions
 
 Indonesia does not mandate a specific edition of ISO 14971, but the **2019 revision** is the current applicable standard. If your existing risk management documentation was prepared to ISO 14971:2007, a gap assessment and update to 2019 requirements may be needed before submission.
+
+Basic risk summary; simplified hazard identification and harm analysis acceptable (may omit detailed probability/severity matrices if hazards are well-established and controls are straightforward)

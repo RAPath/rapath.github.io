@@ -28,3 +28,4 @@ In addition to individual event reports, registration holders must submit an **a
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+

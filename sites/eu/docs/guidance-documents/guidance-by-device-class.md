@@ -27,10 +27,7 @@ This page organises key MDCG and other official guidance by device class and typ
 
 ## Active devices (including electro-medical equipment)
 
-| Document | Source | Summary |
-|---|---|---|
-| EN 60601 series harmonised status | OJ harmonised list | Electrical safety and EMC for active devices |
-| MDCG 2020-10 | MDCG | Electromagnetic compatibility and safety |
+MDCG 2020-10 is listed twice in the guidance index with conflicting subjects. Verify the correct subject for MDCG 2020-10 from the Commission website and ensure consistency across all pages.
 
 ---
 

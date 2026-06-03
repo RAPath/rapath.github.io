@@ -106,3 +106,5 @@ Some member states designate **authorised prescribers** — specialists with spe
 | MDR Art. 62(4)(f) | Compassionate use within clinical investigation context |
 | MDR Art. 53 | Exemptions for devices used in the interest of public health |
 | National NCA websites | Named-patient and hospital exemption procedures by member state |
+
+Complete the sentence: 'Some member states designate authorised prescribers — specialists with specific expertise who are permitted to prescribe or use unapproved devices in accordance with national law and under specified conditions (e.g., within hospitals or specialist centres). Requirements and procedures for authorised prescriber designation vary by member state.'

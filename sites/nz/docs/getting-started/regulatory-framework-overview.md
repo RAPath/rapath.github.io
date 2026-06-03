@@ -96,3 +96,5 @@ See [Medical Products Bill](/legislation/medical-products-bill) and the [Bill Tr
 :::note TTMRA — the Australia-NZ special relationship
 Under the **Trans-Tasman Mutual Recognition Arrangement (TTMRA)**, goods lawfully supplied in Australia can generally be supplied in New Zealand without additional regulatory requirements. This has practical implications for how sponsors may leverage Australian TGA registration when entering the NZ market. See [TTMRA and Australia](/special-topics/ttmra-australia) for detail.
 :::
+
+The Medical Products Bill remains in development as of 2024. No formal enactment date has been announced. Sponsors should monitor Medsafe's website and the official Bill Tracker for updates on progress and expected implementation.

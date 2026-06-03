@@ -32,7 +32,7 @@ Consumer health apps with indirect clinical relevance — such as apps monitorin
 
 1. Review your app's intended purpose as stated in the product literature and app store description
 2. Apply the criteria from Roszdravnadzor's 2018 methodological guidelines
-3. If uncertain, seek a formal classification opinion from Roszdravnadzor (or your RUS REP)
+3. If uncertain, seek a formal pre-classification consultation (pre-submission meeting) from Roszdravnadzor through your RUS REP. This non-binding consultation can clarify whether your app requires registration before investing in a full dossier.
 4. If classified as a medical device, proceed with registration under the applicable class
 
 :::info Official source

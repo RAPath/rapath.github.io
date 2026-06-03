@@ -67,7 +67,7 @@ The grace period for software as a medical device (SaMD) ended. From this date:
 Two major changes simultaneously:
 
 **1. Healthcare facility adverse event reporting commenced**
-Supporting regulations to Part 4-8A of the Act came into force. A 12-month voluntary reporting period commenced from 21 March 2025. From 21 March 2026, mandatory reporting by healthcare facilities begins for adverse events involving high-risk devices (Class III, AIMD, IVD Class 4).
+Supporting regulations to Part 4-8A of the Act came into force. A 12-month voluntary reporting period commenced from 21 March 2025. From 21 March 2026, mandatory reporting by healthcare facilities begins for adverse events involving high-risk all devices (not limited to devices). However, the initial 12-month period (21 March 2025 to 20 March 2026) is voluntary.
 
 **2. PRAC replaced URPTG**
 The Procedure for Recalls, Product Alerts and Product Corrections (PRAC) replaced the Uniform Recall Procedure for Therapeutic Goods (URPTG). The PRAC simplifies recall terminology from 8 categories to 4 market action types and reduces the procedural steps from 10 to 5.
@@ -113,3 +113,5 @@ The TGA publishes regulatory changes through:
 - [Therapeutic Goods Act 1989](./therapeutic-goods-act.md)
 - [MD Regulations 2002](./md-regulations-2002.md)
 - [What's New](../whats-new/regulatory-changes.md)
+
+2. PRAC replaced URPTG - The Procedure for Recalls, Product Alerts and Product Corrections (PRAC) replaced the Uniform Recall Procedure for Therapeutic Goods (URPTG). The PRAC simplifies recall terminology from 8 categories to 4 market action types: (1) Urgent Safety Advisory, (2) Product Alert, (3) Product Correction, and (4) Recall. These categories are based on risk severity and likelihood of harm.

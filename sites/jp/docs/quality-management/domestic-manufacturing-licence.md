@@ -45,3 +45,5 @@ The following changes require notification to (or authorisation from) the licens
 - Change in the types of manufacturing activities performed
 - Major facility changes affecting manufacturing capability
 - Change in address or facility location
+
+The responsible manufacturing manager (製造管理者 — seizō kanrisha) must meet specific qualification requirements, typically including formal education in engineering or life sciences and documented experience in medical device manufacturing or quality management. Proof of qualifications must be submitted with the licensing application.

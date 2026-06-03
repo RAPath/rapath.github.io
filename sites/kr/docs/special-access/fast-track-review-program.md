@@ -14,7 +14,7 @@ MFDS has introduced a **fast-track review program** for certain medical devices 
 
 ## Benefits
 
-- Shortened target review timelines (approximately 50% faster than standard)
+- Shortened target review timelines — typically 30–50% reduction compared to standard review pathways, with specific timelines determined during pre-submission consultation
 - Dedicated MFDS review team
 - Enhanced pre-submission consultation support
 
@@ -24,3 +24,7 @@ Apply for fast-track status alongside the 품목허가 application via the MFDS 
 
 ## Related pages
 - [Innovative medical device designation](./innovative-medical-device-designation) · [Conditional marketing authorization](./conditional-marketing-authorization)
+
+Timing of fast-track application
+​
+Fast-track status should be requested early — ideally at pre-submission consultation or when submitting the 품목허가 application. Late requests may not be accommodated for the current review cycle.

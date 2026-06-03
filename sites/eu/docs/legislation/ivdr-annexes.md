@@ -9,7 +9,7 @@ tags: [ivdr, legislation, annexes]
 # IVDR Annexes — all 16
 
 :::note Regulatory basis
-Annexes I–XVI of **Regulation (EU) 2017/746 (IVDR)**. The IVDR annexes mirror the MDR structure with adaptations for the in vitro diagnostic context.
+Annexes I–XVI of **Regulation (EU) 2017/746 (IVDR)**. The IVDR contains 16 Annexes (compared to MDR's 17) that mirror the MDR structure with significant adaptations for the in vitro diagnostic context, including classification rules, conformity assessment procedures, and performance evaluation requirements specific to IVDs.
 :::
 
 :::warning Disclaimer
@@ -177,3 +177,7 @@ Currently reserved; no content assigned.
 |---|---|
 | IVDR 2017/746, Annexes I–XVI | Full annex texts |
 | EUR-Lex consolidated IVDR | Current version including all amendments |
+
+Complete the Annex XI description: 'Annex XI — Product conformity verification
+
+Parts A and B — same structure as MDR Annex XI. Part A covers production quality assurance (QA) for Class B and C devices; Part B covers product conformity verification for Class B and C devices using statistical sampling. Neither part applies to Class D devices, which use Annex IX only.'

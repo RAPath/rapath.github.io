@@ -14,3 +14,7 @@ Most implantables are Grade **III or IV**. Additional requirements include:
 
 ## Related pages
 - [UDI-K overview](../../udi-registration-licensing/udi-k/udi-k-overview)
+
+Implant card requirements
+​
+High-risk implantables (cardiac pacemakers, artificial joints, vascular stents, spinal implants) must include an implant card for the patient containing: device name, model number, serial number, lot number, implantation date, and manufacturer contact information. The card facilitates future medical imaging, device identification in emergency situations, and post-market surveillance.

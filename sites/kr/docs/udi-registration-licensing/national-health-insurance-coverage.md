@@ -25,3 +25,13 @@ For most devices, NHI listing is **commercially critical** — most Korean hospi
 
 ## Related pages
 - [HIRA — Health Insurance Review and Assessment](./hira-health-insurance-review)
+
+## Timeline and Costs
+
+The NHI listing process typically takes:
+
+- 3–6 months for standard devices with established evidence packages
+- 6–12 months for devices requiring health economic analysis
+- 1–2+ years for truly novel devices requiring New Technology Assessment
+
+Manufacturers should budget for submission fees to HIRA and may need to engage health economics consultants to prepare cost-effectiveness analyses required for Korean reimbursement.

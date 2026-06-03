@@ -74,7 +74,7 @@ Every CSDT must include a risk management summary:
 | 4 | Comprehensive clinical data; usually includes clinical investigation results |
 | IVDs | Performance evaluation: sensitivity, specificity, precision, accuracy, stability, reference interval |
 
-Overseas clinical data is accepted where the patient population and intended use are equivalent to Thai context.
+Overseas clinical data is accepted where the patient population, disease epidemiology, the Thai FDA may request additional data or bridging studies if significant demographic or epidemiological differences exist. and intended use are equivalent to Thai context.
 
 ## In-Country Testing — TH-Unique
 
@@ -84,3 +84,5 @@ For certain device categories, Thai FDA may require **local testing** to be cond
 - Determination is made case-by-case by Thai FDA
 
 Confirm whether local testing is required for your specific device type before finalising your dossier preparation timeline.
+
+The CSDT section appears complete but should clarify: 'Grouping reduces but doesn't eliminate documentation requirements. Even in a grouped application, each device variant must be adequately described and its characteristics documented. The CSDT must cover the full range of variants with clear model-specific identification.'

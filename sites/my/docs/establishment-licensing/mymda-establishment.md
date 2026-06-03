@@ -89,3 +89,5 @@ Renewal applications should be submitted **at least 60 days before expiry**. The
 - Keep PDF file sizes under 5 MB per document
 - Use the portal's message function for all official communications with MDA to maintain a record
 :::
+
+Add this section before 'Renewal Applications':

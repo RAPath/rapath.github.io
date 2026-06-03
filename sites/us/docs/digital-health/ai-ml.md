@@ -9,17 +9,17 @@ keywords: [AI ML medical device, FDA AI ML action plan, machine learning device,
 
 ## FDA's AI/ML Action Plan (January 2021)
 
-FDA published its **Artificial Intelligence/Machine Learning (AI/ML)-Based Software as a Medical Device Action Plan** in January 2021, outlining five key action areas to advance the regulatory framework for AI/ML-based SaMD.
+FDA published its Artificial Intelligence/Machine Learning (AI/ML)-Based Software as a Medical Device Action Plan in January 2021, outlining five key action areas to advance the regulatory framework for AI/ML-based SaMD.
 
 ---
 
 ## The five action areas
 
 ### 1. Tailored regulatory framework for AI/ML-based SaMD
-FDA committed to developing a **risk-based framework** specifically for AI/ML SaMD. The core challenge: AI/ML algorithms can adapt and change after deployment ("adaptive AI") in ways that traditional static software does not. FDA's response has been the **Predetermined Change Control Plan (PCCP)** framework (see [PCCP guidance](/docs/digital-health/pccp)).
+FDA committed to developing a risk-based framework specifically for AI/ML SaMD. The core challenge: AI/ML algorithms can adapt and change after deployment ("adaptive AI") in ways that traditional static software does not. FDA's response has been the Predetermined Change Control Plan (PCCP) framework (see [PCCP guidance](/docs/digital-health/pccp)).
 
 ### 2. Good Machine Learning Practice (GMLP)
-FDA (with Health Canada and MHRA) published **10 Guiding Principles for GMLP** in 2021. These principles address:
+FDA (with Health Canada and MHRA) published 10 Guiding Principles for GMLP in 2021. These principles address:
 - Multi-disciplinary expertise in design and development
 - Clinical study design relevant to AI/ML performance
 - Transparency of the algorithm and its limitations
@@ -55,7 +55,7 @@ FDA identified the need for frameworks to enable ongoing monitoring of AI/ML SaM
 
 ## FDA's position on AI/ML in devices
 
-FDA has cleared and approved numerous AI/ML-based devices — primarily in radiology, cardiology, and ophthalmology. As of 2025, FDA has cleared or approved over **700 AI/ML-enabled devices**. The vast majority have been cleared via 510(k).
+FDA has cleared and approved numerous AI/ML-based devices — primarily in radiology, cardiology, and ophthalmology. As of 2026, FDA has cleared or approved over 700 AI/ML-enabled devices. The vast majority have been cleared via 510(k).
 
 ---
 

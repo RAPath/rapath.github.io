@@ -16,7 +16,7 @@ MEDDEV and NB-MED documents were produced under the old MDD/AIMDD/IVDD framework
 
 ## MEDDEV guidance documents
 
-**MEDDEV** documents were produced by the European Commission's Working Group on Medical Devices to assist implementation of the old MDD/AIMDD/IVDD directives. Many have not been formally updated for MDR/IVDR but remain referenced by the industry and notified bodies as baseline guidance.
+MEDDEV documents were produced by the European Commission's Working Group on Medical Devices to assist implementation of the old MDD/AIMDD/IVDD directives. Many have not been formally updated for MDR/IVDR but remain referenced by the industry and notified bodies as baseline guidance.
 
 ### Key MEDDEV documents still referenced under MDR/IVDR
 
@@ -28,9 +28,7 @@ MEDDEV and NB-MED documents were produced under the old MDD/AIMDD/IVDD framework
 | MEDDEV 2.12/2 rev 2 (2012) | Post market clinical follow-up studies | Superseded by MDCG 2020-7 |
 | MEDDEV 2.4/1 rev 9 (2010) | Classification of medical devices | Largely superseded by MDCG classification guidance |
 
-:::caution
-Do not rely on MEDDEV documents where MDCG guidance covers the same topic. MDCG guidance is current and aligned with MDR/IVDR requirements.
-:::
+⚠️ **Do not rely on MEDDEV documents where MDCG guidance covers the same topic.** MDCG guidance reflects current MDR/IVDR requirements and supersedes MEDDEV guidance where there is a conflict. Always prioritise MDCG documents for compliance interpretation.
 
 All MEDDEV documents are available on the European Commission DG SANTE website under the "Old Guidance" section.
 
@@ -38,9 +36,9 @@ All MEDDEV documents are available on the European Commission DG SANTE website u
 
 ## NB-MED recommendations
 
-**NB-MED** was the coordination body for notified bodies under the old directives. NB-MED recommendations addressed practical conformity assessment questions.
+NB-MED was the coordination body for notified bodies under the old directives. NB-MED recommendations addressed practical conformity assessment questions.
 
-Under MDR/IVDR, notified body coordination is handled by the **MDCG** and notified body **Joint Assessment Teams (JATs)**. NB-MED recommendations are historical documents only and should be replaced by current MDCG guidance for MDR/IVDR compliance.
+Under MDR/IVDR, notified body coordination is handled by the MDCG and notified body Joint Assessment Teams (JATs). NB-MED recommendations are historical documents only and should be replaced by current MDCG guidance for MDR/IVDR compliance.
 
 They remain useful as:
 - Historical context for why certain requirements exist
@@ -52,10 +50,10 @@ NB-MED documents are archived on the TEAM-NB website (team-nb.org).
 
 ## TEAM-NB position papers
 
-**TEAM-NB** (European Association of Notified Bodies for Medical Devices) is the current coordinating body for MDR/IVDR notified bodies. It publishes:
-- **Position papers** on specific MDR/IVDR interpretation questions
-- **Operational guidance** for NB assessment activities
-- **NB consensus documents** on topics such as technical documentation review
+TEAM-NB (European Association of Notified Bodies for Medical Devices) is the current coordinating body for MDR/IVDR notified bodies. It publishes:
+- Position papers on specific MDR/IVDR interpretation questions
+- Operational guidance for NB assessment activities
+- NB consensus documents on topics such as technical documentation review
 
 TEAM-NB documents are available at team-nb.org. They are not binding on individual NBs but reflect consensus practice.
 
@@ -63,7 +61,7 @@ TEAM-NB documents are available at team-nb.org. They are not binding on individu
 
 ## EC Blue Guide — market surveillance
 
-The **EU Blue Guide on the Implementation of EU Product Rules** (commonly called the "Blue Guide") is a Commission guidance document explaining the general EU New Approach framework for product regulation. It is relevant to MDR/IVDR because:
+The EU Blue Guide on the Implementation of EU Product Rules (commonly called the "Blue Guide") is a Commission guidance document explaining the general EU New Approach framework for product regulation. It is relevant to MDR/IVDR because:
 
 - It explains how CE marking, Declarations of Conformity, and notified bodies work across all EU product regulations (not just medical devices)
 - It provides guidance on economic operator obligations applicable broadly
@@ -95,3 +93,5 @@ Key forms and application portals for EU medical device regulation:
 - [Guidance by device class](./guidance-by-device-class)
 - [Notified bodies — NANDO database](/notified-bodies/nando-database)
 - [How to read EU legislation](/legislation/how-to-read-eu-legislation)
+
+Access them at: https://health.ec.europa.eu/medical-devices-sector/new-regulations/mdcg-endorsed-documents-and-other-guidance-and-documents_en (select "MEDDEV guidance" tab).

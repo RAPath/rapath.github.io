@@ -10,7 +10,7 @@ Not every health-related product is a medical device. The following categories a
 
 ## Medicines and biologicals
 
-Products whose **principal intended action** is achieved through pharmacological, immunological, or metabolic means are medicines, not medical devices. This includes vaccines, antibiotics, and other pharmaceuticals regulated under the Law on Pharmacy 2016.
+Products whose principal intended action is achieved through pharmacological, immunological, or metabolic means are medicines, not medical devices. This includes vaccines, antibiotics, and other pharmaceuticals regulated under the Law on Pharmacy 2016.
 
 ## Cosmetics
 
@@ -36,9 +36,9 @@ General-purpose PPE (e.g. hard hats, industrial gloves) is regulated under labou
 | Contact lenses | Corrective vs cosmetic? | Usually medical device |
 
 :::note
-When a product is used for both a medical and a non-medical purpose, its regulatory status is determined by its **primary intended use**. If the medical use is primary, it is a medical device.
+When a product is used for both medical and non-medical purposes, its regulatory status is determined by its primary intended use as declared by the manufacturer. If the medical use is primary — as expressed in labelling, marketing materials, or instructions for use — the product is classified as a medical device.
 :::
 
 ## Getting a determination
 
-If your product falls into a grey area, you can request a formal determination from the **Drug Administration of Vietnam (DAV)**. Provide the intended purpose statement, labelling, and IFU, and DAV will advise which regulatory pathway applies.
+If your product falls into a grey area, you can request a formal determination from the Drug Administration of Vietnam (DAV). Provide the intended purpose statement, labelling, and IFU, and DAV will advise which regulatory pathway applies.

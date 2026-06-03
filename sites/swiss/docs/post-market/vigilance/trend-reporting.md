@@ -9,7 +9,7 @@ keywords: [trend reporting, MedDO, Switzerland, statistical threshold, serious p
 In addition to individual serious incident reports, manufacturers must report **trends** — statistically significant increases in the frequency or severity of incidents that are not serious incidents and that have or could have a significant impact on the benefit-risk analysis of the device.
 
 ## When a Trend Report is Required
-A trend report is required when the manufacturer identifies a statistically significant increase (compared to expected rates based on historical data or published literature) in:
+A trend report must be submitted to Swissmedic within 30 calendar days when the manufacturer identifies a statistically significant increase (compared to expected baseline rates derived from historical post-market data or published literature) in:
 - Non-serious incidents related to a specific device
 - Incidents that could have a significant impact on the benefit-risk balance
 - Near-miss events that are not individually reportable as serious incidents

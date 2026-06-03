@@ -6,7 +6,7 @@ keywords: [risk management, ISO 14971, MedDO, risk management file, Switzerland]
 # Risk Management (ISO 14971)
 
 ## Overview
-Risk management is mandatory for all medical devices under MedDO Annex I §§ 1–9. **ISO 14971:2019** is the harmonised standard providing the accepted methodology. Risk management is a lifecycle activity — not a one-time documentation exercise.
+Risk management is mandatory for all medical devices under MedDO Annex I §§ 1–9. **ISO 14971:2019** is the harmonised standard providing the accepted methodology. Risk management is a lifecycle activity — not a one-time documentation continuous, integrated throughout design, production, and post-market phases exercise performed before market placement.
 
 ## Risk Management File (RMF)
 The RMF documents all risk management activities for a specific device. It must be updated when: new hazards are identified post-market; the device design or intended purpose changes; new clinical evidence affects the known risk profile; an FSCA or serious incident reveals a previously unrecognised risk.
@@ -28,3 +28,5 @@ Risk management integrates with: IEC 62304 (software lifecycle); ISO 10993 (biol
 :::warning Disclaimer
 AI-assisted content for navigation only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
 :::
+
+Risk acceptance criteria must be established at the beginning of the risk management process and documented in the Risk Management File. These criteria define the threshold above which risks are considered unacceptable and must be reduced.

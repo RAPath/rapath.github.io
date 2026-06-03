@@ -46,3 +46,5 @@ Health Canada shares compliance intelligence with:
 A compliance action by one jurisdiction may trigger surveillance in others.
 
 > **Legislative source:** Food and Drugs Act, RSC 1985, c F-27, ss 21–32 (enforcement)
+
+Under Section 21 of the Food and Drugs Act (FDA), Health Canada may order a person to stop selling a device if it presents a risk of injury to health. A stop-sale order is published publicly.

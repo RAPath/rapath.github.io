@@ -25,7 +25,7 @@ Importers must hold a valid AFE, hold the product registration, appoint a Respon
 The *Responsável Técnico* (RT) is a legally mandated role unique to Brazilian health surveillance law. Every company that manufactures, imports, or distributes medical devices must appoint an RT registered with the relevant professional council (*CRM, CRF, CREA,* etc.).
 :::
 
-The RT is personally responsible for technical decisions about product quality and compliance, signing ANVISA submissions, ensuring NOTIVISA reports are submitted, and representing the company in ANVISA inspections.
+The RT is personally responsible for technical decisions about product quality and compliance, signing ANVISA submissions, ensuring NOTIVISA reports are submitted, and may represent The RT's signature on ANVISA documents constitutes personal legal accountability. the company in ANVISA inspections.
 
 ## Distributors & wholesalers
 
@@ -38,3 +38,5 @@ Hospitals, clinics and laboratories are classified as user facilities and must r
 ## Official resources
 
 - [ANVISA — Responsável Técnico](https://www.gov.br/anvisa/pt-br/assuntos/produtossaude/produtos-para-saude/responsavel-tecnico)
+
+## Importers

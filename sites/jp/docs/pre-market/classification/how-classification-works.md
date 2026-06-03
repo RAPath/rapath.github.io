@@ -37,3 +37,5 @@ For novel or borderline devices where no JMDN code exists or where the intended 
 ## Reclassification
 
 MHLW can reclassify device categories — moving a device type from one class to another — through amendment of the Cabinet Order. This has happened for certain IVD categories and some SaMD types as new evidence emerged. Reclassification affects existing approvals and certifications, and MAHs are required to transition to the new pathway within MHLW-specified timeframes.
+
+When MHLW reclassifies a device category, existing holders of approvals or certifications under the old class are typically granted a transition period (often 6–24 months) to comply with the new pathway requirements. During this period, MAHs may apply for new approval/certification under the new pathway before the old pathway closes.

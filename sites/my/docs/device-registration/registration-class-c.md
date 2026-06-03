@@ -69,3 +69,5 @@ If relying on equivalence to an already-marketed device, MDA requires demonstrat
 3. Biological equivalence (same materials in contact with body)
 Full access to the equivalent device's technical documentation is typically required.
 :::
+
+Obtain the current list of MDA-recognised Conformity Assessment Bodies from the MDA website (www.mda.gov.my). Provide your CAB with a full technical summary and design documentation at the initial briefing so they can estimate their review timeline. For complex Class C devices, allocate 4–6 months for CAB review. Many CABs will provide a preliminary feedback meeting before formal assessment to help you address potential gaps.

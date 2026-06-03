@@ -146,3 +146,5 @@ The PSUR cannot be completed without the **PMCF evaluation report** (MDR) or **P
 | MDR Annex III | Post-market technical documentation |
 | MDCG 2022-21 | PSUR guidance and template |
 | MDCG 2020-7 | PMCF plan and evaluation report |
+
+Complete the section with: 'The PSUR cannot stand alone as post-market evidence for higher-risk devices. The PSUR must reference and be consistent with the current PMCF/PMPF plan and the most recent evaluation report findings. If PMCF/PMPF data reveals new safety or performance signals, these must be discussed in the PSUR and may trigger changes to the clinical strategy, labelling, or device design. The notified body will review PMCF/PMPF evaluation reports alongside the PSUR to assess whether accumulated post-market evidence continues to support the benefit-risk analysis.'

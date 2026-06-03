@@ -85,3 +85,5 @@ Hospitals that reprocess single-use devices may also have additional obligations
 | Importer (not Sponsor) | Via Sponsor | Should have access | Must cooperate | ✅ Must maintain |
 | Distributor | Via Sponsor | Not directly | Must cooperate | ✅ Must maintain |
 | Healthcare provider / end user | Rarely | Not required | Should report | Depends on role |
+
+"Healthcare providers or organisations that manufacture custom-made devices (such as dental laboratories or orthotics workshops) must either register as a manufacturer with Medsafe or appoint a Sponsor to take legal responsibility for the device. Many small custom manufacturing operations self-sponsor their devices by registering as a New Zealand-based entity."
