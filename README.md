@@ -1,7 +1,7 @@
 # RAPath
 **Medical Device Regulatory Reference — Plain English. Properly sourced.**
 
-RAPath is an independent open-source reference for medical device regulation across 19 jurisdictions. Every page is written in plain English, links back to the authoritative legislative or regulatory source, and is openly available to anyone who needs it.
+RAPath is an independent open-source reference for medical device regulation across 24 jurisdictions. Every page is written in plain English, links back to the authoritative legislative or regulatory source, and is openly available to anyone who needs it.
 
 🌐 [rapath.github.io](https://rapath.github.io)
 
