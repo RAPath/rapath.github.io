@@ -1,15 +1,19 @@
 name: Regulatory Feed (Project 2)
 
+# Cron DISABLED — manual trigger only until feed is ready for production
 on:
-  schedule:
-    - cron: "0 2 * * *"   # runs daily at 2:00 AM UTC (1 hour after audit)
-  workflow_dispatch:        # also allows manual trigger
+  workflow_dispatch:
+    inputs:
+      jurisdiction:
+        description: "Single jurisdiction to run (leave blank for all 24)"
+        required: false
+        default: ""
 
 jobs:
   feed:
     runs-on: ubuntu-latest
     permissions:
-      issues: write         # needed to create GitHub Issues
+      issues: write
       contents: read
     steps:
       - name: Checkout repo
@@ -27,6 +31,7 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           GITHUB_TOKEN:      ${{ secrets.GITHUB_TOKEN }}
+          RUN_JURISDICTION:  ${{ github.event.inputs.jurisdiction }}
         run: |
           cd automation
           python feed_runner.py

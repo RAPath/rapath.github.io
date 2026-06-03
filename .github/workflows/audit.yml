@@ -1,9 +1,7 @@
 name: Website Audit (Project 1)
 
 on:
-  schedule:
-    - cron: "0 1 * * *"   # runs daily at 1:00 AM UTC
-  workflow_dispatch:        # also allows manual trigger from GitHub Actions tab
+  workflow_dispatch:   # manual trigger only — runs all 24 jurisdictions
 
 jobs:
   audit:
@@ -20,11 +18,11 @@ jobs:
       - name: Install dependencies
         run: pip install -r automation/requirements.txt
 
-      - name: Run audit
+      - name: Run audit — all 24 jurisdictions
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          GITHUB_TOKEN:      ${{ secrets.AUDIT_PAT }}   # PAT needed to write to private repo
           AUDIT_PAT:         ${{ secrets.AUDIT_PAT }}
+          RUN_ALL:           "true"
         run: |
           cd automation
           python audit_runner.py
