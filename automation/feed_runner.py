@@ -1,98 +1,153 @@
 # =============================================================================
-# feed_runner.py — Project 2: Regulatory News Feed (GitHub Actions)
+# feed_runner.py — Regulatory Updates Tracker (GitHub Actions)
 # =============================================================================
 # Scrapes ALL 24 government sites daily.
 # Extracts new regulatory items via Claude Haiku.
-# Posts each as a GitHub Issue with needs-review label — no duplicates.
+# Saves categorized updates to /updates/ folder in private repo.
+#
+# Categories:
+#   - regulatory-changes/
+#   - consultations/
+#   - reform-tracker/
+#   - key-dates/
 # =============================================================================
+import json
 from datetime import datetime
 from config import JURISDICTIONS
 from scraper import fetch_html, html_to_text, MAX_CHARS_PER_PAGE
 from auditor import extract_feed_items
-from github_client import create_issue
-
-# Maps item type to GitHub label name
-TYPE_LABELS = {
-    "open-consultation": "open-consultation",
-    "upcoming-change":   "upcoming-change",
-    "recent-change":     "recent-change",
-    "key-date":          "key-date",
-    "reform":            "reform"
-}
+from github_client import commit_report_to_private_repo
 
 
-def build_issue_body(item: dict, jurisdiction: str, gov_url: str) -> str:
+def build_update_file(jurisdiction: str, category: str, items: list) -> str:
+    """Build markdown file for a category of updates."""
     today = datetime.utcnow().strftime("%Y-%m-%d")
-    source = item.get("source_url") or gov_url
-    date_str = item.get("date") or "Not specified"
-    item_type = item.get("type", "update").replace("-", " ").title()
+    category_title = category.replace("-", " ").title()
 
-    return f"""## {item.get('title', 'Regulatory Update')}
-
-**Jurisdiction:** {jurisdiction}
-**Type:** {item_type}
-**Date:** {date_str}
-**Source:** {source}
-
-### Summary
-{item.get('summary', 'No summary available.')}
+    md = f"""# {category_title} — {jurisdiction}
+**Date:** {today}
 
 ---
-> ⚠️ **Needs Review** — This item was identified by an automated system using Claude Haiku.
-> Please verify against the source URL above before removing the `needs-review` label.
->
-> _Detected: {today} | RAPath Regulatory Feed_
+
 """
 
+    if not items:
+        md += "_No items found._\n"
+        return md
 
-def process_jurisdiction(name: str, urls: dict) -> int:
-    """Scrape gov site and post new items as issues. Returns count of new issues created."""
+    for i, item in enumerate(items, 1):
+        md += f"## {i}. {item.get('title', 'Update')}\n\n"
+        md += f"**Summary:** {item.get('summary', 'No summary available.')}\n\n"
+
+        if "deadline" in item and item["deadline"]:
+            md += f"**Deadline:** {item['deadline']}\n\n"
+
+        if "date" in item and item["date"]:
+            md += f"**Date:** {item['date']}\n\n"
+
+        if "status" in item and item["status"]:
+            md += f"**Status:** {item['status']}\n\n"
+
+        source = item.get("source_url", "")
+        if source:
+            md += f"**Source:** {source}\n\n"
+
+        md += "---\n\n"
+
+    return md
+
+
+def process_jurisdiction(name: str, urls: dict) -> dict:
+    """
+    Scrape gov site and extract regulatory updates.
+    Returns dict of {category: [items]}.
+    """
     gov_url = urls["gov_url"]
     print(f"\n  [{name}] Fetching: {gov_url}")
 
     html = fetch_html(gov_url)
     if not html:
         print(f"  [{name}] Could not fetch gov site — skipping")
-        return 0
+        return {
+            "regulatory-changes": [],
+            "consultations": [],
+            "reform-tracker": [],
+            "key-dates": []
+        }
 
-    gov_text = html_to_text(html)[:MAX_CHARS_PER_PAGE * 3]  # allow more text for gov sites
+    gov_text = html_to_text(html)[:MAX_CHARS_PER_PAGE * 3]
     print(f"  [{name}] Extracting regulatory items via Claude...")
 
-    items = extract_feed_items(name, gov_text)
-    print(f"  [{name}] Found {len(items)} item(s)")
+    updates = extract_feed_items(name, gov_text)
 
-    created = 0
-    for item in items:
-        title = f"[{name}] {item.get('title', 'Regulatory Update')}"
-        item_type = item.get("type", "recent-change")
-        type_label = TYPE_LABELS.get(item_type, "recent-change")
+    # Map extracted keys to category folder names
+    mapped = {
+        "regulatory-changes": updates.get("regulatory_changes", []),
+        "consultations": updates.get("consultations", []),
+        "reform-tracker": updates.get("reform_tracker", []),
+        "key-dates": updates.get("key_dates", [])
+    }
 
-        labels = [
-            "regulatory-feed",   # marks all auto-posted items
-            "needs-review",      # your quality gate — remove when verified
-            type_label,          # open-consultation / upcoming-change / etc.
-            name                 # jurisdiction label e.g. "Australia (TGA)"
-        ]
+    total = sum(len(items) for items in mapped.values())
+    print(f"  [{name}] Found {total} item(s)")
 
-        body = build_issue_body(item, name, gov_url)
-        issue = create_issue(title=title, body=body, labels=labels)
-        if issue:
-            created += 1
+    return mapped
 
-    return created
+
+def commit_updates_to_repo(jurisdiction: str, updates: dict):
+    """Commit categorized updates to private repo."""
+    today = datetime.utcnow().strftime("%Y-%m-%d")
+    slug = jurisdiction.lower().replace(" ", "-").replace("(", "").replace(")", "")
+
+    for category, items in updates.items():
+        if not items:
+            continue
+
+        # Build markdown file
+        md_content = build_update_file(jurisdiction, category, items)
+
+        # Build JSON file
+        json_data = {
+            "jurisdiction": jurisdiction,
+            "date": today,
+            "category": category,
+            "items": items
+        }
+        json_content = json.dumps(json_data, indent=2)
+
+        # Commit markdown
+        md_filename = f"updates/{category}/pending/{today}-{slug}.md"
+        commit_report_to_private_repo(
+            filename=md_filename,
+            content=md_content,
+            message=f"Updates: {jurisdiction} {category} — {today}"
+        )
+
+        # Commit JSON
+        json_filename = f"updates/{category}/pending/{today}-{slug}.json"
+        commit_report_to_private_repo(
+            filename=json_filename,
+            content=json_content,
+            message=f"Updates: {jurisdiction} {category} (JSON) — {today}"
+        )
 
 
 def main():
     today = datetime.utcnow().strftime("%Y-%m-%d")
-    print(f"RAPath Regulatory Feed — {today}")
+    print(f"RAPath Regulatory Updates — {today}")
     print(f"Processing {len(JURISDICTIONS)} jurisdictions...\n")
 
-    total_created = 0
+    total_items = 0
     for name, urls in JURISDICTIONS.items():
-        count = process_jurisdiction(name, urls)
-        total_created += count
+        updates = process_jurisdiction(name, urls)
+        count = sum(len(items) for items in updates.values())
+        total_items += count
 
-    print(f"\nDone. {total_created} new issue(s) created across all jurisdictions.")
+        # Commit to private repo
+        if count > 0:
+            commit_updates_to_repo(name, updates)
+
+    print(f"\nDone. {total_items} update(s) found and committed across all jurisdictions.")
 
 
 if __name__ == "__main__":

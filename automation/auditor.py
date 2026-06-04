@@ -118,40 +118,45 @@ def audit_jurisdiction(jurisdiction: str, pages: dict[str, str]) -> dict:
     return merged
 
 
-def extract_feed_items(jurisdiction: str, gov_text: str) -> list[dict]:
+def suggest_new_content(jurisdiction: str, audit_findings: dict) -> list[dict]:
     """
-    Ask Claude to extract regulatory update items from a government page.
-    Returns a list of structured items for Project 2.
+    Ask Claude to suggest new pages/sections that should be added to RAPath
+    based on audit findings (gaps, missing info, etc).
     """
-    prompt = f"""You are reviewing the official government regulatory website for {jurisdiction} (medical devices).
+    content_gaps = audit_findings.get("content_updates", [])
+    if not content_gaps:
+        return []
 
-WEBSITE CONTENT:
-{gov_text}
+    gaps_text = "\n".join([
+        f"- {item.get('page', 'Unknown')}: {item.get('issue', 'Gap identified')}"
+        for item in content_gaps if isinstance(item, dict)
+    ])
 
-Extract all items that are relevant to medical device regulation. Look for:
-- Open consultations or public comment periods
-- Upcoming regulatory changes or deadlines
-- Recent regulatory changes or new guidance
-- Key dates or implementation timelines
-- Reform announcements
+    prompt = f"""You are a medical device regulatory content strategist for {jurisdiction}.
 
-Return a JSON array. Each item must have these exact fields:
+Based on these identified content gaps in the RAPath website:
+{gaps_text}
+
+Suggest new pages or major sections that should be added to cover these gaps comprehensively.
+
+Return a JSON array. Each suggestion must have these exact fields:
 [
   {{
-    "title": "Short descriptive title of the item",
-    "type": "one of: open-consultation | upcoming-change | recent-change | key-date | reform",
-    "summary": "2-3 sentence plain English summary of what this is and why it matters",
-    "source_url": "direct URL to the item if visible, otherwise the gov page URL",
-    "date": "date mentioned if available, otherwise null"
+    "page_title": "Short title for the new page or section",
+    "topic": "Main topic it covers",
+    "why_needed": "Why this gap exists and why filling it matters",
+    "draft_outline": "Bullet-point outline of what the page should cover",
+    "regulatory_reference": "Link to authoritative source document or regulation",
+    "suggested_location": "Where in site structure it should live (e.g., /docs/timelines, /docs/requirements)"
   }}
 ]
 
-Only include items clearly related to medical devices or in vitro diagnostics.
-If nothing relevant is found return an empty array [].
+Only suggest content that is directly supported by regulatory sources.
+If no new content is needed, return [].
 Return ONLY valid JSON."""
 
     raw = _call_claude(
-        "You are a medical device regulatory intelligence analyst. Extract structured data from regulatory websites and return only valid JSON.",
+        "You are a medical device regulatory content strategist. Suggest new content pages based on identified gaps.",
         prompt
     )
     try:
@@ -164,3 +169,80 @@ Return ONLY valid JSON."""
         return result if isinstance(result, list) else []
     except Exception:
         return []
+
+
+def extract_feed_items(jurisdiction: str, gov_text: str) -> dict:
+    """
+    Ask Claude to extract regulatory update items from a government page.
+    Returns structured dict with categories: regulatory_changes, consultations, reform_tracker, key_dates.
+    """
+    prompt = f"""You are reviewing the official government regulatory website for {jurisdiction} (medical devices).
+
+WEBSITE CONTENT:
+{gov_text}
+
+Extract all items relevant to medical device regulation and categorize them.
+
+Return a JSON object with these exact keys:
+{{
+  "regulatory_changes": [
+    {{
+      "title": "Change title",
+      "summary": "2-3 sentence summary",
+      "source_url": "URL or gov page URL",
+      "date": "date mentioned or null"
+    }}
+  ],
+  "consultations": [
+    {{
+      "title": "Consultation title",
+      "summary": "2-3 sentence summary",
+      "deadline": "public comment deadline or null",
+      "source_url": "URL"
+    }}
+  ],
+  "reform_tracker": [
+    {{
+      "title": "Reform announcement",
+      "summary": "2-3 sentence summary",
+      "status": "announced | in-development | pending-implementation",
+      "source_url": "URL"
+    }}
+  ],
+  "key_dates": [
+    {{
+      "date": "YYYY-MM-DD or null",
+      "milestone": "What happens on this date",
+      "jurisdiction_relevant": true
+    }}
+  ]
+}}
+
+Only include items clearly related to medical devices or in vitro diagnostics.
+Return empty arrays [] for categories with no items.
+Return ONLY valid JSON."""
+
+    raw = _call_claude(
+        "You are a medical device regulatory intelligence analyst. Extract and categorize regulatory updates from websites. Return only valid JSON.",
+        prompt
+    )
+    try:
+        clean = raw.strip()
+        if clean.startswith("```"):
+            clean = clean.split("```")[1]
+            if clean.startswith("json"):
+                clean = clean[4:]
+        result = json.loads(clean.strip())
+        return result if isinstance(result, dict) else {
+            "regulatory_changes": [],
+            "consultations": [],
+            "reform_tracker": [],
+            "key_dates": []
+        }
+    except Exception:
+        return {
+            "regulatory_changes": [],
+            "consultations": [],
+            "reform_tracker": [],
+            "key_dates": []
+        }
