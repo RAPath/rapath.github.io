@@ -1,0 +1,60 @@
+# robots.txt — RAPath eu
+# https://rapath.github.io/eu/
+
+# ——— Search engines ———
+User-agent: Googlebot
+User-agent: Googlebot-Image
+User-agent: Googlebot-Video
+User-agent: Bingbot
+User-agent: Slurp
+User-agent: DuckDuckBot
+User-agent: Baiduspider
+User-agent: YandexBot
+User-agent: facebot
+User-agent: ia_archiver
+Allow: /
+
+# ——— OpenAI ———
+User-agent: GPTBot
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+Allow: /
+
+# ——— Anthropic (Claude) ———
+User-agent: ClaudeBot
+User-agent: Claude-User
+User-agent: Claude-SearchBot
+Allow: /
+
+# ——— Perplexity ———
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+Allow: /
+
+# ——— Google AI ———
+User-agent: Google-Extended
+User-agent: GoogleOther
+User-agent: Google-CloudVertexBot
+User-agent: Google-NotebookLM
+Allow: /
+
+# ——— Meta ———
+User-agent: meta-externalagent
+User-agent: meta-externalfetcher
+Allow: /
+
+# ——— Other AI crawlers ———
+User-agent: Amazonbot
+User-agent: Applebot
+User-agent: Applebot-Extended
+User-agent: DuckAssistBot
+User-agent: MistralAI-User
+User-agent: CCBot
+User-agent: cohere-ai
+Allow: /
+
+# ——— Catch-all ———
+User-agent: *
+Allow: /
+
+Sitemap: https://rapath.github.io/eu/sitemap.xml
