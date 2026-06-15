@@ -171,15 +171,73 @@ Return ONLY valid JSON."""
         return []
 
 
-def extract_feed_items(jurisdiction: str, gov_text: str) -> dict:
+def _filter_homepage_urls(items: list, homepage_url: str) -> list:
+    """
+    Post-processing safety net: replace source_url with null if it equals
+    the homepage, is not a valid http URL, or is a plain text label.
+    Items with null source_url are flagged for manual review before publishing.
+    """
+    homepage = homepage_url.rstrip("/")
+    for item in items:
+        if not isinstance(item, dict):
+            continue
+        url = item.get("source_url", "")
+        if not isinstance(url, str):
+            item["source_url"] = None
+            continue
+        url_clean = url.rstrip("/")
+        if (
+            not url_clean
+            or not url_clean.startswith("http")
+            or url_clean == homepage
+        ):
+            item["source_url"] = None
+    return items
+
+
+def extract_feed_items(jurisdiction: str, gov_text: str,
+                       page_links: list | None = None,
+                       homepage_url: str | None = None) -> dict:
     """
     Ask Claude to extract regulatory update items from a government page.
-    Returns structured dict with categories: regulatory_changes, consultations, reform_tracker, key_dates.
+    Returns structured dict with categories: regulatory_changes, consultations,
+    reform_tracker, key_dates.
+
+    Args:
+        jurisdiction:  Jurisdiction name (e.g. "Australia (TGA)")
+        gov_text:      Plain text of the government page
+        page_links:    Real URLs extracted from page HTML — Claude must pick
+                       source_url values from this list only
+        homepage_url:  The gov homepage URL — used to null out fallback URLs
     """
+    empty = {
+        "regulatory_changes": [],
+        "consultations": [],
+        "reform_tracker": [],
+        "key_dates": []
+    }
+
+    # Build the links hint block for the prompt
+    if page_links:
+        sample = page_links[:60]
+        links_block = (
+            "\n\nAVAILABLE PAGE LINKS (extracted from the live page):\n"
+            + "\n".join(f"- {u}" for u in sample)
+            + "\n\nIMPORTANT: For source_url you MUST use one of the URLs above "
+            "that best matches each item. Do NOT use the homepage URL. "
+            "If no specific link matches an item, set source_url to null."
+        )
+    else:
+        links_block = (
+            "\n\nIMPORTANT: source_url must be the direct URL to the specific "
+            "item — NOT the site homepage. If you cannot identify a specific "
+            "URL for an item, set source_url to null."
+        )
+
     prompt = f"""You are reviewing the official government regulatory website for {jurisdiction} (medical devices).
 
 WEBSITE CONTENT:
-{gov_text}
+{gov_text}{links_block}
 
 Extract all items relevant to medical device regulation and categorize them.
 
@@ -187,45 +245,49 @@ Return a JSON object with these exact keys:
 {{
   "regulatory_changes": [
     {{
-      "title": "Change title",
-      "summary": "2-3 sentence summary",
-      "source_url": "URL or gov page URL",
-      "date": "date mentioned or null"
+      "title": "Specific descriptive title — must name the regulation, device type, or requirement",
+      "summary": "2-3 sentence summary naming the specific device type, regulation, or requirement — no generic language",
+      "source_url": "Direct URL from the links list above, or null if not found",
+      "date": "YYYY-MM-DD if explicitly stated in content, or null — do NOT estimate"
     }}
   ],
   "consultations": [
     {{
       "title": "Consultation title",
       "summary": "2-3 sentence summary",
-      "deadline": "public comment deadline or null",
-      "source_url": "URL"
+      "deadline": "YYYY-MM-DD deadline if explicitly stated, or null — do NOT invent a date",
+      "source_url": "Direct URL from the links list above, or null"
     }}
   ],
   "reform_tracker": [
     {{
-      "title": "Reform announcement",
+      "title": "Reform announcement title",
       "summary": "2-3 sentence summary",
       "status": "announced | in-development | pending-implementation",
-      "source_url": "URL"
+      "source_url": "Direct URL from the links list above, or null"
     }}
   ],
   "key_dates": [
     {{
-      "date": "YYYY-MM-DD or null",
+      "date": "YYYY-MM-DD — only include if a real specific date is stated in the content",
       "milestone": "What happens on this date",
       "jurisdiction_relevant": true
     }}
   ]
 }}
 
-Only include items clearly related to medical devices or in vitro diagnostics.
-Return empty arrays [] for categories with no items.
-Return ONLY valid JSON."""
+Rules:
+- Only include items clearly related to medical devices or in vitro diagnostics
+- Titles must be specific — never generic like "Medical Device Alert" without naming the device
+- Dates must come from the page content — do NOT estimate or invent any date
+- Return empty arrays [] for categories with no items
+- Return ONLY valid JSON"""
 
     raw = _call_claude(
         "You are a medical device regulatory intelligence analyst. Extract and categorize regulatory updates from websites. Return only valid JSON.",
         prompt
     )
+
     try:
         clean = raw.strip()
         if clean.startswith("```"):
@@ -233,16 +295,16 @@ Return ONLY valid JSON."""
             if clean.startswith("json"):
                 clean = clean[4:]
         result = json.loads(clean.strip())
-        return result if isinstance(result, dict) else {
-            "regulatory_changes": [],
-            "consultations": [],
-            "reform_tracker": [],
-            "key_dates": []
-        }
+        if not isinstance(result, dict):
+            return empty
     except Exception:
-        return {
-            "regulatory_changes": [],
-            "consultations": [],
-            "reform_tracker": [],
-            "key_dates": []
-        }
+        return empty
+
+    # Post-process: null out homepage/invalid source URLs
+    if homepage_url:
+        for key in ("regulatory_changes", "consultations", "reform_tracker"):
+            result[key] = _filter_homepage_urls(
+                result.get(key, []), homepage_url
+            )
+
+    return result

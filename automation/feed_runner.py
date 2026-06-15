@@ -14,7 +14,7 @@
 import json
 from datetime import datetime
 from config import JURISDICTIONS
-from scraper import fetch_html, html_to_text, MAX_CHARS_PER_PAGE
+from scraper import fetch_html, html_to_text, extract_links, MAX_CHARS_PER_PAGE
 from auditor import extract_feed_items
 from github_client import commit_report_to_private_repo
 
@@ -48,9 +48,11 @@ def build_update_file(jurisdiction: str, category: str, items: list) -> str:
         if "status" in item and item["status"]:
             md += f"**Status:** {item['status']}\n\n"
 
-        source = item.get("source_url", "")
+        source = item.get("source_url") or None
         if source:
-            md += f"**Source:** {source}\n\n"
+            md += f"**Source:** [{source}]({source})\n\n"
+        else:
+            md += "**Source:** ⚠️ _URL not found — manual review required before publishing_\n\n"
 
         md += "---\n\n"
 
@@ -76,9 +78,12 @@ def process_jurisdiction(name: str, urls: dict) -> dict:
         }
 
     gov_text = html_to_text(html)[:MAX_CHARS_PER_PAGE * 3]
-    print(f"  [{name}] Extracting regulatory items via Claude...")
 
-    updates = extract_feed_items(name, gov_text)
+    # Extract real links from the raw HTML so Claude can assign accurate source URLs
+    page_links = extract_links(html, gov_url)
+    print(f"  [{name}] Found {len(page_links)} page link(s) — passing to Claude...")
+
+    updates = extract_feed_items(name, gov_text, page_links=page_links, homepage_url=gov_url)
 
     # Map extracted keys to category folder names
     mapped = {

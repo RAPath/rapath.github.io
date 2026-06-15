@@ -33,6 +33,45 @@ def html_to_text(html: str) -> str:
     return "\n".join(lines)
 
 
+def extract_links(html: str, base_url: str) -> list[str]:
+    """Extract all meaningful <a href> links from raw HTML.
+
+    Returns a deduplicated list of absolute URLs, excluding anchors,
+    mailto/tel links, and the base homepage itself.
+    """
+    from urllib.parse import urljoin, urlparse
+
+    soup = BeautifulSoup(html, "html.parser")
+    seen = set()
+    links = []
+
+    base_domain = urlparse(base_url).netloc
+
+    for tag in soup.find_all("a", href=True):
+        href = tag["href"].strip()
+
+        # Skip non-http links and anchors
+        if not href or href.startswith(("#", "mailto:", "tel:", "javascript:")):
+            continue
+
+        # Make absolute
+        absolute = urljoin(base_url, href)
+        parsed = urlparse(absolute)
+
+        # Keep only same-domain http(s) links with a real path
+        if parsed.scheme not in ("http", "https"):
+            continue
+        if parsed.netloc != base_domain:
+            continue
+        # Strip query/fragment for dedup, but keep the full URL
+        clean = absolute.split("#")[0].rstrip("/")
+        if clean and clean not in seen and clean != base_url.rstrip("/"):
+            seen.add(clean)
+            links.append(clean)
+
+    return links
+
+
 def parse_sitemap(sitemap_url: str) -> list[str]:
     html = fetch_html(sitemap_url)
     if not html:
