@@ -12,7 +12,7 @@ const communityFooterColumn = {
   items: [
     { label: 'Q&A Discussions', href: 'https://github.com/orgs/RAPath/discussions' },
     { label: 'Report an Error', href: 'https://github.com/orgs/RAPath/discussions/new?category=corrections' },
-    { label: 'GitHub', href: 'https://github.com/RAPath/rapath.org' },
+    { label: 'GitHub', href: 'https://github.com/RAPath/rapath.github.io' },
   ],
 };
 
@@ -149,7 +149,7 @@ export function buildSiteConfig(params: SiteParams): Config {
             position: 'right',
           },
           {
-            href: params.githubRepo ?? 'https://github.com/RAPath/rapath.org',
+            href: params.githubRepo ?? 'https://github.com/RAPath/rapath.github.io',
             label: 'GitHub',
             position: 'right',
           },

@@ -75,7 +75,7 @@ const config: Config = {
           label: "🔍 Regulatory Tools",
           position: "right",
         },
-        { href: 'https://github.com/RAPath/rapath.org', label: 'GitHub', position: 'right' },
+        { href: 'https://github.com/RAPath/rapath.github.io', label: 'GitHub', position: 'right' },
       ],
     },
     footer: {
