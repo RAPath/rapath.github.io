@@ -188,7 +188,7 @@ export default function Home(): ReactNode {
             </Link>
             <Link
               className="button button--secondary button--lg margin-right--sm margin-bottom--sm"
-              href="https://github.com/RAPath/rapath.github.io"
+              href="https://github.com/RAPath/rapath.org"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -350,7 +350,7 @@ export default function Home(): ReactNode {
             </Link>
             <Link
               className="button button--secondary button--lg margin-bottom--sm"
-              href="https://github.com/RAPath/rapath.github.io"
+              href="https://github.com/RAPath/rapath.org"
             >
               GitHub Organisation ↗
             </Link>

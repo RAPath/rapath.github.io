@@ -41,4 +41,4 @@ The Drug and Cosmetics Act 2023 explicitly classifies **software** as a medical 
 :::
 
 ---
-*Part of the [RAPath](https://rapath.github.io/) suite — medical device regulatory reference.*
+*Part of the [RAPath](https://rapath.org/) suite — medical device regulatory reference.*

@@ -37,4 +37,4 @@ The Philippines regulates medical devices through the **Center for Device Regula
 - **[Guidance & Resources](/guidance-resources/overview)** — CSDT templates, fee schedule, administrative orders index
 
 ---
-*Part of the [RAPath](https://rapath.github.io/) suite.*
+*Part of the [RAPath](https://rapath.org/) suite.*

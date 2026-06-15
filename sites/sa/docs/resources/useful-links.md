@@ -38,13 +38,13 @@ Key documents to download:
 
 ## RAPath suite
 
-- [RAPath Hub](https://rapath.github.io/) — all jurisdiction sites
-- [Australia (TGA)](https://rapath.github.io/au/)
-- [European Union (MDR/IVDR)](https://rapath.github.io/eu/)
-- [Canada (Health Canada)](https://rapath.github.io/hc/)
-- [Singapore (HSA)](https://rapath.github.io/sg/)
-- [United Kingdom (MHRA)](https://rapath.github.io/uk/)
-- [United States (FDA)](https://rapath.github.io/us/)
+- [RAPath Hub](https://rapath.org/) — all jurisdiction sites
+- [Australia (TGA)](https://rapath.org/au/)
+- [European Union (MDR/IVDR)](https://rapath.org/eu/)
+- [Canada (Health Canada)](https://rapath.org/hc/)
+- [Singapore (HSA)](https://rapath.org/sg/)
+- [United Kingdom (MHRA)](https://rapath.org/uk/)
+- [United States (FDA)](https://rapath.org/us/)
 
 :::info Disclaimer
 External links are provided for reference only. RAPath does not control the content of external sites. Always verify that you are using the most current version of any SFDA guidance document.

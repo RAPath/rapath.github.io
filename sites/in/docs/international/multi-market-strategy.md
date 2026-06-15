@@ -7,7 +7,7 @@ keywords: [international, India, IMDRF, SAARC, MRA, multi-market, comparison]
 
 # Multi Market Strategy
 
-> **Official sources:** [IMDRF](https://www.imdrf.org); [CDSCO](https://cdsco.gov.in); [RAPath AU](https://rapath.github.io/au/); [RAPath EU](https://rapath.github.io/eu/); [RAPath US](https://rapath.github.io/us/)
+> **Official sources:** [IMDRF](https://www.imdrf.org); [CDSCO](https://cdsco.gov.in); [RAPath AU](https://rapath.org/au/); [RAPath EU](https://rapath.org/eu/); [RAPath US](https://rapath.org/us/)
 
 Add main content section:
 

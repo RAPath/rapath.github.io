@@ -62,13 +62,13 @@ External links are provided for reference only. RAPath does not control external
 
 | Jurisdiction | URL |
 |---|---|
-| Australia (TGA) | [rapath.github.io/au](https://rapath.github.io/au/) |
-| EU (MDR/IVDR) | [rapath.github.io/eu](https://rapath.github.io/eu/) |
-| Canada (Health Canada) | [rapath.github.io/hc](https://rapath.github.io/hc/) |
-| Singapore (HSA) | [rapath.github.io/sg](https://rapath.github.io/sg/) |
-| UK (MHRA) | [rapath.github.io/uk](https://rapath.github.io/uk/) |
-| USA (FDA) | [rapath.github.io/us](https://rapath.github.io/us/) |
-| RAPath Hub | [rapath.github.io](https://rapath.github.io/) |
+| Australia (TGA) | [rapath.org/au](https://rapath.org/au/) |
+| EU (MDR/IVDR) | [rapath.org/eu](https://rapath.org/eu/) |
+| Canada (Health Canada) | [rapath.org/hc](https://rapath.org/hc/) |
+| Singapore (HSA) | [rapath.org/sg](https://rapath.org/sg/) |
+| UK (MHRA) | [rapath.org/uk](https://rapath.org/uk/) |
+| USA (FDA) | [rapath.org/us](https://rapath.org/us/) |
+| RAPath Hub | [rapath.org](https://rapath.org/) |
 
 ---
 

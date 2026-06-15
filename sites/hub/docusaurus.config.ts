@@ -11,10 +11,10 @@ const config: Config = {
 
   // future.v4 / faster intentionally omitted — see packages/theme/src/index.ts
 
-  url: 'https://rapath.github.io',
+  url: 'https://rapath.org',
   baseUrl: '/',
   organizationName: 'RAPath',
-  projectName: 'rapath.github.io',
+  projectName: 'rapath.org',
   trailingSlash: false,
 
   onBrokenLinks: 'warn',
@@ -75,7 +75,7 @@ const config: Config = {
           label: "🔍 Regulatory Tools",
           position: "right",
         },
-        { href: 'https://github.com/RAPath/rapath.github.io', label: 'GitHub', position: 'right' },
+        { href: 'https://github.com/RAPath/rapath.org', label: 'GitHub', position: 'right' },
       ],
     },
     footer: {
@@ -94,8 +94,8 @@ const config: Config = {
           title: 'RAPath',
           items: [
             { label: 'All Jurisdictions', href: '/#jurisdictions' },
-            { label: 'Terms', href: 'https://rapath.github.io/terms' },
-            { label: 'About', href: 'https://rapath.github.io/about' },
+            { label: 'Terms', href: 'https://rapath.org/terms' },
+            { label: 'About', href: 'https://rapath.org/about' },
           ],
         },
       ],

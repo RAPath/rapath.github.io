@@ -62,10 +62,10 @@ FDA 510(k) clearance or PMA approval is accepted as a reference for submissions 
 ---
 
 ## Official resources
-- [RAPath AU — Australia TGA](https://rapath.github.io/au/)
-- [RAPath EU — EU MDR/IVDR](https://rapath.github.io/eu/)
-- [RAPath HC — Health Canada](https://rapath.github.io/hc/)
-- [RAPath SG — Singapore HSA](https://rapath.github.io/sg/)
+- [RAPath AU — Australia TGA](https://rapath.org/au/)
+- [RAPath EU — EU MDR/IVDR](https://rapath.org/eu/)
+- [RAPath HC — Health Canada](https://rapath.org/hc/)
+- [RAPath SG — Singapore HSA](https://rapath.org/sg/)
 - [IMDRF](https://www.imdrf.org)
 
 510(k) predicate devices must have valid FDA 510(k) or PMA clearance in the US market. FDA does not accept predicates that are cleared or approved solely in other countries. The predicate device's regulatory pathway in the US (510(k), PMA, or De Novo) does not need to match the applicant's intended pathway, provided the comparison supports substantial equivalence.

@@ -23,7 +23,7 @@ jobs:
   publish:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout public repo (rapath.github.io)
+      - name: Checkout public repo (rapath.org)
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -61,7 +61,7 @@ jobs:
         if: ${{ github.event.inputs.dry_run != 'true' }}
         run: |
           git config user.name "RAPath Bot"
-          git config user.email "bot@rapath.github.io"
+          git config user.email "bot@rapath.org"
           git add sites/hub/whats-new/
           git diff --staged --quiet || git commit -m "What's New: publish regulatory updates $(date -u +%Y-%m-%d)"
           git push

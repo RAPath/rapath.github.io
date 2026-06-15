@@ -195,7 +195,7 @@ export default function ToolsHub(): JSX.Element {
           or legal advice.<br />
           Always verify requirements with the relevant competent authority before
           making regulatory decisions.<br />
-          Part of RAPath · <a href="https://rapath.github.io/" style={{ color: BLUE }}>rapath.github.io</a>
+          Part of RAPath · <a href="https://rapath.org/" style={{ color: BLUE }}>rapath.org</a>
         </p>
       </div>
     </div>

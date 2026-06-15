@@ -52,11 +52,11 @@ This site provides a plain-English overview of Russian medical device regulation
 - [Ministry of Health](https://minzdrav.gov.ru/)
 - [Federal Law 323-FZ](https://base.garant.ru/12180860/)
 
-Content on this site is community-maintained as part of the [RAPath](https://rapath.github.io/) project.
+Content on this site is community-maintained as part of the [RAPath](https://rapath.org/) project.
 :::
 
 ## About RAPath
 
-RAPath is an open, community-maintained medical device regulatory reference project covering multiple jurisdictions. Browse other jurisdictions at [rapath.github.io](https://rapath.github.io/).
+RAPath is an open, community-maintained medical device regulatory reference project covering multiple jurisdictions. Browse other jurisdictions at [rapath.org](https://rapath.org/).
 
 **Questions or corrections?** Use the [RAPath Hub Discussions](https://github.com/orgs/RAPath/discussions) on GitHub.

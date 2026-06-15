@@ -7,7 +7,7 @@ description: Terms of use, disclaimer, and limitation of liability for RAPath â€
 
 *Last updated: May 2026*
 
-Please read these terms carefully before using any RAPath site. By accessing or using any page on the RAPath network (rapath.github.io and its subpaths), you agree to the terms set out below.
+Please read these terms carefully before using any RAPath site. By accessing or using any page on the RAPath network (rapath.org and its subpaths), you agree to the terms set out below.
 
 ---
 

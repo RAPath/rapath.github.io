@@ -56,14 +56,14 @@ description: Key links for New Zealand medical device regulatory affairs — Med
 
 | Jurisdiction | Link |
 |---|---|
-| Australia (TGA) | [rapath.github.io/au/](https://rapath.github.io/au/) |
-| European Union (MDR/IVDR) | [rapath.github.io/eu/](https://rapath.github.io/eu/) |
-| Canada (Health Canada) | [rapath.github.io/hc/](https://rapath.github.io/hc/) |
-| Singapore (HSA) | [rapath.github.io/sg/](https://rapath.github.io/sg/) |
-| United Kingdom (MHRA) | [rapath.github.io/uk/](https://rapath.github.io/uk/) |
-| United States (FDA) | [rapath.github.io/us/](https://rapath.github.io/us/) |
-| New Zealand (Medsafe) | [rapath.github.io/nz/](https://rapath.github.io/nz/) |
-| RAPath Hub | [rapath.github.io/](https://rapath.github.io/) |
+| Australia (TGA) | [rapath.org/au/](https://rapath.org/au/) |
+| European Union (MDR/IVDR) | [rapath.org/eu/](https://rapath.org/eu/) |
+| Canada (Health Canada) | [rapath.org/hc/](https://rapath.org/hc/) |
+| Singapore (HSA) | [rapath.org/sg/](https://rapath.org/sg/) |
+| United Kingdom (MHRA) | [rapath.org/uk/](https://rapath.org/uk/) |
+| United States (FDA) | [rapath.org/us/](https://rapath.org/us/) |
+| New Zealand (Medsafe) | [rapath.org/nz/](https://rapath.org/nz/) |
+| RAPath Hub | [rapath.org/](https://rapath.org/) |
 
 Note: Some Medsafe URLs listed may redirect or have changed. Always verify the current URL by visiting medsafe.govt.nz and navigating to the relevant section. For device enquiries and adverse event reporting, devices@health.govt.nz is the current primary contact point.
 

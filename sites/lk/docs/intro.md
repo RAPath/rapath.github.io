@@ -37,7 +37,7 @@ Sri Lanka regulates medical devices through the **National Medicines Regulatory 
 - **[Special Access](/special-access/exemptions)** — WOR, radiation devices, custom-made devices
 
 ---
-*Part of the [RAPath](https://rapath.github.io/) suite.*
+*Part of the [RAPath](https://rapath.org/) suite.*
 
 Post-Market Requirements
 

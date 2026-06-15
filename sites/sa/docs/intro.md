@@ -51,14 +51,14 @@ The SFDA is a member of the **International Medical Device Regulators Forum (IMD
 
 RAPath provides free, open regulatory reference guides for multiple jurisdictions:
 
-- [Australia (TGA)](https://rapath.github.io/au/)
-- [European Union (EU MDR / IVDR)](https://rapath.github.io/eu/)
-- [Canada (Health Canada)](https://rapath.github.io/hc/)
-- [Singapore (HSA)](https://rapath.github.io/sg/)
-- [United Kingdom (MHRA)](https://rapath.github.io/uk/)
-- [United States (FDA)](https://rapath.github.io/us/)
+- [Australia (TGA)](https://rapath.org/au/)
+- [European Union (EU MDR / IVDR)](https://rapath.org/eu/)
+- [Canada (Health Canada)](https://rapath.org/hc/)
+- [Singapore (HSA)](https://rapath.org/sg/)
+- [United Kingdom (MHRA)](https://rapath.org/uk/)
+- [United States (FDA)](https://rapath.org/us/)
 - **Saudi Arabia (SFDA)** — you are here
 
-Questions, corrections, or contributions? Visit the [RAPath hub](https://rapath.github.io/) or open an issue in the [GitHub repository](https://github.com/rapath).
+Questions, corrections, or contributions? Visit the [RAPath hub](https://rapath.org/) or open an issue in the [GitHub repository](https://github.com/rapath).
 
 In the 'Key concepts at a glance' section, add: 'MDS-G008 — SFDA guidance document covering in vitro diagnostic device classification criteria'

@@ -68,9 +68,9 @@ For most manufacturers targeting 3+ markets, parallel submissions (filing in mul
 
 ## Official resources
 - [FDA — FDA in the Global Marketplace](https://www.fda.gov/international-programs)
-- [RAPath AU — TGA](https://rapath.github.io/au/)
-- [RAPath EU — EU MDR/IVDR](https://rapath.github.io/eu/)
-- [RAPath HC — Health Canada](https://rapath.github.io/hc/)
-- [RAPath SG — HSA](https://rapath.github.io/sg/)
+- [RAPath AU — TGA](https://rapath.org/au/)
+- [RAPath EU — EU MDR/IVDR](https://rapath.org/eu/)
+- [RAPath HC — Health Canada](https://rapath.org/hc/)
+- [RAPath SG — HSA](https://rapath.org/sg/)
 
 Add a new paragraph under 'Strategic sequencing options': 'Post-market data considerations: FDA 510(k) clearances do not typically require post-market clinical follow-up, while EU MDR requires PMCF (post-market clinical follow-up) plans for most Class II and above devices. This means an EU-first strategy requires commitment to long-term data collection, while FDA-first may allow faster market entry with limited post-approval obligations.'

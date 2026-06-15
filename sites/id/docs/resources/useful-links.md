@@ -47,13 +47,13 @@ For regulatory information on other jurisdictions in the RAPath network:
 
 | Jurisdiction | Site |
 |---|---|
-| Australia (TGA) | [rapath.github.io/au](https://rapath.github.io/au) |
-| EU (MDR/IVDR) | [rapath.github.io/eu](https://rapath.github.io/eu) |
-| Canada (Health Canada) | [rapath.github.io/hc](https://rapath.github.io/hc) |
-| Singapore (HSA) | [rapath.github.io/sg](https://rapath.github.io/sg) |
-| UK (MHRA) | [rapath.github.io/uk](https://rapath.github.io/uk) |
-| Malaysia (MDA) | [rapath.github.io/my](https://rapath.github.io/my) |
-| Indonesia (Kemenkes/BPOM) | [rapath.github.io/id](https://rapath.github.io/id) |
+| Australia (TGA) | [rapath.org/au](https://rapath.org/au) |
+| EU (MDR/IVDR) | [rapath.org/eu](https://rapath.org/eu) |
+| Canada (Health Canada) | [rapath.org/hc](https://rapath.org/hc) |
+| Singapore (HSA) | [rapath.org/sg](https://rapath.org/sg) |
+| UK (MHRA) | [rapath.org/uk](https://rapath.org/uk) |
+| Malaysia (MDA) | [rapath.org/my](https://rapath.org/my) |
+| Indonesia (Kemenkes/BPOM) | [rapath.org/id](https://rapath.org/id) |
 
 ---
 

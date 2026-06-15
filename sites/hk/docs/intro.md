@@ -38,4 +38,4 @@ Hong Kong does not yet have a statutory medical device law. A proposed Medical D
 :::
 
 ---
-*Part of the [RAPath](https://rapath.github.io/) suite — medical device regulatory reference.*
+*Part of the [RAPath](https://rapath.org/) suite — medical device regulatory reference.*

@@ -42,7 +42,7 @@ description: Key official links for Russia medical device regulation — Roszdra
 
 | Resource | URL |
 |---|---|
-| **RAPath hub** | [rapath.github.io](https://rapath.github.io/) |
+| **RAPath hub** | [rapath.org](https://rapath.org/) |
 | **Community discussions (GitHub)** | [github.com/RAPath/hub/discussions](https://github.com/RAPath/hub/discussions) |
 | **Contribute or report issues** | [github.com/RAPath/hub](https://github.com/RAPath/hub) |
 

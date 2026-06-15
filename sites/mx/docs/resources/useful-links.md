@@ -39,14 +39,14 @@ description: Official COFEPRIS portals, DOF access, NOM texts, international reg
 
 | Site | URL |
 |---|---|
-| RAPath hub | [rapath.github.io](https://rapath.github.io/) |
-| Australia (TGA) | [rapath.github.io/au/](https://rapath.github.io/au/) |
-| EU (MDR/IVDR) | [rapath.github.io/eu/](https://rapath.github.io/eu/) |
-| Canada (Health Canada) | [rapath.github.io/hc/](https://rapath.github.io/hc/) |
-| Singapore (HSA) | [rapath.github.io/sg/](https://rapath.github.io/sg/) |
-| UK (MHRA) | [rapath.github.io/uk/](https://rapath.github.io/uk/) |
-| USA (FDA) | [rapath.github.io/us/](https://rapath.github.io/us/) |
-| Mexico (COFEPRIS) | [rapath.github.io/mx/](https://rapath.github.io/mx/) |
+| RAPath hub | [rapath.org](https://rapath.org/) |
+| Australia (TGA) | [rapath.org/au/](https://rapath.org/au/) |
+| EU (MDR/IVDR) | [rapath.org/eu/](https://rapath.org/eu/) |
+| Canada (Health Canada) | [rapath.org/hc/](https://rapath.org/hc/) |
+| Singapore (HSA) | [rapath.org/sg/](https://rapath.org/sg/) |
+| UK (MHRA) | [rapath.org/uk/](https://rapath.org/uk/) |
+| USA (FDA) | [rapath.org/us/](https://rapath.org/us/) |
+| Mexico (COFEPRIS) | [rapath.org/mx/](https://rapath.org/mx/) |
 
 Link maintenance: COFEPRIS and Mexican government agencies periodically restructure their web portals. If any link above returns a 404 error, first search for the resource directly on gob.mx/cofepris or dof.gob.mx. If the resource cannot be located, contact COFEPRIS through their official contact form or phone number listed on gob.mx/cofepris for current resource locations.
 

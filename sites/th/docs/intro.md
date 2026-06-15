@@ -38,6 +38,6 @@ Thailand regulates medical devices through the **Medical Device Control Division
 - **[Guidance & Resources](/guidance-resources/overview)** — CSDT templates, timelines, fee schedule
 
 ---
-*Part of the [RAPath](https://rapath.github.io/) suite.*
+*Part of the [RAPath](https://rapath.org/) suite.*
 
 Update the 'Last reviewed' field from 'May 2026' to the actual date the content was last reviewed (e.g., 'May 2024' or another appropriate past date).

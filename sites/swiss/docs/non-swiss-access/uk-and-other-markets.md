@@ -49,8 +49,8 @@ As of 1 January 2024, the transitional period for CE-marked devices has ended. A
 ## Official Sources
 - [MHRA — UK medical devices](https://www.gov.uk/topic/medicines-medical-devices-blood/medical-devices-regulation-safety)
 - [TGA — Australian medical devices](https://www.tga.gov.au/products/medical-devices)
-- [RAPath AU](https://rapath.github.io/au/) — Australian regulatory reference
-- [RAPath EU](https://rapath.github.io/eu/) — EU regulatory reference
+- [RAPath AU](https://rapath.org/au/) — Australian regulatory reference
+- [RAPath EU](https://rapath.org/eu/) — EU regulatory reference
 
 :::warning Disclaimer
 AI-assisted navigation aid only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.

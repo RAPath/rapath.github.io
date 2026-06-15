@@ -12,16 +12,16 @@ const communityFooterColumn = {
   items: [
     { label: 'Q&A Discussions', href: 'https://github.com/orgs/RAPath/discussions' },
     { label: 'Report an Error', href: 'https://github.com/orgs/RAPath/discussions/new?category=corrections' },
-    { label: 'GitHub', href: 'https://github.com/RAPath/rapath.github.io' },
+    { label: 'GitHub', href: 'https://github.com/RAPath/rapath.org' },
   ],
 };
 
 const rapathFooterColumn = {
   title: 'RAPath',
   items: [
-    { label: 'All Jurisdictions', href: 'https://rapath.github.io/#jurisdictions' },
-    { label: 'Terms', href: 'https://rapath.github.io/terms' },
-    { label: 'About', href: 'https://rapath.github.io/about' },
+    { label: 'All Jurisdictions', href: 'https://rapath.org/#jurisdictions' },
+    { label: 'Terms', href: 'https://rapath.org/terms' },
+    { label: 'About', href: 'https://rapath.org/about' },
   ],
 };
 
@@ -74,7 +74,7 @@ export function buildSiteConfig(params: SiteParams): Config {
     favicon: 'favicon.ico',
 
     // future.v4 / faster flags intentionally omitted — see comment in hub config
-    url: 'https://rapath.github.io',
+    url: 'https://rapath.org',
     baseUrl: '/' + params.siteCode + '/',
     organizationName: 'RAPath',
     projectName: params.siteCode,
@@ -136,9 +136,9 @@ export function buildSiteConfig(params: SiteParams): Config {
             position: 'left',
             label: 'Docs',
           },
-          // Search removed — search is on the hub only (rapath.github.io)
+          // Search removed — search is on the hub only (rapath.org)
           {
-            href: 'https://rapath.github.io/tools/',
+            href: 'https://rapath.org/tools/',
             label: '🔍 Regulatory Tools',
             position: 'right',
             target: '_self', 
@@ -149,13 +149,13 @@ export function buildSiteConfig(params: SiteParams): Config {
             position: 'right',
           },
           {
-            href: params.githubRepo ?? 'https://github.com/RAPath/rapath.github.io',
+            href: params.githubRepo ?? 'https://github.com/RAPath/rapath.org',
             label: 'GitHub',
             position: 'right',
           },
           {
             label: 'Home',
-            href: 'https://rapath.github.io/',
+            href: 'https://rapath.org/',
             position: 'right',
           },
         ],

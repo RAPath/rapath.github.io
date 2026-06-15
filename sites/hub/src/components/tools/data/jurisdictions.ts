@@ -35,7 +35,7 @@ export interface Jurisdiction {
 
 export const JURISDICTIONS: Jurisdiction[] = [
   {
-    id:"au", name:"Australia", reg:"TGA", flag:"🇦🇺", url:"https://rapath.github.io/au",
+    id:"au", name:"Australia", reg:"TGA", flag:"🇦🇺", url:"https://rapath.org/au",
     cls:  ["Class I","Class IIa","Class IIb","Class III"],
     route:[
       "Manufacturer declaration of conformity + Sponsor ARTG application — no mandatory audit for standard Class I",
@@ -46,7 +46,7 @@ export const JURISDICTIONS: Jurisdiction[] = [
     time: ["3–6 mo","9–15 mo","15–24 mo","24–36 mo"],
   },
   {
-    id:"eu", name:"European Union", reg:"EU MDR / IVDR", flag:"🇪🇺", url:"https://rapath.github.io/eu",
+    id:"eu", name:"European Union", reg:"EU MDR / IVDR", flag:"🇪🇺", url:"https://rapath.org/eu",
     cls:  ["Class I","Class IIa","Class IIb","Class III"],
     route:[
       "Manufacturer self-certification — Notified Body only for sterile, measuring, or reusable surgical Class I",
@@ -57,7 +57,7 @@ export const JURISDICTIONS: Jurisdiction[] = [
     time: ["6–12 mo","12–24 mo","18–30 mo","24–42 mo"],
   },
   {
-    id:"us", name:"United States", reg:"FDA", flag:"🇺🇸", url:"https://rapath.github.io/us",
+    id:"us", name:"United States", reg:"FDA", flag:"🇺🇸", url:"https://rapath.org/us",
     cls:  ["Class I","Class II","Class II","Class III"],
     route:[
       "510(k) exempt — general controls only; FDA device listing required; ~47% of Class I devices are exempt",
@@ -68,7 +68,7 @@ export const JURISDICTIONS: Jurisdiction[] = [
     time: ["3–6 mo","12–18 mo","18–30 mo","36–60 mo"],
   },
   {
-    id:"ca", name:"Canada", reg:"Health Canada", flag:"🇨🇦", url:"https://rapath.github.io/hc",
+    id:"ca", name:"Canada", reg:"Health Canada", flag:"🇨🇦", url:"https://rapath.org/hc",
     cls:  ["Class I","Class II","Class III","Class IV"],
     route:[
       "MDEL (Medical Device Establishment Licence) only — no device licence required; manufacturer declaration of conformity",
@@ -79,7 +79,7 @@ export const JURISDICTIONS: Jurisdiction[] = [
     time: ["1–3 mo","6–12 mo","12–18 mo","18–36 mo"],
   },
   {
-    id:"uk", name:"United Kingdom", reg:"MHRA", flag:"🇬🇧", url:"https://rapath.github.io/uk",
+    id:"uk", name:"United Kingdom", reg:"MHRA", flag:"🇬🇧", url:"https://rapath.org/uk",
     cls:  ["Class I","Class IIa","Class IIb","Class III"],
     route:[
       "UKCA self-certification + MHRA registration; CE marking accepted until June 2028; UKRP required for non-UK manufacturers",
@@ -90,7 +90,7 @@ export const JURISDICTIONS: Jurisdiction[] = [
     time: ["6–9 mo","12–18 mo","18–24 mo","24–36 mo"],
   },
   {
-    id:"sg", name:"Singapore", reg:"HSA", flag:"🇸🇬", url:"https://rapath.github.io/sg",
+    id:"sg", name:"Singapore", reg:"HSA", flag:"🇸🇬", url:"https://rapath.org/sg",
     cls:  ["Class A","Class B","Class C","Class D"],
     route:[
       "PRISM product listing; many Class A devices exempt under the Product Registration Exemption (PRE) order",
@@ -101,7 +101,7 @@ export const JURISDICTIONS: Jurisdiction[] = [
     time: ["1–3 mo","6–12 mo","12–18 mo","18–24 mo"],
   },
   {
-    id:"jp", name:"Japan", reg:"PMDA / MHLW", flag:"🇯🇵", url:"https://rapath.github.io/jp",
+    id:"jp", name:"Japan", reg:"PMDA / MHLW", flag:"🇯🇵", url:"https://rapath.org/jp",
     cls:  ["Class I","Class II","Class III","Class IV"],
     route:[
       "Todokede — self-notification to PMDA; no technical review; MAH licence and Foreign Manufacturer Registration (FMR) required",
@@ -112,7 +112,7 @@ export const JURISDICTIONS: Jurisdiction[] = [
     time: ["3–6 mo","12–18 mo","18–30 mo","24–36 mo"],
   },
   {
-    id:"ch", name:"Switzerland", reg:"Swissmedic", flag:"🇨🇭", url:"https://rapath.github.io/swiss",
+    id:"ch", name:"Switzerland", reg:"Swissmedic", flag:"🇨🇭", url:"https://rapath.org/swiss",
     cls:  ["Class I","Class IIa","Class IIb","Class III"],
     route:[
       "Manufacturer self-certification + Swissmedic product registration (MedDO Art. 9); mirrors EU MDR Class I requirements",
@@ -123,7 +123,7 @@ export const JURISDICTIONS: Jurisdiction[] = [
     time: ["6–12 mo","12–24 mo","18–30 mo","24–36 mo"],
   },
   {
-    id:"cn", name:"China", reg:"NMPA", flag:"🇨🇳", url:"https://rapath.github.io/cn",
+    id:"cn", name:"China", reg:"NMPA", flag:"🇨🇳", url:"https://rapath.org/cn",
     cls:  ["Class I","Class II","Class II","Class III"],
     route:[
       "Product record filing (备案) — provincial drug authority; no technical review; NMPA agent in China required",
@@ -134,7 +134,7 @@ export const JURISDICTIONS: Jurisdiction[] = [
     time: ["3–6 mo","12–24 mo","18–30 mo","24–48 mo"],
   },
   {
-    id:"in", name:"India", reg:"CDSCO", flag:"🇮🇳", url:"https://rapath.github.io/in",
+    id:"in", name:"India", reg:"CDSCO", flag:"🇮🇳", url:"https://rapath.org/in",
     cls:  ["Class A","Class B","Class C","Class D"],
     route:[
       "SUGAM portal registration via State Licensing Authority (SLA); importer/manufacturer licence required",
@@ -145,7 +145,7 @@ export const JURISDICTIONS: Jurisdiction[] = [
     time: ["3–6 mo","12–18 mo","18–24 mo","24–36 mo"],
   },
   {
-    id:"kr", name:"South Korea", reg:"MFDS", flag:"🇰🇷", url:"https://rapath.github.io/kr",
+    id:"kr", name:"South Korea", reg:"MFDS", flag:"🇰🇷", url:"https://rapath.org/kr",
     cls:  ["Class I","Class II","Class III","Class IV"],
     route:[
       "MFDS notification (신고) — low-risk; Korean Importer or Domestic Responsible Person required",
@@ -156,7 +156,7 @@ export const JURISDICTIONS: Jurisdiction[] = [
     time: ["3–6 mo","6–12 mo","12–24 mo","24–36 mo"],
   },
   {
-    id:"br", name:"Brazil", reg:"ANVISA", flag:"🇧🇷", url:"https://rapath.github.io/br",
+    id:"br", name:"Brazil", reg:"ANVISA", flag:"🇧🇷", url:"https://rapath.org/br",
     cls:  ["Class I","Class II","Class III","Class IV"],
     route:[
       "Notificação (Class I) — no dossier submission to ANVISA; audit-ready technical file + B-GMP certification + BRH required (RDC 751/2022)",
@@ -167,7 +167,7 @@ export const JURISDICTIONS: Jurisdiction[] = [
     time: ["3–9 mo","6–18 mo","18–36 mo","24–42 mo"],
   },
   {
-    id:"my", name:"Malaysia", reg:"MDA", flag:"🇲🇾", url:"https://rapath.github.io/my",
+    id:"my", name:"Malaysia", reg:"MDA", flag:"🇲🇾", url:"https://rapath.org/my",
     cls:  ["Class A","Class B","Class C","Class D"],
     route:[
       "MDA product listing via MeDC@St portal; Establishment Licence required for importers/manufacturers",
@@ -178,7 +178,7 @@ export const JURISDICTIONS: Jurisdiction[] = [
     time: ["1–3 mo","6–12 mo","12–18 mo","18–24 mo"],
   },
   {
-    id:"id", name:"Indonesia", reg:"BPOM / Kemenkes", flag:"🇮🇩", url:"https://rapath.github.io/id",
+    id:"id", name:"Indonesia", reg:"BPOM / Kemenkes", flag:"🇮🇩", url:"https://rapath.org/id",
     cls:  ["Class A","Class B","Class C","Class D"],
     route:[
       "REGALKES notification (Notifikasi Alat Kesehatan) via e-REGALKES; Import Licence (IT-Alkes) required",
@@ -189,7 +189,7 @@ export const JURISDICTIONS: Jurisdiction[] = [
     time: ["1–3 mo","6–12 mo","12–18 mo","18–24 mo"],
   },
   {
-    id:"vn", name:"Vietnam", reg:"DAV / MOH", flag:"🇻🇳", url:"https://rapath.github.io/vt",
+    id:"vn", name:"Vietnam", reg:"DAV / MOH", flag:"🇻🇳", url:"https://rapath.org/vt",
     cls:  ["Class A","Class B","Class C","Class D"],
     route:[
       "MOH declaration (công bố tiêu chuẩn áp dụng) — Class A self-declaration via DAV portal",
@@ -200,7 +200,7 @@ export const JURISDICTIONS: Jurisdiction[] = [
     time: ["1–3 mo","6–12 mo","12–18 mo","18–24 mo"],
   },
   {
-    id:"ru", name:"Russia", reg:"Roszdravnadzor (RZN)", flag:"🇷🇺", url:"https://rapath.github.io/ru",
+    id:"ru", name:"Russia", reg:"Roszdravnadzor (RZN)", flag:"🇷🇺", url:"https://rapath.org/ru",
     cls:  ["Class I","Class IIa","Class IIb","Class III"],
     route:[
       "GRLS state registration — simplified procedure (~50 working days); RUS REP required; EAEU pathway also valid",
@@ -211,7 +211,7 @@ export const JURISDICTIONS: Jurisdiction[] = [
     time: ["2–6 mo","6–12 mo","12–24 mo","18–30 mo"],
   },
   {
-    id:"mx", name:"Mexico", reg:"COFEPRIS", flag:"🇲🇽", url:"https://rapath.github.io/mx",
+    id:"mx", name:"Mexico", reg:"COFEPRIS", flag:"🇲🇽", url:"https://rapath.org/mx",
     cls:  ["Class I","Class II","Class II","Class III"],
     route:[
       "Aviso de funcionamiento (establishment notice) + product notification via SISFAR; Mexican titular del registro required for some Class I; NOM-241 compliance",
@@ -222,7 +222,7 @@ export const JURISDICTIONS: Jurisdiction[] = [
     time: ["3–6 mo","12–18 mo","18–30 mo","24–42 mo"],
   },
   {
-    id:"sa", name:"Saudi Arabia", reg:"SFDA", flag:"🇸🇦", url:"https://rapath.github.io/sa",
+    id:"sa", name:"Saudi Arabia", reg:"SFDA", flag:"🇸🇦", url:"https://rapath.org/sa",
     cls:  ["Class A","Class B","Class C","Class D"],
     route:[
       "SFDA MDNR listing via eGateway — Class A low-risk listing; Saudi Authorised Representative required; ISO 13485 recommended",
@@ -233,7 +233,7 @@ export const JURISDICTIONS: Jurisdiction[] = [
     time: ["1–3 mo","6–12 mo","12–18 mo","18–24 mo"],
   },
   {
-    id:"nz", name:"New Zealand", reg:"Medsafe", flag:"🇳🇿", url:"https://rapath.github.io/nz",
+    id:"nz", name:"New Zealand", reg:"Medsafe", flag:"🇳🇿", url:"https://rapath.org/nz",
     cls:  ["Class I","Class IIa","Class IIb","Class III"],
     route:[
       "Medsafe notification/web listing; self-declaration; CE marking or TGA approval widely accepted; NZ-established entity recommended",
@@ -244,7 +244,7 @@ export const JURISDICTIONS: Jurisdiction[] = [
     time: ["1–3 mo","6–12 mo","9–18 mo","12–24 mo"],
   },
   {
-    id:"hk", name:"Hong Kong", reg:"MDD / MDACS", flag:"🇭🇰", url:"https://rapath.github.io/hk",
+    id:"hk", name:"Hong Kong", reg:"MDD / MDACS", flag:"🇭🇰", url:"https://rapath.org/hk",
     cls:  ["Class I","Class II","Class III","Class III"],
     route:[
       "MDACS self-declaration for Class I (voluntary scheme transitioning to mandatory); Local Authorized Representative strongly recommended",
@@ -255,7 +255,7 @@ export const JURISDICTIONS: Jurisdiction[] = [
     time: ["1–3 mo","6–12 mo","12–18 mo","12–24 mo"],
   },
   {
-    id:"bd", name:"Bangladesh", reg:"DGDA", flag:"🇧🇩", url:"https://rapath.github.io/bd",
+    id:"bd", name:"Bangladesh", reg:"DGDA", flag:"🇧🇩", url:"https://rapath.org/bd",
     cls:  ["Class A","Class B","Class C","Class D"],
     route:[
       "DGDA Import Registration Certificate + technical documentation; local importer/agent required; developing regulatory framework",
@@ -266,7 +266,7 @@ export const JURISDICTIONS: Jurisdiction[] = [
     time: ["3–6 mo","6–12 mo","12–18 mo","18–24 mo"],
   },
   {
-    id:"lk", name:"Sri Lanka", reg:"NMRA", flag:"🇱🇰", url:"https://rapath.github.io/lk",
+    id:"lk", name:"Sri Lanka", reg:"NMRA", flag:"🇱🇰", url:"https://rapath.org/lk",
     cls:  ["Class A","Class B","Class C","Class D"],
     route:[
       "NMRA Class A listing/notification; local authorized representative required; NMRA Act No. 5 of 2015 applies",
@@ -277,7 +277,7 @@ export const JURISDICTIONS: Jurisdiction[] = [
     time: ["1–3 mo","6–12 mo","12–18 mo","18–24 mo"],
   },
   {
-    id:"th", name:"Thailand", reg:"Thai FDA / MDCD", flag:"🇹🇭", url:"https://rapath.github.io/th",
+    id:"th", name:"Thailand", reg:"Thai FDA / MDCD", flag:"🇹🇭", url:"https://rapath.org/th",
     cls:  ["Class 1","Class 2","Class 3","Class 3"],
     route:[
       "Thai FDA MDCD notification (Class 1); Medical Device Establishment License (MDEL) required for importer/distributor; Medical Device Act B.E. 2562 (2019)",
@@ -288,7 +288,7 @@ export const JURISDICTIONS: Jurisdiction[] = [
     time: ["1–3 mo","6–12 mo","12–18 mo","18–30 mo"],
   },
   {
-    id:"ph", name:"Philippines", reg:"FDA Philippines / CDRRHR", flag:"🇵🇭", url:"https://rapath.github.io/ph",
+    id:"ph", name:"Philippines", reg:"FDA Philippines / CDRRHR", flag:"🇵🇭", url:"https://rapath.org/ph",
     cls:  ["Class A","Class B","Class C","Class D"],
     route:[
       "FDA Philippines Certificate of Product Registration (CPR) — Class A; License to Operate (LTO) required for importer/distributor; CDRRHR assessment",
