@@ -52,7 +52,7 @@ Module 8 — Essential Principles checklist
 
 ## Language requirements
 
-All application documents must be submitted in Japanese, or in English with certified Japanese translations. PMDA can accept some modules in English (particularly clinical study reports), but all key sections and the application form must be in Japanese.
+All application documents must be submitted in Japanese. English language documents (particularly foreign clinical study reports and certain technical reports) may be submitted alongside certified Japanese translations, but the application form and all key regulatory submissions must be in Japanese. PMDA can accept some modules in English (particularly clinical study reports), but all key sections and the application form must be in Japanese.
 
 ## Electronic submission
 
@@ -61,3 +61,11 @@ Applications are submitted via PMDA's electronic submission gateway (EDRP — El
 JMDN code assignment is mandatory for all Shonin applications. The MAH must obtain the appropriate JMDN code from PMDA's JMDN database or request a new code if none exists for the device type. The code assignment should be confirmed before submission and referenced in the Module 3 device description.
 
 Clinical evidence must include either direct clinical investigation data from the device, or a comprehensive literature review with clinical evaluation report justifying that existing published data is sufficiently relevant and robust. At minimum, evidence must address the device's primary safety and efficacy endpoints under intended conditions of use. For Class IV devices and high-risk Class III devices, original clinical investigation data is typically expected. For lower-risk devices, literature-based evidence may be acceptable if thoroughly evaluated and justified.
+
+Add to Module 3: 'JMDN code assignment is mandatory for all Shonin applications. The MAH must obtain the appropriate JMDN code from PMDA's JMDN database or request a new code if none exists for the device type. The code assignment should be confirmed before submission and referenced in the Module 3 device description.'
+
+Add to Module 5: 'Clinical evidence must include either direct clinical investigation data from the device, or a comprehensive literature review with clinical evaluation report justifying that existing published data is sufficiently relevant and robust. At minimum, evidence must address the device's primary safety and efficacy endpoints under intended conditions of use. For Class IV devices and high-risk Class III devices, original clinical investigation data is typically expected. For lower-risk devices, literature-based evidence may be acceptable if thoroughly evaluated and justified.'
+
+Note: While PMDA historically referenced STED (Summary Technical Documentation), many recent Shonin applications follow the Common Technical Document (CTD) format. Confirm with PMDA during pre-submission consultation whether CTD or STED format is preferred for your specific application, as guidance has evolved.
+
+PMDA review fees must be paid at the time of formal application submission. Current fee amounts are published by PMDA Cabinet Order and vary by device class and review category. Confirm the applicable fee amount and payment method with PMDA before submission.

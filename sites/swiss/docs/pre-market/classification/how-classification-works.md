@@ -36,7 +36,10 @@ If multiple rules yield different classes, the device is assigned to the **highe
 2. Work through all 22 rules — flag every rule that could apply
 3. Apply the highest-class rule where multiple rules apply
 4. Document the classification rationale in technical documentation
-5. Review classification whenever intended purpose or design changes significantly; document the rationale for any reclassification and notify Swissmedic if the device moves to a higher class, as this may trigger conformity assessment route changes.
+5. Review classification whenever intended purpose or design changes significantly; document the rationale for any reclassification. Notification to Swissmedic is required if the device is reclassified to a higher class, as this may trigger conformity assessment route changes and require an updated conformity assessment before continued market placement.; document the rationale for any reclassification. Notification to Swissmedic is required if the device is reclassified to a higher class, as this may trigger conformity assessment route changes and require an updated conformity assessment before continued market placement.
+
+
+Add after the Class I sub-types definition: 'Note: Im, Is, and Ir designations are used in technical documentation and Swissmedic registration to specify measurement, sterility, or reusability requirements. These sub-types do not alter conformity assessment routes but are mandatory labelling and documentation requirements.'
 
 ## Official Sources
 - [MedDO Annex VIII (SR 812.213)](https://www.fedlex.admin.ch/eli/cc/2021/205/en)

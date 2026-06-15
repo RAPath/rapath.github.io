@@ -22,3 +22,5 @@ Companies seeking to market devices in India should consider:
 - Post-market surveillance and adverse event reporting obligations
 
 See India vs TGA, CE, FDA for comparative timelines and requirements.
+
+Expedited approval pathway: Class C and D devices may qualify for expedited review (typically 60–90 days) if they meet criteria for novel technology or public health priority. Standard review timelines: Class A (45 days), Class B (90 days), Class C/D (90–180 days). Fast-track designation available for breakthrough devices addressing unmet clinical needs.

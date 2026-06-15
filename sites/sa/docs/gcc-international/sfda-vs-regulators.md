@@ -30,4 +30,6 @@ description: How the SFDA compares to EU MDR, US FDA, TGA, and HSA — key simil
 - [GCC Harmonisation](./gcc-harmonization)
 - [Multi-Market Strategy](./multi-market-strategy)
 
+In the 'Registration' row under SFDA column, the entry should be 'MDMA (Technical File Assessment/TFA)' to make the acronym expansion explicit on first use.
+
 In the 'Registration' row under SFDA column, change 'MDMA (TFA)' to 'MDMA (Technical File Assessment / TFA)' to make the acronym expansion explicit on first use.

@@ -23,7 +23,7 @@ Korea has approved several DTx products, including:
 
 ## Regulatory pathway
 
-DTx follow the standard SaMD → 품목허가 pathway, with:
+DTx products follow the standard SaMD regulatory pathway to obtain 품목허가 (product authorization), with the following requirements:
 - Clinical trial data demonstrating therapeutic efficacy
 - User experience design documentation (as SaMD usability)
 - Post-market performance monitoring plan

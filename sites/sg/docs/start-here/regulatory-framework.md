@@ -87,3 +87,5 @@ Singapore is also an active participant in the **ASEAN Medical Device Committee 
 - [HSA: Health Sciences Authority](https://www.hsa.gov.sg/about-us)
 
 The classification system (A/B/C/D) is broad-based and risk-tiered, with Class A being lowest-risk (exempt from registration but requiring notification) and Class D highest-risk (requiring full registration and evaluation). See Classification Overview for the detailed risk-based framework.
+
+SHARE replaced the legacy PRISM portal in [specific month and year - verify with HSA]. References to PRISM in HSA guidance documents published before this date, or in older company SOPs, should be understood as referring to SHARE.

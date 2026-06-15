@@ -20,7 +20,7 @@ MHLW has issued a series of notifications on specific borderline product types. 
 
 Japan does not have a formal "combination product" regulatory category equivalent to the FDA. Instead, products combining a device and a drug are assigned to either the drug or device regulatory category based on primary mode of action. The secondary component (drug or device) must also meet its respective regulatory requirements.
 
-Drug-eluting stents, for example, are regulated as medical devices (Class IV) in Japan; the drug component's inclusion is addressed within the device approval application. Pre-submission PMDA consultation is strongly recommended for any drug/device combination.
+Drug-eluting stents, for example, are regulated as medical devices (Class IV) in Japan; the drug coating is considered an integral part of the device, and the drug component's inclusion and safety profile are addressed within the device approval application. Pre-submission PMDA consultation is strongly recommended for any drug/device combination.
 
 ## Combination products — device/regenerative medicine
 

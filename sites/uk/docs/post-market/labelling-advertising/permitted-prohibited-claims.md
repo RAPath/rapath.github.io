@@ -45,7 +45,7 @@ Every claim made about a medical device — whether on the label, in the Instruc
 | Performance claims not substantiated by evidence | Misleading |
 | "Completely safe" or "no side effects" | No device is completely safe; this creates a false impression |
 | Claims implying MHRA or government endorsement | MHRA does not endorse devices |
-| Claims that UK MDR 2002 registration is equivalent to clinical proof of efficacy | Registration confirms conformity with essential requirements, not clinical superiority |
+| Claims that UK MDR 2002 registration is equivalent to clinical proof of efficacy — Registration confirms conformity with Essential Requirements and conformity assessment conditions, not clinical efficacy; manufacturers should avoid stating or implying that MHRA registration constitutes endorsement of clinical benefit | Registration confirms conformity with essential requirements, not clinical superiority |
 | Testimonials that do not reflect typical outcomes | Misleading under ASA codes |
 | Before/after images that exaggerate results | Misleading |
 | Claims for a device that is not registered with MHRA | Device cannot be advertised for supply in GB without MHRA registration |
@@ -54,7 +54,7 @@ Every claim made about a medical device — whether on the label, in the Instruc
 
 ## Social media and digital marketing
 
-All requirements apply equally to social media posts, influencer marketing, website content, email campaigns, and digital advertising. There is no "informal" online channel that is exempt from UK MDR 2002 and ASA requirements.
+All requirements apply equally to social media posts, influencer marketing, website content, email campaigns, paid digital advertising, and organic online content. There is no "informal" channel, platform, or communication method that is exempt from UK MDR 2002 and Advertising Standards Authority (ASA) Code requirements. This includes sponsored posts, product reviews, third-party endorsements, and user-generated content where the manufacturer has exercised control or direction.
 
 Key points for digital marketing:
 - Social media posts about a device constitute advertising and are subject to all applicable rules
@@ -79,6 +79,25 @@ Key points for digital marketing:
 | ASA: CAP Code — Medical and Healthcare | Specific rules on health claims |
 | MHRA: Advertising medical devices | MHRA's guidance on claims |
 
-Competitor device names should not be used unless they are the actual registered/established name; visual comparisons must not distort relative performance through scale manipulation or selective data presentation. Comparative claims in advertising are subject to ASA substantiation rules in addition to UK MDR 2002.
+Comparative claims in advertising must comply with both UK MDR 2002 and ASA (Advertising Standards Authority) rules. Specifically:
+
+- Competitor device names should only be used if they are the actual registered or established trade name
+- Visual comparisons (graphs, charts) must not distort relative performance through scale manipulation, selective axis ranges, or misleading visual emphasis
+- Comparative data must be current, relevant, and based on fair comparison conditions (e.g., comparing devices of similar classification or using the same patient population)
+- Selective data presentation (e.g., cherry-picking favourable studies while omitting unfavourable ones) is prohibited
 
 Expert and healthcare professional claims: Claims attributed to healthcare professionals or clinical experts must be: (1) made by individuals with genuine expertise in the relevant field; (2) substantiated by the same evidence standards as manufacturer claims; (3) clearly identified as expert opinion rather than clinical data; (4) not presented as clinical proof if based only on personal experience or case series. Testimonials from healthcare professionals are subject to the same ASA rules as patient testimonials.
+
+Add to the Comparison claims row: 'Competitor device names should not be used unless they are the actual registered/established name; visual comparisons must not distort relative performance through scale manipulation or selective data presentation. Comparative claims in advertising are subject to ASA substantiation rules in addition to UK MDR 2002.'
+
+Add new section: 'Expert and healthcare professional claims: Claims attributed to healthcare professionals or clinical experts must be: (1) made by individuals with genuine expertise in the relevant field; (2) substantiated by the same evidence standards as manufacturer claims; (3) clearly identified as expert opinion rather than clinical data; (4) not presented as clinical proof if based only on personal experience or case series. Testimonials from healthcare professionals are subject to the same ASA rules as patient testimonials.'
+
+Expert and healthcare professional claims
+
+Claims attributed to healthcare professionals or experts must:
+- Be based on the genuine, substantiated views of the individual named
+- Not be misleading about the nature or basis of the professional's experience
+- Include appropriate disclaimers where the professional has a financial interest in the device
+- Comply with ASA rules on expert endorsements
+
+A device manufacturer cannot attribute claims to a healthcare professional without their informed consent and evidence that the claim reflects their actual professional opinion.

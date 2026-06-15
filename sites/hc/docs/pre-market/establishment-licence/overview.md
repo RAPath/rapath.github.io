@@ -21,7 +21,7 @@ The MDEL is separate from the Device Licence:
 | Importer (any class of device) | Yes |
 | Wholesale distributor (any class) | Yes |
 | Canadian manufacturer of Class I devices | Yes |
-| Canadian manufacturer of Class II–IV (also distributing) | Yes |
+| Canadian manufacturer of Class II–IV devices (if also importing or distributing) | Yes |
 | Retailer selling directly to end users only | No |
 | Foreign manufacturer | No (but needs Device Licence) |
 | Healthcare institution using devices | No |

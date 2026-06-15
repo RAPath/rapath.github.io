@@ -1,0 +1,123 @@
+/* =============================================================================
+   What's New — Tag filter panel (shown above the blog list)
+   ============================================================================= */
+
+.whats-new-filters {
+  background: var(--ifm-background-surface-color);
+  border-bottom: 1px solid var(--ifm-toc-border-color);
+  padding: 1.5rem 0;
+}
+
+.whats-new-filters__inner {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+}
+
+/* Section heading */
+.filter-section__title {
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  color: var(--ifm-color-content-secondary);
+  margin: 0 0 0.6rem;
+}
+
+/* Jurisdiction grid — 6 columns on wide screens */
+.filter-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
+/* Category row */
+.filter-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+/* Shared chip base */
+.filter-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  padding: 0.3rem 0.7rem;
+  border-radius: 999px;
+  font-size: 0.8rem;
+  font-weight: 500;
+  text-decoration: none !important;
+  border: 1px solid transparent;
+  transition: background 0.12s, border-color 0.12s, transform 0.1s;
+  white-space: nowrap;
+}
+
+.filter-chip:hover {
+  transform: translateY(-1px);
+  text-decoration: none !important;
+}
+
+/* Jurisdiction chips — light blue */
+.filter-chip--jurisdiction {
+  background: #eff6ff;
+  color: #1e40af;
+  border-color: #bfdbfe;
+}
+
+.filter-chip--jurisdiction:hover {
+  background: #dbeafe;
+  border-color: #93c5fd;
+  color: #1e40af;
+}
+
+/* Category chips — slightly larger, distinct colour */
+.filter-chip--category {
+  background: #f5f3ff;
+  color: #5b21b6;
+  border-color: #ddd6fe;
+  font-size: 0.875rem;
+  padding: 0.4rem 1rem;
+}
+
+.filter-chip--category:hover {
+  background: #ede9fe;
+  border-color: #c4b5fd;
+  color: #5b21b6;
+}
+
+.filter-chip__flag {
+  font-size: 1rem;
+  line-height: 1;
+}
+
+.filter-chip__icon {
+  font-size: 1rem;
+  line-height: 1;
+}
+
+/* Dark mode */
+[data-theme='dark'] .filter-chip--jurisdiction {
+  background: #1e3a5f;
+  color: #93c5fd;
+  border-color: #1e40af;
+}
+
+[data-theme='dark'] .filter-chip--jurisdiction:hover {
+  background: #1e3a8a;
+  color: #bfdbfe;
+}
+
+[data-theme='dark'] .filter-chip--category {
+  background: #2e1065;
+  color: #c4b5fd;
+  border-color: #4c1d95;
+}
+
+[data-theme='dark'] .filter-chip--category:hover {
+  background: #3b0764;
+  color: #ddd6fe;
+}

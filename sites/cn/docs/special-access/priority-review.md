@@ -26,7 +26,7 @@ Priority review is available for devices that:
 
 ## Application process
 
-1. Applicant submits a priority review designation request (优先审批申请) to NMPA/CMDE, including a justification for eligibility
+1. Applicant submits a priority review designation request (优先审批申请) to NMPA/CMDE before formal registration dossier submission, including detailed justification documenting how the device meets one or more eligibility criteria; request should cite relevant NMDCC classification and clinical evidence
 2. CMDE evaluates the request (typically 20 working days)
 3. If granted, the device is placed on a priority list and reviewed with shortened CMDE review timelines
 4. Priority status must be maintained — the applicant must continue to meet responsiveness requirements
@@ -41,7 +41,7 @@ Priority review is available for devices that:
 | Multiple supplemental rounds may occur | CMDE may provide pre-submission guidance |
 | Standard NMPA processing time | Expedited administrative processing |
 
-Priority review does not reduce the evidence requirements — the same safety and performance data is required.
+Priority review does not reduce the evidence requirements — the same safety, performance, and clinical evidence standards apply. Instead, it reduces administrative processing time. Some major deficiencies identified during review may cause loss of priority status.
 
 :::note Disclaimer
 Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [NMPA](https://www.nmpa.gov.cn/) sources before making regulatory decisions. Not affiliated with NMPA or any Chinese Government body. Not legal or regulatory advice.

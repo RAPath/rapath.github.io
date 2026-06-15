@@ -22,7 +22,6 @@ The NB assesses the conformity of the reprocessing information and validation do
 - [MedDO Annex I § 23.4 (SR 812.213)](https://www.fedlex.admin.ch/eli/cc/2021/205/en)
 - [ISO 17664 — Reprocessing of health-care devices](https://www.iso.org/standard/74928.html)
 
-
 :::warning Disclaimer
 AI-assisted content for navigation only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
 :::

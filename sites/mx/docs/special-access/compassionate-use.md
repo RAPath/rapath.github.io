@@ -52,3 +52,6 @@ This pathway is distinct from a full sanitary registration and cannot be used as
 - [Custom-made device pathway](custom-devices)
 - [Pre-Market overview](../premarket/overview)
 - [Mexico Registration Holder](../mexico-registration-holder/what-is-mrh)
+
+Add after 'COFEPRIS evaluates on a case-by-case basis.':
+'No fixed timeline is mandated; review duration depends on the complexity of clinical evidence provided and the urgency of the medical situation. Contact COFEPRIS for expected review timeframes for your specific case.'

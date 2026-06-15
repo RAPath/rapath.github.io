@@ -43,3 +43,9 @@ Ministry of Health of Russia: [minzdrav.gov.ru](https://minzdrav.gov.ru/)
 (dated [specific date]) — Technical & User Documentation Requirements
 
 (dated [specific date]) — Classification Rules
+
+Add after 'MOH Order No. 11': '(dated [specific date]) — Technical & User Documentation Requirements'
+
+Add after 'MOH Order No. 4n': '(dated [specific date]) — Classification Rules'
+
+Replace the two instances of '(dated [specific date])' with actual publication dates. For example: 'MOH Order No. 11 (dated November 2010) — Technical & User Documentation Requirements' and 'MOH Order No. 4n (dated December 2011) — Classification Rules'. If exact dates are unavailable, note 'Publication date: [Year]' or remove the date field entirely and cite the authoritative source URL.

@@ -40,3 +40,5 @@ User facilities must also submit an **annual report** (FDA Form 3419) by 1 Janua
 Add this paragraph to the "Manufacturer obligations" section:
 
 Manufacturers must submit MDR reports to FDA within **30 days** of receiving or becoming aware of information suggesting a reportable event.
+
+In the 'Manufacturer obligations (21 CFR Part 803 Subpart E)' section, after the list of manufacturer obligations, add this paragraph: 'Manufacturers must submit MDR reports to FDA within 30 days of receiving or becoming aware of information suggesting a reportable event.'

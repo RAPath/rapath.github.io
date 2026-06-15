@@ -13,7 +13,7 @@ COFEPRIS requires clinical evidence of **safety and performance** as part of the
 - Clinical evidence must support the **intended use** stated in the registration application.
 - Evidence should demonstrate an acceptable **benefit–risk balance** for the intended patient population.
 - **Foreign clinical data** is accepted — Mexico does not generally require clinical studies conducted specifically in Mexico.
-- Evidence should be current and reflect the state of clinical knowledge.
+- Evidence should be current and reflect the state of clinical knowledge. For Class III devices, COFEPRIS generally expects clinical evidence published within the last 5–10 years unless significant clinical practice has evolved and older literature remains relevant; justification for older evidence is recommended.
 
 ## Requirements by device class
 
@@ -65,3 +65,5 @@ For IVD devices, clinical evidence takes the form of **performance evaluation**,
 ## Using foreign clinical data
 
 "Acceptable source documents include: FDA 510(k) summaries, CE technical files, TGA assessment reports, Health Canada licensing letters, and published peer-reviewed journal articles. COFEPRIS may request certified English-to-Spanish translations of key clinical sections."
+
+Acceptable source documents include: FDA 510(k) summaries, CE technical files, TGA assessment reports, Health Canada licensing letters, and published peer-reviewed journal articles. COFEPRIS may request certified English-to-Spanish translations of key clinical sections.

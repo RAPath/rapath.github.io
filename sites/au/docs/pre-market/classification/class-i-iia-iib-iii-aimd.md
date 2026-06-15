@@ -117,6 +117,15 @@ If you have an existing AIMD ARTG entry, check the current status of your reclas
 
 ---
 
+
+AIMD — Active Implantable Medical Devices
+
+Risk level: High
+
+Status: Being phased into Class III
+
+Active implantable medical devices (such as pacemakers, implantable cardioverter-defibrillators, and deep brain stimulators) were reclassified from AIMD to Class III effective 25 November 2021. Devices with ARTG entries submitted as AIMD before this date retain AIMD classification for regulatory continuity. All new active implantable devices must be classified as Class III and are subject to the same requirements as Class III general medical devices, including mandatory audit for certain application types and annual reporting obligations.
+
 ## Official Sources
 
 - [Schedule 2 — Classification rules](https://www.legislation.gov.au/current/F2002B00237)

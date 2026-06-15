@@ -14,7 +14,7 @@ A **Field Safety Corrective Action (FSCA)** is any action taken by a manufacture
 - **Restriction of use** — limiting the intended use or the users of a device
 
 ## When to Initiate an FSCA
-An FSCA must be initiated when the manufacturer determines that a device on the market presents a risk of death or serious deterioration in health. This determination arises from:
+An FSCA must be initiated when the manufacturer determines that a device on the market presents, or may present, a risk of death or serious deterioration in health that requires corrective or preventive action. The manufacturer is required to make this determination proactively. This determination typically arises from:
 - Analysis of a serious incident report
 - Trend analysis indicating an unacceptable increase in non-serious incidents
 - Design defect identified post-market

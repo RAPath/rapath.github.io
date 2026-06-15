@@ -21,7 +21,7 @@ Many products sit at the intersection of two or more regulatory categories:
 
 ## Combination products (*produtos combinados*)
 
-A combination product consists of two or more regulated components — a device and a drug or biologic — combined to produce a single integral product.
+A combination product consists of two or more regulated components — typically a device combined with a drug or biologic — integrated to produce a single unified therapeutic product where the components cannot be separated without loss of intended function.
 
 ### How classification is determined
 
@@ -42,3 +42,8 @@ Submit a **consulta de enquadramento** via ANVISA's Peticionamento Eletrônico. 
 - [ANVISA — Peticionamento Eletrônico](https://peticionamento.anvisa.gov.br)
 
 ## Seeking a classification opinion
+
+**What to include in your submission:**
+Clearly describe the product's intended purpose, mechanism of action, components, and how each component contributes to the final therapeutic effect. Provide evidence or scientific literature supporting your proposed classification. ANVISA typically responds within 30–60 days with a formal written opinion (parecer técnico).
+
+Add a new subsection under 'Seeking a classification opinion': 'Submission requirements: A consulta de enquadramento should include product description, intended purpose, mechanism of action, and supporting technical documentation justifying the classification being queried. Submit via ANVISA's Peticionamento Eletrônico portal. ANVISA typically provides a formal opinion within 30–60 days. Note that this is a non-binding consultation; a formal classification may differ if registration is subsequently pursued.'

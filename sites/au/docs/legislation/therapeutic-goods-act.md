@@ -9,7 +9,7 @@ last_reviewed: 2026-04-30
 
 The **Therapeutic Goods Act 1989** (the Act) is the primary legislation governing all therapeutic goods in Australia, including medical devices. It is an Act of the Australian Parliament and sits at the top of the regulatory hierarchy — all regulations, instruments, and guidance documents derive their authority from it. When there is any conflict between the Act and a subordinate instrument, the Act prevails.
 
-The Act is administered by the **Therapeutic Goods Administration (TGA)**, which is part of the Department of Health, Disability and Ageing. The current compilation of the Act (Compilation No. 88, dated 21 March 2025) incorporates all amendments to that date, including the March 2025 amendments introducing mandatory healthcare facility adverse event reporting.
+The Act is administered by the **Therapeutic Goods Administration (TGA)**, which is part of the Department of Health, Disability and Ageing. The current compilation of the Act (Compilation No. 88, dated 21 March 2025) incorporates all amendments to that date. Healthcare facility mandatory adverse event reporting obligations were introduced via the Therapeutic Goods (Medical Devices—Mandatory Reporting) Amendment Regulations 2024 and commence 1 March 2026.
 
 👉 [Therapeutic Goods Act 1989 — Current text (legislation.gov.au)](https://www.legislation.gov.au/current/C2004A03952)
 

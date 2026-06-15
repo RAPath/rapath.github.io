@@ -14,7 +14,13 @@ Notify the MDD when any **significant change** affects:
 - Manufacturer name/address/ownership
 - LRP identity or details
 
-A change is considered "significant" if it could affect: device safety or performance; the claimed intended purpose or clinical application; the essential design or manufacturing process; labelling accuracy; the identity, location, or contact details of the manufacturer or LRP; or the completeness of existing regulatory documentation (e.g., ISO 13485 certification expiry).
+A change is considered "significant" if it could affect:
+• Device safety or performance
+• The claimed intended purpose or clinical application
+• The essential design or manufacturing process (e.g., materials, sterilization method, critical dimensions)
+• Labelling accuracy or completeness
+• The identity, location, or contact details of the manufacturer or LRP
+• The validity of existing regulatory documentation (e.g., upcoming ISO 13485 certification expiry, new clinical evidence requirements)
 
 ## Process
 

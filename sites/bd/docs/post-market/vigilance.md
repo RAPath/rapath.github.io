@@ -92,3 +92,15 @@ affected users and distributors in a timely manner
 AR coordinates with DGDA on communication strategy
 AR maintains records of all notifications and confirmations of receipt
 Following completion of the recall, AR submits a final report to DGDA confirming the scope of the FSCA, devices recalled/modified, and confirmation that the safety issue has been resolved.
+
+Recalls and Market Withdrawal (continued):
+
+When a recall is initiated (voluntarily or by DGDA order):
+- AR provides distribution records to identify all affected customers (hospitals, clinics, wholesalers)
+- AR prepares a Field Safety Notice detailing the recall scope, reason, and required action
+- AR distributes the FSN to all known recipients of affected devices
+- AR tracks confirmation of receipt and device return or destruction
+- AR maintains a detailed recall report including: devices affected, recipients notified, devices recovered/destroyed, and any adverse events reported during recall
+- AR submits final recall completion report to DGDA within 30 days of recall completion
+- DGDA may conduct follow-up inspection to verify recall effectiveness
+- For DGDA-ordered recalls, failure to comply is a criminal offense prosecuted in Drug Court

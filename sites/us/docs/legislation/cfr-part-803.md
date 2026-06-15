@@ -59,3 +59,7 @@ Manufacturers must maintain **MDR event files** for all events that were evaluat
 ## MDR Submission Methods
 
 Manufacturers must submit MDRs electronically via FDA's eMDR system or MedWatch online portal. Paper submissions are no longer accepted except in cases of technical inability. All submissions must include the device identification, description of the event, patient outcome, and corrective actions taken or planned.
+
+Add a new subsection after 'MDR event files' titled 'MDR Submission Methods': Manufacturers must submit MDRs electronically via FDA's eMDR system or MedWatch online portal. Paper submissions are no longer accepted except in cases of technical inability. All submissions must include the device identification, description of the event, patient outcome, and corrective actions taken or planned.
+
+Expand the MDR Submission Methods section to include: 'Device identification must include the device name, model, serial/lot number, and UDI (when available). Submissions are made via the FDA's eMDR system using Form FDA 3500A (for manufacturers) or the MedWatch online portal. All fields marked mandatory in the form must be completed; incomplete submissions may be rejected or returned for clarification.'

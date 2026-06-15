@@ -30,10 +30,10 @@ The most important element of the definition is **intended use** — what the ma
 - instructions for use (IFU); and
 - statements made by the manufacturer or its representatives.
 
-This means the same physical product may or may not be a medical device depending on how the manufacturer presents it. A glucose meter sold for diabetes monitoring is a medical device; an identical meter sold as a "wellness tool" with no diagnostic claims may not be — but FDA evaluates these situations carefully.
+This means the same physical product may or may not be a medical device depending on how the manufacturer presents it. A glucose meter sold for diabetes monitoring is a medical device; an identical meter sold as a "general wellness" product with no diagnostic claims would generally not be regulated as a medical device under FDA's 2019 General Wellness Policy — but FDA evaluates labelling claims carefully to distinguish between medical and general wellness uses.
 
 :::caution US-unique
-FDA's intended use analysis is distinct from the EU's "intended purpose" framework and Australia's TGA framework. In the US, labelling and promotional claims drive the analysis, and FDA can take enforcement action if off-label promotion creates an implied intended use.
+FDA's intended use analysis is distinct from the EU MDR's "intended purpose" framework and Australia's TGA framework. In the US, labelling, advertising, promotional materials, instructions for use, and statements made by the manufacturer or its representatives all factor into the analysis, and FDA can take enforcement action if off-label promotion or misleading claims create an implied intended use different from what was submitted or cleared.
 :::
 
 ---

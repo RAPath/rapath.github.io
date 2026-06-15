@@ -21,7 +21,7 @@ NMPA recognises three approaches to generating clinical evidence:
 A prospective study conducted at NMPA-recognised clinical trial institutions (临床试验机构) in China. Required for most Class III devices and some Class II devices not meeting equivalence or exemption criteria.
 
 Key requirements:
-Sponsor must obtain NMPA approval before commencing the trial (for Class III; Class II does not require pre-trial approval but does require ethics approval)
+For Class III devices, the sponsor must obtain NMPA approval before commencing the trial. For Class II devices, NMPA pre-approval is not required; however, ethics committee approval at each participating institution is mandatory before enrolment begins.
 Trial must be conducted under GCP (Good Clinical Practice — 医疗器械临床试验质量管理规范)
 Ethics committee approval required at each site before enrolment begins
 Trial registration in the China Clinical Trial Registry (www.chictr.org.cn) before the first participant is enrolled

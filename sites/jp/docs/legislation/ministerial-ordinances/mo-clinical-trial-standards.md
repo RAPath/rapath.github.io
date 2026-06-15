@@ -20,7 +20,7 @@ This is separate from the GCP Ordinance for pharmaceuticals — device clinical 
 ## GCP requirements for device clinical trials in Japan
 
 Sponsor responsibilities:
-File a Clinical Trial Notification (CTN) with MHLW at least 30 days before first subject enrolment; this is a notification (not pre-approval) requirement
+File a Clinical Trial Notification (CTN) with MHLW at least 30 days before first subject enrolment; MHLW has 30 days to raise concerns, after which the trial may commence. This is a notification requirement (not pre-approval), meaning the trial may proceed after 30 days unless MHLW objects.
 Ensure the trial is conducted in accordance with the protocol approved by the Ethics Committee
 Monitor the trial at all participating institutions and maintain oversight of compliance
 Report serious adverse events to MHLW and the sponsoring institution's Ethics Committee according to specified timelines
@@ -46,3 +46,9 @@ Written informed consent must be obtained from each subject before any trial pro
 See [Clinical Trials under the PMD Act](/docs/pre-market/clinical-evidence/clinical-trials-pmd-act) for the CTN filing process and practical guidance.
 
 Serious adverse events must be reported to MHLW within 7 days of becoming aware of the event, or according to the timeframe specified in the CTN approval notification. Expedited reporting may be required for fatal or life-threatening events.
+
+Add under 'Sponsor responsibilities': 'Serious adverse events must be reported to MHLW within 7 days of becoming aware of the event, or according to the timeframe specified in the CTN approval notification. Expedited reporting may be required for fatal or life-threatening events.'
+
+Ethics committees must be registered with and accredited by MHLW. A list of accredited ethics committees is maintained by MHLW and is publicly searchable. Sponsors should verify the trial site's ethics committee is on the current accredited list before enrolling subjects.
+
+Upon receipt of the CTN, MHLW issues a notification letter confirming the 30-day waiting period. Trials may commence after 30 days unless MHLW raises concerns. The notification letter specifies any applicable additional reporting requirements or timelines specific to that trial.

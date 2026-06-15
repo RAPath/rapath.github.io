@@ -4,7 +4,7 @@ description: "What a Korean agent must do on behalf of a foreign medical device 
 sidebar_position: 5
 ---
 
-Foreign manufacturers who do not have a Korean entity must appoint a Korean agent (한국 대리인) — typically the Korean importer — to act as their regulatory representative with MFDS.
+Foreign manufacturers without a Korean legal entity must appoint a Korean agent (한국 대리인) — typically the entity holding the importer licence (수입업 허가) — to serve as their regulatory representative and intermediary with MFDS for all submissions and communications.
 
 ## Korean agent responsibilities
 
@@ -37,3 +37,5 @@ The Korean agent must be formally appointed and this relationship should be docu
 - Ensure the Korean agent is registered as an importer or distributor with MFDS if not already holding a business licence
 - Include the Korean agent's contact details and qualifications in the 품목허가/품목신고 application
 - Update MFDS if the Korean agent changes during the product's market life
+
+Add to the "Appointment and Registration Process" section: "Note: The Korean agent must hold a valid importer or distributor business licence (수입업 허가 or 도매업 허가) with MFDS in addition to being named on the 품목허가/품목신고. These are separate registrations."

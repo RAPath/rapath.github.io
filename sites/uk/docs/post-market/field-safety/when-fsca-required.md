@@ -54,7 +54,7 @@ The trigger for an FSCA can be:
 
 A critical principle: **a manufacturer does not need to wait for a patient to be harmed** before initiating an FSCA. The trigger is a determination that the device **could** cause harm — the risk must be acted upon promptly.
 
-Proactive FSCAs — initiated before harm occurs — are encouraged by MHRA and reflect well on a manufacturer's safety culture. Waiting for harm before acting is both ethically and legally problematic.
+Proactive FSCAs — initiated before any adverse events are reported — are encouraged by MHRA and reflect well on a manufacturer's safety culture. A manufacturer's failure to take timely corrective action when a safety issue is identifiable, even in the absence of reported harm, may result in MHRA enforcement action or criminal prosecution. Waiting for confirmed patient harm before acting is both ethically and legally problematic.
 
 ---
 
@@ -120,3 +120,5 @@ MHRA reviews the notification and may request modifications to the FSCA scope or
 | IMDRF/NCAR/N18FINAL | International definitions for FSCAs |
 
 Complete the truncated section with: 'Affected batches or serial numbers — which specific units? All units, or only those manufactured during a specific date range or with specific material lot codes? The scope must be clearly defined and documented.'
+
+Complete the sentence: 'A manufacturer's failure to take timely corrective action when a safety issue is identifiable, even in the absence of reported harm, may result in MHRA enforcement action or criminal prosecution.'

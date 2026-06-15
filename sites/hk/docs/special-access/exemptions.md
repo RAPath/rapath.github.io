@@ -30,3 +30,5 @@ Unregistered devices may be accessed on a named-patient basis in urgent circumst
 - Appropriate hospital governance approval is in place
 
 Adverse events associated with compassionate use devices must be reported to MDD within 10 calendar days of awareness.
+
+Add to Compassionate Use section: 'Adverse events associated with compassionate use devices must be reported to MDD within 10 calendar days of awareness.'

@@ -20,9 +20,9 @@ regulatory decision.
 :::
 
 
-RAPath AU is a plain English reference for Australian medical device regulation. It is designed for regulatory affairs professionals, sponsors, manufacturers, importers, and consultants who need to find and understand TGA requirements quickly.
+RAPath AU is a plain English reference for Australian medical device regulation. It is designed to help regulatory affairs professionals, sponsors, manufacturers, importers, and consultants quickly find and understand TGA requirements.
 
-This site does not replace official TGA sources. Every page links back to the authoritative legislative text or official TGA guidance. Think of RAPath AU as a structured, searchable index that helps you find what you need — then points you to the official source to verify it.
+This site does not replace official TGA sources. Every page links back to the authoritative legislative text or official TGA guidance. RAPath AU is a structured, searchable navigation tool designed to help you quickly locate what you need, then directs you to the official source for verification and final decision-making.
 
 ---
 
@@ -42,7 +42,7 @@ This site does not replace official TGA sources. Every page links back to the au
 
 ## How to use this site
 
-The site is structured around the regulatory lifecycle of a medical device:
+The site is organized around the regulatory lifecycle of a medical device, from initial classification through post-market surveillance:
 
 | Section | What it covers |
 |---------|---------------|
@@ -82,3 +82,14 @@ If you spot an error or have a question, visit
 [GitHub Discussions](https://github.com/orgs/RAPath/discussions).
 
 ---
+
+Consider adding a note in the Introduction section: 'This reference reflects TGA requirements as of [DATE]. Recent regulatory changes include [specific updates]. See What's New section for the latest TGA reforms and implementation timelines.'
+
+Add to the 'Sponsors' section: 'Understand ARTG application fees, including initial inclusion fees and annual maintenance charges, which vary by device classification and application type.'
+
+Add to the 'Pre-Market' section description: 'including recognition of notified bodies and overseas conformity assessments that may streamline your ARTG pathway.'
+
+Add to the introduction section after the first paragraph: 'The ARTG (Australian Register of Therapeutic Goods) is the official register of medical devices approved for supply in Australia. All devices must be included on the ARTG before being legally supplied in the Australian market.'
+
+Change 'If you are new to Australian medical device regulation:' line to: 'If you are new to Australian medical device regulation:
+→ Start Here'

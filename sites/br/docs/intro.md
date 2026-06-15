@@ -12,7 +12,7 @@ keywords: [ANVISA, medical devices, Brazil, regulatory, RDC 751, CBPF, regulator
 
 RAPath BR is a plain English reference for medical device regulation in Brazil under **ANVISA** (Agência Nacional de Vigilância Sanitária). It is designed for regulatory affairs professionals, manufacturers, importers, distributors, and consultants who need to find and understand Brazilian requirements quickly — especially those already familiar with the EU MDR, FDA, TGA, or Health Canada frameworks.
 
-This site does not replace official ANVISA sources. Every page links back to the authoritative legislative text or official ANVISA guidance. Think of RAPath BR as a structured, searchable index that helps you find what you need — then points you to the official source to verify it.
+This site does not replace official ANVISA sources. Every page links back to the authoritative legislative text or official ANVISA guidance. Think of RAPath BR as a structured, searchable reference that helps you locate and understand ANVISA requirements — then verify the specific details against the official source before making regulatory decisions.
 
 ---
 

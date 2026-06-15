@@ -66,3 +66,5 @@ Changes to the registered device — including changes to the device itself, lab
 ## Third-party pre-review
 
 "The designated pre-approving agency reviews the dossier for completeness and COFEPRIS compliance before formal submission, typically within 15–20 business days. This pre-review is optional but recommended, as it significantly reduces deficiency letters. The pre-review timeline is separate from the official COFEPRIS review clock; the clock begins when the complete dossier is formally submitted to COFEPRIS via DIGIPRiS."
+
+The designated pre-approving agency reviews the dossier for completeness and COFEPRIS compliance before formal submission, typically within 15–20 business days. This pre-review is optional but recommended, as it significantly reduces deficiency letters. The pre-review timeline is separate from the official COFEPRIS review clock; the clock begins when the complete dossier is formally submitted to COFEPRIS via DIGIPRiS.

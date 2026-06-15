@@ -13,7 +13,7 @@ tags: [introduction]
 
 RAPath CN is a plain English reference for China medical device regulation under the **Medical Device Supervision and Administration Regulations 2021 (MDSAR 2021 — 医疗器械监督管理条例, State Council Order No. 739)** and its implementing measures. It is designed for regulatory affairs professionals, manufacturers, importers, China Agents, distributors, and consultants navigating the National Medical Products Administration (NMPA — 国家药品监督管理局) framework.
 
-This site does not replace official NMPA sources. Every page links back to the authoritative legislative text or official NMPA guidance. Think of RAPath CN as a structured, searchable index that helps you find what you need — then points you to the official source to verify it.
+This site does not replace official NMPA sources. Every page links back to the authoritative legislative text or official NMPA guidance. RAPath CN is a structured, searchable index designed to help you locate relevant requirements quickly — but it is always your responsibility to verify against the official source before making regulatory decisions.
 
 ---
 
@@ -68,3 +68,9 @@ This site was last reviewed in **May 2026**. NMPA regulations and guidance chang
 :::note Disclaimer
 Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [NMPA](https://www.nmpa.gov.cn/) sources before making regulatory decisions. Not affiliated with NMPA or any Chinese Government body. Not legal or regulatory advice.
 :::
+
+Replace 'This site was last reviewed in [insert actual review month and year, e.g., May 2024].' with 'This site was last reviewed in [insert actual month and year].' with a more realistic past or current date.
+
+Replace 'This site was last reviewed in [insert current date, e.g., January 2025].' with 'This site was last reviewed in [current month and year].' For example: 'This site was last reviewed in January 2025.'
+
+Replace 'This site was last reviewed in May 2026.' with 'This site was last reviewed in [insert actual month and year].' with a more realistic past or current date.

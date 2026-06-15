@@ -44,7 +44,7 @@ An Ichibu Henko application is submitted to PMDA and follows a similar process t
 - Updated modules of the original dossier affected by the change (risk management, testing, labelling)
 - Updated Essential Principles checklist if affected
 
-PMDA reviews the application and MHLW issues the amended approval. Timelines are typically shorter than a full Shonin review but depend on the nature and complexity of the change.
+PMDA reviews the application and MHLW issues the amended approval. Ichibu Henko review timelines are typically shorter than a full Shonin review (often 2–6 months depending on complexity), but the exact timeline depends on the nature and complexity of the change and PMDA's review workload.
 
 Changes to post-market surveillance and safety monitoring:
 

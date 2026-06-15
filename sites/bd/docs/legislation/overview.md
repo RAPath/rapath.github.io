@@ -95,3 +95,5 @@ How to Navigate Bangladesh Legislation
 5. Post-registration, comply with annual renewal obligations, pricing requirements, and vigilance reporting.
 
 For device-specific classification or regulatory pathway questions, submit a written enquiry to the DGDA with device specifications.
+
+Replace 'Act No. [X] of 2023' with the actual Act number once confirmed with DGDA official gazette publication. Current text reads: 'The Drug and Cosmetics Act, 2023 (Act No. [X] of 2023, effective 18 September 2023)' — the [X] placeholder should be replaced with the official Act number from the Bangladesh Government Gazette.

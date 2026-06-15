@@ -33,7 +33,7 @@ The **UKNI indication** (UK Northern Ireland) is a specific indication used alon
 - A device has been assessed by a **UK Approved Body** (rather than an EU Notified Body), **and**
 - The device is being placed on the **Northern Ireland market**
 
-A device bearing the UKNI indication alongside the CE mark may be placed on the NI and GB markets — but NOT on the EU market. The UKNI indication signals that the conformity assessment was done by a UK body rather than an EU body, which limits its market reach.
+A device bearing the UKNI indication alongside the CE mark may be placed on both the NI and GB markets — but NOT on the EU market. The UKNI indication signals third-party assessment by a UK Approved Body rather than an EU Notified Body, which restricts market scope. The UKNI indication signals that the conformity assessment was done by a UK body rather than an EU body, which limits its market reach.
 
 ## Summary: which marks work where?
 

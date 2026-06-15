@@ -37,3 +37,5 @@ The MAH is responsible for ensuring that distributors and agents do not make adv
 ## Enforcement
 
 PMD Act advertising violations are enforced by MHLW and prefectural governments. Violations can result in warnings, orders to cease advertising, and in serious cases, penalties. MHLW actively monitors device advertising, including online content.
+
+While the PMD Act does not require pre-approval of advertising materials, MAHs are expected to have internal review processes to ensure all advertising claims comply with approved labelling. Some marketing materials, particularly scientific publications or clinical data presentations, may warrant consultation with PMDA if there is uncertainty about claims or comparator statements. Maintain documentation of advertising material review and approval within your quality system.

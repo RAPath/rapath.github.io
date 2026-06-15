@@ -27,4 +27,4 @@ Transfer process:
 3. MHLW or RCB issues an amended approval in the incoming MAH's name
 4. Labelling must be updated to show the new MAH name (labelling change notification or Ichibu Henko as appropriate)
 
-Allow 3–6 months for transfer approval and processing by MHLW or the RCB. Begin the transfer process early to ensure the incoming MAH's approval is issued before the current MAH's licence surrender takes effect, ensuring continuous MAH coverage with no gap in regulatory responsibility.
+Allow 3–6 months for transfer approval and processing by MHLW or the RCB (longer timelines are common if the application is incomplete or requires PMDA re-review). Begin the transfer process at least 6–9 months before the current MAH's licence renewal deadline or planned surrender date. This ensures the incoming MAH's approval is issued before the current MAH's licence expires or is surrendered, maintaining continuous MAH coverage with no gap in regulatory responsibility that could remove the device from the market.

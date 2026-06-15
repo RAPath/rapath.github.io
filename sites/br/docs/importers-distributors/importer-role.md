@@ -39,3 +39,5 @@ Verify all information against official [ANVISA](https://www.gov.br/anvisa) sour
 :::
 
 The importer must maintain product liability insurance with minimum coverage typically of R$ 500,000 to R$ 5,000,000 depending on the device class and risk profile. The importer is jointly liable with the foreign manufacturer for adverse events, recalls, and regulatory non-compliance discovered during the device's lifecycle in Brazil.
+
+Add under 'What this means in practice': 'Medical device registrations (Registro) must be renewed every 5 years from the date of issuance. Renewal petitions must be submitted to ANVISA at least 120 days before expiration to avoid interruption of legal marketing authorization.'

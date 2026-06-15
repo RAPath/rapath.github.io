@@ -20,7 +20,7 @@ This exemption is set out in the [Health Products (Medical Devices) Regulations 
 
 The exemption from *registration* does not mean there is **no obligation at all**. Manufacturers and importers of Class A devices must submit a **product notification application** via the SHARE portal before the device is supplied in Singapore.
 
-This is a common source of confusion. The distinction is:
+This is a critical distinction to understand:
 
 | | Class A | Class B / C / D |
 |---|---|---|

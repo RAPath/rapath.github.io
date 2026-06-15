@@ -79,4 +79,6 @@ Symposia, exhibitions, and promotional activities directed at HCPs are all subje
 | ASA: BCAP Code | Broadcast advertising standards |
 | MHRA: Advertising medical devices | MHRA advertising guidance |
 
-Social media advertising of medical devices must clearly identify the content as advertising and comply with CAP Code requirements. Hashtags, sponsored posts, and influencer partnerships promoting devices are subject to the same substantiation and non-misleading standards as traditional advertising.
+Social media advertising of medical devices must clearly identify the content as advertising (using #ad, #sponsored, or equivalent clear labelling) and comply with CAP Code requirements. Hashtags, sponsored posts, and influencer partnerships promoting devices are subject to the same substantiation and non-misleading standards as traditional advertising. Influencers must disclose any commercial relationship with the manufacturer; failure to do so may result in ASA complaints and MHRA enforcement action.
+
+Add to the 'Consumer-facing advertising: ASA oversight' section: 'Social media advertising of medical devices must clearly identify the content as advertising and comply with CAP Code requirements. Hashtags, sponsored posts, and influencer partnerships promoting devices are subject to the same substantiation and non-misleading standards as traditional advertising.'

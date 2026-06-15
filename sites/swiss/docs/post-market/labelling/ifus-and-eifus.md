@@ -11,7 +11,7 @@ keywords: [IFU, eIFU, instructions for use, MedDO, Switzerland, Swissmedic]
 IFU content requirements are set out in **MedDO Annex I § 23.4** and include: device identification; intended purpose; indications and contraindications; warnings and precautions; reprocessing instructions (for reusable devices); storage and transport conditions; shelf life; sterilisation instructions (if the user must sterilise); maintenance and calibration information; technical specifications.
 
 ## Conditions for Providing an eIFU
-Under MedDO Art. 12 (implementing EU Commission Regulation 207/2012, applicable in Switzerland by reference), manufacturers may provide the IFU in electronic form (eIFU) instead of a paper IFU for certain devices, subject to:
+Under MedDO Art. 12 (which transposes EU Commission Regulation 207/2012 on eIFUs, applicable in Switzerland), manufacturers may provide the IFU in electronic form (eIFU) instead of a paper IFU for certain devices, subject to:
 - The device is not intended for home use by lay persons (professional use only)
 - The manufacturer notifies Swissmedic before first placing the device on the Swiss market with an eIFU
 - A paper IFU is available free of charge on request to any user who requires one

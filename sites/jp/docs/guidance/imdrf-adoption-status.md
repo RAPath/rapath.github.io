@@ -20,11 +20,11 @@ MHLW and PMDA use IMDRF guidance to progressively harmonise Japan's regulatory r
 | IMDRF/CYBER WG/N60 — Cybersecurity | Cybersecurity principles for medical devices | Referenced in PMDA cybersecurity guidance |
 | IMDRF/UDI WG — UDI | Unique Device Identification | Japan UDI system developed in alignment with IMDRF framework |
 | IMDRF/GRRP WG/N52 — Good Regulatory Review Practice | Regulatory review consistency | Referenced internally by PMDA |
-| IMDRF/MCAR WG — MCAR | Medical device single audit programme | Japan participates in MDSAP discussions |
+| IMDRF/MCAR WG — MCAR | Medical device single audit programme | Japan is a full participant in MDSAP (Medical Device Single Audit Program), allowing manufacturers to conduct single audits satisfying multiple jurisdictional QMS requirements |
 
 ## Documents under consideration or in progress
 
-IMDRF continues to publish new guidance. Japan's current areas of active engagement include:
+IMDRF continues to publish new guidance. Japan's current areas of active engagement (via PMDA participation in working groups) include:
 - AI/ML post-market change management
 - Real World Evidence for medical devices
 - International Regulatory Reliance (building on existing IMDRF reliance frameworks)
@@ -38,3 +38,5 @@ For overseas manufacturers, Japan's IMDRF adoption means:
 - PMDA pre-submission consultations increasingly reference IMDRF guidance as the starting framework for data expectations
 
 "MDSAP participation: Japan participates in MDSAP, allowing manufacturers to conduct a single quality management system audit that can satisfy both Japan's MO 169 QMS requirements and requirements in other MDSAP jurisdictions (US, Canada, Brazil, Japan). This can significantly streamline QMS audits for multi-market applications. Contact PMDA for MDSAP auditor lists and qualification requirements."
+
+Add to Practical implications of IMDRF alignment section: "MDSAP participation: Japan participates in MDSAP, allowing manufacturers to conduct a single quality management system audit that can satisfy both Japan's MO 169 QMS requirements and requirements in other MDSAP jurisdictions (US, Canada, Brazil, Japan). This can significantly streamline QMS audits for multi-market applications. Contact PMDA for MDSAP auditor lists and qualification requirements."

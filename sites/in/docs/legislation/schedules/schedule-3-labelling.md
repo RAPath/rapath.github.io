@@ -12,3 +12,5 @@ This page provides an overview of this Schedule of the Medical Devices Rules 201
 > **Official source:** [MDR 2017 — CDSCO](https://cdsco.gov.in/opencms/opencms/en/Medical-Device-Diagnostics/Medical-Device-Diagnostic-Rules/)
 
 Schedule 3 of the Medical Devices Rules 2017 specifies comprehensive labelling and instructions for use (IFU) requirements. Key requirements include: mandatory use of English language with optional regional language translations, device name and manufacturer identification, lot and serial number marking, expiry dating, sterilization method (if applicable), storage conditions, and clear IFU reference. All labels must be legible, indelible, and placed prominently on the device and packaging.
+
+For devices intended for use in specific states or regions, labelling and IFU in the principal regional language of that state is mandatory in addition to English. The option for regional language translation applies when a device is distributed across multiple states; manufacturers must provide translations for the primary languages of intended distribution areas.

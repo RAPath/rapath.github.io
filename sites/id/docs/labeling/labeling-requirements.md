@@ -69,3 +69,5 @@ After the NIE is issued, the **NIE number must be incorporated into all product 
 3. Ensuring field stock carries the approved NIE-bearing label
 
 Kemenkes conducts market sampling to verify that the label on products in hospitals and pharmacies matches the approved label in Regalkes.
+
+Update the 'Single use statement' row in the Mandatory Label Elements table to read: 'If applicable: "FOR SINGLE USE ONLY" / "Sekali Pakai" or "Hanya untuk Penggunaan Sekali Pakai" (approved Indonesian equivalents)'

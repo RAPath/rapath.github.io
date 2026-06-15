@@ -21,7 +21,7 @@ Permitted claims are those that are **accurate, consistent with the Device Licen
 Making claims for indications not covered by the Device Licence is prohibited, even if the off-label use may be clinically accepted.
 
 ### Health Canada endorsement claims
-Claiming that Health Canada has endorsed or approved the effectiveness of the device is prohibited. Health Canada licences devices based on safety and effectiveness data, but does not endorse products.
+Claiming that Health Canada has endorsed or approved the effectiveness of the device is prohibited. Health Canada issues a Device Licence based on a determination that the device is safe and effective for its intended use, but does not endorse products. Statements such as 'Health Canada approved' are acceptable when describing the regulatory status; however, claims of endorsement, superiority, or preference are prohibited.
 
 ### False or misleading claims
 Examples of prohibited false/misleading claims:
@@ -44,3 +44,11 @@ Health Canada monitors advertising for compliance. Violations may result in:
 Competitors, healthcare professionals, and consumers may also report suspected non-compliant advertising to Health Canada.
 
 > **Legislative source:** Food and Drugs Act, RSC 1985, c F-27, s 9 (false advertising); Competition Act, RSC 1985, c C-34 (misleading advertising)
+
+Comparative claims
+
+Claims comparing the device to competitors or alternative treatments are permitted only if:
+The comparison is based on clinically relevant endpoints supported by competent and reliable scientific evidence
+The comparator device or treatment is clearly identified
+The comparison is fair and does not use selective data presentation
+The claim does not overstate the significance of differences

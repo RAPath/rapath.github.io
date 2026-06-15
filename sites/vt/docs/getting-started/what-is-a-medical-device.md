@@ -31,7 +31,7 @@ Some products sit on the boundary between medical devices and medicines, cosmeti
 - If the primary action is physical or mechanical → it is a **medical device** (regulated under Decree 98/2021)
 
 :::tip When in doubt, ask DAV
-If you are unsure whether your product qualifies as a medical device, you can submit a classification or determination request to the Drug Administration of Vietnam (DAV) before investing in a full registration dossier.
+If you are unsure whether your product qualifies as a medical device, you can submit a written request for classification or determination to DAV before investing in a full registration dossier. DAV typically provides a response within 20–30 working days. A written determination from DAV provides certainty on regulatory status and can be referenced in subsequent regulatory submissions.
 :::
 
 ## IVD devices

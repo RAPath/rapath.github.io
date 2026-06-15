@@ -24,3 +24,7 @@ India's manufacturing licence framework splits authority between **CDSCO** (Clas
 - CDSCO/SLA inspection prior to grant of licence.
 
 > **Official source:** Medical Devices Rules 2017, Chapter IV; [CDSCO](https://cdsco.gov.in)
+
+Processing Timeline and Validity:
+
+Applications are typically processed within 90 days of receipt of complete documentation. Manufacturing licences are valid for 5 years from the date of issue and must be renewed before expiry. License renewal applications should be submitted at least 6 months before the expiry date.

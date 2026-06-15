@@ -9,7 +9,7 @@ tags: [guidance, meddev, nb-med, blue-guide]
 # MEDDEV, NB-MED recommendations, EC Blue Guide & forms
 
 :::warning Disclaimer
-MEDDEV and NB-MED documents were produced under the old MDD/AIMDD/IVDD framework. While many remain relevant as interpretive guidance, they must be read in the context of MDR/IVDR requirements, which supersede them where inconsistent.
+MEDDEV and NB-MED documents were produced under the old MDD/AIMDD/IVDD framework (pre-2017). While some retain value as interpretive background, they must be read critically in the context of MDR/IVDR requirements. MDR/IVDR supersede these older documents where inconsistent. For current compliance questions, always refer to MDCG guidance first, then to MEDDEV only where MDCG provides no explicit guidance.
 :::
 
 ---
@@ -95,3 +95,5 @@ Key forms and application portals for EU medical device regulation:
 - [How to read EU legislation](/legislation/how-to-read-eu-legislation)
 
 Access them at: https://health.ec.europa.eu/medical-devices-sector/new-regulations/mdcg-endorsed-documents-and-other-guidance-and-documents_en (select "MEDDEV guidance" tab).
+
+Add after 'All MEDDEV documents are available on the European Commission DG SANTE website under the "Old Guidance" section.': 'Access them at: https://health.ec.europa.eu/medical-devices-sector/new-regulations/mdcg-endorsed-documents-and-other-guidance-and-documents_en (select "MEDDEV guidance" tab).'

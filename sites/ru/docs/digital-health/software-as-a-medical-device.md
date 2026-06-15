@@ -58,3 +58,9 @@ Roszdravnadzor methodological guidelines on medical software (2018): [roszdravna
 Post-market surveillance for SaMD
 
 Software medical devices classified as Class IIb or III registered after January 2021 must submit annual clinical post-market monitoring reports. Updates to software versions that change the algorithm or diagnostic output must be reported to Roszdravnadzor. Critical security patches should be documented in post-market reports.
+
+Add new section after 'AI and machine learning':
+
+Post-market surveillance for SaMD
+
+Software medical devices classified as Class IIb or III registered after January 2021 must submit annual clinical post-market monitoring reports. Updates to software versions that change the algorithm or diagnostic output must be reported to Roszdravnadzor. Critical security patches should be documented in post-market reports.

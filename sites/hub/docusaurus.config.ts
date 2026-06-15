@@ -29,7 +29,21 @@ const config: Config = {
       'classic',
       {
         docs: false,
-        blog: false,
+        blog: {
+          path: 'whats-new',
+          routeBasePath: 'whats-new',
+          blogTitle: "What's New",
+          blogDescription: 'Latest regulatory updates across 24 jurisdictions',
+          blogSidebarTitle: 'Recent Updates',
+          blogSidebarCount: 10,
+          postsPerPage: 20,
+          showReadingTime: false,
+          feedOptions: {
+            type: 'all',
+            title: 'RAPath Regulatory Updates',
+            description: 'Latest medical device regulatory news across 24 jurisdictions',
+          },
+        },
         theme: {
           customCss: [
             path.resolve(__dirname, '../../packages/theme/src/css/custom.css'),
@@ -54,13 +68,14 @@ const config: Config = {
           href: '/#jurisdictions',
           position: 'left',
         },
+        { to: '/whats-new', label: "What's New", position: 'left' },
         { href: 'https://github.com/orgs/RAPath/discussions', label: 'Q&A', position: 'left' },
         {
           to: "/tools/",
           label: "🔍 Regulatory Tools",
           position: "right",
         },
-        { href: 'https://github.com/RAPath', label: 'GitHub', position: 'right' },
+        { href: 'https://github.com/RAPath/rapath.github.io', label: 'GitHub', position: 'right' },
       ],
     },
     footer: {
@@ -69,6 +84,7 @@ const config: Config = {
         {
           title: 'Community',
           items: [
+            { label: "What's New", to: '/whats-new' },
             { label: 'Regulatory Updates', href: 'https://github.com/orgs/RAPath/discussions/categories/regulatory-updates' },
             { label: 'Suggest content', href: 'https://github.com/orgs/RAPath/discussions/categories/idea' },
             { label: 'Report an Error', href: 'https://github.com/orgs/RAPath/discussions/new?category=corrections' },

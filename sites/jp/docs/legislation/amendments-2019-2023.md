@@ -48,4 +48,8 @@ Updated provisions to clarify the application of advertising restrictions to dig
 
 The current consolidated text of the PMD Act (incorporating all amendments in effect) is maintained on e-Gov and automatically updated when new amendments take effect.
 
-This target applies to SAKIGAKE-designated devices and represents PMDA's review timeline; actual approval may take longer if additional information is required from the applicant.
+This 6-month target applies to SAKIGAKE-designated devices and represents PMDA's standard review timeline under the Priority Review (Yusen Shinsa) process. Actual approval timelines may extend beyond 6 months if PMDA issues deficiency notices (Teisetsu-tsu) requesting additional information or clarification from the applicant, as the review clock may pause during applicant response periods depending on PMDA's procedural rules at that time.
+
+Add after 'Target PMDA review time: 6 months': 'This target applies to SAKIGAKE-designated devices and represents PMDA's review timeline; actual approval may take longer if additional information is required from the applicant.'
+
+Programme Medical Devices — implementation timeline: The 2019 amendments formalised conditional and time-limited approval for medical devices effective from the date of amendment; however, MHLW guidance on SaMD-specific classification criteria was issued subsequently. MAHs should verify the current SaMD classification guidance via MHLW notifications before determining eligibility for expedited pathways.

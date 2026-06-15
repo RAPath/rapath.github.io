@@ -64,3 +64,5 @@ The **labeller** must submit the following information for each Primary DI to GU
 - [FDA — UDI System](https://www.fda.gov/medical-devices/unique-device-identification-system-udi-system)
 
 Effective December 1, 2022, all Class III and Class II devices must bear UDI on labels. Effective December 1, 2023, Class I devices must comply (with limited exemptions for certain historical devices and in-vitro diagnostics with alternative identification requirements).
+
+Add new section 'UDI implementation timeline': 'Effective December 1, 2022, all Class III and Class II devices must bear UDI on labels. Effective December 1, 2023, Class I devices must comply (with limited exemptions for certain historical devices and in-vitro diagnostics with alternative identification requirements).'

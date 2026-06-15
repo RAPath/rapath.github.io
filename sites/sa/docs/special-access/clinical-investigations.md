@@ -45,3 +45,11 @@ Where clinical investigations in Saudi Arabia are not required, the SFDA accepts
 - [SFDA Enforcement](./enforcement)
 
 ## SFDA authorisation for clinical investigations
+
+Add to the 'SFDA authorisation for clinical investigations' section:
+
+**Timeline for approval**
+
+The SFDA typically reviews clinical investigation applications within 30-60 days of submission via GHAD. Applicants should budget for potential requests for clarification or additional information, which may extend the review period.
+
+Clinical investigation approval timeline: The SFDA typically reviews clinical investigation applications within 30-45 days of submission via GHAD. All ethics committee approvals must be obtained before SFDA authorization is granted. Applicants should submit evidence of ethics committee review alongside the clinical investigation plan.

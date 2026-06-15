@@ -28,3 +28,7 @@ For **critical SUDs** (those that contact blood, bone, or tissue), reprocessors 
 ## Official resources
 - [FDA — Reprocessing of Single-Use Devices](https://www.fda.gov/medical-devices/reprocessing-single-use-devices)
 - [FDA — List of Cleared/Approved Reprocessors](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm)
+
+**Examples of Critical SUDs**
+
+Critical single-use devices are those that contact sterile tissue or blood during use. Common examples include surgical instruments, implantable devices, and cardiovascular catheters. For critical SUDs, third-party reprocessors must demonstrate through 510(k) submission that cleaning, sterilization, and disinfection processes maintain device integrity and performance across multiple reprocessing cycles—typically validated through at least 10 reprocessing cycles or as specified in the original device's design specifications.

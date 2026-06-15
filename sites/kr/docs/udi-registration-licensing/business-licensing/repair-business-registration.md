@@ -35,3 +35,5 @@ Repair business registration requires specifying the exact scope of repair activ
 - Geographical scope if applicable
 
 The scope must be approved by MFDS during registration and can only be modified through a formal scope change application.
+
+Add a new section titled "Application Process": "Repair business registration is submitted to MFDS via the eSubmission portal and requires: business registration certificate, qualifications of repair personnel, facility description, scope of repair activities, and list of device types/models to be repaired. Registration must be updated if scope changes or key personnel changes."

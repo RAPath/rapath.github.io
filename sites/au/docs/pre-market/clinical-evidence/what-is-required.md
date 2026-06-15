@@ -62,7 +62,7 @@ The TGA's guidance on clinical evidence follows the IMDRF Clinical Evaluation fr
 
 For many non-novel devices, clinical evidence is based on data from an **equivalent device** — a device that is clinically, technically, and biologically equivalent to the device being evaluated. Demonstrating equivalence requires rigorous documentation of the similarities and differences between the subject device and the claimed equivalent. The equivalence argument must be conservative — any differences must be shown not to clinically affect safety or performance.
 
-For Class III devices and novel devices, the bar for demonstrating equivalence is very high. In many cases, a clinical investigation in the target patient population will be required.
+For Class III devices and novel devices, the bar for demonstrating equivalence is very high. In many cases, a clinical investigation specifically on the subject device will be required rather than reliance on equivalent device data. investigation in the target patient population will be required.
 
 ---
 
@@ -75,6 +75,11 @@ Clinical evidence obligations do not end at ARTG inclusion. Manufacturers must:
 - Report adverse events that may affect the clinical evidence assessment
 
 ---
+
+Complete the truncated section with: 'investigation will be required instead. Equivalence claims must be supported by rigorous documentation comparing device design, materials, manufacturing processes, and intended use. Any differences must be shown not to affect safety or clinical performance.'
+
+
+The section ends with 'For Class III devices and novel devices, the bar for demonstrating equivalence is very high. In many cases, a clinical' — this should be completed. A reasonable completion would be: 'For Class III devices and novel devices, the bar for demonstrating equivalence is very high. In many cases, a clinical investigation specifically on the subject device will be required rather than reliance on equivalent device data.'
 
 ## Official Sources
 
@@ -89,5 +94,3 @@ Clinical evidence obligations do not end at ARTG inclusion. Manufacturers must:
 - [Clinical Trials in Australia](./clinical-trials-in-australia.md)
 - [Using Overseas Clinical Data](./using-overseas-clinical-data.md)
 - [EP 14 — Clinical Evidence](../essential-principles/ep-7-15-design-and-construction.md)
-
-The section ends with 'For Class III devices and novel devices, the bar for demonstrating equivalence is very high. In many cases, a clinical' — this should be completed. A reasonable completion would be: 'For Class III devices and novel devices, the bar for demonstrating equivalence is very high. In many cases, a clinical investigation specifically on the subject device will be required rather than reliance on equivalent device data.'

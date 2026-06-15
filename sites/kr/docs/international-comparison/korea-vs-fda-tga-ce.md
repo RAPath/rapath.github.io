@@ -27,3 +27,5 @@ sidebar_position: 3
 - [IMDRF membership and alignment](./imdrf-membership-and-alignment) · [MRA agreements](./mra-agreements-and-bilateral-recognition)
 
 Add under 'Re-examination' bullet point: "Re-examination is a mandatory post-market surveillance review conducted 4–6 years after initial approval for new technology devices (Grades III–IV). MFDS evaluates new safety/efficacy data and may require labelling updates or additional conditions. Failure to complete re-examination can result in device suspension or withdrawal."
+
+Re-examination (재심사) — unique mandatory post-market review for new approvals. Re-examination is a mandatory post-market surveillance review conducted 4–6 years after initial approval for new technology devices (Grades III–IV). MFDS evaluates new safety/efficacy data and may require labelling updates or additional conditions. Failure to complete re-examination can result in device suspension or withdrawal.

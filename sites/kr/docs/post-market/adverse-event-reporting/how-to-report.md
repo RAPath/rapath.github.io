@@ -30,3 +30,7 @@ MFDS assigns a report number, may request additional information, assesses wheth
 "Language
 
 Reports must be submitted in Korean. Foreign manufacturers should coordinate with their Korean importer/agent to ensure proper translation and submission."
+
+Add after Reporting portal section: "Language
+
+Reports must be submitted in Korean. Foreign manufacturers should coordinate with their Korean importer/agent to ensure proper translation and submission."

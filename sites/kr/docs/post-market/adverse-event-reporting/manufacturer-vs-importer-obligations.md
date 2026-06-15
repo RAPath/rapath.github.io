@@ -27,3 +27,7 @@ Must report to:
 
 ## Related pages
 - [What must be reported](./what-must-be-reported) · [How to report](./how-to-report)
+
+Rewrite the first bullet point under 'Importer obligations' from: 'Forward all adverse event reports received from Korean healthcare facilities to the foreign manufacturer and report to MFDS within the required timeframes' to: 'Forward all adverse event reports received from Korean healthcare facilities to the foreign manufacturer and MFDS within the required timeframes'
+
+Rewrite the first bullet point under 'Importer obligations' from: 'Forward reports received from Korean healthcare facilities to the foreign manufacturer adverse event both and within the required timeframes to MFDS' to: 'Forward all adverse event reports received from Korean healthcare facilities to the foreign manufacturer and MFDS within the required timeframes'

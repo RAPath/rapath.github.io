@@ -47,4 +47,6 @@ When more than one rule applies to a device, the device is classified at the **h
 [Medical Devices Regulations, SOR/98-282, Schedule 2](https://laws-lois.justice.gc.ca/eng/regulations/SOR-98-282/page-12.html)
 :::
 
-How to apply Schedule 2 in practice: (1) Identify all characteristics of the device (contact type, duration, intended use, invasiveness); (2) Check which rules apply based on these characteristics; (3) If multiple rules apply, classify at the highest class; (4) Consult Health Canada guidance if classification is uncertain. Contact the Medical Devices Directorate for a pre-submission classification opinion if needed.
+How to apply Schedule 2 in practice: (1) Identify all characteristics of the device (contact type, duration, intended use, invasiveness); (2) Check which rules apply based on these characteristics; (3) If multiple rules apply, classify at the highest class; (4) Consult Health Canada guidance if classification is uncertain. If uncertainty persists, contact Health Canada's Medical Devices Directorate (MDD) for a pre-submission classification opinion.
+
+Add a new section after 'The highest-class-wins principle': 'How to apply Schedule 2 in practice: (1) Identify all characteristics of the device (contact type, duration, intended use, invasiveness); (2) Check which rules apply based on these characteristics; (3) If multiple rules apply, classify at the highest class; (4) Consult Health Canada guidance if classification is uncertain. Contact the Medical Devices Directorate for a pre-submission classification opinion if needed.'

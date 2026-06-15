@@ -10,7 +10,7 @@ sidebar_position: 1
 
 Most KS standards for medical devices are **transpositions of IEC/ISO standards** with Korean-specific modifications. Examples:
 - KS C IEC 60601-1 (equivalent to IEC 60601-1) — general safety for electrically-powered devices
-- KS P ISO 10993 series — biocompatibility evaluation
+- KS C ISO 10993 series — biocompatibility evaluation
 
 ## Finding applicable KS standards
 

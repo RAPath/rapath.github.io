@@ -28,3 +28,5 @@ Manufacturers and IARs must submit PMSRs to CDSCO containing:
 Submission Frequency: As specified in approval conditions (typically annually for lower-risk devices, or as requested by CDSCO)
 
 PMSRs must be supported by complete documentation and complaint records available for regulatory review.
+
+Enhanced PMSR Requirements: For Class C and D devices, or devices with specific safety concerns identified during approval, PMSR may require: detailed adverse event narratives, comparative safety data against competitor products, patient outcome tracking data, healthcare professional feedback, and pharmacovigilance data (if applicable). CDSCO may request interim PMSRs at any time or increase submission frequency based on post-market safety signals.

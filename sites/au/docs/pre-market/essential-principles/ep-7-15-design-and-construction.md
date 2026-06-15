@@ -135,6 +135,9 @@ Essential Principles 7 to 15 are the **design and construction principles** that
 
 ---
 
+
+Complete the EP 11 section with: 'In practice: Radiation protection testing and dose measurement must be conducted and documented. For diagnostic X-ray equipment, compliance with IEC 61223 series standards is typically required. For laser devices, compliance with IEC 60825 series is required. Dose limits and safety measures must be clearly communicated in labelling and instructions for use. Relevant standards: IEC 61223 series (diagnostic X-ray), IEC 60825 series (laser and optical radiation), IEC 61010 series (lab equipment with radiation).'
+
 ## Official Sources
 
 - [Schedule 1, Part 2 — Design and construction EPs (AustLII)](https://www.legislation.gov.au/current/F2002B00237)

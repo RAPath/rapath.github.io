@@ -30,7 +30,7 @@ During a declared emergency, the FDA Philippines is required by the emergency fr
 - Provides a known timeline for industry to plan emergency supply
 - Covers both newly manufactured emergency devices and expedited import of registered devices
 
-**Historical context:** The COVID-19 pandemic demonstrated this provision in practice — Philippine FDA issued emergency use authorisations for critical diagnostics, PPE, and ventilators under expedited timeframes.
+**Historical context:** The COVID-19 pandemic demonstrated this provision in practice — Philippine FDA issued emergency use authorisations for critical medical devices including diagnostics, personal protective equipment (PPE), and ventilators under expedited timeframes via the emergency guidelines process.
 
 ## Emergency Access — Practical Implications
 

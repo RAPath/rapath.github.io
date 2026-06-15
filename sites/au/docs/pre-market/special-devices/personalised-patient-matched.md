@@ -20,7 +20,7 @@ Personalised and patient-matched devices include a wide range of products where 
 3D printing is transforming personalised device manufacturing, but regulatory status depends on the process, not the technology:
 
 - 3D-printed devices manufactured using a standard, manufacturing (such as a validated CAD-to-print workflow) repeatable process with patient-specific geometry inputs are generally **not custom-made** — they require ARTG inclusion
-- Truly one-off devices fabricated for a named patient by a health professional as part of their clinical practice occupy a more complex position — specific TGA guidance should be consulted
+- Devices fabricated for a named patient by a health professional as part of their clinical practice may qualify as custom-made if made specifically for that patient based on a written prescription and not using a mass production process; however, the TGA should be consulted where the device involves significant manufacturing complexity or scalability
 
 The TGA has published guidance on 3D-printed devices:
 
@@ -33,6 +33,9 @@ Manufacturers of patient-matched devices that are not custom-made must:
 - Hold an ARTG entry for the device type
 - Comply with Essential Principles, including demonstrating safety and performance for each patient-specific variant
 - Report adverse events
+
+
+For detailed guidance on what qualifies as a custom-made device (and therefore ARTG-exempt), see the Custom-Made Devices page. The key distinction between custom-made and manufactured patient-matched devices lies in whether the manufacturing process is repeatable and scalable using a 'mass production process' — even if each individual device has patient-specific geometry. A validated, standardised CAD-to-print workflow applied to multiple patients constitutes a standard manufacturing process, whereas true bespoke fabrication for a single named patient by a health professional as part of clinical practice may qualify as custom-made.
 
 ## Official Sources
 

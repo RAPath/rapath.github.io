@@ -6,7 +6,7 @@ sidebar_position: 4
 
 ## When a mobile app IS a medical device
 
-MFDS regulates mobile apps as SaMD when they are intended to:
+MFDS regulates mobile apps as SaMD (Software as a Medical Device) when they are intended to:
 - **Diagnose** a medical condition (e.g., AI-assisted ECG interpretation app)
 - **Treat** a medical condition (e.g., app delivering CBT for depression — may be regulated as DTx)
 - **Monitor** a patient's clinical condition for treatment decisions (e.g., continuous glucose monitor companion app)

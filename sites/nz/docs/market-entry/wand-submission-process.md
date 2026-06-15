@@ -45,7 +45,7 @@ To obtain a GMDN code:
 Once in the WAND portal, the Sponsor answers a series of questions about the device. Each question has a drop-down menu. At the end of the process, the Sponsor signs a **statutory declaration** confirming the information is accurate and that the device meets the requirements of the Medicines Act 1981.
 
 :::note
-Once the notification is submitted and signed, WAND confirms the new notification. There is no waiting period or Medsafe review — the device can be supplied as soon as notification is complete.
+Once the notification is submitted and the statutory declaration is signed, the WAND system confirms the new notification is received. There is no waiting period or Medsafe review — the device can be supplied as soon as the notification submission is complete.
 :::
 
 ---

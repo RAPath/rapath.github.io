@@ -76,3 +76,5 @@ Failure to maintain current MHRA registration can:
 | MHRA: Registering medical devices | Registration and maintenance guidance |
 
 Timing of registration updates: Registration updates should be submitted to MHRA without undue delay after a change occurs. For name and address changes, updates should be made within 30 days. For device-level changes (new models, classification changes), updates must be completed before the device is placed on the market or before the change is implemented. MHRA should be notified of the change in advance of implementation where feasible.
+
+Add new section: 'Timing of registration updates: Registration updates should be submitted to MHRA without undue delay after a change occurs. For name and address changes, updates should be made within 30 days. For device-level changes (new models, classification changes), updates must be completed before the device is placed on the market or before the change is implemented. MHRA should be notified of the change in advance of implementation where feasible.'

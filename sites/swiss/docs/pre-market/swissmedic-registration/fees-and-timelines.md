@@ -27,7 +27,12 @@ Fees are per product group — device families with the same basic design may qu
 | Class IIb registration | 8–16 weeks |
 | Class III registration | 12–24 weeks |
 
-Incomplete submissions are placed on hold pending additional These timelines apply only to complete submissions with all required documentation. information and the timeline restarts upon resubmission of missing documents. Processing times may be extended if Swissmedic requests clarifications or additional technical information from the applicant.
+Incomplete submissions are placed on hold pending additional information and the timeline restarts upon resubmission of missing documents. These timelines apply only to complete submissions with all required documentation. information and the timeline restarts upon resubmission of missing documents. Processing times may be extended if Swissmedic requests clarifications or additional technical information from the applicant.
+
+
+Annual Renewal and Maintenance Fees
+
+Registered devices require annual renewal fees to maintain active status in DAPI. Annual renewal fees are typically lower than initial registration fees and must be paid to keep the device authorised for market distribution. Failure to pay annual renewal fees may result in automatic market suspension. Current annual fee amounts should be verified on the Swissmedic website as they are subject to change.
 
 ## Official Sources
 - [MedDO Fees Ordinance (SR 812.213.1)](https://www.fedlex.admin.ch/eli/cc/2021/206/en)

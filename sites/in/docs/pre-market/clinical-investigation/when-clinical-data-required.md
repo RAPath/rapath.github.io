@@ -43,3 +43,22 @@ Clinical investigations are mandated in these scenarios:
    - Reference clinical data is limited, outdated, or does not address specific safety concerns
 
 Class A and B devices: Clinical investigations are typically not required if adequate technical documentation and reference approval (where available) support the regulatory submission.
+
+Clinical investigations are mandated in these scenarios:
+
+Novel Devices Without Reference Authority Approval
+No approved equivalent device exists in USA, EU, Japan, or other reference jurisdictions
+CDSCO requires clinical evidence of safety and performance
+
+Class C and D Devices
+Clinical data is typically required regardless of reference approval status
+Reference approval may reduce data requirements but does not eliminate them
+Exception: Extensive post-market surveillance data may support waiver requests
+
+Devices Where Bridging is Insufficient
+Design modifications significantly alter device performance or safety profile
+Intended use differs materially from reference-approved indications
+Target patient population has distinct demographic or genetic characteristics
+Reference clinical data is limited, outdated, or does not address specific safety concerns
+
+Class A and B devices: Clinical investigations are typically not required if adequate technical documentation and reference approval (where available) support the regulatory submission.

@@ -52,4 +52,6 @@ A Class II registration certificate is valid for **5 years**. Re-registration mu
 Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [NMPA](https://www.nmpa.gov.cn/) sources before making regulatory decisions. Not affiliated with NMPA or any Chinese Government body. Not legal or regulatory advice.
 :::
 
-Note: While most Class II devices are reviewed by provincial bureaux, CMDE may conduct technical review for certain complex Class II devices at NMPA's discretion or if escalated by the provincial bureau.
+This note is accurate but is positioned at the bottom of the page as a disclaimer. It should be integrated into the main 'Review process' section as a key point rather than relegated to a footnote, as it materially affects understanding of the Class II pathway.
+
+Add to the Review process section: 'Note: While most Class II devices are reviewed by provincial bureaux, CMDE may conduct technical review for certain complex Class II devices at NMPA's discretion or if escalated by the provincial bureau.' This note currently appears only at the bottom of the page in small text and should be integrated into the main Review process section for clarity.

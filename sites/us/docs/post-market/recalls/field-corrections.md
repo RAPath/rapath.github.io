@@ -46,4 +46,4 @@ FDA expects manufacturers to track **recall effectiveness** — confirming that 
 
 ## Official resources
 - [FDA — Conducting a Medical Device Recall](https://www.fda.gov/medical-devices/medical-device-recalls)
-- [21 CFR Part 806 Report Form (MedWatch 3500F)](https://www.fda.gov/safety/medwatch-fda-safety-information-and-adverse-event-reporting-program/medwatch-forms-fda-safety-reporting)
+- [21 CFR Part 806 — Corrections and Removals (requires FDA Form 3500F or equivalent MDR report form, depending on whether simultaneous medical device reporting is required)](https://www.fda.gov/safety/medwatch-fda-safety-information-and-adverse-event-reporting-program/medwatch-forms-fda-safety-reporting)

@@ -48,3 +48,11 @@ CAPA deficiencies are consistently the **most cited 483 observation** in FDA dev
 ## Official resources
 - [21 CFR § 820.100](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-H/part-820)
 - [FDA — CAPA Inspection Guidance](https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/inspection-guides/quality-systems-approach-pharmaceutical-cgmp-regulations)
+
+**Common CAPA Deficiency Examples from FDA 483 Observations**
+
+- **Incomplete root cause analysis**: Identifying symptoms (e.g., "operator error") without investigating why the error occurred or what systemic gaps enabled it
+- **Actions that don't address root cause**: If root cause is inadequate training, providing updated instructions alone without retraining and competency verification
+- **Vague or unverifiable effectiveness checks**: "Process improved" without measurable metrics; no verification that the corrective action actually prevented recurrence
+- **Untimely CAPA closure**: CAPAs remaining open >90 days without documented justification or interim measures
+- **Failure to link trending to CAPA**: Ignoring patterns of similar complaints or nonconformances that indicate systemic issues requiring preventive action

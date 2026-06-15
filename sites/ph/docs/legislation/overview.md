@@ -44,7 +44,7 @@ Affects pricing provisions for health products. Relevant for manufacturers conce
 |---------|---------|
 | **FDA Circular 2022-008** | Abridged ASEAN NRA reliance pathway — 30 working-day CMDR |
 
-Circulars are numbered and dated. Always confirm you have the current version — circulars may be updated or superseded.
+FDA Circulars are numbered and dated. Always confirm you have the current version before applying any circular — circulars may be updated or superseded without formal notice. Download fresh versions directly from www.fda.gov.ph for each new application.
 
 ## ASEAN Instruments
 

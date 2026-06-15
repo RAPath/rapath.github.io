@@ -7,7 +7,7 @@ last_reviewed: 2026-04-30
 
 ## Overview
 
-The TGA charges fees for ARTG inclusion applications and annual charges for maintaining ARTG entries. Fees are updated annually (typically from 1 July each financial year) and are set out in Schedule 5 of the Therapeutic Goods (Medical Devices) Regulations 2002 and the Therapeutic Goods (Charges) Act 1989. Always verify the current fee schedule on the TGA website before submitting an application, as fees change each year.
+The TGA charges fees for ARTG inclusion applications and annual charges for maintaining ARTG entries. Fees are updated annually (typically from 1 July each financial year) and are set out in Schedule 5 of the Therapeutic Goods (Medical Devices) Regulations 2002 and the Therapeutic Goods (Charges) Act 1989. Always verify the current fee schedule on the TGA website before submitting an application. Fees are indexed and updated annually (typically from 1 July each financial year). Using outdated fee information may result in application rejection at preliminary assessment.
 
 ---
 
@@ -55,7 +55,7 @@ Where a manufacturer applies for TGA conformity assessment certification and sub
 ## Annual Charges — Key Points
 
 - Annual charges are levied on the **sponsor** for each active ARTG entry
-- Charges apply regardless of whether the device is actively being supplied
+- Charges apply for the full financial year regardless of whether the device is actively being supplied in that period
 - Annual charges differ by device class (higher-risk classes attract higher annual charges)
 - Failure to pay results in cancellation of the ARTG entry — which means the device can no longer be legally supplied
 - Sponsors can cancel ARTG entries they no longer need to avoid ongoing annual charge obligations

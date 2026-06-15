@@ -39,10 +39,12 @@ MHLW updates the recognised standards list when:
 - Existing standards are revised and MHLW transitions to the new version
 - New device types are added to the list
 
-Subscribe to MHLW update notifications or periodically check the MHLW website to ensure you are using the current version of the list.
+Monitor the MHLW website quarterly or subscribe to PMDA's notification service to ensure you are using the current version of the list. Updates are typically announced 1–2 times per year via MHLW notifications and posted to mhlw.go.jp; no automated alert system exists, so proactive monitoring is necessary.
 
 :::info Official source
 [MHLW recognised standards list](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iyakuhin/kigu/ninshoulist.html) (Japanese — updated periodically)
 :::
 
 MHLW publishes updates to the recognised standards list typically 1–2 times per year, often aligned with international standard revisions (ISO, IEC) or in response to new device types entering the market. Updates are announced via MHLW notifications (通知) and posted on mhlw.go.jp. There is no single automated alert system; monitor the site quarterly or subscribe to PMDA's notification service.
+
+Add a new subsection titled 'Update frequency and timeline': 'MHLW publishes updates to the recognised standards list typically 1–2 times per year, often aligned with international standard revisions (ISO, IEC) or in response to new device types entering the market. Updates are announced via MHLW notifications (通知) and posted on mhlw.go.jp. There is no single automated alert system; monitor the site quarterly or subscribe to PMDA's notification service.'

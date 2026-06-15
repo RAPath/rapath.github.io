@@ -6,7 +6,7 @@ sidebar_position: 1
 # What is a Marketing Authorization Holder (MAH)?
 
 :::note JP-unique
-The MAH (製造販売業者 — Seizouhanbaigyo-sha) requirement is the defining structural feature of Japan's medical device market. Unlike the EU (where the manufacturer can hold the CE marking), the US (where the manufacturer holds the 510(k) or PMA), or Australia (where the sponsor can be overseas), Japan requires every device approval or certification to be held by a Japan-domiciled entity. Overseas manufacturers cannot hold Japanese device approvals directly.
+The MAH (製造販売業者 — Seizouhanbaigyo-sha) requirement is the defining structural feature of Japan's medical device market. Unlike the EU (where the manufacturer can hold CE marking responsibility), the US (where the manufacturer holds the 510(k) or PMA approval), or Australia (where an overseas sponsor can hold the therapeutic goods approval), Japan requires every device approval or certification to be held in the name of a Japan-domiciled entity. Overseas manufacturers cannot hold Japanese device approvals directly.
 :::
 
 ## Definition and legal basis
@@ -41,3 +41,5 @@ For most overseas manufacturers, establishing a Japan-based MAH means either:
 ## What the MAH is not
 
 The MAH is not merely a representative or regulatory agent in the EU/Australian sense. The MAH is the **legal holder of the regulatory authorisation** with full regulatory responsibility. MHLW treats the MAH as the accountable entity — not the overseas manufacturer. If there is a recall or adverse event investigation, MHLW communicates with the MAH, not the manufacturer.
+
+PMDA role: The Pharmaceuticals and Medical Devices Agency (PMDA) conducts scientific review of Shonin and Ninsho applications on behalf of MHLW and issues inspection reports, but MHLW retains final authority over the MAH licence and approval grants. PMDA also conducts facility inspections (GQP inspections) of manufacturing sites registered under the MAH. Communications from PMDA inspection teams should be forwarded immediately to the relevant prefectural government or MHLW depending on your licence class.

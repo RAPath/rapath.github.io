@@ -20,7 +20,7 @@ The **manufacturer** is the person or organisation that designs, produces, fabri
 - Providing accurate labelling and instructions for use
 - Cooperating with the NZ Sponsor on WAND notification and Medsafe requests
 
-A manufacturer based outside New Zealand cannot directly notify WAND — they must appoint a Sponsor. However, manufacturers retain responsibility for the device's design and safety.
+A manufacturer based outside New Zealand cannot directly notify WAND — they must appoint a New Zealand Sponsor. However, manufacturers retain full responsibility for the device's design, safety, and performance, even though the Sponsor holds the primary legal responsibility for supply in the NZ market.
 
 ---
 
@@ -72,7 +72,7 @@ A **distributor** supplies a device within New Zealand without importing it — 
 
 Healthcare providers who **supply** medical devices to patients (including hospitals, clinics, and individual practitioners) generally do so under normal supply chain obligations. However, healthcare providers who **manufacture** custom-made devices — including custom orthotics, prosthetics, or dental appliances — may have obligations as a manufacturer/Sponsor.
 
-Hospitals that reprocess single-use devices may also have additional obligations.
+Hospitals that reprocess single-use devices may have manufacturer obligations and should seek Medsafe guidance on whether they must register as a manufacturer or appoint a Sponsor for the reprocessed devices.
 
 ---
 
@@ -87,3 +87,7 @@ Hospitals that reprocess single-use devices may also have additional obligations
 | Healthcare provider / end user | Rarely | Not required | Should report | Depends on role |
 
 "Healthcare providers or organisations that manufacture custom-made devices (such as dental laboratories or orthotics workshops) must either register as a manufacturer with Medsafe or appoint a Sponsor to take legal responsibility for the device. Many small custom manufacturing operations self-sponsor their devices by registering as a New Zealand-based entity."
+
+Add to the Healthcare providers section: "Healthcare providers or organisations that manufacture custom-made devices (such as dental laboratories or orthotics workshops) must either register as a manufacturer with Medsafe or appoint a Sponsor to take legal responsibility for the device. Many small custom manufacturing operations self-sponsor their devices by registering as a New Zealand-based entity."
+
+The incomplete sentence should be completed as: "Many small custom manufacturing operations self-sponsor their devices by registering with Medsafe or appointing a Sponsor to take legal responsibility for the devices they make."

@@ -17,3 +17,13 @@ confirming KGMP compliance at the manufacturing site and that the product is not
 
 ## Related pages
 - [Exporting from Korea](../../international-comparison/exporting-from-korea)
+
+Export certificate validity and renewal
+
+Export certificates are typically valid for 1–3 years depending on the product category and MFDS issuance terms. To renew:
+• Apply via MFDS eSubmission portal 30–60 days before expiration
+• Confirm KGMP certification remains active
+• Declare the product remains compliant with Korean regulations (not banned or prohibited)
+• Provide updated manufacturing site information if applicable
+
+Renewal processing typically takes 5–10 business days.

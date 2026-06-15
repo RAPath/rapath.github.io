@@ -27,7 +27,7 @@ Despite being Class A overall, three sub-categories carry heightened requirement
 All Class A devices (including As, Am, and Ar sub-types) require **MDMA** via the TFA route. There is no longer a simple self-declaration or listing pathway — the MDNR (Medical Device National Registry) was cancelled in September 2022.
 
 :::info MDNR cancellation
-Before September 2022, basic Class A non-sterile, non-measuring devices could be registered via the simplified MDNR (listing) route. This route is no longer available. All devices must now follow the TFA pathway.
+Before September 2022, basic Class A non-sterile, non-measuring devices could be registered via the simplified MDNR (Medical Device National Registry listing) route. This route is no longer available as of September 2022. All devices must now follow the TFA (Technical File Assessment) pathway.
 :::
 
 ## Technical file requirements for Class A
@@ -61,3 +61,5 @@ Class A manufacturers must maintain a **PMS Report** (rather than the full PSUR 
 - [Technical File Overview](../technical-documentation/technical-file-overview)
 
 On first mention of 'TFA route', add: 'All Class A devices (including As, Am, and Ar sub-types) require MDMA via the TFA route (Technical File Assessment) — the standard pathway for device registration with the SFDA.'
+
+In the 'MDMA pathway for Class A' section, change the opening sentence to: 'All Class A devices (including As, Am, and Ar sub-types) require MDMA via the TFA route (Technical File Assessment) — the standard pathway for device registration with the SFDA. There is no longer a simple self-declaration or listing pathway — the MDNR (Medical Device National Registry) was cancelled in September 2022.'

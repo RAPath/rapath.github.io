@@ -38,7 +38,7 @@ Kemenkes evaluates the following areas during CDAKB certification inspections:
 3. Inspector evaluates all CDAKB-relevant areas
 4. Certificate issued on satisfactory assessment (or corrective actions required)
 
-CDAKB is subject to periodic re-inspection. Ongoing unannounced inspections may occur based on compliance history.
+CDAKB certificates are subject to periodic re-inspection (typically upon renewal or at intervals defined by Kemenkes). Additionally, Kemenkes may conduct unannounced inspections of facilities at any time based on compliance history, risk profile, or complaint investigations. Plan for the possibility of unannounced inspections as part of ongoing CDAKB compliance management.
 
 ---
 
@@ -59,3 +59,5 @@ This is why due diligence on your LAR's CDAKB status — and ongoing monitoring 
 CDAKB Validity and Renewal
 
 The CDAKB is valid for a specified period (typically 5 years, though confirm current regulation). It must be renewed before expiry. If the CDAKB expires while a NIE is active, the NIE is automatically frozen until the CDAKB is restored. Monitor your LAR's CDAKB expiry date and coordinate renewal planning well in advance — Kemenkes may conduct re-inspection as part of the renewal process.
+
+Add after the July 2024 mandatory statement: 'Note: This requirement applies to new NIE applications submitted after July 2024. Renewals of existing NIEs registered prior to this date are evaluated under the requirements in effect at the time of original registration; however, confirm current policy with Kemenkes or your LAR, as transition guidance may have been issued.'

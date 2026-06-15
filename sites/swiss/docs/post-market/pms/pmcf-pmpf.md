@@ -23,6 +23,11 @@ PMCF can only be omitted for Class IIa PMCF is mandatory for Class IIb and Class
 ## PMPF (IVDs)
 The PMPF is the IVDO equivalent of PMCF. It applies to IVDs in List A, List B, and self-test categories. The PMPF plan and report must be integrated with the performance evaluation and updated based on post-market performance data.
 
+
+Rewrite the section as: 'When PMCF Can Be Omitted
+
+PMCF is mandatory for Class IIb and Class III devices. For Class IIa devices, PMCF can be omitted only where the manufacturer provides appropriate justification in the PMCF plan that PMCF is not necessary — for example, where the device is well-established, the clinical data is robust, and the risk profile is well characterised. This justification will be assessed by the NB.'
+
 ## Official Sources
 - [MedDO Annex XIV Part B — PMCF (SR 812.213)](https://www.fedlex.admin.ch/eli/cc/2021/205/en)
 - [MDCG 2020-7 — PMCF plan template](https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en)

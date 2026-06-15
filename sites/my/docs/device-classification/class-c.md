@@ -61,7 +61,15 @@ In addition to all Class B requirements, Class C dossiers must include:
 Target: **120 working days** from acceptance of complete application.
 
 :::warning Clinical Data is Critical
-MDA scrutinises clinical evidence for Class C devices carefully. Insufficient clinical data is a leading cause of rejections. Ensure your Clinical Evaluation Report is comprehensive, current, and product-specific.
+
+MDA scrutinises clinical evidence for Class C devices carefully. Insufficient, outdated, or generic clinical data is a leading cause of rejections and deficiency letters. Ensure your Clinical Evaluation Report is:
+• Comprehensive and covers all safety and performance aspects relevant to the device
+• Current (incorporating data from the past 3–5 years unless historical data is justified)
+• Product-specific (not generic to a device class or family)
+• Prepared per GHTF SG5 / IMDRF MDCE WG guidance
+• Supported by published literature and/or clinical investigation data as appropriate
 :::
 
 ISO 13485 QMS certificate from a recognised certification body is required. MDSAP certificates may supplement but typically do not replace ISO 13485 certification for Class C devices due to the enhanced conformity assessment requirements. Confirm acceptance of MDSAP via pre-submission query if intended as primary QMS evidence.
+
+Add clarification to the Conformity Assessment section: 'MDA's acceptance of MDSAP as a supplement to or substitute for ISO 13485 is discretionary and depends on audit scope and outcome. For Class C devices, manufacturers should contact MDA via pre-submission query before relying primarily on MDSAP rather than ISO 13485 certification, as enhanced conformity assessment requirements may necessitate a full ISO 13485 certificate.'

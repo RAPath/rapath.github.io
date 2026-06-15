@@ -77,3 +77,7 @@ Do not assume a more favourable classification without seeking HSA's view if the
 - [HSA: Risk classification rules and factors](https://www.hsa.gov.sg/medical-devices/registration/risk-classification-rule)
 - [HSA: Risk classification tool](https://www.hsa.gov.sg/medical-devices/registration/risk-classification)
 - [HP(MD) Regulations 2010 — Schedule 1 (classification rules)](https://sso.agc.gov.sg/SL/HPA2007-S436-2010)
+
+The risk-based approach
+
+Singapore uses a four-class, risk-based classification system for medical devices, defined in the Health Products (Medical Devices) Regulations 2010. The four classes are A (lowest risk), B (low-to-medium risk), C (medium-to-high risk), and D (highest risk).

@@ -120,3 +120,5 @@ The CER or performance evaluation report must explicitly:
 | MDCG 2020-5 | Clinical evaluation guidance — international data |
 | EN ISO 14155:2020 | GCP standard — international baseline |
 | MDCG 2021-6 | Sufficient clinical evidence — legacy devices with global data |
+
+The page content is truncated and missing the completion of the 'Literature data from international sources' section and likely missing additional sections on published literature standards, meta-analyses, and systematic reviews. The page should be completed with full guidance on using published international clinical literature.

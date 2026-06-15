@@ -74,3 +74,7 @@ Devices that incorporate non-viable human tissue or cells as an integral part ar
 A reprocessor should verify whether the original GMDN code remains appropriate for the reprocessed device, or whether a new code is required if the reprocessing process materially changes the device's classification or intended use. WAND notification must reflect the reprocessor as the manufacturer/sponsor.
 
 If a healthcare practitioner manufactures a custom-made device, they may appoint a Sponsor to handle WAND notification on their behalf, or they may act as both manufacturer and Sponsor if they have a New Zealand business registration. Regardless, notification is still required unless the device qualifies for a Schedule 1 exemption.
+
+Complete the final sentence: 'A reprocessor should verify whether the original GMDN code remains appropriate for the reprocessed device, or whether a new code is required if the reprocessing process materially changes the device's classification or intended use. WAND notification must reflect the reprocessor as the manufacturer/sponsor.'
+
+Add at the end of the Custom-made devices section: 'However, if a custom-made device is to be supplied to patients other than the named individual for whom it was made, WAND notification may be required. Healthcare practitioners should verify exemption status for their specific circumstances.'

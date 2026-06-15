@@ -54,7 +54,7 @@ A CFS from the regulatory authority in the country of manufacture (or country of
 
 ## Review timelines
 
-Review timelines: Official review timelines under Decree 98/2021 are: Type C: up to 12 months from DAV acknowledgement of submission; Type D: up to 18 months from DAV acknowledgement of submission. These timelines can be extended if DAV issues a Request for Additional Information (RAI), as the review clock does not restart until a substantive RAI response is received. In practice, total timelines often exceed 18 months due to the need for dossier revisions, multiple RAI cycles, or complexity in clinical or manufacturing evidence assessment.
+Review timelines: Official review timelines under Decree 98/2021 are: Type C: up to 12 months from DAV acknowledgement of submission; Type D: up to 18 months from DAV acknowledgement of submission. These are maximum statutory timelines; DAV typically issues a substantive response (approval or RAI) well before expiry for complete dossiers. If DAV issues a Request for Additional Information (RAI), the review clock pauses until a substantive response is received. In practice, total timelines from submission to approval often exceed the statutory maximum due to the need for dossier revisions, multiple RAI cycles, incomplete initial submissions, or complexity in clinical or manufacturing evidence assessment. Plan for 18–24 months for Type C and 24–30 months for Type D in your commercial timelines.
 
 In practice, timelines can be longer due to dossier complexity or RAI cycles.
 
@@ -71,3 +71,12 @@ Ensure your CFS is correctly legalised well in advance of your intended submissi
 :::
 
 : 'All dossier modules must be submitted together in a single submission to initiate DAV review. The DMEC system does not permit module-by-module submission or hold incomplete dossiers. Ensure all modules are complete and accurate before submission.
+
+Add after 'Submit via DMEC — upload all dossier modules and pay the applicable government fee:': 'All dossier modules must be submitted together in a single submission to initiate DAV review. The DMEC system does not permit module-by-module submission or hold incomplete dossiers. Ensure all modules are complete and accurate before submission.'
+
+Be issued by the relevant national authority (not a private body)
+Cover the specific device(s) being registered
+Be legalised / apostilled in accordance with Vietnamese requirements
+Be valid at the time of submission
+
+CFS legalisation frequently presents a critical bottleneck in the registration timeline. Initiate CFS requests at least 8–12 weeks before your planned DMEC submission to allow for processing time, authentication, and correction of any errors. Verify the exact legalisation procedure required by the Vietnamese Embassy or consulate in the country of origin, as requirements vary. A poorly executed CFS can delay your entire application by months.

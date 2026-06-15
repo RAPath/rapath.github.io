@@ -59,3 +59,11 @@ Manufacturers that distribute devices directly to patients or consumers (e.g., t
 - Date of shipment
 - Device name, model, lot/serial number, and quantity
 - If distribution is facilitated through a third-party platform, ensure that direct customer contact information can be obtained within 48 hours in the event of a recall
+
+Third-party distributor records
+
+When devices are distributed through retailers, e-commerce platforms, or other intermediaries:
+Manufacturers must maintain records of sales to distributors/retailers (lot numbers, quantities, dates)
+Distributors and retailers must maintain records of sales to end-users/patients
+Manufacturers should establish agreements with distributors to ensure they can obtain end-user contact information within 48 hours in the event of a recall
+For direct-to-consumer platforms, the manufacturer must have direct access to customer information or contractual assurance of rapid access

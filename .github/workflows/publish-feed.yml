@@ -1,0 +1,67 @@
+name: Publish Regulatory Feed (Project 3)
+
+# Manually triggered — run this after reviewing the pending updates in audit-reports.
+# Reads approved JSON from audit-reports/updates/*/pending/ and writes
+# Docusaurus blog posts into sites/hub/whats-new/, then commits and triggers deploy.
+on:
+  workflow_dispatch:
+    inputs:
+      date:
+        description: 'Only publish updates from this date (YYYY-MM-DD). Leave blank to publish all pending.'
+        required: false
+        default: ''
+      dry_run:
+        description: 'Dry run — preview posts without writing to the site'
+        required: false
+        default: 'false'
+        type: choice
+        options:
+          - 'false'
+          - 'true'
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout public repo (rapath.github.io)
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Checkout private repo (audit-reports)
+        uses: actions/checkout@v4
+        with:
+          repository: RAPath/audit-reports
+          token: ${{ secrets.AUDIT_PAT }}
+          path: audit-reports
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r automation/requirements.txt
+
+      - name: Publish feed posts
+        env:
+          AUDIT_REPO_PATH: ${{ github.workspace }}/audit-reports
+        run: |
+          cd automation
+          ARGS=""
+          if [ -n "${{ github.event.inputs.date }}" ]; then
+            ARGS="$ARGS --date ${{ github.event.inputs.date }}"
+          fi
+          if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
+            ARGS="$ARGS --dry-run"
+          fi
+          python publish_feed.py $ARGS
+
+      - name: Commit and push blog posts
+        if: ${{ github.event.inputs.dry_run != 'true' }}
+        run: |
+          git config user.name "RAPath Bot"
+          git config user.email "bot@rapath.github.io"
+          git add sites/hub/whats-new/
+          git diff --staged --quiet || git commit -m "What's New: publish regulatory updates $(date -u +%Y-%m-%d)"
+          git push

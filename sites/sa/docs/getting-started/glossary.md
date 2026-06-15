@@ -60,3 +60,5 @@ description: Definitions of key SFDA medical device regulatory terms — MDMA, M
 | MDS-G008 | Classification Guidance |
 
 Remove the incomplete line 'Abbreviations for SFDA gu' and ensure the glossary ends cleanly after the PI definition.
+
+The glossary should be completed with any remaining acronyms or terms. If this is intentional, remove the trailing incomplete text.

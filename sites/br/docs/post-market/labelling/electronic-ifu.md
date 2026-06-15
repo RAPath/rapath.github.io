@@ -20,3 +20,7 @@ Monitor [What's New](/docs/whats-new/regulatory-changes) for ANVISA updates on t
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+Replace 'As of the date of this site (May 2026)' with 'As of the last update to this page in [actual month/year]' or remove the date reference entirely and replace with: 'Currently, ANVISA has not issued a formal regulation equivalent to the EU's Commission Regulation (EU) No 207/2012 on eIFU for medical devices.'
+
+If providing eIFU via QR code or similar mechanism, ensure that: (1) the paper IFU remains complete and available in Portuguese on the device or packaging; (2) the QR code link is permanent and does not expire or require login; (3) the electronic version is identical in content to the approved paper version; and (4) the QR code functionality is tested to confirm it works reliably. While ANVISA has not formally prohibited QR codes, companies are strongly advised to seek written confirmation from ANVISA before implementing eIFU-only strategies or submitting devices with eIFU as the primary source of instructions.

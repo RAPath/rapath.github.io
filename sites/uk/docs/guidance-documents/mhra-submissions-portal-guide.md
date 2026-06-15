@@ -27,7 +27,7 @@ The **MHRA Submissions portal** at [submissions.mhra.gov.uk](https://submissions
 
 ## Who needs a portal account?
 
-Any of the following parties who place devices on the GB market must have a portal account:
+Any of the following parties who place or intend to place devices on the GB market must have a portal account:
 
 - **UK-established manufacturers** — registering their own devices
 - **UK Responsible Persons (UKRPs)** — registering on behalf of overseas manufacturers
@@ -80,3 +80,15 @@ To submit a serious incident report or FSCA notification:
 
 Pre-submission meeting requests via the portal\n\nTo request an advisory meeting with MHRA:\n
 Log in to the portal\nNavigate to "Request a pre-submission meeting"\nSelect your device classification and intended conformity assessment route\nProvide context on your device and specific questions\nSubmit — MHRA will contact you to confirm timing and attendees (typically 4–12 weeks from submission)
+
+Add a new subsection after 'Vigilance reporting via the portal': 'Pre-submission meeting requests via the portal\n\nTo request an advisory meeting with MHRA:\n
+Log in to the portal\nNavigate to "Request a pre-submission meeting"\nSelect your device classification and intended conformity assessment route\nProvide context on your device and specific questions\nSubmit — MHRA will contact you to confirm timing and attendees (typically 4–12 weeks from submission)'
+
+Add a new section under 'Setting up an account': 'Portal access and technical requirements
+
+• Internet browser: Use a modern, supported browser (Chrome, Firefox, Safari, Edge recommended)
+• JavaScript: Must be enabled in your browser
+• Security: MHRA portal uses standard HTTPS encryption; do not share login credentials
+• Account maintenance: Update organisation contact details and authorised users annually
+• Access troubleshooting: If you cannot log in, contact MHRA submissions support via the portal help desk
+• Two-factor authentication: Recommended but not currently mandatory — enable if available for enhanced security'

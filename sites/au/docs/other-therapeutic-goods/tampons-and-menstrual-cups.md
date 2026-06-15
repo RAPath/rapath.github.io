@@ -84,6 +84,12 @@ All labelling must be in English. Products with labelling only in other language
 
 ---
 
+
+Online platforms — such as Amazon, eBay, and other international marketplaces — must ensure that products they facilitate for supply into Australia have valid ARTG entries. The TGA has enforcement authority over online sales and regularly identifies non-compliant products offered through these channels.
+
+Personal importation
+Individuals may personally import tampons and menstrual cups for their own use, but commercial supply (retail sales, online selling, or distribution) requires ARTG inclusion.
+
 ## Official Sources
 
 - [Tampons and menstrual products — TGA](https://www.tga.gov.au/products/medical-devices/specific-types-medical-devices/tampons-and-menstrual-products)

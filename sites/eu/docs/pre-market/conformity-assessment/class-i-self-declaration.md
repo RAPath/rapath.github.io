@@ -31,7 +31,7 @@ Examples of Class I standard: non-sterile wound dressings, non-sterile examinati
 
 ## What self-declaration requires
 
-Despite no notified body involvement, Class I self-declaration is a substantive process. The manufacturer must:
+Although Class I self-declaration does not require notified body involvement, it is a substantive process requiring comprehensive compliance. The manufacturer must:
 
 ### 1. Compile full technical documentation
 

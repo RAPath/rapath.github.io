@@ -6,7 +6,7 @@ keywords: [GSPR, MedDO Annex I, general safety performance, Switzerland, harmoni
 # GSPR Overview
 
 ## Overview
-The **General Safety and Performance Requirements (GSPRs)** in **MedDO Annex I** set the fundamental safety and performance standards every medical device must meet. They are identical in structure and substance to EU MDR Annex I. Demonstrating GSPR compliance is the central task in preparing technical documentation and is assessed by notified bodies during conformity assessment.
+The **General Safety and Performance Requirements (GSPRs)** in **MedDO Annex I** set the fundamental safety and performance standards every medical device must meet. They are structurally and substantively aligned with EU MDR Annex I; Switzerland has independently adopted these requirements under MedDO. Demonstrating GSPR compliance is the central task in preparing technical documentation and is assessed by notified bodies during conformity assessment.
 
 ## Annex I Structure
 
@@ -32,6 +32,12 @@ Manufacturers demonstrate compliance by: identifying all applicable GSPRs; mappi
 | § 14 Ionising radiation | IEC 60601-2-2 (or other relevant IEC 60601 part depending on device type) or equivalent standards for ionising radiation safety |
 | § 17 Software | IEC 62304, IEC 62366-1 |
 | §§ 23–24 Labelling | ISO 15223, EN ISO 7000 |
+
+
+Add after the 'Annex I Structure' heading: 'MedDO Annex I (SR 812.213) is structured in three chapters with specific article ranges. Manufacturers should verify the exact article numbers in the official SR 812.213 regulation for precise compliance mapping.'
+
+
+Consider adding a brief sentence or adding a new section: 'A GSPR compliance matrix is a structured table mapping each applicable GSPR requirement to the technical solution (harmonised standard, alternative method, or evidence) used to demonstrate compliance, along with supporting documentation references. This matrix forms the core of the technical documentation and is reviewed by notified bodies during conformity assessment.'
 
 ## Official Sources
 - [MedDO Annex I (SR 812.213)](https://www.fedlex.admin.ch/eli/cc/2021/205/en)

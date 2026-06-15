@@ -69,3 +69,5 @@ The NIE is legally tied to the IDAK licence of the holding entity. If the IDAK h
 NIE Renewal
 
 Before the NIE expires, the LAR must submit a renewal application via Regalkes. Renewal typically requires submission of an updated dossier demonstrating continued compliance with the original registration requirements (updated safety/performance data, confirmation of no major changes, current regulatory approvals, etc.). The renewal process is generally faster than initial registration (typically 2–4 months for Class B) but still requires Kemenkes review. Plan the renewal application to be submitted 3–6 months before expiry to avoid market access gaps.
+
+Add a new section after 'NIE Validity and the IDAK Link': 'NIE Cancellation / If you wish to exit the Indonesian market or terminate a registration, the LAR must submit a formal cancellation request via Regalkes with supporting documentation. Cancellation cannot be reversed. Once cancelled, the device cannot be distributed in Indonesia unless re-registered under a new NIE by a new or existing LAR. Plan cancellations carefully to avoid unintended gaps in market availability or loss of registration records.'

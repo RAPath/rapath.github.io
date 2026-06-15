@@ -67,6 +67,9 @@ Contact the TGA Recalls team: recalls@tga.gov.au
 
 ---
 
+
+The final paragraph is incomplete. It ends with: 'Australia is not automatically included in overseas recall actions — the sponsor must assess whether the Australian-supplied devices' — this needs to be completed with: 'are affected by evaluating manufacturing dates, lot numbers, and component sourcing to determine if Australian stock is included in the overseas action.'
+
 ## Official Sources
 
 - [PRAC — TGA](https://www.tga.gov.au/safety/recalls-and-other-market-actions/procedure-recalls-product-alerts-and-product-corrections-prac)

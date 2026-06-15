@@ -19,3 +19,5 @@ India participates in regional harmonisation efforts through SAARC (South Asian 
 - Coordination on adverse event reporting
 
 Official sources: CDSCO, IMDRF
+
+SAARC member states include India, Pakistan, Bangladesh, Nepal, Sri Lanka, Bhutan, Maldives, and Afghanistan. While formal medical device regulatory harmonisation is limited, CDSCO has initiated bilateral GMP certification recognition agreements with Bangladesh and Nepal. Joint adverse event reporting coordination is in development phase but not yet operational across all SAARC members.

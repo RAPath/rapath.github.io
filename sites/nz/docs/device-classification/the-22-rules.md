@@ -85,7 +85,7 @@ If the same catheter was left in for 2 hours, it would fall under Rule 6 → Cla
 ---
 
 :::note Official guidance
-For complex classification decisions, consult the Medsafe guidance document on classification and the GHTF/SG1/N015:2006 guidance on medical device classification, which Medsafe references in its framework.
+For complex classification decisions, consult Medsafe's official guidance documents (available at medsafe.govt.nz) and the GHTF/SG1/N015:2006 guidance on medical device classification, which Medsafe references in its framework. Medsafe does not provide pre-market classification rulings, but you can contact devices@health.govt.nz with specific questions.
 :::
 
-For Rule 22, nanomaterial-based devices are assessed for potential systemic absorption or migration of nanoparticles. Devices with direct or prolonged contact with body surfaces or internal tissues, or those designed to release nanoparticles, face higher scrutiny. Consult Medsafe's nanomaterial guidance or seek technical advice if this rule may apply.
+For Rule 22, nanomaterial-based devices are assessed for potential systemic absorption or migration of nanoparticles. Devices with direct or prolonged contact with body surfaces or internal tissues, or those designed to release nanoparticles, face higher scrutiny and are likely to be classified at Class IIb or above. Consult Medsafe's nanomaterial guidance or seek technical advice if this rule may apply.

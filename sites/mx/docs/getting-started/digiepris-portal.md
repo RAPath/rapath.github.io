@@ -50,3 +50,7 @@ For standard route submissions, COFEPRIS permits use of a designated pre-approvi
 - [Mexico Registration Holder](../mexico-registration-holder/what-is-mrh)
 
 Translation certification: All non-Spanish documents must be accompanied by official certified translations (traducción certificada) prepared by a certified translator (traductor certificado) recognised by COFEPRIS or Mexican authorities. Scanned translations without proper certification stamps will be rejected.
+
+Add to the 'Practical tips' section: 'Translation certification: All non-Spanish documents must be accompanied by official certified translations (traducción certificada) prepared by a certified translator (traductor certificado) recognised by COFEPRIS or Mexican authorities. Scanned translations without proper certification stamps will be rejected.'
+
+Submit dossier documents at least 15 working days before your intended decision date to allow COFEPRIS adequate review time. All documents must be uploaded as single PDF files; compressed archives (.zip, .rar) are not accepted by the portal.

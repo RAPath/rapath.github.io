@@ -16,7 +16,7 @@ COFEPRIS authorisation for a device clinical investigation is generally required
 - The investigation involves **significant risk** to participants.
 - The device is a **Class III** device or any device implanted or used invasively in an investigational context.
 
-Lower-risk studies using already-registered devices in their approved intended use may not require COFEPRIS investigation authorisation, but ethics committee review is still required.
+Lower-risk studies using already-registered devices in their approved intended use may not require COFEPRIS investigation authorisation; however, ethics committee (CEI) review and approval remain mandatory for all human subjects research, regardless of device registration status.
 
 ## Ethics committee approval
 
@@ -61,3 +61,6 @@ Data from clinical investigations conducted in Mexico can be included in COFEPRI
 - [Clinical evidence requirements](../premarket/clinical-evidence)
 - [Compassionate use](compassionate-use)
 - [Pre-Market overview](../premarket/overview)
+
+After 'Mexico follows Good Clinical Practice principles aligned with ICH E6 and the Ley General de Salud research provisions.' add:
+'Detailed GCP requirements are published in COFEPRIS regulatory guidance and must be reviewed in conjunction with the Ley General de Salud provisions on health research.'

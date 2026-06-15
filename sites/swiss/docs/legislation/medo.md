@@ -43,6 +43,24 @@ The **Medical Device Ordinance** (Medizinprodukteverordnung, MedDO / SR 812.213)
 | Annex XV | Clinical investigations |
 | Annex XVI | List of devices without a medical purpose (requires MedDO compliance) |
 
+
+Add a new section after 'MedDO Annexes':
+
+## Custom-Made Devices
+
+Medical devices manufactured on a one-off basis according to a written prescription of a healthcare professional are classified as custom-made devices. Custom-made devices follow a specific conformity assessment procedure detailed in MedDO Annex XIII, which includes:
+- Manufacturer assessment and declaration of compliance with GSPRs (Annex I)
+- Technical documentation specific to the device
+- Quality management system requirements
+- Exemption from conformity assessment body involvement and CE marking (custom-made devices do not bear CE marking but must include specific labelling)
+
+For more detail, consult MedDO Annex XIII and Swissmedic guidance on custom-made devices.
+
+
+Annex XVI
+
+List of non-medical products that are regulated as medical devices: A list of products that do not have a medical purpose as their primary intended purpose but are classified and regulated as medical devices under MedDO due to their technical characteristics, performance claims, or use context. Manufacturers of these products must comply with applicable MedDO requirements despite their primary use being non-medical.
+
 ## Official Sources
 - [MedDO (SR 812.213) — Fedlex (EN)](https://www.fedlex.admin.ch/eli/cc/2021/205/en)
 

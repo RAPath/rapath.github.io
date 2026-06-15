@@ -144,3 +144,5 @@ The SSCP is distinct from the DoC — it is consumer-facing and provides transpa
 | IVDR Art. 18 | IVDR CE marking |
 | MDR Art. 32 | Summary of safety and clinical performance (SSCP) |
 | MDCG 2019-9 | SSCP guidance |
+
+The page appears to be missing content at the end. It should be completed with additional guidance on CE mark application, placement requirements, practical implementation examples, and any final notes or disclaimers.

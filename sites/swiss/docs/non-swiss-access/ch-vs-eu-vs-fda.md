@@ -9,7 +9,7 @@ Switzerland is the closest regulatory analog to the EU in global medical device 
 
 ## Comparison Table
 
-Third-party reviewer: EU-designated NB (Switzerland has no designated NBs; EU NBs conduct assessments for Swiss market)
+Third-party reviewer: EU-designated NB (Swissmedic recognises EU-designated NBs for conformity assessment; Switzerland does not maintain its own separate NB designation scheme, therefore EU NB certificates are accepted for Swiss market access)
 
 ## Key Insight for Multi-Market Submissions
 A manufacturer who has completed EU MDR conformity assessment and CE certification has completed the substantive technical work for Swiss market access. The Swiss-specific additions are procedural: appoint CH REP, register in DAPI, prepare Swiss labelling (DE/FR/IT), and establish Swissmedic eVigilance reporting.

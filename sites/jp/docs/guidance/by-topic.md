@@ -25,8 +25,8 @@ MHLW guidance (Japanese): [mhlw.go.jp — medical devices](https://www.mhlw.go.j
 - PMDA notification on electronic submission (EDRP) format requirements
 
 **Clinical evidence:**
-- MHLW notification on the acceptability of foreign clinical data
-- PMDA adoption of IMDRF clinical evaluation guidance (IMDRF/MDCE WG/N56)
+- MHLW notification on acceptance criteria for foreign clinical data, including conditions for relying on non-Japanese clinical trials (typically acceptable if conducted in countries with comparable GCP standards)
+- PMDA adoption of IMDRF clinical evaluation guidance (IMDRF/MDCE WG/N56) — clinical evaluation frameworks structured to this guidance are accepted in Japan
 - PMDA guidance on clinical trial design for medical devices
 - PMDA guidance on bridging study requirements
 
@@ -72,3 +72,7 @@ MHLW guidance (Japanese): [mhlw.go.jp — medical devices](https://www.mhlw.go.j
 - PMDA guidance on IVD clinical performance studies
 
 "Change management: MHLW notification on Ichibu Henko (partial change approval) classification and procedures. PMDA guidance on determining whether proposed manufacturing, design, or labelling changes require Ichibu Henko approval or minor notification."
+
+Add to Post-market guidance section: "Change management: MHLW notification on Ichibu Henko (partial change approval) classification and procedures. PMDA guidance on determining whether proposed manufacturing, design, or labelling changes require Ichibu Henko approval or minor notification."
+
+STED (Summary Technical Documentation) is PMDA's required format for organising technical and clinical data in Shonin applications. It follows the IMDRF framework and organises information into modules covering device description, quality management, nonclinical testing, clinical evaluation, and bibliography. PMDA's STED guidance specifies the exact module structure and content requirements.

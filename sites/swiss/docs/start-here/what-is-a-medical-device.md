@@ -27,6 +27,8 @@ Software is explicitly included in the MedDO definition. Standalone software int
 ## IVD Devices
 IVDs — products used for the in vitro examination of human specimens — are regulated under the separate **IVDO (SR 812.219)**. See [MedDO vs IVDO](./medo-vs-ivdo).
 
+after the list of purposes: "Additionally, products without a medical purpose that are specifically listed in MedDO Annex XVI (such as coloured contact lenses) are also regulated as medical devices under MedDO.
+
 ## Official Sources
 - [MedDO Art. 3 — Fedlex (EN)](https://www.fedlex.admin.ch/eli/cc/2021/205/en)
 - [TPA Art. 4 — Fedlex (EN)](https://www.fedlex.admin.ch/eli/cc/2001/422/en)
@@ -36,7 +38,6 @@ IVDs — products used for the in vitro examination of human specimens — are r
 - [What is Not a Medical Device?](./what-is-not-a-medical-device)
 - [MedDO vs IVDO](./medo-vs-ivdo)
 - [How Classification Works](../pre-market/classification/how-classification-works)
-
 
 :::warning Disclaimer
 Content is AI-assisted and intended as a navigation aid only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.

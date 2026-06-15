@@ -59,5 +59,5 @@ If a new variant is added to an already-registered product family:
 - **Major variation or new registration** — if the new variant introduces a materially different design element or extends the intended use: may require a major variation or new registration
 
 :::tip Plan the Family from the Start
-If you have multiple sizes or configurations planned, submit them together in the original registration application. Adding variants later as variations is slower and incurs additional fees. Present the complete product family upfront where possible.
+If you have multiple sizes or configurations planned, submit them together in the original registration application. Adding variants later as variations incurs additional fees and requires separate variation processing. Present the complete product family upfront where possible to achieve economies of scale in conformity assessment and reduce overall registration timeline.
 :::

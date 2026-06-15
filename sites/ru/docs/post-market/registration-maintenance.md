@@ -19,7 +19,7 @@ Changes that affect safety or performance may require a formal amendment applica
 
 ## Significant vs minor changes
 
-Not all changes carry the same notification requirement. Under Decree No. 1684, significant changes (such as a new intended purpose or major design modification) require a full amendment submission. Minor changes (such as updated contact details) may be notifiable but follow a simpler process. Consult your RUS REP to determine the applicable route for specific changes.
+Not all changes carry the same notification requirement. Under Decree No. 1684, significant changes (such as a new intended purpose, major design modification, or manufacturing process change) require a full amendment submission with expert review. Minor changes (such as updated contact details or non-material updates to labelling) may follow a simplified notification process. Consult your RUS REP to determine the applicable route for specific changes, as misclassification can delay registration updates.
 
 ## Registration expiry and re-registration
 

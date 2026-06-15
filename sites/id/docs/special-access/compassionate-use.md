@@ -41,8 +41,10 @@ Compassionate use applications typically require:
 - Compassionate use is **patient-specific** and cannot be used as a route to distribute a device to multiple patients or facilities without a NIE
 - The treating facility and physician bear significant responsibility for the clinical management of the patient
 - Adverse events must be reported to Kemenkes
-- Compassionate use does not confer any status toward full NIE registration (unlike, for example, EUA which may be followed by expedited standard registration)
+- Compassionate use does not confer any status toward full NIE registration and cannot be aggregated across multiple patients to avoid the standard registration pathway. Each compassionate use approval is strictly patient-specific and non-transferable.
 
 ## Key Constraints
 
 "Approval Process and Timeline - Compassionate use requests are submitted to Kemenkes (Directorate of Medical Devices) with all supporting documentation. Kemenkes reviews requests on a case-by-case basis; typical review time is 2-4 weeks. Each patient's use requires separate approval, and the approval is non-transferable. If the patient situation changes or the device is no longer needed, the approval is terminated."
+
+Add new section after 'Key Constraints': "Approval Process and Timeline - Compassionate use requests are submitted to Kemenkes (Directorate of Medical Devices) with all supporting documentation. Kemenkes reviews requests on a case-by-case basis; typical review time is 2-4 weeks. Each patient's use requires separate approval, and the approval is non-transferable. If the patient situation changes or the device is no longer needed, the approval is terminated."

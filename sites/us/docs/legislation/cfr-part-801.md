@@ -59,3 +59,7 @@ Required label statements must appear prominently and conspicuously — at least
 ## Electronic Labelling (eLabel)
 
 FDA permits certain labelling requirements to be satisfied through electronic format (eLabel) rather than on the physical device label. This is particularly common for prescription devices and devices where physical space is limited. eLabels must be available to users before use and must contain all required information that would otherwise appear on the physical label.
+
+Add a new subsection titled 'Electronic Labelling (eLabel)': FDA permits certain labelling requirements to be satisfied through electronic format (eLabel) rather than on the physical device label. This is particularly common for prescription devices and devices where physical space is limited. eLabels must be available to users before use and must contain all required information that would otherwise appear on the physical label.
+
+Under the 'Electronic Labelling (eLabel)' section, add: 'Important: The UDI requirement under § 801.20 applies to both physical labels and eLabels. If using an eLabel, the UDI (in both human-readable and AIDC formats) must be included in the electronic version and must be accessible before device use. UDI cannot be moved exclusively to eLabel if a physical label exists.'

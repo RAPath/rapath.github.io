@@ -18,7 +18,7 @@ Conditional authorization may be granted when:
 - Mandatory **post-market clinical follow-up (PMCF)** study
 - Restricted indication or patient population
 - Enhanced pharmacovigilance/device surveillance
-- Time-limited approval — typically valid for 2–4 years and must be converted to full 품목허가 (marketing authorization) upon satisfactory submission of required post-market data
+- Time-limited approval — typically valid for 2–4 years from initial approval. The conditional authorization must be converted to full 품목허가 (marketing authorization) upon satisfactory submission of required post-market data, or the approval will expire and the device must be removed from the Korean market.
 
 ## Risk to the manufacturer
 
@@ -36,3 +36,5 @@ Upon submission of required post-market data, MFDS will:
 — May revoke approval if the device is shown to have unacceptable risk-benefit profile
 
 Conditional authorization is typically valid for 2–4 years pending data submission.
+
+The post-market clinical follow-up (PMCF) study design must be agreed upon during MFDS pre-submission consultation and included in the conditional authorization approval letter. Typical PMCF studies monitor safety and efficacy outcomes in real-world populations. Data submission must include completed case report forms, safety analysis, and efficacy endpoints as specified in the original conditions. MFDS review of PMCF data for conversion typically requires 3–6 months.

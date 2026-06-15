@@ -37,3 +37,5 @@ Content on this site is written with AI assistance and is intended as a navigati
 :::
 
 Certain low-risk IVDs may qualify for exemptions or simplified registration pathways, such as self-test kits and home-use diagnostic tests. NMPA publishes a separate exemption list. Manufacturers should verify whether their IVD qualifies for an exemption before beginning the registration process.
+
+Add a new section titled 'IVD-Specific Exemptions' with text: 'Certain low-risk IVDs may qualify for exemptions or simplified registration pathways, such as self-test kits and home-use diagnostic tests. NMPA publishes a separate exemption list. Manufacturers should verify whether their IVD qualifies for an exemption before beginning the registration process.'

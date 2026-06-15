@@ -29,7 +29,7 @@ However, custom-made devices are **not exempt** from all obligations:
 ## Distinction from "made-to-order" devices
 Mass-produced devices that are simply selected from a standard catalogue to suit a patient's needs (e.g., selecting an implant of the correct size from a standard range) are **not** custom-made devices — they are standard devices and require a Device Licence.
 
-True custom-made devices are one-of-a-kind products made from scratch for a specific patient.
+True custom-made devices are one-of-a-kind or small-batch products made entirely from scratch for a specific named patient (or in some cases, a named healthcare institution), based on individual anatomical or clinical data, and not part of a production line or standard catalogue of device models.
 
 ## Documentation
 For a device to qualify as custom-made, the manufacturer must retain:

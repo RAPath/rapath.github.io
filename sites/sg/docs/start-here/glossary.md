@@ -52,3 +52,5 @@ description: Plain English definitions of the key regulatory terms used in Singa
 - [HSA: Regulatory overview](https://www.hsa.gov.sg/medical-devices/regulatory-overview)
 - [Health Products Act (Cap. 122D)](https://sso.agc.gov.sg/Act/HPA2007)
 - [HP(MD) Regulations 2010](https://sso.agc.gov.sg/SL/HPA2007-S436-2010)
+
+Overseas reference regulatory agency: One of five agencies whose approvals HSA recognises for abridged, expedited, and immediate evaluation routes. The five are TGA (Australia), EU Notified Bodies, Health Canada, MHLW (Japan), and US FDA.

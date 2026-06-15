@@ -29,3 +29,7 @@ Everything required to place a medical device on the Japanese market — from de
 **Step 4 — Complete FMR.** Foreign manufacturing sites must be registered before or simultaneously with the pre-market application.
 
 **Step 5 — Engage PMDA early (Shonin only).** For novel, high-risk, or technically complex devices, book a PMDA pre-submission consultation before finalising your dossier strategy.
+
+Post-market obligations begin at approval
+
+Once an approval, certification, or notification is granted, the MAH enters the post-market phase with ongoing regulatory obligations including surveillance, periodic reporting, and recall readiness. See the Post-Market section for detailed requirements.

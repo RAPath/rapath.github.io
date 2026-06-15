@@ -27,7 +27,7 @@ The July 2025 COFEPRIS decree introduced a revised classification framework with
 | Annex 3 | Products not classified as health supplies | No — entirely outside COFEPRIS device regulation |
 
 :::warning Annex 1 transition
-Devices previously marketed under an exemption letter that are now listed in Annex 1 must obtain full sanitary registration. COFEPRIS established a staggered three-year transition period to facilitate compliance. Check the DOF decree text for your product's specific deadline.
+Devices previously marketed under an exemption letter (issued under the 2011 or 2014 exemption agreements) that are now listed in Annex 1 must obtain full sanitary registration. COFEPRIS established a staggered three-year transition period organised by position within the Annex 1 list to facilitate compliance. Check the DOF decree text and contact COFEPRIS via DIGIPRiS to confirm your product's specific transition deadline.
 :::
 
 ## Classification criteria

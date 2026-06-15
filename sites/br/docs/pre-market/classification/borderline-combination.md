@@ -21,3 +21,5 @@ The presence of a pharmacological component typically elevates the device class:
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+Device with medicinal substance as principal action → drug typically regulated by ANVISA's GGMED (may also involve GPRODS depending on the combination's characteristics)

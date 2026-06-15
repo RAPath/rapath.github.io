@@ -66,7 +66,8 @@ Class D requires the most comprehensive submission:
 Target: **180 working days** from acceptance of complete application.
 
 :::warning Longest Pathway
-Class D registration has the most stringent requirements and the longest processing time. Begin preparation well in advance — 12–18 months before planned market entry is not uncommon for complex devices.
+
+Class D registration has the most stringent requirements and the longest processing time. Target processing time is 180 working days from acceptance of a complete application, but this does not account for deficiency letters, additional expert consultation, or clinical data gaps. Begin preparation well in advance — 12–18 months of preparation before planned market entry is not uncommon for complex Class D devices, particularly those involving novel technology, clinical investigation, or multi-site manufacturing.
 :::
 
 ISO 13485 QMS certificate from a recognised certification body is mandatory. MDSAP certification is not typically accepted as a replacement for ISO 13485 at Class D due to the requirement for mandatory third-party CAB review and potential MDA expert panel consultation. MDSAP may be included as supporting documentation of QMS robustness but will not eliminate the need for ISO 13485 certification.

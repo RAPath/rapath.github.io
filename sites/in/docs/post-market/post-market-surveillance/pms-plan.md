@@ -28,3 +28,5 @@ A comprehensive PMS plan must include:
 - Record retention and confidentiality measures
 
 PMS plans must be maintained and updated regularly, with evidence of implementation available for regulatory inspection.
+
+PMS Plan Approval: The PMS plan must be submitted to CDSCO as part of the device approval application or as a post-approval requirement specified in the approval letter. Any significant modifications to the PMS plan must be notified to CDSCO for approval before implementation. PMS plans for higher-risk devices (Class C and D) must be more detailed and may require enhanced post-market surveillance activities.

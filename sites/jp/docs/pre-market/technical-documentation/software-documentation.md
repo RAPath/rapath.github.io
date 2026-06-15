@@ -34,6 +34,6 @@ PMDA and MHLW have issued guidance on cybersecurity for networked and software-e
 - Plans for post-market cybersecurity monitoring and vulnerability management
 - Labelling information for users about cybersecurity requirements (e.g. minimum OS version, patch requirements)
 
-Cybersecurity documentation is a priority for PMDA. Requirements have been clarified through recent MHLW/PMDA guidance documents. Applicants must consult the latest PMDA cybersecurity guidance (available on the PMDA website and aligned with IMDRF/CYBER WG guidance) before finalising submissions, as expectations continue to strengthen.
+Cybersecurity documentation is a regulatory priority for PMDA. Requirements have been clarified through MHLW/PMDA guidance documents and notifications. Applicants must consult the latest PMDA cybersecurity guidance available on the PMDA website (aligned with IMDRF/CYBER WG/N60 guidance) before finalising submissions. Cybersecurity expectations continue to evolve; applicants should plan for iterative engagement with PMDA during review.
 
 Programme Medical Devices (プログラム医療機器) are software-based medical devices or functions embedded in non-medical devices. These are subject to the same IEC 62304 requirements as traditional software-enabled devices.

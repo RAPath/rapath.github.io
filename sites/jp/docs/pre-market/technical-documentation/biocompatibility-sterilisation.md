@@ -42,3 +42,5 @@ PMDA applies the ISO 10993-1:2018 framework but may have device-type-specific ex
 PMDA Biocompatibility Guidance Documents
 
 PMDA has issued device-specific biocompatibility expectations in several guidance documents (available in Japanese from the PMDA website) for categories including cardiovascular devices, ophthalmologic implants, and wound care products. These documents may specify additional endpoints beyond ISO 10993-1 risk-based selection or recommend specific test methods. Review PMDA's published guidance for your device category before finalising your biocompatibility testing plan.
+
+Biocompatibility — ISO 10993 series alignment with risk management: The ISO 10993-1:2018 framework is designed to work alongside ISO 14971 medical device risk management. The risk-based approach requires documented risk analysis justifying which biocompatibility endpoints are relevant to your specific device and its intended use.

@@ -29,7 +29,7 @@ Key LGPD obligations for medical device manufacturers and importers:
 
 ## Intersection with ANVISA
 
-ANVISA's cybersecurity and risk management requirements (ISO 14971, IEC 80001-2-2) overlap with LGPD privacy requirements for connected devices. Manufacturers should integrate LGPD compliance into the device's risk management process — treating data privacy risks as a category of hazard.
+ANVISA's cybersecurity and risk management requirements (ISO 14971, IEC 81001-5-1) overlap with LGPD privacy requirements for connected devices. Manufacturers should integrate LGPD compliance into the device's risk management process — treating data privacy risks as a category of hazard.
 
 ## Official resources
 

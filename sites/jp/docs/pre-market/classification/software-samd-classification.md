@@ -9,7 +9,7 @@ sidebar_position: 7
 
 Software (including mobile applications and AI/ML systems) is regulated as a **Programme Medical Device** (プログラム医療機器) in Japan if it meets the Article 2 definition — that is, if it is intended for use in the diagnosis, treatment, or prevention of disease, or to affect the structure or function of the human body, and is listed in the Cabinet Order.
 
-The 2014 PMD Act amendments and subsequent MHLW notifications (most notably the 2019 notification on Programme Medical Devices) created a dedicated framework for SaMD. The key MHLW notification distinguishes between:
+The 2014 PMD Act amendments and subsequent MHLW notifications—most notably the June 2019 notification (MHLW Notification 0627-1) on the handling of Programme Medical Devices—created a dedicated regulatory framework for software and SaMD. The key MHLW notification distinguishes between:
 
 1. **Software that is itself a medical device** — regulated as a Programme Medical Device
 2. **Software that controls or operates a regulated medical device** — regulated as part of or an accessory to that device
@@ -29,7 +29,7 @@ Once software is determined to be a Programme Medical Device, it is classified u
 MHLW issued guidance in 2021 on the regulation of AI-based medical devices. Key points:
 - AI/ML software may be a Programme Medical Device if it meets the intended use criteria
 - The classification follows the same JMDN-based approach
-- Change management is a key concern: AI/ML systems that update their algorithm post-approval may trigger Ichibu Henko (partial change approval) obligations depending on how the learning affects performance
+- Change management is a key concern: AI/ML systems that update their algorithm post-approval may trigger Ichibu Henko (partial change approval) obligations depending on whether the algorithmic change materially affects safety, efficacy, or the device's performance characteristics. Minor parameter tuning typically requires only post-market change notification; significant algorithm retraining or performance drift may require pre-approval.
 
 ## Cybersecurity
 
@@ -38,3 +38,5 @@ MHLW and PMDA have published guidance on cybersecurity requirements for networke
 Legacy and Transition Provisions
 
 Devices that were approved or notified under earlier frameworks before the 2019 MHLW notification on Programme Medical Devices may retain their approvals under transitional rules. PMDA does not typically require re-approval of previously authorised devices based on the updated SaMD guidance, though post-market change notifications must follow current requirements. Clarify your device's approval date with PMDA to confirm whether transitional provisions apply to planned modifications.
+
+Class IV: Software making autonomous critical clinical decisions (e.g., automated diagnostic determination without human verification requirement); software for blood safety applications; software that directly controls life-sustaining or life-supporting therapy delivery.

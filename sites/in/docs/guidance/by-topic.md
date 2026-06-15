@@ -29,3 +29,13 @@ CDSCO guidance is not always published as standalone documents. Many requirement
 Change 'ND&CT Rules guidance' row to:
 
 Clinical investigation requirements | New Drugs and Clinical Trials Rules 2019 guidance | ND&CT Rules guidance
+
+Change the table row from:
+
+| Clinical investigation requirements | ND&CT Rules guidance |
+
+To:
+
+| Clinical investigation requirements | New Drugs and Clinical Trials Rules 2019 guidance |
+
+With 'ND&CT Rules guidance' appearing as the document type descriptor (left column) and 'Clinical investigation requirements' as the topic area.

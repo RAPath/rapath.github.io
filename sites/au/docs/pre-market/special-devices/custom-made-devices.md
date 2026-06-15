@@ -19,7 +19,7 @@ A device qualifies as custom-made (and is exempt from ARTG inclusion) if:
 
 **What is NOT a custom-made device:**
 - A device selected from a range of pre-manufactured sizes based on patient measurements (even if called "custom")
-- A device manufactured to a patient template using a standard manufacturing process
+- A device manufactured to a patient template using a standard, repeatable manufacturing process (e.g., a validated CAD model converted to a device using a standard 3D-printing protocol)
 - 3D-printed devices manufactured using a standard model with patient-specific dimensions — whether these qualify as custom-made depends on the specific process
 
 ## Ongoing Obligations for Custom-Made Device Manufacturers

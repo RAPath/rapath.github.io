@@ -6,7 +6,7 @@ sidebar_position: 6
 # Essential Principles Checklist
 
 :::note JP-unique
-Japan's Essential Principles (基本要件 — kihon yōken) are specified in Ministerial Ordinance and serve a similar function to the EU MDR's General Safety and Performance Requirements (GSPR). A completed Essential Principles checklist is a mandatory component of every Shonin (approval) application.
+Japan's Essential Principles (基本要件 — kihon yōken) are specified in Ministerial Ordinance 165 and serve a similar function to the EU MDR's General Safety and Performance Requirements (GSPR). A completed Essential Principles checklist is a mandatory component of every Shonin (approval) application.
 :::
 
 ## What the Essential Principles require
@@ -49,6 +49,8 @@ Not every aspect of every device is covered by a recognised standard. For gaps:
 - Provide the acceptance criteria and the result
 - Reference the test report in the dossier
 
-PMDA will question Essential Principles entries that are vague or unsupported. Incomplete checklist entries are one of the most common causes of PMDA queries during application review.
+PMDA will question Essential Principles entries that lack adequate supporting evidence or contain vague references. Incomplete or poorly justified checklist entries are among the most frequent causes of PMDA deficiency notices during application review. Best practice: provide specific references to recognised standards (with edition/version), test reports, or design specifications for each applicable principle.
 
 Japan's Essential Principles are specified in Ministerial Ordinance 165 (General Affairs Ministerial Ordinance on Medical Devices and In Vitro Diagnostic Devices). The Essential Principles checklist must be completed in Japanese and submitted as part of every Shonin (approval) application.
+
+Add after the first paragraph: 'Japan's Essential Principles are specified in Ministerial Ordinance 165 (MHLW Ordinance on Medical Devices and In Vitro Diagnostic Devices).'

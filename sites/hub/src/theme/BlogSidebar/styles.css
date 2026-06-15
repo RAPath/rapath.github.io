@@ -1,0 +1,97 @@
+.blog-filter-sidebar {
+  padding: 1.25rem 0.5rem 1.25rem 0;
+}
+
+.bfs-section {
+  margin-bottom: 1.75rem;
+}
+
+.bfs-title {
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--ifm-color-content-secondary);
+  margin: 0 0 0.6rem;
+}
+
+.bfs-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+}
+
+/* Shared chip */
+.bfs-chip {
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+  padding: 0.3rem 0.6rem;
+  border-radius: 6px;
+  font-size: 0.8rem;
+  font-weight: 500;
+  text-decoration: none !important;
+  border: 1px solid transparent;
+  transition: background 0.12s, border-color 0.12s;
+  line-height: 1.4;
+}
+
+/* Jurisdiction — subtle blue */
+.bfs-chip--jurisdiction {
+  color: var(--ifm-color-content);
+}
+.bfs-chip--jurisdiction:hover {
+  background: #eff6ff;
+  border-color: #bfdbfe;
+  color: #1e40af;
+}
+
+/* Category — slightly more prominent */
+.bfs-chip--category {
+  font-size: 0.835rem;
+  color: var(--ifm-color-content);
+}
+.bfs-chip--category:hover {
+  background: #f5f3ff;
+  border-color: #ddd6fe;
+  color: #5b21b6;
+}
+
+.bfs-name {
+  flex: 1;
+}
+
+.bfs-count {
+  margin-left: auto;
+  font-size: 0.7rem;
+  font-weight: 600;
+  background: var(--ifm-color-secondary-lightest, #eee);
+  color: var(--ifm-color-content-secondary);
+  border-radius: 999px;
+  padding: 0.1rem 0.45rem;
+  min-width: 1.4rem;
+  text-align: center;
+  flex-shrink: 0;
+}
+
+.bfs-flag,
+.bfs-icon {
+  font-size: 1rem;
+  line-height: 1;
+  flex-shrink: 0;
+}
+
+/* Dark mode */
+[data-theme='dark'] .bfs-chip--jurisdiction:hover {
+  background: #1e3a5f;
+  border-color: #1e40af;
+  color: #93c5fd;
+}
+[data-theme='dark'] .bfs-chip--category:hover {
+  background: #2e1065;
+  border-color: #4c1d95;
+  color: #c4b5fd;
+}

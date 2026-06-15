@@ -54,3 +54,5 @@ Plan for QMS inspection **before preparing the registration submission**. Schedu
 :::
 
 QMS inspections must be conducted by organizations designated or recognized by Roszdravnadzor. In some cases, accredited certification bodies may conduct inspections that meet the regulatory requirement, but confirmation should be obtained from Roszdravnadzor or the applicant's RUS REP.
+
+Replace 'This inspection is separate from and in addition to ISO 13485 certification by a third-party certification body.' with 'This inspection is separate from and in addition to ISO 13485 certification by a third-party certification body. Note: Not all registration amendments require a new inspection; this depends on the nature and scope of the change.'

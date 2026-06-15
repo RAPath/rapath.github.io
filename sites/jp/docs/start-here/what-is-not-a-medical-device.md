@@ -33,4 +33,4 @@ If the regulatory status of a product is genuinely unclear, the manufacturer or 
 2. The physiological effect of the product
 3. Whether the product falls within a Cabinet Order category
 
-PMDA's determination is not legally binding in the sense of a formal MHLW approval, but it provides a strong indication of how a formal application would be assessed. Getting an early determination avoids the risk of marketing a product that later requires regulatory action.
+PMDA's borderline determination is not legally binding as a formal MHLW approval, but it provides a reliable indication of how a formal application would be assessed and carries significant weight in the Japanese regulatory system. Obtaining an early determination avoids the substantial risk and cost of marketing a product that later requires compliance action or mandatory reclassification.

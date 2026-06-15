@@ -23,7 +23,7 @@ Medical devices must be stored and transported under conditions that preserve th
 | Frozen devices | Typically -15°C to -25°C |
 | Radiation-sensitive devices | Shielded from ionising radiation |
 
-Cold chain devices must be transported in validated cold chain packaging or temperature-controlled vehicles, with temperature monitoring logs for each shipment.
+Cold chain devices (2–8°C range) must be transported in validated cold chain packaging or temperature-controlled vehicles, with temperature monitoring logs (including minimum and maximum temperatures recorded) for each shipment. Documentation should be retained for at least 5 years.
 
 ---
 
@@ -32,3 +32,5 @@ Verify all information against official [ANVISA](https://www.gov.br/anvisa) sour
 :::
 
 Storage and transport conditions are also governed by RDC 751/2022 (Technical Regulation for Medical Devices), which sets out the overall requirements for device registration and technical specifications, including stability and shelf-life conditions.
+
+Transport operators and importers are jointly responsible for maintaining storage and transport conditions throughout the supply chain. Documentation of temperature monitoring (time-stamped logs) must be retained and made available to ANVISA during inspections or post-market surveillance activities. Failure to maintain specified conditions may trigger product recalls or regulatory action.

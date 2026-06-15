@@ -56,3 +56,7 @@ Not all device-related complaints or incidents require NCMDR reporting. Minor ma
 - [PMS & PSUR](./pms-psur)
 
 Confirm current timeframes against the latest SFDA guidance published on the GHAD portal or in MDS-REQ 5, as reporting timelines may be updated periodically.
+
+Software and cybersecurity incidents
+
+For devices incorporating software or connected functionality, manufacturers must report serious software-related incidents, failed security patches, or cybersecurity vulnerabilities that could impact patient safety. These reports should be submitted via the same NCMDR channels with documentation of the software version, affected devices, and remediation measures taken.

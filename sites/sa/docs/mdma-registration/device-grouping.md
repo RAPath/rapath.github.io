@@ -35,7 +35,7 @@ Devices with significantly different intended uses, different classes, or differ
 
 ## IVD grouping
 
-IVD devices may also be grouped under the same conditions. For IVDs with multiple reagent configurations or lot sizes, grouping is common practice.
+IVD devices may also be grouped under the same conditions (same manufacturer, same classification, same intended use, similar design principle). For IVDs with multiple reagent configurations or intended use variations, grouping is common practice. However, if reagent configurations have significantly different performance characteristics or different target analytes, the SFDA may request individual device-specific validation data within the grouped application.
 
 ## Further reading
 

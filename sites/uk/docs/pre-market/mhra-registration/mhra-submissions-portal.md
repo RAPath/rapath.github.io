@@ -21,7 +21,7 @@ Registration via the MHRA Submissions portal is mandatory under the **UK MDR 200
 4. Verify your email address
 5. Complete your organisation profile
 
-For UKRPs: create an account in the UKRP's own organisation name. You will then link overseas manufacturer registrations to your UKRP account.
+For UKRPs: create an account in the UKRP's own organisation name. You will then link each overseas manufacturer's legal entity to your UKRP account, and register devices under the linked manufacturer's identity.
 
 ---
 

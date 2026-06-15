@@ -7,7 +7,7 @@ last_reviewed: 2026-04-30
 
 ## Overview
 
-An ARTG entry must accurately reflect the current state of the device and the sponsorship arrangement at all times. When changes occur that affect the information in an ARTG entry, the sponsor must assess whether a formal variation application is required, whether a notification to the TGA is sufficient, or whether a new ARTG application is needed. Getting this assessment right is important — making significant changes to a device without the appropriate variation or new application is a breach of ARTG conditions and can constitute supply of an unapproved device.
+An ARTG entry must accurately reflect the current state of the device and the sponsorship arrangement at all times. When changes occur that affect the information in an ARTG entry, the sponsor must assess whether a formal variation application is required, whether a notification to the TGA is sufficient, or whether a new ARTG application is needed. Getting this assessment right is critical. Making significant changes to a device without the appropriate variation or new application is a breach of ARTG conditions, can constitute supply of an unapproved device, and may result in TGA enforcement action including suspension, cancellation, and potential criminal penalties.
 
 ---
 

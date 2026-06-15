@@ -20,7 +20,7 @@ The **CBPF** is Brazil's national GMP certificate for medical device manufacture
 | Accepted by foreign authorities | Not directly | Widely accepted internationally |
 | Validity | Specified in the certificate | Typically 3 years (with surveillance audits) |
 
-For domestic Brazilian manufacturers, a CBPF issued by ANVISA is required. For foreign manufacturers importing devices into Brazil, an ISO 13485 certificate is typically accepted with the registration dossier, but ANVISA reserves the right to conduct an inspection or require a CBPF for Class IV devices.
+For domestic Brazilian manufacturers, a CBPF issued by ANVISA is required. For foreign manufacturers importing devices into Brazil, an ISO 13485 certificate is typically accepted with the registration dossier. However, ANVISA reserves the right to conduct an inspection of the foreign facility or require a Brazilian CBPF (issued to the importer/distributor in Brazil) for Class III and Class IV devices, and may require a CBPF for Class II devices depending on risk assessment.
 
 ---
 

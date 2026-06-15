@@ -45,3 +45,10 @@ Recommended internal process:
 Determining the start date for international companies
 
 For manufacturers or importers operating across multiple time zones or jurisdictions, the reporting clock starts when any person in your Canadian-regulated entity (i.e., the MDEL holder, importer, or distributor in Canada) becomes aware of the reportable event. If the parent company or subsidiary in another country receives the information first, the clock does not start until the Canadian entity is notified. Document the date and time of awareness in your records.
+
+Timeframe calculation
+
+Reporting deadlines are measured in calendar days, not business days. For example:
+A 10-calendar-day deadline that begins on a Friday includes the following weekend and runs through the second Thursday
+If the deadline falls on a weekend or statutory holiday, the report is due by the end of that day
+Companies should submit reports with adequate lead time to avoid missing deadlines due to system issues or delays

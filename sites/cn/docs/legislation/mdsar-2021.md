@@ -11,7 +11,7 @@ tags: [legislation]
 Medical Device Supervision and Administration Regulations 2021
 医疗器械监督管理条例 (State Council Order No. 739)
 
-MDSAR 2021 is China's primary medical device regulation. It came into force on 1 June 2021, replacing the 2017 version. It is a State Council (国务院) regulation — one level below national law in the Chinese legal hierarchy, but binding on all parties in the supply chain.
+MDSAR 2021 is China's primary medical device regulation. It came into force on 1 June 2021, replacing the 2000 Medical Device Supervision and Administration Regulation. It is a State Council (国务院) regulation — the second-highest tier of binding administrative legislation in China's legal hierarchy — and is binding on all manufacturers, distributors, healthcare institutions, and regulatory bodies in the supply chain.
 
 ---
 
@@ -45,7 +45,7 @@ Chapter
         Arts. 88–101: Administrative and criminal penalties for violations
         VIII
         Supplementary Provisions
-        Arts. 102–107: Interpretation, transitional provisions, effective date
+        Arts. 102–107: Supplementary Provisions, including interpretation authority, transitional measures for devices registered under previous regulations, and effective date (1 June 2021)
 
 ---
 

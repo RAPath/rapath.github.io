@@ -33,3 +33,5 @@ TR-001 covers:
 | IVD B/C/D | Performance evaluation: sensitivity, specificity, precision, reference method comparisons |
 
 Revise the 'Labelling and IFU' row to read: 'Labelling and IFU: Proposed HK labelling in both English and Chinese for all devices; bilingual IFU mandatory for home-use devices and OTC products.'
+
+Update the 'Labelling and IFU' row in the Core Dossier Elements section to read: 'Labelling and IFU | Proposed HK labelling in both English and Chinese for all devices; bilingual IFU mandatory for home-use devices and OTC products'

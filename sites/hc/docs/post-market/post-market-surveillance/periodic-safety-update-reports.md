@@ -31,3 +31,10 @@ A PSUR should include:
 If a PSUR concludes that a Device Licence amendment is needed (e.g., a new contraindication, a labelling update), the amendment process must be initiated promptly. See [Amending a Device Licence](/docs/post-market/device-licence-maintenance/amending-device-licence).
 
 > **Reference:** IMDRF MDCE WG/N56FINAL:2019 (Periodic Safety Update Report for Medical Devices)
+
+PSUR requests
+
+If Health Canada requests a PSUR for a device not previously subject to mandatory PSUR reporting:
+The manufacturer should contact Health Canada to clarify the scope and timeline for submission
+The initial PSUR may consolidate data from the entire post-market period to date, rather than a single reporting period
+Manufacturers should establish an internal timeline to begin prospective PSUR preparation if Health Canada indicates future PSURs will be expected

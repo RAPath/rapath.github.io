@@ -21,3 +21,7 @@ Content on this site is written with AI assistance and is intended as a navigati
 :::
 
 NMPA conducts routine inspections, targeted inspections based on risk, and investigation inspections following complaints or adverse events. Local authorities (provincial and municipal) conduct on-site compliance inspections. MDSAR 2021 authorizes inspectors to examine facilities, equipment, records, and products. Inspection findings are documented and may trigger enforcement actions if violations are identified.
+
+Add a section on inspection framework: 'NMPA conducts routine inspections, targeted inspections based on risk, and investigation inspections following complaints or adverse events. Local authorities (provincial and municipal) conduct on-site compliance inspections. MDSAR 2021 authorizes inspectors to examine facilities, equipment, records, and products. Inspection findings are documented and may trigger enforcement actions if violations are identified.'
+
+Remove the line 'Full content to be completed during editorial review.' from the introductory paragraph, or update it to 'This page provides a plain English reference for NMPA and local authority inspections under China's NMPA enforcement framework.'

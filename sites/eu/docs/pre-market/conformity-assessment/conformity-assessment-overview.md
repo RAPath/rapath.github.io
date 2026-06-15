@@ -137,3 +137,5 @@ Conformity assessment timelines vary significantly by:
 | MDR Annex XI | Product conformity verification |
 | MDR Art. 54 | Special procedure for Class III and IIb |
 | MDCG 2020-11 | Guidance on conformity assessment procedure selection |
+
+The page should complete the Art. 54 scrutiny procedure table and provide comprehensive information about when and how the scrutiny procedure applies to different device classes and risk categories.

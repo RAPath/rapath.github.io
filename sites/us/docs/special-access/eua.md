@@ -43,7 +43,7 @@ EUA medical devices can be used only:
 
 ## COVID-19 EUAs — notable examples
 
-The COVID-19 Public Health Emergency (Jan 2020 – May 2023) resulted in hundreds of device EUAs. Note: The Public Health Emergency declaration ended on May 11, 2023, though many EUAs remain in effect under FDA authorization.
+The COVID-19 Public Health Emergency (January 2020 – May 2023) resulted in hundreds of device EUAs. Important note: The Public Health Emergency declaration ended on May 11, 2023. However, FDA took affirmative action to allow many COVID-19 device EUAs to remain in effect beyond the declared emergency, with specified expiration dates or transition pathways to clearance/approval.
 
 | Device type | Examples |
 |---|---|
@@ -83,3 +83,5 @@ When an emergency declaration terminates:
 - [FDA — EUA List (All Devices)](https://www.fda.gov/medical-devices/emergency-situations-medical-devices/emergency-use-authorizations-medical-devices)
 
 The "may be effective" standard is notably lower than substantial equivalence — it requires only evidence suggesting the product may work, without comparative data demonstrating it is as good as a predicate device. This allows faster authorization during emergencies when rigorous comparative data may not yet exist.
+
+Add after the 'FDA review' bullet point: 'The "may be effective" standard is notably lower than substantial equivalence — it requires only evidence suggesting the product may work, without comparative data demonstrating it is as good as a predicate device. This allows faster authorization during emergencies when rigorous comparative data may not yet exist.'

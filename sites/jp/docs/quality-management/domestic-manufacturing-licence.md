@@ -47,3 +47,5 @@ The following changes require notification to (or authorisation from) the licens
 - Change in address or facility location
 
 The responsible manufacturing manager (製造管理者 — seizō kanrisha) must meet specific qualification requirements, typically including formal education in engineering or life sciences and documented experience in medical device manufacturing or quality management. Proof of qualifications must be submitted with the licensing application.
+
+The page states manager qualifications must be submitted, but add: 'Acceptable evidence of qualification includes certificates or diplomas in chemical engineering, pharmaceutical manufacturing, quality assurance, or related fields, plus at least 2 years of documented experience in medical device manufacturing or quality management.'

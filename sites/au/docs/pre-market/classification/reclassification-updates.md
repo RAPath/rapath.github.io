@@ -33,7 +33,7 @@ Updated classification rules for software-based medical devices came into full e
 
 ## Personalised Medical Devices (2019 onwards)
 
-Regulatory changes progressively introduced new rules for personalised medical devices — including patient-matched, custom-made, and other non-standard devices. These changes clarified classification and conformity assessment requirements for 3D-printed and other personalised devices.
+Regulatory changes progressively introduced new rules for personalised medical devices — including patient-matched, custom-made, and other non-standard devices. These changes clarified classification and conformity assessment requirements for 3D-printed devices, patient-specific implants, and other personalised medical devices produced outside standard manufacturing pathways.
 
 👉 [Personalised medical devices — TGA guidance](https://www.tga.gov.au/resources/guidance/guidance-regulatory-framework-personalised-medical-devices)
 

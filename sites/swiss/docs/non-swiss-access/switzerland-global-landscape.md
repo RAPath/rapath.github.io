@@ -6,7 +6,7 @@ keywords: [Switzerland global regulatory landscape, MedDO, international compari
 # Switzerland in the Global Regulatory Landscape
 
 ## Overview
-Switzerland occupies a distinctive position in the global medical device regulatory landscape: technically aligned with the EU (MedDO mirrors EU MDR; IVDO mirrors IVDR), but administratively separate. This creates both advantages and specific considerations for manufacturers operating across multiple markets.
+Switzerland occupies a distinctive position in the global medical device regulatory landscape: technically aligned with the EU (MedDO mirrors EU MDR technical requirements; IVDO mirrors IVDR technical requirements), but administratively and procedurally independent with separate registration and post-market surveillance systems. This creates both advantages and specific considerations for manufacturers operating across multiple markets.
 
 ## Switzerland's Regulatory Positioning
 

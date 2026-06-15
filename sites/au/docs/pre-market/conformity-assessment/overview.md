@@ -29,7 +29,7 @@ The manufacturer uses conformity assessment certificates or approvals from a rec
 
 ## Conformity Assessment Procedures by Device Class
 
-The required conformity assessment procedures depend on the device class. The table below provides a summary — always refer to Schedule 3 and current TGA guidance for the definitive requirements.
+The required conformity assessment procedures depend on the device class and the manufacturer's chosen evidence pathway. The table below provides a summary of procedures for devices seeking TGA certification or assessed under the TGA's direct assessment pathway — always refer to Schedule 3 of the MD Regulations and current TGA guidance for the definitive requirements.
 
 | Class | QMS Required | Product Assessment | Typical Evidence Type |
 |-------|-------------|-------------------|----------------------|
@@ -69,6 +69,9 @@ ISO 13485 is the internationally recognised standard for Quality Management Syst
 MDSAP is a program that allows a single audit of a medical device manufacturer to satisfy the regulatory requirements of multiple participating countries, including Australia, the USA, Canada, Brazil, and Japan. TGA accepts MDSAP certificates as evidence of a manufacturer's QMS for Australian applications. This can significantly reduce the audit burden for manufacturers selling across multiple markets.
 
 ---
+
+
+Add to the MDSAP section: 'For manufacturers in countries participating in MDSAP (Australia, USA, Canada, Brazil, Japan), a single audit conducted under the MDSAP program can satisfy Australia's conformity assessment requirements under Pathway 2 (Comparable Overseas Regulator Evidence), provided the audit covers the applicable Schedule 3 procedures for the device class.'
 
 ## Official Sources
 

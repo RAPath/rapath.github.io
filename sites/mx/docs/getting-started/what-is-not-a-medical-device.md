@@ -25,11 +25,11 @@ The **July 2025 COFEPRIS classification decree** introduced **Annex 3**, which e
 - Laboratory reagents not intended for clinical diagnosis
 - Hospital furniture (beds, trolleys, storage)
 - General cleaning and disinfection products
-- Personal protective equipment for non-medical use
+- Personal protective equipment (PPE) for non-medical use — however, PPE intended for medical/healthcare settings may still require registration; verify with COFEPRIS
 - Laboratory glassware and consumables (general purpose)
 
-:::caution Check current Annex 3 text
-The Annex 3 list was published in the Diario Oficial de la Federación (DOF) in July 2025. Always verify against the current DOF text, as COFEPRIS may update the Annexes over time.
+:::caution Verify current Annex 3 classification
+Annex 3 was published in the Diario Oficial de la Federación (DOF) in July 2025. COFEPRIS periodically updates the Annexes; before submitting a product classification inquiry or import permit application, always verify your product against the current DOF-published text on the COFEPRIS official website or consult COFEPRIS directly via DIGIPRiS.
 :::
 
 ## Products that achieve their principal action by pharmacological means

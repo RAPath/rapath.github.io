@@ -13,7 +13,7 @@ Canada's Official Languages Act and the Consumer Packaging and Labelling Act req
 - Package inserts
 - Promotional/technical materials given to users
 
-This is one of the most commonly overlooked requirements for foreign manufacturers entering the Canadian market.
+This is one of the most commonly overlooked requirements for foreign manufacturers entering the Canadian market. Non-compliance with bilingual labelling requirements is a leading cause of Device Licence application deficiencies and can delay market entry by several weeks.
 
 ## What must be bilingual
 
@@ -38,3 +38,15 @@ If bilingual labels are updated after licence issuance, assess whether the updat
 > Legislative source: Official Languages Act, RSC 1985, c 31 (4th Supp); Consumer Packaging and Labelling Act, RSC 1985, c C-38; Medical Devices Regulations, SOR/98-282, s 21
 
 Foreign manufacturers should prioritize bilingual label development early in the regulatory process. Health Canada does not provide grace periods for English-only submissions; incomplete bilingual labelling will result in a Screening Deficiency Notice and clock suspension from the date of submission.
+
+Add after 'Device Licence application' section: 'Foreign manufacturers should prioritize bilingual label development early in the regulatory process. Health Canada does not provide grace periods for English-only submissions; incomplete bilingual labelling will result in a Screening Deficiency Notice and clock suspension from the date of submission.'
+
+Complete the bilingual requirements table:
+
+Indications for use	Yes
+Warnings and contraindications	Yes
+Instructions for Use (IFU)	Yes
+Package inserts	Yes
+Device description	Yes
+Safety information	Yes
+Contact information	Yes (all elements must be bilingual, including name and full address)

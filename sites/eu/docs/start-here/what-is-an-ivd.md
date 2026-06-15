@@ -73,7 +73,7 @@ IVDR introduces several elements not present under the old IVDD 98/79/EC:
 
 ## Software as an IVD
 
-Software is explicitly included in the IVDR definition. IVD software qualification follows the same general logic as MDR software, but with IVD-specific criteria:
+Software is explicitly included in the IVDR definition as a potential IVD. IVD software qualification follows similar principles to MDR software (qualification, verification, validation, cybersecurity), but the scope assessment differs — the critical question is whether the software examines specimens or interprets data derived from specimens.
 
 - Does the software examine specimens derived from the human body?
 - Is the output intended to provide diagnostic or monitoring information from those specimens?

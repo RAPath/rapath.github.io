@@ -14,7 +14,7 @@ Class I devices follow the Todokede notification pathway. Specific guidance incl
 
 ## Class II devices
 
-Class II devices may use the Ninsho certification pathway if a recognised standard exists for the device's JMDN code and the device fully complies with that standard. Alternatively, Class II devices without applicable standards, or devices that do not fully comply with designated standards, must follow the Shonin approval pathway. Relevant guidance:
+Class II devices may use the Ninsho certification pathway if: (1) a recognised standard exists for the device's JMDN code on the current MHLW designated standards list, and (2) the device fully complies with that standard in all material respects. Alternatively, Class II devices without applicable standards, or devices that do not fully comply with designated standards, must follow the Shonin approval pathway. Relevant guidance:
 - MHLW notification on recognised standards list — check for your JMDN code
 - RCB-published guidance on certification application requirements (varies by RCB)
 - MHLW notification on conditions for switching from Ninsho to Shonin
@@ -68,3 +68,5 @@ IVD-specific guidance across all classes:
 Expand Class I devices section with: "Conformity assessment: Class I manufacturers must comply with MO 169 QMS requirements, though some low-risk Class I devices may qualify for simplified QMS requirements. Manufacturers should contact their prefectural government for guidance on QMS simplifications applicable to their device type. Some prefectures publish specific Class I quality manuals."
 
 Expand IVDs section to clarify: "IVD pathways: In-vitro diagnostic devices follow the same three-pathway system as other medical devices (Shonin, Ninsho, Todokede) based on JMDN code classification. In-house diagnostics (医療機関内診断用医療機器) may have reduced requirements if the applicant is a clinical facility. Check the JMDN code list and recognised standards list for your IVD to determine applicable pathway."
+
+Add to Class III devices section: "Priority Review and RS Strategy Consultation: Class III devices may be eligible for Priority Review if they address serious unmet medical needs. PMDA's RS Strategy Consultation provides early feedback on review strategy before formal application submission. Contact PMDA consultation services for eligibility assessment."

@@ -9,7 +9,7 @@ tags: [mdr, clinical-evidence, equivalence, clinical-evaluation]
 # Equivalence claims in clinical evaluation
 
 :::note Regulatory basis
-**MDR Art. 61(4)–(5) and Annex XIV §3**. Equivalence is a tool for leveraging existing clinical data from a comparable device in lieu of a new clinical investigation. Its use is significantly more restricted under MDR than under the previous MDD.
+**MDR Art. 61(4)–(5) and Annex XIV §3**. Equivalence is a tool for leveraging existing clinical data from a comparable device to support the clinical evaluation and potentially reduce the need for new clinical investigations. However, equivalence does not eliminate clinical evaluation requirements. Its use is significantly more restricted under MDR than under the previous MDD, particularly for Class III and implantable devices.
 :::
 
 :::warning Disclaimer
@@ -143,4 +143,4 @@ The CER must include:
 | MDCG 2020-5 | Clinical evaluation guidance including equivalence |
 | MDCG 2021-6 | Sufficient clinical evidence for legacy devices |
 
-The section should be completed with: 'For Class III devices and implantable Class IIb devices, the use of equivalence is heavily restricted. MDR Art. 61(4) mandates that a clinical investigation must be performed unless the device is a modification of an already-marketed device and the notified body agrees that sufficient clinical evidence exists. Even where equivalence is claimed, the reliance on literature alone is insufficient for these higher-risk devices — post-market clinical follow-up (PMCF) must be planned and justified.'
+For Class III devices and implantable Class IIb devices, the use of equivalence is heavily restricted. MDR Art. 61(4) mandates that a clinical investigation must be performed unless the device is a modification of an already-marketed device and the notified body agrees that sufficient clinical evidence exists. Even where equivalence is claimed, the reliance on literature alone is insufficient for these higher-risk devices — post-market clinical follow-up (PMCF) must be planned and justified.

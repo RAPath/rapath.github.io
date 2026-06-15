@@ -28,7 +28,7 @@ MAHs are expected to actively collect near-miss information from:
 - Healthcare institutions using their devices (through post-market surveillance activities)
 - The MHLW/PMDA database of near-miss reports submitted by healthcare facilities (MHLW operates a separate near-miss reporting system for healthcare institutions)
 
-The MAH's GPSP programme should include a process for collecting and analysing near-miss information.
+The MAH's GPSP (Good Post-market Surveillance Practice) programme must include documented procedures for systematically collecting, investigating, and analysing near-miss information from all sources, including healthcare institutions and MHLW's near-miss database.
 
 ## Reporting to MHLW
 

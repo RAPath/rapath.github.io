@@ -33,9 +33,11 @@ This measure establishes separate registration and filing procedures for in vitr
 - IVDs on NMPA's List A may be filed (not registered) with simplified documentation
 - Other IVDs follow standard Class II registration or Class III registration pathways
 - Analytical and clinical performance validation required based on IVD classification
-- Quality standards must reference YY/T 0287 or applicable national standards
+- Quality standards must reference applicable YY/T industry standards for the specific IVD category (e.g., YY/T 0287 for general IVD requirements, or category-specific standards) or GB national standards, with documented compliance demonstrated in the technical dossier
 - China Agent mandatory for imported IVDs
 - Post-market surveillance and adverse event reporting obligations
 
 ## Relationship to MDSAR 2021
 This measure implements Articles 10-43 of MDSAR 2021 (Chapter II), providing IVD-specific guidance on registration and filing with tailored requirements reflecting IVD regulatory classification.
+
+Add to Key Requirements: 'List A comprises low-risk IVDs established by NMPA; manufacturers should consult www.nmpa.gov.cn for the current official list and classification guidance. Devices not on List A follow standard Class II or III registration pathways.'

@@ -68,3 +68,5 @@ The LoA must be signed by an authorized representative of the foreign manufactur
 Timing of LoA Issue
 
 The LoA should be dated prior to or concurrently with the NIE application submission. Kemenkes will not accept a retroactively issued LoA (dated after the application submission date). Ensure the LoA is executed and legalised/apostilled before final dossier assembly.
+
+Add under 'The 5-Year Validity Rule — Critical': 'Important: The LoA validity period should extend at least 6–12 months beyond the NIE 5-year validity period to ensure the authorization remains valid if NIE renewal submissions occur near the expiry date. If an LoA expires while the NIE is still active, the LAR may face difficulties with Kemenkes interactions, change notifications, or renewal submissions. Plan LoA renewal or extension well in advance of expiry.'

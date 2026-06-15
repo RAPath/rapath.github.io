@@ -50,6 +50,6 @@ One of the most important aspects of renewal is ensuring the **LoA validity alig
 
 If an NIE lapses:
 - All imports against that NIE must cease immediately
-- Any stock in Indonesia under the lapsed NIE may continue to be sold if already in the supply chain, but no new imports are permitted
+- Any existing stock in Indonesia under the lapsed NIE may continue to be distributed through the supply chain if already received by customers before the NIE lapsed, but no new imports are permitted after the expiry date
 - Re-registration requires a new full NIE application — not an expedited process
 - There is no guaranteed continuity of market access during the re-registration period

@@ -25,3 +25,5 @@ Korea uses a **risk-based 4-grade classification system** for medical South (Gra
 
 ## Related pages
 - [Grade I–IV overview](./grade-i-ii-iii-iv-overview) · [IVD classification](./ivd-classification) · [SaMD classification](./samd-classification)
+
+Note: IVD devices are classified under a separate system (Grades A–D) rather than the standard Grades I–IV. See IVD classification for details.

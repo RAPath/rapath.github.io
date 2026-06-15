@@ -51,3 +51,13 @@ The Positive List is updated when new Class 1 devices are added. Always download
 :::
 
 Modify the Class 1 Listing row note to read: 'Class 1 Listing: Days–weeks (automatic upon verification of eligibility on Positive List; no Concise route available as Listing is administrative, not technical review)'
+
+Update the Class 1 Listing row in the Processing Timelines by Pathway table from:
+
+Pathway | Standard Route | Concise/Reliance Route
+Class 1 Listing | Days–weeks (automatic) | N/A
+
+To:
+
+Pathway | Standard Route | Concise/Reliance Route
+Class 1 Listing | Days–weeks (automatic upon verification of eligibility on Positive List; no Concise route available as Listing is administrative, not technical review) | N/A

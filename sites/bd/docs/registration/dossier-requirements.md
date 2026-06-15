@@ -31,7 +31,7 @@ The DGDA-prescribed application form, completed in full by the AR. Available fro
 ### 4. ISO 13485 Certificate — BD-Unique Mandatory
 - Current and valid ISO 13485:2016 certificate from an accredited certification body
 - Must cover the **specific product category** being registered
-- Scope must be appropriate — a certificate for "surgical instruments" does not cover active implantable (or 2023) devices, Class D high-risk devices, or IVDs unless explicitly stated ILAC-accredited and recognised certification bodies. Certificates from unaccredited or locally-only may not be accepted.
+- Scope must be appropriate — a certificate for "surgical instruments" does not cover active implantable (or 2023) devices, Class D high-risk devices, or IVDs unless explicitly stated ILAC-accredited and recognised certification bodies. Certificates from unaccredited or locally-only accredited certification bodies may not be accepted.
 - DGDA recognises certificates from internationally accredited CBs
 
 ### 5. Free Sale Certificate (FSC)
@@ -93,3 +93,27 @@ Confirm grouping eligibility with the DGDA or your AR before preparing a grouped
 - **Consistency**: Ensure the device name, model number, and specifications are consistent across all submitted documents — inconsistencies are a common cause of completeness failures.
 
 Confirm grouping eligibility with the DGDA before submitting a grouped application. Grouped applications must demonstrate clear linkage between devices and shared safety/performance characteristics.
+
+Free Sale Certificate (FSC) — Acceptance Criteria:
+
+The FSC must be:
+- Issued by the regulatory authority of the country of manufacture (e.g., FDA, EMA, TGA, Health Canada, PMDA)
+- Current and valid at the time of DGDA submission
+- Issued within the past 2 years (confirm current DGDA requirement)
+- In English or with a certified English translation
+- Specifically naming the device model(s) being registered in Bangladesh
+
+FSCs issued by trade associations, industry bodies, or non-regulatory entities are not acceptable. If the country of manufacture has no formal market authorisation system, contact the DGDA in writing to request alternative evidence of market authorisation or equivalency.
+
+Grouping Applications — BD-Unique (continued):
+
+Multiple devices may be included in a single DGDA application if they form a legitimate group:
+
+Group Type | Eligibility
+--- | ---
+Same manufacturer + same intended purpose + shared design principles | May qualify for grouped registration if devices differ only in size, material specifications, or configuration variants
+Different manufacturers | Not eligible for grouping
+Different intended purposes | Not eligible for grouping
+Different risk classes | Not eligible for grouping
+
+Grouping must be justified in the application with a summary demonstrating why devices are sufficiently similar that a single risk management file and clinical evaluation can appropriately support all devices in the group. The highest risk device in the group determines the classification of the entire group. Contact the DGDA early if you intend to group devices to confirm eligibility.

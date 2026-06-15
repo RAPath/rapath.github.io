@@ -21,7 +21,7 @@ Software that is an integral part of a hardware device (device software / embedd
 
 ## Current Regulatory Status in Indonesia
 
-Indonesia does not yet have a dedicated, published SaMD-specific regulation. SaMD is currently regulated under the existing medical device framework (Permenkes 62/2017) on a case-by-case basis, applying general classification rules to determine whether a particular software product is a medical device and, if so, what class it falls into.
+Indonesia does not yet have a dedicated, published SaMD-specific regulation. SaMD is currently regulated under the existing medical device framework (Permenkes 62/2017) on a case-by-case basis. Kemenkes evaluators apply general medical device classification rules to determine whether a particular software product meets the definition of a medical device and, if so, what risk class it falls into.
 
 :::note Evolving guidance
 The Indonesian SaMD regulatory framework is actively developing. Manufacturers bringing AI/ML-based or complex SaMD products to Indonesia should engage with their LAR and directly with Kemenkes for the current position on specific products.
@@ -55,3 +55,5 @@ Higher-severity intended use combined with high consequence of error → higher 
 Cybersecurity : For internet-connected or networked SaMD, documentation of cybersecurity risks and mitigation measures (e.g., encryption, authentication, access controls, vulnerability management) is increasingly expected by Kemenkes and should be included in the dossier.
 
 SaMD requiring registration must be submitted through the Regalkes system and obtain an NIE (Nomor Izin Edar) using the same application pathway as hardware devices. The classification determines the documentation requirements and review timeline. Regulatory Affairs contacts at Kemenkes can clarify whether specific SaMD products are considered medical devices subject to NIE registration.
+
+Add after the 'Current Regulatory Status in Indonesia' section: 'While a formal SaMD regulation is under development, manufacturers should anticipate that future Indonesian SaMD guidance will likely align with IMDRF and ASEAN regional harmonization efforts. Engagement with Kemenkes early in the development cycle is strongly recommended for novel SaMD products.'

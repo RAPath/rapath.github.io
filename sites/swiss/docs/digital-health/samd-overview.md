@@ -36,6 +36,9 @@ SaMD post-market surveillance has specific features:
 - Software updates: security patches and feature updates must be managed through a documented change control process; significant algorithm changes may require new conformity assessment
 - Cybersecurity incidents: security vulnerabilities that could lead to patient harm must be reported to Swissmedic via eVigilance
 
+
+Software versioning: Software version numbering scheme and release documentation requirements, including version control and traceability of all released versions
+
 ## Official Sources
 - [MedDO (SR 812.213)](https://www.fedlex.admin.ch/eli/cc/2021/205/en)
 - [MDCG 2019-11 — Software qualification and classification](https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en)

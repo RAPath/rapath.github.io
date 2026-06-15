@@ -56,7 +56,7 @@ The **Bureau of Customs (BoC)** coordinates with CDRRHR to intercept unregistere
 
 - CDRRHR and BoC have a coordinated list of devices requiring valid CMDN/CMDR for customs clearance
 - Shipments lacking valid registration documentation may be **detained, seized, or returned**
-- The importer must provide evidence of valid CMDN/CMDR and LTO for customs release of registered device shipments
+- The importer must provide evidence of valid CMDN/CMDR (or confirmation of exemption, as in the case of IVDs) and current LTO for customs release of registered device shipments
 
 **Practical implication:** Ensure all customs documentation includes the CMDN/CMDR number and the LTO reference. Do not ship without confirmed valid registrations.
 
@@ -83,3 +83,5 @@ This formal appeal process distinguishes Philippines' framework from many other 
 ## Confidentiality of Submitted Information — PH-Unique
 
 RA 9711 includes provisions on the **confidentiality of technical data** submitted to FDA Philippines. Proprietary information (formulation details, manufacturing processes, clinical data) submitted for registration purposes is protected from unauthorised disclosure. The FDA may use the information for regulatory evaluation but cannot share it with third parties without the applicant's consent, subject to certain public health exceptions.
+
+Upon issuance of a recall order by CDRRHR, the responsible party (manufacturer, importer, or distributor) must comply within the timeframe specified in the recall notice. Failure to comply or provide evidence of compliance within the prescribed period may result in criminal prosecution, product seizure, facility closure, and/or substantial fines under RA 9711. Maintain documented recall response procedures and communication records with CDRRHR.

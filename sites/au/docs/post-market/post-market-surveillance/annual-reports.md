@@ -41,7 +41,7 @@ Annual reports are submitted by the **sponsor** and must include:
 
 ## Reporting Timeframes
 
-Annual reports are due on the anniversary of the ARTG inclusion date, unless the TGA specifies a different timeframe. The TGA notifies sponsors of their annual reporting obligations and due dates. Reports must be submitted through the TGA's eBusiness Services (eBS) portal.
+Annual reports are due on the anniversary of the ARTG inclusion date, unless the TGA specifies a different timeframe in the conditions of ARTG inclusion. The TGA notifies sponsors of their specific annual reporting obligations and due dates via written notification. Reports must be submitted through the TGA's eBusiness Services (eBS) portal, and late submissions should be accompanied by an explanation of the delay.
 
 ---
 

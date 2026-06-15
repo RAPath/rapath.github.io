@@ -30,3 +30,7 @@ For devices not cleared/approved in the USA, FDA may issue a **§ 802 certificat
 ## Official resources
 - [FDA — Export Certificates](https://www.fda.gov/medical-devices/importing-and-exporting-medical-devices/export-certificates-medical-devices)
 - [FD&C Act § 801(e) and § 802](https://www.law.cornell.edu/uscode/text/21/381)
+
+**When to Request Each Certificate Type**
+
+Request a standard CFG when exporting cleared/approved devices or when seeking attestation of GMP compliance for otherwise compliant devices. Request a § 802 certificate specifically for devices NOT cleared or approved in the USA that are manufactured under 21 CFR Part 820 (QMSR) but do not meet US marketing approval requirements. The § 802 certificate allows export while confirming the device is not adulterated or misbranded under US law.

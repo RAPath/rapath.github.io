@@ -74,3 +74,12 @@ Data generated under an ITA may be used to support a subsequent Device Licence a
 ITA amendments
 
 Manufacturers must submit an amendment to Health Canada for approval if there are material changes to the approved ITA, including: changes to the device design or manufacturing process, changes to patient population or eligibility criteria, changes to study endpoints, addition of new clinical sites, changes to the clinical investigator, or any modifications to risk mitigation strategies. Minor administrative changes (e.g., contact information updates) may not require an amendment. Health Canada reviews amendments using an expedited process, typically completing review within 15–30 days.
+
+Add a new section after 'ITA review process': 'ITA review timelines
+
+Health Canada aims to complete ITA review within 30 days from the date a complete application is received. However, timelines may be extended if:
+- The application is incomplete and a Deficiency Notice is issued
+- Additional safety or ethical information is required
+- Health Canada consults external experts
+
+Sponsors should allow 60–90 days from submission to study initiation to account for screening, review, and potential deficiency responses.'

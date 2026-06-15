@@ -90,6 +90,20 @@ Class III is subject to the highest pre-market regulatory scrutiny. Applications
 
 ---
 
+Official Sources
+
+Schedule 2 — Classification rules (general devices) — MD Regulations 2002
+Schedule 2A — Classification rules (IVD devices) — MD Regulations 2002
+Part 4-5 — Therapeutic Goods Act 1989
+ARTG inclusion by device class — TGA guidance
+
+Official Sources
+​
+Steps to supply for sponsors — TGA
+Device classification rules — Schedule 2, MD Regulations 2002
+Schedule 2A (IVD classification) — MD Regulations 2002
+Conformity assessment procedures — TGA
+
 ## Official Sources
 
 - [Steps to supply for sponsors — TGA](https://www.tga.gov.au/products/medical-devices/application-and-market-authorisation/supply-medical-device/steps-supply-device-sponsors)
@@ -102,8 +116,6 @@ Class III is subject to the highest pre-market regulatory scrutiny. Applications
 - [Overview & Process](./overview.md)
 - [Application Audits](./application-audits.md)
 - [Fees & Charges](./fees-and-charges.md)
-
-The complete 'Official Sources' section should read:
 
 Official Sources
 ​

@@ -8,7 +8,7 @@ keywords: [ANVISA, Brazil, medical device]
 # Brazil Traceability System — Current Status & Roadmap
 
 :::info BR-unique
-Brazil is in the process of developing a national medical device **traceability system** (*sistema de rastreamento*) aligned with the IMDRF UDI (Unique Device Identification) framework. As of May 2026, full UDI implementation is not yet mandatory for all device classes in Brazil — ANVISA has published proposals and is running public consultations on the topic.
+Brazil is in the process of developing a national medical device **traceability system** (*sistema de rastreamento*) aligned with the IMDRF UDI (Unique Device Identification) framework. As of 2026, full UDI implementation is not yet mandatory for all device classes in Brazil — ANVISA has published proposals and is conducting public consultations on implementation timelines and scope — ANVISA has published proposals and is running public consultations on the topic.
 :::
 
 ## Current traceability requirements
@@ -33,3 +33,5 @@ Verify all information against official [ANVISA](https://www.gov.br/anvisa) sour
 :::
 
 ANVISA has issued proposals for mandatory UDI implementation but has not yet set a firm deadline. Manufacturers should monitor ANVISA's Peticionamento Eletrônico portal and official communications for announcements regarding mandatory UDI effective dates.
+
+Class III and IV devices face the most stringent traceability requirements. Class IV implantable devices require patient-level implant records linked to specific device lots/serial numbers. Manufacturers and importers should prioritize UDI readiness for higher-risk device classes, as ANVISA is likely to mandate UDI implementation first for Classes III and IV before rolling out to lower classes.

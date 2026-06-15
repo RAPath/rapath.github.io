@@ -43,3 +43,5 @@ keywords: [ANVISA glossary, medical device terms, Brazil regulatory, English Por
 | Essential requirements | Requisitos Essenciais | Safety & performance requirements |
 | Risk management | Gestão de Riscos | ISO 14971 in Brazil context |
 | Combination product | Produto Combinado | Device + drug or biologic |
+
+Replace the Notes column for 'GMP Certificate' with: 'Issued by ANVISA; required for AFE and product registration; valid for up to 3 years and subject to inspection. In some states, state VISA may also issue or endorse CBPF.'

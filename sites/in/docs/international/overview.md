@@ -25,3 +25,5 @@ See [India vs TGA · CE · FDA · HSA · Health Canada](/docs/international/indi
 Add a row to the comparison table:
 
 India | CDSCO | Class A–D (IMDRF-aligned) | Import licence (Form MD-14/15); Expedited approval for Class C/D devices; Approval timeline: 90–180 days for new devices
+
+Modify the India row to read: 'India | CDSCO | Class A–D (IMDRF-aligned) | Import licence (Form MD-14/15); Class A (45 days), Class B (90 days), Class C/D (90–180 days); expedited pathway available for breakthrough/novel devices'

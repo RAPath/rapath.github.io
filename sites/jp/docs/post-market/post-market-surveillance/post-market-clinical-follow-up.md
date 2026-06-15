@@ -29,3 +29,5 @@ All PMCF data collected during the re-examination period — whether from use-re
 Data management and record retention
 
 All PMCF study data must be securely managed and retained for at least 7 years after device approval or market withdrawal, whichever is later. Data must comply with Japanese data protection regulations, particularly when patient-level data is collected. For international studies involving Japanese patients, explicit consent forms addressing data handling and cross-border transfer must be included in the study protocol and reviewed by PMDA.
+
+Add to the 'Integration with re-examination data' section: "If PMCF data is collected as part of an international multicentre trial, Japanese patient data should be analysable separately or clearly identified in the overall dataset. This allows PMDA to assess safety and efficacy outcomes specific to the Japanese population as part of re-examination review. Ensure that the trial database structure and analysis plan account for this requirement and that it is documented in the protocol submitted to PMDA."

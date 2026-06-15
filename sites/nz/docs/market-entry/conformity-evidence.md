@@ -57,7 +57,7 @@ Sponsors must respond to Medsafe information requests within the timeframe speci
 
 ## Good practice recommendation
 
-Good practice recommendation: Even though no specific documentation format is mandated for New Zealand, Sponsors and manufacturers supplying higher-risk devices should maintain documentation aligned with internationally recognised standards. These include: ISO 13485 (Quality management systems for medical devices), ISO 14971 (Risk management for medical devices), and GHTF/SG1/N011 (Summary Technical Documentation format for demonstrating conformity). This approach ensures documentation is suitable for multiple markets and meets Medsafe's expectations during any post-market requests.
+Even though no specific documentation format is mandated for New Zealand, Sponsors and manufacturers supplying higher-risk devices should maintain documentation aligned with internationally recognised standards including ISO 13485 (Quality management systems for medical devices), ISO 14971 (Risk management for medical devices), and GHTF/SG1/N011 (Summary Technical Documentation format for demonstrating conformity). This approach ensures documentation is suitable for multiple markets and meets Medsafe's expectations during any post-market requests.
 
 - ISO 13485 — Quality management systems for medical devices
 - ISO 14971 — Risk management for medical devices
@@ -68,3 +68,7 @@ This ensures that documentation is also suitable for other markets and meets Med
 ## If you cannot provide adequate evidence
 
 "If a Sponsor cannot produce adequate documentation within the timeframe specified by Medsafe, enforcement options include: Medsafe may issue a direction to cease supply; the device may be seized from the market; an infringement notice or prosecution may follow; and the Sponsor's registration or reputation may be affected. The best approach is to engage with Medsafe as soon as a documentation gap is identified and propose a remedial plan with realistic timelines."
+
+Add a new section titled 'If you cannot provide adequate evidence' with text: "If a Sponsor cannot produce adequate documentation within the timeframe specified by Medsafe, enforcement options include: Medsafe may issue a direction to cease supply; the device may be seized from the market; an infringement notice or prosecution may follow; and the Sponsor's registration or reputation may be affected. The best approach is to engage with Medsafe as soon as a documentation gap is identified and propose a remedial plan with realistic timelines."
+
+The text following 'Good practice recommendation:' should either be integrated into a proper formatted box/section or the instruction prefix should be removed so it reads as: 'Even though no specific documentation format is mandated for New Zealand, Sponsors and manufacturers supplying higher-risk devices should maintain documentation aligned with internationally recognised standards...'

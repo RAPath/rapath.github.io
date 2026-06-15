@@ -32,3 +32,9 @@ Monitor the [What's New](/docs/whats-new/regulatory-changes) section for ongoing
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+Implementation Timeline
+The 2022 regulatory modernisation package took effect on [insert specific date]. Existing registrations under RDC 185/2001 and RDC 16/2013 were subject to transition periods:
+
+- New registrations: must comply with RDC 751/2022 and RDC 752/2022 immediately;
+- Existing registrations: compliance with new post-market surveillance (RDC 753/2022) and labelling requirements (RDC 754/2022) became mandatory on [insert compliance deadline].

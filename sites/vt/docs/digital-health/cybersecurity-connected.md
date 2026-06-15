@@ -71,3 +71,5 @@ Vietnam's **Law on Cybersecurity 2018** (Luật An ninh mạng, effective 2019) 
 :::note
 International standards IEC 81001-5-1 (Health software cybersecurity) and AAMI TIR57 (Cybersecurity risk management for medical devices) are the most directly applicable technical standards. IMDRF guidance N60 (Cybersecurity for medical devices) is the key international regulatory reference and provides a solid framework for preparing cybersecurity documentation for Vietnamese DAV submissions.
 :::
+
+Complete the final sentence: 'and provides a solid framework for conducting cybersecurity risk assessments and developing controls proportionate to device risk class and connectivity profile.' Alternatively, if the paragraph continues, restore the complete text.

@@ -38,7 +38,7 @@ The EAEU dossier follows the requirements set out in EEC Decision No. 46 and is 
 
 - Structured common technical dossier format
 - EAEU-specific expert organisation review (rather than FGBU alone)
-- QMS inspection mandatory for Class IIb and III (mandatory from March 2019 under EAEU rules)
+- QMS inspection mandatory for Class IIb and III under EAEU rules; however, Russia's national implementation of mandatory QMS inspections became fully effective on 1 January 2024
 
 ## EAC marking
 
@@ -50,3 +50,5 @@ EAEU medical device database: [eec.eaeunion.org](https://eec.eaeunion.org/)
 :::
 
 From January 1, 2027, new registrations and most registration renewals must follow the EAEU pathway. Existing national Registration Certificates issued before this date will remain valid until their expiry date, after which re-registration under EAEU rules will be required.
+
+Rewrite the opening paragraph to read: 'The EAEU (Eurasian Economic Union) registration pathway, governed by EEC Decision No. 46, provides a single Registration Certificate valid across all five EAEU member states: Russia, Belarus, Kazakhstan, Armenia, and Kyrgyzstan. From 1 January 2027, this will be the only route available for new medical device registrations in Russia. Companies entering the market or approaching renewal should plan for EAEU registration from the outset.'

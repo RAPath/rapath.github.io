@@ -35,7 +35,7 @@ See [Dossier Requirements](/cn/docs/pre-market/registration/dossier-requirements
 | Post-supplemental review | 30–60 days |
 | Administrative decision | 20 days after positive review |
 
-Total elapsed time (good dossier, no supplementals): approximately 12–18 months. Complex devices or multiple supplemental rounds: 18–24+ months.
+Total elapsed time (good dossier, no supplementals): approximately 12–24 months. Complex devices or multiple supplemental rounds: 24–36+ months.
 
 ---
 

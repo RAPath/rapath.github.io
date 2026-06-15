@@ -22,7 +22,7 @@ A Device Licence **amendment** is required when a change to the device could aff
 - Minor software updates that do not affect clinical function (bug fixes, security patches)
 - Changes to **packaging** that do not affect sterility, shelf life, or labelling content
 
-When in doubt, contact Health Canada's Medical Devices Directorate for guidance before implementing a change.
+When in doubt, contact Health Canada's Medical Devices Directorate for guidance before implementing a change. It is strongly recommended to seek pre-implementation guidance to avoid non-compliance.
 
 ## How to submit an amendment
 

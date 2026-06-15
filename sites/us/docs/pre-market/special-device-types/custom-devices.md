@@ -27,3 +27,5 @@ Manufacturers of custom devices must maintain records and submit an annual repor
 ## Official resources
 - [FD&C Act § 520(b)](https://www.law.cornell.edu/uscode/text/21/360j)
 - [FDA — Custom Device Exemption Guidance (2014)](https://www.fda.gov/media/89897/download)
+
+Annual reports must be submitted to FDA by January 31st for the prior calendar year. Reports should be submitted to the appropriate CDRH division based on device classification and submitted either electronically via FDA's reporting system or by mail to CDRH.

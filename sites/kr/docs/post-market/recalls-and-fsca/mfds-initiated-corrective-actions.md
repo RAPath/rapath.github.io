@@ -4,7 +4,7 @@ description: "How MFDS initiates and enforces corrective actions for medical dev
 sidebar_position: 4
 ---
 
-MFDS has broad authority to initiate corrective actions when it determines a device poses a risk to public health.
+MFDS has broad authority to initiate corrective actions when it determines a device poses an unacceptable risk to public health or fails to comply with regulatory requirements.
 
 ## MFDS corrective action tools
 
@@ -26,3 +26,7 @@ MFDS has broad authority to initiate corrective actions when it determines a dev
 
 ## Related pages
 - [MFDS inspection types and authority](../../enforcement-compliance/mfds-inspection-types-and-authority) · [Administrative actions](../../enforcement-compliance/administrative-actions)
+
+Compliance and timelines
+
+Manufacturers and importers must comply with MFDS corrective action orders within the timeframe specified in the order. For mandatory recalls, compliance is typically required within 10–30 days depending on the risk class and nature of the action. Non-compliance may result in criminal penalties, administrative fines, or suspension of business operations.

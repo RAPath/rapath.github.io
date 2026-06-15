@@ -23,7 +23,7 @@ Korea is a **founding member of IMDRF (International Medical Device Regulators F
 
 ## Benefits of IMDRF alignment for manufacturers
 
-Manufacturers with submissions to FDA, TGA, or EU bodies can often leverage their existing documentation (STED, clinical evaluation) for Korean submissions, reducing duplication.
+Manufacturers with submissions to FDA, TGA, or EU bodies can often leverage their existing IMDRF-aligned documentation (STED, clinical evaluation, adverse event reporting) for Korean submissions, reducing duplication of effort and accelerating review timelines.
 
 ## Related pages
 - [Korea in the global regulatory landscape](./korea-in-global-regulatory-landscape) · [IMDRF guidance adopted by MFDS](../legislation/related-instruments/imdrf-guidance-adopted)

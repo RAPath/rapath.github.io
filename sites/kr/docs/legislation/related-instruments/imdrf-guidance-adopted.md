@@ -22,3 +22,5 @@ MFDS actively participates in IMDRF working groups and has chaired or co-chaired
 
 ## Related pages
 - [Korea in the global regulatory landscape](../../international-comparison/korea-in-global-regulatory-landscape) · [IMDRF membership and alignment](../../international-comparison/imdrf-membership-and-alignment)
+
+Replace the bracketed note with: "Korea joined IMDRF as a participant member and actively participates in working groups."

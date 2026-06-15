@@ -34,3 +34,7 @@ All licensed domestic manufacturers must maintain a quality management system th
 Manufacturing business licences must be renewed every **5 years**. The renewal requires demonstrating continued QMS compliance and facility capability.
 
 General Manufacturing Licence is typically required for Class III and IV devices, while Manufacturing Registration may be available for lower-risk Class I and II devices. Consult PMDA or the prefectural government to confirm the specific requirement for your device class and manufacturing activity.
+
+Add after 'The type of licence required depends on the device class and the specific manufacturing activities performed at the facility.': 'General Manufacturing Licence is typically required for Class III and IV devices, while Manufacturing Registration may be available for lower-risk Class I and II devices. Consult PMDA or the prefectural government to confirm the specific requirement for your device class and manufacturing activity.'
+
+Add a clarification section: 'Manufacturing Registration is typically available for Class I devices and some Class II devices with limited manufacturing scope (such as assembly, repackaging, or labelling of pre-sterilised components). General Manufacturing Licence is required for Class III and IV devices, and for Class II devices involving sterilisation or other complex manufacturing operations. The prefectural government issues guidance on which activities qualify for each licence type; verify the specific requirement for your device and manufacturing process.'

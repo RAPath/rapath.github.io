@@ -7,7 +7,7 @@ keywords: [labelling, India, Schedule 3, MDR 2017, IFU, language requirements]
 
 # Labelling Requirements
 
-Device labelling in India must comply with **Schedule 3 of the Medical Devices Rules 2017**. Key requirements include English (mandatory) plus regional language options, mandatory label elements (device name, manufacturer, lot/serial number, expiry, IFU reference), and For electronic Instructions for Use (eIFU), manufacturers must obtain prior approval from CDSCO. secure digital access, offline availability of critical safety information where feasible.
+Device labelling in India must comply with **Schedule 3 of the Medical Devices Rules 2017**. Key requirements include English (mandatory) plus regional language options, mandatory label elements (device name, manufacturer, lot/serial number, expiry, IFU reference), and For electronic Instructions for Use (eIFU), manufacturers must obtain prior approval from CDSCO before providing eIFU to users. Requirements include secure digital access, offline availability of critical safety information where feasible, and compliance with data security standards.
 
 > **Official source:** Medical Devices Rules 2017, Schedule 3, Rules 55–62
 

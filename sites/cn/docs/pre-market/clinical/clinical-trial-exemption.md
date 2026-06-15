@@ -38,7 +38,7 @@ Typical exempt categories include:
 ## Important limitations
 
 - The exemption list is updated periodically. Always use the **current version** published on the NMPA/CMDE website.
-- Exemption from clinical trial does not mean exemption from clinical evidence. Literature and post-market data are still required.
+- Exemption from clinical trial does not mean exemption from clinical evidence. Applicants must still submit clinical evaluation documentation (typically literature review, comparative analysis with predicate devices, or post-market data) to demonstrate clinical safety and performance, even if a formal prospective clinical trial is waived.
 - Novel technology, new intended uses, or novel materials may disqualify a device from exemption even if the general product category is listed.
 
 ---

@@ -13,7 +13,7 @@ Medical device labelling requirements in Australia are primarily set out in **Es
 
 ## Mandatory Label Elements — EP 13
 
-Under EP 13, medical device labels and packaging must include the following information (where applicable to the device):
+Under Essential Principle 13 (EP 13), medical device labels and packaging must include the following information where applicable to the device. Labels must be legible, durable, and in a location that is visible during normal use or storage:
 
 **On the device or primary packaging label:**
 - **Manufacturer's name and address** — clearly identified as the manufacturer
@@ -92,6 +92,9 @@ A device may not be supplied or advertised for uses outside its ARTG-approved in
 
 ---
 
+
+Off-Label Use and Labelling. Labelling and instructions for use must not promote or encourage use of the device beyond its ARTG-approved intended purpose. References to off-label uses in labelling or accompanying materials breach advertising and labelling requirements. Sponsors should ensure that IFUs clearly define the intended use and do not suggest applications beyond the ARTG entry.
+
 ## Official Sources
 
 - [Schedule 1, EP 13 — MD Regulations 2002](https://www.legislation.gov.au/current/F2022C00900)
@@ -107,4 +110,6 @@ A device may not be supplied or advertised for uses outside its ARTG-approved in
 - [Permitted & Prohibited Claims](./permitted-and-prohibited-claims.md)
 - [EP 13 — Essential Principles](../../pre-market/essential-principles/ep-7-15-design-and-construction.md)
 
-The final section should be completed with: 'Off-Label Use and Labelling. Labelling and instructions for use must not promote or encourage use of the device beyond its ARTG-approved intended purpose. References to off-label uses in labelling or accompanying materials breach advertising and labelling requirements. Sponsors should ensure that IFUs clearly define the intended use and do not suggest applications beyond the ARTG entry.'
+## Off-Label Use and Labelling
+
+Labelling and instructions for use must not promote or encourage use of the device beyond its ARTG-approved intended purpose. References to off-label uses in labelling or accompanying materials breach advertising and labelling requirements. Sponsors should ensure that IFUs clearly define the intended use and do not suggest applications beyond the ARTG entry.

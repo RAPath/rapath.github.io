@@ -23,3 +23,5 @@ Add the following section:
 | Class A (Lowest Risk) | [Insert actual date from CDSCO] | Includes low-risk devices |
 
 Note: For the most current implementation dates, refer to the latest CDSCO notifications and amendments to the Medical Devices Rules 2017.
+
+Note: As of the latest CDSCO notifications, specific implementation dates for UDI compliance by device class have not been universally published with fixed deadlines. Manufacturers should monitor the CDSCO website and UDID portal (udid.cdsco.gov.in) for the most current phase-in schedule, as dates may be revised. Contact CDSCO directly via the SUGAM module for clarification on applicability to specific device types.

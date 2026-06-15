@@ -18,7 +18,7 @@ Type C covers devices that are significantly invasive, active therapeutic device
 - X-ray equipment and CT scanners
 - Powered surgical instruments
 - Bone screws and orthopaedic implants (non-active)
-- Surgical gloves
+- Surgical gloves are typically Type C only when sterile and intended for invasive procedures. Non-sterile surgical gloves or examination gloves used for non-invasive purposes may be Type B, depending on intended use and risk assessment.
 - Intraocular lenses
 - Catheters (long-term use)
 - Blood glucose metres (patient self-testing)
@@ -55,5 +55,7 @@ Type D is reserved for the highest-risk devices — those that contact the centr
 Both classes require a full marketing authorisation through DAV. See [Marketing Authorisation (Type C/D)](../market-access/marketing-authorisation-type-c-d) for the full procedure, dossier requirements, and review timelines.
 
 :::warning Type D — plan for longer review times
-Type D devices receive the most intensive DAV scrutiny. Build additional review time into your project plan — initial assessments suggest Type D applications can take significantly longer than Type C.
+Type D devices receive the most intensive DAV scrutiny, including additional expert review and potentially clinical data evaluation. Build additional review time into your project plan — Type D applications typically require 6-12 months or longer for DAV assessment, compared to 3-6 months for Type C applications.
 :::
+
+Add clarification to 'Type C classification criteria': 'Surgically invasive devices are classified based on duration of body contact: transient (less than 60 minutes), short-term (60 minutes to 30 days), or long-term (more than 30 days). Short-term surgical devices typically remain Type C, while long-term implantable devices elevate classification unless they contact central circulation or CNS, which makes them Type D.'

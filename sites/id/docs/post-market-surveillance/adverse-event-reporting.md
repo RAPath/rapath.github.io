@@ -61,3 +61,5 @@ If the manufacturer issues a global safety advisory or field safety notice for a
 1. Notify Kemenkes promptly
 2. Provide a translation of the safety notice in Bahasa Indonesia
 3. Coordinate the field safety corrective action in Indonesia (see [FSCA](./field-safety-corrective-actions))
+
+Rewrite as: 'Indonesia does not establish a single fixed reporting timeline in Permenkes 62/2017, but guidance and enforcement practice indicate that the general principle is prompt reporting:'

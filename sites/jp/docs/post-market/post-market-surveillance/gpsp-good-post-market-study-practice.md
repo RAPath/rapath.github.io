@@ -42,4 +42,10 @@ Where standard survey data is insufficient to address specific safety questions,
 
 GPSP applicability
 
+While Although GPSP applies to all Shonin-approved devices, some low-risk device categories may have reduced or modified GPSP requirements based on risk profile and mature post-market evidence. Devices with extensive long-term clinical data or those in well-established, lower-risk categories may negotiate modified surveillance programmes with PMDA at the time of approval. Such modifications must be explicitly documented in the approval conditions.
+
+Add to the 'Use-results survey (使用成績調査)' section: "The survey sample size and selection methodology must be justified in the protocol submitted to PMDA. PMDA guidance typically requires a representative sample sufficient to detect safety signals relevant to the device's risk profile and intended use population. The protocol should define statistical methods for analysis, including how adverse event trends will be assessed and what constitutes a reportable safety signal."
+
+GPSP applicability
+
 While GPSP applies to all Shonin-approved devices, some device categories may have reduced or modified GPSP requirements based on risk profile and post-market evidence maturity. Devices with extensive long-term clinical data or those in well-established, lower-risk categories may negotiate modified surveillance programmes with PMDA at the time of approval. Such modifications must be explicitly documented in the approval conditions.

@@ -44,3 +44,7 @@ Verify all information against official [ANVISA](https://www.gov.br/anvisa) sour
 :::
 
 For IVD classification and regulatory pathway, manufacturers should consult RDC 36/2015 and ANVISA's IVD classification catalogue (Catálogo de Produtos para Saúde — Produtos de Diagnóstico in vitro).
+
+Add to IVDs section after the table: 'For IVD classification and regulatory pathway, manufacturers should consult RDC 36/2015 and ANVISA's IVD classification catalogue (Catálogo de Produtos para Saúde — Produtos de Diagnóstico in vitro).'
+
+In vitro companion diagnostics (CDx) | Companion diagnostic guidance; co-development with therapeutic device pathway

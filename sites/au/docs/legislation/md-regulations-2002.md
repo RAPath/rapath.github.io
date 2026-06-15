@@ -9,7 +9,9 @@ last_reviewed: 2026-04-30
 
 The **Therapeutic Goods (Medical Devices) Regulations 2002** (the MD Regulations) are made under the authority of the Therapeutic Goods Act 1989 and contain the detailed technical and procedural requirements for Australian medical device regulation. They are the primary subordinate legislation for medical devices and are substantially more detailed than the Act itself. The MD Regulations are updated more frequently than the Act — significant amendments in 2021, 2022, 2024, and 2025 have substantially changed manufacturer evidence requirements, classification rules for software and AIMDs, and adverse event reporting.
 
-The current compilation (Compilation No. 63 as at July 2024 — check legislation.gov.au for the most current version) runs to approximately 250 pages excluding schedules.
+The current compilation (Compilation No. 63 as at July 2024
+
+> **Note:** This compilation date may be outdated. Always check the endnotes on legislation.gov.au to confirm you are viewing the latest compilation and to identify any uncommenced amendments. — check legislation.gov.au for the most current version) runs to approximately 250 pages excluding schedules.
 
 👉 [Therapeutic Goods (Medical Devices) Regulations 2002 — Current text (legislation.gov.au)](https://www.legislation.gov.au/current/F2002B00237)
 
@@ -134,6 +136,23 @@ The requirement to maintain distribution records sufficient to enable an effecti
 
 ---
 
+
+After 'The current compilation (Compilation No. 63 as at July 2024' add the sentence: 'This compilation date may be outdated. Always check the endnotes on legislation.gov.au to confirm you are viewing the latest compilation and to identify any uncommenced amendments.'
+
+
+Complete the Schedule 3 entry with: 'Schedule 3 — Conformity Assessment Procedures
+
+The detailed conformity assessment procedures that manufacturers must follow for each device class, including:
+
+— Procedure 1: Declaration of Conformity (Class I and Class 1 IVD)
+— Procedure 2A: QMS certification + Overseas regulator evidence (Class IIa and Class 2 IVD)
+— Procedure 2B: QMS + design assessment certificate (Class IIb and Class 3 IVD)
+— Procedure 3: Full assessment + mandatory design dossier review (Class III and Class 4 IVD)
+— Procedure 4A: In-house IVD (Class 1 only)
+— Procedure 4B: In-house IVD (Class 4 only)
+
+👉 Schedule 3 — legislation.gov.au'
+
 ## Official Sources
 
 - [MD Regulations 2002 — Current text (legislation.gov.au)](https://www.legislation.gov.au/current/F2002B00237)
@@ -149,5 +168,3 @@ The requirement to maintain distribution records sufficient to enable an effecti
 - [How to Read Legislation](./how-to-read-legislation.md)
 - [Essential Principles](../pre-market/essential-principles/overview.md)
 - [Classification](../pre-market/classification/how-classification-works.md)
-
-After 'The current compilation (Compilation No. 63 as at July 2024' add the sentence: 'This compilation date may be outdated. Always check the endnotes on legislation.gov.au to confirm you are viewing the latest compilation and to identify any uncommenced amendments.'

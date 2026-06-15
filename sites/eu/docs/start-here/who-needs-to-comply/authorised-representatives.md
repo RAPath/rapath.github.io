@@ -33,7 +33,7 @@ An EU REP is **mandatory** whenever a manufacturer that is **not established in 
 There is **no exception** to this requirement. A non-EU manufacturer who places a device on the EU market without designating an EU REP is committing a regulatory violation, and competent authorities can prevent market access.
 
 :::caution Post-Brexit note
-UK-established manufacturers who previously relied on their UK establishment to access the EU market now require an EU REP. The UK-EU MRA for medical devices does not restore automatic mutual recognition — a formal EU REP is required.
+UK-established manufacturers who previously relied on their UK establishment to access the EU market now require an EU REP, as the UK is a third country outside the EU regulatory scope. A UK manufacturer may benefit from the UK-EU mutual recognition agreement (MRA) for regulatory cooperation, but this does not eliminate the requirement for an EU REP to act as the legal point of contact for placing devices on the EU market.
 :::
 
 ---

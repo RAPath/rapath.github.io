@@ -28,4 +28,18 @@ Both **MFDS approval** and **IRB approval** are required before the trial begins
 ## Related pages
 - [IRB and GCP requirements](./irb-and-gcp-requirements) · [Clinical trials in Korea](./clinical-trials-in-korea)
 
+Protocol amendments and changes
+
+All protocol amendments—including changes to objectives, design, endpoints, investigational device specifications, or risk management—must be submitted to both MFDS and the IRB for approval before implementation.
+
+Amendments may be subject to a simplified or expedited review process if the change is:
+
+- Administrative or minor labelling corrections
+- Clarifications that do not affect scientific integrity
+- Safety improvements with no increased risk
+
+Major amendments (e.g., new endpoints, significant design changes, additional sites) require full review by both MFDS and IRB.
+
+The 30 working day timeline begins after MFDS completes its initial completeness check of the application. If the application is found incomplete during this check, MFDS will issue a 보충요청 (request for additional information), and the review clock stops until a complete response is received. Applicants are typically given 60–90 days to submit responses.
+
 Protocol amendments must be submitted to both MFDS and IRB for approval before implementation. Amendments may be subject to a simplified review process depending on the nature of the change. Clarify that the 30 working day timeline begins after completeness check.

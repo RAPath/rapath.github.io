@@ -63,7 +63,7 @@ The following information must appear on the label or, where this is not practic
 
 ### 9. For IVDs additionally:
 - The "IVD" symbol or the words "In Vitro Diagnostic"
-- For List A and List B IVDs: the CE mark with the Notified Body number (UKCA is not applicable to IVDs under current UK regulations)
+- For List A and List B IVDs: the CE mark with the Notified Body number (UKCA marking is not applicable to IVDs; all IVDs must bear the CE mark and EU Notified Body number, even if registered for GB market access)
 - Performance characteristics summary
 - Specimen type(s) intended
 
@@ -110,3 +110,5 @@ IFU may be provided:
 | UK MDR 2002, Part III, Schedule 1A | IVD labelling requirements |
 | MHRA: Labelling guidance for medical devices | MHRA's labelling guidance |
 | ISO 15223-1 | Symbols to be used with information to be supplied by the manufacturer |
+
+Add to the IFU section: 'Electronic IFU (eIFU) is acceptable provided: (1) the device labelling clearly directs the user to where the eIFU can be accessed; (2) the eIFU remains accessible for the intended lifetime of the device; (3) eIFU is not the sole means of access for critical safety information unless the device is intended for use in a digital-only environment. MHRA expects that printed or durable physical IFU remain available for devices where users may not have reliable access to electronic documentation.'

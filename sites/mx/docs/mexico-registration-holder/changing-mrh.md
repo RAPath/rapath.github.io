@@ -49,3 +49,5 @@ Transfer timelines are not officially stipulated by COFEPRIS but typically range
 - [What is an MRH?](what-is-mrh)
 - [Appointing an MRH](appointing-mrh)
 - [Registration renewal](../postmarket/registration-renewal)
+
+The table of contents should be corrected to match the actual sections in the page. Currently lists duplicate 'Why you might need to change MRH' and incomplete related pages section.

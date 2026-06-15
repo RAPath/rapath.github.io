@@ -31,7 +31,7 @@ The device description module must enable PMDA to fully understand what the devi
 
 PMDA is precise about the intended use statement (使用目的). The approved intended use is what appears on the Shonin certificate and defines what the MAH is legally permitted to claim. The intended use encompasses both the clinical purpose (diagnosis, treatment, monitoring) and the patient population or clinical setting. Anything not in the approved intended use is an off-label claim under Japanese law.
 
-The intended use must be drafted carefully before submission because changes after approval require Ichibu Henko (partial change approval).
+The intended use must be drafted carefully before submission because changes after approval require Ichibu Henko (partial change approval). Broadening the intended use or adding new patient populations/clinical settings is typically classified as a partial change requiring pre-approval; clarifying or narrowing the intended use may be handled as post-market notification. Confirm the classification with PMDA if contemplating any modification.
 
 ## Device families and variants
 
@@ -46,3 +46,5 @@ The application must include justification for the JMDN code assigned to the dev
 - Statement of the JMDN code and the device type name it covers
 - Explanation of why the device falls within this JMDN category
 - Confirmation of the resulting risk class
+
+For devices incorporating software, specify whether the approved intended use applies to a defined software version or to a software family with specified algorithm boundaries. If post-market software updates are anticipated, document the framework for determining which updates require Ichibu Henko (partial change approval) versus routine post-market change notification.

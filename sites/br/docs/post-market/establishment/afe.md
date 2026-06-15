@@ -26,10 +26,10 @@ Healthcare facilities (hospitals, clinics) that use but do not distribute or man
 1. Apply via **Peticionamento Eletrônico** on the ANVISA portal.
 2. Submit required documentation: CNPJ, evidence of legal establishment, company activity description, site floor plan, Responsável Técnico details.
 3. ANVISA processes the application and may conduct a documentation review.
-4. State VISA endorsement may be required (varies by state).
+4. State VISA endorsement may be required (varies by state). Check with your state VISA body (Vigilância Sanitária Estadual) early in the application process, as state endorsement timelines can significantly extend the AFE approval timeline.
 5. AFE is granted and published in the DOU.
 
-The AFE is specific to the activity type (manufacture, import, distribution) and the site address. Changes to site address or activity scope require a new AFE application.
+The AFE is specific to the activity type (manufacture, import, distribution) and the site address. Changes to site address, activity scope, or Responsável Técnico require a new AFE application or formal amendment request via Peticionamento Eletrônico.
 
 - [ANVISA — Peticionamento Eletrônico](https://peticionamento.anvisa.gov.br)
 - [RDC 755/2022](https://www.gov.br/anvisa/pt-br/assuntos/produtossaude/produtos-para-saude)
@@ -42,3 +42,9 @@ Verify all information against official [ANVISA](https://www.gov.br/anvisa) sour
 
 
 Note: State VISA endorsement requirements vary significantly by jurisdiction. Check with your state VISA body (Vigilância Sanitária Estadual) early in the application process to confirm local requirements, as delays in obtaining state endorsement can extend the AFE approval timeline.
+
+Add after the state VISA endorsement bullet point:
+
+Note: State VISA endorsement requirements vary significantly by jurisdiction. Check with your state VISA body (Vigilância Sanitária Estadual) early in the application process to confirm local requirements, as delays in obtaining state endorsement can extend the AFE approval timeline.
+
+AFE renewal requirements vary by activity type. Manufacturers and importers typically require renewal every 2–5 years; the specific renewal period is stipulated in the individual AFE. Companies must monitor their AFE expiration date and submit renewal applications before expiry to avoid operating without authorisation. Renewal applications should be submitted via Peticionamento Eletrônico with updated documentation confirming continued compliance with GMP, Responsável Técnico designation, and facility status.

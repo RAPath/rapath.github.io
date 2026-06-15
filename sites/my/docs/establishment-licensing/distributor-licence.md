@@ -67,3 +67,7 @@ If a distributor operates from multiple warehouses or sites, each site may need 
 :::
 
 Distributors must comply with Good Distribution Practice (GDP) principles as outlined in PIC/S Guide to Good Distribution Practice (or equivalent MDA guidance). This includes maintaining written procedures for temperature monitoring, security, handling of recalls, and record-keeping. MDA may audit distributors to verify GDP compliance during licensing renewal or following serious incidents.
+
+Add a new subsection under 'Storage and Handling' titled 'Good Distribution Practice Standards': 'Distributors must comply with Good Distribution Practice (GDP) principles as outlined in PIC/S Guide to Good Distribution Practice (or equivalent MDA guidance). This includes maintaining written procedures for temperature monitoring, security, handling of recalls, and record-keeping. MDA may audit distributors to verify GDP compliance during licensing renewal or following serious incidents.'
+
+Distributors can verify device DRN status by checking the MDA's approved device register available on www.mda.gov.my or by requesting DRN documentation from the importer or manufacturer before accepting new product lines.

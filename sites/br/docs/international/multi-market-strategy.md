@@ -7,7 +7,7 @@ keywords: [ANVISA, Brazil, medical device]
 
 # Multi-Market Submission Strategy — Leveraging Approvals
 
-For manufacturers targeting Brazil alongside other major markets, a coordinated multi-market submission strategy can significantly reduce duplication and time-to-market.
+For manufacturers targeting Brazil alongside other major markets (EU, US, Australia, Canada, Singapore), a coordinated multi-market submission strategy can significantly reduce duplication and time-to-market. A phased approach allows manufacturers to leverage documentation and clinical data from earlier regulatory submissions while adapting submissions to ANVISA-specific requirements and Portuguese language requirements.
 
 ## Recommended sequence for multi-market entry
 

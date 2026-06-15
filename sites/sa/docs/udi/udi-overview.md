@@ -41,3 +41,7 @@ All medical device manufacturers holding an MDMA are subject to SFDA UDI require
 - [UDI Labelling Requirements](./udi-labelling)
 
 Manufacturers must first obtain a valid MDMA certificate and register with the GHAD portal before submitting UDI data. UDI assignment cannot occur prior to MDMA approval. Ensure your Authorized Representative has active GHAD portal access before initiating UDI data submission.
+
+UDI assignment timing
+
+Manufacturers must assign and submit UDI data to GHAD after MDMA certificate approval is granted and before the device is first placed on the Saudi market. UDI cannot be assigned prior to MDMA approval. The Device Identifier (DI) is fixed upon initial assignment and should not change unless the device undergoes a significant modification requiring a new MDMA certificate.

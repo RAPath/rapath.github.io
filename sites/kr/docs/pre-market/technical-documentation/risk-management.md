@@ -26,3 +26,5 @@ Korea requires **ISO 14971** risk management for all Grade III and IV devices (a
 
 - **ISO 14971:2019** — Risk management for medical devices
 - **ISO/TR 24971** — Guidance on application of ISO 14971
+
+While formal ISO 14971 documentation is mandated for Grade III/IV and IVD Grades C/D devices, Grade I and II devices must still address risk management principles, though documentation may be less formal. MFDS expects evidence that hazards have been identified and residual risks are acceptable, even if a complete ISO 14971 report is not required.

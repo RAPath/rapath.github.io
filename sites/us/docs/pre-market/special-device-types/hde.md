@@ -8,7 +8,7 @@ keywords: [HDE, humanitarian device exemption, rare disease device, orphan devic
 # HDE — Humanitarian Device Exemption
 
 :::tip US-unique
-The HDE is a US-specific pathway with no direct equivalent in other major jurisdictions. It is analogous to an orphan drug designation but for medical devices.
+The HDE is a US-specific regulatory pathway with no direct equivalent in EU, Australian, Canadian, or Japanese medical device regulations. While conceptually analogous to orphan drug programs (both target small patient populations with reduced evidence standards), HDE is administered by CDRH for medical devices rather than by drugs/therapeutics regulators.
 :::
 
 ## What is HDE?
@@ -23,7 +23,7 @@ Regulated under **21 CFR Part 814, Subpart H** and FD&C Act § 520(m).
 |---|---|---|
 | Patient population | ≤8,000/year in USA | Any size |
 | Effectiveness standard | Probable benefit (not "reasonable assurance") | Valid scientific evidence |
-| Profit restrictions | May not generate profit without IRB approval (waived for pediatric devices) | No restriction |
+| Profit restrictions | May not generate profit without IRB approval (waived for pediatric indication devices and breakthrough designation devices) | No restriction |
 | Application fee | Reduced | ~$430K |
 
 ## HUD designation process
@@ -49,3 +49,7 @@ An HDE application is similar to a PMA but uses the "probable benefit" standard 
 - [21 CFR Part 814 Subpart H — HDE](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-H/part-814/subpart-H)
 - [FDA — Humanitarian Device Exemption](https://www.fda.gov/medical-devices/premarket-submissions-selecting-and-preparing-correct-submission/humanitarian-device-exemption)
 - [FDA OOPD — HUD Designation](https://www.fda.gov/industry/medical-products-rare-diseases-and-conditions/designating-humanitarian-use-device-hud)
+
+**HUD Population Calculation**
+
+The ≤8,000 individuals per year threshold is based on the US patient population with the disease or condition for which the device is indicated. This calculation should be supported by epidemiologic data, medical literature, or disease registry data. The threshold is re-evaluated annually; if the patient population exceeds 8,000 individuals per year, FDA may withdraw HUD designation and require a traditional PMA.

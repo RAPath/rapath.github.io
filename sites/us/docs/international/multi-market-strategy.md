@@ -39,7 +39,9 @@ Disadvantages:
 - FDA review timelines can be longer than EU Notified Body for some device types
 - FDA clinical data requirements may differ from EU/other expectations
 
-CE-first strategy — Advantages: CE marking review timelines by Notified Bodies are often shorter than FDA review for Class IIa/IIb devices, typically 3-6 months versus 6-12 months or longer for FDA
+CE-first strategy
+
+Advantages: CE marking review timelines by Notified Bodies are often shorter than FDA review for Class IIa/IIb devices, typically 3-6 months versus 6-12 months or longer for FDA 510(k) review; faster market access in EU.
 
 Disadvantages:
 - CE marking is not accepted by FDA — separate US submission required
@@ -70,3 +72,5 @@ For most manufacturers targeting 3+ markets, parallel submissions (filing in mul
 - [RAPath EU — EU MDR/IVDR](https://rapath.github.io/eu/)
 - [RAPath HC — Health Canada](https://rapath.github.io/hc/)
 - [RAPath SG — HSA](https://rapath.github.io/sg/)
+
+Add a new paragraph under 'Strategic sequencing options': 'Post-market data considerations: FDA 510(k) clearances do not typically require post-market clinical follow-up, while EU MDR requires PMCF (post-market clinical follow-up) plans for most Class II and above devices. This means an EU-first strategy requires commitment to long-term data collection, while FDA-first may allow faster market entry with limited post-approval obligations.'

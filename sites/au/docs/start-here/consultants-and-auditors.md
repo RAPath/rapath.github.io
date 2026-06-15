@@ -21,7 +21,7 @@ Regulatory consultants **do not** carry the legal obligations of the manufacture
 
 ...may take on practical responsibility that creates personal exposure if things go wrong.
 
-Consultants advising on regulatory strategy, classification, conformity assessment pathways, or ARTG applications should be clear with their clients about the boundaries of their responsibility and the importance of the client themselves understanding and owning their regulatory obligations.
+Consultants advising on regulatory strategy, classification, conformity assessment pathways, or ARTG applications should be clear with their clients about the boundaries of their responsibility and the importance of the client themselves understanding and owning their regulatory obligations. Best practice is to document this in writing, particularly where the consultant has significant influence over regulatory decisions that directly affect compliance.
 
 ---
 
@@ -61,6 +61,20 @@ RAPath is designed to be a reliable, well-structured reference for the regulator
 If you identify an inaccuracy in any content on this site, please raise it via **GitHub Discussions** — your expertise directly improves the quality of this resource for the whole community.
 
 ---
+
+
+Complete the Related Pages section with:
+
+Related Pages
+​
+Who Needs to Comply?
+Manufacturers
+Sponsors
+Regulatory Framework Overview
+Classification Overview
+Essential Principles Overview
+Conformity Assessment Overview
+ARTG Inclusion Overview
 
 ## Official Sources
 

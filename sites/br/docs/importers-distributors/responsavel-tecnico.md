@@ -31,7 +31,7 @@ The RT is personally and professionally responsible for:
 - Representing the company in ANVISA inspections; and
 - Verifying that imported products comply with their registered specifications.
 
-A company without an active RT faces immediate AFE suspension risk. If the RT leaves the company, a replacement must be registered with ANVISA within the appointed and 30 days to prevent AFE suspension. The incoming RT must meet same eligibility criteria and professional council registration requirements.
+A company without an active RT faces immediate AFE suspension risk. If the RT leaves the company, a replacement must be registered with ANVISA within 30 days to prevent AFE suspension. The incoming RT must meet same eligibility criteria and professional council registration requirements.
 
 - [ANVISA — Responsável Técnico](https://www.gov.br/anvisa/pt-br/assuntos/produtossaude/produtos-para-saude/responsavel-tecnico)
 
@@ -42,3 +42,5 @@ Verify all information against official [ANVISA](https://www.gov.br/anvisa) sour
 :::
 
 The Responsável Técnico must maintain active professional registration with their respective council (CREA, CRM, CFF, COREN, CFBM, CFBio, CFO, or equivalent) and comply with continuing professional development requirements set by those councils. Professional registration must be renewed according to each council's schedule (typically every 2–3 years). Proof of active registration must be provided to ANVISA upon request.
+
+Add to RT responsibilities section: 'The RT bears joint professional liability with the company for regulatory violations, adverse events, and product non-conformities. Professional councils (CREA, CRM, CFF, COREN, etc.) may impose disciplinary sanctions including suspension or cancellation of professional registration if the RT fails to meet their regulatory obligations.'

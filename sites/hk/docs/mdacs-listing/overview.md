@@ -38,3 +38,7 @@ Upon approval:
 - Listing valid indefinitely unless significant changes occur or listing is withdrawn
 
 While no fixed renewal date applies, the MDD may conduct periodic audits, require re-attestation of ISO 13485 status, or request updated documentation if public health concerns arise or if the device remains unlisted for an extended period without market activity.
+
+Add to Post-Listing section: 'While no fixed renewal date applies, the MDD may conduct periodic audits, require re-attestation of ISO 13485 status, or request updated documentation if public health concerns arise or if the device remains unlisted for an extended period without market activity.'
+
+Clarify: 'For devices that do not achieve market launch within 3 years of listing approval, or that show no market evidence (e.g., no adverse event reports, no change notifications), the MDD may conduct a compliance audit or request confirmation of ongoing market presence. Listing status is not automatically withdrawn but may be subject to review.'

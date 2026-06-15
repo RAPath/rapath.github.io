@@ -29,4 +29,8 @@ Cadastro registration is valid for 10 years from the date of approval. Material 
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
 
+For Class II devices via Cadastro, a clinical summary or evidence of substantial equivalence is required. This may take the form of: (a) a 3–10 page literature review (systematic search of PubMed, regulatory submissions) summarizing safety/performance; (b) substantial equivalence demonstration comparing technical, clinical, and biological dimensions to a marketed predicate; or (c) manufacturer technical file extract if the device is a line extension of an already-registered device. This may include peer-reviewed publications, regulatory submissions, or manufacturer technical files demonstrating safety and performance.
+
+The risk management summary should include: hazard identification, risk analysis (probability and severity matrices), risk control measures implemented, residual risk assessment, and verification/validation data supporting risk control effectiveness. For Class II devices, a summary of ISO 14971 compliance (typically 5–15 pages) is acceptable; full formal risk management file is not required for Cadastro but must be maintained by manufacturer for inspection.
+
 For Class II devices via Cadastro, a literature-based clinical summary or evidence of substantial equivalence to a comparator device is required. This may include peer-reviewed publications, regulatory submissions, or manufacturer technical files demonstrating safety and performance.

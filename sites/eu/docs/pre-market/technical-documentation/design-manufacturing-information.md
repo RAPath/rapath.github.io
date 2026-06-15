@@ -43,7 +43,7 @@ Key design information to document:
 - Design validation: evidence that the final device meets user needs and intended purpose (including usability testing and clinical evaluation)
 - Design reviews: documented decisions at key stages
 
-The harmonised standard EN ISO 13485:2016 (QMS for medical devices) provides the framework for design and development controls, referenced in Section 7.3.
+The harmonised standard EN ISO 13485:2016 (QMS for medical devices) provides the framework for design and development controls, referenced in Section 7.3 of that standard.
 
 ### Software design documentation
 

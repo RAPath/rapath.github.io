@@ -38,3 +38,5 @@ All CDSCO-level applications (import licences, manufacturing licences for Class 
 India's MDR 2017 has been implemented in phases, with additional device categories progressively notified under Schedule I and Schedule II. See [Phased Implementation & Transition History](/docs/start-here/phased-implementation) for the timeline.
 
 Under the DPCO, price regulation applies only to a limited list of specified medical devices notified by the National Pharmaceutical Pricing Authority (NPPA). Most medical devices are not subject to price controls. Manufacturers should check the NPPA website for the current list of price-controlled devices.
+
+For detailed instructions on SUGAM registration, application submission, document upload, and status tracking, see SUGAM Portal Guide [link to guide page]. The portal supports submission of import/manufacturing licence applications, adverse event and field safety corrective action reports, and query responses.

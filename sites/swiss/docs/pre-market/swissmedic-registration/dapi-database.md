@@ -33,7 +33,7 @@ AI-assisted content for navigation only. Always verify against official [Swissme
 How to Register in DAPI
 
 Create a user account with Swissmedic
-Access the DAPI portal at www.swissmedic.ch or via the official DAPI submission system
+Access the DAPI portal at https://www.swissmedic.ch or via the official DAPI submission system
 Log in with your credentials
 Submit device information using the appropriate form (notification or full registration)
 Attach required documents (DoC, NB certificates, labelling)

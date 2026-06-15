@@ -44,3 +44,14 @@ KIMS record updates must be submitted:
 - Immediately upon device discontinuation
 
 Failure to maintain current KIMS records may result in regulatory action or market suspension. Confirm current timelines with MFDS.
+
+Add after the 'Maintaining KIMS records' section: 'Update timelines
+
+KIMS record updates must be submitted:
+- Within 30 days of obtaining 품목허가 / 품목신고 modification
+- Before changes to manufacturing site take effect
+- Immediately upon device discontinuation
+
+Failure to maintain current KIMS records may result in regulatory action or market suspension. Confirm current timelines with MFDS.'
+
+KIMS registration and updates are submitted through the MFDS UDI Portal (udiportal.mfds.go.kr). Manufacturers must create an account and log in to submit or modify device records.

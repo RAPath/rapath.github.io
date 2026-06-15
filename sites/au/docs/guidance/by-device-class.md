@@ -75,7 +75,7 @@ Key facts for Class IIa:
 
 Key facts for Class IIb:
 - Full QMS + product-specific certificate required
-- (TGA, CAB, or comparable overseas regulator) Audit selection based on application criteria; not all applications are audited mandatory only all (Class IIb and above)
+- (TGA, CAB, or comparable overseas regulator) Mandatory audit applies to all Class IIb and above applications
 - Annual reporting for implantable Class IIb devices
 - Patient implant cards required for implantable devices
 
@@ -160,6 +160,9 @@ Key facts for Software/AI:
 | TGA-NATA MoU for in-house IVDs | [TGA](https://www.tga.gov.au/resources/guidance/tga-nata-mou-relating-regulation-house-ivds) |
 
 ---
+
+
+The sentence 'Audit selection based on application criteria; not all applications are audited mandatory only all (Class IIb and above)' should be corrected to: 'Audit selection based on risk assessment criteria; mandatory audit applies to all Class IIb and above applications'
 
 ## Related Pages
 

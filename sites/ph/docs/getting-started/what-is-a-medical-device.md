@@ -18,7 +18,7 @@ Under Philippines law (RA 9711 and DOH Administrative Order No. 2018-002), a **m
 - For **investigation, replacement or modification** of anatomy or a physiological process
 - For **control of conception**
 
-The principal intended action must not be achieved by pharmacological, immunological, or metabolic means. A device may be assisted in its function by such means without becoming a pharmaceutical product.
+The principal intended action must not be achieved by pharmacological, immunological, or metabolic means. A device may be assisted in its function by pharmacological, immunological, or metabolic means without being reclassified as a pharmaceutical product, provided the principal intended action remains mechanical or physical.
 
 ## What Is an IVD? — PH-Unique Current Status
 
@@ -52,3 +52,7 @@ Even though IVDs do not currently require CMDN/CMDR registration, all entities h
 :::
 
 Last reviewed: May 2026. For current information, always verify with CDRRHR at www.fda.gov.ph — regulatory requirements may change.
+
+Add a note clarifying the review date: 'Last reviewed: May 2026. For current information, always verify with CDRRHR at www.fda.gov.ph — regulatory requirements may change.'
+
+Change 'as of the last review (May 2026)' to 'as of May 2026 (the date of last formal review)' or add a note explaining this is the expected next review date.

@@ -8,7 +8,7 @@ description: MDCG guidance documents and their applicability in Switzerland — 
 The **Medical Device Coordination Group (MDCG)** publishes guidance on EU MDR/IVDR interpretation. Because MedDO and IVDO mirror EU MDR/IVDR, **MDCG guidance documents generally apply in Switzerland**. Swissmedic has confirmed this position and EU-designated NBs apply MDCG guidance as a matter of course.
 
 ## Using MDCG Guidance in Swiss Submissions
-MDCG guidance may be cited in technical documentation and conformity assessment submissions. When preparing a GSPR compliance matrix, CER, or PMS plan, using the relevant MDCG guidance as the framework is appropriate and expected by NBs assessing Swiss market access applications.
+MDCG guidance may be cited in technical documentation and conformity assessment submissions as the primary framework for interpretation of MedDO/IVDO requirements. When preparing a GSPR compliance matrix, Clinical Evaluation Report (CER), Post-Market Surveillance (PMS) plan, or Post-Market Surveillance Report (PSUR), using the relevant MDCG guidance as the reference framework is appropriate and expected by EU-designated Notified Bodies (NBs) assessing Swiss market access applications. Manufacturers are encouraged to reference specific MDCG document sections when documenting compliance with GSPR provisions.
 
 ## Key MDCG Documents Applicable in Switzerland
 
@@ -32,6 +32,17 @@ MDCG guidance may be cited in technical documentation and conformity assessment 
 | MDCG 2022-21 | PMS plan/report and PSUR templates |
 
 For the current complete list: [European Commission MDCG guidance page](https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en).
+
+
+Add to the 'Key MDCG Documents Applicable in Switzerland' table:
+
+| MDCG 2023-3 | In vitro diagnostic regulation — performance evaluation |
+| MDCG 2023-8 | Post-market surveillance — key principles |
+
+
+Add the following rows to the table:
+| MDCG 2023-3 | In vitro diagnostic regulation — performance evaluation |
+| MDCG 2023-8 | Post-market surveillance — key principles |
 
 ## Official Sources
 - [MDCG guidance — European Commission](https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en)

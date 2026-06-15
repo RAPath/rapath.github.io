@@ -45,3 +45,6 @@ The UDI must appear on the device label in:
 
 UDI Compliance Timeline
 UDI compliance became mandatory for most devices on January 1, 2020. Phased implementation timelines vary by device class and type — check 21 CFR 801.20 and FDA guidance for your specific device category. Devices lacking required UDI will be considered misbranded.
+
+Add new section after 'UDI on the label': 'UDI Compliance Timeline
+UDI compliance became mandatory for most devices on January 1, 2020. Phased implementation timelines vary by device class and type — check 21 CFR 801.20 and FDA guidance for your specific device category. Devices lacking required UDI will be considered misbranded.'

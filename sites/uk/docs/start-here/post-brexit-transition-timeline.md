@@ -22,7 +22,7 @@ Transitional deadlines are subject to change by Government announcement. The pos
 
 The UK's departure from the EU on 31 January 2020 (with a transition period ending 31 December 2020) created a need to establish a standalone UK regulatory framework for medical devices. Rather than implementing an entirely new framework overnight, the Government has managed the transition through a series of time-limited grace periods and phased deadlines.
 
-The result is a layered set of transitional arrangements that have been extended multiple times — creating both flexibility for industry and complexity for compliance planning.
+The result is a layered set of transitional arrangements that have been extended multiple times. While this provides industry flexibility to transition from CE to UKCA marking, it creates complexity in compliance planning. Manufacturers must track multiple deadlines, maintain dual documentation systems (EU and UK), and coordinate UKAB engagement well in advance of the 30 June 2030 deadline.
 
 ---
 
@@ -188,3 +188,5 @@ The reformed framework may affect transitional deadlines and UKCA requirements. 
 | MHRA: Future regulation of medical devices | Consultation responses and reform programme |
 
 Note: The Windsor Framework (agreed March 2023) maintains Northern Ireland's alignment with EU MDR 2017/745 and EU IVDR 2017/746. Manufacturers placing devices on the NI market must comply with EU requirements, not UK MDR 2002. This creates a dual-market obligation for UK-wide distribution. See Great Britain vs Northern Ireland for detailed comparison.
+
+Add to the 'Current position (as of May 2026)' section: 'Manufacturers relying on CE marking for GB market access should note that if an EU certificate expires before 30 June 2030, the device may no longer be lawfully CE marked under EU frameworks. After certificate expiry, continued GB market access requires either UKCA certification or reliance on a new/renewed EU certificate. Stock manufactured under an expired EU certificate cannot be placed on the GB market after the certificate expiry date, regardless of the 30 June 2030 deadline.'

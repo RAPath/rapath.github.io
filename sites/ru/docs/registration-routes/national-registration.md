@@ -60,7 +60,7 @@ Registration proceeds in two phases:
 | Class IIb | 12–18 months |
 | Class III | Up to 24 months |
 
-Timelines often extend beyond these estimates. Common extension triggers include FGBU requests for additional information, clinical data, or QMS inspection scheduling delays. For innovative devices requiring full local clinical investigation, expect timelines of 3+ years for Class III.
+Timelines often extend beyond these estimates. Common extension triggers include FGBU requests for additional information or clinical data, QMS inspection scheduling delays, translation or Apostille certification issues, and manufacturing site changes. For innovative devices with no registered equivalent in Russia and requiring full local clinical investigation in approved Russian clinical centres, expect timelines of 3+ years for Class III devices.
 
 ## The Registration Certificate
 
@@ -81,7 +81,7 @@ The FGBU National Institute of Quality determines whether a clinical investigati
 - Device class and intended use
 - Risk profile
 
-For innovative devices with no registered equivalent in Russia, a full local clinical investigation conducted in approved Russian clinical centres is typically mandatory. This significantly extends timelines.
+For innovative devices with no registered equivalent in Russia, a full local clinical investigation conducted in approved Russian clinical centres following National Ethics Committee approval is typically mandatory. This significantly extends timelines, often by 12–24 months or more for Class III devices.
 
 ## Phase 1 — Dossier submission and initial review
 
@@ -96,3 +96,36 @@ Dossiers are most frequently rejected at Phase 1 for:
 - Unclear intended purpose or indications for use
 
 Ensure all documents are complete and properly certified before submission to avoid Phase 1 rejection.
+
+Add a new subsection under 'Phase 1 — Dossier submission and initial review':
+
+Clinical investigation requirements
+​
+The FGBU National Institute of Quality determines whether a clinical investigation is required based on:
+- Device novelty and innovation status
+- Availability of clinical data from equivalent devices already registered in Russia
+- Device class and intended use
+- Risk profile
+
+For innovative devices with no registered equivalent in Russia, a full local clinical investigation conducted in approved Russian clinical centres is typically mandatory. This significantly extends timelines.
+
+Add a new subsection after 'Phase 1 — Dossier submission and initial review':
+
+Phase 1 completeness checks — common rejection reasons
+​
+Dossiers are most frequently rejected at Phase 1 for:
+- Missing or incomplete Russian translations
+- Power of Attorney lacking proper Apostille certification
+- Inadequate technical documentation per MOH Order No. 11
+- Missing or incomplete risk management file (GOST R ISO 14971)
+- Absence of ISO 13485:2016 certificate for required classes
+- Unclear intended purpose or indications for use
+
+Ensure all documents are complete and properly certified before submission to avoid Phase 1 rejection.
+
+Inadequate technical documentation per MOH Order No. 11
+Missing or incomplete ISO 13485 Certificate (for IIa sterile, IIb, III)
+Insufficient risk management documentation
+Missing Power of Attorney or RUS REP authorization documentation
+Incomplete clinical evaluation reports or missing justification for clinical data waiver
+Missing evidence of QMS inspection completion (mandatory from January 2024 for IIa sterile, IIb, III)

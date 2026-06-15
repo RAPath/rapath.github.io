@@ -55,3 +55,5 @@ The license holder (the entity holding the Notification or License) carries ongo
 | 9 | Renew approval before 5-year expiry |
 
 Note: Class 1 devices appearing on the Thai FDA Positive List use the simplified Listing pathway. Class 1 devices not on the Positive List must follow the Notification pathway (Class 2–3 requirements).
+
+Add after the 'Thai Manufacturers' section: 'Note: Class 1 devices appearing on the Thai FDA Positive List use the simplified Listing pathway. Class 1 devices not on the Positive List must follow the Notification pathway (Class 2–3 requirements).'

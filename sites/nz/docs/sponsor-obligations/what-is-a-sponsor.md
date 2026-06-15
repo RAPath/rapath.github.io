@@ -65,7 +65,7 @@ The Sponsor and manufacturer share responsibility but in different ways:
 
 ## Liability exposure
 
-The Sponsor carries significant legal exposure. Failing to notify WAND, failing to report adverse events, or supplying an unsafe device are all offences under the Medicines Act 1981. Sponsors should ensure they have:
+The Sponsor carries significant legal exposure. Failing to notify WAND, failing to report adverse events, or supplying an unsafe device are all offences under the Medicines Act 1981. The Sponsor, not the manufacturer, is the party legally liable to Medsafe for these failures. Sponsors should ensure they have:
 
 - A formal written agreement with the manufacturer setting out documentation access and obligations
 - Adequate professional indemnity or product liability insurance
@@ -84,3 +84,5 @@ The Sponsor carries significant legal exposure. Failing to notify WAND, failing 
 | United States | US Agent (for foreign manufacturers) | No (must have US address) | No formal registration |
 
 A registered office or principal place of business means a physical address in New Zealand where the entity can be contacted and where records can be kept. A PO box alone is not sufficient; there must be a genuine business presence with ability to receive correspondence and maintain regulatory records.
+
+Add a new subsection under 'Liability exposure': 'Sponsor insolvency or removal: If a Sponsor is struck off the register or becomes insolvent while acting as Sponsor, the device's WAND notification remains valid only while the relationship is active. The manufacturer must appoint a replacement Sponsor immediately and notify Medsafe of the change within 10 days. Devices cannot legally be supplied without an active Sponsor, even temporarily.'

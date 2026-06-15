@@ -12,7 +12,7 @@ Not all Shonin applications require Japan-specific clinical trial data. The need
 - **Availability of acceptable foreign data** — PMDA may accept foreign clinical study data, reducing the need for new Japanese trials
 - **PMDA's requirements as communicated in pre-submission consultation** — the most reliable way to determine data requirements is to ask PMDA directly
 
-Where Japan-specific clinical evidence is required, clinical investigations must comply with the PMD Act's clinical trial be conducted in Japan and must requirements, the GCP Ordinance for devices, and applicable ethics committee oversight.
+Where Japan-specific clinical evidence is required, clinical investigations must be conducted in Japan and must comply with the PMD Act's clinical trial requirements, the GCP Ordinance for devices, and applicable ethics committee oversight.
 
 ## Clinical Trial Notification (CTN) — the filing process
 

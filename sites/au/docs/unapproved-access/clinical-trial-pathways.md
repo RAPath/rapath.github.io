@@ -99,6 +99,8 @@ Timeframes for reporting vary depending on severity — generally 7–15 days fo
 
 ---
 
+Complete the truncated sentence or remove the incomplete final paragraph. If this was intended to discuss compassionate access during trials, add: 'Where a device is being studied in a clinical trial and a patient outside the trial has a serious condition for which no alternative exists, access may be sought under the Special Access Scheme (SAS Category A or B) while the trial is ongoing. The TGA coordinates between trial sponsors and SAS applications to avoid duplication of safety assessments.'
+
 ## Official Sources
 
 - [Clinical trials for medical devices — TGA](https://www.tga.gov.au/products/medical-devices/clinical-trials-medical-devices)

@@ -37,7 +37,7 @@ The AR's name, address, and contact information **must appear on device labels, 
 
 ## AR vs. distributor: avoiding conflicts of interest
 
-Many manufacturers designate their Saudi distributor as their AR. While convenient, this creates a risk:
+Many manufacturers designate their Saudi distributor as their Authorized Representative for operational convenience. However, this practice creates significant regulatory and commercial risks:
 
 :::warning AR controls the MDMA certificate
 The MDMA certificate is held in the **AR's name**. If the AR is also your exclusive distributor, changing distributors becomes extremely complicated — the new distributor cannot market the device until a new MDMA (or MDMA transfer) is processed. **Using an independent AR service provider** gives the manufacturer full control over commercial decisions.
@@ -55,3 +55,5 @@ Foreign manufacturers who wish to keep their technical documentation confidentia
 - [MDEL for AR](./mdel-for-ar)
 
 To appoint an AR, identify a Saudi-licensed entity willing to act as your regulatory liaison. The prospective AR must hold (or be prepared to obtain) a valid MDEL AR license. Execute a properly authenticated and legalized AR contract that clearly defines roles, responsibilities, and obligations. Submit the AR appointment via GHAD as part of your initial MDMA application or as a change notification if updating an existing registration. The SFDA will validate the AR's MDEL status and licensing credentials before accepting the appointment.
+
+Add a new section titled 'How to appoint an AR' after 'What the AR does': 'To appoint an AR, identify a Saudi-licensed entity willing to act as your regulatory liaison. The prospective AR must hold (or be prepared to obtain) a valid MDEL AR license. Execute a properly authenticated and legalized AR contract that clearly defines roles, responsibilities, and obligations. Submit the AR appointment via GHAD as part of your initial MDMA application or as a change notification if updating an existing registration. The SFDA will validate the AR's MDEL status and licensing credentials before accepting the appointment.'

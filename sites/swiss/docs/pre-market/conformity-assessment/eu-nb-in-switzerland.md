@@ -15,7 +15,7 @@ Switzerland has **no Swiss-designated notified bodies** for medical devices unde
 4. Issue Declaration of Conformity referencing MedDO compliance
 5. Register in DAPI (where required, depending on MRA status)
 
-Swissmedic does not re-review the NB's technical documentation assessment.
+Under MRA Chapter 4, Swissmedic does not re-review the NB's technical documentation assessment. When MRA Chapter 4 is not fully operational, Swissmedic may conduct a full or selective technical documentation review.
 
 ## MRA Impact
 
@@ -25,6 +25,11 @@ Swissmedic does not re-review the NB's technical documentation assessment.
 | MRA Chapter 4 **not fully operational** | All devices require DAPI registration regardless of CE status; EU NB certificate is the evidentiary basis |
 
 See [MRA with EU — Current Status](../../legislation/mra-with-eu).
+
+
+When MRA Chapter 4 is Not Fully Operational
+​
+If Chapter 4 is not operational, manufacturers must: submit the EU NB certificate (QMS and design/type examination certificates as applicable) along with the Swiss Declaration of Conformity; register the device in DAPI with complete technical documentation references; expect Swissmedic to conduct a full technical documentation assessment or selective review to verify compliance with MedDO; allow extended timelines for market access (typically 2–4 weeks beyond EU certificate issuance for initial DAPI review).
 
 ## Official Sources
 - [NANDO — EU Notified Bodies](https://ec.europa.eu/growth/tools-databases/nando)

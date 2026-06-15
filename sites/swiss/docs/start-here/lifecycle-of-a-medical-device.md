@@ -37,3 +37,7 @@ Content is AI-assisted and intended as a navigation aid only. Always verify agai
 :::
 
 Expand Stage 5 description: "Notify or register the device in DAPI before (or within 30 days of) market placement. For Class I devices, notification suffices (subject to MRA status). For Class IIa and higher, full registration with NB documentation is required before market placement."
+
+Stage 5 — Swissmedic Registration
+​
+Notify or register the device in DAPI before (or within 30 days of) market placement. For Class I devices, notification suffices (subject to MRA status). For Class IIa and higher, full registration with NB documentation is required before market placement.

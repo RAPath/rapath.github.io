@@ -57,4 +57,6 @@ Class I filing does not produce a "certificate" equivalent to a registration cer
 Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [NMPA](https://www.nmpa.gov.cn/) sources before making regulatory decisions. Not affiliated with NMPA or any Chinese Government body. Not legal or regulatory advice.
 :::
 
-Note: Although Class I domestic devices are filed with local district/county authorities, Class I imported devices must be filed with national NMPA, creating a different workflow despite both being classified as "filing" pathways.
+Key distinction: Although Class I domestic devices are filed with local district/county authorities, Class I imported devices bypass local authorities entirely and must be filed directly with National NMPA. This is a critical difference in workflow and submission requirements despite both being classified as "filing" pathways. See Imported Device Registration for details.
+
+Add a footnote after the 'Pathway by class' table: 'Note: Although Class I domestic devices are filed with local district/county authorities, Class I imported devices must be filed with national NMPA, creating a different workflow despite both being classified as "filing" pathways.'

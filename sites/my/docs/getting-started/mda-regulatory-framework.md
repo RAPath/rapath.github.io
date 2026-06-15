@@ -59,3 +59,5 @@ Devices must be registered and establishments must be licensed before any supply
 Add this bullet point to MDA's core functions list:
 
 • Providing special access pathways for urgent humanitarian or clinical needs (including expedited review for life-saving or critical-need devices)
+
+Add to MDA's core functions list the following bullet point: '• Providing special access pathways for urgent humanitarian or clinical needs (including expedited review for life-saving or critical-need devices)'

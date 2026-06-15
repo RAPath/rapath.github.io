@@ -10,7 +10,7 @@ description: The SFDA's Essential Principles of Safety and Performance — what 
 
 The Essential Principles of Safety and Performance are the fundamental safety and performance requirements that all medical devices must meet before they can receive MDMA. They are set out in MDS-REQ 2 and in Annexes 1 and 2 of the Medical Devices Law.
 
-The Essential Principles are substantially aligned with the General Safety and Performance Requirements (GSPR) of EU MDR Annex I, reflecting Saudi Arabia's commitment to harmonizing medical device regulation with international standards.
+The Essential Principles are substantially aligned with the General Safety and Performance Requirements (GSPR) of EU MDR Annex I and reflect Saudi Arabia's commitment to harmonizing medical device regulation with international standards and GHTF guidance.
 
 ## General Essential Principles (Annex 1)
 

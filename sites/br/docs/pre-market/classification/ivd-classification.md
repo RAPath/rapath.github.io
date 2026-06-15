@@ -24,3 +24,8 @@ Registration pathways: Class I → Notificação | Class II → Cadastro | Class
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+Class I → Low risk → Low → Devices not requiring premarket approval (e.g., non-sterile specimen collection devices)
+Class II → Medium-low risk → Medium-low → General immunoassays, clinical chemistry devices
+Class III → Medium-high risk → High → Devices for genetic testing, tumor markers
+Class IV → High risk → High → HIV screening tests, blood grouping reagents, nucleic acid testing (NAT) for blood screening, and blood transfusion screening tests

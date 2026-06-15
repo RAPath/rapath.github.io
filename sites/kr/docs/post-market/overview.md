@@ -8,9 +8,7 @@ Once a medical device is on the Korean market, manufacturers and importers have 
 
 ## Core obligations
 
-Adverse event reporting
-Manufacturers, importers
-15 calendar days (serious/unexpected adverse events) or 30 calendar days (other adverse events/malfunctions)
+Adverse event reporting — Manufacturers and importers must report serious or unexpected adverse events within 15 calendar days, and other adverse events or malfunctions within 30 calendar days to MFDS
 
 ## MFDS active post-market role
 
@@ -18,3 +16,5 @@ MFDS runs its own market surveillance inspections, monitors adverse event databa
 
 ## Related pages
 - [Adverse event reporting](./adverse-event-reporting/what-must-be-reported) · [Re-examination](./post-market-surveillance/re-examination-system) · [Recalls and FSCA](./recalls-and-fsca/when-recall-or-fsca-required)
+
+Update the 'GMP certificate maintenance' row detail from 'Keep KGMP / foreign GMP certificate valid' to: 'Keep KGMP / foreign GMP certificate valid; renewal typically required every 3 years or per issuing body requirements'

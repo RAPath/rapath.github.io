@@ -57,3 +57,5 @@ For a PMDA on-site inspection of a foreign manufacturing site:
 ## Prefectural government inspection scope
 
 Escalation to PMDA. If a prefectural inspection of a domestic Class I or II manufacturer identifies significant QMS deficiencies or safety concerns, the prefectural government reports findings to MHLW. Serious findings may trigger a PMDA investigation or for-cause inspection, particularly if the device is involved in an adverse event or recall.
+
+Escalation to PMDA. If a prefectural inspection of a domestic Class I or II manufacturer identifies significant QMS deficiencies or safety concerns, the prefectural government reports findings to MHLW. Serious findings may trigger a PMDA investigation or for-cause inspection, particularly if the device is involved in an adverse event or recall.

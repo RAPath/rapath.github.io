@@ -6,7 +6,12 @@ description: Mandatory labelling requirements for medical devices sold in Canada
 # Labelling Requirements
 
 ## Overview
-All medical devices sold in Canada must carry a **label** meeting the requirements of the **Medical Devices Regulations (ss 21–26)**. Labelling includes the physical label on the device and its packaging, as well as the Instructions for Use (IFU) and any accompanying documentation.
+All medical devices sold in Canada must carry a **label** meeting the requirements of the **Medical Devices Regulations (ss 21–26)**. Labelling includes:
+- The physical label on the device and its packaging
+- Instructions for Use (IFU)
+- Any accompanying documentation (e.g., user guides, quick reference guides)
+- Electronic labelling (when permitted)
+All labelling elements must collectively provide the information necessary for safe and effective use.
 
 ## Mandatory label content
 
@@ -45,7 +50,7 @@ IFUs are part of the label. They must:
 - Be **bilingual** (English and French)
 - Cover intended use, contraindications, warnings, step-by-step instructions, troubleshooting, cleaning/disinfection/sterilisation
 
-Electronic IFUs (eIFU) are permitted for certain device types consistent with IMDRF guidance. Paper IFU must still be available on request.
+Electronic IFUs (eIFU) are permitted for certain device types, including mobile apps and online portals, consistent with IMDRF guidance. However, a paper IFU or a readily accessible electronic copy must still be available on request at no cost to the user.
 
 > **Legislative source:** Medical Devices Regulations, SOR/98-282, ss 21–26
 
@@ -56,3 +61,19 @@ For devices sold or distributed through digital channels, electronic labelling i
 - The e-labelling is readily accessible to the user prior to purchase and throughout the product lifetime
 - The information is presented in a format that is clear, legible, and cannot be altered by the user
 - A paper version of the IFU must still be available upon request
+
+Label placement and legibility
+
+Labels must be:
+Securely affixed to the device or its packaging
+Legible and indelible
+In a font size and contrast that ensures readability by the intended user
+Placed in a location visible and accessible to the user before and during use
+
+Abbreviated labelling (quick reference labels)
+
+For certain Class I and II devices, an abbreviated label may be acceptable if:
+The device is simple and its use is self-evident
+A full IFU is available on packaging, in labelling, or online
+The abbreviated label contains essential safety information and directions for use
+Health Canada has approved the abbreviated format in the Device Licence

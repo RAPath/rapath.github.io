@@ -25,7 +25,7 @@ Selecting the correct classification code is critical — it determines which re
 
 ## Who determines classification
 
-The applicant selects the classification code from the official OKPD-2 list when preparing the registration dossier. Roszdravnadzor and the FGBU expert institutions review this as part of Phase 1 of the registration process. If the code is disputed or uncertain, you can seek a formal opinion from Roszdravnadzor.
+The applicant selects the classification code from the official OKPD-2 list when preparing the registration dossier. Roszdravnadzor and the FGBU expert institutions review this as part of Phase 1 of the registration process. If the code is disputed or uncertain, you can request a formal pre-submission consultation or classification opinion from Roszdravnadzor through your RUS REP, typically resolved within 30 days.
 
 ## IVD classification
 

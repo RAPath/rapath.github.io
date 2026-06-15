@@ -9,7 +9,7 @@ tags: [guidance, mdcg]
 # MDCG guidance documents — by topic
 
 :::note About MDCG guidance
-MDCG guidance is published by the Medical Device Coordination Group and represents the authoritative interpretation of MDR/IVDR requirements by the European Commission and member states. It is not legally binding but is followed by notified bodies and competent authorities and departing from it requires justification.
+MDCG guidance is published by the Medical Device Coordination Group and represents the authoritative interpretation of MDR/IVDR requirements by the European Commission and member states. While not legally binding, it is widely followed by notified bodies and national competent authorities (NCAs). Departing from MDCG guidance positions requires robust technical or scientific justification and may be subject to challenge during NB assessment or NCA inspection.
 :::
 
 :::warning Disclaimer

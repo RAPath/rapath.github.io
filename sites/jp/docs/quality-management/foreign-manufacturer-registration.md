@@ -24,7 +24,7 @@ The overseas manufacturer does not apply for FMR directly. The Japan-based MAH s
 
 Application steps:
 1. MAH compiles required information about the foreign manufacturing site
-2. MAH submits the FMR application to MHLW (national level, not prefectural)
+2. MAH submits the FMR application to MHLW through the designated application portal (national level; FMR is not handled by prefectural governments)
 3. MHLW reviews the application — typically within 3 months
 4. MHLW issues the FMR certificate with an FMR number
 5. The FMR number is used in subsequent Shonin/Ninsho applications for products from that site
@@ -33,7 +33,7 @@ Application steps:
 
 FMR must be obtained before or simultaneously with the pre-market application. It is common practice to submit the FMR application together with the Shonin application, with PMDA holding the full review pending FMR issuance.
 
-## Maintaining FMR — annual confirmation and changes
+## Maintaining FMR — annual attestation and change notifications
 
 FMR registrations must be **confirmed annually** by the MAH. If the manufacturing activities, site address, or responsible person changes, the MAH must notify MHLW.
 
@@ -42,3 +42,5 @@ If the MAH changes, the FMR must be retransferred to the new MAH's name.
 ## QMS inspections for FMR sites
 
 Foreign sites registered under FMR are subject to PMDA QMS inspections. These inspections assess compliance with MO 169. PMDA may inspect on-site (typically combined with a scheduled pre-approval inspection) or may conduct document-based reviews for lower-risk devices or well-established sites.
+
+The page mentions concurrent submission is 'common practice' but add clarity: 'FMR can be submitted simultaneously with the Shonin/Ninsho application, but FMR issuance must be completed before PMDA final approval of the application. PMDA will place the application in administrative hold until FMR is confirmed by MHLW.'

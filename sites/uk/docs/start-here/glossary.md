@@ -64,7 +64,9 @@ A device manufactured specifically in accordance with a written prescription of 
 **Declaration of Conformity (DoC)**
 A document issued by the manufacturer declaring that their device meets all applicable Essential Requirements of UK MDR 2002. The DoC must be signed, dated, and maintained. For non-UK manufacturers, the UKRP's details may be included. Equivalent to the EU Declaration of Conformity.
 
-**Designated standard**
+**Design dossier
+
+A defined subset of the technical file submitted to a UK Approved Body for examination, required for Class III, AIMD, and IVD List A devices. The design dossier focuses on device design, risk management, and clinical evaluation. It is a component of — not a replacement for — the full technical file.nated standard**
 A standard published in the Official Journal of the UK (or designated by MHRA/BSI) which, when applied in full, provides a presumption of conformity with the Essential Requirements to which it relates. Equivalent function to harmonised standards in the EU.
 
 **Distributor**

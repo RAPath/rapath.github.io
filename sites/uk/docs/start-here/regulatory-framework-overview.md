@@ -222,3 +222,5 @@ MHRA has published several consultation documents and intends to use the powers 
 MHRA's reform programme, initiated under the Medical Devices Act 2021, is actively developing a new regulatory framework. As of May 2026, implementation timelines have not been finalised. Monitor MHRA consultations and announcements at gov.uk/government/consultations for progress updates.
 
 The truncated text should continue with complete information. Provide full guidance on: CE marking acceptance conditions, current grace period (until 30 June 2030), MHRA registration requirements for CE-marked devices, and timeline for mandatory UKCA transition.
+
+Complete the truncated final paragraph: 'CE marking is currently accepted in GB under transitional arrangements until 30 June 2030. See Post-Brexit transition timeline for full details.'

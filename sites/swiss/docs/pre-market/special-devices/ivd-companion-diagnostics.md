@@ -23,7 +23,6 @@ Where possible, CDx registration with Swissmedic should align with the medicinal
 - [IVDO (SR 812.219)](https://www.fedlex.admin.ch/eli/cc/2022/103/en)
 - [MDCG 2020-16 — IVD classification including CDx](https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en)
 
-
 :::warning Disclaimer
 AI-assisted content for navigation only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
 :::

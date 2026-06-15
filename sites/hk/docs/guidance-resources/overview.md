@@ -50,3 +50,9 @@ TRs and GNs are periodically updated. Download fresh copies before each submissi
 :::
 
 Last Updated' column with note: 'All TRs and GNs include publication/revision dates. Download only the current version from the MDD website (https://www.drugoffice.gov.hk/english/infopage/mdm/201601/md_ref.html). Verify version numbers before submission.
+
+Add a row to the Technical References table: 'Last Updated' column with note: 'All TRs and GNs include publication/revision dates. Download only the current version from the MDD website (https://www.drugoffice.gov.hk/english/infopage/mdm/201601/md_ref.html). Verify version numbers before submission.'
+
+Add the following note under the TR-008 row in the table:
+
+**TR-008 Note**: Clinical evidence thresholds vary by device risk class and novelty. Class I devices typically require literature review; Class II–IV may require clinical data from published studies or post-market surveillance. See TR-002 (Conformity Assessment) for class-specific pathways. For novel or combination devices, consult the MDD early to confirm evidence requirements.

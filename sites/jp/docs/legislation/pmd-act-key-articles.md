@@ -55,3 +55,5 @@ The authoritative text of the PMD Act is maintained on [e-Gov](https://laws.e-go
 English translations on the PMDA website are unofficial translations for reference only and may not reflect the most recent amendments. For any regulatory decision, verify against the Japanese text.
 
 Note: The PMD Act also regulates quasi-drugs (kakuyaku) — products that have some drug-like properties but do not meet the full definition of pharmaceuticals. Quasi-drugs have different classification and approval pathways than medical devices.
+
+Change the incomplete heading 'Official sources — finding the cu' to 'Official sources — finding the current text'

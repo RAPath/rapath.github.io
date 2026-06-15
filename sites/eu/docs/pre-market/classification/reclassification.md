@@ -127,3 +127,5 @@ Manufacturers should monitor:
 | MDR Art. 1(2) | Legal basis for Annex XVI |
 | MDCG guidance series | Borderline and classification working group outputs |
 | Official Journal of the EU | Published implementing acts including reclassification measures |
+
+Annex XVI devices are aesthetic and cosmetic devices that have been brought into the MDR scope despite not being traditional medical devices. Inclusion in Annex XVI represents a form of reclassification by the European Commission. Before each Annex XVI category becomes fully operational, the Commission must publish Common Specifications (CS) that define the conformity assessment requirements and rules for that category. Until CS are published, manufacturers cannot place such devices on the market. Manufacturers should regularly check the NANDO database and Official Journal for publication of CS for their specific Annex XVI category.

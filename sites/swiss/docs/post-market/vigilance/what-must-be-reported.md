@@ -19,7 +19,7 @@ A serious incident is any malfunction or deterioration in the characteristics or
   - Chronic disease
   - Foetal distress, foetal death, or congenital physical or mental impairment
 
-A serious incident also includes near-serious incidents that could have led to the above outcomes but for a lucky or chance circumstance.
+A serious incident also includes near-serious incidents — incidents where a serious outcome could have occurred but was prevented by chance or user intervention.
 
 ## What Does NOT Need to Be Reported
 - Device malfunction or deterioration where the device did not reach the patient
@@ -28,6 +28,13 @@ A serious incident also includes near-serious incidents that could have led to t
 
 ## FSCAs
 Field safety corrective actions are reported separately from serious incidents — see [FSCA Process](../fsca/fsca-process).
+
+
+Add to the 'Serious Incidents (Art. 66)' section after the definition:
+
+**Near-Serious Incidents**
+
+A near-serious incident is an incident that did not result in serious harm but could have done so but for a fortunate circumstance (e.g., a device malfunction discovered before patient use, or a use error that was corrected before causing injury). Near-serious incidents must be reported if they have potential to cause serious harm.
 
 ## Official Sources
 - [MedDO Art. 66–68 (SR 812.213)](https://www.fedlex.admin.ch/eli/cc/2021/205/en)

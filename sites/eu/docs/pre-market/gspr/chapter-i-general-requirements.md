@@ -157,7 +157,7 @@ A failure at any level cascades. A manufacturer who does not follow the state of
 
 GSPR 3 — Performance under conditions of use
 
-Devices shall be designed, manufactured, and packaged in such a way that their characteristics and performance during their intended use are not adversely affected under transport and storage conditions (for example, fluctuations of temperature and humidity), taking account of the duration of transport and storage.
+Devices shall be designed, manufactured, and packaged so that their characteristics and performance during intended use are not adversely affected by transport and storage conditions (including fluctuations in temperature and humidity). duration of transport and storage.
 
 What this requires in practice
 

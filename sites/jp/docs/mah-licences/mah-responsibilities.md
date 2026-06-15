@@ -45,6 +45,8 @@ The MAH's statutory obligations under the PMD Act and associated ordinances incl
 
 ## Personal liability of the MAH's responsible officers
 
-The Responsible Technical Officer (RTO) of the MAH carries personal liability under the PMD Act for compliance failures within their area of responsibility. Criminal penalties under the PMD Act can extend to individuals, not just corporate entities. This is a serious personal liability consideration for individuals accepting RTO roles at Kannin MAH companies.
+The Responsible Technical Officer (RTO) of the MAH carries personal criminal and administrative liability under the PMD Act for compliance failures within their area of responsibility. Criminal penalties under the PMD Act can extend to individuals (up to 3 years imprisonment or ¥3 million fine for serious violations), not just corporate entities. Administrative penalties can include suspension of the MAH licence. This is a serious personal liability consideration for individuals accepting RTO roles, particularly at Kannin MAH companies managing multiple overseas manufacturers where oversight burdens are high.
 
 The Responsible Technical Officer must review and approve all regulatory submissions (adverse event reports, change applications, surveillance reports) before filing with MHLW or PMDA. The RTO's signature or documented approval on these submissions is evidence of the required supervisory review under MO 169 and the PMD Act.
+
+Approval process: The RTO must review and approve submissions before they are filed. MHLW inspectors routinely verify that the RTO has reviewed adverse event reports, change applications, and surveillance reports by checking for the RTO's signature, seal (hanko), or documented electronic approval in the MAH's records. Failure to demonstrate RTO review is a common inspection finding. Maintain dated approval records for all regulatory submissions for at least 5 years.

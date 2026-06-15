@@ -88,3 +88,7 @@ If a device is withdrawn from the Saudi market — whether voluntarily or follow
 - [MDMA Registration](../mdma-registration/mdma-overview)
 - [Post-Market Overview](../post-market/overview)
 - [Glossary](../resources/glossary)
+
+Stage 12 — Market withdrawal
+​
+If a device is withdrawn from the Saudi market — whether permanently or temporarily — the manufacturer or AR must notify the SFDA via GHAD and remove all marketing authorization references. Withdrawal notifications should include the reason (safety, commercial, regulatory, or other) and details of any stock recovery or destruction. Post-withdrawal, adverse event reporting continues for a specified period to capture any delayed safety signals from the withdrawn device.

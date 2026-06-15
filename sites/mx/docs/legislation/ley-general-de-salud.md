@@ -38,7 +38,7 @@ The current text of the Ley General de Salud is available through the official *
 
 ## Amendments and currency
 
-The LGS is amended through regular legislative activity. Major amendments relevant to medical devices include provisions introduced to address digital health, telemedicine, and the regulatory powers of COFEPRIS. Always verify you are using the most current consolidated version.
+The LGS is amended through regular legislative activity. Major recent amendments relevant to medical devices include provisions addressing digital health, telemedicine, software as a medical device, and expanded COFEPRIS enforcement authority. Always verify you are using the most current consolidated version by cross-checking the date against the DOF.
 
 ## Related pages
 

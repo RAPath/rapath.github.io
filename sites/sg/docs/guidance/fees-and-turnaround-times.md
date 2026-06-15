@@ -26,7 +26,7 @@ Fees typically vary by:
 
 Published TATs are measured from the date HSA confirms receipt of a complete, screenable application. Applications that fail initial screening are returned without being clocked (the TAT timer does not start). Input Requests (IRs) issued by HSA during evaluation pause the clock — the time spent waiting for the applicant's response is not counted toward the published TAT. The clock restarts once HSA receives the applicant's response.
 
-Responding to IRs promptly and completely is the single most important factor in achieving published TATs.
+Responding to Input Requests (IRs) promptly and completely is critical to achieving published turnaround times. Delays in providing requested information can significantly extend the total evaluation timeline, as the clock restarts only after HSA receives a complete response.
 
 ## Official sources
 

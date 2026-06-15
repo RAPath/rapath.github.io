@@ -23,7 +23,12 @@ Same SaMD grade criteria, with attention to:
 
 ## Post-market monitoring
 
-MFDS requires ongoing monitoring of AI algorithm performance after approval, including drift detection and planned re-validation when significant data shifts occur.
+MFDS requires ongoing monitoring of AI algorithm performance after approval, including:
+• Real-world performance monitoring against defined performance thresholds
+• Drift detection — monitoring for degradation in algorithm accuracy over time
+• Planned re-validation when significant data shifts occur or when performance thresholds are approached
+• Documentation and reporting of monitoring results to MFDS as required
+• Manufacturer must commit to algorithm updates or corrective actions if performance degrades below acceptable limits
 
 ## Related pages
 - [SaMD — MFDS policy](./samd-mfds-policy) · [MFDS digital health framework](../../digital-health-samd/mfds-digital-health-framework)
@@ -34,3 +39,10 @@ MFDS issued dedicated guidance documents:
 • Most recent update (2024)
 
 Manufacturers should consult the latest version on the MFDS website for current requirements.
+
+For the latest AI/ML guidance requirements, manufacturers should:
+• Consult the MFDS website directly for current guidance versions
+• Review any device-specific annexes or technical guidance released after 2024
+• Engage with MFDS via pre-submission consultation to clarify AI/ML-specific requirements for their device type
+
+Note: The regulatory landscape for AI/ML devices continues to evolve; early engagement with MFDS is strongly recommended.

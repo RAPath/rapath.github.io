@@ -25,3 +25,5 @@ Verify all information against official [ANVISA](https://www.gov.br/anvisa) sour
 :::
 
 Importers are also responsible for implementing post-market surveillance procedures, including collection and evaluation of adverse event reports, and must report serious adverse events to ANVISA within the required timeframe. Importers must maintain records of all complaints and adverse events associated with imported devices.
+
+Importers must establish and maintain written quality agreements with their foreign manufacturers that define responsibilities for GMP compliance, quality system requirements, notification of changes, and provision of audit information. These agreements must be documented and available for ANVISA inspection.

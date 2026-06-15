@@ -46,7 +46,7 @@ Rule 1 classifies as **Class D** any IVD intended to be used for:
 
 ### Why Class D for blood group typing?
 
-A transfusion of incompatible blood can be rapidly fatal. ABO/Rh errors in donor or patient testing carry catastrophic consequences. The EU reference laboratory review requirement for Class D provides an additional verification layer for these critical assays.
+A transfusion of incompatible blood can be rapidly fatal. ABO/Rh errors in donor or patient testing carry catastrophic consequences — mistyping can result in acute haemolytic transfusion reactions and death. The EU reference laboratory review requirement for Class D (MDR Art. 52(4) and IVDR Art. 48(4)) provides an additional verification layer for these critical assays, ensuring notified body assessments meet the highest standard of rigour.
 
 ---
 
@@ -174,3 +174,5 @@ However, near-patient tests may still be Class C (e.g. bedside troponin, near-pa
 | IVDR Art. 5(5) | Self-test and near-patient testing definitions |
 | IVDR Art. 100 | EU reference laboratories |
 | MDCG 2020-16 | Companion diagnostics guidance |
+
+Complete Rule 3 with examples such as: 'Full blood count (FBC) and differential tests | Basic metabolic panels (glucose, electrolytes, renal function in routine screening) | C-reactive protein (routine inflammation markers) | General urinalysis | Routine serology (non-STI, non-infectious agent testing) | Blood cultures for bacteriology | Semen analysis | General coagulation screening (APTT, PT, fibrinogen) — not used for anticoagulation monitoring | Allergy testing | Rheumatoid factor and non-specific inflammatory markers'

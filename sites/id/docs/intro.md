@@ -82,3 +82,12 @@ Start with [Device Classification](./device-classification/classification-system
 :::caution Disclaimer
 This site is a reference guide for educational purposes only. It does not constitute legal or regulatory advice. Regulations change frequently — always verify requirements with Kemenkes, BPOM, or a qualified Indonesian regulatory affairs professional before making compliance decisions.
 :::
+
+Expand the 'Dual-authority system' bullet point to clarify:
+
+Dual-authority system
+
+• Kemenkes (Ministry of Health) → medical device registration (NIE), Regalkes portal, market surveillance, post-market safety reporting, adverse event evaluation, and import permits for research/compassionate use
+• BPOM/NADFC → GMP facility inspections (for import), pharmaceutical products, cosmetics, and coordinated device oversight (particularly for combination devices or devices with pharmaceutical components)
+
+For medical device registration, your primary contact is Kemenkes. BPOM's role is primarily quality/manufacturing oversight, not registration.

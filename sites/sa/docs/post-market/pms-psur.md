@@ -59,3 +59,5 @@ PMCF is the structured, ongoing collection of clinical data for devices already 
 - MDS-REQ 4 — Clinical Evaluation (PMCF component)
 - [Adverse Event Reporting](./adverse-event-reporting)
 - [MDMA Renewal](./mdma-renewal)
+
+For devices imported or distributed in Saudi Arabia, the Authorized Representative must ensure effective communication channels exist to collect PMS data from healthcare facilities, importers, and distributors. The AR is responsible for consolidating this data and submitting it to the manufacturer's global PMS system. Robust data collection systems should be documented and regularly reviewed for completeness and timeliness.

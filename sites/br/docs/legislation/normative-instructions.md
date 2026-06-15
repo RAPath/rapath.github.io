@@ -29,3 +29,7 @@ Verify all information against official [ANVISA](https://www.gov.br/anvisa) sour
 :::
 
 These INs support the core RDC 751/2022 framework and its companion regulations (RDC 752–755/2022). IN 57/2022 provides the detailed classification catalogue referenced in RDC 751 Annex I.
+
+Add after the first paragraph: 'These INs support the core RDC 751/2022 framework and its companion regulations (RDC 752–755/2022). IN 57/2022 provides the detailed classification catalogue referenced in RDC 751 Annex I.'
+
+IN ANVISA 70/2022 — Updated procedures for classification requests and reclassification of medical devices, providing step-by-step guidance for manufacturers seeking classification confirmation before formal registration submission.

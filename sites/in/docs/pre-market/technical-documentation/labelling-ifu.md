@@ -36,3 +36,5 @@ Under Schedule 4 of the Medical Devices Rules 2017, medical device labels and In
 • Disposal instructions.
 
 Labels must be in English and, where applicable, in local/regional Indian languages. IFUs must be clear, comprehensive, and accessible to the intended user. Labelling specimens must be submitted as part of the technical documentation for pre-market approval.
+
+Labelling specimens must be submitted in their final commercial form and include all text, images, symbols, and QR codes as they will appear on the device or packaging. Digital copies (high-resolution PDFs or images) should accompany physical samples. For multi-language labels, specimens for each language variant must be provided separately.

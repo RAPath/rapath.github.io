@@ -46,3 +46,5 @@ Pre-clinical test reports (safety and biocompatibility testing, electrical safet
 :::info Official source
 Government Decree No. 1684 (2025): [government.ru](https://government.ru/)
 :::
+
+The bullet point currently reads: 'Published clinical literature (peer-reviewed studies, systematic reviews from indexed databases) (must meet international standards, preferably ISO 14155 or equivalent) technological and clinical to a registered device in the GRLS scientifically from post-market surveillance of already-registered devices'. This should be corrected to: 'Published clinical literature (peer-reviewed studies, systematic reviews from indexed databases) that must meet international standards, preferably ISO 14155 or equivalent'

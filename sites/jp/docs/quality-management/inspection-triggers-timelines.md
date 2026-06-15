@@ -45,3 +45,9 @@ PMDA may initiate an unannounced or short-notice inspection at any time in respo
 ​Document-based review
 
 For certain routine inspections or in cases where on-site inspection is not feasible, PMDA may conduct a document-based review. The manufacturer submits quality system documentation, inspection records, audit reports, and CAPA evidence to PMDA for remote evaluation. This process typically takes 2–4 weeks and may be followed by an on-site inspection if documentation raises concerns.
+
+Add a new subsection under 'For-cause inspections' or as a separate section:
+
+​Document-based review
+
+For certain routine inspections or in cases where on-site inspection is not feasible, PMDA may conduct a document-based review. The manufacturer submits quality system documentation, inspection records, audit reports, and CAPA evidence to PMDA for remote evaluation. This process typically takes 2–4 weeks and may be followed by an on-site inspection if documentation raises concerns.

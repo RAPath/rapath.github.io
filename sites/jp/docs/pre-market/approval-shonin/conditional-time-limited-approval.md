@@ -18,7 +18,7 @@ Conditional approvals are used where:
 - The potential benefit is significant and the device addresses an unmet need
 - There is reasonable expectation that post-market evidence will confirm safety and efficacy
 
-The MAH must meet the stated conditions within the agreed timeframe. Failure to do so can result in MHLW revoking the approval.
+The MAH must meet the stated conditions within the agreed timeframe and submit evidence within the specified deadline. Failure to meet the deadline or failure to demonstrate the required safety and efficacy through submitted data can result in MHLW revoking the approval, extending conditions, or requiring additional studies.
 
 ## Time-limited approval
 

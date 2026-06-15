@@ -49,7 +49,7 @@ To use EUDAMED vigilance module, manufacturers must:
 2. Complete the identity verification process for EUDAMED user accounts
 3. Assign roles within the organisation — who can submit vigilance reports, access NCA responses, etc.
 
-Non-EU manufacturers must ensure their EU authorised representative is registered and has EUDAMED access, as the EU REP may submit reports on the manufacturer's behalf.
+Non-EU manufacturers must ensure their EU authorised representative is registered and has EUDAMED access. The EU REP must be notified of any serious incident or FSCA and must submit reports on the manufacturer's behalf to ensure compliance.
 
 ---
 
@@ -118,3 +118,5 @@ Manufacturers must respond to NCA queries promptly. Response obligations are par
 | MDR Art. 100–105 | EUDAMED general provisions |
 | EUDAMED user guides | ec.europa.eu/tools/eudamed |
 | MDCG 2023-3 | Serious incident and vigilance reporting guidance |
+
+After submitting a report, the NCA acknowledges receipt and may pose clarification questions within EUDAMED. Manufacturers are required to respond to NCA queries promptly. The NCA may request additional information, updates as the investigation progresses, or confirmation of planned or completed corrective actions.

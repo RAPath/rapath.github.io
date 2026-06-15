@@ -184,3 +184,13 @@ Any changes to the device design — materials, components, manufacturing proces
 | MHRA: Guidance on the UK MDR 2002 | General technical file guidance |
 
 Critical process parameters — defined limits for temperature, pressure, time, humidity, or other parameters critical to device performance; with documented rationale for each limit. Process validation studies — results of validation runs demonstrating that the process consistently produces conforming devices; for sterilization and other critical processes, validation per ISO 11135 (sterilization) or equivalent standard. Supplier control procedures — documentation of supplier qualification, material inspection, and incoming quality checks. Manufacturing equipment — list of critical equipment with maintenance and calibration records. Environmental controls — specifications for cleanroom classification, temperature, humidity, particulate control (if applicable). Documentation control — procedures for updating manufacturing instructions and maintaining version control. Change control procedures — process for evaluating, approving, and documenting any changes to the manufacturing process. Quality assurance and testing procedures — in-process and finished-device testing; acceptance criteria; testing frequency. Traceability — procedures for lot number assignment, batch tracking, and record retention.
+
+— detailed step-by-step procedures for manufacturing, including material specifications, equipment settings, critical control points, and acceptance criteria
+Critical process parameters
+— parameters that must be controlled to ensure consistency and quality (temperature, pressure, timing, material properties)
+Waste and contamination control
+— procedures for managing manufacturing waste, preventing cross-contamination, and managing non-conforming devices
+Changeability and design history
+— records of all design changes made during development and post-market, with justification and validation of each change
+
+The level of detail required increases with device risk class. Class III devices and AIMDs require comprehensive manufacturing documentation that enables a UKAB assessor to understand and evaluate the manufacturing process. For lower-risk devices, manufacturing documentation may be less detailed but must still be sufficient to demonstrate that the manufacturing process can consistently produce compliant devices.

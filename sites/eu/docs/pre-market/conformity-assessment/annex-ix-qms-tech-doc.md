@@ -150,3 +150,25 @@ Given current notified body capacity constraints, manufacturers should initiate 
 | MDR Art. 93 | Unannounced audits |
 | EN ISO 13485:2016 | QMS for medical devices |
 | MDCG 2019-6 | NB assessment of clinical evaluation |
+
+Section 5 — Clinical evaluation consultation (Class III MDR)
+
+For Class III devices, before issuing a certificate based on Annex IX, the notified body must carry out a clinical evaluation consultation under Art. 54(1):
+
+What is clinical evaluation consultation?
+
+Clinical evaluation consultation is a scrutiny procedure requiring the notified body to:
+- Review the clinical evaluation report and supporting clinical data
+- Consult an independent expert panel on whether the clinical evidence adequately demonstrates safety and performance for the intended use
+- Request the manufacturer to address any deficiencies or uncertainties identified
+
+Timeline
+
+The clinical evaluation consultation can extend the overall conformity assessment timeline. The notified body will indicate when expert consultation is triggered, and the manufacturer should expect a 30–60 day review window for expert feedback and subsequent revision requests.
+
+Outcome
+
+The expert panel provides a scientific opinion to the notified body. The notified body uses this opinion to inform its certificate decision:
+- If the opinion is favourable and all other requirements are met, the certificate is issued
+- If the opinion raises significant concerns, the manufacturer may need to submit additional clinical data or revise claims before the certificate is issued
+- Unfavourable opinions may result in certificate refusal

@@ -169,3 +169,5 @@ Under Annex XI Part B, the notified body:
 - Must approve significant changes before implementation
 
 Part B provides additional oversight and is used for higher-risk devices or where the notified body determines it is necessary.
+
+The page should include complete information about Annex XI and how it relates to Annex X. This should cover the product conformity verification procedure and how Annex X and XI are used together in practice.

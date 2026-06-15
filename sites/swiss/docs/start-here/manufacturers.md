@@ -21,6 +21,9 @@ Under MedDO Art. 4, a manufacturer is any person who makes a device available un
 ## Non-Swiss Manufacturers
 Must appoint a **CH REP** before placing devices on the Swiss market. See [CH REP](./ch-reps).
 
+
+Quality Management System — Class IIa and above require ISO 13485 QMS certification. Additionally, implantable Class I devices also require a QMS conforming to ISO 13485, even though non-implantable Class I devices do not.
+
 ## Official Sources
 - [MedDO Art. 4–10 (SR 812.213)](https://www.fedlex.admin.ch/eli/cc/2021/205/en)
 

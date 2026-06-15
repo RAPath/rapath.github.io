@@ -22,7 +22,7 @@ A recall should be considered when:
 - A **contamination issue** exists — e.g. non-sterility of a sterile device
 - **Post-market data** has revealed a safety issue not identified at the time of approval
 
-The MAH should assess whether the issue creates a risk of harm to patients. If there is a realistic possibility of harm, recall action is warranted. When in doubt, PMDA consultation is available.
+The MAH should assess whether the issue creates a reasonable risk of harm to patients. If there is a realistic possibility of harm, FSCA action (including recall) is warranted. When the appropriate level of action is unclear, PMDA consultation is strongly recommended before proceeding.
 
 ## MHLW notification for recalls
 
@@ -40,3 +40,5 @@ The MAH is responsible for the recall strategy, execution, and verification of e
 Recall vs other corrective actions
 
 Not all FSCAs require formal recall classification. Software-only updates that address safety issues may be handled as mandatory software patches if the update can be universally deployed and verified without device retrieval. Similarly, labelling-only corrections may be handled through Field Safety Notices without physical recall. However, if patient-level devices have already been distributed and cannot be reliably contacted for a software update, recall procedures should be considered. Consult PMDA when the appropriate corrective action pathway is unclear.
+
+Add to the 'Trigger criteria' section after the 'Post-market data has revealed a safety issue' item: "Non-conformity with specifications — if a device fails to meet approved manufacturing or design specifications, even absent reported patient harm, a recall should be considered if the non-conformity creates a plausible risk pathway to patient harm. The assessment should consider whether affected users can detect the defect, whether the device is still in distribution, and whether continued use could result in cumulative or delayed injury. Consult PMDA if the risk assessment is uncertain."

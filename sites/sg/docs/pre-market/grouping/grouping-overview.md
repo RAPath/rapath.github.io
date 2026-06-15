@@ -51,7 +51,7 @@ HSA provides an online **Medical Device Grouping Tool** to help applicants deter
 
 [hsa.gov.sg/medical-devices/registration/identifying-md-grouping](https://www.hsa.gov.sg/medical-devices/registration/identifying-md-grouping)
 
-Use this tool before preparing any dossier. The grouping decision will be reviewed by HSA during the registration process — incorrect grouping identified at evaluation stage can significantly delay an application.
+Use this tool before preparing any dossier. The grouping decision will be reviewed by HSA during the registration process. Incorrect grouping identified at evaluation stage can result in requests for resubmission under the correct grouping type, significantly delaying approval.
 
 ---
 

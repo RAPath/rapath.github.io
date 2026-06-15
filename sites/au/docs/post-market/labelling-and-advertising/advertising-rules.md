@@ -7,7 +7,7 @@ last_reviewed: 2026-04-30
 
 ## Overview
 
-Advertising of medical devices in Australia is regulated under three instruments: the **Therapeutic Goods Act 1989**, the **Therapeutic Goods Regulations 1990**, and the **Therapeutic Goods (Therapeutic Goods Advertising Code) Instrument 2021** (the Code). Together, these set requirements for accuracy, balance, mandatory statements, and prohibited and restricted representations. Breaching advertising requirements is a criminal offence with significant penalties. The TGA actively monitors advertising compliance and handles complaints.
+Advertising of medical devices in Australia is regulated under three instruments: the **Therapeutic Goods Act 1989**, the **Therapeutic Goods Regulations 1990**, and the **Therapeutic Goods (Therapeutic Goods Advertising Code) Instrument 2021** (the Code). Together, these set requirements for accuracy, balance, mandatory statements, and prohibited and restricted representations. Breaching advertising requirements is a criminal offence with significant penalties. The TGA actively monitors advertising compliance through routine surveillance and consumer complaints. Sponsors and advertisers can face significant penalties for non-compliance, including warning letters, product seizures, and criminal prosecution.
 
 ---
 
@@ -45,7 +45,7 @@ Advertising for medical devices must include mandatory statements where required
 Claims supported by scientific research must accurately represent that research. Clinical terminology must be used correctly and not in a way that is misleading to the intended audience.
 
 **Endorsements and testimonials**
-Endorsements and testimonials are subject to specific requirements. Current health professionals, government bodies, hospitals, and healthcare facilities cannot endorse therapeutic goods in advertising. Social media influencers who receive "valuable consideration" (payment, free products) cannot provide testimonials in advertising.
+Endorsements and testimonials are subject to specific requirements. Current (registered) health professionals, government bodies, hospitals, and healthcare facilities cannot endorse therapeutic goods in consumer advertising. Social media influencers and content creators who receive 'valuable consideration' (payment, free products, or other material benefit) cannot provide testimonials or endorsements in advertising directed to consumers without clear disclosure of the consideration received.
 
 **The claim "TGA approved" is prohibited**
 Using the claim "TGA approved" in any advertising for a therapeutic good is expressly prohibited. The TGA does not approve medical devices — it includes them in the ARTG. Using the ARTG number in advertising is permitted.
@@ -85,6 +85,10 @@ The TGA monitors advertising compliance and handles complaints from the public, 
 
 ---
 
+The final section 'Who Can Advertise a Medical Device' is incomplete, ending with 'Only ARTG-included medical devices (or devices covered by a specific exemption) can be a'. This sentence should be completed.
+
+Add clarification: 'Restricted representations in advertising directed exclusively to health professionals may have different approval requirements. Sponsors should contact the TGA for guidance on restricted representations intended only for health professional audiences.'
+
 ## Official Sources
 
 - [Therapeutic Goods Advertising Code 2021](https://www.tga.gov.au/resources/legislation/therapeutic-goods-therapeutic-goods-advertising-code-instrument-2021)
@@ -98,5 +102,3 @@ The TGA monitors advertising compliance and handles complaints from the public, 
 
 - [Labelling Requirements](./labelling-requirements.md)
 - [Permitted & Prohibited Claims](./permitted-and-prohibited-claims.md)
-
-The final section should be completed with: 'Only ARTG-included medical devices (or devices covered by a specific exemption) can be advertised in Australia. Advertising an unapproved device is a criminal offence. The sponsor is responsible for ensuring that all advertising complies with the Advertising Code and is consistent with the device's ARTG entry and approved intended purpose.'

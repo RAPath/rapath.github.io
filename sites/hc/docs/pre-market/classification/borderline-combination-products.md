@@ -12,7 +12,7 @@ A **borderline product** is a product that could potentially be regulated as eit
 
 ### Borderline with drugs
 - An antiseptic spray: is it a drug or a device?
-- A contraceptive gel: drug or device?
+- A spermicidal contraceptive gel: drug (due to pharmacological action of spermicide) or device?
 - A wound dressing impregnated with an antimicrobial agent: device or drug?
 
 ### Borderline with cosmetics
@@ -63,6 +63,6 @@ For novel or genuinely ambiguous products, Health Canada offers:
 - **Product classification consultations** — informal guidance on product category
 - **Pre-Submission Meetings** — for cases where regulatory pathway is uncertain
 
-Early engagement is strongly recommended for combination products and borderline cases, as late-stage classification determinations can have significant consequences for a product's development timeline.
+Early engagement is strongly recommended for combination products and borderline cases. Late-stage classification determinations can result in significant rework of submissions, delayed approval timelines, and potential need to restart reviews under a different regulatory pathway, making pre-submission consultation cost-effective.
 
 > **Legislative source:** Food and Drugs Act, s 2 (definitions of "device" and "drug"); Medical Devices Regulations, SOR/98-282, s 2

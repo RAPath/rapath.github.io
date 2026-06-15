@@ -48,7 +48,7 @@ Under Regulation 12, the assembler of a system or procedure pack must ensure tha
 3. The system or procedure pack bears the assembler's name, address, and trade name (if any)
 4. Where the pack is supplied sterile: the sterilisation is validated and the pack bears the required sterility labelling
 
-The assembler must prepare a written statement (equivalent to an Annex XII statement under the EU MDD 93/42/EEC, though this requirement is now integrated into Schedule 3 of UK MDR 2002) that:
+The assembler must prepare a written statement (documenting the system or procedure pack composition and conformity, equivalent to an Annex XII statement under the EU MDD 93/42/EEC) that:
 - Identifies the components in the pack and confirms they bear the UKCA/CE mark
 - Confirms that the combination process was carried out in accordance with the manufacturers' instructions
 - Confirms that the assembly did not compromise individual device compliance

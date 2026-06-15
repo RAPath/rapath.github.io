@@ -13,7 +13,7 @@ keywords: [21 CFR Parts 862-892, device classification regulations, product code
 
 ## The 16 device panels
 
-| 21 CFR Part | Panel / Specialty | Examples |
+| 21 CFR Part | Panel / Specialty | Examples (common product codes) |
 |-------------|------------------|---------|
 | **862** | Clinical chemistry & toxicology | Glucose meters, drug testing kits, clinical analysers |
 | **864** | Hematology & pathology | Blood cell counters, coagulation analysers, slide stainers |

@@ -16,7 +16,7 @@ Under **Section 3(b)(iv) of the Drugs and Cosmetics Act 1940**, as amended, a me
 - **Investigation, replacement, or modification** of the anatomy or of a physiological process; or
 - **Supporting or sustaining life.**
 
-The article must not achieve its principal intended action in or on the human body by pharmacological, immunological, or metabolic means — such articles are regulated as drugs, not devices.
+Critically, the article must not achieve its principal intended action in or on the human body by pharmacological, immunological, or metabolic means. If it does, it is regulated as a drug under the Drugs and Cosmetics Act 1940, not as a medical device under MDR 2017.
 
 > **Official source:** [Drugs and Cosmetics Act 1940, Section 3(b)](https://cdsco.gov.in/opencms/opencms/en/Acts-Rules/Acts/)
 

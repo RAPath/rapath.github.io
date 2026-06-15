@@ -61,6 +61,6 @@ Upon registration, Class D manufacturers typically commit to:
 - Prompt reporting of any safety signals
 - Long-term follow-up studies where clinical data at registration was limited
 
-:::warning Plan for 12–18 Months
+:::warning Planning Timeline for Class D Registration
 For a first-time Class D registration in Malaysia with no prior approvals from recognised markets, plan for 12–18 months from dossier completion to DRN issuance. Prior approvals from FDA, TGA, CE-MDR, or HSA Class D/III equivalents significantly strengthen the application and may reduce review This timeline assumes submission of a complete, high-quality dossier and prompt responses to any deficiency letters. time to 9–12 months.
 :::

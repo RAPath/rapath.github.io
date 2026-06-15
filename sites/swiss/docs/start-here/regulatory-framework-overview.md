@@ -24,18 +24,19 @@ MedDO mirrors EU MDR 2017/745 in structure and substance; IVDO mirrors EU IVDR 2
 - Classification rules, GSPR requirements, conformity assessment routes, and technical documentation requirements are substantively identical
 - MDCG guidance generally applies in Switzerland — see [MDCG Guidance Applicability](../guidance/mdcg-guidance-applicability)
 - CE certificates from EU-designated NBs form the basis for Swiss market access (subject to MRA)
-- There are no Swiss-designated notified bodies. Manufacturers must designated under EU MDR/IVDR that are recognized in Switzerland under the MRA. use EU NBs
+- There are no Swiss-designated notified bodies. Manufacturers must use EU NBs designated under EU MDR/IVDR that are recognized in Switzerland under the MRA.
 
 ## Swissmedic's Role
-Swissmedic's pre-market role is primarily administrative (confirming registration completeness). Technical documentation is reviewed by EU NBs. Swissmedic's focus is market surveillance, vigilance management, and enforcement.
+Swissmedic's pre-market role is primarily administrative (confirming registration completeness). For Class I devices, Swissmedic conducts a completeness check of the Declaration of Conformity and technical documentation. For Class IIa and above, technical documentation assessment is performed by EU-designated notified bodies (NBs) before Swiss registration. Swissmedic's post-market focus is market surveillance, vigilance management, and enforcement.
 
 ## The MRA — Critical Variable
 The CH–EU MRA Chapter 4 determines whether CE-marked devices need separate Swiss registration. See [MRA with EU — Current Status](../legislation/mra-with-eu).
 
+For Class I devices, Swissmedic conducts a completeness check of the Declaration of Conformity and technical documentation. For Class IIa and above, technical documentation assessment is performed by EU-designated notified bodies (NBs) before Swiss registration. Swissmedic does not perform independent technical assessment but verifies that required documentation is present and that NB certification (where required) is valid under the MRA.
+
 ## Official Sources
 - [TPA (SR 812.21)](https://www.fedlex.admin.ch/eli/cc/2001/422/en)
 - [Swissmedic — medical devices overview](https://www.swissmedic.ch/swissmedic/en/home/medical-devices.html)
-
 
 :::warning Disclaimer
 Content is AI-assisted and intended as a navigation aid only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.

@@ -29,7 +29,7 @@ tags: [mdr, ivdr, eudamed, registration]
 - Vigilance reports and FSCAs
 - Market surveillance actions
 
-EUDAMED is operated by the European Commission (DG SANTE). Phased implementation began with MDR application in May 2021 and continues.
+EUDAMED is operated by the European Commission (DG SANTE). Phased implementation began with MDR application on 26 May 2021 and continues.
 
 ---
 
@@ -122,7 +122,12 @@ Always verify current status at **ec.europa.eu/tools/eudamed** — the Commissio
 | Commission Implementing Regulation (EU) 2017/2185 | EUDAMED structure |
 | EUDAMED user guides | ec.europa.eu/tools/eudamed |
 
-Complete the 'Official references' section with:
+Official references
+​
+- MDR Art. 28–33
+- IVDR Art. 25–30
+- Commission Delegated Regulation (EU) 2023/1971 (EUDAMED technical specifications)
+- EUDAMED User Manual (ec.europa.eu/tools/eudamed)
 
 Official references
 ​

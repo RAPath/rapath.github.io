@@ -35,7 +35,7 @@ One of the most impactful device provisions, **§ 520(o)** excludes certain soft
 | Transferring, storing, displaying data | Software that transfers data without analysing or interpreting it |
 | **Certain clinical decision support (CDS)** | CDS that is not the primary basis for a clinical decision and for which the basis for recommendation can be independently reviewed |
 
-The CDS exclusion in particular has been the subject of extensive FDA guidance (finalised in 2022) — determining whether software falls within or outside the exclusion is one of the most contested questions in US digital health regulation.
+The CDS exclusion in particular has been the subject of extensive FDA guidance (finalized in January 2021) — determining whether software falls within or outside the exclusion is one of the most contested questions in US digital health regulation.
 
 ---
 
@@ -60,3 +60,5 @@ The Act made additional modifications to the Humanitarian Device Exemption:
 - [FDA — 21st Century Cures Act Overview](https://www.fda.gov/regulatory-information/selected-amendments-fdc-act/21st-century-cures-act)
 
 Update the software exclusions section: 'The CDS exclusion in particular has been the subject of extensive FDA guidance — the FDA issued its final guidance on Software as a Medical Device (SaMD): Clinical Decision Support Software in January 2021, with PCCP guidance finalized in December 2023.'
+
+Update the sentence in the 'Software exclusions' section to read: 'The CDS exclusion in particular has been the subject of extensive FDA guidance — the FDA issued its final guidance on Software as a Medical Device (SaMD): Clinical Decision Support Software in January 2021, with PCCP guidance finalized in December 2023.'

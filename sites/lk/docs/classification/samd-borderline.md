@@ -59,3 +59,10 @@ Medical devices that emit radiation — X-ray, radiation therapy, nuclear medici
 2. **Atomic Energy Authority (AEA) of Sri Lanka** — under the Atomic Energy Authority Act
 
 Both approvals must be held before market supply. Start both processes in parallel. See [Radiation-Emitting Devices](/special-access/radiation-devices) for detailed guidance.
+
+Replace the AI/ML bullet points with: 'For SaMD using AI/ML algorithms:
+• Document the training data (source, size, diversity) and algorithm validation including accuracy, sensitivity, and specificity
+• Specify whether the algorithm uses a fixed model or allows for adaptive learning post-approval
+• Establish drift detection thresholds and define the learning boundary — changes beyond the pre-approved scope trigger a change notification
+• Declare whether the algorithm will continue to learn post-approval; if yes, describe the monitoring and re-validation process
+• Plan for post-market monitoring of algorithm performance in real-world use'

@@ -13,7 +13,7 @@ Devices incorporating **non-viable human tissues or cells**, or **non-viable ani
 **Human-derived materials (Rule 18):** Devices incorporating non-viable human tissues or cells (and their derivatives) are Class III. Procurement must comply with Swiss transplantation law and relevant EU tissue directives where applicable.
 
 ## Swissmedic Blood and Tissue Authority
-Swissmedic also serves as the competent authority for blood, tissues, and cells under Swiss law. There may be parallel authorisation requirements for the tissue/cell component in addition to the device registration.
+Swissmedic is the competent authority for blood, tissues, and cells under Swiss law (Transplantation Act and associated regulations). Devices incorporating human or animal tissues may be subject to dual oversight: device conformity assessment under MedDO and tissue/cell procurement and handling authorisation under Swiss transplantation law. Manufacturers should engage Swissmedic's tissue authority early to identify any parallel requirements.
 
 ## Official Sources
 - [MedDO Annex I Chapter II § 13 (SR 812.213)](https://www.fedlex.admin.ch/eli/cc/2021/205/en)

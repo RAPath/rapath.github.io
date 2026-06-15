@@ -7,7 +7,7 @@ last_reviewed: 2026-04-30
 
 ## What is Guidance?
 
-TGA guidance documents explain how the Therapeutic Goods Act 1989 and the MD Regulations apply in practice. They represent the TGA's current interpretation and expectations. Following TGA guidance is not legally mandatory — you may take a different approach if you can demonstrate compliance with the underlying legislative requirements. However, guidance represents the clearest path to demonstrating compliance, and deviating from it without justification risks audit findings or rejection.
+TGA guidance documents explain how the Therapeutic Goods Act 1989 and the MD Regulations apply in practice. They represent the TGA's current interpretation and expectations. Following TGA guidance is not legally mandatory — you may take a different approach if you can demonstrate compliance with the underlying legislative requirements. However, guidance represents the clearest path to demonstrating compliance. Deviating from guidance without documented justification significantly increases the risk of audit findings, application rejection, or regulatory action.
 
 The **Australian Regulatory Guidelines for Medical Devices (ARGMD)** is the TGA's primary index of all guidance relevant to medical devices. It is a living document, updated as new guidance is published.
 
@@ -131,6 +131,22 @@ The **Australian Regulatory Guidelines for Medical Devices (ARGMD)** is the TGA'
 | Authorised prescribers — medical devices | Health practitioner authorisation pathways | [TGA](https://www.tga.gov.au/products/medical-devices/accessing-unapproved-medical-devices/authorised-prescribers) |
 
 ---
+
+
+Add a new section 'Post-Market Surveillance & Adverse Events' with:
+
+Post-market surveillance and monitoring
+TGA obligations for ongoing safety and performance monitoring
+TGA
+Serious adverse event definitions
+Defining serious adverse events for reporting purposes
+TGA
+Recall management and PRAC procedure
+The Procedure for Recalls, Product Alerts and Product Corrections (PRAC)
+TGA
+
+
+Complete the entry: 'Personalised medical devices — Guidance for personalised and patient-specific medical devices — TGA'
 
 ## Related Pages
 

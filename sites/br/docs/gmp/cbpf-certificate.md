@@ -15,7 +15,7 @@ The **CBPF** (*Certificado de Boas Práticas de Fabricação*) issued by ANVISA 
 3. Any non-conformities found must be corrected.
 4. Upon satisfactory resolution, ANVISA issues a new CBPF.
 
-A lapsed CBPF means the manufacturer cannot legally manufacture and sell Class II, III, or IV devices in Brazil, and the registration holder cannot import under an expired foreign GMP certificate. ANVISA may suspend the product registration if the CBPF is not renewed.
+A lapsed CBPF means the manufacturer cannot legally manufacture Class II, III, or IV devices in Brazil, and registered devices cannot be legally imported or distributed. ANVISA automatically suspends product registrations if the CBPF is not renewed before expiration, and the suspension remains in effect until a new CBPF is obtained and provided to ANVISA.
 
 ---
 

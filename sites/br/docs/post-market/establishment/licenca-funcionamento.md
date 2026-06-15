@@ -20,7 +20,7 @@ The municipal VISA licence covers:
 
 Licença de Funcionamento is typically renewed annually and requires payment of municipal fees. Failure to maintain a current Licença de Funcionamento can result in local VISA enforcement actions, including interdição of the premises.
 
-The ANVISA AFE and the municipal Licença de Funcionamento are complementary — both are required. Although a company may technically hold an AFE without a current Licença de Funcionamento (and vice versa), operating a physical facility without both authorisations violates Brazilian health surveillance law and exposes the company to municipal and federal enforcement actions, including facility interdição and operating penalties.
+The ANVISA AFE and the municipal Licença de Funcionamento are complementary — both are required. Both the AFE and Licença de Funcionamento are legally required and must be current. Operating a physical facility without either authorisation violates Brazilian health surveillance law and exposes the company to enforcement actions, including facility interdição (closure), fines, and suspension of operating authorisation.
 
 ---
 

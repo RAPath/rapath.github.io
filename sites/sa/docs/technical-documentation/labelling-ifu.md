@@ -19,7 +19,7 @@ Device labelling in Saudi Arabia must comply with the requirements in **MDS-REQ 
 - Instructions for use reference (or abbreviated IFU on label)
 - Storage and handling conditions
 - Single-use symbol (where applicable)
-- CE marking is not required — but may appear if the device is also CE-marked
+- CE marking is not required for Saudi registration — it must not appear on labelling intended for the Saudi market unless the device is concurrently CE-marked for EU distribution, in which case separate labelling for each market is recommended to avoid regulatory confusion
 
 ## Language requirements
 
@@ -29,7 +29,7 @@ Device labelling in Saudi Arabia must comply with the requirements in **MDS-REQ 
 | **Home-use (consumer/lay user) devices** | **Arabic labelling is mandatory** |
 
 :::warning Arabic labelling
-Devices intended for use by lay persons (patients, home users) must have labelling and IFU in **Arabic**. Professional-use device labelling may be in English, but adding Arabic is good practice given the Saudi patient population.
+Devices intended for use by lay persons (patients, home users) must have labelling and IFU in **Arabic**. Professional-use device labelling may be in English. However, adding Arabic translation is recommended, particularly if the device may be used by healthcare workers whose primary language is Arabic, or in settings where dual-language labelling improves safety and compliance.
 :::
 
 ## Instructions for Use (IFU)
@@ -60,3 +60,11 @@ All promotional and advertising materials for medical devices require **pre-appr
 - [Post-Market Labelling & Advertising](../post-market/labelling-advertising)
 
 While English is acceptable for professional-use devices, manufacturers should consider providing Arabic translations on labels even for professional devices, as many healthcare professionals in Saudi Arabia may benefit from bilingual labelling. This supports compliance with good manufacturing practice and user safety principles.
+
+Prohibited markings
+
+Device labels must not carry:
+CE marking (unless the device is also CE-marked for concurrent EU distribution)
+Misleading symbols or claims about performance or safety not supported by clinical evidence
+False indication of regulatory approval in other jurisdictions
+Any marking that could confuse users about the device's actual regulatory status in Saudi Arabia

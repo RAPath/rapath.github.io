@@ -25,3 +25,7 @@ MFDS prohibits reprocessing of certain high-risk SUDs (cardiac catheters, implan
 • Implement post-market surveillance to monitor device performance
 ​
 Reprocessed devices must bear new labelling and UDI-K codes.
+
+Reprocessor approval timeline
+
+Reprocessors must obtain MFDS approval before marketing reprocessed devices. The approval process requires: (1) submission of detailed reprocessing protocols including cleaning procedures, sterilisation methods, and quality control testing; (2) bench-top and performance validation studies demonstrating the device functions as intended after reprocessing; (3) traceability documentation linking original device manufacturer to the reprocessed product; and (4) liability insurance or manufacturer consent. Approval timelines typically range from 3–6 months for standard SUDs to 6–12 months for complex devices. Reprocessors are legally responsible for device safety and must maintain post-market surveillance records.

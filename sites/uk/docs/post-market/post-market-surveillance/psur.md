@@ -110,4 +110,14 @@ PSURs are not routinely published but are treated as confidential technical docu
 | MHRA: Post-market surveillance guidance | PSUR requirements |
 | EU MDR 2017/745, Art. 86 | EU PSUR requirements (applies in NI — detailed reference) |
 
-If the PSUR concludes that the benefit-risk ratio is no longer clearly favourable, or if continued suitability for the market is in doubt, the manufacturer must: (1) notify MHRA and the UKAB immediately; (2) assess whether modifications, additional warnings, or restrictions on use are needed; (3) evaluate whether the device should be withdrawn from the market; (4) document the decision and rationale; (5) cooperate with any MHRA investigation or enforcement action.
+If the PSUR concludes that the benefit-risk ratio is no longer clearly favourable, or if continued suitability for the market is in doubt, the manufacturer must take the following action immediately:
+
+1. Notify MHRA and the UKAB in writing within 10 working days, detailing the safety concern and proposed action
+2. Conduct a formal risk assessment to determine whether the device can remain on the market with additional controls
+3. Consider modifications to the device design, risk management, technical file, or IFU that would restore an acceptable benefit-risk balance
+4. If modifications are insufficient, evaluate whether the device should be withdrawn from the GB market
+5. Implement any agreed action (including FSCA, restricted distribution, restricted indication) without undue delay
+6. Document the decision, rationale, and actions in the vigilance file and next PSUR
+7. Cooperate with any MHRA investigation or enforcement action
+
+Failure to take prompt action when a PSUR signals an unacceptable benefit-risk ratio may expose the manufacturer to enforcement action and personal liability.

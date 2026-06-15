@@ -12,3 +12,5 @@ Indian legislation is published in the **Official Gazette of India** ([egazette.
 The Medical Devices Rules 2017 is available at the [CDSCO medical devices rules page](https://cdsco.gov.in/opencms/opencms/en/Medical-Device-Diagnostics/Medical-Device-Diagnostic-Rules/).
 
 In addition to the Medical Devices Rules 2017, medical device companies must reference Indian Standards (IS) published by BIS (Bureau of Indian Standards) that specify technical requirements for various device categories. These standards are often referenced in device approvals and must be followed for manufacturing and testing.
+
+Device approval letters and specific regulatory guidance are available upon request from CDSCO or may be publicly referenced on the CDSCO website under approved device listings. Companies should maintain approved Device Master Files (DMF) with CDSCO, which contain proprietary manufacturing and quality data. Updates to DMF must be submitted within specified timeframes to maintain approval validity.

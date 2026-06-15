@@ -28,4 +28,6 @@ keywords: [ANVISA, Brazil, medical device]
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
 
+Class I devices registered via Notificação are generally exempt from pre-market clinical evidence requirements. However, any claims regarding therapeutic efficacy, diagnostic accuracy, or clinical benefit must be supported by published literature or technical justification; purely descriptive claims (e.g., 'sterile surgical gloves') do not require supporting evidence. Class I devices registered via Cadastro or higher pathways should include appropriate clinical justification.
+
 Class I devices registered via Notificação are generally exempt from clinical evidence requirements, though safety-related claims may require supporting data. Class I devices registered via Cadastro or higher pathways should include appropriate clinical justification.

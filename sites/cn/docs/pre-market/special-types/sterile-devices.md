@@ -42,3 +42,7 @@ Content on this site is written with AI assistance and is intended as a navigati
 :::
 
 Sterile Device Requirements: Sterile devices must be sterilized using validated methods (steam sterilization, ethylene oxide, radiation, or other approved methods) and packaged to maintain sterility. Documentation must include: sterilization validation studies (ISO 11135, ISO 11137, or equivalent), bioburden and endotoxin testing, sterility assurance level (SAL) achievement data, and shelf-life validation under defined storage conditions. Packaging materials must demonstrate barrier integrity and compatibility with the sterilization method. All documentation must follow MDSAR 2021 and applicable YY/T standards.
+
+Add a section: 'Sterile Device Requirements: Sterile devices must be sterilized using validated methods (steam sterilization, ethylene oxide, radiation, or other approved methods) and packaged to maintain sterility. Documentation must include: sterilization validation studies (ISO 11135, ISO 11137, or equivalent), bioburden and endotoxin testing, sterility assurance level (SAL) achievement data, and shelf-life validation under defined storage conditions. Packaging materials must demonstrate barrier integrity and compatibility with the sterilization method. All documentation must follow MDSAR 2021 and applicable YY/T standards.'
+
+Remove the 'Full content to be completed during editorial review' statement from the introduction.

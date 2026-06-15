@@ -11,7 +11,7 @@ Post-market surveillance (PMS) is the systematic, active process of collecting a
 ## PMS Plan
 The PMS plan (required by MedDO Annex III para. 1) must cover:
 - Methods and procedures for proactively collecting post-market data
-- Data sources: complaint data and complaint trending, vigilance reports from Swissmedic and internal manufacturer records, peer-reviewed published literature, clinical registries, post-market clinical follow-up (PMCF) data, information from notified bodies (NBs) and other competent authorities, and equivalent device data where applicable
+- Data sources: complaint data and complaint trending; vigilance reports from Swissmedic; internal manufacturer records; peer-reviewed published literature; clinical registries; post-market clinical follow-up (PMCF) data; information from notified bodies (NBs) and other competent authorities; and equivalent device data where applicable
 - Thresholds and criteria for triggering corrective action
 - How PMS data feeds back into risk management and technical documentation
 
@@ -35,6 +35,16 @@ The PMS plan (required by MedDO Annex III para. 1) must cover:
 
 ## Feedback Loop
 PMS data must be used to update: the risk management file; the clinical evaluation report; the GSPR compliance matrix; and where applicable the SSCP. This feedback loop is assessed during NB surveillance audits.
+
+
+Add a new section under 'Feedback Loop':
+
+**Significant Changes Requiring PMS Plan Updates**
+
+Manufacturers must update the PMS plan when significant changes occur, including: changes to the device design, manufacturing process, or labeling; new safety signals or performance issues; changes to the risk profile; or updates to applicable standards or regulatory requirements. The PMS plan should be reviewed at least annually and updated as needed to reflect the current post-market experience.
+
+
+Add a clarifying note after the table: 'For Class I devices, significant changes triggering PMS report submission include: new indications, major design modifications, new manufacturing sites, changes to materials or biocompatibility data, updates to risk management based on post-market data, or new safety signals from post-market surveillance.'
 
 ## Official Sources
 - [MedDO Annex III (SR 812.213)](https://www.fedlex.admin.ch/eli/cc/2021/205/en)

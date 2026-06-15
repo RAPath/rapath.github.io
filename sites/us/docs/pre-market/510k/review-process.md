@@ -78,3 +78,5 @@ FDA publishes quarterly MDUFA performance reports on its website.
 - [FDA MDUFA Performance Reports](https://www.fda.gov/industry/fda-user-fee-programs/medical-device-user-fee-amendments-mdufa/mdufa-performance-reports)
 
 Important timing note: The MDUFA 90-calendar-day clock does not begin until FDA accepts a complete submission. If an RTA is issued, the resubmitted application is treated as a new submission with its own 90-day review period starting from acceptance of the complete resubmission.
+
+Replace the 'Tips for AI requests' bullet with: "Tips for AI requests: Respond completely and promptly within the specified timeframe — the review clock pauses while awaiting your response and resumes when FDA receives your answer. Partial or incomplete responses may result in the clock restarting without credit for your first attempt. Address each question individually and specifically in a clear question-by-question format."

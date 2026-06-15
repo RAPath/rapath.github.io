@@ -46,3 +46,15 @@ For a claim to be compliant, it must:
 3. Be accurate and not misleading in context
 
 > **Legislative source:** Food and Drugs Act, RSC 1985, c F-27, ss 9 and 20 (advertising offences); Medical Devices Regulations, SOR/98-282
+
+Reformat this section:
+
+'Under the Food and Drugs Act, "advertising" includes any representation by any means for the purpose of promoting the sale of a medical device. This covers:
+
+• Print and digital advertisements (magazines, journals, online ads)
+• Trade show displays and demonstrations
+• Sales representative materials and presentations (including testimonials and case studies)
+• Websites and social media content with promotional or clinical data
+• Press releases with product claims or specific indications
+• Patient education materials that promote use
+• Technical summaries and white papers distributed to healthcare professionals'

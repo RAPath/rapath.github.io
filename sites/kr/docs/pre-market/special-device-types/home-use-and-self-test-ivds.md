@@ -30,3 +30,7 @@ Home-use IVDs typically require a 품목허가 (product license) submission. The
 IFU requirements
 ​
 Korean-language IFU must include: step-by-step instructions with photographs or diagrams, clear identification of positive/negative/invalid results, troubleshooting guidance, storage conditions, shelf life, and safety warnings specific to lay users (e.g., when to seek professional medical advice). QR codes linking to video tutorials or online support are recommended.
+
+Post-market surveillance
+
+Manufacturers of home-use IVDs must implement enhanced post-market surveillance to monitor adverse events and performance issues in the lay user population. This includes: (1) systems for collecting and analyzing user complaints and adverse events; (2) regular review of misuse patterns or user comprehension failures; (3) periodic safety updates or labelling revisions based on real-world use data; and (4) reporting of serious adverse events to MFDS within the required timeframe. Given that lay users lack professional training, particular attention should be paid to usability failures and incorrect result interpretation.

@@ -22,7 +22,9 @@ MFDS has authority to **suspend or cancel** manufacturer or importer licences (t
 
 ## Impact
 
-During suspension: manufacturer/importer must cease supply of affected products. Cancellation requires a new licence application and re-approval of all products.
+During suspension: the manufacturer/importer must immediately cease supply of all affected products. The suspension remains in effect until MFDS confirms that corrective actions have been completed and re-inspection confirms compliance. Cancellation is permanent and requires the entity to submit a new licence application with demonstration of complete resolution of the issues that led to cancellation, including re-approval of all previously approved products.
 
 ## Related pages
 - [MFDS inspections and administrative actions](./mfds-inspections-and-actions) · [Enforcement — administrative actions](../enforcement-compliance/administrative-actions)
+
+MFDS has authority to suspend or cancel manufacturer or importer licences in serious cases. A suspension is temporary and remains in effect until MFDS confirms that corrective actions have been completed and re-inspection confirms compliance. Cancellation is permanent and requires the entity to submit a new licence application with demonstration of complete resolution of the issues that led to cancellation, including re-approval of all associated 품목허가.

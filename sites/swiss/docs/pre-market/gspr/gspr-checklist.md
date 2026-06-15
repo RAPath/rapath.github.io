@@ -21,10 +21,15 @@ A **GSPR compliance matrix** maps every applicable MedDO Annex I requirement to 
 | Status | Compliant / Non-compliant / In progress |
 
 ## Handling Non-Applicable Requirements
-Every non-applicable GSPR must include a device-specific justification. "Not applicable to this type of device" is insufficient — the justification must be specific to this device's design, materials, and intended use.
+Every non-applicable GSPR requirement must include a specific, documented justification based on the device's design, materials, manufacturing process, and intended use. Generic justifications such as "not applicable to this type of device" are insufficient and will be questioned by the NB during conformity assessment. The justification should explain why the requirement logically does not apply to this specific device (e.g., "no biological materials used, therefore GSPR Chapter VI (biological hazards) not applicable").
 
 ## Gap Analysis Before NB Submission
 Before submitting to an NB, conduct a thorough gap analysis to identify: GSPRs with incomplete or missing testing; outdated or superseded standard references; requirements addressed only by internal documents without independent external validation (such as standards compliance or third-party testing); device-specific GSPR interpretations that lack documented justification; missing evidence of post-market surveillance planning for identified GSPR-related risks.
+
+
+Design-Based Compliance (Non-Standard Approaches)
+​
+If a GSPR requirement is addressed through proprietary design, material selection, or manufacturing process rather than a published standard, the compliance matrix must include: detailed technical description of the design feature or process; engineering justification or risk analysis explaining why the approach meets the GSPR requirement; results of any validation testing, simulation, or analysis supporting the design approach; reference to any internal design specifications or process documentation; evidence that the approach has been reviewed and approved by the design review or risk management process. Design-based compliance requires stronger technical evidence and may receive closer scrutiny from the NB.
 
 ## Official Sources
 - [MedDO Annex I (SR 812.213)](https://www.fedlex.admin.ch/eli/cc/2021/205/en)

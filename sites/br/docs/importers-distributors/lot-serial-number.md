@@ -16,9 +16,9 @@ All medical devices placed on the Brazilian market must have clearly visible **l
 Lot/batch numbers and serial numbers must be:
 - Permanent and legible;
 - Placed in a location that will not be obscured or damaged in normal use; and
-- Preceded by the word "Lote:" or the batch symbol.
+- Preceded by the word "Lote:" (Portuguese for "Batch:") or the internationally recognized batch symbol. For imported devices, both Portuguese and manufacturer labeling must comply with the registered device specifications.
 
-These markings enable ANVISA and healthcare facilities to trace devices involved in adverse events or recalls back to specific production batches and distribution chains.
+These markings enable ANVISA, healthcare facilities, and distributors to rapidly trace devices involved in adverse events or recalls back to specific production batches, manufacturing dates, and distribution chains for targeted recall actions.
 
 ---
 

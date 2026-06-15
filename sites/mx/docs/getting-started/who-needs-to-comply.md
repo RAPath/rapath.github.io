@@ -69,4 +69,6 @@ Hospitals, clinics, and laboratories are required to:
 - [Technovigilance overview](../postmarket/technovigilance-overview)
 - [Quality System — NOM-241](../quality-system/nom-241-overview)
 
-The MRH must designate a Responsable Sanitario (Health Manager) — a qualified professional with appropriate technical and pharmaceutical training — to oversee regulatory compliance and technovigilance activities. This role is mandatory and must be formally registered with COFEPRIS.
+The MRH must designate a Responsable Sanitario (Health Manager) — a qualified professional with appropriate technical training in medical devices and regulatory affairs — to oversee regulatory compliance and technovigilance activities. Pharmaceutical training alone may be insufficient; COFEPRIS may require demonstration of device-specific regulatory knowledge. This role is mandatory and must be formally registered with COFEPRIS.
+
+Expand the section 'Mexico Registration Holder (MRH)' to include: 'The MRH must designate a Responsable Sanitario (Health Manager) — a qualified professional with appropriate technical and pharmaceutical training — to oversee regulatory compliance and technovigilance activities. This role is mandatory and must be formally registered with COFEPRIS.'

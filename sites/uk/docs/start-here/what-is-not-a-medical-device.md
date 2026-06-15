@@ -166,3 +166,5 @@ MHRA also participates in the **Borderline and Classification Section (BCS)** ne
 | MHRA: Pre-submission meetings | How to request a borderline opinion from MHRA |
 
 The truncated text ends with 'If a supplement makes claims to diagnose, prevent, treat, or alleviate a specific disease, it risks being characterised as an unlicensed medicinal product or a medical device depending on i'. This section must be completed with full criteria for distinguishing between medical devices, medicinal products, and food supplements.
+
+Expand the 'UK vs EU: no Annex XVI in GB' section: 'The products in Annex XVI of EU MDR 2017/745 that are regulated as medical devices in the EU but not in GB include: non-corrective cosmetic contact lenses, injectable dermal fillers for aesthetic use, and lipolysis equipment for non-therapeutic aesthetic use. Manufacturers of these products may currently place them on the GB market outside UK MDR 2002, though they must comply with relevant cosmetics or general product safety regulations.'

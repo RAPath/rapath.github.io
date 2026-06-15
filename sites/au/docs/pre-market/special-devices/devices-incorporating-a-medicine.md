@@ -34,6 +34,9 @@ For devices incorporating a medicine, the manufacturer must demonstrate complian
 - Biocompatibility assessment
 - Clinical evidence for the combined product
 
+
+In addition to post-market surveillance obligations for the device component, manufacturers of combination products must also ensure ongoing compliance with medicinal product requirements, including pharmacovigilance reporting for the medicine component. Adverse events related to either the device or medicine component must be reported to the TGA. Manufacturers should establish a quality system that covers both device and medicine aspects of the product and tracks adverse events affecting either component.
+
 ## Official Sources
 
 - [Devices incorporating a medicine — TGA](https://www.tga.gov.au/products/medical-devices/specific-types-medical-devices/devices-incorporating-medicine-substance)

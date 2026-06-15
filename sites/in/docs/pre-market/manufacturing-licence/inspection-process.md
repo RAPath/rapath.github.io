@@ -24,3 +24,7 @@ India's manufacturing licence framework splits authority between **CDSCO** (Clas
 - CDSCO/SLA inspection prior to grant of licence.
 
 > **Official source:** Medical Devices Rules 2017, Chapter IV; [CDSCO](https://cdsco.gov.in)
+
+Inspection Framework:
+
+Inspections include: pre-grant inspection (mandatory before licence issuance); routine inspections (conducted at least once every 2 years); and surprise inspections (for compliance verification). Inspectors assess GMP compliance, quality system implementation, and record-keeping. Inspection reports are communicated to applicants with timelines for remedial action. Non-compliance may result in licence suspension or cancellation.

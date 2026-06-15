@@ -31,6 +31,9 @@ Advertising and promotion of medical devices in Switzerland is regulated by the 
 ## Swissmedic Oversight
 Swissmedic can review advertising on its own initiative or following complaints. Enforcement actions range from requesting withdrawal of non-compliant advertising to formal administrative proceedings under TPA.
 
+
+Add after 'Enforcement actions range from requesting withdrawal of non-compliant advertising to formal administrative proceedings under TPA.': 'Swissmedic typically provides a grace period for voluntary withdrawal of non-compliant advertising. Manufacturers should contact Swissmedic immediately upon receipt of an enforcement notice to discuss remediation timelines.'
+
 ## Official Sources
 - [TPA Chapter 4 — Advertising (SR 812.21)](https://www.fedlex.admin.ch/eli/cc/2001/422/en)
 - [Swissmedic — Advertising guidance](https://www.swissmedic.ch/swissmedic/en/home/medical-devices/market-surveillance.html)

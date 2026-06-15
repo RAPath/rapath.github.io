@@ -34,6 +34,10 @@ The CH REP is jointly and severally liable with the manufacturer for regulatory 
 | Joint liability | Yes | Yes |
 | Can one person hold both roles? | Only if established in both | Only if established in both |
 
+Add to the 'Who Must Appoint a CH REP' section after 'subject to MRA status':
+
+'The operational status of the CH–EU MRA directly affects whether CE-marked devices from EU manufacturers require CH REP appointment and DAPI registration in Switzerland. This status should be verified directly with Swissmedic before making market access decisions. See MRA with EU — Current Status for the latest position and implementation timeline.'
+
 ## Official Sources
 - [MedDO Art. 56–59 (SR 812.213)](https://www.fedlex.admin.ch/eli/cc/2021/205/en)
 - [Swissmedic — Authorised representative](https://www.swissmedic.ch/swissmedic/en/home/medical-devices/market-access/authorised-representative.html)
@@ -42,7 +46,6 @@ The CH REP is jointly and severally liable with the manufacturer for regulatory 
 - [CH REP — Full Obligations Guide](../non-swiss-access/ch-rep-obligations)
 - [Requirements for Non-Swiss Manufacturers](../non-swiss-access/requirements-for-non-swiss)
 - [MRA with EU — Current Status](../legislation/mra-with-eu)
-
 
 :::warning Disclaimer
 Content is AI-assisted and intended as a navigation aid only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.

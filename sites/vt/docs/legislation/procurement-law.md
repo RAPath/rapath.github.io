@@ -22,7 +22,7 @@ Under the public procurement framework:
 - The tendering entity must be the holder of the registration or the authorised representative/distributor
 
 :::warning Plan registration timelines with procurement in mind
-If your commercial goal is to supply public hospitals, factor in registration timelines when planning market entry. A Type C device can take 12+ months to obtain marketing authorisation — if you start the registration process after entering a market, you will be frozen out of public tenders during that period.
+If your commercial goal is to supply public hospitals, begin the registration process well in advance of any planned tender participation. A Type C device typically requires 18–24 months for marketing authorisation approval from initial submission. If you delay registration until after market entry or after a procurement tender is announced, you will be unable to participate in that tender cycle. Work backwards from your target procurement date to determine when you must initiate the registration process.
 :::
 
 ## Sole-source and non-tender procurement

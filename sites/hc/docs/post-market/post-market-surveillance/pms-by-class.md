@@ -6,7 +6,7 @@ description: Post-market surveillance requirements for each device class in Cana
 # Post-Market Surveillance Requirements by Class
 
 ## Overview
-All manufacturers are expected to conduct post-market surveillance (PMS) appropriate to the risk class of their device. The MDR does not prescribe a specific PMS methodology, but Health Canada expects a systematic, documented approach.
+All manufacturers are expected to conduct post-market surveillance (PMS) appropriate to the risk class of their device. The Medical Devices Regulations (MDR) do not prescribe a specific PMS methodology, but Health Canada expects a systematic, documented, and risk-proportionate approach. The scope and intensity of PMS should reflect the device's risk class, intended use, and post-market evidence maturity.
 
 ## Class I
 **Required:** Basic QMS-based monitoring

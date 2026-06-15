@@ -16,7 +16,7 @@ The Todokede notification must contain:
 - **Manufacturing site information** — name and address of the manufacturing site(s); FMR number for foreign sites
 - **MAH licence number** — confirming the MAH holds a valid licence
 
-Unlike a Shonin application, no technical documentation, clinical data, or risk management summary is submitted with a Todokede.
+Unlike a Shonin or Ninsho application, no technical documentation, clinical data, or risk management summary is submitted with a Todokede. The MAH assumes full responsibility for safety and standards compliance.
 
 ## Step-by-step process
 
@@ -37,3 +37,5 @@ Unlike a Shonin application, no technical documentation, clinical data, or risk 
 ## Changes to a Todokede notification
 
 If any of the notified information changes — device name, manufacturing site, intended use — the MAH must file a change notification with the same prefectural government. Changes that elevate the device's class (e.g. an expanded intended use that makes the device a Class II) require withdrawal of the Todokede and filing of a new Ninsho or Shonin application.
+
+Receive acknowledgement. The prefectural government acknowledges the notification and issues a reference number. Acknowledgement timelines vary by prefecture, typically ranging from a few days to 2–3 weeks. Contact your local prefectural government for their specific processing timeline.

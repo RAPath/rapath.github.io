@@ -25,4 +25,8 @@ Certain provisions affect the supply of medical products to the public.
 
 Consultation has occurred on a statutory framework. If enacted, listing would become legally mandatory. See [Reform Outlook](/legislation/reform-outlook).
 
-Radiation devices require separate approval under the Radiation Ordinance and are subject to additional inspection and licensing. Submit MDACS applications and Radiation Ordinance applications concurrently; processing timelines are independent. Consult the Radiation Protection Bureau for specific requirements.
+**Radiation Devices — Dual Approval Pathway**
+
+Devices that emit ionizing or non-ionizing radiation (X-ray equipment, ultrasound, laser, radioactive sources) require approval under both MDACS and the Radiation Ordinance (Cap. 303):
+
+Add after Radiation Ordinance entry: 'Radiation devices require separate approval under the Radiation Ordinance and are subject to additional inspection and licensing. Submit MDACS applications and Radiation Ordinance applications concurrently; processing timelines are independent. Consult the Radiation Protection Bureau for specific requirements.'

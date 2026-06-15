@@ -33,7 +33,7 @@ Brazil's medical device regulatory system — led by **ANVISA** — is one of th
 - Long review timelines for Class III/IV Registro (12–36 months)
 - Portuguese language requirement for all labelling and submissions
 - Three-tier regulatory system (federal + state + municipal) adds complexity
-- Importer as registration holder model: Foreign manufacturers must appoint a Brazilian legal entity (importer/distributor) as the registration holder, creating additional compliance obligations and reliance on third-party representation
+- Importer as registration holder model: Foreign manufacturers must appoint a Brazilian legal entity (importer/distributor) as the registration holder. This entity assumes full regulatory responsibility for the device in Brazil and must maintain technical and post-market surveillance documentation. The registration holder is accountable for compliance with all ANVISA obligations, including adverse event reporting and recalls.
 - AFE (Establishment Authorisation) requirement: All manufacturers and importers must obtain an AFE certificate (Certificado de Autorização de Funcionamento) before commercialising devices, adding and timeline compliance cost
 
 ## Official resources
@@ -48,3 +48,7 @@ Verify all information against official [ANVISA](https://www.gov.br/anvisa) sour
 :::
 
 Current regulatory framework: Medical device registration is governed by RDC 751/2022 (replacing RDC 185/2001), which aligns Brazil's requirements with IMDRF standards and ISO 13485. The regulation is supported by four companion RDCs covering GMP (RDC 752/2022), adverse events (RDC 753/2022), labelling (RDC 754/2022), and establishment authorisation (RDC 755/2022).
+
+Add after the 'Key strengths' section: 'Current regulatory framework: Medical device registration is governed by RDC 751/2022 (replacing RDC 185/2001), which aligns Brazil's requirements with IMDRF standards and ISO 13485. The regulation is supported by four companion RDCs covering GMP (RDC 752/2022), adverse events (RDC 753/2022), labelling (RDC 754/2022), and establishment authorisation (RDC 755/2022).'
+
+AFE renewal and validity: AFE certificates are typically valid for 2 years and require renewal before expiration. ANVISA conducts inspections as part of AFE assessment, which can extend timelines by 3–6 months depending on inspection findings and facility location.

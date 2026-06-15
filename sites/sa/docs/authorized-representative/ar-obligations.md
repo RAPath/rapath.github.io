@@ -48,3 +48,7 @@ The AR must **implement and maintain a QMS** certified to ISO 13485 (SFDA.MD/GSO
 - [Changing Your AR](./changing-ar)
 
 Adverse event reporting — report serious incidents and near-incidents to the NCMDR within required timeframes (refer to MDS-REQ 5 for specific reporting timelines based on severity and device classification). The AR must establish a system for capturing, evaluating, and escalating adverse event reports from healthcare facilities and end users.
+
+Expand the 'Adverse event reporting' bullet point to read: 'Adverse event reporting — report serious incidents and near-incidents to the NCMDR within required timeframes (refer to MDS-REQ 5 for specific reporting timelines based on severity and device classification). The AR must establish a system for capturing, evaluating, and escalating adverse event reports from healthcare facilities and end users.'
+
+Remove the duplicated detailed paragraph at the end that reads: 'Adverse event reporting — report serious incidents and near-incidents to the NCMDR within required timeframes (refer to MDS-REQ 5 for specific reporting timelines based on severity and device classification). The AR must establish a system for capturing, evaluating, and escalating adverse event reports from healthcare facilities and end users.' Keep only the bullet point version in the Post-market obligations section.

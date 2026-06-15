@@ -13,7 +13,7 @@ Ninsho (認証) is Japan's pre-market certification pathway for Class II devices
 
 A Ninsho certificate authorises the Japan-domiciled MAH to place the certified device on the Japanese market. The certificate specifies the device, the applicable recognised standard, the MAH, and the manufacturing site. The RCB maintains a register of its certifications.
 
-Ninsho certificates do not expire in the same way as EU CE certificates — they remain valid as long as the RCB's ongoing surveillance confirms continued conformity and the MAH's business licence is current. However, the RCB conducts periodic surveillance audits.
+Ninsho certificates do not expire in the same way as EU CE certificates — they remain valid indefinitely as long as the RCB's ongoing surveillance confirms continued conformity, the RCB maintains its accreditation status, and the MAH's business licence is current. However, the RCB conducts periodic surveillance audits.
 
 ## Which devices are eligible for Ninsho
 
@@ -40,3 +40,20 @@ The MAH that holds a Ninsho certificate has the same core post-market obligation
 The Ninsho certification process typically takes 6–12 months from submission to issuance, depending on RCB workload and the complexity of the technical documentation. This is significantly faster than the Shonin pathway.
 
 If an RCB loses its accreditation status, MHLW may require affected Ninsho holders to transition their certifications to another accredited RCB or, in some cases, to undergo Shonin approval.
+
+Add to the 'What Ninsho authorises' section: 'The Ninsho certification process typically takes 6–12 months from submission to issuance, depending on RCB workload and the complexity of the technical documentation. This is significantly faster than the Shonin pathway.'
+
+Add to the 'Ninsho certificates do not expire' paragraph: 'If an RCB loses its accreditation status, MHLW may require affected Ninsho holders to transition their certifications to another accredited RCB or, in some cases, to undergo Shonin approval.'
+
+Add a new subsection titled 'Finding and Working with an RCB' with the following text:
+
+**Finding and Working with an RCB**
+
+RCBs are accredited by MHLW and must maintain their accreditation status through regular audits and compliance demonstrations. MHLW publishes a current list of accredited RCBs on its website. When selecting an RCB, consider:
+
+- The RCB's experience with your specific device type or technology platform
+- Whether the RCB holds accreditation for the recognised standard(s) applicable to your device
+- Geographic location and language support (most major RCBs have English-speaking technical staff)
+- Timeline expectations and fee structure
+
+Many RCBs operate across Japan and internationally; it is common for foreign MAHs to work with the same RCB for multiple device submissions.

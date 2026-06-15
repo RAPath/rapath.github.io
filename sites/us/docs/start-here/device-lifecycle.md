@@ -94,3 +94,7 @@ The regulatory lifecycle of a medical device under FDA encompasses three main ph
 - [FDA — Device Regulatory Pathway (Decision Chart)](https://www.fda.gov/medical-devices/overview-device-regulation/regulatory-controls)
 
 Post-market surveillance requirements vary by device class and risk profile. FDA may impose mandatory §522 post-market surveillance study orders for higher-risk devices, particularly those approved under PMA. Class I and II devices may be subject to surveillance only in specific cases.
+
+Add to Step 13: 'Post-market surveillance requirements vary by device class and risk profile. FDA may impose mandatory §522 post-market surveillance study orders for higher-risk devices, particularly those approved under PMA. Class I and II devices may be subject to surveillance only in specific cases.'
+
+Expand 'Step 3: Determine the market pathway' bullet point for Class I/II (novel): 'Class I/II (novel) → De Novo classification request (appropriate when no predicate exists and the device is Class I or II; De Novo results in new product code and classification, enabling subsequent 510(k) clearance for similar devices)'

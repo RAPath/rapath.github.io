@@ -23,4 +23,8 @@ NMPA enforcement authority and penalties are provided under:
 Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [NMPA](https://www.nmpa.gov.cn/) sources before making regulatory decisions. Not affiliated with NMPA or any Chinese Government body. Not legal or regulatory advice.
 :::
 
-MDSAR 2021 Chapter VII authorizes NMPA and local authorities to impose administrative penalties including: warnings, confiscation of illegal devices and proceeds, fines (up to RMB 3 million for serious violations), suspension or revocation of registration certificates, and public disclosure of violations. Penalties vary based on violation severity and intent.
+MDSAR 2021 Chapter VII authorizes NMPA and local authorities to impose administrative penalties including warnings, confiscation of illegal devices and proceeds, fines (ranging from RMB 5,000 to RMB 3 million depending on violation severity), suspension or revocation of registration certificates, and public disclosure of violations. Penalties vary based on violation severity and intent.
+
+Add a section on penalty types: 'MDSAR 2021 Chapter VII authorizes NMPA and local authorities to impose administrative penalties including: warnings, confiscation of illegal devices and proceeds, fines (up to RMB 3 million for serious violations), suspension or revocation of registration certificates, and public disclosure of violations. Penalties vary based on violation severity and intent.'
+
+Remove the line 'Full content to be completed during editorial review.' from the introductory paragraph, or update it to 'This page provides a plain English reference for administrative penalties under China's NMPA enforcement framework.'

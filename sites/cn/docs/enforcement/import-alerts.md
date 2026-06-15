@@ -21,3 +21,7 @@ Content on this site is written with AI assistance and is intended as a navigati
 :::
 
 NMPA and Customs enforce border controls on medical devices at point of entry. Devices that fail to meet registration requirements, quality standards, or are subject to enforcement actions are subject to detention or seizure. NMPA publishes import alerts and recall notices that trigger inspection and monitoring at customs checkpoints. Importers must ensure compliance with registration status and labeling requirements before customs clearance.
+
+Add a section on import procedures: 'NMPA and Customs enforce border controls on medical devices at point of entry. Devices that fail to meet registration requirements, quality standards, or are subject to enforcement actions are subject to detention or seizure. NMPA publishes import alerts and recall notices that trigger inspection and monitoring at customs checkpoints. Importers must ensure compliance with registration status and labeling requirements before customs clearance.'
+
+Remove the line 'Full content to be completed during editorial review.' from the introductory paragraph, or update it to 'This page provides a plain English reference for import alerts and border controls under China's NMPA enforcement framework.'

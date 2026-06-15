@@ -130,3 +130,5 @@ This chain enables identification of all patients with a specific affected devic
 | IVDR Art. 10(8) | IVDR equivalent obligations |
 
 Complete the sentence and section with: 'Hospital records of UDIs → patient medical records. This chain allows regulators or manufacturers to trace from population-level concerns down to individual patients if needed. For implantable devices, where long-term safety monitoring is critical, this full traceability from manufacturer through to patient is essential for post-market surveillance and vigilance investigations.'
+
+Complete the sentence. It should read: 'Healthcare institutions must be able to link implanted devices to individual patients through the UDI-PI (serial number), enabling direct patient notification in the event of a recall or FSCA.'

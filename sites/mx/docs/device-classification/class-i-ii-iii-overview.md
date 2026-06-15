@@ -19,7 +19,7 @@ description: Detailed overview of Mexico's three medical device risk classes, th
 
 **Regulatory requirements:**
 - Sanitary registration required (unless listed in Annex 2 or 3 of the 2025 decree).
-- Streamlined submission — 20 business days July 7, for Annex 1 devices COFEPRIS targets for review and approval.
+- Streamlined submission — 20 business days for Annex 1 devices; COFEPRIS targets completion within this timeframe for review and approval (established by July 7, 2025 decree).
 - GMP compliance with NOM-241.
 - Technovigilance unit required.
 
@@ -88,3 +88,5 @@ description: Detailed overview of Mexico's three medical device risk classes, th
 - [Equivalency Route](../premarket/equivalency-route)
 
 Replace 'MXN fees for Class II (check current COFEPRIS fee schedule).' with a specific fee reference or note directing users to the Fees & Fee Calculator Reference page. Example: 'MXN 24,749 (~USD 1,395) — verify current fee via the annual Ley Federal de Derechos in the DOF (see Fees & Fee Calculator Reference).'
+
+Replace the line 'MXN fees for Class II (check current COFEPRIS fee schedule).' with: 'MXN 24,749 (~USD 1,395) — verify current fee via the annual Ley Federal de Derechos in the DOF (see Fees & Fee Calculator Reference).'

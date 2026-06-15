@@ -25,7 +25,7 @@ The SFDA is one of the most developed regulatory agencies in the MENA region. It
 - Achieved IMDRF full membership
 - Chairs the Global Harmonization Working Party (GHWP)
 
-This maturity means SFDA review is substantive — manufacturers cannot rely on post-market surveillance by the regulator to catch documentation gaps; the pre-market review is thorough.
+This maturity means SFDA pre-market review is substantive and comprehensive — manufacturers must ensure technical files are complete and well-documented before submission, as the SFDA does not rely on post-market surveillance to identify documentation deficiencies.
 
 ## KSA as a gateway to the broader MENA region
 

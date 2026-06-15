@@ -70,6 +70,20 @@ Essential Principles 1 to 6 are the **general principles** that apply to all med
 
 ---
 
+
+Complete the EP 5 section with: 'In practice: Manufacturers must define storage conditions (temperature, humidity, light exposure) and transport conditions (vibration, pressure, temperature ranges) based on testing and real-world use scenarios. Packaging validation must demonstrate that the device maintains its integrity and safety under worst-case transport and storage conditions. Guidance on handling, storage conditions, and shelf-life must be provided in labelling and instructions for use. Relevant standards: ISO 11607 (packaging for sterile devices), IEC 60068 series (environmental testing).'
+
+
+Add a new section: 'EP 6 — Medical Devices Not to be Harmful to Persons Associated with Their Use
+
+What it requires:
+The design and manufacture of medical devices must ensure they do not pose a hazard to persons involved in installation, calibration, use, maintenance, or disposal of the device. This includes risks from sharp edges, pinch points, toxic emissions, noise, vibration, or other hazards associated with normal operation or foreseeable misuse.
+
+In practice:
+Manufacturers must conduct hazard analysis of all lifecycle phases and implement design controls to protect users and other personnel. Information and training requirements must be specified. For disposal, special precautions (e.g., for devices containing hazardous materials or radioactive components) must be documented.
+
+Relevant standards: ISO 14971 (risk management), IEC 60601-1 (active devices), device-specific standards'
+
 ## Official Sources
 
 - [Schedule 1, Part 1 — General Essential Principles (AustLII)](https://www.legislation.gov.au/current/F2002B00237)

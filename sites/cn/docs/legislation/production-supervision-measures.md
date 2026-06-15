@@ -30,7 +30,7 @@ Content on this site is written with AI assistance and is intended as a navigati
 This measure implements MDSAR 2021 Chapter III (Articles 44-57), establishing requirements for medical device manufacturing, including production licensing, GMP compliance, quality management systems, and regulatory oversight.
 
 ## Key Requirements
-- Production licence required for Class II and III device manufacturers (Class I exempt)
+- Production licence required for Class II and III device manufacturers; Class I device manufacturers are exempt from licensing but must maintain quality systems
 - GMP (Good Manufacturing Practice) compliance mandatory; QMS documentation required
 - Quality personnel: at least one qualified person responsible for quality
 - Batch record retention: minimum 5 years after device shelf life expiration
@@ -40,3 +40,5 @@ This measure implements MDSAR 2021 Chapter III (Articles 44-57), establishing re
 
 ## Relationship to MDSAR 2021
 This measure operationalizes Article 44 (production licence) and Articles 47-49 (GMP and quality system) of MDSAR 2021 Chapter III with detailed procedural and technical requirements.
+
+Add to Key Requirements: 'Class I device manufacturers are exempt from production licensing but must still maintain quality systems and traceability. GMP requirements include documented procedures for design, production, quality control, and change management, with evidence of compliance maintained for inspection.'

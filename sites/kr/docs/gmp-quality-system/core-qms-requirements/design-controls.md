@@ -4,7 +4,7 @@ description: "KGMP requirements for design and development controls."
 sidebar_position: 2
 ---
 
-Design controls are a critical chapter of KGMP (aligned with ISO 13485:2016 Section 7.3) and are particularly scrutinised for Grade III and IV devices.
+Design controls are a critical chapter of KGMP (aligned with ISO 13485:2016 Section 7.3) and are particularly scrutinised during MFDS inspections for higher-risk devices (Grade III and IV). Deficiencies in design control documentation are among the most common inspection findings.
 
 ## Key requirements
 

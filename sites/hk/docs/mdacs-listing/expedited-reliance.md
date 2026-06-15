@@ -37,7 +37,9 @@ The **expedited reliance scheme** allows the MDD to rely on a prior approval fro
 - LRP appointment documentation
 
 :::tip Preferred route if reference approval exists
-If you hold FDA clearance, CE marking, or TGA registration, always use the expedited scheme — it will materially shorten your MDACS listing timeline and reduce documentation burden.
+If you hold FDA clearance, CE marking, or TGA registration, always use the expedited scheme — it will materially shorten your MDACS listing timeline and reduce documentation burden. Expedited applications typically avoid the need for full dossier compilation and clinical evidence re-evaluation, provided the device is identical to the reference-approved version.
 :::
 
 Expedited reliance applications typically receive a faster review decision (2–4 months typical) compared to standard-route applications (4–6+ months), though individual timelines vary based on MDD workload and submission completeness.
+
+Add under 'Preferred route if reference approval exists' section: 'Expedited reliance applications typically receive a faster review decision (2–4 months typical) compared to standard-route applications (4–6+ months), though individual timelines vary based on MDD workload and submission completeness.'

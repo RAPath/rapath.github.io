@@ -61,6 +61,10 @@ The AMDD harmonisation means that manufacturers can leverage a single **CSDT-for
 - Clinical evidence prepared for one ASEAN submission supports others
 - ISO 13485 and GMP certificates valid across all ASEAN submissions (same scope applies)
 
-The ASEAN CSDT prepared for Singapore (HSA) or Malaysia (MDA) is the closest starting point for an Indonesian submission — requiring primarily administrative adaptation, labeling revision, and verification of consistency with Regalkes formatting requirements.
+The ASEAN CSDT prepared for Singapore (HSA) or Malaysia (MDA) is the closest starting point for an Indonesian submission, requiring primarily administrative section updates, Bahasa Indonesia labeling revision, verification of consistency with Regalkes file naming and folder structure conventions, and confirmation that all referenced standards align with Indonesian/ASEAN equivalents.
 
 "BPOM (Badan Pengawas Obat dan Makanan / Indonesian Agency for Drug and Food Control) is the regulatory authority responsible for implementing AMDD principles and overseeing device registration and post-market surveillance in Indonesia."
+
+Add after the first paragraph: "BPOM (Badan Pengawas Obat dan Makanan / Indonesian Agency for Drug and Food Control) is the regulatory authority responsible for implementing AMDD principles and overseeing device registration and post-market surveillance in Indonesia."
+
+The Essential Principles applicable in Indonesia are detailed in the CSDT Essential Principles checklist provided in BPOM's Regalkes portal guidance and cross-referenced in Permenkes 62/2017. These principles align with the GHTF/IMDRF Essential Principles framework adopted by ASEAN.

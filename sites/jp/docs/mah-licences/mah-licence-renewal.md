@@ -28,7 +28,7 @@ The licensing authority may conduct an inspection or desk review as part of the 
 
 If the MAH licence lapses — even briefly — the legal effect is serious:
 - All Shonin approvals held by the MAH are invalidated
-- All Ninsho certifications held by the MAH are invalidated
+- All Ninsho certifications held by the MAH are invalidated. Note: Devices under Ninsho certification may have a 30-day grace period to use existing labelled inventory, but no new sales or distribution can occur without active MAH licence coverage.
 - The device cannot legally be sold in Japan
 - Restoring market access requires re-application and re-approval — a lengthy process
 

@@ -35,6 +35,13 @@ AI/ML devices require specific post-market performance monitoring:
 ## EU AI Act Implications
 The EU AI Act (entered into force August 2024) classifies high-risk AI systems, including AI used as or in medical devices. While the EU AI Act applies directly only within the EU, Swiss manufacturers or manufacturers accessing both EU and Swiss markets must consider EU AI Act compliance for medical device AI systems. Swissmedic is monitoring EU AI Act implementation for potential alignment implications.
 
+
+Add a new subsection under 'AI/ML-Specific Technical Documentation Requirements' titled:
+
+**Algorithmic Transparency and Explainability**
+
+The technical documentation should include: explanation of how the model produces its output (especially for high-risk applications such as diagnosis or patient stratification); limitations of the model's interpretability; any known failure modes or situations where the model is less reliable; documentation of how clinicians can understand and validate the model's recommendations; where applicable, methods to provide feature importance or decision reasoning to users.
+
 ## Official Sources
 - [MDCG 2020-1 — AI and ML in medical devices](https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en)
 - [Swissmedic — Digital health and SaMD](https://www.swissmedic.ch/swissmedic/en/home/medical-devices.html)

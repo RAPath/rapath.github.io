@@ -104,3 +104,15 @@ Use the "Revised" version to see the text as currently in force. See [How to rea
 | [UK MDR 2002](https://www.legislation.gov.uk/uksi/2002/618/contents/made) | Full consolidated text |
 | [SI 2019/791](https://www.legislation.gov.uk/uksi/2019/791/contents/made) | Primary post-Brexit amending instrument |
 | [Medical Devices Act 2021](https://www.legislation.gov.uk/ukpga/2021/26/contents/enacted) | Enabling powers for reform |
+
+Complete the missing content by adding: 'Medical Devices Act 2021
+— Primary legislation enabling MHRA reform
+
+Official references
+
+Reference | Description
+UK MDR 2002 | Full consolidated text at legislation.gov.uk
+SI 2019/791 | Primary post-Brexit amending instrument
+SI 2002/618 | Original Medical Devices Regulations 2002
+Medical Devices Act 2021 | Enabling powers for regulatory reform
+MHRA guidance hub | gov.uk/government/organisations/medicines-and-healthcare-products-regulatory-agency'

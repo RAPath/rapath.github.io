@@ -16,7 +16,7 @@ MFDS publishes **Question and Answer (Q&A)** documents and **FAQs** on its websi
 
 For complex or novel devices, MFDS encourages **pre-consultation meetings** before formal application. These clarify MFDS expectations and can prevent time-wasting rejections.
 
-Submit pre-consultation requests via the MFDS eSubmission portal.
+Submit pre-consultation requests via the MFDS eSubmission portal (의료기기 전자민원) using the dedicated 사전상담 (pre-consultation) module. Provide detailed product information and specific regulatory questions to facilitate efficient MFDS review.
 
 ## Using Q&As in submissions
 

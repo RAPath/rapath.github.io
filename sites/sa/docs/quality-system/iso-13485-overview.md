@@ -35,3 +35,14 @@ Saudi Arabia has adopted a national version of ISO 13485 through the **Gulf Stan
 - [Inspections and Audits](./inspections-audits)
 
 ## Who must hold QMS certification?
+
+Add a new subsection after the 'Who must hold QMS certification?' table:
+
+**QMS certification validity and renewal**
+
+ISO 13485 certification from an SFDA-accredited CAB or IAF-accredited certification body is typically valid for 3 years from the date of issuance. Holders must:
+- Undergo annual surveillance audits to maintain certification status
+- Complete re-certification before the 3-year validity period expires
+- Notify the SFDA of any changes to QMS scope or organizational structure that may affect certification validity
+
+QMS certification validity and renewal: ISO 13485 certification is typically valid for 3 years from the date of issuance. Manufacturers must maintain continuous certification throughout this period and apply for renewal before expiration. Failure to renew certification before expiry may result in suspension of MDMA and MDEL.

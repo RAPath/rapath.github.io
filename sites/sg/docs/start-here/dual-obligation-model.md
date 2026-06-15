@@ -82,3 +82,5 @@ If Company B also re-sells to other Singapore distributors, it may also need a w
 - [HSA: Regulatory overview of medical devices](https://www.hsa.gov.sg/medical-devices/regulatory-overview)
 - [HSA: Dealer's licence](https://www.hsa.gov.sg/medical-devices/dealers-licence)
 - [HP(MD) Regulations 2010](https://sso.agc.gov.sg/SL/HPA2007-S436-2010)
+
+Forgetting the Class A notification. Class A devices are exempt from registration but still require a product notification via SHARE before supply. Many companies mistakenly believe that exemption from registration means no notification is needed.

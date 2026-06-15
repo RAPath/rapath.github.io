@@ -51,10 +51,16 @@ Russia introduced QMS inspection requirements with a transition period, initiall
 The national registration pathway (Decree No. 1684) closes to new submissions from **1 January 2027**. All new registrations must use the EAEU pathway from this date.
 
 :::info Stay current
-Regulatory updates are published by Roszdravnadzor at [roszdravnadzor.gov.ru](https://roszdravnadzor.gov.ru/) and by the Ministry of Health at [minzdrav.gov.ru](https://minzdrav.gov.ru/). This page is community-maintained and may not reflect the very latest changes — always verify against official sources.
+Regulatory updates are published by Roszdravnadzor at [roszdravnadzor.gov.ru](https://roszdravnadzor.gov.ru/) and by the Ministry of Health at [minzdrav.gov.ru](https://minzdrav.gov.ru/). This page is community-maintained and may not reflect the very latest changes. Always verify requirements against official sources at Roszdravnadzor (roszdravnadzor.gov.ru) and the Ministry of Health (minzdrav.gov.ru) before submission.
 :::
 
 ## 2025
+
+Decree No. 1684 implementation guidance (ongoing)
+​
+Roszdravnadzor is issuing supplementary guidance documents clarifying interpretation of Decree No. 1684 requirements. Monitor the official Roszdravnadzor website for updates on documentation requirements, QMS inspection procedures, and clinical investigation triggers.
+
+Add a new entry under '2025':
 
 Decree No. 1684 implementation guidance (ongoing)
 ​

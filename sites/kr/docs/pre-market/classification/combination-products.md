@@ -27,3 +27,9 @@ Must address both device and drug aspects: device performance/safety data + drug
 ## combination product determination inquiry
 
 (typically reviewed within 30–60 days of complete submission)
+
+Add after 'combination product determination inquiry':
+
+(typically reviewed within 30–60 days of complete submission)
+
+Biocompatibility and sterilization: If the device component has patient contact, biocompatibility testing (ISO 10993 series) and sterilization validation are required. The combination product must demonstrate that the drug/biological component does not adversely affect device functionality and that the device does not compromise the stability or efficacy of the drug/biological.

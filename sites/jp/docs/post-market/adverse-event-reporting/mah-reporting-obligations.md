@@ -6,7 +6,7 @@ sidebar_position: 2
 # MAH Reporting Obligations
 
 :::note JP-unique
-Japan's system places all formal adverse event reporting obligations on the MAH. There is no mechanism for healthcare providers, patients, or foreign manufacturers to report directly to MHLW — all reports must adverse events for regulatory compliance purposes formal adverse event to MHLW be submitted by Note: Healthcare facilities may independently submit near-miss reports (Hiyari Hatto) to MHLW's separate near-miss database system, but serious adverse event reports must be routed through the MAH. the Japan-domiciled MAH. This is a significant difference from EU MDR (where manufacturers report directly to competent authorities) and from FDA (where manufacturers, importers, and device user facilities all have independent reporting obligations).
+Japan's system places all formal adverse event reporting obligations on the MAH. There is no mechanism for healthcare providers, patients, or foreign manufacturers to report directly to MHLW — all adverse event reports must be submitted by Note: Healthcare facilities may independently submit near-miss reports (Hiyari Hatto) to MHLW's separate near-miss database system, but serious adverse event reports must be routed through the MAH. the Japan-domiciled MAH. This is a significant difference from EU MDR (where manufacturers report directly to competent authorities) and from FDA (where manufacturers, importers, and device user facilities all have independent reporting obligations).
 :::
 
 ## The MAH as the reporting hub
@@ -39,3 +39,5 @@ MAHs must maintain records of:
 - Corrective actions taken
 
 Records must be retained for a minimum period specified in the relevant MHLW notification (typically 5 years or longer for certain device classes).
+
+The criteria for determining reportability and the investigation scope are defined in the MHLW Safety Measures Notification. MAHs should consult the current version of this notification and PMDA guidance documents for detailed requirements on causality assessment and reporting decision documentation.

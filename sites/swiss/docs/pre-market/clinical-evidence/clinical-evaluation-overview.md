@@ -27,6 +27,9 @@ Using clinical data from an equivalent device requires documented demonstration 
 ## PMCF
 The clinical evaluation must be updated throughout the device lifecycle based on PMCF data. The PMCF plan and report form part of Annex III post-market documentation.
 
+
+Expand the Equivalence section by adding: 'MDCG 2020-5 provides detailed equivalence appraisal templates. For Swiss submissions, manufacturers must document equivalence using: technical specification comparison tables, biocompatibility/material matching, clinical endpoint mapping, and literature gap analysis. Equivalence claims without all three dimensions (technical, biological, clinical) are typically rejected by Swissmedic.'
+
 ## Official Sources
 - [MedDO Annex XIV (SR 812.213)](https://www.fedlex.admin.ch/eli/cc/2021/205/en)
 - [MDCG 2020-5 — Clinical evaluation (applicable in Switzerland)](https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en)

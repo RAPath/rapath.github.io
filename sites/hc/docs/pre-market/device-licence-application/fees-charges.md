@@ -60,3 +60,5 @@ Fees are invoiced electronically by Health Canada through the HRES portal. Payme
 Current fee amounts
 
 Specific fee amounts are not provided in this overview because they are subject to periodic adjustment and are established in the Medical Devices Regulations Fees Order (SOR/2024-XX). Manufacturers should consult the current Fees Order or contact Health Canada's Medical Devices Directorate for current application and annual maintenance fee amounts applicable to their device class and business size.
+
+Replace the placeholder text with: 'Specific fee amounts are not provided in this overview because they are subject to periodic adjustment. Current fees are established in the Medical Devices Regulations Fees Order and are published on the Health Canada website at: www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/regulations-guidance/fees.html. Manufacturers should consult this resource or contact Health Canada directly for current application and annual maintenance fee amounts.'

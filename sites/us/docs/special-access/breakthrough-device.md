@@ -71,3 +71,14 @@ Breakthrough Designation does **not** lower the regulatory standard — the devi
 - [FDA — Breakthrough Device Guidance (2018, updated 2023)](https://www.fda.gov/media/108135/download)
 - [FD&C Act § 515B](https://www.law.cornell.edu/uscode/text/21/360e-3)
 - [List of Breakthrough Designations Granted](https://www.fda.gov/patients/device-development-process/breakthrough-devices-program)
+
+Add after the 'Benefits of designation' section: Important Limitations
+
+Breakthrough Designation:
+- Does NOT lower quality, safety, or efficacy standards
+- Does NOT exempt the device from QMSR, GMP, or MDR requirements
+- Does NOT guarantee approval or clearance
+- Does NOT provide expedited manufacturing inspection
+- Does NOT reduce post-market surveillance obligations
+
+The designation accelerates FDA review and interaction but does not change the regulatory pathway (510(k), De Novo, or PMA) or success probability.

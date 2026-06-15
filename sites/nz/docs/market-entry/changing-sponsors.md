@@ -27,7 +27,7 @@ The incumbent Sponsor must log in to WAND and mark all relevant device notificat
 Once entries are marked obsolete by the outgoing Sponsor, the incoming Sponsor submits new WAND notifications for each device in their own account. They will need all the required device information (GMDN code, classification, manufacturer details, etc.) — typically provided by the manufacturer.
 
 ### Step 3 — 30-day timeline applies
-The incoming Sponsor must complete their new notifications within 30 calendar days of becoming Sponsor. The clock starts from the date the Sponsor agreement is effective.
+The incoming Sponsor must complete their new WAND notifications within 30 calendar days of becoming Sponsor. The 30-day clock starts from the date the new Sponsor agreement becomes effective — not from the date the outgoing Sponsor marks entries obsolete.
 
 ---
 

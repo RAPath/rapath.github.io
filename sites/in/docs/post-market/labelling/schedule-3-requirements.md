@@ -26,6 +26,8 @@ Every device label must clearly display:
 9. Sterility statement (if applicable)
 10. Caution statements and symbols as required
 11. Device classification or intended use
-12. CE mark (if applicable for exports)
+12. Remove this line entirely, or replace with: 'Regulatory marking for export markets (e.g., CE mark for EU exports) must be applied separately and should not appear on labeling intended solely for Indian distribution'
 
-All elements must be legible, indelible, and placed where they are easily visible. Font size and contrast must meet readability standards for the intended user population.
+All elements must be legible, indelible, and placed where they are easily visible. Minimum font size requirements vary by context: principal display panels must use at least 10-point font (or equivalent for the language); information panels may use smaller fonts if necessary, but must remain readable by the intended user. Contrast between text and background must be sufficient (minimum 4.5:1 ratio recommended) to ensure readability.
+
+Remove 'CE mark (if applicable for exports)' from the mandatory elements list, or add clarifying context: 'CE mark is not an Indian requirement; only include if the device is also intended for EU export to meet EU requirements separately.'

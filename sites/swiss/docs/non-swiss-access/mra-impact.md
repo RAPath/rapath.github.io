@@ -6,7 +6,7 @@ description: Practical impact of the CH–EU MRA Chapter 4 on Swiss market acces
 
 ## When CE Marking Is Sufficient
 When MRA Chapter 4 is **fully operational**:
-- CE-marked devices compliant with EU MDR/IVDR can generally be placed on the Swiss market with DAPI notification (not full registration)
+- CE-marked devices compliant with EU MDR/IVDR can generally be placed on the Swiss market with simplified DAPI notification (not full registration) for Class I devices; Class IIa and above still require full DAPI registration even with MRA operational status
 - EU NB certificates are recognised by Swissmedic without separate technical review
 - Technical documentation is not separately re-evaluated by Swissmedic
 
@@ -36,3 +36,5 @@ AI-assisted navigation aid only. Always verify against official [Swissmedic](htt
 :::
 
 MRA Chapter 4 operational status should be verified within 30 days of commencing Swiss market access planning, as status changes impact registration timeline and may require either simplified notification or full registration.
+
+Add after 'Current MRA Status' heading: 'As of the last update to this page, verify the operational status of MRA Chapter 4 directly with Swissmedic (https://www.swissmedic.ch) or SECO (State Secretariat for Economic Affairs) as status may change. The determination of whether Chapter 4 is operational is critical to determining whether DAPI notification or full registration is required.'

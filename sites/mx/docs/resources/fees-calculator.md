@@ -35,7 +35,7 @@ Fees are paid through the **DIGIPRiS** portal at the time of application submiss
 2. Search for provisions relating to COFEPRIS / sanitary registration / medical devices (*dispositivos médicos*).
 3. Cross-reference with the COFEPRIS website for any in-year updates.
 
-Third-party resources such as Pure Global's fee calculator and similar tools provide indicative figures and are updated periodically — useful for planning purposes, but always verify the official source before submitting.
+Third-party fee calculator tools (such as those offered by regulatory consulting firms) may provide indicative figures for planning purposes, but these are updated periodically and may lag behind official changes. Always verify current fees against the official Ley Federal de Derechos published in the DOF or the COFEPRIS website before submitting an application.
 
 ## Fee considerations for budgeting
 
@@ -52,3 +52,8 @@ Third-party resources such as Pure Global's fee calculator and similar tools pro
 - [Useful links](useful-links)
 
 Note: Class II and Class III new registration fees are subject to annual updates in the Ley Federal de Derechos. Current 2025 figures should be verified directly via the DOF or COFEPRIS before submission, as these fees are not published on this reference page.
+
+Add a note above the fees table: 'Note: Class II and Class III new registration fees are subject to annual updates in the Ley Federal de Derechos. Current 2025 figures should be verified directly via the DOF or COFEPRIS before submission, as these fees are not published on this reference page.'
+
+Add a note below the new registration fees table:
+'Note: Class II and Class III new registration fees for 2025 have not been published on this reference page. These fees are subject to annual updates in the Ley Federal de Derechos. Verify current figures directly via the DOF (dof.gob.mx) or COFEPRIS before submission.'

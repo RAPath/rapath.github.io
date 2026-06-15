@@ -48,7 +48,7 @@ Emergency import authorisations are:
 During declared public health emergencies (such as COVID-19), the Minister of Health has authority to issue broader emergency use authorisations covering entire device categories. These are published as MOH Decisions and take precedence over the standard individual application process.
 
 :::tip Keep evidence of unavailability
-A key condition for emergency import approval is demonstrating that no registered equivalent is available. Maintain a brief evidence file showing the search you conducted for registered alternatives — this significantly speeds up DAV's assessment.
+A key condition for emergency import approval is demonstrating that no registered equivalent device is available in Vietnam. Prepare a brief evidence file — such as a search of the DMEC portal and DAV's product database — showing that comparable registered devices do not exist or are unsuitable for the clinical need. This documentation significantly accelerates DAV's assessment and approval.
 :::
 
-For genuine public health emergencies, contact DAV directly (via DMEC or telephone) to flag the urgency; DAV may provide expedited review within 2–5 working days. Standard emergency import applications typically receive DAV response within 10–15 working days, though timelines may vary depending on workload and completeness of submitted documentation.
+For genuine public health emergencies, contact DAV directly (via DMEC or telephone) to flag the urgency; DAV may provide expedited review within 2–5 working days. Standard emergency import applications typically receive DAV response within 10–15 working days, though timelines may vary depending on workload and completeness of submitted documentation. Confirm current contact procedures and any email escalation channels with DAV in advance of urgent need.

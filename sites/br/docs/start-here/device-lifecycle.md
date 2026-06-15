@@ -57,3 +57,10 @@ keywords: [medical device lifecycle, ANVISA, registration, post-market, Brazil]
 
 - [ANVISA — Peticionamento Eletrônico](https://peticionamento.anvisa.gov.br)
 
+Add a new subsection after step 1:
+
+**IVD-specific pathway:** In vitro diagnostics follow RDC 36/2015 with the same four-class system (I–IV) and corresponding pathways (Notificação, Cadastro, Registro). Technical dossier requirements and timelines may differ from general medical devices — consult RDC 36/2015 or the IVD Classification page for details.
+
+Replace the entire Step 7 entry with: '└─ Post-registration changes → Petição de Alteração
+└─ Registration valid for 5 years → renewal required
+└─ AFE valid for 5 years → renewal required separately' and update the Key timelines table entry for 'Registration renewal' from '10-year cycle' to '5-year cycle'.

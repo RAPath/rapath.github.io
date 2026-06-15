@@ -14,7 +14,7 @@ Swissmedic participates in IMDRF as an **affiliate member**, which means:
 - Swissmedic monitors IMDRF guidance development and considers alignment with Swiss requirements
 - IMDRF guidance informs Swissmedic's own guidance documents and positions
 
-Unlike founding members (FDA, Health Canada, TGA, MHLW, HSA, European Commission), Swissmedic does not have a primary vote in IMDRF decisions but has significant influence through the EU MDR/IVDR alignment.
+Unlike IMDRF founding members (FDA, Health Canada, TGA, MHLW, HSA, European Commission), Swissmedic does not hold a voting seat in IMDRF governance but exercises significant regulatory influence through its close alignment with EU MDR/IVDR standards and its participation in EU competent authority coordination networks.
 
 ## Key IMDRF Documents Relevant to Swiss Market Access
 
@@ -33,6 +33,9 @@ For manufacturers preparing Swiss market access submissions, IMDRF guidance can 
 2. MDCG guidance documents (where applicable in Switzerland — see [MDCG Guidance Applicability](../guidance/mdcg-guidance-applicability))
 3. Harmonised standards (for GSPR compliance)
 4. IMDRF guidance (as supplementary international context)
+
+
+Expand the MDSAP row in the table: 'MDSAP (Multi-regional Device Single Audit Program) — Not directly recognised for Swiss NB conformity assessment; may have supporting value for manufacturers seeking simultaneous US, Japanese, Canadian, and Brazilian approvals, but does not reduce Swiss regulatory burden.'
 
 ## Official Sources
 - [IMDRF — imdrf.org](https://www.imdrf.org)

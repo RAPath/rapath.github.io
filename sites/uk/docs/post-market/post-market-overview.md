@@ -138,3 +138,13 @@ MHRA has a range of tools to enforce post-market compliance:
 | MHRA: Adverse incident reporting | Vigilance reporting requirements |
 | ISO 13485:2016, Clause 8 | Measurement, analysis, and improvement — post-market QMS |
 | ISO 14971:2019 | Risk management — post-market risk monitoring |
+
+Tool | Description
+---|---
+Market surveillance | MHRA conducts proactive market surveillance including device testing, facility inspections, and audit of post-market data
+Investigations | MHRA investigates complaints, adverse events, and safety signals; may issue formal information requests
+Product recalls | MHRA may mandate recalls and issue public alerts for devices presenting an unacceptable risk
+Certificate action | MHRA may suspend or withdraw UKAB certificates for non-compliance with post-market obligations
+Enforcement notices | MHRA may issue enforcement notices requiring corrective action within a specified timeframe
+Prosecution | MHRA may refer serious breaches to enforcement bodies for criminal prosecution under UK MDR 2002
+Damages and injunctions | MHRA may pursue civil remedies to prevent ongoing supply of non-compliant devices

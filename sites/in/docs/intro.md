@@ -13,7 +13,7 @@ keywords: [CDSCO, medical devices, India, regulatory, MDR 2017, D&C Act, SUGAM]
 
 RAPath IN is a plain English reference for medical device regulation in India under the **Drugs and Cosmetics Act 1940 (D&C Act)** and the **Medical Devices Rules 2017 (MDR 2017)**. It is designed for regulatory affairs professionals, manufacturers, importers, distributors, and consultants who need to find and understand CDSCO requirements quickly.
 
-This site does not replace official CDSCO sources. Every page links back to the authoritative legislative text or official guidance. Think of RAPath IN as a structured, searchable index that helps you find what you need — then points you to the official source to verify it.
+This site does not replace official CDSCO sources and is not a substitute for obtaining independent legal or regulatory advice. Every page links back to the authoritative legislative text or official guidance. Think of RAPath IN as a structured, searchable index that helps you find what you need — then points you to the official source to verify it before implementation.
 
 ---
 
@@ -64,3 +64,9 @@ This site was last reviewed in **May 2026**. CDSCO guidance and regulations chan
 
 :::warning Disclaimer
 Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [CDSCO](https://cdsco.gov.in) sources before making regulatory decisio
+
+Replace 'This site was last reviewed in [INSERT ACTUAL DATE — e.g., November 2024 or December 2024]' with the actual last review date (e.g., 'This site was last reviewed in [CURRENT MONTH/YEAR]')
+
+Replace 'This site was last reviewed in May 2026' with 'This site was last reviewed in [current month/year]. CDSCO guidance and regulations change frequently.' and establish a process for regular review.
+
+Replace 'This site was last reviewed in May 2026' with the actual last review date (e.g., 'This site was last reviewed in [CURRENT MONTH/YEAR]')

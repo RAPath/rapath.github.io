@@ -29,7 +29,7 @@ Applications for export certificates are made through the TGA's eBusiness Servic
 
 ## Devices Exported Without ARTG Inclusion
 
-Not all exports require ARTG inclusion. If a manufacturer has a direct export arrangement with an overseas buyer and does not need an Australian certificate, they may be able to export without ARTG inclusion. However, they remain responsible for ensuring the device meets the requirements of the destination country.
+Not all exports require ARTG inclusion. If a manufacturer exports directly to an overseas buyer without needing a Certificate of Free Sale or Export Certificate issued by the TGA, ARTG inclusion may not be necessary. However, the manufacturer remains responsible for ensuring the device complies with the regulatory requirements of the destination country and any international agreements applicable to the export.
 
 ## Official Sources
 

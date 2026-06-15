@@ -89,6 +89,9 @@ Essential Principles compliance is not a one-time exercise — it must be mainta
 
 ---
 
+
+Add under 'How to Demonstrate Compliance': 'Manufacturers should systematically assess each of the 15 Essential Principles by considering: (1) the device classification and device type, (2) the intended purpose and patient population, (3) the materials used (particularly whether they contact the patient), (4) the energy source and active components, (5) the environment of use, (6) whether the device has a measuring function or generates radiation, and (7) whether it is an IVD. The TGA Essential Principles Checklist template guides this assessment and requires manufacturers to document for each EP whether it applies, and if so, what evidence of compliance is held.'
+
 ## Official Sources
 
 - [Schedule 1 — Essential Principles (legislation.gov.au)](https://www.legislation.gov.au/current/F2022C00900)

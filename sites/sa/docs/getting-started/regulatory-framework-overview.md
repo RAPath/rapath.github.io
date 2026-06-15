@@ -51,7 +51,7 @@ All medical devices — regardless of risk class — must obtain **Medical Devic
 - UDI data submission
 - Adverse event reports
 
-All applicants — manufacturers and ARs — must register on GHAD before submitting. Foreign manufacturers may submit directly via GHAD if they do not wish to share confidential technical documentation with their technical files AR (for example, to protect manufacturing or design secrets). However, the AR must still hold a valid AR license and remain the official regulatory contact with the SFDA.
+All applicants — manufacturers and ARs — must register on GHAD before submitting. Foreign manufacturers may submit directly via GHAD if they do not wish to share confidential technical documentation with their AR (for example, to protect manufacturing or design secrets). However, the AR must still hold a valid AR license and remain the official regulatory contact with the SFDA.
 
 ## Key participants
 

@@ -39,3 +39,5 @@ HSA may publish information about the FSCA on its [List of Published Risk Commun
 - [HSA: Published risk communications](https://www.hsa.gov.sg/medical-devices/field-safety-corrective-action/list-of-published-risk-communication)
 
 FSCAs related to serious safety issues should be reported to HSA without delay. While no specific maximum timeframe is prescribed in the regulations, companies should submit FSCA notifications as soon as they have assessed the safety issue and determined corrective action is necessary. For life-threatening or immediately dangerous situations, contact HSA directly before submitting a formal report.
+
+Add a new section titled 'Reporting Timeframe' after 'Notifying HSA' with the text: 'There is no specific maximum timeframe prescribed in the regulations for FSCA submission. However, FSCAs related to serious safety issues should be reported to HSA without delay once the safety issue has been assessed and corrective action determined. For life-threatening or immediately dangerous situations, contact HSA directly by phone before submitting a formal written report.'

@@ -28,3 +28,5 @@ Apply for fast-track status alongside the 품목허가 application via the MFDS 
 Timing of fast-track application
 ​
 Fast-track status should be requested early — ideally at pre-submission consultation or when submitting the 품목허가 application. Late requests may not be accommodated for the current review cycle.
+
+Fast-track review timelines are typically: Grade III devices reduced to 2–4 months (versus standard 3–6 months), and Grade IV devices reduced to 4–8 months (versus standard 6–12 months). Timelines are confirmed during pre-submission consultation. Fast-track status does not exempt devices from complete technical documentation or risk management requirements—only the MFDS review timeline is accelerated.

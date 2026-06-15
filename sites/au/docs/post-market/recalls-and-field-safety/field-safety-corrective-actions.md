@@ -7,7 +7,7 @@ last_reviewed: 2026-04-30
 
 ## Overview
 
-A Field Safety Corrective Action (FSCA) is a corrective action taken by a manufacturer or sponsor to reduce a risk of death or serious deterioration in the health of a patient or user associated with a medical device that has already been placed on the market. Under the PRAC, FSCAs are captured within the umbrella of "market actions" — they may be classified as a Recall, Product Alert, Product Correction, or Quarantine depending on the nature of the action required.
+A Field Safety Corrective Action (FSCA) is a corrective action taken by a manufacturer or sponsor to reduce a risk of death or serious deterioration in the health of a patient or user associated with a medical device that has already been placed on the market. Under the PRAC (effective March 2025), FSCAs are captured within the broader category of "market actions" — they may be classified as a Recall, Product Alert, Product Correction, or Quarantine depending on the nature of the action required.
 
 The term FSCA remains in common use internationally (especially in the EU/MDR context) and sponsors and manufacturers familiar with EU terminology will find the Australian PRAC requirements broadly equivalent.
 
@@ -62,7 +62,7 @@ The TGA closely monitors overseas regulatory databases (FDA MAUDE, EU EUDAMED, M
 
 ## PRAC Process Summary
 
-The PRAC reduces the recall process to five key steps:
+The PRAC reduces the recall process to five key steps (from the previous ten-step URPTG process):
 
 1. **Notify the TGA** — immediately upon identifying a potential market action trigger
 2. **Submit a recall strategy** — including proposed market action type, class, distribution reach, FSN draft

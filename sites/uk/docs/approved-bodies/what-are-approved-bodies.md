@@ -2,7 +2,7 @@
 sidebar_position: 1
 title: "What are UK Approved Bodies?"
 description: >
-  UK Approved Bodies (UKABs) are the UK equivalent of EU Notified Bodies — organisations designated by MHRA to carry out third-party conformity assessment of medical devices for the GB market.
+  UK Approved Bodies (UKABs) are organisations formally designated by MHRA to carry out third-party conformity assessment of medical devices for the Great Britain market under UK MDR 2002. They perform the equivalent function to EU Notified Bodies, though UKABs are designated only for GB market access, not for the EU or Northern Ireland markets.
 tags: [uk-mdr, approvedbodies]
 ---
 
@@ -43,7 +43,7 @@ UKABs are the UK equivalent of EU Notified Bodies — but UKAB certificates are 
 | Valid for | GB market only | EU market + Northern Ireland |
 | List maintained by | MHRA | NANDO database |
 | Oversight | MHRA | National CA + EC peer review |
-| Number currently designated | Small (see MHRA list) | 40+ for MDR/IVDR |
+| Number currently designated | Small (see MHRA list) | 40+ for EU MDR/IVDR combined |
 
 ## Official references
 

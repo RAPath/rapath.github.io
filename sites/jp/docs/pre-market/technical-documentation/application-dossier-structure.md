@@ -30,7 +30,7 @@ PMDA requires electronic submission via the PMDA electronic gateway system. Subm
 - Electronic signatures where required
 - Each module submitted as a separate package
 
-PMDA provides an applicant guidance document for electronic submission format requirements. Confirm the current version before finalising your submission package — requirements have been updated over time.
+PMDA provides an applicant guidance document for electronic submission format requirements (available on the PMDA website). Confirm the current version before finalising your submission package — requirements have been updated over time and non-compliance with current format standards can result in desk rejection or deficiency letters before substantive review begins.
 
 ## Common deficiency types
 

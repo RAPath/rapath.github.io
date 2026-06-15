@@ -13,7 +13,7 @@ CDSCO may grant permission for the import and use of an unlicensed medical devic
 - The device is needed to treat a life-threatening or seriously debilitating condition;
 - The device is available overseas with regulatory approval.
 
-Applications are submitted to the CDSCO through the SUGAM portal (sugam.cdsco.gov.in) or directly to the DCGI/CDSCO with supporting clinical justification, ethics committee approval (where required), and manufacturer authorization letters.
+Applications are submitted to CDSCO through the SUGAM portal (sugam.cdsco.gov.in) or directly to the DCGI's office with supporting clinical justification, ethics committee approval (where required), and manufacturer authorization letters.
 
 > **Official source:** Medical Devices Rules 2017; [CDSCO](https://cdsco.gov.in)
 

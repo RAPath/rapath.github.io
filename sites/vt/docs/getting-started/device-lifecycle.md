@@ -68,3 +68,7 @@ DAV recommends submitting renewal applications at least 6 months before the exis
 :::
 
 DAV typically completes initial review within 90–180 days for Type C devices and 120–240 days for Type D devices, depending on dossier completeness. Requests for additional information (RAI) can extend this timeline.
+
+Add after Stage 5 — DAV review (Type C/D): 'DAV typically completes initial review within 90–180 days for Type C devices and 120–240 days for Type D devices, depending on dossier completeness. Requests for additional information (RAI) can extend this timeline.'
+
+Add to Stage 3: 'The time required to prepare a compliant dossier varies widely depending on device complexity, existing quality documentation, and clinical data availability. Type A/B declarations typically require 2–4 weeks; Type C/D dossiers may take 2–6 months or longer for complex devices with limited prior regulatory history.'

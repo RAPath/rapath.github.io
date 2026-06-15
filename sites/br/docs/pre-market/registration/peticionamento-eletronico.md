@@ -34,3 +34,5 @@ Verify all information against official [ANVISA](https://www.gov.br/anvisa) sour
 :::
 
 All documents submitted via Peticionamento Eletrônico must be in PDF format (except photographs/diagrams which may be JPG or PNG), with file size not exceeding 50 MB per attachment. All technical documentation must be in Brazilian Portuguese or include certified Portuguese translations. Supporting English-language documents (e.g., peer-reviewed publications, FDA approvals) may be submitted in original language with Portuguese summary.
+
+All documents must use clear naming conventions (e.g., '01_Device_Description.pdf', '02_Risk_Management_Summary.pdf'). ANVISA provides a downloadable checklist for each pathway on Peticionamento Eletrônico; submission of the completed checklist is strongly recommended to avoid delays. Common rejection reasons include: incomplete Portuguese translations, missing AFE/CBPF certificates, file size exceeding limits, and missing classification justification or biocompatibility summary for devices contacting patient tissues.

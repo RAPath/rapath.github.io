@@ -15,7 +15,7 @@ A trend report must be submitted to Swissmedic within 30 calendar days when the 
 - Near-miss events that are not individually reportable as serious incidents
 
 ## Serious Public Health Threats
-A **serious public health threat** must be reported to Swissmedic within 2 calendar days. A serious public health threat is a situation where a device issue could affect a significant number of patients or could cause widespread harm if not immediately addressed (e.g. contaminated batch of diagnostic reagents used widely, systemic failure affecting implantable device class).
+A **serious public health threat** must be reported to Swissmedic within 2 calendar days. A serious public health threat is a situation where a device issue could affect a significant number of patients or could cause widespread harm if not immediately addressed. Examples include: contaminated batches of diagnostic reagents distributed widely, systemic design failures affecting a large population of implantable devices, or widespread quality defects in high-volume devices.
 
 ## Trend Monitoring
 Trend monitoring is an integral part of the PMS system. Manufacturers must establish thresholds and monitoring processes in their PMS plan and document trend monitoring activities in the PMS report or PSUR.

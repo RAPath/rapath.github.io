@@ -7,7 +7,7 @@ keywords: [ANVISA, Brazil, medical device]
 
 # Sistema Nacional de Vigilância Sanitária (SNVS — National Health Surveillance System), coordinated by ANVISA, Supply Chain Traceability Initiatives
 
-Brazil's SNVS has several initiatives aimed at improving supply chain traceability for medical devices, particularly for devices used in the public health system (SUS — Sistema Único de Saúde):
+Brazil's Sistema Nacional de Vigilância Sanitária (SNVS — National Health Surveillance System), coordinated by ANVISA, has several initiatives aimed at improving supply chain traceability for medical devices, particularly for devices used in the public health system (SUS — Sistema Único de Saúde):
 
 **BNAFAR / REDS:** ANVISA's databases for recording product registrations and distribution data, used as the basis for supply chain oversight.
 

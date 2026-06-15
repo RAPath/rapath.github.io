@@ -13,3 +13,7 @@ description: Special access pathways for unregistered medical devices in Switzer
 :::warning Disclaimer
 AI-assisted navigation aid only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
 :::
+
+Add after the 'Covers' section heading:
+
+'Special access pathways allow patients with serious unmet needs to access unregistered or investigational devices outside standard regulatory routes. Each pathway has distinct requirements, timelines, and legal bases. The primary distinction is whether the device is in clinical investigation (clinical investigation pathways) or already developed (named-patient access, hospital exemption, compassionate use).'

@@ -10,7 +10,7 @@ description: Singapore's participation in the International Medical Device Regul
 
 The **International Medical Device Regulators Forum (IMDRF)** is a voluntary group of medical device regulators from around the world that works to harmonise regulatory requirements for medical devices globally. IMDRF is the successor body to the Global Harmonization Task Force (GHTF).
 
-IMDRF members include regulatory authorities from around 25 jurisdictions, including: HSA (Singapore), TGA (Australia), Health Canada, FDA (USA), MHLW/PMDA (Japan), EDPB/NANDO (EU), NMPA (China), ANVISA (Brazil), and several others. For the complete current member list, visit imdrf.org.
+IMDRF members include regulatory authorities from around 30 jurisdictions (verify current membership at imdrf.org for the most up-to-date count), including: HSA (Singapore), TGA (Australia), Health Canada, FDA (USA), MHLW/PMDA (Japan), EDPB/NANDO (EU), NMPA (China), ANVISA (Brazil), and several others. For the complete current member list, visit imdrf.org.
 
 IMDRF website: [imdrf.org](https://www.imdrf.org)
 

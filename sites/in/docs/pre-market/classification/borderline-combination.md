@@ -18,10 +18,12 @@ A **borderline product** is one where it is unclear whether it should be regulat
 
 ## How CDSCO handles borderline cases
 
-CDSCO will determine the primary mode of action. If the device component is primary and the drug component is secondary, MDR 2017 applies (and the drug component requires a separate drug licence). If the drug is primary, drug regulation applies.
+CDSCO determines the primary mode of action (PMOA). If the device component is primary and therapeutic action is primarily achieved through the device, MDR 2017 applies; the drug component requires a separate drug approval. If the drug component is primary, the product is regulated as a drug under the Drugs and Cosmetics Act, 1940.
 
 Manufacturers should submit a pre-submission inquiry (PSI) to CDSCO seeking formal clarification on borderline classification status before conducting full developmental studies. While India does not have a formal advisory procedure equivalent to the EU SCENIHR, CDSCO will typically respond to written requests within 30-45 days.
 
 ## Combination products
 
 India does not yet have a dedicated combination product regulation equivalent to 21 CFR Part 3 (USA) or Article 1(8) EU MDR. A pragmatic approach — seek guidance from CDSCO — is recommended before submission.
+
+Add procedural guidance: 'Pre-submission inquiries (PSI) should be submitted in writing to CDSCO, preferably through the SUGAM portal or via official email channels. The inquiry should include: device name and description, intended use, technical specifications, preliminary classification assessment, and any relevant supporting documentation. Response timelines are typically 30-45 days but may vary depending on complexity.'

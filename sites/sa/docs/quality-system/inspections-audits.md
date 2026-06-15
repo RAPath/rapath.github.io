@@ -22,7 +22,7 @@ SFDA inspections are most common for:
 - **Following adverse events or FSCAs** — triggered inspections when safety signals are identified
 - **Routine market surveillance** — periodic inspections of distributors, importers, and ARs
 
-Class A and B manufacturers are less commonly subject to SFDA site inspection, but it remains an SFDA option for all classes.
+Class A and B manufacturers are less commonly subject to routine SFDA site inspection, but the SFDA retains the authority to inspect manufacturers of all classes, particularly if adverse events, FSCAs, or compliance concerns are identified.
 
 ## Responding to SFDA findings
 

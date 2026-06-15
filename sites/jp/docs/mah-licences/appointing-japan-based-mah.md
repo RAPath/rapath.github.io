@@ -10,7 +10,7 @@ sidebar_position: 7
 When selecting a Japan-based Kannin MAH, assess:
 
 Regulatory credentials:
-Does the company hold a valid MAH licence for the relevant device class (check licence status on MHLW public database)?
+Does the company hold a valid MAH licence for the relevant device class? (Verify licence status and scope on the MHLW medical device licence search database or by requesting a copy of the current licence certificate from the company.)
 What is the Responsible Technical Officer's education, training, and experience in medical device regulation?
 Does the company have documented experience managing approvals for the same or similar device types or therapeutic areas?
 
@@ -40,3 +40,5 @@ A well-drafted Kannin MAH agreement must specify:
 - Approval transfer obligations on termination (both parties must cooperate in the transfer process)
 - Indemnification provisions
 - Term, renewal, and termination triggers
+
+RTO Qualification Verification: Ask the MAH candidate to provide evidence of the RTO's qualifications, including educational background (typically pharmaceutical science, chemistry, engineering, or related field), years of experience in medical device regulation or manufacturing, and any MHLW recognition or training certifications. MHLW expects RTOs to have demonstrated competence in medical device law and quality systems.

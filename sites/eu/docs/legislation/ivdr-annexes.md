@@ -9,7 +9,7 @@ tags: [ivdr, legislation, annexes]
 # IVDR Annexes — all 16
 
 :::note Regulatory basis
-Annexes I–XVI of **Regulation (EU) 2017/746 (IVDR)**. The IVDR contains 16 Annexes (compared to MDR's 17) that mirror the MDR structure with significant adaptations for the in vitro diagnostic context, including classification rules, conformity assessment procedures, and performance evaluation requirements specific to IVDs.
+Annexes I–XVI of **Regulation (EU) 2017/746 (IVDR)**. The IVDR contains 16 Annexes (compared to MDR's 17) that largely mirror the MDR structure with significant adaptations for the in vitro diagnostic context. Key differences include IVD-specific classification rules, conformity assessment procedures emphasizing analytical and clinical performance rather than clinical investigations, and performance evaluation requirements that focus on analytical validity, clinical validity, and clinical utility.
 :::
 
 :::warning Disclaimer
@@ -74,7 +74,7 @@ Economic operator registration data and UDI-DI / UDI-PI information for IVDs —
 
 ## Annex VII — Requirements for notified bodies
 
-Same structure as MDR Annex VII. Notified bodies seeking IVDR designation must demonstrate competence in IVD-specific areas:
+Parallel to MDR Annex VII with IVD-specific competence requirements. Notified bodies seeking IVDR designation must demonstrate competence in:
 - Analytical chemistry and immunoassay methodology
 - Molecular diagnostics (PCR, NGS, etc.)
 - Clinical laboratory operations
@@ -181,3 +181,7 @@ Currently reserved; no content assigned.
 Complete the Annex XI description: 'Annex XI — Product conformity verification
 
 Parts A and B — same structure as MDR Annex XI. Part A covers production quality assurance (QA) for Class B and C devices; Part B covers product conformity verification for Class B and C devices using statistical sampling. Neither part applies to Class D devices, which use Annex IX only.'
+
+The Annex X section ends with 'Available for Class B and C IVDs. Used in combi' and needs completion. It should read: 'Annex X — EU type examination
+
+Available for Class B and C IVDs. Used in combination with Annex XI for these classes. The NB examines and tests a representative specimen of the IVD against the technical documentation and applicable standards, issuing an EU type examination certificate that can support multiple conformity assessment applications.'

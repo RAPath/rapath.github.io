@@ -20,7 +20,7 @@ Permitted claims are those that are:
 - Not misleading — do not overstate benefits, understate risks, or imply effectiveness the device does not have
 - Not comparative in a way that disparages competitors — comparative claims must be fair and supported by evidence
 
-Examples of permitted claims for a Class IIa blood glucose monitor include claims about measurement accuracy, ease of use, and compatibility with diabetes management — all consistent with the device's ARTG-approved intended purpose.
+Example: A Class IIa blood glucose monitor's ARTG entry approves the intended purpose 'for measurement of blood glucose levels'. Permitted claims include measurement accuracy, ease of use, and information consistent with diabetes management — all derived from the ARTG-approved intended purpose. Claims suggesting the device 'prevents' or 'treats' diabetes would not be permitted.
 
 ---
 
@@ -69,7 +69,7 @@ Testimonials from health professionals or hospitals
 Current health professionals, government bodies, hospitals, and healthcare facilities cannot endorse therapeutic goods in advertising directed to the public.
 
 Off-label claims
-Claims that a device is effective for uses beyond its ARTG-approved intended purpose are prohibited.
+Claims that a device is effective for uses beyond its ARTG-approved intended purpose are prohibited. If a device is approved only for monitoring blood glucose in Type 2 diabetes, advertising claims about its use in Type 1 diabetes management would be off-label and prohibited. Similarly, claims that a device is effective for conditions not included in its approved indications breach advertising requirements..
 
 Unsubstantiated claims
 Any claim — whether about safety, performance, or clinical outcomes — must be substantiated. The TGA can issue substantiation notices requiring advertisers to provide evidence for claims.
@@ -100,4 +100,4 @@ The TGA has published specific guidance on advertising therapeutic goods on soci
 - [Labelling Requirements](./labelling-requirements.md)
 - [Advertising Rules](./advertising-rules.md)
 
-The final paragraph should be completed with: 'for uses beyond its ARTG-approved intended purpose are prohibited. If a device is approved only for monitoring blood glucose in Type 2 diabetes, advertising claims about its use in Type 1 diabetes management would be off-label and prohibited. Similarly, claims that a device is effective for conditions not included in its approved indications breach advertising requirements.'
+The final paragraph

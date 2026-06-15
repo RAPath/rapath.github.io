@@ -47,3 +47,10 @@ Current fees and turnaround times for dealer's licence applications are publishe
 - [HSA: Apply for a dealer's licence](https://www.hsa.gov.sg/medical-devices/dealers-licence/apply)
 - [HSA: QMS for Medical Devices](https://www.hsa.gov.sg/medical-devices/dealers-licence/quality-management-system-(qms)-for-medical-devices)
 
+Add a new section:
+
+**Renewal applications**
+
+Renewal applications follow a similar process to initial applications, but the focus is on confirming ongoing compliance rather than initial assessment. Renewal applications should be submitted well in advance of the licence expiry date (typically at least 3 months before expiry) to allow HSA sufficient processing time without a gap in licensing. Current fees and turnaround times for renewals are published at: hsa.gov.sg/medical-devices/fees
+
+Replace the incomplete sentence 'Upon satisfactory assessment, HSA issues the dealer's licence with specified The inspection typically verifies that premises, storage conditions, and QMS implementation meet stated requirements. conditions and a defined validity period (typically 3 years).' with: 'Upon satisfactory assessment, HSA issues the dealer's licence with specified conditions and a defined validity period (typically 3 years). The inspection verifies that premises, storage conditions, and QMS implementation meet stated requirements.'

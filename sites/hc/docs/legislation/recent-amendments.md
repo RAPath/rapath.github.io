@@ -35,3 +35,5 @@ To stay informed of regulatory amendments:
 :::
 
 Replace 'as of May 2026' with 'as of the last update' or provide a specific past date (e.g., 'as of May 2024'). Alternatively: 'A regulatory framework is anticipated, though specific timelines remain under development. Check Health Canada's consultation page for the latest status.'
+
+Replace the sentence 'A regulatory framework is anticipated, though final regulations were still in development as of May 2026.' with: 'A regulatory framework is anticipated, though specific timelines remain under development. Check Health Canada's consultation page for the latest status.'

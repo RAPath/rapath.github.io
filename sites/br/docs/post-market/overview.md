@@ -9,7 +9,7 @@ keywords: [post-market, ANVISA, Brazil, Tecnovigilância, PMS, NOTIVISA, recalls
 
 ## What post-market obligations apply?
 
-Once a device is on the Brazilian market, the registration holder and other economic operators have ongoing obligations. These fall into five main areas:
+Once a device is on the Brazilian market, the registration holder and other economic operators (manufacturers, importers, distributors, and healthcare facilities) have ongoing obligations. These fall into five main areas:
 
 | Obligation | Regulatory basis | Applies to |
 |---|---|---|
@@ -32,4 +32,8 @@ After registration, any change that affects safety, performance, intended use, o
 - [ANVISA — Tecnovigilância](https://www.gov.br/anvisa/pt-br/assuntos/produtossaude/produtos-para-saude/tecnovigilancia)
 - [NOTIVISA](https://notivisa.anvisa.gov.br)
 
-Note: Post-market surveillance (PMS) is mandatory for Class III and IV devices. Class II devices may use a simplified PMS approach submitted with the Cadastro registration.
+Note: Post-market surveillance (PMS) is mandatory for Class III and IV devices. Class II devices may use a simplified PMS approach (plano simplificado de tecnovigilância) submitted with the Cadastro registration, though some Class II devices may still require full PMS depending on risk profile.
+
+Add a note after the obligations table: 'Note: Post-market surveillance (PMS) is mandatory for Class III and IV devices. Class II devices may use a simplified PMS approach submitted with the Cadastro registration.'
+
+Add to the Adverse event reporting row in the table or as a separate note: "Adverse events must be reported to NOTIVISA within 72 hours of awareness for serious adverse events, or within 30 days for non-serious adverse events, in accordance with RDC 753/2022."

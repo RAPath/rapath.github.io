@@ -26,7 +26,7 @@ ANVISA-registered medical devices that are included on Brazil's **Strategic Heal
 
 ## Regulatory implications of PDPs
 
-Products manufactured under a PDP by a Brazilian domestic partner must obtain their own ANVISA registration. The original foreign registration held by the technology holder is not automatically transferred — a new Registro or Cadastro must be obtained by the domestic producer.
+Products manufactured under a PDP by a Brazilian domestic partner must obtain their own ANVISA registration independent of the technology holder's original registration. The domestic producer must submit a complete registration application (Registro, Cadastro, or Notificação, depending on device class) and cannot reference or inherit the technology holder's foreign or Brazilian registrations.
 
 - [Ministry of Health — PDPs](https://www.gov.br/saude/pt-br/composicao/sectics/pdp)
 

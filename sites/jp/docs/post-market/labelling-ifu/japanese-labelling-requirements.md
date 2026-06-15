@@ -11,7 +11,7 @@ Japanese labelling requirements are specified in the PMD Act (Article 63 onwards
 
 ## Mandatory label elements
 
-All medical devices placed on the Japanese market must have labels that include the following in Japanese:
+All medical devices placed on the Japanese market must display labels with the following mandatory elements in Japanese:
 
 | Element | Notes |
 | --- | --- |
@@ -52,3 +52,5 @@ Mandatory label elements may appear on the device itself, on packaging, or on bo
 Instructions for Use (IFU) requirements
 
 In addition to device labelling, medical devices must be accompanied by Instructions for Use (IFU) in Japanese. The IFU must include: intended use, directions for proper use, contraindications, warnings and precautions, maintenance/storage instructions, and troubleshooting guidance (where applicable). The IFU may be provided in printed or electronic format, subject to PMDA approval of the electronic distribution method.
+
+Add after the 'JMDN code on label' section: "The JMDN code must be displayed on the label in its standard format (typically a 7-digit numerical code). The JMDN code alone fulfills the device identification requirement for procurement purposes; however, it should be accompanied by the device brand name and model number for user clarity."

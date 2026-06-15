@@ -39,3 +39,7 @@ CDRH leads if: The primary mode of action is device-based (the drug/biologic com
 CDER leads if: The primary mode of action is drug or biologic-based (the drug/biologic mechanism is primary, and the device is ancillary)
 
 When PMOA is unclear, FDA's Office of Combination Products (OCP) can provide guidance through a Combination Product Classification Request.
+
+**Requesting a PMOA Determination**
+
+When the primary mode of action is unclear, sponsors should submit a Combination Product Classification Request to FDA's Office of Combination Products (OCP). OCP typically responds within 30 days of a complete request. This determination should be obtained before finalizing your premarket submission strategy, as it directly determines which center (CDRH or CDER) will lead the review and what regulatory pathway applies.

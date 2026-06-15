@@ -56,10 +56,14 @@ A device with an approved PCCP can implement pre-specified changes **without sub
 
 Most SaMD products follow the 510(k) pathway and must:
 
-Identify an appropriate predicate device — the predicate may be another SaMD product, a cleared medical device software component, or a substantially equivalent hardware device with the same intended use
+Identify an appropriate predicate device — the predicate must have the same or similar intended use and technological characteristics. Valid predicates include cleared/approved SaMD products, cleared software components of hardware devices, or in some cases substantially equivalent hardware devices that perform comparable functions (though hardware predicates may be challenging for software-based algorithms)
 
 Demonstrate substantial equivalence — show that the SaMD is as safe and effective as the predicate device in terms of performance, indications for use, and technological characteristics
 
 Submit software documentation — including software specifications, algorithm descriptions, cybersecurity documentation, and clinical/analytical validation data
 
 Note: Identifying a predicate device is more challenging for novel AI/ML algorithms; sponsors may pursue De Novo classification if no suitable predicate exists.
+
+**Clinical Decision Support (CDS) Exemption – 21st Century Cures Act**
+
+Under the 21st Century Cures Act (2016), CDS software is NOT a device if it: (1) provides recommendations to, but is not the primary basis for, clinical decisions; (2) is transparently developed with publicly available algorithms; (3) allows healthcare providers to modify or override recommendations; and (4) does not acquire, process, or interpret patient-specific data. If your CDS software does not meet all four criteria, it is likely a device and subject to FDA oversight.

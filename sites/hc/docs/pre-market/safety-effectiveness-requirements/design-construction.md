@@ -78,3 +78,5 @@ Devices must maintain their safety and effectiveness characteristics throughout 
 - The effects of sterilisation processes (for sterile devices)
 
 > **Legislative source:** Medical Devices Regulations, SOR/98-282, Schedule 1, Part 1 (ss 3–9)
+
+Add a new section after 'Shelf life and degradation': 'Labelling requirements related to design and construction — Labelling must communicate relevant information about chemical, physical, and biological properties, including: storage conditions, handling warnings, sterilization method and validation, incompatible materials or substances, and any special precautions related to the device's construction materials or electrical/mechanical properties. See Labelling and Instructions for Use requirements for complete guidance.'

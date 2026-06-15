@@ -38,7 +38,7 @@ The manufacturer does not register directly — all GB registration is handled t
 
 ### 3. Authorised representatives
 
-UK-established authorised representatives who have been explicitly authorised in writing by a manufacturer to carry out registration and MHRA interactions on that manufacturer's behalf.
+UK-established authorised representatives who have been explicitly authorised in writing by a non-UK manufacturer to carry out registration and MHRA interactions on that manufacturer's behalf. (Note: Authorised representatives for UK manufacturers are not required to register separately as they act through the manufacturer's registration.)
 
 ---
 

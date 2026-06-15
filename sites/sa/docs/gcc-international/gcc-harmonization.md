@@ -20,7 +20,7 @@ The GCC has developed harmonised standards and frameworks across multiple sector
 
 ## GCC medical device harmonisation
 
-GCC member states have worked toward harmonising medical device regulatory requirements, with the goal of streamlining market access across all six countries. However, each member state maintains its own national regulatory authority and registration process:
+GCC member states have implemented harmonised classification rules and technical documentation standards with the goal of streamlining market access across all six countries. However, each member state maintains independent regulatory authority and conducts its own pre-market review and registration process:
 
 | Country | Regulator |
 |---|---|

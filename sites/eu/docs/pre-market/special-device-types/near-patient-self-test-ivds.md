@@ -28,7 +28,7 @@ This site provides general information only and does not constitute legal or reg
 - Emergency department rapid testing
 - Ambulance or field testing
 
-NPT devices are designed for operation by healthcare professionals who may not be specialist laboratory scientists. They may be simpler to operate, require less sample preparation, and deliver results faster than laboratory platforms.
+NPT devices are designed for operation by healthcare professionals at the point of care (such as nurses, physicians, or paramedics) who may not be specialist laboratory scientists. They are typically simpler to operate, require minimal sample preparation, and deliver results faster than laboratory-based platforms.
 
 ### Self-test
 
@@ -130,3 +130,5 @@ Self-test device post-market surveillance has unique aspects:
 | MDCG 2022-9 | Performance evaluation guidance (includes self-test) |
 
 The section "Labelling and IFU requirements for self-test devices" currently ends with "Illustrated with step-by-step pictures" and "A" incomplete. Complete this section with: "A reading level appropriate for the general population (typically no higher than secondary school level); Color-coded or symbol-based result indicators (e.g. positive/negative/invalid clearly marked); Clear instructions on what action to take based on the result (e.g. 'If positive, contact your doctor immediately'); Contact information for customer support or further information; Language requirements: IFU must be in the official language(s) of the country where the device is marketed."
+
+Self-test IFU must be: Written in plain language — no technical jargon; Illustrated with step-by-step pictures; Include clear, unambiguous result interpretation guidance (e.g. 'two lines = positive'; 'one line = negative'); Specify what to do if the result is unclear or invalid; Advise when to seek professional medical advice; Include information on device storage, shelf life, and proper handling; Provide contact information for customer support or complaints; Be available in the language of the intended market.

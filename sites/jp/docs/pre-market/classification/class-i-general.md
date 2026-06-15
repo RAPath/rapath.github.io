@@ -38,4 +38,4 @@ Despite the light pre-market requirements, Class I MAHs still have post-market o
 
 The QMS Ordinance (MO 169) requirements are also lighter for Class I manufacturers than for higher classes, but a basic quality system is still required.
 
-The prefectural government typically acknowledges receipt of a Todokede notification within 1–2 weeks. There is no statutory timeline for approval; acknowledgement constitutes acceptance and marketing may begin immediately. However, the MAH must retain proof of notification.
+The prefectural government typically acknowledges receipt of a Todokede notification within 1–2 weeks. There is no statutory review timeline; acknowledgement by the prefectural government constitutes acceptance, and marketing may begin immediately upon receipt of acknowledgement. However, the MAH must retain proof of notification.

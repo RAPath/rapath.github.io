@@ -15,7 +15,12 @@ MedDO Annex I § 17.2 requires software-based devices to achieve a level of IT s
 Technical documentation must include: cybersecurity risk assessment integrated with the risk management file; threat modelling outputs; security controls implemented (encryption, authentication, access controls); minimum hardware/software environment description; penetration test results (for connected devices); software bill of materials (SBOM).
 
 ## Post-Market Cybersecurity
-Post-market obligations include: monitoring CVE databases for vulnerabilities in third-party components; issuing security patches through the PMS system; reporting cybersecurity incidents that constitute serious incidents to Swissmedic via eVigilance.
+Post-market obligations include: establishing and monitoring a documented process to track CVE databases and vendor security advisories for vulnerabilities affecting third-party components and dependencies; developing and issuing security patches or updates through the Post-Market Surveillance (PMS) system with documented patch management timelines; reporting cybersecurity incidents that constitute serious incidents (those affecting device safety or function) to Swissmedic via eVigilance within the required timeframe; maintaining records of all cybersecurity-related post-market activities for inspection.
+
+
+Software Composition Analysis and Vulnerability Scanning
+​
+Manufacturers should implement automated software composition analysis (SCA) tools to identify third-party components and open-source libraries in the device's software. Conduct vulnerability scanning against CVE databases (NVD, GitHub Security Advisory, vendor-specific advisories) during development and before release. Document all identified vulnerabilities and the remediation or risk acceptance decisions. For connected devices and those with internet-facing components, annual vulnerability rescans are recommended as part of post-market surveillance.
 
 ## Official Sources
 - [MedDO Annex I § 17 (SR 812.213)](https://www.fedlex.admin.ch/eli/cc/2021/205/en)

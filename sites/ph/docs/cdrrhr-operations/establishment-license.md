@@ -95,4 +95,6 @@ Both LTO and product registration applications are subject to the **one-time com
 - The 90-day period is a single opportunity — partial responses do not restart the clock for unaddressed items
 - If no response or incomplete response within 90 days: application is deemed abandoned
 
-Plan your compliance responses carefully. Address all deficiency items completely in one comprehensive response package.
+Strategic tip: Plan your compliance responses carefully. Address all deficiency items completely in one comprehensive response package. Partial responses do not restart the 90-day clock and will result in application abandonment if unaddressed items remain.
+
+LTO validity period: [Insert specific number of years per CDRRHR regulations]. Submit renewal applications at least [Insert recommended advance notice period, e.g., 90 days] before expiry. A lapsed LTO invalidates the entity's ability to submit new CMDN/CMDR applications and may invalidate existing certificates.

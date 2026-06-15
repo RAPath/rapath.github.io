@@ -8,7 +8,7 @@ description: Device registration renewal process in Malaysia, including timeline
 
 ## Registration Validity
 
-All medical device registrations in Malaysia are valid for **5 years** from the date of approval. At the end of this period, the registration must be renewed or the device can no longer be legally legally supplied in Malaysia, and any stock in the supply chain may be subject to quarantine or recall. Late renewal can also trigger enforcement action against the manufacturer or distributor.
+All medical device registrations in Malaysia are valid for **5 years** from the date of approval. At the end of this period, the registration must be renewed or the device can no longer be legally supplied in Malaysia, and any stock in the supply chain may be subject to quarantine or recall. Late renewal can also trigger enforcement action against the manufacturer or distributor.
 
 ## When to Apply for Renewal
 

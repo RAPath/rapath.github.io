@@ -76,3 +76,9 @@ FDA publishes **quarterly MDUFA performance reports** measuring actual performan
 
 What counts as substantially complete
 A submission is considered substantially complete when it contains all required sections, required forms, and sufficient information for FDA to begin its review. Submissions with missing required elements will be issued a Refuse to Accept (RTA) letter and the review clock does not start until resubmission.
+
+Add new section after 'What the clock includes (and excludes)': 'What counts as substantially complete
+A submission is considered substantially complete when it contains all required sections, required forms, and sufficient information for FDA to begin its review. Submissions with missing required elements will be issued a Refuse to Accept (RTA) letter and the review clock does not start until resubmission.'
+
+**What counts as a substantive response:**
+A substantive response must address the specific deficiencies or questions raised in the Additional Information request. Minor clarifications or requests for additional time do not restart the review clock. If FDA determines the response is not substantive, the clock remains paused until adequate information is provided.

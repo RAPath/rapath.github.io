@@ -81,3 +81,8 @@ Regulatory affairs consultants and professionals who act on behalf of regulated 
 
 Class I manufacturers with additional activities
 A Class I manufacturer that also imports or distributes devices must hold an MDEL covering all applicable activities (manufacture, importing, distributing). The MDEL requirements apply in addition to quality management obligations.
+
+Add after the 'Foreign manufacturers' section:
+
+Class I manufacturers with additional activities
+A Class I manufacturer that also imports or distributes devices must hold an MDEL covering all applicable activities (manufacture, importing, distributing). The MDEL requirements apply in addition to quality management obligations.

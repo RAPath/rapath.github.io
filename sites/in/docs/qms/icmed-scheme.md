@@ -34,3 +34,5 @@ ICMED certification validates that a manufacturer's QMS complies with **Schedule
 4. Receive ICMED certificate, valid for 3 years. Certification requires annual surveillance audits to maintain validity.
 
 > **Official source:** [QCI ICMED](https://www.qcin.org/icmed)
+
+ICMED certification is increasingly recognised by CDSCO and SLAs, though recognition varies by region and device class. As of 2024, ICMED 13485 is widely accepted for Class C and D licence applications and import approvals. ICMED Basic is accepted for Class A and B manufacturers where Schedule 5 Part I compliance is demonstrated. Manufacturers should verify current acceptance status with their respective licensing authority before relying on ICMED as sole evidence of GMP compliance.

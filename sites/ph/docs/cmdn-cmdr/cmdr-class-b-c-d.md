@@ -54,7 +54,7 @@ ISO 13485 certificate from an internationally accredited certification body, cov
 Risk management summary covering hazard identification, risk controls, and benefit-risk analysis.
 
 ### 7. Clinical / Performance Evaluation
-- Class B: Clinical evaluation summary or equivalent literature evidence
+- Class B: Clinical evaluation report (CER) or equivalent literature-based evidence summarising existing clinical data supporting safety and performance
 - Class C: Detailed CER; may require clinical investigation data for novel devices
 - Class D: Comprehensive clinical evidence; rigorous CER
 

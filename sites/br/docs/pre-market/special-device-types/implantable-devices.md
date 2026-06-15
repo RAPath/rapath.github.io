@@ -7,7 +7,7 @@ keywords: [ANVISA, Brazil, medical device]
 
 # Implantable Devices
 
-Most implantable devices are Class IV under RDC 751/2022.
+Most implantable devices are classified as Class IV (highest risk) under RDC 751/2022, though some simple implantable devices (e.g., bone fixation plates with well-established designs) may be Class II or III. Classification depends on risk assessment per RDC 751/2022 Annex I.
 
 ## Key technical requirements
 
@@ -32,3 +32,5 @@ Verify all information against official [ANVISA](https://www.gov.br/anvisa) sour
 :::
 
 The implant card must contain at minimum: device name, manufacturer, serial number, implantation date, and patient identifier. ANVISA does not prescribe a specific format (physical card, digital, or barcode), but the mechanism must enable device traceability in post-market surveillance and rapid identification in medical emergencies.
+
+Clinical Evidence Requirements: ANVISA typically requires clinical data (clinical trials, published literature, or registry data) demonstrating safety and performance for Class IV implantable devices. The extent of clinical evidence required depends on the device type, risk profile, and whether similar predicate devices exist in Brazil. For novel implantable devices without predicate equivalents, pivotal clinical trials may be required before approval.

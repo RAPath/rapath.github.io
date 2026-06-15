@@ -20,7 +20,7 @@ A NOM is issued under the authority of the **Ley Federal sobre Metrología y Nor
 | Mexican Standard | NMX | No — voluntary | IMNC / industry bodies |
 | International standard | ISO / IEC | No (unless incorporated into a NOM) | ISO / IEC |
 
-Many international standards (ISO 13485, ISO 14971, ISO 10993) are widely used in Mexico and recognised by COFEPRIS — but compliance with them is achieved through their equivalency to NOM requirements, not because ISO standards are independently incorporation into or binding under Mexican law.
+Many international standards (ISO 13485, ISO 14971, ISO 10993) are widely used in Mexico and recognised by COFEPRIS — but compliance with them is achieved through their equivalency to NOM requirements, not because ISO standards are independently incorporated into or binding under Mexican law.
 
 ## Key device-related NOMs
 

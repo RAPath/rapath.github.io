@@ -167,3 +167,5 @@ This information must be updated if the manufacturer's details change. Manufactu
 | ISO 13485:2016 | Medical device QMS standard |
 
 Complete the truncated sentence. It should read: 'Maintain distribution records sufficient to enable field safety actions to reach all customers who have received a device.'
+
+Complete the truncated sentence: 'Maintain distribution records sufficient to enable field safety actions to re-trace the device distribution pathway and facilitate rapid recall operations.'

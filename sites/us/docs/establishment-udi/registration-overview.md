@@ -44,4 +44,13 @@ FDA charges an annual registration fee (set under MDUFA). For FY2026 the standar
 - [FURLS — FDA Registration Portal](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfrl/rl.cfm)
 - [FDA — Registration and Listing](https://www.fda.gov/medical-devices/how-study-and-market-your-device/device-registration-and-listing)
 
-The FEI is a unique 10-digit identifier assigned to your establishment and is required on all premarket submissions, device listings, and adverse event reports. Keep this number on file as it identifies your establishment in all FDA databases.
+The FEI (FDA Establishment Identifier) is a unique 10-digit number assigned to your registered establishment. It is required on: all premarket submissions (510(k), PMA, De Novo), device listings (GUDID), adverse event reports (MDR), and correspondence with FDA. Maintain this number permanently as it is the master identifier for your establishment across all FDA systems and regulatory databases.
+
+Add after receiving the FEI number: 'The FEI is a unique 10-digit identifier assigned to your establishment and is required on all premarket submissions, device listings, and adverse event reports. Keep this number on file as it identifies your establishment in all FDA databases.'
+
+**Expired Registration Consequences:**
+If registration is not renewed by December 31, your establishment status will expire and become inactive. Expired establishments:
+- Cannot legally manufacture, import, or distribute devices in the USA
+- Cannot submit new premarket applications
+- May face FDA enforcement action if operations continue
+- Must re-register and pay the full annual fee (no prorating) to restore active status

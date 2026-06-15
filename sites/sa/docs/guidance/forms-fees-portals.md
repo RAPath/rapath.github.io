@@ -71,3 +71,11 @@ See [SFDA Review Timelines](../mdma-registration/review-timelines) for indicativ
 - [Guidance Overview](./guidance-overview)
 
 Modify the 'Application fees' section to include:
+
+Modify the 'Application fees' section to include:
+
+**How to access current fee schedules**
+
+Fee schedules are published on the SFDA website under: **Medical Devices → Registration and Licensing → Fees**. You can also request the current fee schedule from your Authorized Representative or contact the SFDA through the GHAD portal's enquiry channel. Fees are typically updated annually; always verify the schedule applicable to your submission date before budgeting.
+
+After the GHAD portal URL, add: 'Access GHAD via the SFDA e-Services website at www.sfda.gov.sa → e-Services → GHAD Portal. If the direct URL has changed, always access GHAD through the official SFDA website.'

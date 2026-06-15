@@ -38,7 +38,7 @@ The PTR is a China-specific document that becomes part of the registration certi
 
 ## Testing report requirements
 
-All performance testing must generally be conducted in China-recognised testing institutions (国家药品监督管理局认可的检验机构). NMPA maintains a list of recognised testing laboratories. Some overseas test data may be accepted with additional supporting documentation.
+All performance testing must generally be conducted in NMPA-recognised testing institutions (国家药品监督管理局认可的检验机构). NMPA maintains an updated list of recognised testing laboratories on its website. Overseas test data conducted at internationally accredited laboratories (e.g. ISO/IEC 17025 accredited) may be accepted if accompanied by English translation and a statement of comparability to China testing standards.
 
 ---
 
@@ -49,3 +49,5 @@ Biological evaluation must follow **YY/T 0268** (harmonised with ISO 10993 serie
 :::note Disclaimer
 Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [NMPA](https://www.nmpa.gov.cn/) sources before making regulatory decisions. Not affiliated with NMPA or any Chinese Government body. Not legal or regulatory advice.
 :::
+
+After 'Testing report requirements' section heading, add: 'NMPA maintains a regularly updated list of recognised testing laboratories (国家医疗器械检测中心) on its official website. Manufacturers should verify that selected labs are on this list before submitting test reports. For certain testing types (e.g., biocompatibility, electrical safety), only NMPA-designated institutions may be accepted.'

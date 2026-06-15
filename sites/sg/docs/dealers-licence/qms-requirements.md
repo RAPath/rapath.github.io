@@ -45,3 +45,8 @@ Before a dealer's licence can be issued, an **HSA-recognised Medical Device Audi
 - [HSA: QMS for Medical Devices](https://www.hsa.gov.sg/medical-devices/dealers-licence/quality-management-system-(qms)-for-medical-devices)
 - [HSA: Medical Device Auditors](https://www.hsa.gov.sg/medical-devices/dealers-licence/medical-device-auditors)
 
+Add to the QMS scope section:
+
+**Risk class considerations**
+
+The complexity and extent of QMS documentation may scale with the risk classification of devices handled. Dealers handling only Class A devices may maintain a simpler QMS than those handling Class C devices. However, HSA's core QMS requirements (documented procedures, internal audit, CAPA, complaint handling) apply regardless of class. Dealers should discuss scope with their HSA-recognised auditor to ensure the QMS is proportionate but comprehensive.

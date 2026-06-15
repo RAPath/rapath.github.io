@@ -61,7 +61,7 @@ When filing a 510(k) or PMA, you must correctly identify the product code. FDA u
 - Apply the appropriate performance standards and special controls
 - Determine applicable MDUFA review timelines
 
-Selecting an incorrect product code is a common technical deficiency that can delay acceptance of a 510(k).
+Selecting an incorrect product code is a common technical deficiency that can delay or prevent acceptance of a 510(k) submission. FDA may issue a Refuse to Accept (RTA) determination if the product code cannot be verified or appears incorrect.
 
 ---
 
@@ -80,3 +80,5 @@ If your device type has no existing product code, you have two main options:
 - [FDA — Classification Database Help](https://www.fda.gov/medical-devices/classify-your-medical-device/product-code-classification-database)
 
 For De Novo requests, FDA will assign a new product code as part of the classification order. This product code can then be searched in the FDA Product Classification Database by future manufacturers seeking to use the device as a predicate for 510(k) submissions.
+
+Expand the 'When no product code exists' section to add: 'For De Novo requests, FDA will assign a new product code as part of the classification order. This product code can then be searched in the FDA Product Classification Database by future manufacturers seeking to use the device as a predicate for 510(k) submissions.'

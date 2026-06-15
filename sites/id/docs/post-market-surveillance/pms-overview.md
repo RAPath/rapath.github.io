@@ -56,4 +56,4 @@ A **Level 3 revocation with mandatory recall** requires the NIE holder to fund a
 Under the LAR structure, there is a **shared responsibility** for PMS:
 - The LAR is the legally accountable party in Indonesia
 - The manufacturer retains technical responsibility for global safety data, FSCA decisions, and product quality
-- Effective communication between manufacturer and LAR is essential — a poorly designed communication protocol is the most common source of PMS failures
+- Effective communication between manufacturer and LAR is essential. A poorly designed or reactive communication protocol is the most common source of PMS failures, particularly when clarification requests, adverse events, or regulatory queries are delayed in reaching the manufacturer's technical team.

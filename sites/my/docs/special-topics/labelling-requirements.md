@@ -97,3 +97,5 @@ Changes to labelling after registration are a **variation** and require prior MD
 :::warning DRN on Label
 The **Device Registration Number (DRN)** must appear on the label. If a device is registered after initial labelling design, the DRN must be added before supply. Devices supplied without the DRN on the label are non-compliant with Act 737.
 :::
+
+Complete the truncated IVD labelling section with: 'Analyte and specimen type must be clearly identified. The analytical measurement range must be stated. Reference intervals (where applicable) must be provided with documentation of the population on which they are based. Known interferences must be disclosed. The principles of the measurement procedure must be described. For quantitative IVDs, metrological traceability information should be provided. Any limitations on specimen type, patient population, or clinical use must be clearly stated.'

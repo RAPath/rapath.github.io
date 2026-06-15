@@ -170,3 +170,5 @@ Manufacturers of Class III and implantable Class IIb devices must prepare a **Pe
 | MDCG 2021-24 | Software classification |
 
 For Class IIb devices, the notified body must assess the technical documentation of at least one representative device per category and conduct a full conformity assessment. The extent of assessment is more comprehensive than Class IIa, reflecting the higher risk profile of these devices.
+
+Class IIb devices must undergo conformity assessment involving a notified body. The notified body must assess technical documentation of at least one representative device per category. The manufacturer may choose between: Annex IX (QMS + technical documentation review); Annex X (EU type examination) + Annex XI Part A or B (production quality assurance or product verification). Examples include ventilators, infusion pumps, orthopaedic implants that do not meet Class III criteria, active therapeutic devices intended to control or monitor Class IIb devices, and diagnostic imaging devices (excluding Class III ionising radiation devices).

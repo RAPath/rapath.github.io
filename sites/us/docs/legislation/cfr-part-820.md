@@ -43,7 +43,7 @@ The QMSR incorporates ISO 13485:2016 by reference with specific US additions. Ma
 
 - Manufacturers of finished medical devices distributed in the USA
 - Class II and III device manufacturers must comply with all sections
-- Class I manufacturers are exempt from many design controls for certain Class I devices, provisions but must still comply with CAPA (§ 820.100), complaint handling (§ 820.198), and quality records (§ 820.180)
+- Class I manufacturers are exempt from many design control provisions but must still comply with CAPA (§ 820.100), complaint handling (§ 820.198), and quality records (§ 820.180)
 
 ---
 
@@ -65,3 +65,7 @@ All complaints must be reviewed and evaluated for MDR reportability. A formal co
 - [FDA — QMSR Final Rule (2024)](https://www.fda.gov/medical-devices/quality-and-compliance-medical-devices/quality-management-system-regulation-qmsr)
 
 Manufacturers must be in full compliance with ISO 13485:2016 incorporation by February 2, 2026. During the transition period (February 2, 2024 – February 2, 2026), manufacturers may continue to comply with the previous version of Part 820 or may voluntarily adopt ISO 13485:2016 early.
+
+Add after the effectiveness date: 'Manufacturers must be in full compliance with ISO 13485:2016 incorporation by February 2, 2026. During the transition period (February 2, 2024 – February 2, 2026), manufacturers may continue to comply with the previous version of Part 820 or may voluntarily adopt ISO 13485:2016 early.'
+
+Add to the 'ISO 13485:2016 incorporation' section after the first paragraph: 'Compliance deadline: All manufacturers must be in full compliance with ISO 13485:2016 incorporation by February 2, 2026. During the transition period (February 2, 2024 – February 2, 2026), manufacturers may continue to comply with the previous version of Part 820 or may voluntarily adopt ISO 13485:2016 early.'

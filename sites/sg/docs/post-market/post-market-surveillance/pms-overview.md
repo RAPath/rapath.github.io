@@ -12,7 +12,7 @@ description: Post-market surveillance (PMS) obligations for medical device regis
 
 ## PMS under Singapore's framework
 
-While Singapore's HP(MD) Regulations 2010 do not prescribe a specific PMS format as detailed as the EU MDR (which requires formal PSUR or PMS plan documents for specific classes), registrants and manufacturers are expected to maintain an active PMS programme as part of their quality management system obligations.
+While Singapore's HP(MD) Regulations 2010 do not mandate a specific PMS documentation format or timeline as detailed as the EU MDR, registrants are expected to maintain a documented, active PMS programme proportionate to the device risk class as part of their quality management system obligations. The PMS approach should be commensurate with the device classification and the identified post-market risks.
 
 PMS activities typically include:
 - Monitoring customer complaints and post-market feedback;

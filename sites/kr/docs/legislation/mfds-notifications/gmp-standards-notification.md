@@ -22,3 +22,5 @@ A separate chapter (or separate notification under the IVD Act) covers IVD-speci
 - [KGMP overview](../../gmp-quality-system/overview-kgmp) · [MFDS on-site GMP inspection](../../gmp-quality-system/domestic-manufacturers/mfds-on-site-gmp-inspection)
 
 2016': "(Note: As of 2024, MFDS has not yet issued formal guidance on full adoption of ISO 13485:2022. Compliance with ISO 13485:2016 and existing KGMP requirements remains the current standard. Confirm with MFDS whether early adoption of 2022 version is acceptable.)"
+
+Add after 'ISO 13485:2016': "(Note: As of 2024, MFDS has not yet issued formal guidance on full adoption of ISO 13485:2022. Compliance with ISO 13485:2016 and existing KGMP requirements remains the current standard. Confirm with MFDS whether early adoption of 2022 version is acceptable.)"

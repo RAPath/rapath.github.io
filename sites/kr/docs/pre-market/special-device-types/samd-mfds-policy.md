@@ -4,7 +4,7 @@ description: "MFDS regulatory policy for Software as a Medical Device (SaMD) in 
 sidebar_position: 1
 ---
 
-MFDS has developed a comprehensive SaMD framework aligned with the IMDRF SaMD N10, N12, and N23 documents.
+MFDS has developed a comprehensive SaMD framework aligned with the IMDRF SaMD definition documents (N10 — definition and scope, N12 — lifecycle framework, N23 — validation of AI/ML), with guidance published in 2023.
 
 ## Classification
 
@@ -42,3 +42,7 @@ Example use cases for PCCP:
 • Clinical decision support: pre-approved modifications to evidence-based scoring systems
 ​
 PCCP is not applicable to fundamental algorithm changes in mechanism of action, new intended uses, or expansion to new patient populations, which require new submissions.
+
+PCCP submission and approval
+
+Manufacturers seeking PCCP approval must submit detailed documentation including: (1) algorithm design specifications and validation datasets; (2) pre-defined parameters for retraining (e.g., data sources, validation thresholds, performance acceptance criteria); (3) a monitoring and evaluation plan outlining how ongoing performance will be assessed; and (4) predefined change triggers and decision trees. MFDS review of PCCP submissions typically requires 6–12 months depending on complexity. Once approved, manufacturers may implement pre-defined changes without additional 품목허가 amendments, provided changes remain within the approved PCCP scope. Changes outside the PCCP scope require a new submission.

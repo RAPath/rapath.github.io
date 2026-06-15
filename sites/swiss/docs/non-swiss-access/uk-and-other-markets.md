@@ -18,9 +18,9 @@ The UK left the EU and has its own UKCA marking system for medical devices. Swis
 - Register with the **MHRA** (Medicines and Healthcare products Regulatory Agency)
 - Appoint a **UK Responsible Person** established in the UK
 - Apply the **UKCA mark** (or CE mark during the transitional period — verify current MHRA position)
-- Comply with UK MDR 2002 (as amended) requirements
+- Comply with UK MDR 2002 (as amended) and UKCA marking requirements under the Medical Devices Regulations 2020/1574
 
-The UK regulatory framework diverges from both MedDO and EU MDR in several areas. Always verify the current UK requirements on the MHRA website.
+The UK regulatory framework diverges from both MedDO and EU MDR in several areas, including notified body procedures, post-market surveillance reporting, and registration timelines. Always verify the current UK requirements on the MHRA website before finalizing your market access strategy.
 
 ## Switzerland → Other Major Markets
 
@@ -39,6 +39,12 @@ When planning simultaneous market access across CH, EU, and other jurisdictions:
 2. Use a single ISO 13485 QMS scope covering all markets
 3. Plan labelling for the most demanding language requirements (Swiss DE/FR/IT covers EU requirements in those languages)
 4. Sequence NB engagement for EU MDR first — Swiss market access follows as a procedural step
+
+
+Add after 'Apply the UKCA mark (or CE mark during the transitional period — verify current MHRA position)': 'Note: As of 2024, the transitional period for CE-marked devices has ended. All new medical devices placed on the UK market must carry the UKCA mark. Verify the current MHRA position on the acceptance of legacy CE-marked stock before planning market entry.'
+
+
+As of 1 January 2024, the transitional period for CE-marked devices has ended. All new medical devices placed on the UK market must carry the UKCA mark. Manufacturers with legacy CE-marked stock should verify the MHRA's grace period policy for distribution of existing inventory, as enforcement timelines may vary by device class.
 
 ## Official Sources
 - [MHRA — UK medical devices](https://www.gov.uk/topic/medicines-medical-devices-blood/medical-devices-regulation-safety)

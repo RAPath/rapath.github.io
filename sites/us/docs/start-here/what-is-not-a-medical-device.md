@@ -58,7 +58,7 @@ However, if the labelling includes disease claims (e.g., "monitors atrial fibril
 
 FDA's Product Classification Database ([accessdata.fda.gov](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPCD/classification.cfm)) is the starting point. If your product is not listed, consider:
 
-1. Submitting a Request for Designation (RFD) to FDA's Office of Combination Products (21 CFR Part 3).
+1. Submitting a Request for Designation (RFD) to FDA's Office of Combination Products to clarify whether your product is a device, drug, biologic, or combination product (21 CFR Part 3).
 2. Requesting a pre-submission meeting with CDRH to discuss classification questions.
 3. Consulting the relevant product-specific guidance documents.
 

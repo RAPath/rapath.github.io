@@ -325,3 +325,5 @@ This is not optional — a classification without a documented rationale is not 
 | EU MDD 93/42/EEC, Annex IX | Source of Schedule 2 rules (for reference) |
 
 The page ends with 'Step 2 — Apply the relevant rules: Rule' and appears to be missing the remainder of the classification rules guidance (Rules 5-18).
+
+The page should continue with Rules 5–18. Provide complete coverage of: Rule 5 (infusion systems), Rule 6 (active therapeutic devices), Rule 7 (active diagnostic devices), Rule 8 (implantable devices), Rules 9–11 (surgically invasive devices), Rule 12 (software), Rules 13–17 (devices with specific characteristics), and Rule 18 (devices delivering or exchanging energy). This is critical reference material and should not be incomplete.

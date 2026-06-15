@@ -26,3 +26,5 @@ PMCF data forms part of the ongoing PMS and feeds into the **re-examination** do
 ## Results reported to MFDS within the agreed timeframe
 
 "Responsibility lies with the 품목허가 holder (manufacturer or importer). Failure to submit results on time may result in suspension or revocation of the 품목허가 or enforcement action."
+
+Add after 'Results reported to MFDS within the agreed timeframe': "Responsibility lies with the 품목허가 holder (manufacturer or importer). Failure to submit results on time may result in suspension or revocation of the 품목허가 or enforcement action."

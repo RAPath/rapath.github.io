@@ -51,3 +51,7 @@ If the software is **intended to be the primary basis** for clinical decision-ma
 Documentation requirements
 
 Manufacturers should document their § 520(o) exclusion analysis as part of premarket submissions or device master record maintenance. FDA recommends including: (1) a detailed assessment of how the software meets each of the four criteria, (2) evidence that independent clinical review is feasible and expected, and (3) labelling or training materials that reinforce the clinician's independent review obligation.
+
+Add a new section after the examples table: 'Documentation requirements
+
+Manufacturers should document their § 520(o) exclusion analysis as part of premarket submissions or device master record maintenance. FDA recommends including: (1) a detailed assessment of how the software meets each of the four criteria, (2) evidence that independent clinical review is feasible and expected, and (3) labelling or training materials that reinforce the clinician's independent review obligation.'

@@ -19,7 +19,7 @@ RDC 752/2022 requires a formal **document control system** covering all quality 
 **Records** (completed forms, test results, audit reports) must be:
 - Legible, identifiable, and retrievable;
 - Protected from deterioration or loss;
-- Retained for the defined retention period (typically 5–10 years depending on device type); and
+- Retained for the defined retention period, which is typically 5 years from the date of manufacture plus the expected lifetime of the device, or longer for implantable and life-sustaining devices (often 10+ years or the lifetime of the device). The specific retention period must be defined in the quality system documentation and justified based on device risk classification.; and
 - Accessible to ANVISA inspectors on request.
 
 ---

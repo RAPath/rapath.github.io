@@ -85,3 +85,5 @@ CFR is updated to reflect the final rule
 - [govinfo.gov — CFR](https://www.govinfo.gov/app/collection/cfr)
 
 FDA Guidance Documents: FDA issues guidance documents (guidance for industry, guidance for reviewers) that explain how FDA interprets and applies regulations. Guidance is not legally binding but carries significant persuasive authority. FDA guidance can be found on the FDA website by product area or searched by topic at fda.gov/medical-devices/guidance-compliance-regulatory-information.
+
+Add new section after 'Tips for navigating device regulations': 'FDA Guidance Documents: FDA issues guidance documents (guidance for industry, guidance for reviewers) that explain how FDA interprets and applies regulations. Guidance is not legally binding but carries significant persuasive authority. FDA guidance can be found on the FDA website by product area or searched by topic at fda.gov/medical-devices/guidance-compliance-regulatory-information.'

@@ -58,3 +58,5 @@ Must be labelled as single-use. Third-party reprocessing of SUDs is a separate r
 In Radiation-Emitting Devices section, change 'See Radiation-Emitting Devices.' to 'See Radiation-Emitting Devices for detailed guidance on dual approval processes and AEA coordination.'
 
 For borderline cases where the medicinal and device components are inextricably combined, the NMRA may require a joint application or coordinated review with the medicinal products regulatory division.
+
+Add after 'Devices Incorporating Medicinal Substances' section: 'For borderline cases where the medicinal and device components are inextricably combined, the NMRA may require a joint application or coordinated review with the medicinal products regulatory division.'

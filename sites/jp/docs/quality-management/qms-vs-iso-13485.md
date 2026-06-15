@@ -31,7 +31,7 @@ The following MO 169 requirements go beyond ISO 13485 and must be specifically a
 ## Does ISO 13485 certification satisfy MO 169?
 
 ISO 13485 certification issued by an accredited certification body does not formally substitute for MO 169 compliance or for PMDA QMS inspection. However:
-- ISO 13485 certification is accepted by PMDA as strong evidence of QMS maturity and helps significantly in inspection preparation
+- ISO 13485:2016 certification is accepted by PMDA as strong evidence of QMS maturity and helps significantly in inspection preparation and may reduce inspection scope for pre-approval reviews
 - Sites with well-documented ISO 13485:2016 systems typically perform well in PMDA inspections
 - PMDA may reduce the scope of a pre-approval inspection for a site with a history of clean ISO 13485 audits
 

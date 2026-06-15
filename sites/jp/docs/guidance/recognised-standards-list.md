@@ -7,7 +7,7 @@ sidebar_position: 4
 
 ## What the list is
 
-The MHLW-designated recognised standards list specifies the international and Japanese standards that can be used as the basis for Ninsho (certification) pathway applications. A device whose JMDN code appears on the list against an applicable recognised standard is eligible for Ninsho rather than Shonin.
+The MHLW-designated recognised standards list specifies the international and Japanese standards that can be used as the basis for Ninsho (certification) pathway applications. A device whose JMDN code appears on the list against an applicable recognised standard may be eligible for Ninsho (certification) rather than Shonin (approval), subject to full compliance with that standard.
 
 ## How standards are designated
 
@@ -46,6 +46,10 @@ The current recognised standards list is published by MHLW and updated periodica
 [MHLW recognised standards list (認証基準リスト)](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iyakuhin/kigu/ninshoulist.html)
 :::
 
-Always check the current list before selecting a standard for a Ninsho application — standards are added and updated regularly.
+Always verify the current MHLW recognised standards list before selecting a standard for a Ninsho application. Standards are added, updated, and occasionally removed regularly. Using a standard not currently designated or a superseded edition of a designated standard will result in rejection of the Ninsho pathway and require submission as Shonin.
 
 "Transition periods: When MHLW designates a new edition of a standard, a transition period is typically provided allowing manufacturers to use either the old or new edition. The notification specifies the exact transition dates. Applications submitted during the transition period must clearly identify which edition of the standard was used in the certification package."
+
+Add to How standards are designated section: "Transition periods: When MHLW designates a new edition of a standard, a transition period is typically provided allowing manufacturers to use either the old or new edition. The notification specifies the exact transition dates. Applications submitted during the transition period must clearly identify which edition of the standard was used in the certification package."
+
+Removal or discontinuation of standards: If a standard is removed from the recognised standards list, MHLW typically provides a transition period. Devices certified under the removed standard may continue to be marketed, but new applications must use a current designated standard. Check MHLW notifications for any grandfathering provisions when a standard is discontinued.

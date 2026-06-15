@@ -29,6 +29,12 @@ The UDI carrier (barcode or RFID) must appear on the device label. The carrier t
 ## IVD UDI Requirements
 IVDs under IVDO are subject to equivalent UDI requirements. The UDI-DI for IVDs is registered in DAPI. Performance studies conducted under ClinO-MD may be exempt from UDI labelling requirements.
 
+
+Add after 'The UDI system is implemented through the DAPI database rather than EUDAMED.': 'Manufacturers should verify current implementation timelines for their device class on the DAPI portal, as Switzerland may have different transition dates than the EU MDR.'
+
+
+UDI implementation in Switzerland follows phased timelines by device class, aligned with EU MDR transition dates but administered through DAPI. Certain Class I non-sterile, non-measuring devices may be exempt from UDI requirements. Manufacturers should verify the applicable implementation deadline for their device class on the DAPI portal or by contacting Swissmedic, as exemption statuses and timelines may differ from EU MDR.
+
 ## Official Sources
 - [MedDO Art. 29–32 — UDI (SR 812.213)](https://www.fedlex.admin.ch/eli/cc/2021/205/en)
 - [DAPI portal](https://www.dapi.ch)

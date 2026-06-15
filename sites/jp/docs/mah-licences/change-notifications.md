@@ -26,3 +26,7 @@ Notification to the prefectural government or MHLW is typically a straightforwar
 Keep detailed records of all change notifications filed — these records are reviewed during PMDA QMS inspections as evidence of good regulatory practice.
 
 Notification must be submitted to the licensing authority before the change is implemented. Changes implemented without prior notification or approval may result in regulatory action or licence suspension.
+
+Add under 'Changes requiring MAH licence amendment': 'Notification must be submitted to the licensing authority before the change is implemented. Changes implemented without prior notification or approval may result in regulatory action or licence suspension.'
+
+Notification Timing: Notification of changes must be submitted to the licensing authority before or concurrent with the change taking effect. It is regulatory best practice to submit notification at least 2–4 weeks in advance of an anticipated change. Changes implemented without prior notification may be subject to enforcement action.

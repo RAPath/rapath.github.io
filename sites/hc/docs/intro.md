@@ -87,4 +87,4 @@ Regulatory affairs professionals who flag inaccuracies are the most valuable con
 
 ## Disclaimer
 
-Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [Health Canada](https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices.html) and [laws-lois.justice.gc.ca](https://laws-lois.justice.gc.ca) sources before making regulatory decisions. This site is not affiliated with Health Canada or the Government of Canada. Not legal or regulatory 
+Content on this site is written with AI assistance and is reviewed by regulatory professionals; it is intended as a navigation aid only. All claims link to authoritative sources and should be verified before use in regulatory decisions. Always verify against official [Health Canada](https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices.html) and [laws-lois.justice.gc.ca](https://laws-lois.justice.gc.ca) sources before making regulatory decisions. This site is not affiliated with Health Canada or the Government of Canada. Not legal or regulatory 

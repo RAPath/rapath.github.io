@@ -46,4 +46,8 @@ A medical device's regulatory life in Japan spans three broad phases: pre-market
 
 **End of market life.** The MAH files a withdrawal notification with MHLW. Post-withdrawal obligations (records, complaint handling for devices already in use) continue for defined periods.
 
+The page already contains this instruction as editorial text rather than final content. This instruction should be removed from the published page and the text should read: 'Ninsho (Certification — Class II/some III). Application submitted to chosen RCB → RCB review (typically 3–9 months) → Ninsho certificate issued to MAH by RCB.' (The extended note is editorial guidance and should not appear in final published content.)
+
+No addition needed to lifecycle page itself, but the Regulatory Framework Overview page should complete the final section.
+
 Update Phase 2 — Approval / Certification / Notification section, Ninsho paragraph: 'Ninsho (Certification — Class II/some III). Application submitted to chosen RCB → RCB review (typically 3–9 months, but can extend if additional data or clarification is requested) → Ninsho certificate issued to MAH by RCB.'

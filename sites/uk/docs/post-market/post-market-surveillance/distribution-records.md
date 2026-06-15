@@ -41,7 +41,16 @@ Manufacturers and importers must maintain records that enable identification of 
 | Recipient contact person | Facilitate rapid communication |
 | Delivery confirmation reference | Prove receipt |
 
-For implantable and AIMD devices, records must additionally capture (where available):
+For implantable and AIMD devices, records must additionally capture (where available and where feasible to obtain):
+
+- Patient name and unique patient identifier (if traceable to the healthcare facility)
+- Patient date of implantation
+- Healthcare facility name and location
+- Implanting clinician name
+- Device serial number
+- Specific lot/batch number
+
+This higher level of traceability is essential to support rapid patient notification in case of safety issues or recalls affecting implanted devices.
 
 ---
 
@@ -79,3 +88,12 @@ The entire supply chain must be traceable from manufacturer to end user. Where d
 | MHRA: Post-market surveillance guidance | Record-keeping guidance |
 
 Upon cessation of business, the distributor or importer must transfer all distribution records to the manufacturer or another party capable of maintaining them. The manufacturer remains responsible for ensuring that distribution records are retained for the full retention period even if the original distributor no longer exists. The transfer of records must be documented and traceable.
+
+Upon cessation of business: When a distributor or importer ceases business, all distribution records must be transferred to the manufacturer or another party capable of maintaining them. The transfer must include:
+
+- A formal written transfer agreement documenting who is assuming custody
+- A complete inventory of records being transferred (by date range, device type, batch numbers)
+- Confirmation that the receiving party has committed to retention for the full retention period
+- Evidence that the transferring party has made reasonable efforts to locate and transfer all relevant records
+
+The manufacturer remains legally responsible for ensuring records are retained for the full period even if the original distributor no longer exists.

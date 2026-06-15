@@ -20,7 +20,7 @@ ANVISA or state VISA may physically seize specific batches or all stock of a med
 - The device's registration holder has not complied with a compulsory recall order; or
 - The device is found in conditions that compromise its safety (e.g., improper storage, expired).
 
-Seized products are held by ANVISA/VISA pending investigation. The registration holder may appeal and demonstrate compliance to have products released, but ANVISA may order destruction of products that cannot be shown to be compliant.
+Seized products are held by ANVISA/VISA pending investigation and testing. The registration holder may request release by demonstrating that the products conform to the registered specifications and applicable regulations; however, ANVISA may order destruction of products that cannot be shown to be compliant or that pose a continued safety risk.
 
 ## Interdição de estabelecimento (facility closure)
 
@@ -40,3 +40,5 @@ Verify all information against official [ANVISA](https://www.gov.br/anvisa) sour
 :::
 
 "The registration holder must be formally notified of the seizure. The company may file an administrative appeal requesting release of products by demonstrating compliance with applicable regulations. ANVISA typically provides a timeline for remediation; if not corrected within the specified period, seized products may be destroyed or donated to authorized entities."
+
+Add to the Interdição de produto section: "The registration holder must be formally notified of the seizure. The company may file an administrative appeal requesting release of products by demonstrating compliance with applicable regulations. ANVISA typically provides a timeline for remediation; if not corrected within the specified period, seized products may be destroyed or donated to authorized entities."

@@ -8,7 +8,7 @@ description: SFDA cybersecurity expectations for networked and connected medical
 
 ## Why cybersecurity matters for medical devices
 
-Connected medical devices — those with network connectivity, Bluetooth, Wi-Fi, or data exchange capabilities — introduce cybersecurity risks that can affect patient safety. A cybersecurity vulnerability that allows unauthorised access to a pacemaker programmer, insulin pump, or diagnostic imaging system could directly harm patients.
+Connected medical devices — those with network connectivity, Bluetooth, Wi-Fi, cellular, or data exchange capabilities — introduce cybersecurity risks that can directly affect patient safety and the integrity of clinical data. A cybersecurity vulnerability that allows unauthorised access to a pacemaker programmer, insulin pump, or diagnostic imaging system could directly harm patients.
 
 The SFDA addresses cybersecurity for connected medical devices within its existing regulatory framework, drawing on international guidance from the IMDRF, FDA, and other regulators.
 
@@ -89,3 +89,5 @@ Manufacturers of connected devices should:
 Post-Market Cybersecurity Incident Reporting
 
 Manufacturers of connected medical devices must report cybersecurity incidents that could reasonably affect patient safety or device functionality to the SFDA via the Vigilance system. Incidents should be reported without undue delay; the SFDA expects notification of confirmed security breaches, zero-day exploits affecting deployed devices, and any security updates issued to users. Coordinate with the SFDA on the appropriate severity classification and reporting timeline.
+
+Complete the further reading section: 'Further reading\n\nIMDRF N60 — Principles and Practices for Medical Device Cybersecurity\nIEC 62443 series — Industrial and Medical Device Cybersecurity\nIEC 81001-5-1 — Health Software and Health IT Cybersecurity\nNIST Cybersecurity Framework\nIEC 62304:2006+A1:2015 — Software Lifecycle\nCybersecurity for AI/ML Devices'

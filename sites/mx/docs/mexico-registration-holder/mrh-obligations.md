@@ -35,7 +35,7 @@ Under **NOM-241-SSA1-2025**, the MRH must:
 
 ## GMP oversight
 
-- Ensure the manufacturer maintains GMP compliance throughout the registration lifecycle.
+- Ensure the manufacturer maintains GMP compliance (ISO 13485 or NOM-241-SSA1-2025) throughout the registration lifecycle. Request updated GMP certificates at least annually and monitor for any compliance warnings or restrictions issued by notified bodies or equivalent authorities.
 - Be prepared to provide updated GMP evidence at renewal.
 
 ## Communication with COFEPRIS
@@ -57,6 +57,19 @@ Under **NOM-241-SSA1-2025**, the MRH must:
 - [NOM-241 quality system](../quality-system/nom-241-overview)
 
 ## Distributor management
+
+Liability & contractual safeguards
+​
+While the MRH bears ultimate regulatory responsibility for all registered devices, including those distributed by third parties, COFEPRIS will hold the MRH accountable regardless of contractual protections. However, you can strengthen your position and reduce operational risk through a well-drafted technical agreement with clear distributor obligations:
+
+Ensure the technical agreement includes indemnification clauses protecting the MRH from distributor misconduct.
+Define clear audit rights — reserve the right to conduct unannounced inspections of distributor facilities.
+Specify distributor obligations regarding storage, handling, record-keeping, and incident reporting with measurable compliance standards.
+Require distributors to maintain product liability insurance naming the MRH as additional insured.
+Include termination clauses allowing exit without cause on short notice (30–60 days) if needed.
+Despite contractual protections, COFEPRIS will hold the MRH accountable for distributor compliance failures discovered during inspections. Monitor your distributors actively and document all oversight activities.
+
+Add a new subsection under 'Distributor management':
 
 Liability & contractual safeguards
 ​

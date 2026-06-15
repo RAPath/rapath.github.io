@@ -9,7 +9,7 @@ keywords: [post-market surveillance plan, PMS plan, FDA PMS, proactive surveilla
 
 ## Is a formal PMS plan required?
 
-Unlike the EU MDR/IVDR (which mandates a specific Post-Market Surveillance plan document), FDA does not have a regulation explicitly requiring a standalone "PMS Plan" document for most device types. However:
+Unlike the EU MDR/IVDR (which mandates a specific Post-Market Surveillance plan document), FDA does not have a general regulation explicitly requiring a standalone "PMS Plan" document for most device types. However, certain device approvals (particularly PMAs) may include specific post-approval study requirements. However:
 
 - **PMA conditions of approval** often specify post-approval study requirements
 - **§ 522 orders** mandate a formal study plan

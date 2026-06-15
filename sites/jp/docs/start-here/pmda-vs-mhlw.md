@@ -31,7 +31,7 @@ MHLW does not conduct day-to-day scientific review of applications. That work is
 - **Post-market safety surveillance** — PMDA collects and analyses adverse event reports and issues safety communications
 - **Relief service** — PMDA administers Japan's adverse reaction relief fund, which compensates patients harmed by approved medical products
 
-PMDA's review report is submitted to MHLW, which then makes the final approval decision. In practice, MHLW rarely overturns a PMDA recommendation, but the formal legal decision remains with MHLW.
+PMDA's review report is submitted to MHLW's Pharmaceutical Affairs and Food Sanitation Council, which provides a recommendation to MHLW. MHLW then makes the final approval decision. In practice, MHLW's decision closely follows the PMDA review recommendation and Council advice, but the formal legal authority for approval remains with MHLW.
 
 ## Prefectural governments
 
@@ -65,3 +65,7 @@ For Ninsho (certification), PMDA is not involved — the application goes direct
 For QMS inspections related to Shonin applications, PMDA directly inspects the manufacturing sites and reports findings to MHLW as part of the approval process.
 
 • Clinical trial oversight — PMDA conducts inspections of clinical trial sites and investigators to ensure compliance with GCP Ordinance requirements for device trials in Japan.
+
+Add to PMDA bullet list: '• Clinical trial oversight — PMDA conducts inspections of clinical trial sites and investigators to ensure compliance with GCP Ordinance requirements for device trials in Japan.'
+
+The page content appears truncated. The final line should end after the Prefectural governments section with: 'Prefectural inspection authority — prefectural governments can inspect licensed MAHs and manufacturers within their jurisdiction.'

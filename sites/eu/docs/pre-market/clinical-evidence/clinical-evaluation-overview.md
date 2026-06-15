@@ -150,4 +150,16 @@ The current CER and PMCF evaluation report are reviewed by the notified body at 
 | MDCG 2021-6 | Guidance on sufficient clinical evidence for legacy devices |
 | EN ISO 14155:2020 | Good clinical practice for medical device investigations |
 
+The equivalence pathway section
+
+### Equivalence Criteria
+
+| Criterion | Requirements |
+|---|---|
+| **Clinical** | Same intended use, same medical indication, same user population, same part of the body |
+| **Technical** | Same technology or operational principle, similar design specifications, same materials in patient contact |
+| **Biological** | Same materials or equivalent biological safety profiles, same duration of contact, same route of contact |
+
 The equivalence pathway section should be completed with all three criteria. It should read: 'Criterion — Clinical: Same intended use, same medical indication, same user population, same part of the body. Technical: Same technology or operational principle, similar design specifications, same materials in patient contact. Biological: Same materials or equivalent biological safety profiles, same duration of contact, same route of contact.'
+
+Criterion 1 — Clinical: Same intended use (same medical condition, severity, patient population, body site) and similar clinical outcomes. Criterion 2 — Technical: Same technology or operational principle, similar design specifications, same patient-contact materials (or documented equivalent biological safety profiles), similar software/algorithms, and similar energy delivery parameters for active devices. Criterion 3 — Biological: Same or equivalent biological safety profile of materials, same duration and route of body contact (transient, short-term, long-term/permanent implantable), and same absorption, distribution, and degradation characteristics. For devices from different manufacturers, formal written contractual access to technical documentation must be in place continuously. For Class III and implantable Class IIb devices, equivalence is heavily scrutinised and clinical investigations are often required regardless.

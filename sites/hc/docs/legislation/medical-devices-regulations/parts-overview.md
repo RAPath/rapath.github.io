@@ -32,7 +32,7 @@ Part 2 contains requirements that apply to all regulated parties regardless of t
 
 ## Part 3 — Device Licences
 
-Part 3 is the core pre-market regulatory pathway for Class II–IV devices. Class I devices generally do not require a Device Licence, except in certain circumstances defined in the regulations:
+Part 3 is the core pre-market regulatory pathway for Class II–IV devices. Class I devices generally do not require a Device Licence before sale, though some Class I devices may require an Establishment Licence. Exemptions from Device Licence requirements are defined in section 4.
 - **Application requirements** — what must be submitted (ss 32–33)
 - **Review and issuance** — Health Canada's process (ss 36–38)
 - **Amendments** — when and how to amend a licence (ss 34–38)

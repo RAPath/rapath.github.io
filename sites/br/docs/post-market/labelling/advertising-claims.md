@@ -26,3 +26,5 @@ ANVISA routinely monitors advertising and takes enforcement action (including wa
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+Medical device advertising rules apply to all channels, including social media, digital platforms, websites, and sponsored content. Companies must ensure that all promotional content across Facebook, Instagram, LinkedIn, WhatsApp, TikTok, and other platforms complies with the same restrictions as traditional advertising. ANVISA actively monitors digital advertising and may issue warnings or fines for non-compliant social media posts or influencer endorsements that make false or unregistered claims.

@@ -27,3 +27,7 @@ UDI labelling requirements apply at the individual device (base package) level a
 ## Official resources
 - [21 CFR § 830.20](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-H/part-830)
 - [FDA — UDI Labelling Requirements](https://www.fda.gov/medical-devices/unique-device-identification-system-udi-system/labeling-requirements)
+
+Add the following clarification to the 'Direct part marking' bullet point:
+
+Direct part marking: For reusable devices (e.g., surgical instruments), the UDI must be directly marked on the device itself in addition to the label. The marking must be durable and legible throughout the device's intended lifespan. Direct marking compliance for reusable devices was required by September 24, 2018 (Class II) and September 24, 2020 (Class I), depending on device classification.

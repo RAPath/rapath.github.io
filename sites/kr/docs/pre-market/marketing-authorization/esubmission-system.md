@@ -31,4 +31,13 @@ All 품목허가, 품목신고, GMP, and classification inquiries are submitted 
 ## Related pages
 - [Application contents and STED](./application-contents-and-sted) · [MFDS review process](./mfds-review-process-and-timelines)
 
+Before uploading, ensure all documents:
+
+- Follow MFDS naming conventions (typically: [device name]_[document type]_[submission date])
+- Are uploaded in the correct folder structure within the eSubmission portal
+- Use standard file formats: PDF for technical documentation and reports, Excel (.xlsx) for test data summary tables, DICOM or equivalent for imaging data
+- Include electronic signatures (didsign or equivalent Korean digital signature) or certified scans of original wet signatures where legally required
+
+Incomplete or incorrectly formatted submissions will trigger a 보충요청 and pause the review clock.
+
 All documents must follow MFDS naming conventions and be uploaded in the correct folder structure within the eSubmission portal. File formats typically required: PDF for technical documentation, Excel for test data summary tables. Electronic signatures (or certified scans of original signatures) are acceptable for most documents.

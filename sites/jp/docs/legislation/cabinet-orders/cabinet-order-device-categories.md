@@ -16,7 +16,7 @@ For medical devices, the key Cabinet Orders:
 
 ## The Cabinet Order designating medical device categories
 
-The Cabinet Order on Specially Controlled Medical Devices (高度管理医療機器等の指定) lists the specific device types classified as Class III and IV (Specially Controlled Medical Devices). This list directly determines:
+Cabinet Orders on Specially Controlled Medical Devices (高度管理医療機器等の指定) and General Controlled Medical Devices designate device types classified as Class II, III, and IV. Class I devices are those not designated as controlled and do not require an explicit Cabinet Order listing. This list directly determines:
 - Which devices require Shonin approval (Class III/IV)
 - Which devices may be eligible for Ninsho certification (some Class III on a designated list)
 - Which devices are subject to the highest post-market surveillance requirements
@@ -32,3 +32,5 @@ Current Cabinet Orders: [e-Gov Cabinet Order database](https://laws.e-gov.go.jp/
 :::
 
 MHLW publishes Cabinet Order amendments via e-Gov and MHLW news releases. No single subscription mechanism exists; monitoring should be conducted through: (1) periodic e-Gov searches for 高度管理医療機器, (2) MHLW pharmaceutical bureau announcements, and (3) PMDA notification updates referencing reclassifications.
+
+Add a new section titled 'Monitoring Cabinet Order updates' with text: 'MHLW publishes Cabinet Order amendments via e-Gov and MHLW news releases. No single subscription mechanism exists; monitoring should be conducted through: (1) periodic e-Gov searches for 高度管理医療機器, (2) MHLW pharmaceutical bureau announcements, and (3) PMDA notification updates referencing reclassifications.'

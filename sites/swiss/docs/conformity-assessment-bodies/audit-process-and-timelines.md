@@ -25,6 +25,16 @@ At least **one unannounced audit** per 5-year period per manufacturer. Focus are
 ## Design Examination (Class III — Annex IX Chapter II)
 Full technical documentation review for each Class III device or device group. Multiple question rounds are common. Timeline depends heavily on NB workload and documentation completeness. First-time design examinations for novel devices: allow 12–18 months.
 
+
+Add a new section after the Initial Certification table:
+
+**Initial Certification (All Classes)**
+
+Class I/II devices: 2–6 months (document review and QMS audit only; no design examination required)
+Class III devices: 12–24+ months (includes full design examination per Annex IX Chapter II)
+
+Note: Timelines vary significantly based on NB workload, documentation completeness, and the number of deficiency/information request rounds.
+
 ## Official Sources
 - [MedDO Annexes IX–XI (SR 812.213)](https://www.fedlex.admin.ch/eli/cc/2021/205/en)
 

@@ -51,7 +51,7 @@ Fees are updated annually each October. Check [FDA's user fee website](https://w
 
 ### Small business qualifications
 
-A small business for MDUFA purposes has annual gross receipts or sales of ≤ $100 million, including affiliates. Small businesses pay approximately 25% of standard fees for most submission types.
+A small business for MDUFA purposes is defined as a business entity with annual gross receipts or sales of ≤ $100 million in the preceding three fiscal years, including affiliates. The determination is made at the time of submission. Small businesses pay approximately 25% of standard fees for most submission types.
 
 ---
 
@@ -71,3 +71,9 @@ MDUFA created a performance-based accountability system:
 - [FDA — User Fee Rates](https://www.fda.gov/industry/fda-user-fee-programs/medical-device-user-fee-amendments-mdufa/fy2026-medical-device-user-fee-rates)
 
 MDUFA V | FY2018–2022 | Q-Sub enhancements, SaMD guidance commitments
+
+Add to MDUFA history table: 'MDUFA V | FY2018–2022 | Q-Sub enhancements, SaMD guidance commitments'
+
+Update the opening paragraph to: 'The Medical Device User Fee Amendments (MDUFA) authorize FDA to collect user fees from medical device manufacturers in exchange for commitments to meet defined review performance goals. MDUFA must be reauthorized by Congress every five years. MDUFA VI (FY2023–2027) is the current authorization cycle.'
+
+Add a row to the MDUFA history table: 'MDUFA V | FY2018–2022 | Q-Sub enhancements, SaMD guidance commitments'

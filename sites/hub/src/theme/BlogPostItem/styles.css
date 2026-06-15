@@ -1,0 +1,78 @@
+.blog-list-item {
+  padding: 0.75rem 0;
+  border-bottom: 1px solid var(--ifm-toc-border-color);
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+}
+
+.blog-list-item:last-child {
+  border-bottom: none;
+}
+
+.blog-list-item__title {
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--ifm-color-content);
+  text-decoration: none !important;
+  line-height: 1.4;
+}
+
+.blog-list-item__title:hover {
+  color: var(--ifm-color-primary);
+}
+
+.blog-list-item__meta {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.blog-list-item__date {
+  font-size: 0.75rem;
+  color: var(--ifm-color-content-secondary);
+}
+
+.bli-tag {
+  font-size: 0.7rem;
+  font-weight: 600;
+  padding: 0.1rem 0.5rem;
+  border-radius: 999px;
+  text-decoration: none !important;
+  text-transform: capitalize;
+}
+
+.bli-tag--jurisdiction {
+  background: #eff6ff;
+  color: #1d4ed8;
+  border: 1px solid #bfdbfe;
+}
+
+.bli-tag--jurisdiction:hover {
+  background: #dbeafe;
+  color: #1d4ed8;
+}
+
+.bli-tag--category {
+  background: #f0fdf4;
+  color: #15803d;
+  border: 1px solid #bbf7d0;
+}
+
+.bli-tag--category:hover {
+  background: #dcfce7;
+  color: #15803d;
+}
+
+[data-theme='dark'] .bli-tag--jurisdiction {
+  background: #1e3a5f;
+  color: #93c5fd;
+  border-color: #1e40af;
+}
+
+[data-theme='dark'] .bli-tag--category {
+  background: #14532d;
+  color: #86efac;
+  border-color: #166534;
+}

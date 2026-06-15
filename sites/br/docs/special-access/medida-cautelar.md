@@ -19,7 +19,7 @@ During a public health emergency (as declared by the Ministry of Health), ANVISA
 - Expedite the registration review for urgently needed devices; or
 - Authorise temporary use of devices under a simplified documentation package.
 
-This mechanism was extensively used during the COVID-19 pandemic (enacted 2020), which authorised emergency health measures and device authorisations through 2021–2022 under Lei 13.979/2020 to rapidly authorise ventilators, oxygen concentrators, COVID-19 diagnostic tests, and personal protective equipment.
+This mechanism was extensively deployed during the COVID-19 pandemic under Lei 13.979/2020, enabling ANVISA to rapidly authorise emergency health measures and device authorisations (2020–2022) for critical products including ventilators, oxygen concentrators, COVID-19 diagnostic tests, and personal protective equipment without full prior registration review.
 
 ## Medida Cautelar for safety suspension
 

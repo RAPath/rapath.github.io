@@ -16,3 +16,5 @@ The system's packaging and labelling must clearly identify all components and th
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+System Registration Trigger Analysis: Before submitting a system registration, conduct a detailed assessment of each combination scenario. If component devices are registered with identical intended uses and no new interactions occur, a separate system registration may not be required—only labelling updates confirming component registration numbers. However, if the system creates a new combined indication (e.g., a diagnostic kit combining reagents and equipment into a single-use diagnostic system), or if component interactions alter safety profiles, a dedicated system dossier with combination studies is required. When in doubt, submit a pre-submission inquiry to ANVISA for classification confirmation.

@@ -113,3 +113,14 @@ The IVD equivalent of PMCF is **Post-Market Performance Follow-up (PMPF)**. For 
 | EU MDR 2017/745, Annex XIV Part B | Detailed EU PMCF requirements (applies in NI) |
 
 If PMCF identifies a previously unknown or significantly underestimated risk that was not adequately addressed in the pre-market clinical evaluation, the manufacturer must: (1) immediately notify MHRA and the UKAB; (2) assess whether the risk affects the benefit-risk determination; (3) determine whether an FSCA, risk management revision, or device modification is required; (4) update the clinical evaluation report and risk management file; (5) consider whether continued market distribution is justified pending risk assessment.
+
+PMCF plan approval and submission
+
+The PMCF plan should be agreed with the UKAB (for UKAB-certified devices) before the device is placed on the market. UKABs will assess the adequacy of the PMCF plan as part of the conformity assessment. The plan should be reviewed and updated if:
+
+- The device undergoes a significant design change
+- New safety signals emerge that require additional clinical monitoring
+- Long-term follow-up data reveals previously unknown risks
+- The device is extended to a new clinical indication or patient population
+
+For devices approved under the transitional period (CE marked devices), PMCF plans should align with any existing EU PMCF commitments documented in the clinical evaluation report.

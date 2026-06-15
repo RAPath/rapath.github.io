@@ -18,3 +18,7 @@ Most implantables are Grade **III or IV**. Additional requirements include:
 Implant card requirements
 ​
 High-risk implantables (cardiac pacemakers, artificial joints, vascular stents, spinal implants) must include an implant card for the patient containing: device name, model number, serial number, lot number, implantation date, and manufacturer contact information. The card facilitates future medical imaging, device identification in emergency situations, and post-market surveillance.
+
+Clinical data requirements
+
+Grade III implantables typically require clinical data from published literature or manufacturer-sponsored studies demonstrating safety and effectiveness. Grade IV implantables require a pivotal clinical trial with pre-approval MFDS involvement. The trial design must address the intended patient population, duration of follow-up appropriate to the implant's expected lifespan (short-term, medium-term, or long-term), and clinically meaningful endpoints. For novel implant designs without historical predicate data, MFDS may require a pre-submission meeting (Pre-IND equivalent) to align on trial protocols.

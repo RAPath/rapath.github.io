@@ -65,3 +65,5 @@ BPOM conducts market surveillance on products within its mandate. For devices, t
 ## Key takeaway
 
 "If your device is imported from a manufacturer that has not yet undergone GMP inspection by BPOM, you may be required to arrange a pre-approval inspection before NIE issuance. Additionally, if your device is classified as Class C or D, BPOM may conduct unannounced post-approval inspections at irregular intervals as part of its risk-based inspection programme."
+
+If your device is imported from a manufacturer that has not yet undergone GMP inspection by BPOM, you may be required to arrange a pre-approval inspection before NIE issuance. Additionally, if your device is classified as Class C or D, BPOM may conduct unannounced post-approval inspections at irregular intervals as part of its risk-based inspection programme.

@@ -18,6 +18,11 @@ The revised Federal Data Protection Act (nFADP), which entered into force in Sep
 ## Cantonal Health Laws
 Cantonal (state) health laws regulate the practice of medicine and healthcare within each canton. While medical device market access is a federal matter, certain aspects of healthcare practice using medical devices — including professional licensing, hospital accreditation, and local inspection — are governed at the cantonal level. Cantonal health authorities may interact with Swissmedic in market surveillance activities.
 
+
+Transplantation Act (SR 810.21)
+
+The Transplantation Act (Transplantationsgesetz, SR 810.21) governs the removal, allocation, and transplantation of organs, tissues, and cells of human or animal origin. Medical devices that incorporate human or animal tissues or cells (xenografts, tissue-based devices) must comply with Transplantation Act requirements in addition to MedDO/IVDO requirements. These requirements include controls on procurement, processing, testing, and traceability of the biological component. Swissmedic is the federal competent authority for oversight of tissue and cell-based medical devices.
+
 ## Official Sources
 - [Transplantation Act (SR 810.21)](https://www.fedlex.admin.ch/eli/cc/2004/654/en)
 - [Radiation Protection Act (SR 814.50)](https://www.fedlex.admin.ch/eli/cc/1991/2353_2353_2353/en)

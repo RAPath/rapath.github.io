@@ -58,7 +58,7 @@ GHAD provides real-time status tracking for all submitted applications. Status s
 
 ## Tips for efficient GHAD submissions
 
-- Ensure all documents are in **PDF format** and clearly labelled
+- Ensure all documents are in **PDF format** (searchable PDF preferred, not scanned images) and clearly labelled with the device name, section number, and document title
 - Upload the technical file in the **exact section structure** required by MDS-REQ 1 Annex 3
 - Verify all device details (names, models, codes) are consistent across all sections
 - Use the **Declaration of Conformity template** in Annex 14 of MDS-REQ 1

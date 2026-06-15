@@ -39,3 +39,5 @@ Thailand regulates medical devices through the **Medical Device Control Division
 
 ---
 *Part of the [RAPath](https://rapath.github.io/) suite.*
+
+Update the 'Last reviewed' field from 'May 2026' to the actual date the content was last reviewed (e.g., 'May 2024' or another appropriate past date).

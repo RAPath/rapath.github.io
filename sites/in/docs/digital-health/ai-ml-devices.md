@@ -15,7 +15,7 @@ AI/ML-based medical devices represent a growing category under CDSCO regulation.
 
 ## Current Regulatory Status
 
-As of 2026, CDSCO classifies AI/ML devices under the existing Medical Devices Rules 2017 framework. Specific AI/ML guidance is under development but not yet published. Manufacturers should reference IMDRF guidance on AI/ML-based Software as a Medical Device (SaMD).
+As of 2026, CDSCO classifies AI/ML devices under the existing Medical Devices Rules 2017 framework (Classes A–D based on risk). Specific AI/ML guidance is under development but has not yet been published. Until formal guidance is released, CDSCO evaluates AI/ML device submissions using IMDRF principles as reference standards. Manufacturers should reference IMDRF guidance on AI/ML-based Software as a Medical Device (SaMD).
 
 ## Key Regulatory Considerations
 
@@ -23,3 +23,5 @@ As of 2026, CDSCO classifies AI/ML devices under the existing Medical Devices Ru
 - **Risk-based classification**: AI/ML devices are classified as Class A, B, C, or D based on risk and intended use.
 - **Post-market surveillance**: Enhanced monitoring required for devices using adaptive or learning algorithms.
 - **Cybersecurity**: AI/ML devices must address data security, model integrity, and protection against adversarial attacks.
+
+Add a new bullet point under 'Key Regulatory Considerations': 'Algorithm updates and model retraining: Manufacturers must establish protocols for governing algorithm updates, including documentation of retraining datasets, validation against new data, and determination of when clinical re-evaluation is required. Major algorithm changes may necessitate submission of updated clinical evidence to CDSCO.'

@@ -12,7 +12,7 @@ description: NMRA's mandatory Consolidated Dossier submission format — F-MDR-0
 
 The NMRA uses a **Consolidated Dossier approach** — a single, comprehensive application package covering all aspects of device registration in one submission. The dossier structure is defined by the **F-MDR-035 Consolidated Dossier Submission Checklist**, published by the NMRA.
 
-**Important:** From **2 June 2026**, all submissions must use the **revised F-MDR-035 format**. Applications submitted after this date using the old format will be new on or rejected without NMRA review. Applicants with submissions in progress are advised to confirm the applicable format with NMRA early in the submission process. Download the current checklist from the NMRA website before preparing any submission.
+**Important:** From **2 June 2026**, all submissions must use the **revised F-MDR-035 format**. Applications submitted after this date using the old format will be rejected without NMRA review. Applicants with submissions in progress are advised to confirm the applicable format with NMRA early in the submission process. Download the current checklist from the NMRA website before preparing any submission.
 
 ## Dossier Structure
 
@@ -61,3 +61,5 @@ Always download a fresh copy — do not use forms from previous years. The revis
 Fee Information
 
 Consult the NMRA website (www.nmra.gov.lk) for current application fees associated with consolidated dossier submission. Fees vary by device class and submission route (full vs. reliance). Annual renewal fees are also applicable after initial Registration Certificate issuance.
+
+Add under 'Sample Requirements — LK-Unique' section, after the list of devices requiring samples: 'Sample submission is a mandatory component of the consolidated dossier for these device categories. Samples must be brought into Sri Lanka under a separate Sample Import Licence obtained from NMRA before samples arrive. Testing is typically performed by NMRA-recognized testing laboratories within Sri Lanka. Evidence of test completion (passing relevant standards) must be included in the consolidated dossier before registration approval. Samples are retained by NMRA for post-market surveillance purposes.'

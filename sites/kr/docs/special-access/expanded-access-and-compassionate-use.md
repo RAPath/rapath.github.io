@@ -30,3 +30,5 @@ The foreign manufacturer (via Korean agent/importer) must cooperate with the MFD
 Cost and supply
 ​
 The manufacturer or foreign entity must typically bear the cost of device supply during expanded access use. Commercial pricing is not permitted during this phase. MFDS may require the manufacturer to provide the device at cost or free of charge.
+
+MFDS typically reviews expanded access applications within 7–14 days of submission. Approved expanded access may be granted for a specific duration (usually 6–12 months) and requires the treating physician to provide safety follow-up reports at specified intervals. The manufacturer must track and report any adverse events associated with expanded access use, and MFDS may revoke approval if safety concerns emerge.

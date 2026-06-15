@@ -54,7 +54,7 @@ For most devices, a complete documentation package for the NZ market would inclu
 
 ## Leveraging existing documentation
 
-If your device holds CE marking, TGA ARTG listing, or FDA clearance, your existing technical file or design dossier will generally be sufficient for NZ purposes. You do not need to create a separate NZ-specific technical file.
+If your device holds CE marking, TGA ARTG listing, or FDA clearance, your existing technical file or design dossier will generally be sufficient for NZ purposes — provided it addresses the device as it will be supplied in New Zealand (e.g., same labelling, same intended purpose, same indications). You do not need to create a separate NZ-specific technical file, but you must ensure any NZ-specific variations (labelling language, local regulatory references, etc.) are documented and available to the Sponsor.
 
 The Sponsor should ensure they:
 - Have **access** to the technical documentation (not just a copy of the CE certificate)
@@ -73,3 +73,5 @@ There is no explicit document retention period prescribed in the WAND Regulation
 Sponsors should ensure the manufacturer agrees to retain documentation for this period and to provide it to the Sponsor on request even after the commercial relationship ends.
 
 If the manufacturer cannot or will not provide technical documentation, the Sponsor should not proceed. Medsafe may request documentation at any time, and a Sponsor unable to provide it faces regulatory action. The Sponsor agreement must include a contractual obligation on the manufacturer to provide all documentation within a specified timeframe (typically 5–10 working days) and to maintain it for the retention periods specified below.
+
+After 'The practical standard is: hold documentation that would satisfy a regulator conducting a compliance audit or post-market investigation.' add: 'Medsafe does not publish a detailed checklist of required documentation elements, so consultation with Medsafe or a regulatory adviser before supply is recommended if you are uncertain whether your documentation package is complete.'

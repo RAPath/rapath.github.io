@@ -64,3 +64,5 @@ Several Indonesian and international regulatory consultancies and service compan
 - Internal regulatory affairs capability to manage Regalkes submissions
 - Transparent reporting on NIE status, CDAKB inspection outcomes
 - Financial stability
+
+Add under 'Who Offers Neutral Licence Holding?': 'Costs and Service Models: Neutral licence holders typically charge a combination of setup fees (one-time registration/onboarding), annual license management fees, and per-submission fees for Regalkes submissions and change notifications. Costs vary widely depending on the complexity of your portfolio, the holder's fee structure, and market conditions. Obtain detailed fee quotes from multiple providers before engagement and clarify what services are included (regulatory submissions, CDAKB compliance, change notifications, adverse event reporting, etc.).'

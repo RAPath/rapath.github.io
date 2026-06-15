@@ -112,3 +112,5 @@ Dental devices use defined grouping terminology published by HSA. See:
 - [HSA: All grouping types index](https://www.hsa.gov.sg/medical-devices/registration/grouping)
 
 Complete the truncated section. The page appears to end at 'Hearin' which suggests incomplete content about hearing aid devices or another grouping type.
+
+Complete or remove the incomplete text 'Hearin' at the end of the page.

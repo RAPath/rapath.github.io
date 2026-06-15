@@ -35,10 +35,12 @@ Healthcare professionals and hospitals are encouraged to report AEs but are not 
 
 Not every device-related complaint or incident is a reportable AE. Events that do not need to be reported include:
 - Deficiencies in device performance that are expected based on the device's known characteristics and do not cause patient harm;
-- Complaints resolved by device replacement where no patient harm occurred and no safety trend is indicated;
+- Complaints resolved by device replacement where no patient harm occurred, provided no pattern or trend suggesting a safety issue is indicated;
 - Events caused entirely by patient condition unrelated to device performance.
 
 ## Official sources
 
 - [HSA: Report adverse events — medical devices](https://www.hsa.gov.sg/medical-devices/adverse-events)
 - [HP(MD) Regulations 2010](https://sso.agc.gov.sg/SL/HPA2007-S436-2010)
+
+Add to the 'Who must report' section: 'Overseas manufacturers whose devices are imported into Singapore must ensure their Singapore-based importer, distributor, or appointed registrant fulfils the reporting obligations. Alternatively, overseas manufacturers may register as registrants directly or appoint a local dealer to handle AE reporting on their behalf.'

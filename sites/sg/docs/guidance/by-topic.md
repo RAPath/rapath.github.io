@@ -55,3 +55,5 @@ Guidance documents are updated periodically. Always use the current version from
 - [HSA: All guidance documents](https://www.hsa.gov.sg/medical-devices/guidance-documents)
 
 Remove the date from 'Quick Guide to Medical Device Registration and Licensing (April 2026)' or replace with 'Quick Guide to Medical Device Registration and Licensing' and add a note: 'Always check the HSA website for the current version, as publication dates may change.'
+
+Change 'Quick Guide to Medical Device Registration and Licensing (April 2026)' to: 'Quick Guide to Medical Device Registration and Licensing — always check the HSA website (hsa.gov.sg/medical-devices/guidance-documents) for the current version, as publication dates are subject to change.'

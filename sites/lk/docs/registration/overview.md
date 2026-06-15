@@ -17,7 +17,7 @@ Sri Lanka requires **two separate regulatory approvals** before a device can be 
 | **1** | **Registration Certificate** | Device assessed and found to meet NMRA safety and performance requirements |
 | **2** | **Import Licence** | Device may be commercially imported and supplied to the Sri Lankan market |
 
-Each step requires a separate application to the NMRA. The Registration Certificate must be obtained before the Import Licence and fee submission and confirmed active (with annual fees current) an Import Licence application is accepted. The two applications should be staggered: obtain the Registration Certificate first, then submit application within 6 months.
+Each step requires a separate application to the NMRA. The Registration Certificate must be obtained before the Import Licence application is submitted. The Registration Certificate must remain active (with annual fees current) for an Import Licence application to be accepted. The two applications should be staggered: obtain the Registration Certificate first, then submit the Import Licence application within 6 months to maintain continuity of approvals.
 
 ## Pre-Registration Prerequisites
 
@@ -75,3 +75,7 @@ Once the Registration Certificate is issued, the MAH submits a separate **Import
 Fee Structure
 
 Registration Certificate and Import Licence applications each incur separate NMRA fees, which vary by device class. Class III and IIb devices typically carry higher fees due to MDEC review requirements. Current fee schedules are available on the NMRA website. All fees are payable in Sri Lankan Rupees (LKR); USD conversion rates are updated monthly by NMRA.
+
+Add after the existing point 3: 'A Sample Import Licence authorizes the temporary importation of device samples into Sri Lanka for testing and evaluation purposes only. This is required when the device category mandates local testing before registration can be completed (see Consolidated Dossier page for full list of categories requiring samples). The licence must be obtained before samples arrive in Sri Lanka and is distinct from the subsequent Registration Certificate and Import Licence.'
+
+Add a note below the Timeline Summary table: 'Timelines shown are for the Registration Certificate phase only and assume: (1) manufacturing facility is already approved by NMRA; (2) required samples (if any) have been imported and tested; (3) all dossier documentation is complete and submitted at once; (4) no NMRA information requests requiring resubmission. Facility registration (3–6 months) and sample import logistics must be added to overall project timeline. Import Licence processing typically adds 2–4 additional weeks after Registration Certificate issuance.'

@@ -13,7 +13,7 @@ The Swiss approach mirrors the EU approach:
 1. A standard is harmonised when published in the EU Official Journal under MDR or IVDR
 2. Swissmedic recognises the same standards — no separate Swiss publication is required
 3. Using the harmonised standard creates a **presumption of conformity** with the corresponding GSPR provisions
-4. Departure from a harmonised standard is permitted but requires alternative justification of equivalent safety and performance
+4. Departure from a harmonised standard is permitted but requires alternative justification demonstrating equivalent or superior safety and performance to that provided by the standard. The manufacturer must document the technical or scientific basis for the alternative approach in the technical file and justify why it achieves the same level of compliance with the relevant GSPR provisions
 
 ## Key Harmonised Standards by Topic
 

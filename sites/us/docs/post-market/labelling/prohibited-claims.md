@@ -16,7 +16,7 @@ A device is **misbranded** if its labelling is false or misleading in any partic
 | False or misleading labelling | Claiming efficacy not supported by evidence |
 | Missing required information | Omitting adequate directions for use (without exemption) |
 | Promoting cleared device for unapproved use | Advertising a wound dressing as cancer treatment |
-| Using "FDA approved" for a 510(k)-cleared device | Cleared ≠ approved — this is misleading |
+| Using "FDA approved" for a 510(k)-cleared device (correct term is "FDA cleared") | Cleared ≠ approved — this is misleading |
 | Comparative claims without substantiation | "Better than Brand X" without clinical evidence |
 
 ## Claims permitted for cleared devices

@@ -34,4 +34,6 @@ Medical Devices Act (의료기기법)          IVD Act (체외진단의료기기
 ## Related pages
 - [Who needs to comply?](./who-needs-to-comply) · [Lifecycle](./lifecycle-of-a-medical-device)
 
-Korean agent: Foreign manufacturers must appoint a Korean agent (typically the importer) to represent them during approval process
+Foreign manufacturer representation: Foreign manufacturers must appoint a Korean agent (한국 대리인) — typically the importer — to serve as the official representative for all regulatory communications and submissions to MFDS during the approval and post-market phases
+
+Add under 'Key regulatory stages' in the Pre-market section: 'Korean agent: Foreign manufacturers must appoint a Korean agent (typically the importer) to represent them during approval process'

@@ -29,6 +29,9 @@ MedDO requires manufacturers to compile and maintain technical documentation dem
 ## Common NB Audit Findings
 Incomplete GSPR matrices without justification; outdated standard references; CER not reflecting current state of the art; PMS plan not updated to reflect post-market experience; missing or outdated SSCP.
 
+
+Add under 'MedDO Annex II — General Technical Documentation' section: 'Swissmedic retains the right to request technical documentation during market surveillance activities and post-market investigations to verify continued compliance with MedDO requirements. All documentation must be made available within the timeframe specified by Swissmedic.'
+
 ## Official Sources
 - [MedDO Annexes II and III (SR 812.213)](https://www.fedlex.admin.ch/eli/cc/2021/205/en)
 

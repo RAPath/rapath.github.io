@@ -41,3 +41,7 @@ Respond in writing within 15 business days from receipt of the 483. Request an e
 - [FDA — 483 Observations (CDRH database)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfIHCP/CFInspDocs.cfm)
 
 The FDA investigator typically provides an oral briefing at the conclusion of the inspection and issues the written 483 within a few days. Manufacturers should not assume no 483 will be issued until the written document is received.
+
+Add to FDA Form 483 section: 'The FDA investigator typically provides an oral briefing at the conclusion of the inspection and issues the written 483 within a few days. Manufacturers should not assume no 483 will be issued until the written document is received.'
+
+Modify the surveillance inspection row to read: 'Routine inspection of registered establishment; periodic frequency varies by risk classification (typically every 2 years for Class II/III; less frequent for Class I devices without MDRs or complaints)'

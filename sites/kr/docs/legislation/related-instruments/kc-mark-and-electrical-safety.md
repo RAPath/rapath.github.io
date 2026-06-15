@@ -22,7 +22,7 @@ These are separate certifications managed by different regulatory bodies: MFDS h
 
 ## Exemptions
 
-Some devices used exclusively in professional clinical settings may be exempt — verify with KESCO or a Korean regulatory consultant.
+Some devices used exclusively in professional clinical settings may be exempt from KC mark requirements. However, exemptions are rare and must be verified with KESCO or a qualified Korean regulatory consultant on a case-by-case basis before proceeding without certification.
 
 ## Related pages
 - [Electrical and mechanical safety testing](../../pre-market/technical-documentation/electrical-and-mechanical-safety) · [IEC/ISO standards recognised by MFDS](./iec-iso-standards-recognised)
@@ -35,3 +35,14 @@ Generally, the following are more likely to require KC marks:
 - Powered mobility aids and therapeutic devices
 
 Devices less likely to require KC marks include non-powered devices, in vitro diagnostic devices (IVDs) used only in clinical laboratories, and implants used exclusively in surgical settings. However, this determination must be made on a case-by-case basis and verified with KESCO."
+
+Add after the Exemptions section: "Device classes and KC mark requirements
+
+Generally, the following are more likely to require KC marks:
+- Powered surgical instruments and diagnostic equipment
+- Patient monitoring devices with electrical components
+- Powered mobility aids and therapeutic devices
+
+Devices less likely to require KC marks include non-powered devices, in vitro diagnostic devices (IVDs) used only in clinical laboratories, and implants used exclusively in surgical settings. However, this determination must be made on a case-by-case basis and verified with KESCO."
+
+Add clarification: 'KC certification and MFDS approval/notification are independent processes with separate submission pathways. A device may obtain KC certification without MFDS approval and vice versa, though both are often required for market compliance.'

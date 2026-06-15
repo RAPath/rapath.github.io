@@ -145,4 +145,10 @@ The ER checklist is part of the technical file and must be maintained as a livin
 | IEC 60601-1 | Electrical safety |
 | IEC 62304 | Software lifecycle |
 
+### IVD Devices — Essential Requirements
+
+For IVD medical devices, the applicable Essential Requirements are set out in UK MDR 2002 Schedule 1A. Manufacturers should apply the same checklist approach as for general devices, mapping each ER to the relevant standard, objective evidence, and test report. Where the self-declaration conformity assessment route applies (Class A and B IVDs without sterile presentation), no UK Approved Body (UKAB) involvement is required. Class C, D, and sterile Class A/B IVDs require UKAB assessment.
+
 The table should be completed with all applicable IVD Essential Requirements rows and their corresponding applicability, method, and reference columns, followed by explanatory text about when the self-declaration conformity assessment route applies versus when UKAB involvement is required.
+
+Complete the 'Worked example framework — General IVD (self-declaration)' table with entries for remaining applicable Essential Requirements (ER 3–18 where applicable), following the same three-column format (ER reference, Applicable?, Method, TF Reference).

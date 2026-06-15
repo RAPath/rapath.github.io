@@ -6,7 +6,7 @@ description: How to renew a COFEPRIS medical device sanitary registration — 5-
 
 # Registration Renewal
 
-COFEPRIS sanitary registrations are valid for 5 years and must be renewed before expiry. From January 2026, COFEPRIS has the authority to grant subsequent renewals (second renewal and beyond) for periods of up to 10 years, significantly reducing the long-term renewal administrative burden for devices with no compliance issues. This applies only to devices that have completed their first 5-year renewal without safety concerns or significant modifications.
+COFEPRIS sanitary registrations are valid for 5 years and must be renewed before expiry. From January 2026, COFEPRIS may grant subsequent renewals (second renewal and beyond) for periods of up to 10 years, provided the device has remained compliant with no significant safety concerns or modifications, significantly reducing the long-term renewal administrative burden for devices with no compliance issues. This applies only to devices that have completed their first 5-year renewal without safety concerns or significant modifications.
 
 ## Renewal types
 
@@ -50,8 +50,8 @@ The Technovigilance Report is a key renewal document. It must include:
 - Market duration.
 - Any safety alerts or FSCAs taken.
 
-:::tip Submit 3 months early
-Submit the renewal application at least 3 months before the registration expiry date to allow sufficient time for COFEPRIS review and avoid any gap in market authorisation.
+:::tip Timing — submit 3 months early
+Submit the renewal application at least 3 months before the registration expiry date to allow sufficient time for COFEPRIS review and processing. Submitting early reduces the risk of market access gaps if COFEPRIS requests additional information or clarification.
 :::
 
 ## Renewal process
@@ -74,6 +74,18 @@ If a registration lapses (expires without renewal), the device may no longer be 
 - [DIGIPRiS portal](../getting-started/digiepris-portal)
 
 ## First renewal
+
+Impact of mid-cycle modifications on renewal
+​
+If your device or labelling has changed during the 5-year registration period, the renewal dossier must reflect these changes:
+
+Updated labelling — Submit the current label and IFU as they appear on devices marketed during the renewal period (not the original label from registration).
+Updated technical information — If manufacturing site, supply chain, or device design changed, provide updated documentation (ISO 13485 certificates, design controls, risk management files).
+Approved vs. non-approved changes — Any modifications requiring prior COFEPRIS approval (per DIGIPRiS modification rules) must be approved before renewal is submitted. A renewal application cannot be used to gain approval for pending changes.
+Technovigilance Report implications — Ensure the Technovigilance Report reflects which incidents occurred before and after any design or manufacturing changes, as this demonstrates whether changes were effective in mitigating identified risks.
+If renewal documentation reveals unapproved changes, COFEPRIS may request a compliance letter or formal amendment before granting renewal, potentially delaying approval.
+
+Add a new subsection after 'First renewal':
 
 Impact of mid-cycle modifications on renewal
 ​

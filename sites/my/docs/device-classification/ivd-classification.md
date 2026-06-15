@@ -55,5 +55,5 @@ IVDs intended for use by laypersons (home use) require additional consideration:
 - MDA may require additional clinical evidence demonstrating appropriate performance in self-testing conditions
 
 :::note IVD Transition and Future Alignment
-Malaysia continues to align its IVD framework with IMDRF guidance on IVD regulation. As of 2024, MDA has adopted the GHTF SG5 framework with Annex-based classification. Future updates may reflect IMDRF IVDR proposals. Manufacturers are advised to monitor MDA's website and the MDA Guidance page for updates to IVD-specific requirements, particularly for novel IVD categories (e.g., laboratory-developed tests, companion diagnostics) which may receive dedicated guidance.
+Malaysia continues to align its IVD framework with IMDRF guidance on IVD regulation. As of 2024, MDA has adopted the GHTF SG5 framework with Annex-based classification. Future updates may align with IMDRF proposals for IVD regulation harmonisation and emerging categories such as laboratory-developed tests (LDTs) and companion diagnostics. Manufacturers are advised to monitor MDA's website and the MDA Guidance page for updates to IVD-specific requirements, particularly for novel IVD categories (e.g., laboratory-developed tests, companion diagnostics) which may receive dedicated guidance.
 :::

@@ -25,7 +25,7 @@ If you are uncertain whether your product is a medical device, or how it should 
 
 ## Finding a qualified AR
 
-The SFDA does not publish an official list of licensed approved or Authorized Representatives. Recommendations can be sourced through:
+The SFDA does not publish an official list of licensed or approved Authorized Representatives. Recommendations can be sourced through:
 - International regulatory consultancies with Saudi market expertise
 - Industry associations (IMDRF-member contacts)
 - GCC-region medical device trade bodies
@@ -37,3 +37,5 @@ SFDA-accredited Conformity Assessment Bodies (CABs) for ISO 13485 certification 
 ## RAPath feedback and corrections
 
 This site is a community reference resource. If you identify inaccuracies or have suggestions for improvement, please open an issue in the [RAPath GitHub repository](https://github.com/rapath).
+
+Clarify page structure: The page should be consistently labeled as either 'Regulatory Contacts & Further Help' or 'Resources & Glossary' throughout navigation and page headers.

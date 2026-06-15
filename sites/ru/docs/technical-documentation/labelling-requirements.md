@@ -10,7 +10,7 @@ description: Russian labelling requirements for medical devices — mandatory Ru
 
 All labelling and Instructions for Use (IFU) for medical devices placed on the Russian market must be in **Russian**. This is a strict requirement — devices with labelling only in English or another foreign language cannot be legally placed on the market.
 
-For foreign manufacturers, the Russian-language labelling and IFU must be prepared and verified before submission.
+For foreign manufacturers, the Russian-language labelling and IFU must be prepared by a certified translator and verified for regulatory compliance before dossier submission. It is strongly recommended to have Roszdravnadzor or your RUS REP review labelling during dossier preparation to avoid rejection.
 
 ## Required information on the label
 
@@ -66,3 +66,32 @@ Where label space is limited (e.g. on small devices or packaging), an abbreviate
 - The full IFU in Russian is provided with the device or packaging
 
 Confirm with Roszdravnadzor whether your device qualifies for abbreviated labelling during dossier preparation.
+
+Add a new subsection after 'Language requirement':
+
+Cyrillic script requirement
+​
+All labelling and IFU must be in Russian using Cyrillic script. Latin transliteration of Russian terms is not acceptable. Brand names or trademarks may be presented in Latin characters alongside the Russian translation, but all mandatory regulatory information must appear in Russian Cyrillic.
+
+Add a new subsection after 'IFU requirements':
+
+Label space constraints and abbreviated IFU
+​
+Where label space is limited (e.g. on small devices or packaging), an abbreviated IFU referencing the full instructions may be acceptable if:
+- The label clearly directs users to the full IFU
+- All essential safety warnings and contraindications are included on the label itself
+- The full IFU in Russian is provided with the device or packaging
+
+Confirm with Roszdravnadzor whether your device qualifies for abbreviated labelling during dossier preparation.
+
+Add a new section after 'Required information on the label':
+
+Special requirements for IVD devices
+
+For In Vitro Diagnostic (IVD) devices, labelling must additionally include:
+- Performance parameters and test methodology
+- Analytical and clinical performance characteristics
+- Instructions for proper specimen collection and handling
+- Reference intervals or interpretation guidelines
+
+Refer to GOST R 51088-2013 for detailed IVD labelling requirements.

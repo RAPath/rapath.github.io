@@ -17,7 +17,7 @@ sidebar_position: 2
 
 ## Grade I reduced burden
 
-Grade I devices have the lightest documentation burden. A technical specification summary may suffice instead of full test reports.
+Grade I devices have streamlined documentation requirements. MFDS may accept a technical specification summary or abbreviated test data instead of full performance test reports, provided the device poses minimal risk and conforms to applicable standards.
 
 ## Standards compliance (Grade II)
 
@@ -28,4 +28,16 @@ Test reports demonstrating conformance to applicable **KS** or recognised **IEC/
 
 IVD Grade A and B standards compliance
 
-For IVDs, applicable standards may include ISO 13485, ISO 14644 (cleanroom), ISO 18385 (IVD quality systems), and IVD-specific international standards (ISO 18113 series, ISO 12882). Refer to MFDS guidance documentation for device-specific standard recommendations.
+For IVDs, applicable standards may include ISO 13485 (quality management), ISO 14644 (cleanroom environment controls if applicable), ISO 18385 (IVD quality systems), and IVD-specific international standards (ISO 18113 series for glucose monitoring, ISO 12882 for blood gas analysers, and others as applicable to device type). Test reports demonstrating conformance must be from MFDS-recognised testing laboratories. Refer to MFDS guidance documentation for device-specific standard recommendations.
+
+Korean-language labelling requirements
+
+All labelling must be in Korean and include:
+• Product name (in both Korean and English acceptable)
+• Intended use and indications
+• Safety warnings and precautions
+• Instructions for use
+• Manufacturer name and contact information
+• Storage conditions and shelf life
+
+English can be retained for technical terms if no suitable Korean equivalent exists, provided a Korean translation is provided. Labelling must be clear, legible, and placed on the device or packaging.

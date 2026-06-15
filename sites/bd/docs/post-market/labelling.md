@@ -65,3 +65,7 @@ When adapting labelling for the Bangladesh market, ensure:
 5. Any post-registration labelling changes are notified to the DGDA before implementation
 
 Combination Products: Where a device is combined with a pharmaceutical product or cosmetic, ensure labelling clearly distinguishes the device component from the pharmaceutical/cosmetic component. Both components must meet their respective regulatory requirements. Consult the DGDA early if unsure about classification.
+
+Symbol Requirements:
+
+All mandatory symbols must comply with ISO 7000 or ISO 3864 standards where applicable. The single-use symbol (ISO 7000-1051) must be clearly visible on the device or primary packaging. For sterile devices, the sterility assurance statement must use ISO 11135 or equivalent sterilization standard notation. Ensure all symbols are reproduced at a size legible to the intended user population and in a manner that cannot be obscured or misinterpreted.

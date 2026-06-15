@@ -36,3 +36,5 @@ MFDS typically decides on the innovative medical device designation application 
 — Request written rationale for denial
 — Resubmit with additional evidence of innovation
 — Proceed with standard 품목허가 pathway without the priority review benefits
+
+Denial of innovative medical device designation does not prevent the applicant from proceeding with a standard 품목허가 application. In fact, applicants may incorporate MFDS written feedback from the designation denial into the standard application to address reviewer concerns. However, resubmitting an innovative designation application for the same device within 12 months requires substantial new evidence of innovation.

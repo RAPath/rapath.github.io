@@ -30,3 +30,5 @@ RCBs must be accredited by MHLW to operate under the Ninsho pathway. Their accre
 3. Contact 2–3 RCBs with a brief device description to request a scope confirmation and fee estimate
 4. Select an RCB and enter into a certification agreement
 5. Submit the technical dossier per the RCB's requirements
+
+MHLW maintains a current list of accredited RCBs and their scope on the PMDA website (separate from PMDA's own review functions). The RCB scope list is updated periodically as accreditations are renewed or expanded. Always verify RCB scope directly on MHLW's official website before selecting an RCB, as scope changes are not always announced via other channels.

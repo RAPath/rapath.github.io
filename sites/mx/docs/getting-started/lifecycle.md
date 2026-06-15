@@ -59,7 +59,7 @@ Once registered, ongoing obligations include:
 
 Sanitary registrations are valid for 5 years. Renewal requires:
 
-- First renewal (within 5 years of initial registration): comprehensive documentation package including GMP certificate (NOM-241 compliance), quality system documentation, and a consolidation technovigilance report summarising all adverse events and corrective actions from the preceding 5-year registration period.
+- First renewal (due within 5 years of initial registration date): comprehensive documentation package including current GMP certificate (NOM-241 compliance issued within 2 years of renewal submission), updated quality system documentation, and a consolidated technovigilance report summarising all adverse events reported, trend analyses, and corrective actions implemented during the preceding 5-year registration period.
 - Subsequent renewals (from January 2026): reduced documentation; may be granted for up to 10 years.
 
 Renewal applications must be submitted via DIGIPRiS at least 3 months before expiry.
@@ -77,3 +77,7 @@ Changes to the device, labelling, manufacturer, or MRH must be notified to or ap
 - [Registration renewal](../postmarket/registration-renewal)
 
 Devices listed in Annex 2 of the July 2025 classification decree are entirely exempt from sanitary registration. Devices listed in Annex 3 are not classified as health supplies and do not require registration or import permits. Only devices classified in Class I (non-exempt), Class II, or Class III require a sanitary registration.
+
+Expand Phase 1 to include: 'Devices listed in Annex 2 of the July 2025 classification decree are entirely exempt from sanitary registration. Devices listed in Annex 3 are not classified as health supplies and do not require registration or import permits. Only devices classified in Class I (non-exempt), Class II, or Class III require a sanitary registration.'
+
+Add after Phase 4 dossier requirements: "Certified translations (traducciones certificadas) must be prepared by a traductor certificado recognised by Mexican authorities or COFEPRIS. Digital certification stamps (e-signature) are accepted; scanned paper copies alone are insufficient."

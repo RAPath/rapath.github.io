@@ -20,7 +20,7 @@ Distribution records must enable the sponsor to identify, for any given batch or
 - **What was supplied** — device model, lot/batch number, serial number (where applicable), quantity
 - **The supply chain** — if devices were supplied through distributors, records must capture the downstream destination to the extent necessary to enable an effective recall
 
-For devices supplied directly to patients (e.g., direct-to-consumer IVDs, consumer devices), records must include sufficient customer information to enable patient-level notification where a Class I recall requires it.
+For devices supplied directly to patients (e.g., direct-to-consumer IVDs, consumer devices, home-use devices), records must include sufficient customer information (such as name, address, and contact details) to enable patient-level notification where a Class I recall requires it.
 
 ---
 
@@ -52,6 +52,9 @@ The progressive introduction of **Unique Device Identification (UDI)** requireme
 
 ---
 
+
+The TGA typically expects distribution records to be provided within 10 business days of a request, although complex supply chains may warrant a longer timeframe by agreement with the TGA. Sponsors should establish processes to retrieve and compile records efficiently to meet regulatory expectations.
+
 ## Official Sources
 
 - [Understanding post-market responsibilities — TGA](https://www.tga.gov.au/resources/guidance/understanding-your-post-market-responsibilities-medical-devices)
@@ -64,4 +67,4 @@ The progressive introduction of **Unique Device Identification (UDI)** requireme
 - [PMS Requirements by Class](./pms-requirements.md)
 - [When a Recall is Required](../recalls-and-field-safety/when-a-recall-is-required.md)
 
-The TGA typically expects distribution records to be provided within 10 business days of a request, although complex supply chains may warrant a longer timeframe by agreement with the TGA. Sponsors should establish processes to retrieve and compile records efficiently to meet regulatory expectations.
+Upon request, the TGA typically expects distribution records to be provided within 10 business days, although complex supply chains may warrant a longer timeframe by written agreement with the TGA. Sponsors should establish efficient processes to retrieve and compile records to meet these regulatory expectations.

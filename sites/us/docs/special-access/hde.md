@@ -74,3 +74,7 @@ Devices approved under HDE that are implantable must comply with device tracking
 - [FDA OOPD — HUD Designation](https://www.fda.gov/industry/medical-products-rare-diseases-and-conditions/designating-humanitarian-use-device-hud)
 
 If a device subsequently demonstrates use in a patient population exceeding 8,000 patients per year in the USA, the HDE approval may be withdrawn and the manufacturer must pursue standard 510(k) or PMA approval.
+
+Add to the 'Post-approval conditions' section: 'If a device subsequently demonstrates use in a patient population exceeding 8,000 patients per year in the USA, the HDE approval may be withdrawn and the manufacturer must pursue standard 510(k) or PMA approval.'
+
+Clarify the existing note at bottom by moving it into the main text: Add to 'Post-approval conditions' section: 'The 8,000-patient annual threshold is monitored post-approval. If actual use subsequently expands to exceed 8,000 patients per year in the USA, FDA may withdraw the HDE approval and the manufacturer must pursue 510(k) clearance or PMA approval for continued marketing.'

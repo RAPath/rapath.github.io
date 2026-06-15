@@ -25,7 +25,7 @@ Software qualifies as a medical device only if both of the following conditions 
 1. Is intended by the manufacturer for a medical purpose, and
 2. Performs an action that goes beyond storage, archival, lossless compression, or simple search of data
 
-Software that merely stores or transmits data without interpretation, calculation, or decision support does not qualify as a medical device. Examples:
+Software that merely stores, archives, or transmits data without interpretation, calculation, analysis, prediction, or decision support does not qualify as a medical device, even if used in a healthcare setting. Examples:
 
 | Software | Qualification |
 |---|---|
@@ -144,5 +144,7 @@ Software classified as Class IIa, IIb, or III must follow a documented software 
 | MDCG 2021-24 | MDR Rule 11 classification guidance |
 | EN 62304:2006+A1:2015 | Software lifecycle processes |
 | EU AI Act (Regulation (EU) 2024/1689) | Parallel obligations for AI systems |
+
+| AI ECG algorithm flagging potential atrial fibrillation | Diagnosis of serious arrhythmia; error could cause stroke; reversible with intervention | IIa |
 
 The worked example should be completed as: 'AI ECG algorithm flagging potential atrial fibrillation — Diagnosis of serious arrhythmia; error could cause stroke; reversible with intervention — IIa'

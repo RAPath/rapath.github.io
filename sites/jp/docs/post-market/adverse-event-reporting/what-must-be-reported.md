@@ -17,7 +17,7 @@ Japan's adverse event reporting system for medical devices requires MAHs to repo
 2. **A patient suffered a serious injury** and there is reasonable possibility the device contributed. "Serious injury" includes:
    - Life-threatening situations
    - Permanent impairment of a body function or permanent damage to a body structure
-   - Condition requiring medical or surgical intervention to prevent permanent impairment
+   - Condition requiring urgent medical or surgical intervention to prevent permanent impairment
    - Hospitalisation or prolonged hospitalisation
    - Any condition considered serious by a physician
 3. **A malfunction occurred** that, if it were to recur, would likely cause a death or serious injury

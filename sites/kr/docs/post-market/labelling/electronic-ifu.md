@@ -30,3 +30,7 @@ MFDS has introduced provisions allowing **electronic IFU (eIFU)** for certain de
 "Language and accessibility
 
 eIFU must be in Korean or a language approved by MFDS. The URL or QR code link must remain functional and accessible without requiring users to create accounts, pay fees, or provide personal data beyond what is necessary for security purposes."
+
+Add to eIFU requirements section: "Language and accessibility
+
+eIFU must be in Korean or a language approved by MFDS. The URL or QR code link must remain functional and accessible without requiring users to create accounts, pay fees, or provide personal data beyond what is necessary for security purposes."

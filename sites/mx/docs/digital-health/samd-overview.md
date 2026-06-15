@@ -26,7 +26,7 @@ COFEPRIS is a member of the **IMDRF** and is working toward alignment with IMDRF
 - **IMDRF/SaMD N23** — SaMD: Clinical Evaluation.
 - **IMDRF/SaMD N41** — SaMD: Software Lifecycle Processes.
 
-In practice, COFEPRIS assesses SaMD using the standard three-class risk framework (Class I · II · III) until a dedicated SaMD classification rule is published.
+In practice, COFEPRIS assesses SaMD using the standard three-class risk framework (Class I · II · III), considering the clinical severity of incorrect output and the significance of the software in the clinical decision pathway, until a dedicated SaMD classification rule is published in the DOF.
 
 ## Current regulatory pathway for SaMD
 
@@ -54,3 +54,5 @@ COFEPRIS's SaMD framework is still maturing. Manufacturers with novel SaMD produ
 - [IMDRF membership](../international/imdrf-membership)
 
 Given the evolving SaMD regulatory landscape in Mexico, manufacturers of novel or borderline SaMD products are encouraged to submit a classification request to COFEPRIS via DIGIPRiS before finalising the dossier. Early engagement typically takes 15–30 business days and can prevent delays in the formal registration submission. Include a detailed product description, intended use statement, and technical architecture in the classification request.
+
+Add a new subsection titled 'Early engagement with COFEPRIS' with text: 'Given the evolving SaMD regulatory landscape in Mexico, manufacturers of novel or borderline SaMD products are encouraged to submit a classification request to COFEPRIS via DIGIPRiS before finalising the dossier. Early engagement typically takes 15–30 business days and can prevent delays in the formal registration submission. Include a detailed product description, intended use statement, and technical architecture in the classification request.'

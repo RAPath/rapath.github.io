@@ -12,7 +12,7 @@ const communityFooterColumn = {
   items: [
     { label: 'Q&A Discussions', href: 'https://github.com/orgs/RAPath/discussions' },
     { label: 'Report an Error', href: 'https://github.com/orgs/RAPath/discussions/new?category=corrections' },
-    { label: 'GitHub', href: 'https://github.com/RAPath' },
+    { label: 'GitHub', href: 'https://github.com/RAPath/rapath.github.io' },
   ],
 };
 
@@ -55,7 +55,7 @@ interface SiteParams {
   title: string;
   tagline: string;
   sidebarId: string;
-  whatsNewPath: string;
+  whatsNewPath?: string; // deprecated — hub centralises all updates
   githubDiscussions?: string;
   githubRepo?: string;
   sections: FooterLink[];
@@ -136,11 +136,6 @@ export function buildSiteConfig(params: SiteParams): Config {
             position: 'left',
             label: 'Docs',
           },
-          {
-            to: params.whatsNewPath,
-            label: "What's New",
-            position: 'left',
-          },
           // Search removed — search is on the hub only (rapath.github.io)
           {
             href: 'https://rapath.github.io/tools/',
@@ -154,7 +149,7 @@ export function buildSiteConfig(params: SiteParams): Config {
             position: 'right',
           },
           {
-            href: params.githubRepo ?? 'https://github.com/RAPath',
+            href: params.githubRepo ?? 'https://github.com/RAPath/rapath.github.io',
             label: 'GitHub',
             position: 'right',
           },

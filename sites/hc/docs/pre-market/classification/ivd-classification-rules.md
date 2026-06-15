@@ -47,7 +47,7 @@ Examples:
 
 ## Point-of-care and home-use IVDs
 
-IVDs intended for use outside a professional laboratory — including point-of-care (POC) tests and home-use self-tests — may be classified one class higher than the same test when performed in a laboratory, to account for the additional risks of:
+IVDs intended for use outside a professional laboratory — including point-of-care (POC) tests and home-use self-tests — are typically classified one class higher than the same test when performed in a laboratory setting, to account for additional risks associated with:
 - Use by untrained lay users
 - Potential for misinterpretation of results
 - Environmental variation in test conditions

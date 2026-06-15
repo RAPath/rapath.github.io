@@ -8,7 +8,7 @@ keywords: [ANVISA, Brazil, medical device]
 # Healthcare Facility Reporting Obligations
 
 :::info BR-unique
-Healthcare facilities (hospitals, clinics, diagnostic laboratories, blood banks) in Brazil have specific adverse event reporting obligations under ANVISA's Tecnovigilância program. This reflects Brazil's unique three-tier SNVS structure, where healthcare facilities are active participants in post-market surveillance.
+Healthcare facilities (hospitals, clinics, diagnostic laboratories, blood banks, and other health service providers) in Brazil have mandatory adverse event and technical complaint reporting obligations under ANVISA's Tecnovigilância program defined in RDC 753/2022. This reflects Brazil's unique three-tier SNVS structure, where healthcare facilities are active participants in post-market surveillance.
 :::
 
 Healthcare facilities must:
@@ -26,3 +26,17 @@ Healthcare facilities that fail to report adverse events face ANVISA enforcement
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
 
+Add after the list of obligations:
+
+**How healthcare facilities report**
+
+Healthcare facilities must register on NOTIVISA and submit reports directly via the portal using their institutional CNPJ. Reports should be submitted by the institution's designated responsible person or quality/risk management representative. Many health facilities also report through their state-level VISA (health surveillance agency), which may forward reports to ANVISA; however, direct NOTIVISA submission is the primary required pathway.
+
+SNVS (Sistema Nacional de Vigilância Sanitária) Structure
+Brazil's three-tier surveillance system comprises:
+
+1. ANVISA (federal level) — sets policy and oversees nationwide surveillance;
+2. State VISA agencies — implement surveillance at state level;
+3. Municipal health authorities — conduct local monitoring and investigations.
+
+Healthcare facilities report to their local or state VISA, which coordinates with ANVISA on serious events and recalls.

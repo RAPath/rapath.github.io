@@ -22,7 +22,7 @@ This site provides general information only and does not constitute legal or reg
 
 An **importer** is any natural or legal person established within the EU that **places a device from a third country on the EU market**.
 
-"Placing on the market" means making a device available for the first time on the EU market — the importer is therefore the first EU-established entity to physically handle a device coming from outside the EU, with the intention of distributing it within the EU.
+"Placing on the market" means making a device available for the first time on the EU market. The importer is therefore the first EU-established entity to physically take possession of and distribute a device coming from outside the EU into the EU market, with the intention of distributing it to customers.
 
 Key points:
 - The importer must be **established within the EU** (not merely commercially active)
@@ -154,3 +154,5 @@ This is a crucial compliance boundary — importers who add their own branding, 
 | MDCG 2021-17 | Guidance on economic operators |
 
 Complete the truncated sentence and finish the labelling requirements section. It should read: 'Importers should plan for labelling early in their supply chain engagement, as retrofitting labels or using supplementary labels adds cost and complexity. Ensure that importer details are captured on the device label, packaging, or documentation in a way that complies with MDR Article 13(4) and IVDR Article 13(4).'
+
+Complete the truncated sentence and any missing paragraphs. The sentence should read: 'Importers should plan for labelling and supplementary label placement during the device preparation phase to avoid delays when receiving shipments from non-EU manufacturers.'

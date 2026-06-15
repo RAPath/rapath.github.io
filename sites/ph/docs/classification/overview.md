@@ -59,3 +59,5 @@ The CDRRHR provides a **product classification inquiry process** for manufacture
 ## CDRRHR List of Registrable Medical Devices
 
 CDRRHR publishes a list of medical devices subject to registration (CMDN/CMDR). Not every instrument or product with a health-related claim meets the regulatory definition of a medical device. Confirm your product appears on or is consistent with the registrable devices list before proceeding.
+
+Monitor the official CDRRHR announcements and FDA Philippines website for updates on IVD registration implementation timeline. As of May 2026, no final implementation date has been announced. Entities distributing or importing IVDs should maintain compliance with all other applicable regulations and ensure valid LTO status in the interim.

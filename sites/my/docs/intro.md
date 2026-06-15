@@ -53,3 +53,5 @@ This reference covers the full lifecycle of a medical device in the Malaysian ma
 :::info Disclaimer
 This site is an independent reference resource and is not affiliated with or endorsed by the Medical Device Authority (MDA) or the Ministry of Health Malaysia. Information is provided for guidance only. Always verify current requirements directly with [MDA](https://www.mda.gov.my) and via the [MyMDA portal](https://mymda.mda.gov.my).
 :::
+
+Add to the Disclaimer section: 'For official regulatory guidance, always consult www.mda.gov.my, the MyMDA portal, or contact MDA directly. Users who identify inaccurate or outdated information on this site are encouraged to verify directly with MDA before relying on the information for compliance purposes.'

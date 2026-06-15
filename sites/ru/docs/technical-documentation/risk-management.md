@@ -10,7 +10,7 @@ description: Risk management requirements for medical devices in Russia — GOST
 
 Russia requires risk management to be conducted in accordance with **GOST R ISO 14971** — the Russian adoption of the international standard ISO 14971 "Medical devices — Application of risk management to medical devices."
 
-The standard is adopted verbatim from ISO 14971 and covers the same requirements. A risk management file that complies with ISO 14971 will generally satisfy GOST R ISO 14971 requirements.
+The standard is adopted verbatim from ISO 14971 and covers the same requirements. A risk management file that complies with ISO 14971 will satisfy GOST R ISO 14971 requirements, as the Russian standard adopts the international standard verbatim with no substantive deviations.
 
 ## What the risk management file must contain
 

@@ -62,3 +62,5 @@ Content on this site is written with AI assistance and is intended as a navigati
 :::
 
 Recent Framework Developments: NMPA continues to issue guidance documents and announcements updating aspects of MDSAR 2021 implementation. Key areas of ongoing evolution include: UDI implementation timelines, real-world evidence standards for re-registration, and data localization requirements for clinical trial data. Applicants should monitor www.nmpa.gov.cn for announcements.
+
+Add a subsection after 'Primary legislation': 'Recent Framework Developments: NMPA continues to issue guidance documents and announcements updating aspects of MDSAR 2021 implementation. Key areas of ongoing evolution include: UDI implementation timelines, real-world evidence standards for re-registration, and data localization requirements for clinical trial data. Applicants should monitor www.nmpa.gov.cn for announcements.'

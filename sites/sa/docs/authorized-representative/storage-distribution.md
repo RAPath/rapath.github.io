@@ -8,7 +8,7 @@ description: SFDA requirements for medical device storage, warehousing, and dist
 
 ## Overview
 
-Entities storing or distributing medical devices in Saudi Arabia must hold a valid **Medical Device Establishment License (MDEL)** in the appropriate category (importer, distributor, or warehouse operator) and comply with SFDA requirements for storage and distribution operations. These requirements are designed to ensure devices reach end users in the same condition as when they left the all and with the same safety and performance profile manufacturer's facility.
+Entities storing or distributing medical devices in Saudi Arabia must hold a valid **Medical Device Establishment License (MDEL)** in the appropriate category (importer, distributor, or warehouse operator) and comply with SFDA requirements for storage and distribution operations. These requirements are designed to ensure devices reach end users in the same condition as when they left the manufacturer's facility, with the same safety and performance profile intact.
 
 ## MDEL requirement for storage and distribution
 
@@ -38,7 +38,7 @@ MDEL holders involved in distribution must maintain **traceability records** suf
 - Identify all devices dispatched (customer, lot/batch, quantity, date)
 - Support a full FSCA or recall — locating and contacting all customers who received a specific lot within a reasonable timeframe
 
-Traceability records must be retained for a period that allows for post-market surveillance and SFDA audit — typically the device lifetime plus at least two years (verify against current SFDA requirements).
+Traceability records must be retained for a minimum of five years from the date of dispatch (or the device's shelf-life plus five years, whichever is longer) to allow for post-market surveillance and SFDA audit. Verify current SFDA-specific retention timelines in MDS-REQ 6 and FSCA procedures.
 
 ## Recall readiness
 
@@ -76,3 +76,5 @@ The SFDA may inspect distributor and warehouse facilities as part of market surv
 - [FSCAs & Recalls](../post-market/fsca-recalls)
 
 Revise the 'Distribution traceability' section final paragraph to read: 'Traceability records must be retained for a minimum of five years from the date of dispatch (or the device's shelf-life plus five years, whichever is longer). This period allows for post-market surveillance and SFDA audit. In the event of a recall or FSCA, distributors must be able to identify and contact all customers who received a specific lot within 24 to 48 hours of notification — verify current SFDA expectations in the FSCA guidelines (MDS-REQ 11).'
+
+Remove the incomplete final paragraph that begins with 'Revise the 'Distribution traceability' section...' and replace it with: 'Traceability records must be retained for a minimum of five years from the date of dispatch (or the device's shelf-life plus five years, whichever is longer). This period allows for post-market surveillance and SFDA audit. In the event of a recall or FSCA, distributors must be able to identify and contact all customers who received a specific lot within 24 to 48 hours of notification.'

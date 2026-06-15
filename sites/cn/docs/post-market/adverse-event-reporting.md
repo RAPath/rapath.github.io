@@ -54,3 +54,5 @@ Content on this site is written with AI assistance and is intended as a navigati
 
 ## Reference Documents
 Report forms and detailed procedures available on www.nmpa.gov.cn under 'Adverse Event Reporting' and 'Guidance Documents'
+
+Revise Key Reporting Channels section: 'Yellow Card system: Public adverse event reporting channel managed by NMPA for healthcare professionals and general public; integrates with CDRMP for data consolidation and analysis.'

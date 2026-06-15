@@ -30,7 +30,7 @@ Vietnamese domestic manufacturers may be subject to direct **GMP inspection** by
 
 The **Medical Device Single Audit Program (MDSAP)** is a globally recognised audit program covering quality management system requirements for regulatory authorities including Australia (TGA), Brazil (ANVISA), Canada (Health Canada), Japan (MHLW/PMDA), and the USA (FDA).
 
-DAV recognises MDSAP certificates as equivalent to ISO 13485 for the purposes of registration dossiers. This is particularly valuable for manufacturers already MDSAP-certified for other markets, as it avoids the cost of a separate ISO 13485 certification.
+DAV recognises MDSAP certificates as equivalent to ISO 13485 for the purposes of registration dossiers (Type C and D). This is particularly valuable for manufacturers already MDSAP-certified for other regulated markets (such as the USA, Canada, Japan, Brazil, or Australia), as it eliminates the need for a separate ISO 13485 audit.
 
 ## QMS and the registration dossier
 
@@ -53,3 +53,5 @@ While Decree 98/2021 does not mandate ISO 13485 certification for importers and 
 These are inspectable obligations — provincial health departments and DAV can request to review quality records during market surveillance inspections.
 
 QMS certificates must be renewed before expiration. If a manufacturer's QMS certificate expires during the validity period of a marketed device's registration, the manufacturer must submit a new valid QMS certificate to DAV within 30 days of renewal. Failure to maintain a valid QMS certificate may result in suspension of the device's marketing authorisation.
+
+Add: 'Contact your Authorised Representative or DAV's registration department to confirm current document legalisation requirements, as these may vary by country of origin and certification body. Allow additional time in your registration timeline for document preparation and authentication.'

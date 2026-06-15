@@ -18,7 +18,7 @@ Under the PRAC (effective March 2025), market actions are classified into three 
 **Examples:**
 - A pacemaker with a software defect that could cause inappropriate shock delivery
 - An IVD with a systematic calibration error causing incorrect results that could lead to delayed diagnosis of a life-threatening condition
-- A sterile device found to have compromised sterility in a manner that could cause serious infection
+- A sterile device found to have compromised sterility that could result in serious infection, such as a surgical implant or injectable device
 
 **Required action:**
 - Immediate notification to TGA
@@ -70,7 +70,7 @@ The depth of recall (how far down the supply chain the action reaches) depends o
 | **Hospital/facility level** | Healthcare facilities, clinics |
 | **Patient level** | Individual patients who have received the device (typically for implants or direct-to-consumer devices) |
 
-Class I actions for implantable devices will typically require patient-level recall. The TGA determines the required distribution level as part of approving the recall strategy.
+Class I actions for implantable devices will typically require patient-level recall, as individual patients may need to be notified of serious risks or required follow-up actions. The TGA determines the required distribution level as part of approving the recall strategy.
 
 ---
 

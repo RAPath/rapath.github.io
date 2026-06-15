@@ -205,3 +205,5 @@ In the technical documentation's **GSPR cross-reference table**, each applicable
 | IEC 62366-1:2015+A1:2020 | Usability engineering |
 | EN 62304:2006+A1:2015 | Software lifecycle |
 | MDCG 2020-10 | CMR and endocrine disruptors guidance |
+
+The page content cuts off at 'Environmental conditions (temperatu...' and needs to be completed with the full text of GSPR 11 and all subsequent GSPR (12-22) requirements including measuring functions, radiation protection, energy sources, mechanical risks, self-testing, EMC, implantable devices, and software requirements.

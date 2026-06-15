@@ -32,3 +32,7 @@ Precise and clinically meaningful:
 • "For quantitative measurement of HbA1c in whole blood samples for diabetes management monitoring"
 ​
 Precision prevents regulatory violations from off-label marketing and supports robust clinical evaluation.
+
+Variant devices and model coverage
+
+A single 품목허가 may cover multiple device models or variants if they share the same intended use, design principle, and safety/performance profile. Acceptable variants within one license include: (1) different sizes or lengths (e.g., catheter diameters 4 Fr to 8 Fr); (2) different material options with equivalent biocompatibility profiles; and (3) different connector types or accessories. However, substantial design changes, different operating principles, or changes in intended patient population typically require a separate 품목허가. Manufacturers must clearly document the rationale for grouping variants in the STED's Device Description section. If MFDS determines that variants are insufficiently similar, a deficiency notice may require separate submissions.

@@ -39,7 +39,7 @@ These can be the same entity or different entities:
 
 In either case, the AR retains regulatory accountability to the DGDA regardless of physical distribution arrangements. Importers must always operate under the authority of a registered AR.
 
-These can be the same entity or different entities. A manufacturer may appoint one AR (who holds the registration) and multiple importers/distributors (who handle logistics and distribution). The AR retains regulatory accountability regardless of the physical distribution arrangements.
+The AR and importer can be the same entity or different entities. A manufacturer may appoint one AR (who holds the registration) and one or more licensed importers (who handle logistics and physical importation). The AR retains regulatory accountability to the DGDA regardless of the physical distribution arrangements.
 
 ### AR Obligations Summary
 
@@ -133,3 +133,5 @@ Confirms that a specific medical device is legally marketed in Bangladesh. This 
 - Certificate request form available from DGDA
 
 Processing typically takes 10–15 working days. The FSC is valid for one year from issue and must be renewed if needed for continued exports.
+
+The final section 'Bangladesh's GMP requirements for medical device manufacturi' is incomplete. Complete it with: 'Bangladesh's GMP requirements for medical device manufacturing are aligned with GHTF principles and include: facility design and environmental controls; equipment validation and maintenance; personnel training and qualification; document control systems; batch record keeping; supplier qualification; internal audits; and management review. Specific requirements are detailed in DGDA factory inspection checklists.'

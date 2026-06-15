@@ -39,3 +39,5 @@ This measure implements MDSAR 2021 Chapter II (Articles 10-43), establishing det
 
 ## Relationship to MDSAR 2021
 This measure operationalizes Articles 13-16 (classification and registration requirements) and Articles 20-39 (dossier content and certificate issuance) of MDSAR 2021 Chapter II.
+
+Revise timeline entry to: 'Review timeline: 30 calendar days for Class II, 60 calendar days for Class III. Timeline pauses (clock-stop) when NMPA issues information requests; clock resumes upon applicant response.'

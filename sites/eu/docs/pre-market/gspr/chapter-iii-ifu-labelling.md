@@ -174,3 +174,5 @@ Labels and IFU must be in the **official language(s) of the member state(s)** wh
 | Commission Regulation (EU) No 207/2012 | eIFU rules |
 | MDR Art. 32 | Implant card requirements |
 | MDCG 2019-16 | Guidance on IFU content |
+
+The page needs completion of the IVDR IFU requirements section, including reference intervals, quality control information, and any additional content that was intended to follow.

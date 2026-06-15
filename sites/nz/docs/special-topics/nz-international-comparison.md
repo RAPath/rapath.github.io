@@ -10,7 +10,7 @@ description: How New Zealand's Medsafe framework sits in the global medical devi
 
 Medsafe participates in the International Medical Device Regulators Forum (IMDRF), the body that coordinates international regulatory harmonisation for medical devices. IMDRF guidance is a key reference for Medsafe in areas not explicitly covered by the Medicines Act 1981.
 
-New Zealand's regulatory framework is aligned with the GHTF (Global Harmonization Task Force) model, which was succeeded by IMDRF (International Medical Device Regulators Forum). While GHTF informed the original EU Medical Devices Directive, NZ's framework predates and is based on GHTF principles rather than direct EU MDD alignment.
+New Zealand's regulatory framework is based on the GHTF (Global Harmonization Task Force) model, which was succeeded by IMDRF (International Medical Device Regulators Forum). While GHTF principles also informed the EU Medical Devices Directive, NZ's framework was not derived from or aligned with the EU MDD — instead, it independently adopted GHTF principles at the time of the Medicines Act 1981.
 
 ---
 

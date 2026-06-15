@@ -26,4 +26,20 @@ For IVDs: Grade A/B require performance data; Grade C/D require formal performan
 - First-in-class novel technology
 - Specific MFDS safety/performance concerns
 
+Important distinctions
+
+Grade I devices may still require clinical data if they are novel, pose new safety questions, or are intended for new indications not covered by existing predicate devices.
+
+The IVD grading system (A/B/C/D) operates independently from the general device grading system (I/II/III/IV). IVDs are evaluated based on analytical validity, clinical validity, and scientific validity rather than safety and clinical benefit, and must follow the performance evaluation pathway outlined in Performance Evaluation for IVDs.
+
+Timeline considerations
+
+While specific submission deadlines vary by device type, applicants should plan for:
+
+- Grade I/II devices: Clinical data may be submitted with 품목허가 application if required
+- Grade III devices: Clinical evaluation report typically needed before or concurrent with 품목허가 submission
+- Grade IV devices: Robust clinical trial data should be completed before 품목허가 submission to avoid extended review timelines
+
+Foreign clinical data evaluation typically requires 30–60 days additional review if MFDS requests clarification on population relevance or study conduct quality.
+
 Note: Grade I devices may still require clinical data if they are novel or have new indications. The IVD grading system (A/B/C/D) differs from the general device grading system (I/II/III/IV) and follows separate performance evaluation pathways.

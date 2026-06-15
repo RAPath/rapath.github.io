@@ -7,7 +7,7 @@ last_reviewed: 2026-04-30
 
 ## Overview
 
-Most TGA transactions — ARTG applications, adverse event reports, conformity assessment applications, and variation requests — are conducted through the TGA Business Services (TBS) portal. This is the central online platform for industry interactions with the TGA. You will need a TGA account to access TBS.
+Most TGA transactions — ARTG applications, adverse event reports, conformity assessment applications, and variation requests — are conducted through the TGA eBusiness Services (eBS) portal (part of TGA Business Services). This is the central online platform for industry interactions with the TGA. You will need a TGA account to access eBS.
 
 👉 [TGA Business Services portal — TGA](https://www.tga.gov.au/resources/tga-business-services)
 
@@ -99,6 +99,9 @@ Small businesses and new entrants to the Australian medical device market can ac
 👉 [SME Assist — TGA](https://www.tga.gov.au/how-we-regulate/tga-learn/sme-assist)
 
 ---
+
+
+Update the ASDER entry to read: 'ASDER — healthcare facility reporting (from March 2025) - Report adverse events as a healthcare facility using ASDER (Adverse Supporting Data Entry Report). During the 12-month voluntary period (21 March 2025 to 20 March 2026), use: Contact: MDAE.Support@health.gov.au. Mandatory reporting begins 21 March 2026.'
 
 ## Related Pages
 

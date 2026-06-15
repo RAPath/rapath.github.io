@@ -9,7 +9,7 @@ tags: [uk-mdr, ivd, classification, list-a, list-b, self-test, pre-market]
 ---
 
 :::note[Regulatory basis]
-IVD classification under UK MDR 2002 is governed by **Part III** and its **Annex II** (Lists A and B). Self-test device requirements are in **Annex III** of Part III. Part III of UK MDR 2002 is derived from the former EU IVDD 98/79/EC and is distinct from the EU IVDR 2017/746 classification system that applies in Northern Ireland.
+IVD classification under UK MDR 2002 is governed by **Part III** and its **Annex II** (Lists A and B). Self-test device requirements are in **Annex III** of Part III. Part III of UK MDR 2002 is derived from the former EU IVDD 98/79/EC and is distinct from the EU IVDR 2017/746 classification system that applies in Northern Ireland and the EU.
 :::
 
 :::warning[Disclaimer]

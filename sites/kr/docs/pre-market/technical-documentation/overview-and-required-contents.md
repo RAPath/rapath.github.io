@@ -36,3 +36,7 @@ The STED submitted to MFDS must include:
 • Korean-language executive summary (1–2 pages)
 ​
 Electronic submission via the MFDS portal requires PDF format with searchable text. Large documents (>50 MB) should be divided into logical sections for review.
+
+STED language and submission requirements
+
+The STED submitted to MFDS must be prepared in English as the primary language, with critical sections (Device Description, Intended Use, Risk Management Summary, Conclusions) provided in Korean translation. Non-clinical technical sections (e.g., detailed engineering drawings, raw test data) may be submitted in English provided they are referenced and cross-indexed in the Korean sections. All regulatory claims, contraindications, warnings, and post-market surveillance plans must include official Korean translations. If the STED exceeds 50 MB, the submission should be divided into logical volumes (e.g., Volume 1: Device Description and Design; Volume 2: Testing and Validation; Volume 3: Clinical/Performance Data). Each volume must include a complete table of contents and cross-references to maintain document integrity during MFDS review.

@@ -21,9 +21,22 @@ Swiss digital health device regulation is substantively identical to EU MDR/IVDR
 
 ## Broader Swiss Digital Health Policy
 Swissmedic's medical device regulation sits within a broader Swiss digital health policy landscape:
-- **Electronic Patient Record (EPR/DEP)** — Switzerland's national electronic health record system under the Federal Act on the Electronic Patient Record (EPDG, SR 816.1). Medical device software that interacts with the EPR must comply with both MedDO and EPR technical standards.
+- **Electronic Patient Record (EPR/DEP)** — Switzerland's national electronic health record system under the Federal Act on the Electronic Patient Record (EPDG, SR 816.1). Medical device software that interacts with the EPR must comply with both MedDO/IVDO regulatory requirements and EPR (DEP) technical standards defined under EPDG. Manufacturers should verify compatibility with the current EPR/DEP interface specifications and security requirements published by the EPR competence center.
 - **Swiss Federal Data Protection Act (nFADP)** — Digital health devices processing patient data must comply with nFADP requirements for health data processing. See [Related Legislation](../legislation/related-legislation).
 - **Federal Office of Public Health (FOPH)** — Digital health policy at national level is coordinated by the FOPH, distinct from Swissmedic's regulatory function.
+
+
+Add a new subsection under 'Official Sources':
+
+**Swissmedic Digital Health Specific Guidance**
+— Swissmedic publishes targeted guidance on digital health topics including SaMD qualification, AI/ML in medical devices, cybersecurity, and cloud-based systems. Manufacturers should consult the current Swissmedic guidance library on swissmedic.ch for device-type-specific requirements.
+
+**Software Classification Examples**
+— Swissmedic has published borderline opinions and classification decisions on common digital health scenarios (e.g. wellness vs. medical intent, closed-loop vs. open systems). These decisions are available on the Swissmedic website and provide practical guidance for qualification borderline cases.
+
+
+Add under 'Intended purpose is decisive' section:
+Swissmedic provides detailed borderline opinions on its website to assist manufacturers in determining whether specific digital health products meet the medical device definition. Manufacturers uncertain about whether their product is regulated as a medical device may request a pre-submission consultation via DAPI or consult published Swissmedic borderline decisions.
 
 ## Official Sources
 - [Swissmedic — Digital health](https://www.swissmedic.ch/swissmedic/en/home/medical-devices.html)

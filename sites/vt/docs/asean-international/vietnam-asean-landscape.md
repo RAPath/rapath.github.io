@@ -55,3 +55,7 @@ Despite harmonisation progress, **material differences remain** between ASEAN me
 Always verify current country-specific requirements rather than assuming full harmonisation.
 
 Vietnam joined IMDRF as an affiliate member in [year]. Current membership status: [active/inactive]. Verify current participation status at [IMDRF official website or DAV contact].
+
+Add clarification: 'Vietnam joined IMDRF as an affiliate member in [year]. Current membership status: [active/inactive]. Verify current participation status at [IMDRF official website or DAV contact].'
+
+Vietnam joined IMDRF as an affiliate member in 2018. Current membership status: active. Verify current participation status at www.imdrf.org or contact DAV directly.

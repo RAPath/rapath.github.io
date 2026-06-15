@@ -62,8 +62,7 @@ This means:
 - A **smartphone app** that analyses data for fun is not a medical device. An app marketed to diagnose cardiac arrhythmia is.
 - **Manufacturer intent matters** — not how an end user actually uses the product.
 
-:::tip
-Even unintentional or foreseeable off-label use can affect regulatory obligations if the manufacturer is aware of it and does not disclaim it.
+:::⚠️ Important: If the manufacturer is aware that end users are using (or are likely to use) a device for purposes beyond the stated intended purpose, and the manufacturer does not disclaim responsibility for that use, the manufacturer may be deemed to have implicitly expanded the intended purpose. This can retrospectively increase regulatory obligations and post-market liability. Active disclaimers and user guidance can help mitigate this risk.
 :::
 
 ---

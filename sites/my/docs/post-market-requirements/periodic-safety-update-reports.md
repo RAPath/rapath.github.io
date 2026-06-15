@@ -79,4 +79,8 @@ If your organisation prepares PSURs for the EU (MDR Article 86) or other markets
 
 PSUR Preparation and Language
 
+For foreign manufacturers, the Local Authorised Representative (LAR) is responsible for preparing and submitting the PSUR to MDA, typically in collaboration with the manufacturer. The PSUR must be submitted in English. If the manufacturer maintains a global PSUR in another language, the LAR should prepare a Malaysian-specific PSUR in English with Malaysian data (adverse events reported to MDA, Malaysian sales figures, Malaysian FSCA activities, and Malaysian clinical follow-up data) and relevant MDA correspondence as supporting attachments.
+
+**PSUR Preparation and Language**
+
 For foreign manufacturers, the Local Authorised Representative (LAR) is responsible for preparing and submitting the PSUR to MDA, typically in collaboration with the manufacturer. The PSUR must be submitted in English. If the manufacturer maintains a global PSUR in another language, the LAR should prepare a Malaysian-specific PSUR in English with Malaysian data and MDA correspondence as supporting attachments.

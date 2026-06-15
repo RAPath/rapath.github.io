@@ -26,6 +26,8 @@ The **PSUR** is a periodic summary of post-market surveillance findings that mus
 - The NB reviews the PSUR and may request additional information or updates to technical documentation
 - Swissmedic may request the PSUR as part of market surveillance activities
 
+- Summary of FSCAs implemented during the reporting period — description, number of devices affected, effectiveness of corrective actions taken
+
 ## Official Sources
 - [MedDO Art. 72 (SR 812.213)](https://www.fedlex.admin.ch/eli/cc/2021/205/en)
 - [MDCG 2022-21 — PSUR template guidance](https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en)

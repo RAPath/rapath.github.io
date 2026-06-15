@@ -111,3 +111,5 @@ These rules apply to specific product categories regardless of other rules, and 
 | MDCG 2021-24 | Software classification (Rule 11) |
 | MDCG 2019-11 | Qualification and classification of software |
 | MDCG 2022-5 | Borderline and classification manual |
+
+Rules 14–22 cover special product categories. Key examples include: Rule 14 (specific substances and devices derived from human tissue/blood); Rule 15 (devices incorporating medicinal substances); Rule 16 (devices with biocides); Rule 17 (devices manufactured with nanomaterials); Rule 18 (devices intended for contraception or STI prevention); Rule 19 (devices incorporating animal tissue or derivatives); Rule 20 (devices intended for direct contact with the CNS); Rule 21 (devices incorporating blood products); and Rule 22 (devices intended as substitutes for biological functions). Where Rule 22 applies, devices are typically Class III unless specific criteria indicate lower classification.

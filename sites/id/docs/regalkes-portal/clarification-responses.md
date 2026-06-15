@@ -67,3 +67,5 @@ Clarification responses are typically due within 30 days of the query being issu
 - In some cases, the application being returned and requiring full re-submission
 
 Always confirm the exact deadline in the Regalkes portal notification, as it may vary by device complexity or evaluator assessment.
+
+Remove the duplicate 'Response Timelines and Deadlines' section entirely, as the information it contains is already covered under the 'Response Timeline' heading above it.

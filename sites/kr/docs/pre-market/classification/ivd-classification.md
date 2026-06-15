@@ -4,7 +4,7 @@ description: "Classification of IVD devices under the Korean IVD Act."
 sidebar_position: 4
 ---
 
-IVD devices follow a **separate 4-grade system** (A, B, C, D); blood donor screening tests are classified as Grade D under the IVD Act.
+IVD devices follow a **separate 4-grade system** (A, B, C, D); blood donor screening tests may be classified as Grade D under the IVD Act, depending on the specific test methodology and clinical context.
 
 | Grade | Risk | Examples | Pathway |
 |---|---|---|---|

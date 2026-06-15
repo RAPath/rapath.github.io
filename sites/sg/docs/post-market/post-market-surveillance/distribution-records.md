@@ -32,9 +32,11 @@ Incomplete distribution records discovered during an FSCA significantly complica
 
 ## Retention period
 
-Distribution records must be retained for a period that allows for the traceability obligations to be met throughout the expected life of the device. HSA's GDP guidance specifies minimum retention periods — always verify the current requirement in the applicable guidance document.
+Distribution records must be retained for a period that allows for full traceability obligations to be met throughout the expected clinical lifetime of the device, or until the device is recalled or withdrawn from the market, whichever is longer. HSA's GDP guidance specifies minimum retention periods — always verify the current requirement in the applicable guidance document.
 
 ## Official sources
 
 - [HSA: Dealer's licence — GDP requirements](https://www.hsa.gov.sg/medical-devices/dealers-licence)
 - [HSA: Guidance documents](https://www.hsa.gov.sg/medical-devices/guidance-documents)
+
+Distribution records must be retained for a minimum of [X years] after the device is placed on the market, or for the expected lifetime of the device, whichever is longer. Refer to HSA's Good Distribution Practice (GDP) guidance for devices with extended clinical use periods. Verify the current requirement in the applicable HSA guidance document at hsa.gov.sg/medical-devices/gdp-guidance

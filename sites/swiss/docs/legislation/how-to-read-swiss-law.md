@@ -23,13 +23,39 @@ Fedlex (fedlex.admin.ch) is the official Swiss federal legal publication platfor
 - RSS feeds for amendments and new legislation
 
 ## Official vs Unofficial Languages
-Swiss federal legislation is legally authoritative in German, French, and Italian. English translations are provided as a service but are not legally binding. For any regulatory compliance question, always verify against the authoritative German, French, or Italian text.
+Swiss federal legislation is legally authoritative in German, French, and Italian. English translations provided by Fedlex are unofficial but often available and useful for reference. For any regulatory compliance question or legal determination, always verify against the authoritative German, French, or Italian text.
 
 ## Hierarchy of Swiss Legal Instruments
 1. Federal Constitution — supreme law
 2. Federal Acts (Bundesgesetze) — adopted by Parliament (e.g. TPA)
 3. Ordinances (Verordnungen) — issued by Federal Council or departments (e.g. MedDO, IVDO)
 4. Guidance documents — issued by Swissmedic; not legally binding but represent Swissmedic's operational interpretation
+
+
+Add a new section before 'Official Sources':
+
+## Swissmedic Guidance Documents
+
+Swissmedic publishes guidance documents that provide interpretation and practical guidance on MedDO, IVDO, and ClinO-MD requirements. While not legally binding, these documents represent Swissmedic's current regulatory interpretation and are important for compliance planning. Key guidance documents are available on the Swissmedic website (www.swissmedic.ch) and cover topics such as:
+- Classification decisions
+- Conformity assessment procedures
+- Clinical evaluation and PMCF
+- Notified body designation and oversight
+- Post-market surveillance
+
+For any interpretation question, it is prudent to consult relevant Swissmedic guidance alongside the statutory text.
+
+
+Reorganize the structure to eliminate the duplicate 'Official Sources' heading. The correct structure should be:
+
+1. The SR Number System
+2. Fedlex — The Official Source
+3. Official vs Unofficial Languages
+4. Hierarchy of Swiss Legal Instruments
+5. Official Sources (single heading)
+   - Fedlex — Swiss federal legislation
+   - admin.ch — Swiss Confederation portal
+   - Swissmedic Guidance Documents [as a subsection under Official Sources]
 
 ## Official Sources
 - [Fedlex — Swiss federal legislation](https://www.fedlex.admin.ch)

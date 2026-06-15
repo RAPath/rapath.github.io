@@ -21,6 +21,6 @@ CDSCO accepts UDI barcodes issued by the following internationally accredited or
 |---|---|---|
 | GS1 India | GS1 | GTIN (Global Trade Item Number) |
 | Health Industry Business Communications Council | HIBCC | UPN (Unique Product Number) |
-| International Committee for the Red Cross Blood Bank Coding | ICCBBA | ISBT 128 |
+| International Committee for Standardization in Haematology (ICSH) — also known as the International Council for Standardization in Haematology Blood Bank Coding; or more commonly: International Organization for Standardization (ISO) and ISBT 128 accredited organizations | ICCBBA | ISBT 128 |
 
 Manufacturers may obtain UDI codes from any of these accredited agencies. Registration with CDSCO is required before commercial distribution in India.

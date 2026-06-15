@@ -152,4 +152,15 @@ PMCF investigations are commonly used to:
 | MDCG 2021-8 | Clinical investigation application guidance |
 | MDCG 2020-10/2 | Serious adverse event reporting in clinical investigations |
 
-The clinical investigation report section should be completed with: 'Adverse events and device deficiencies documented and assessed — Device-related vs. disease-related events distinguished — Causality assessment using WHO-UMC criteria — Serious adverse event summary and assessment — Conclusions and limitations — Opinion on whether the investigation objectives were met and the device performed as intended.'
+The clinical investigation report section
+
+### Clinical Investigation Report — Key Elements
+
+- Adverse events and device deficiencies documented and assessed
+- Device-related vs. disease-related events distinguished
+- Causality assessment using WHO-UMC criteria
+- Serious adverse event summary and assessment
+- Conclusions and limitations
+- Opinion on whether the investigation objectives were met and the device performed as intended
+
+The clinical investigation report must include conduct of the investigation versus the CIP, subject demographics and baseline characteristics, results for all endpoints (primary and secondary), adverse events and device defects, statistical analysis, assessment of clinical benefit and risk, conclusions, and dated signatures of qualified personnel. The report must be prepared in accordance with Annex XV Part A and made available to notified bodies and NCAs. Any serious adverse device events must be reported to the competent authority immediately during the investigation. The report becomes part of the technical documentation and is subject to audit by notified bodies and competent authorities.

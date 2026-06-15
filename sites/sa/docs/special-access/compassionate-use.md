@@ -17,10 +17,10 @@ Such exemptions are granted at SFDA **discretion** on a case-by-case basis and r
 
 ## Compassionate use / exceptional access
 
-For individual patients with serious or life-threatening conditions, the SFDA may permit the supply of a device that does not yet hold MDMA. This is typically arranged through:
-- A treating physician's formal request
-- Approval from the relevant healthcare institution's ethics committee
-- SFDA authorisation for the specific patient case
+For individual patients with serious or life-threatening conditions where no approved alternative device exists, the SFDA may permit the compassionate supply of a device that does not yet hold MDMA. This is typically arranged through:
+- A formal request from the treating physician or healthcare institution
+- Approval from the relevant healthcare institution's ethics committee or institutional review board
+- SFDA authorization for the specific patient case, submitted via GHAD by the Authorized Representative
 
 Compassionate use supply does not require full MDMA but is subject to SFDA oversight and reporting obligations.
 

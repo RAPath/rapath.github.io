@@ -71,10 +71,21 @@ Exiting a consent decree (termination of the court order) requires:
 3. FDA agreement to seek termination from the court
 4. Court order terminating the consent decree
 
-This typically takes 2–5 years or longer, even after achieving demonstrable QMS compliance, because FDA and the court must be satisfied that compliance is sustained and not merely temporary.
+This typically takes 2–5 years or longer, even after achieving demonstrable QMS compliance, because FDA and the court must be satisfied that compliance is sustained and systemic — not merely a temporary correction. The third-party expert must certify sustained compliance through multiple audit cycles, usually spanning at least 2–3 years of continuous, uninterrupted compliance.
 
 ---
 
 ## Official resources
 - [FDA — Consent Decrees](https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/compliance-actions-and-activities/consent-decrees-permanent-injunction)
 - [FDA — Judicial Actions database](https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/compliance-actions-and-activities/judicial-actions)
+
+Financial and operational recovery after consent decree termination
+
+Even after a consent decree is terminated, manufacturers typically face extended recovery periods:
+- Lost market share to competitors during manufacturing shutdown
+- Damaged customer relationships and supply contracts
+- Costs of third-party expert oversight and remediation (often $5–20 million+)
+- Possible need to rebuild customer confidence through additional clinical data or quality demonstrations
+- In some cases, competing products may have gained regulatory approval or market dominance during the manufacturing halt
+
+Recovery to pre-consent decree market position typically takes 3–5 years or longer, even after the court order is lifted.

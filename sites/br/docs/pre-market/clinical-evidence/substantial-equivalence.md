@@ -22,3 +22,5 @@ The output of the clinical evidence process is a **Clinical Evaluation Report (C
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+Predicate devices must be legally marketed in Brazil (via Notificação, Cadastro, or Registro), EU, or FDA with documented clinical safety/performance data. ANVISA requires equivalence across all three dimensions (clinical, technical, biological); a device may not proceed if only two dimensions align. If predicate device materials differ, biocompatibility study results from both materials may be required. Equivalence argumentation should address failure mode analysis and intended use parameters (e.g., patient population age, disease severity, anatomical site).

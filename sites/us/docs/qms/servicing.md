@@ -53,3 +53,15 @@ A third-party service company that only restores devices to original specificati
 - [FDA — Remanufacturing of Medical Devices (Guidance)](https://www.fda.gov/media/72875/download)
 
 Third-party service companies performing servicing on behalf of the manufacturer (e.g., under contract) must comply with QMSR servicing requirements. The manufacturer remains responsible for ensuring service records are documented and evaluated for MDR reportability. A service agreement should clearly define roles and responsibilities for compliance.
+
+Add under 'Servicing vs remanufacturing': 'Third-party service companies performing servicing on behalf of the manufacturer (e.g., under contract) must comply with QMSR servicing requirements. The manufacturer remains responsible for ensuring service records are documented and evaluated for MDR reportability. A service agreement should clearly define roles and responsibilities for compliance.'
+
+Modify the 'Servicing requirements apply when:' section to include: 'The device is subject to field maintenance, repair, or troubleshooting as part of normal post-market use (whether or not explicitly in labeling)' and add: Service Instructions and Procedures
+
+When servicing is a specified requirement, the manufacturer must document:
+- Service procedures for routine maintenance and corrective repairs
+- Required qualifications of service personnel
+- Spare parts specifications and traceability requirements
+- Environmental or equipment requirements for performing service
+- Acceptance criteria and testing required post-service
+- Service interval recommendations

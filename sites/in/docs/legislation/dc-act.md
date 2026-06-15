@@ -41,3 +41,11 @@ The D&C Act has been amended multiple times. The most significant amendment for 
 Section 26 | Adulteration and misbranding of medical devices
 Section 144 | Rules for medical devices (including classification rules and quality standards)
 Schedule Y (Part A-XIII) | Requirements for medical device manufacturing, documentation, and safety
+
+Section 26 | Adulteration and misbranding of medical devices
+Section 144 | Rules for medical devices (including classification rules and quality standards)
+Schedule Y (Part A-XIII) | Requirements for medical device manufacturing, documentation, and safety
+
+The main 'Key provisions for medical devices' table should include: 'Section 26 | Adulteration and misbranding of medical devices' and 'Section 144 | Rules for medical devices (including classification rules and quality standards)' to consolidate and avoid duplication.
+
+Restructure the page to use distinct headings: 'Key provisions for medical devices — Regulatory authority and enforcement', 'Key provisions for medical devices — Classification and quality standards', and 'Key provisions for medical devices — Manufacturing requirements' to clarify content organization.

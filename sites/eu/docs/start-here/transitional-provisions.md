@@ -37,7 +37,7 @@ Both MDR and IVDR replaced the previous Directive-era framework but provided **t
 
 ### MDD/AIMDD certificates — sell-off provisions
 
-Regulation (EU) 2023/607 (the "MDR Extension Regulation") significantly extended the transitional provisions for MDD and AIMDD certified devices:
+Regulation (EU) 2023/607 (amending MDR) significantly extended the transitional provisions for MDD and AIMDD certified devices:
 
 | Device class | Extended deadline for MDD/AIMDD certificate validity | Condition |
 |---|---|---|

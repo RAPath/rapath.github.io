@@ -23,7 +23,7 @@ The prefectural government review typically takes **1–3 months** after submiss
 ## Responsible Technical Officer (RTO) requirements
 
 The RTO must hold qualifications specified in MHLW ordinances:
-- For devices: typically a degree in pharmacy, medicine, dentistry, veterinary science, or equivalent science/engineering discipline
+- For devices: typically a degree in pharmacy, medicine, dentistry, veterinary science, or equivalent science/engineering discipline. Engineering qualifications (electrical, mechanical, software) are acceptable for medical devices but may require additional quality assurance experience for approval by prefectural government.
 - Plus a minimum period of relevant practical experience (typically 3 years in a quality or regulatory role for medical devices)
 
 The RTO does not have to be a Japanese national, but must be accessible in physically and resident Japan with the ability to respond promptly to MHLW communications and inspection requests.
@@ -38,3 +38,5 @@ MAH licences expire every **5 years** and must be renewed. Renewal requires:
 If the MAH licence lapses, all Shonin approvals and Ninsho certifications held by that MAH are invalidated — a significant commercial and regulatory risk. Set up reminders well in advance of the renewal date.
 
 For companies outside Tokyo, the application is filed with the prefectural government health bureau of the prefecture where the MAH's principal office is located. The process and timelines are similar across prefectures, though some regional variations in document requirements and review practices may apply.
+
+Note: This page covers General MAH licences (ippan MAH) for Class I, II, and most Class III devices issued by prefectural governments. For Class IV and specially designated Class III devices, the MAH licence application is filed directly with MHLW at the national level, not the prefectural government. See Prefectural vs MHLW Licensing Authority for details on which authority handles your device class.

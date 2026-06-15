@@ -21,7 +21,7 @@ Is the product used outside the body to examine human specimens?
 | Feature | Medical Devices Act | IVD Act |
 |---|---|---|
 | Classification grades | I, II, III, IV | A, B, C, D |
-| Clinical evidence | Clinical evaluation / clinical trial | Performance evaluation / study |
+| Clinical evidence | Clinical evaluation or clinical trial data | Performance evaluation or analytical/clinical study data |
 | Effective date | Long established | May 2021 |
 
 ## Combination products

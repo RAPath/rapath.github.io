@@ -41,3 +41,5 @@ For Form MD-14 (Class B/C/D):
 ## New devices vs already-approved devices
 
 A simplified pathway exists for devices that are already approved by a major reference regulatory authority (US FDA, EU CE, TGA, Health Canada, or PMDA Japan). Such devices may be eligible for expedited review and reduced clinical data requirements. See [New Device vs Already-Approved Device Routes](/docs/pre-market/import-registration/new-device-vs-approved).
+
+Add after 'What is required to import a medical device into India?' section: 'Scheduled devices: Medical devices are notified in Schedule I (Class A and B devices) or Schedule II (Class C and D devices) based on risk classification under the Medical Devices Rules 2017. Only devices listed in these schedules require import licence or registration. Devices not listed in Schedule I or II are not regulated as medical devices under MDR 2017 and do not require CDSCO import licence (though they may require compliance with other laws, e.g. drugs, cosmetics, or food safety). Confirm your device's classification and schedule status before applying.'

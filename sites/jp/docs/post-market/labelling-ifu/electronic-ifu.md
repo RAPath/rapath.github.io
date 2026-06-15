@@ -7,7 +7,7 @@ sidebar_position: 3
 
 ## Japan's position on eIFU
 
-As of the knowledge date of this reference, Japan has not adopted a general permission for electronic-only Instructions for Use (eIFU) equivalent to EU Regulation 207/2012. Japanese regulations generally require a physical paper IFU to be supplied with devices, particularly for Class II and above.
+As of 2024, Japan has not yet adopted a general regulatory framework permitting electronic-only Instructions for Use (eIFU) equivalent to EU Regulation 207/2012. Japanese regulations currently require a physical paper IFU to be supplied with devices marketed in Japan, particularly for Class II and above, regardless of digital supplementation.
 
 MHLW has been studying the eIFU question as part of broader digital health regulatory development. Check the latest MHLW notifications for any updates to eIFU policy, as this is an area of active regulatory development.
 

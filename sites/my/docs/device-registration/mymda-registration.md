@@ -87,7 +87,11 @@ When a Deficiency Letter is issued:
 For portal technical issues: Contact the MDA helpdesk via the portal's Help section or by email at the address listed on [www.mda.gov.my](https://www.mda.gov.my).
 
 :::tip Use Portal Messaging
-All official communication with MDA about your application should be done through the MyMDA portal's messaging function, not by email. This creates an auditable record and ensures your messages are linked to the correct application.
+All official communication with MDA about your application should be done through the MyMDA portal's messaging function, not by email. This creates an auditable record and ensures your messages are linked to the correct application. For technical helpdesk issues with the portal itself, contact the MDA helpdesk via the portal's Help section or the email address listed on www.mda.gov.my.
 :::
 
 that reads: 'Note: A Local Authorised Representative (LAR) agreement is required only if the manufacturer is based outside Malaysia. Malaysian manufacturers do not require an LAR.
+
+Add a clarification paragraph after 'Prerequisites before starting a registration application:' that reads: 'Note: A Local Authorised Representative (LAR) agreement is required only if the manufacturer is based outside Malaysia. Malaysian manufacturers do not require an LAR.'
+
+**Note:** A Local Authorised Representative (LAR) agreement is required only if the manufacturer is based outside Malaysia. Malaysian manufacturers do not require an LAR.

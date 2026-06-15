@@ -88,3 +88,20 @@ Your device's intended use, known risks, and contraindications.
 Incident assessment methodology and severity classification.
 FSCA decision-making and Field Safety Notice preparation.
 REQUEST evidence of technovigilance training during COFEPRIS inspections. Document all training records and maintain them for at least 5 years.
+
+Add a new subsection after 'Who must maintain a technovigilance unit?':
+
+Technovigilance unit structure & qualifications
+​
+While NOM-240 does not mandate specific staffing levels, best practice and COFEPRIS expectations include:
+
+A dedicated technovigilance coordinator (full-time or part-time depending on device portfolio size) responsible for day-to-day operations.
+A senior manager (often the Responsable Sanitario or quality manager) accountable for escalation and regulatory decisions.
+Access to medical or technical expertise for assessing device involvement in reported events.
+Personnel must receive documented training on:
+
+NOM-240 requirements and CNFV reporting procedures.
+Your device's intended use, known risks, and contraindications.
+Incident assessment methodology and severity classification.
+FSCA decision-making and Field Safety Notice preparation.
+REQUEST evidence of technovigilance training during COFEPRIS inspections. Document all training records and maintain them for at least 5 years.

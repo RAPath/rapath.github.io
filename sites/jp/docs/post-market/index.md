@@ -5,7 +5,7 @@ sidebar_position: 4
 
 # Post-Market
 
-Obligations that apply after a device is on the Japanese market. Post-market compliance in Japan centres on the MAH, who bears primary responsibility for all surveillance, reporting, and recall activities.
+Obligations that apply after a device is legally approved for marketing and placed on the Japanese market. Post-market compliance in Japan is centred on the MAH, who bears primary statutory responsibility to MHLW for all surveillance, reporting, and recall activities throughout the device's market life.
 
 ## In this section
 

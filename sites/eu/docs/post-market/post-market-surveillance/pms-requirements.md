@@ -196,3 +196,5 @@ This creates the lifecycle loop that is central to MDR/IVDR's approach — the t
 Complete the IVDR Class A table entry as: 'PMPF: Not required (PMS report suffices)' or 'PMPF: Required — must be justified if not conducted' depending on regulatory intent, and add corresponding explanatory text below the table clarifying the PMPF expectation for Class A devices.
 
 Add complete IVDR Classes B, C, and D requirement tables with the following structure: IVDR Class B — PMS system (Required), PMS plan (Required), PMS report (Required), PMPF (Not required or Required as justified), Notified body review (PMS report reviewed at surveillance); IVDR Class C — similar structure with PSUR required at minimum every 2 years; IVDR Class D — PSUR required at minimum annually.
+
+Complete the IVDR Class A requirements table with: 'PMS system: Required | PMS plan: Required | PMS report: Required — held in technical documentation | PSUR: Not required | PMCF/PMPF: Not required | Notified body review: Not required (Class A self-declaration)'

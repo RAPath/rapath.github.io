@@ -44,7 +44,7 @@ Interventional studies require the highest level of regulatory oversight.
 
 A study is **non-interventional** if specimens are collected solely as part of standard care and the study procedure imposes no additional risk or burden on subjects. Most retrospective studies using archived specimens fall here.
 
-Non-interventional studies still require ethics committee oversight but have lighter NCA notification in most EU member states requirements — typically notification rather than formal authorisation. However, requirements vary by member state; some do not require NCA notification for non-interventional studies using fully anonymised data.
+Non-interventional studies still require ethics committee oversight but have lighter NCA notification requirements in most EU member states—typically notification rather than formal authorisation. However, requirements vary by member state; some do not require NCA notification for non-interventional studies using fully anonymised data.
 
 ---
 

@@ -60,3 +60,5 @@ MDA publishes updated guidance documents, safety alerts, and regulatory informat
 :::
 
 Replace the ASEAN ACCSQ-MDPWG URL with: 'ASEAN ACCSQ-MDPWG — asean.org/work-streams/asean-standards-quality — ASEAN medical device product working group'
+
+Replace the existing ASEAN ACCSQ-MDPWG entry with: Organisation: ASEAN ACCSQ-MDPWG | URL: asean.org/work-streams/asean-standards-quality | Description: ASEAN medical device product working group

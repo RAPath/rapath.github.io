@@ -61,6 +61,22 @@ Third-party logistics providers (contract warehouse and distribution companies) 
 
 Personal accountability & liability
 ​
+The Responsable Sanitario bears significant personal legal and professional responsibility for compliance at the facility. This is not a nominal appointment — non-compliance can result in serious personal consequences. Key points:
+
+Personal liability — The Responsable Sanitario can be held personally accountable by COFEPRIS, CNFV, and Mexican authorities for regulatory violations, even if they did not directly cause the breach.
+Professional consequences — COFEPRIS can suspend the Responsable Sanitario's registration, effectively preventing them from serving in this role at any facility in Mexico.
+Criminal exposure — In cases of serious harm or intentional misconduct, the Responsable Sanitario may face criminal charges under Mexican health law.
+Due diligence — Responsables Sanitarios should:
+
+Maintain independent awareness of regulatory changes and facility compliance status.
+Document their oversight activities (inspections, training, corrective actions) to demonstrate reasonable diligence.
+Raise compliance concerns in writing to management and the MRH.
+Choosing a qualified, attentive Responsable Sanitario is critical. Avoid appointing individuals without genuine time, expertise, or authority to fulfil the role.
+
+Add a new subsection under 'Responsable Sanitario — Health Manager':
+
+Personal accountability & liability
+​
 The Responsable Sanitario bears personal legal and professional responsibility for compliance at the facility. Key points:
 
 Personal liability — The Responsable Sanitario can be held personally accountable by COFEPRIS, CNFV, and Mexican authorities for regulatory violations, even if they did not directly cause the breach.
@@ -72,3 +88,5 @@ Maintain independent awareness of regulatory changes and facility compliance sta
 Document their oversight activities (inspections, training, corrective actions) to demonstrate reasonable diligence.
 Raise compliance concerns in writing to management and the MRH.
 Choosing a qualified, attentive Responsable Sanitario is critical. Avoid appointing individuals without genuine time, expertise, or authority to fulfil the role.
+
+The page should include a complete 'Related pages' section and ensure all subsection content is fully displayed without truncation.

@@ -65,7 +65,7 @@ You cannot understand the guidance without reading the regulation, and you canno
 
 ## The Role of the TGA
 
-The **Therapeutic Goods Administration (TGA)** is the regulatory agency responsible for administering the Act. It sits within the Department of Health, Disability and Ageing. The TGA's key functions in relation to medical devices include:
+The **Therapeutic Goods Administration (TGA)** is the regulatory agency responsible for administering the Act. It sits within the Department of Health. The TGA's key functions in relation to medical devices include:
 
 - Assessing applications for ARTG inclusion
 - Issuing and overseeing conformity assessment certificates

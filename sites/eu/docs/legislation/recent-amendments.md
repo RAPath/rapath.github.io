@@ -56,7 +56,7 @@ This site provides general information only. Legislative timelines and requireme
 
 ## Corrigenda
 
-Corrigenda correct errors in the original published text. For MDR and IVDR, several corrigenda have been published in the Official Journal correcting translation errors and drafting mistakes across language versions. These are incorporated into the consolidated EUR-Lex text.
+Corrigenda correct errors in the original published text. For MDR and IVDR, several corrigenda have been published in the Official Journal correcting translation errors and drafting mistakes across language versions. These are automatically incorporated into the consolidated EUR-Lex text. When citing MDR or IVDR requirements, always reference the consolidated text to ensure you are working from the authoritative, corrected version.
 
 ---
 
@@ -95,3 +95,5 @@ The legislative landscape continues to evolve. Areas where further amendments ma
 | OJ L 020, 28.1.2022 | Regulation (EU) 2022/112 — first IVDR extension |
 | OJ (2024) | Regulation (EU) 2024/1860 — second IVDR extension |
 | EUR-Lex | Consolidated MDR and IVDR texts |
+
+The entry shows 'Published: 20 June (OJ L 2024/1860, 20.6.2024) 2024' which is redundant. Change to: 'Published: 20 June 2024 (OJ L 2024/1860)'

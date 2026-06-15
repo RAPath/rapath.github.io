@@ -21,7 +21,7 @@ This pathway is appropriate where a practitioner has an ongoing, legitimate clin
 A medical practitioner applies to the TGA for Authorised Prescriber status for a specific unapproved good and a defined medical condition. The application requires:
 - Clinical justification for why the unapproved good is needed
 - Evidence of the product's safety and efficacy for the proposed use
-- Endorsement from a relevant specialist college or an approved Human Research Ethics Committee (HREC)
+- Endorsement from either a relevant specialist college (e.g., Royal Australasian College of Surgeons, Cardiac Society of Australia and New Zealand) or an approved Human Research Ethics Committee (HREC)
 
 **Step 2 — TGA assessment**
 The TGA assesses the application and, if satisfied, grants Authorised Prescriber status. Authorisation is:

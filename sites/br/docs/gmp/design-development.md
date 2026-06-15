@@ -27,3 +27,5 @@ Verify all information against official [ANVISA](https://www.gov.br/anvisa) sour
 :::
 
 The Design History File must include all design planning documents, design input specifications, design output documentation, design review meeting minutes, verification and validation reports, and design change records. The DHF must be retained for the lifetime of the device plus a minimum of 5 years after the device is removed from the market.
+
+Design and development activities must be traceable through the Design History File (DHF), which documents the complete evolution of the device design. The DHF must be retained for the lifetime of the device plus a minimum of 5 years after the device is removed from the market and made available to ANVISA upon request.

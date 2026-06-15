@@ -24,7 +24,7 @@ UK-designated standards for medical devices — the list of standards that provi
 
 UK-designated standards are published standards (British Standards, ISO standards, IEC standards, and others) that have been designated by MHRA/BSI as providing a presumption of conformity with the Essential Requirements to which they relate. This is the UK equivalent of harmonised standards in the EU.
 
-When a manufacturer applies a UK-designated standard in full, they benefit from a presumption that the device meets the relevant Essential Requirements — they do not need to demonstrate conformity through other means for those requirements.
+When a manufacturer applies a UK-designated standard in full and completely, they benefit from a rebuttable presumption that the device meets the relevant Essential Requirements covered by that standard — they do not need to demonstrate conformity through alternative means for those specific requirements. However, the standard must be applied in its entirety for the requirement(s) it addresses. Partial or selective application of a standard does not confer presumption of conformity.
 
 ## Key UK-designated standards
 
@@ -57,3 +57,17 @@ MHRA publishes the current list of UK-designated standards at:
 | BSI | British Standards Institution — UK standards body |
 
 To determine which standards apply to your device: (1) identify the device's classification and intended use, (2) consult the relevant Essential Requirements in Schedule 1, (3) cross-reference MHRA's current designated standards list to find applicable standards, and (4) ensure all requirements addressed by a standard are fully met — partial compliance does not confer presumption of conformity. If a standard is not fully applied, document alternative conformity methods.
+
+Add after 'When a manufacturer applies a UK-designated standard in full...' paragraph: 'To determine which standards apply to your device: (1) identify the device's classification and intended use, (2) consult the relevant Essential Requirements in Schedule 1, (3) cross-reference MHRA's current designated standards list to find applicable standards, and (4) ensure all requirements addressed by a standard are fully met — partial compliance does not confer presumption of conformity. If a standard is not fully applied, document alternative conformity methods.'
+
+Add a new section: 'When no designated standard applies
+
+If no UK-designated standard exists for a particular Essential Requirement applicable to your device:
+
+• You may apply an international standard (ISO, IEC) or national standard that addresses the requirement, even if it is not on MHRA's designated list
+• Document your chosen standard and explain in your Technical File why it is appropriate
+• Demonstrate how compliance with that standard meets the relevant Essential Requirement
+• This does not confer automatic presumption of conformity — you bear the responsibility to show conformity through your documentation and testing
+• Alternatively, you may demonstrate conformity through alternative means (testing, design analysis, clinical data) without relying on any standard
+
+For novel or emerging device types, consult MHRA via a pre-submission meeting to discuss appropriate conformity demonstration methods before finalising your technical approach.'

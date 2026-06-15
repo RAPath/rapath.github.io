@@ -13,7 +13,7 @@ Under **Section 21.3 of the Food and Drugs Act**, Health Canada may order a pers
 A Section 21.3 order is a legally binding direction — non-compliance can result in prosecution.
 
 ## When Health Canada acts
-Health Canada typically seeks voluntary compliance first before issuing mandatory orders. Situations that may lead to Health Canada-initiated action:
+Health Canada follows a risk-based approach and typically seeks voluntary compliance first before issuing mandatory orders. However, if an immediate serious health risk is identified, Health Canada may proceed directly to a Section 21.3 order without first requesting voluntary recall. This collaborative approach encourages manufacturers to act proactively, but does not prevent Health Canada from issuing an order immediately if public health is at serious risk. Situations that may lead to Health Canada-initiated action:
 - A manufacturer refuses to recall despite evidence of a significant safety deficiency
 - A recall is initiated but not executed effectively (low response rate)
 - A company is unresponsive to Health Canada enquiries about a safety issue

@@ -51,3 +51,5 @@ Federal Law No. 323-FZ, Article 38: [base.garant.ru/12180860/](https://base.gara
 :::
 
 Healthcare facilities must also report serious adverse events involving medical devices within specified timeframes. Facility personnel should establish internal procedures for capturing device malfunctions and adverse events encountered during clinical use and ensure timely reporting to Roszdravnadzor or to the manufacturer through their RUS REP.
+
+Expand the 'Healthcare facilities' section by adding: 'Healthcare facilities must also report serious adverse events involving medical devices within specified timeframes. Facility personnel should establish internal procedures for capturing device malfunctions and adverse events encountered during clinical use and ensure timely reporting to Roszdravnadzor or to the manufacturer through their RUS REP.'

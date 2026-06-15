@@ -5,7 +5,7 @@ sidebar_position: 2
 
 # MHLW Notifications Index
 
-MHLW notifications (通知 — tsūchi) and related administrative guidance documents are the operational rulebook for Japan device regulation. They translate the PMD Act and Ministerial Ordinances into specific, actionable requirements.
+MHLW notifications (通知 — tsūchi) and related administrative guidance documents provide the operational rulebook for Japan's medical device regulation, translating statutory requirements into actionable procedures. They translate the PMD Act and Ministerial Ordinances into specific, actionable requirements.
 
 ## How notifications are published
 
@@ -41,3 +41,7 @@ Search by topic area or date range. Note: the notification database is in Japane
 :::
 
 "Unique Device Identification (UDI): MHLW notifications specify Japan's UDI implementation requirements, including GTIN, lot/serial number formats, and labelling placement for devices sold in Japan. Timeline for mandatory UDI compliance varies by device class. Check current MHLW notifications for your device's UDI deadline."
+
+Add to Labelling section: "Unique Device Identification (UDI): MHLW notifications specify Japan's UDI implementation requirements, including GTIN, lot/serial number formats, and labelling placement for devices sold in Japan. Timeline for mandatory UDI compliance varies by device class. Check current MHLW notifications for your device's UDI deadline."
+
+Searching the notification database: The MHLW notification database (医療機器通知) can be searched by keyword, notification number, or date range. To find notifications relevant to your device, search by: (1) device category or JMDN code, (2) specific regulatory topic (e.g., 'clinical evaluation', 'biocompatibility'), or (3) notification date. Note that older notifications may be superseded — always check the publication date and any referenced updates.

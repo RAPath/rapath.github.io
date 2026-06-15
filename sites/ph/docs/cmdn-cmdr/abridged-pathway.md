@@ -73,3 +73,5 @@ The abridged application uses a reduced dossier compared to the standard CMDR:
 If your device holds HSA (Singapore), Malaysian MDA, Thai FDA, or another ASEAN NRA approval, the abridged pathway is the **recommended first-choice approach** for Philippines registration. The 30-working-day timeline is dramatically faster than standard CMDR processing.
 
 **Example:** A device approved by Singapore HSA (one of the fastest ASEAN markets) can leverage that approval to obtain Philippines CMDR in approximately 6 working weeks after payment.
+
+Note: The 30 working-day timeline counts working days only and excludes weekends and Philippine national holidays. Clarify with CDRRHR whether the timeline is extended if deficiencies are raised during the 30-working-day period or whether the clock restarts upon receiving deficiency responses.

@@ -50,3 +50,5 @@ FDASIA directed FDA, ONC, and FCC to produce a report on the regulation of healt
 This change became effective on June 10, 2013, allowing manufacturers to petition for De Novo classification directly if their device is novel and does not have a suitable predicate for 510(k) comparison.
 
 Update the MDUFA III subsection: 'FDASIA reauthorised the Medical Device User Fee program under MDUFA III (covering fiscal years 2013–2017), which became effective October 1, 2012, establishing user fees for...'
+
+Update the MDUFA III subsection text to read: 'FDASIA reauthorised the Medical Device User Fee program under MDUFA III (covering fiscal years 2013–2017), which became effective October 1, 2012, establishing user fees for 510(k), PMA, De Novo, and PMA supplement submissions.'

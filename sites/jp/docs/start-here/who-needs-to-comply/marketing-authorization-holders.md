@@ -22,7 +22,7 @@ The MAH must hold an **MAH business licence** issued by the prefectural governme
 
 An MAH is not necessarily the manufacturer. For most overseas manufacturers, the MAH is a separate Japan-based entity — either a subsidiary, a trading company, or a specialist regulatory service company — that acts on their behalf.
 
-An MAH is also not a representative or agent in the EU/US sense. The MAH is the legal licence holder with full regulatory responsibility. If there is a recall, MHLW communicates with the MAH, not the overseas manufacturer.
+An MAH is also not a representative or agent in the EU/US sense. The MAH is the legal licence holder and bears full regulatory responsibility. This means that in regulatory interactions, post-market surveillance requirements, recalls, and adverse event reporting, MHLW and PMDA communicate directly with the MAH, not the overseas manufacturer.
 
 ## Core MAH obligations
 
@@ -45,4 +45,8 @@ In Japan's model, the MAH and manufacturer can be the same company, or they can 
 
 This split is codified in MHLW guidance and requires a formal contract between the MAH and the manufacturer setting out each party's responsibilities.
 
-Physical business presence typically means a registered business address in Japan and the ability to conduct regulatory operations (such as adverse event receipt and documentation) within Japan. A subsidiary, branch office, or service provider address may satisfy this requirement; contact the prefectural government or MHLW for confirmation based on your specific structure.
+Physical business presence for an MAH typically means a registered business address in Japan and the capability to conduct regulatory operations (such as adverse event receipt, documentation, and MHLW communication) within Japan. A subsidiary, branch office, or specialist service provider address may satisfy this requirement. Confirm the specific requirement with the prefectural government or MHLW before establishing your MAH structure, as interpretation may vary by region.
+
+Add after 'The MAH must hold an MAH business licence issued by the prefectural government (or MHLW for certain higher-risk categories). The licence requires a physical business presence in Japan.': 'Physical business presence typically means a registered business address in Japan and the ability to conduct regulatory operations (such as adverse event receipt and documentation) within Japan. A subsidiary, branch office, or service provider address may satisfy this requirement; contact the prefectural government or MHLW for confirmation based on your specific structure.'
+
+Add a new subsection titled 'Change of MAH or Manufacturer': 'If an MAH changes (e.g., due to acquisition, bankruptcy, or transfer of rights), the new MAH must apply for a new Shonin, Ninsho, or Todokede in its own name. Similarly, if the approved manufacturer location changes or a new contract manufacturer is introduced, an Ichibu Henko (partial change approval) must be filed describing the change and confirming that the new or modified manufacturing site meets MO 169 requirements. The MAH is responsible for initiating and managing these regulatory submissions.'

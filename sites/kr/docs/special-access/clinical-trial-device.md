@@ -10,7 +10,7 @@ An **investigational device (임상시험용 의료기기)** is a device used in
 
 - The device must have **MFDS clinical trial approval** (임상시험 승인) before being used
 - The device must be labelled: **"임상시험용 의료기기"** (Investigational Device)
-- The manufacturer must maintain appropriate quality controls during manufacture of investigational devices (not a full KGMP certification required, but controlled manufacturing)
+- The manufacturer must maintain appropriate quality controls during manufacture of investigational devices. While full KGMP certification is not a prerequisite for initiating clinical trials, manufacturing must follow Good Manufacturing Practice principles and be documented. KGMP certification is typically required before commercial 품목허가 approval.
 - Distribution is restricted to approved trial sites only
 
 ## Supply to clinical sites

@@ -36,3 +36,17 @@ To remain eligible for DH public procurement from this date forward, all applica
 :::
 
 Devices with applications submitted before 23 March 2026 but not yet approved may be subject to transition provisions. Contact the MDD for clarification on in-flight applications near the deadline.
+
+Add after the Stage C deadline sentence: 'Devices with applications submitted before 23 March 2026 but not yet approved may be subject to transition provisions. Contact the MDD for clarification on in-flight applications near the deadline.'
+
+Add the following paragraph after the Stage C section:
+
+**Devices with In-Flight Applications**
+
+Devices with MDACS applications submitted before 23 March 2026 but not yet approved may be eligible for continued DH procurement eligibility under transition provisions. The MDD will announce specific transition terms in advance of Stage C implementation. Manufacturers with applications near the approval stage should:
+
+- Contact the MDD (mddc@dh.gov.hk) to confirm transition eligibility
+- Request an estimated approval timeline
+- Plan supply contracts based on anticipated approval dates
+
+Transition provisions are not yet formally published; seek clarification from the MDD before relying on any in-flight application for DH tender participation after 23 March 2026.

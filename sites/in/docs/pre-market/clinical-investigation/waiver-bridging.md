@@ -42,3 +42,25 @@ A bridging study may be acceptable instead of a full clinical investigation if:
 - Adequate post-market surveillance data from the reference jurisdiction is available
 
 CDSCO will not accept bridging or waivers for Class C and D devices without robust justification and supporting evidence.
+
+Add a new section titled 'Clinical Data Waiver and Bridging Criteria':
+
+Clinical Data Waivers
+
+CDSCO may waive clinical investigation requirements if:
+
+- The device is approved and marketed in a reference authority jurisdiction (USA, EU, Japan, etc.)
+- The reference approval includes adequate clinical data demonstrating safety and effectiveness
+- The device specifications and intended use are identical to the reference-approved device
+- No new patient populations or use cases are proposed
+
+Bridging Studies
+
+A bridging study may be acceptable instead of a full clinical investigation if:
+
+- Reference approval exists but with limited clinical data
+- Genetic or demographic differences between study populations are minimal
+- The device has undergone minor design changes not affecting safety/performance
+- Adequate post-market surveillance data from the reference jurisdiction is available
+
+CDSCO will not accept bridging or waivers for Class C and D devices without robust justification and supporting evidence.

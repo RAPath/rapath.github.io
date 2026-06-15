@@ -24,7 +24,7 @@ Submit adverse incident reports and FSCA notifications at [submissions.mhra.gov.
 - Incident: date of awareness, date of incident, location, description, patient outcome
 - Actions: investigation status, root cause (if known), CAPA, whether FSCA initiated
 
-Attach supporting documents — complaint records, failure analysis reports, FSN drafts — via the portal.
+Attach supporting documents — complaint records, failure analysis reports, field safety notice (FSN) drafts, clinical data, photographs, or other evidence — via the portal. Ensure all documents are dated and clearly identify the incident reference number.
 
 ---
 
@@ -60,3 +60,7 @@ Maintain an internal vigilance log recording all complaints received, reportabil
 | MHRA: Adverse incident reporting guidance | Detailed reporting guidance |
 
 Reports are submitted under Regulations 16–22 of the UK MDR 2002 (Part I).
+
+Add clarification to the 'Regulatory basis' section: 'Reports are submitted under Regulations 16–22 of the UK MDR 2002 (Part I).'
+
+Add a new subsection under 'After submission': "Manufacturer action on Yellow Card reports: When MHRA receives a Yellow Card report of an adverse incident that should have been reported by the manufacturer but was not, MHRA will typically notify the manufacturer and request a formal incident report. The manufacturer must assess the Yellow Card information and determine if it meets the reportability threshold. If reportable, the manufacturer must submit an incident report within the appropriate timeframe (calculated from the date the manufacturer became aware of the information). Manufacturers should also review Yellow Card reports published on the MHRA website and assess whether any represent unreported incidents that should trigger mandatory reporting."

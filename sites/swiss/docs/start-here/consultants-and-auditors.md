@@ -6,7 +6,7 @@ keywords: [regulatory affairs consultant, auditor, MedDO, Switzerland, Swissmedi
 # Consultants & Auditors
 
 ## Overview
-Regulatory affairs consultants and quality management auditors play an important supporting role in the Swiss medical device regulatory landscape. Unlike manufacturers, CH REPs, importers, or distributors, they are not defined as economic operators under MedDO — they carry no direct regulatory liability for the devices they advise on. Their role is to provide specialist expertise to manufacturers and CH REPs navigating MedDO/IVDO requirements.
+Regulatory affairs consultants and quality management auditors play an important supporting role in the Swiss medical device regulatory landscape. Unlike manufacturers, CH REPs, importers, or distributors, consultants and auditors are not defined as economic operators under MedDO and carry no direct regulatory liability for the devices they provide advice on. However, they may be contractually liable to their clients for the accuracy and completeness of their recommendations. Their role is to provide specialist expertise to manufacturers and CH REPs navigating MedDO/IVDO requirements.
 
 ## What Regulatory Affairs Consultants Do in Switzerland
 Regulatory affairs (RA) consultants working in the Swiss medical device space typically provide:
@@ -39,6 +39,11 @@ Consultants and auditors working in Switzerland should have specific knowledge o
 - **RAPS** — Regulatory Affairs Professionals Society (global, active in Switzerland)
 - **Fasmed** — Swiss trade association for medical technology companies
 - **MedTech Switzerland** — industry association
+
+
+Add a new section titled 'Legacy MDD Transition' with the following text:
+
+'Medical devices previously approved under the EU Medical Device Directive (MDD, 93/42/EEC) and placed on the Swiss market must now comply with MedDO requirements. The transition period ended on 26 May 2024, after which only MedDO-compliant devices may remain on the market. Consultants assessing legacy MDD devices should identify gaps in technical documentation, risk management, clinical evaluation reports, GSPR alignment, post-market surveillance planning, and vigilance processes to ensure full compliance and avoid market suspension or removal.'
 
 ## Official Sources
 - [Swissmedic — Medical devices](https://www.swissmedic.ch/swissmedic/en/home/medical-devices.html)

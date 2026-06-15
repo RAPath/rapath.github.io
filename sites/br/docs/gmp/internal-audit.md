@@ -24,3 +24,5 @@ The internal audit programme must be available to ANVISA inspectors during GMP i
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+The internal audit programme must include evaluation of suppliers and outsourced processes (e.g., sterilization, clinical testing) to ensure they meet quality requirements. Audit results for critical suppliers must be documented and corrective actions tracked.

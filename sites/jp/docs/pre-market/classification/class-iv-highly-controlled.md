@@ -32,3 +32,11 @@ Class IV devices always require full Shonin approval. Key features:
 Class IV devices are subject to a re-examination period of typically **4–7 years** (varies by device type), during which extensive post-market use-results data must be collected and submitted to MHLW.
 
 For example, many Class IV cardiovascular devices require enrolment in a post-market surveillance registry (e.g. for long-term safety monitoring), and some devices require mandatory physician training before implantation.
+
+For example, many Class IV cardiovascular devices require enrolment in a post-market surveillance registry (e.g. for long-term safety monitoring), and some devices require mandatory physician training before implantation.
+
+Add a new subsection titled 'QMS Inspection for Class IV Devices' with the following text:
+
+**QMS Inspection for Class IV Devices**
+
+QMS inspection is a mandatory component of the Class IV Shonin approval process. PMDA inspectors will audit all manufacturing sites (domestic and foreign) to verify compliance with the QMS Ordinance (MO 169). The inspection typically occurs during or after PMDA's scientific review and must be completed before approval is granted. Manufacturers should ensure their quality systems, documentation, traceability, and adverse event handling procedures are fully operational and auditable before submitting a Class IV Shonin application.

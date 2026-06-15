@@ -41,7 +41,7 @@ Where population differences are not clinically significant, PMDA will accept fo
 
 ## PMDA guidance on foreign data reliance
 
-PMDA has published multiple guidance documents and notifications on the acceptability of foreign data. The most relevant are available (in Japanese) from PMDA's website. Key principle: engage PMDA early to get specific guidance for your device and study population before designing your clinical programme.
+PMDA has published multiple guidance documents and notifications on the acceptability of foreign data. The most relevant are available (in Japanese) from PMDA's website at pmda.go.jp. Key principle: engage PMDA early through pre-submission consultation to get specific guidance for your device and study population before designing your clinical programme — this clarifies data requirements and reduces risk of deficiency letters.
 
 Genetic and Ethnic Considerations
 

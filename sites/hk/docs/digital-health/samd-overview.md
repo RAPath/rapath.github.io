@@ -19,7 +19,7 @@ Likely no if: administrative/billing only · general wellness without medical cl
 SaMD is classified via TR-003 (non-IVD) or TR-004 (IVD SaMD) based on:
 - Severity of the clinical condition addressed
 - Significance of software output to clinical decision-making
-- Whether software the output is integral to (drives) or is one of many informational inputs available to the clinician (informs) a clinical decision
+- Whether the software output is integral to (drives) or is one of many informational inputs available to the clinician (informs) a clinical decision
 
 High-risk diagnostic AI → typically Class III or IV. General clinical support tools → may be Class II.
 
@@ -37,3 +37,5 @@ For AI/ML that adapts post-deployment:
 - Define the learning boundary — what changes are within pre-approved scope
 - Significant changes beyond the boundary require MDD change notification
 - Consider a Predetermined Change Control Plan approach for anticipated future updates
+
+Add a paragraph after the 'Classification' section: 'SaMD Classification and MDACS Eligibility: Only Class II, III, or IV SaMD (or IVD SaMD Classes B, C, D) are eligible for MDACS listing. Class I or Class A SaMD may still be supplied in Hong Kong provided they comply with general safety standards, but do not require MDACS registration.'

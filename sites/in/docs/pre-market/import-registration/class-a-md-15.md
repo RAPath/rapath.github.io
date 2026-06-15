@@ -9,7 +9,7 @@ keywords: [Form MD-15, Class A, import registration, India, CDSCO, self-declarat
 
 ## What is Form MD-15?
 
-Form MD-15 is a registration/self-declaration form for importing Class A (low-risk) medical devices into India. It does not require a full regulatory review by CDSCO; instead, the IAR makes a legally binding declaration that the device and manufacturer conform to all applicable Medical Devices Rules 2017 requirements. CDSCO may verify compliance through post-market inspection.
+Form MD-15 is a registration/self-declaration form for importing Class A (low-risk) medical devices into India. It does not require a full pre-market regulatory review by CDSCO; instead, the IAR makes a legally binding declaration that the device and manufacturer conform to all applicable Medical Devices Rules 2017 requirements. Registration is typically issued within 15–30 working days. CDSCO may verify compliance and audit the declaration through post-market inspection at any time.
 
 ## Process
 

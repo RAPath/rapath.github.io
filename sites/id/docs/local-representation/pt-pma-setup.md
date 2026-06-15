@@ -56,3 +56,5 @@ Setting up a PT PMA from scratch typically takes **6–12 months** before the en
 | Flexibility | Maximum | High |
 | Operational responsibility | You manage CDAKB compliance | Third party manages |
 | Best for | Large portfolios; long-term commitment | Faster market entry; testing the market |
+
+Add under 'Setup Process' after the timeline: 'Ongoing Obligations: Once established, a PT PMA must maintain corporate governance compliance, file annual tax returns, maintain financial records, and ensure continuous compliance with Indonesian labor and business regulations. Consider appointing a local corporate tax advisor to manage these obligations. Failure to comply with corporate or tax requirements can result in entity suspension, which would freeze all NIEs held by that entity.'

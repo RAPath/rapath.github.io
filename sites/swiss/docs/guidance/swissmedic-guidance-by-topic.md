@@ -39,6 +39,21 @@ For the complete, current list always refer directly to [swissmedic.ch](https://
 - Symbol usage guidance (ISO 15223)
 - eIFU notification procedure
 
+
+Add to the 'Technical Documentation and Conformity Assessment' section:
+
+AI and Machine Learning — Algorithm development, training data documentation, performance monitoring, algorithm change management procedures
+
+
+Restructure as a proper subsection:
+
+AI and Machine Learning
+
+Algorithm development standards — MDCG 2020-1 alignment
+Training data documentation — dataset composition, size, source documentation
+Performance monitoring — real-world performance verification against trained model performance
+Algorithm change management — procedures for updates, retraining triggers, and conformity assessment requirements
+
 ## Official Sources
 - [Swissmedic — Medical devices guidance](https://www.swissmedic.ch/swissmedic/en/home/medical-devices.html)
 

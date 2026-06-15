@@ -49,7 +49,7 @@ A critical and evolving aspect of GB market access is the transitional acceptanc
 | Period | Position |
 |---|---|
 | 1 Jan 2021 – 30 Jun 2023 | CE marking accepted in GB |
-| 1 Jul 2023 – 30 Jun 2030 (current) | CE marking accepted in GB for devices CE-marked under EU MDR or EU IVDR before 30 Jun 2030 |
+| 1 Jul 2023 – 30 Jun 2030 (current) | CE marking accepted in GB for devices CE-marked under EU MDR or EU IVDR, provided the CE mark was issued before 30 Jun 2030 |
 | From 1 Jul 2030 | UKCA marking required; CE marking no longer sufficient for the GB market |
 
 :::tip
@@ -187,6 +187,16 @@ The divergence between GB and NI medical device regulation is expected to contin
 | Windsor Framework (March 2023) | UK–EU agreement governing NI's continued EU alignment |
 | MHRA guidance: Regulating medical devices in the UK | Current MHRA position on GB vs NI |
 | DHSC: UKCA marking | Government policy on UKCA transitional arrangements |
+
+### What Changed with the Windsor Framework (2023) — continued
+
+**Green Lane for NI-originated devices:** Devices manufactured in Northern Ireland and intended primarily for the NI market may benefit from streamlined reporting to the EU if safety issues arise.
+
+**EU Notified Body transition:** Manufacturers previously using UK Approved Bodies for NI market access must transition to EU Notified Bodies for post-Windsor CE conformity assessment.
+
+**EUDAMED registration:** NI devices must be registered in EUDAMED (the EU's medical device database) rather than the MHRA portal (which covers GB only).
+
+**Import of GB devices to NI:** GB-manufactured devices bearing only the UKCA mark cannot be freely imported to NI without EU compliance. Dual marking (UKCA + CE) is required for devices intended for both GB and NI markets.
 
 The section should be completed. Based on context regarding Northern Ireland and the Windsor Framework, this likely refers to green lane or trusted trader arrangements:
 

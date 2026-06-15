@@ -58,7 +58,7 @@ All inspection, measuring, and test equipment must be:
 - Calibrated at defined intervals against recognised standards
 - Maintained with calibration records (equipment ID, calibration date, next due date, results)
 
-Use of uncalibrated inspection or measuring equipment in production decisions or acceptance testing is a common and serious 483 citation that can invalidate inspection and acceptance records.
+Use of uncalibrated inspection, measuring, or test equipment in production decisions, in-process checks, or acceptance testing is a serious and frequently cited QMSR violation that can invalidate all related acceptance records, quarantine affected product, and trigger product recalls. Equipment calibration status must be visibly identified on all equipment (calibration label) and included in batch records.
 
 ---
 
@@ -76,3 +76,17 @@ Where necessary to prevent contamination of device or product:
 - [FDA — Process Validation Guidance (2011)](https://www.fda.gov/media/71021/download)
 
 Process validation must be revalidated when significant changes are made to the process, equipment, manufacturing location, or materials that could affect process capability or product quality. Change control procedures must trigger revalidation evaluation.
+
+Add to the Process validation section after 'Validation protocol requirements': Revalidation Triggers
+
+Process revalidation is required when:
+- Equipment is replaced or substantially modified
+- Manufacturing location changes
+- Raw material suppliers change (especially for critical materials)
+- Process parameters are widened or changed
+- Manufacturing volume increases significantly beyond validated range
+- Process control limits are modified
+- Sterilization methods or parameters change
+- Personnel changes affect critical process functions
+
+Minor changes that do not affect process capability or product quality (e.g., cosmetic equipment modifications, administrative procedure updates) do not require revalidation but must be evaluated through change control procedures.

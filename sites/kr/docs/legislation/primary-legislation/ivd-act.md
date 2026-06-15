@@ -36,3 +36,5 @@ IVD products approved under the Medical Devices Act before May 2021 were require
 Companion Diagnostics
 
 IVDs used as companion diagnostics (CDx) to determine patient eligibility for specific therapeutic drugs must undergo co-approval with the corresponding pharmaceutical product. CDx devices require submission of analytical and clinical validation data alongside the drug application.
+
+Add after the Companion Diagnostics section: "Electronic Instructions for Use (eIFU): As of 2024, electronic IFU is permitted for professional-use IVD devices, limited to online access with downloadable PDF backup option."

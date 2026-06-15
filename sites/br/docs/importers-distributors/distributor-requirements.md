@@ -32,3 +32,5 @@ Verify all information against official [ANVISA](https://www.gov.br/anvisa) sour
 :::
 
 Storage conditions must comply with RDC 751/2022 and device-specific requirements in the product registration dossier. Temperature and humidity ranges must be monitored and documented, particularly for temperature-sensitive devices (e.g., vaccines, biologics, certain in vitro diagnostics). Documentation of storage condition monitoring must be maintained for at least 5 years.
+
+Add to the key compliance obligations section: 'Note: Small-scale distributors handling only low-risk Class I devices may be exempt from the Responsável Técnico requirement in some cases; verification with ANVISA is recommended based on specific business model and device portfolio.'

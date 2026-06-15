@@ -20,4 +20,6 @@ While English labeling is mandatory, regional language labeling may be required 
 - The language used must be clear, accurate, and complete—not merely a translation
 - Regional language labeling is particularly important for patient-facing information and Instructions for Use (IFU)
 
-Manufacturers should confirm language requirements with CDSCO based on their intended distribution territory.
+Manufacturers must confirm language requirements with CDSCO based on their intended distribution territory before finalizing labeling. This is particularly critical for devices with regional distribution; confirmation should be sought in writing and retained as part of the regulatory file.
+
+Exemptions: Regional language labeling may not be required for devices with minimal patient contact (e.g., certain in vitro diagnostics or hospital-use-only devices) if approved by CDSCO. Manufacturers should seek written confirmation from CDSCO regarding exemptions before finalizing labeling.

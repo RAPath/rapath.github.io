@@ -134,3 +134,5 @@ AI/ML-based SaMD raises specific concerns addressed by MDCG and the EU AI Act:
 | EU AI Act (Reg. 2024/1689) | AI system obligations |
 
 The section "AI and machine learning in SaMD" currently ends with "AI/ML-based SaMD raises sp" and is incomplete. This section should include guidance on: Algorithm transparency and explainability requirements; Training data documentation and validation; Algorithm updating procedures and version control; Bias assessment and mitigation; Continuous monitoring of algorithm performance post-market; Reference to MDCG 2023-1 guidance on qualification and classification of AI/ML-based software as a medical device."
+
+Algorithm updates (for AI/ML): changes to trained models must be assessed — if the change alters the output in a clinically significant way, it may be a significant change requiring NB review before deployment. The manufacturer must document the clinical validation of algorithm updates and demonstrate that safety and performance remain within acceptable limits. Changes to data sources, training datasets, or model parameters must be evaluated for impact on intended use and performance specifications.

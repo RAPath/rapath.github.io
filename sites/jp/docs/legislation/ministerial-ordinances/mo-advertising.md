@@ -41,3 +41,7 @@ PMD Act advertising violations are enforced by:
 Enforcement tools include warnings, orders to cease advertising, and in serious cases, penalties under the PMD Act. MHLW actively monitors print, digital advertising, social media, and healthcare provider portals for violations. MAHs and manufacturers are legally responsible for advertising by all sales channels and agents, including online marketplaces and third-party healthcare websites.
 
 Article 66 prohibits false or misleading advertising; Article 67 restricts advertising of non-approved devices; Article 68 extends these restrictions to devices not yet granted regulatory approval and to off-label promotion. Enforcement applies to manufacturers, MAHs, distributors, and healthcare providers making promotional claims.
+
+Add after 'PMD Act Articles 66–68': 'Article 66 prohibits false or misleading advertising; Article 67 restricts advertising of non-approved devices; Article 68 extends these restrictions to devices not yet granted regulatory approval and to off-label promotion. Enforcement applies to manufacturers, MAHs, distributors, and healthcare providers making promotional claims.'
+
+Digital and social media — the 2023 amendments explicitly extended advertising restrictions to digital platforms, including social media channels, healthcare provider websites, and online marketplaces. Communications by MAHs, manufacturers, distributors, and third-party sellers on these channels are subject to the same three-part test and prohibited practices standards as traditional advertising.

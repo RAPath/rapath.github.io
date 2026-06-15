@@ -50,3 +50,5 @@ Content on this site is written with AI assistance and is intended as a navigati
 :::
 
 Class I filing records do not have an expiration date, but manufacturers must maintain compliance with the registered Product Technical Requirements (PTR) and notify the filing authority of any changes that affect device safety or performance.
+
+The disclaimer already addresses this: 'Class I filing records do not have an expiration date, but manufacturers must maintain compliance with the registered Product Technical Requirements (PTR) and notify the filing authority of any changes that affect device safety or performance.' Consider moving this to the main content after 'Changes to Class I filed devices' for better visibility.

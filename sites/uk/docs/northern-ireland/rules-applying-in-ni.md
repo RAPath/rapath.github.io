@@ -30,7 +30,7 @@ The specific EU regulatory rules that apply in Northern Ireland — EU MDR 2017/
 - EUDAMED registration
 - EU Notified Body involvement for Class IIa, IIb, III, AIMD, and Class IIb implants
 - Full MDR post-market obligations (PSUR, PMCF, vigilance to MHRA in EU CA capacity)
-- Annex XVI non-medical purpose devices (non-corrective contact lenses, fillers, etc.) are regulated in NI — but NOT in GB
+- Annex XVI non-medical purpose devices (non-corrective contact lenses, dermal fillers, etc.) are regulated in NI under EU MDR Article 1(6) — but NOT in GB under the UK MDR 2002. This creates a regulatory divergence: such devices require CE marking and EU registration for NI placement but are outside MHRA scope for GB.
 
 ## EU IVDR 2017/746 in Northern Ireland
 

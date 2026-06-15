@@ -36,7 +36,7 @@ CDRH is the primary FDA centre for medical devices. It regulates:
 
 ## Center for Biologics Evaluation and Research (CBER)
 
-CBER regulates biological products, including certain device-related products where the biologic component is primary. CBER has jurisdiction over:
+CBER regulates biological products, including certain device-related products where the primary mode of action (PMOA) resides in the biologic component. CBER has jurisdiction over:
 
 | Product type | Examples |
 |---|---|

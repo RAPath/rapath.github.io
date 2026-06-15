@@ -24,4 +24,4 @@ The complete risk management file for Class III/IV includes: risk management pla
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
 
-For Class I and II devices, a risk management summary is acceptable and should focus on the most critical hazards and their control measures. Class III devices require the complete ISO 14971 documentation file. Class IV devices require an extended benefit-risk analysis that demonstrates why the residual risks are acceptable and outweighed by the clinical benefits, particularly important for high-risk implantable or life-sustaining devices.
+For Class I and II devices, a risk management summary is acceptable and should focus on the most critical hazards and their control measures. Class III devices require the complete ISO 14971 documentation file as outlined above. Class IV devices require an extended benefit-risk analysis that explicitly demonstrates why residual risks are acceptable and outweighed by clinical benefits; this is particularly critical for high-risk implantable or life-sustaining devices where regulatory scrutiny is highest.

@@ -54,3 +54,5 @@ Where a clinical trial is ongoing but a patient cannot enter the trial (e.g., do
 ## Regulatory pathway for device clinical trials
 
 "Health Canada typically issues an ITA decision within 30 calendar days of receiving a complete application via HRES. REB approval timelines vary by institution but typically range from 2-8 weeks. The ITA authorization does not take effect until REB approval is confirmed at all participating sites. Applicants should plan for a total timeline of 2-4 months from ITA submission to trial initiation, accounting for both Health Canada review and multi-centre REB coordination."
+
+Health Canada typically issues an ITA decision within 30 calendar days of receiving a complete application via HRES. REB approval timelines vary by institution but typically range from 2-8 weeks. The ITA authorization does not take effect until REB approval is confirmed at all participating sites. Applicants should plan for a total timeline of 2-4 months from ITA submission to trial initiation, accounting for both Health Canada review and multi-centre REB coordination.

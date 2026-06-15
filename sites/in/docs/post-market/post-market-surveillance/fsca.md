@@ -25,3 +25,5 @@ FSCA actions must:
 - Be tracked and reported in Post-Market Surveillance Reports
 
 Common FSCA measures include product recalls, product modifications, restrictions on use, or labeling changes.
+
+Emergency FSCA: In cases of imminent risk to public health, FSCA measures (e.g., urgent product recall or use restriction) may be implemented immediately with simultaneous notification to CDSCO. Formal approval must be obtained within 7 days for emergency actions. Non-emergency FSCA measures must obtain written CDSCO approval before implementation.

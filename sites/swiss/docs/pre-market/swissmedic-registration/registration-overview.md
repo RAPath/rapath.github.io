@@ -33,6 +33,11 @@ Always verify current MRA status before planning Swiss registration timelines â€
 - CH REP mandate and contact details
 - Labelling samples demonstrating DE/FR/IT compliance
 
+
+Legacy Device Registrations and Transitional Provisions
+
+Devices that were lawfully placed on the Swiss market before the MedDO fully came into force may be subject to transitional provisions. Manufacturers should verify the specific deadline applicable to their devices for compliance with current MedDO requirements. Swissmedic's DAPI portal provides guidance on grandfathering arrangements and transition deadlines for devices registered under previous Swiss medical device regulations.
+
 ## Official Sources
 - [MedDO Art. 52â€“55 (SR 812.213)](https://www.fedlex.admin.ch/eli/cc/2021/205/en)
 - [Swissmedic DAPI portal](https://www.dapi.ch)

@@ -35,6 +35,16 @@ keywords: [classification rules, MedDO Annex VIII, Class I IIa IIb III, Switzerl
 **Rule 21** — Substances absorbed by or dispersed in the body: **Class III** if systemic absorption or specific tissue presence. *Example: absorbable haemostatic agents.*
 **Rule 22** — Closed-loop systems including software for serious conditions: **Class III**. *Example: automated insulin delivery systems.*
 
+
+nd
+Fedlex
+sources. Not legal or regulatory advice.
+Non-Invasive Devices (Rules 1–4)
+Invasive Devices (Rules 5–8)
+Active Devices (Rules 9–13)
+Special Rules (Rules 14–22)
+Official Sources
+
 ## Official Sources
 - [MedDO Annex VIII (SR 812.213)](https://www.fedlex.admin.ch/eli/cc/2021/205/en)
 - [MDCG 2021-24 — Manual on borderline and classification](https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en)

@@ -7,7 +7,7 @@ last_reviewed: 2026-04-30
 
 ## Overview
 
-Reporting adverse events to the TGA is an automatic condition of ARTG inclusion under Regulation 5.7 of the Therapeutic Goods (Medical Devices) Regulations 2002. It is mandatory for Australian sponsors — not optional. The obligation applies regardless of whether the sponsor or manufacturer believes the device caused the event. If there is a reasonable possibility the device was involved, it must be reported. When in doubt, report.
+Reporting adverse events to the TGA is an automatic condition of ARTG inclusion under Regulation 5.7 of the Therapeutic Goods (Medical Devices) Regulations 2002. It is mandatory for Australian sponsors — not optional. The obligation applies regardless of whether the sponsor or manufacturer believes the device caused the event. If there is a reasonable possibility the device was involved, it must be reported. When in doubt, report. Reporting does not constitute an admission of liability.
 
 ---
 
@@ -63,7 +63,7 @@ Reporting obligations fall on the **Australian sponsor**. However, since March 2
 
 - From 21 March 2025: voluntary reporting period for healthcare facilities (via the new ASDER system)
 - From 21 March 2026: mandatory reporting by healthcare facilities for adverse events involving **high-risk devices** (Class III, AIMD, Class 4 IVDs)
-- From 1 April 2028: expanded to medium-risk devices
+- From 1 April 2027: expanded to medium-risk devices (Class II, non-AIMD IVDs)
 
 If a healthcare facility has already reported an adverse event via IRIS, the sponsor does not need to submit a duplicate report for that same event. However, sponsors should not assume facilities will report — sponsors retain their own independent obligation.
 

@@ -75,3 +75,5 @@ If it is unclear whether a product is a medical device, or which class applies, 
 - MDS-G008 — Classification guidance document
 - [Class A](./class-a) · [Class B](./class-b) · [Class C](./class-c) · [Class D](./class-d)
 - [IVD Classification](./ivd-classification)
+
+Replace 'The correct risk class determines: The depth of technical documentation required QMS certification requirements The SFDA's review manufacturer must correctly classify their device according to MDS-REQ 1 rules before submitting an MDMA application. The • • • approach, timeline, • • and depth' with: 'The correct risk class determines: The depth of technical documentation required; QMS certification requirements; The SFDA's review timeline and approach; and Applicable post-market obligations (PMS Report vs PSUR frequency). Manufacturers must correctly classify their device according to MDS-REQ 1 rules before submitting an MDMA application.'

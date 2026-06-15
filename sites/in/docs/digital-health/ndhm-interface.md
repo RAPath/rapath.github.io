@@ -31,7 +31,7 @@ Devices intended to connect to ABDM must:
 
 ## Regulatory Coordination
 
-Devices must obtain CDSCO approval as medical devices independently. ABDM compliance is an additional requirement, not a substitute for device regulatory approval.
+Devices must obtain CDSCO approval as medical devices independently and follow the MDR 2017 submission pathway. ABDM compliance is an additional technical and interoperability requirement that must be demonstrated separately but does not substitute for CDSCO device regulatory approval.
 
 ## Key Interoperability Standards
 

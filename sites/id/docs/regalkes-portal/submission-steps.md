@@ -55,7 +55,7 @@ All required documents are uploaded in PDF format following Regalkes file naming
 - Labels (BI-compliant)
 - Technical specifications and test reports
 
-:::caution File Naming - Regalkes enforces specific file naming conventions that change periodically. Non-compliant file names cause upload rejection and must be corrected before resubmission. Always request the current file naming template from your LAR or Kemenkes before beginning document preparation, as using outdated naming formats can cause significant submission delays.
+:::caution File Naming — Regalkes enforces specific file naming conventions that change periodically. Non-compliant file names cause upload rejection and must be corrected before resubmission. This is a critical blocking issue: the system will not allow you to proceed if file names do not match current Regalkes specifications. Always request the current file naming template from your LAR or contact Kemenkes before beginning document preparation. Using outdated naming formats is a leading cause of submission delays and administrative rejections.
 :::
 
 ---
@@ -99,3 +99,5 @@ On successful completion of the technical review:
 Before importing and distributing, update all product labeling to include the NIE number. Updated labels must match the approved label in the Regalkes system. Do not distribute product with old labels.
 
 "Step 7a: Clarification Response Timeline - Kemenkes typically allows 14-30 days for response to clarification queries (permintaan klarifikasi). Responses must address all queries completely. Partial responses or missing information will restart the response clock. Failure to respond within the deadline may result in administrative rejection of the application."
+
+Add new section after Step 7: "Step 7a: Clarification Response Timeline - Kemenkes typically allows 14-30 days for response to clarification queries (permintaan klarifikasi). Responses must address all queries completely. Partial responses or missing information will restart the response clock. Failure to respond within the deadline may result in administrative rejection of the application."

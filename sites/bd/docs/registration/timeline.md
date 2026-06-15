@@ -79,3 +79,25 @@ If the Bangladesh AR changes (e.g., a new distributor is appointed), submit a li
 The DGDA has authority to fix prices for registered medical devices. Registration does not automatically authorise you to set any price — the approved price is set through the DGDA pricing process. Changes to price may require DGDA notification or approval.
 
 Coordinate the transfer with DGDA at least 30 days before the outgoing AR relinquishes responsibility. The incoming AR must confirm acceptance of all post-market obligations. Registration licence is updated to reflect the new AR name.
+
+Grace Period & Lapsed Registration Recovery:
+
+If a registration expires without renewal, there is no grace period. The device immediately becomes non-compliant for import and distribution. If this occurs:
+- Stop all commercial distribution immediately
+- File a new registration application (not a renewal) to the DGDA
+- The application must include current ISO 13485 and FSC documentation
+- The application will enter the quarterly review cycle as a new submission
+- Expect 4–6 months minimum to re-achieve registration
+
+To avoid this scenario, submit renewal applications at least 6 months before expiry and confirm receipt by DGDA.
+
+Transferring Registration Between ARs (continued):
+
+If the Bangladesh AR changes (e.g., a new distributor is appointed), submit a licence transfer application to the DGDA including:
+- Written consent from both the old and new AR
+- Letter of Authorization from the manufacturer appointing the new AR
+- Proof of the new AR's company registration and technical capacity
+- Confirmation that all outstanding AR obligations (vigilance reports, complaints handling records, distribution records) have been transferred
+- Updated contact information for the new AR
+
+The DGDA will issue an updated registration certificate in the new AR's name. During the transfer period, the device cannot legally be imported or distributed until the new certificate is issued. Plan AR transitions with adequate notice to avoid supply chain disruption.

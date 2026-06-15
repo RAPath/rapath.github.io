@@ -47,3 +47,5 @@ The Letter of Authorization (LOA) from foreign manufacturers must include a nota
 ## Official Source
 
 All documents: FDA Philippines CDRRHR — [www.fda.gov.ph/center-for-device-regulation-radiation-health-and-research/](https://www.fda.gov.ph/center-for-device-regulation-radiation-health-and-research/)
+
+Change 'AO 2018-0002' to 'DOH AO 2018-0002' in both instances where it appears in the 'Key CDRRHR / FDA Philippines Documents' table and in the 'Administrative Orders' section.

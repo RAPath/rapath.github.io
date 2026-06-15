@@ -59,7 +59,7 @@ For IVDs providing results compared to reference intervals, manufacturers should
 - Reference published studies on Asian population reference intervals
 - Justify the use of reference intervals derived from non-Asian populations if Malaysian data is unavailable
 
-Reference intervals derived entirely from European or North American populations may not be appropriate for Malaysian patients.
+Reference intervals derived entirely from European or North American populations should be validated for Malaysian and/or Asian populations where clinically appropriate, as population-specific differences may affect clinical performance.
 
 ## Kit Components
 
@@ -105,3 +105,5 @@ IVD labels and IFUs must include (in addition to general labelling requirements)
 See [Labelling Requirements](./labelling-requirements) for the complete list.
 
 Complete the truncated section: 'Labelling for IVDs — In addition to general requirements, IVD labels and IFUs must include: Analyte and specimen type, Analytical measurement range, Reference intervals (where applicable), Interferences, Principles of the procedure, and a warning or statement if the IVD is for in vitro use only. See Labelling Requirements for full detail on mandatory label elements and language requirements for IVDs supplied in Malaysia.'
+
+Complete the truncated IVD labelling section with: 'For IVDs, additional labelling requirements beyond general requirements must include: the intended analyte and specimen type, analytical measurement range, reference intervals (where applicable), identified interferences, and the principles of the procedure used. Clinical performance data supporting the reference intervals used must be documented, and any limitations on specimen type or patient population must be clearly stated on the label or in the IFU.'

@@ -45,3 +45,11 @@ Per FDA guidance, valid scientific evidence must:
 - [21 CFR § 860.7 — Substantial Evidence](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-H/part-860/subpart-A/section-860.7)
 
 When non-clinical data alone may be sufficient: For devices with proven predicate equivalence, bench testing, biocompatibility testing, software validation, and sterilization validation may adequately support substantial equivalence without clinical data. This is most common for Class I devices and low-risk modifications to Class II devices.
+
+Add a new section before 'Clinical data in De Novo requests': 'When non-clinical data alone may be sufficient: For devices with proven predicate equivalence, bench testing, biocompatibility testing, software validation, and sterilization validation may adequately support substantial equivalence without clinical data. This is most common for Class I devices and low-risk modifications to Class II devices.'
+
+Add a definition section before 'Clinical data in 510(k) submissions':
+
+**Substantial Equivalence**
+
+Substantial equivalence means the new device is as safe and effective as a legally marketed predicate device in intended use, technological characteristics, and performance. Demonstrating substantial equivalence can rely on non-clinical data alone (such as bench testing, biocompatibility, and software validation) if the technological differences from the predicate do not raise new clinical safety or effectiveness questions.

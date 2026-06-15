@@ -35,3 +35,7 @@ ANVISA enforcement has targeted products marketed as "wellness devices" that mak
 - [ANVISA — Categorias de Produtos](https://www.gov.br/anvisa/pt-br/assuntos)
 
 Note: While drugs and biologics are regulated under separate ANVISA frameworks, both are excluded from medical device regulation. Drugs achieve their primary action through pharmacological, immunological, or metabolic means, while biologics are products derived from biological sources (including vaccines, blood products, and cell therapies). Consult ANVISA's classification guidance if uncertain whether a product is a drug, biologic, or device.
+
+Add a note after the table: 'Note: While drugs and biologics are regulated under separate ANVISA frameworks, both are excluded from medical device regulation. Drugs achieve their primary action through pharmacological, immunological, or metabolic means, while biologics are products derived from biological sources (including vaccines, blood products, and cell therapies). Consult ANVISA's classification guidance if uncertain whether a product is a drug, biologic, or device.'
+
+Replace the paragraph starting with 'ANVISA enforcement has targeted products' with: 'ANVISA enforcement has targeted products marketed as "wellness devices" that make implied diagnostic or therapeutic claims. If in doubt, seek a consulta de enquadramento (classification inquiry) from ANVISA before market launch — submitting this inquiry formally creates a regulatory record of your good-faith classification effort.'

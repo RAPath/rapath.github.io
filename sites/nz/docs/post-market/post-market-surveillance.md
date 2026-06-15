@@ -15,11 +15,14 @@ New Zealand's post-market surveillance framework is significantly lighter than t
 - Post-market clinical follow-up (PMCF) report
 - Formal trending report cycle
 
-However, Sponsors are required to:
+Sponsors are required to:
 
-However, Sponsors are required to: • Report adverse events to Medsafe when they occur • Maintain distribution records to enable recall traceability • Respond to Medsafe requests for safety information • Cooperate with recalls when required Additionally, by good practice and through the Medicines Act's general safety obligations, Sponsors should monitor device performance systematically.
+• Report adverse events to Medsafe when they occur
+• Maintain distribution records to enable recall traceability
+• Respond to Medsafe requests for safety information
+• Cooperate with recalls when required
 
-And by good practice (and through the Medicines Act's general safety obligations), Sponsors should monitor device performance systematically.
+By good practice, and through the Medicines Act's general safety obligations, Sponsors should also monitor device performance systematically.
 
 ---
 

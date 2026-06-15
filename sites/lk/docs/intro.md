@@ -38,3 +38,7 @@ Sri Lanka regulates medical devices through the **National Medicines Regulatory 
 
 ---
 *Part of the [RAPath](https://rapath.github.io/) suite.*
+
+Post-Market Requirements
+
+After Registration Certificate issuance, the MAH is responsible for: (1) reporting all adverse events to NMRA within specified timeframes; (2) maintaining a post-market surveillance plan for Class IIb and III devices; (3) submitting periodic safety reports (PSURs) as required; (4) initiating recalls or field safety corrections when safety issues are identified. The MAH must also pay annual registration maintenance fees to keep the Registration Certificate active.

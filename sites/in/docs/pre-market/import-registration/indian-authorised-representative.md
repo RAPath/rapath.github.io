@@ -40,4 +40,8 @@ If the foreign manufacturer wishes to change its IAR:
 
 See [Appointing & Changing an IAR](/docs/import-export-sugam/iar/appointing-changing) for step-by-step guidance.
 
+IAR liability and insurance: The IAR is the legally liable entity for post-market performance, adverse event reporting, and regulatory compliance in India. CDSCO may take enforcement action (warning letter, suspension, or cancellation of the licence) against the IAR if regulatory conditions are breached or the device is found to be non-compliant. The IAR should maintain product liability insurance and product recall insurance. The foreign manufacturer should provide a written indemnification/hold-harmless agreement to protect the IAR from liability for manufacturing defects or approval in the home country.
+
+Add after 'IAR obligations' section: 'Scope of IAR responsibility: One IAR may represent multiple foreign manufacturers and multiple devices on behalf of those manufacturers. However, the IAR must maintain separate import licences for each device and manufacturer combination. There are no specific restrictions on representing competing manufacturers, but the IAR's contract with each manufacturer should clarify exclusivity if required. The IAR must maintain separate quality files and vigilance records for each device.'
+
 IAR liability: The IAR is the legally liable entity for post-market performance and adverse event reporting. CDSCO may take enforcement action (suspension, cancellation) against the IAR if regulatory conditions are breached. The IAR should maintain product liability insurance and ensure the foreign manufacturer provides indemnification.

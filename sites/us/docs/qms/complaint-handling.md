@@ -82,8 +82,12 @@ Complaint Timeframe Requirements
 
 While 21 CFR § 820.198 does not specify fixed deadlines for complaint investigation completion, FDA expects:
 
-Rapid evaluation of MDR reportability — within a reasonable timeframe (typically 2–5 business days) to enable timely MDR submission if required
+Rapid evaluation of MDR reportability — within a reasonable timeframe (typically 1–3 business days to enable timely submission within the 30-day window) to enable timely MDR submission if required
 
 Complaint investigation — should be conducted expeditiously; unreasonable delays may be cited as QMSR deficiencies
 
 MDR-reportable complaints — must be submitted within 30 days of discovery (or 5 days if death or serious injury and urgent public health notification is needed), which drives faster evaluation timelines
+
+**Complaint Record Retention**
+
+Complaint files must be retained for the lifetime of the device plus additional time as specified in your device master record, or as required by applicable regulations (e.g., implantable devices typically 5–10 years post-market). If your company distributes devices through multiple channels (direct sales, distributors, customer service centers), you must have a system to track and retrieve all complaint records—complaints evaluated at remote sites must be reasonably accessible to the manufacturing establishment within a defined timeframe (typically 1–2 business days for inspection purposes).

@@ -12,7 +12,7 @@ Health Canada requires manufacturers to demonstrate that their devices are **saf
 
 ## Class I — No pre-market review
 
-Class I devices do not require a Device Licence and are not reviewed by Health Canada pre-market. No clinical evidence submission is required, but manufacturers must still possess evidence supporting safety and effectiveness as part of their QMS.
+Class I devices do not require a Device Licence and are not reviewed by Health Canada pre-market. No clinical evidence submission is required for Device Licence approval. However, manufacturers must still maintain evidence supporting safety and effectiveness within their Quality Management System (QMS) and must comply with all post-market obligations, including adverse event reporting.
 
 ## Class II — Summary evidence
 

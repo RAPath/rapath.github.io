@@ -26,7 +26,7 @@ Note that Class III and Class IV are both categorised as "Specially Controlled M
 
 Rather than relying on a risk-based algorithm applied case by case (as in the EU IVDR rule system), Japan's classification is primarily done by **looking up the JMDN code** for the device type. JMDN codes have pre-assigned classes. If a device type exists in the JMDN database with a Class II designation, that device is Class II.
 
-This means the critical first step is identifying the correct JMDN code. For devices with existing JMDN codes, the class is straightforward to determine. For novel devices with no existing JMDN code, a new code must be created through an MHLW process — which takes time and may require a PMDA consultation.
+This means the critical first step is identifying the correct JMDN code. For devices with existing JMDN codes, the class is straightforward to determine. For novel devices with no existing JMDN code, a new code must be created through an MHLW process — typically 6–12+ months — and the applicant should engage PMDA early in this process to align on the appropriate class and pathway.
 
 ## Who makes the classification decision
 
@@ -39,3 +39,9 @@ For novel or borderline devices where no JMDN code exists or where the intended 
 MHLW can reclassify device categories — moving a device type from one class to another — through amendment of the Cabinet Order. This has happened for certain IVD categories and some SaMD types as new evidence emerged. Reclassification affects existing approvals and certifications, and MAHs are required to transition to the new pathway within MHLW-specified timeframes.
 
 When MHLW reclassifies a device category, existing holders of approvals or certifications under the old class are typically granted a transition period (often 6–24 months) to comply with the new pathway requirements. During this period, MAHs may apply for new approval/certification under the new pathway before the old pathway closes.
+
+Add a new subsection titled 'What Happens if JMDN Classification is Challenged' with the following text:
+
+**What Happens if JMDN Classification is Challenged**
+
+If an MAH assigns a JMDN code and PMDA or the RCB determines during review that the code is incorrect, the application may be rejected or suspended until the correct code is assigned. In some cases, applicants may be asked to refile under a different pathway (e.g., reclassifying a device from Class II Ninsho to Class III Shonin). To minimize this risk, confirm the JMDN code through PMDA consultation before submitting a formal application, particularly for novel or borderline devices.

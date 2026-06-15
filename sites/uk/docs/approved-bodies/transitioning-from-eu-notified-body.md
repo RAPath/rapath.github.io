@@ -34,7 +34,7 @@ From 1 July 2030, UKCA marking will be required for devices placed on the GB mar
 ## Steps to transition to a UKAB
 
 1. Select a UKAB — identify a UKAB designated for your device type and conformity assessment route (see [Finding a UKAB](./finding-a-ukab))
-2. Engage early — UKAB capacity is limited; demand will surge as 2030 approaches. Begin engagement well in advance (aim for 2–3 years before your target UKCA date)
+2. Engage early — UKAB capacity is limited and demand is expected to surge as the 30 June 2030 deadline approaches. Manufacturers are advised to initiate contact with a UKAB by 2027–2028 to secure an audit slot and allow sufficient time for document review, audit execution, and non-conformity resolution.
 3. Gap analysis — assess your technical file and QMS against UK MDR 2002 Essential Requirements; most EU MDR-compliant technical files will broadly satisfy UK ERs, but differences exist
 4. Apply to the UKAB — submit formal application and documentation
 5. Complete the audit and assessment — address any non-conformities
@@ -58,3 +58,7 @@ Devices that were certified under the legacy EU directives (MDD, AIMDD, IVDD) be
 | UK MDR 2002, Schedule 3 | UKCA conformity assessment procedures |
 
 Manufacturers serving Northern Ireland should note that NI remains on the EU MDR/IVDR regime and continues to accept EU Notified Body certificates and CE marking. The transition steps outlined above apply only to the GB market. See Great Britain vs Northern Ireland for the full regulatory split between GB and NI.
+
+Add a new section titled 'Northern Ireland considerations' after the 'Legacy EU MDD / AIMDD / IVDD certificates' section: 'Manufacturers serving Northern Ireland should note that NI remains on the EU MDR/IVDR regime and continues to accept EU Notified Body certificates and CE marking. The transition steps outlined above apply only to the GB market. See Great Britain vs Northern Ireland for the full regulatory split between GB and NI.'
+
+After the 'Obtain UKAB certificate' step, add: 'Update MHRA registration — Log into the MHRA Submissions portal and upload your UK Declaration of Conformity and UKAB certificate number to your device registration. Ensure the certificate reference and UKAB identification number are recorded correctly, as this information is used for compliance verification and post-market surveillance.'

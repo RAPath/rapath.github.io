@@ -36,3 +36,5 @@ Professional-use devices (used only by trained clinicians) may use English or Ch
 Must be truthful, not misleading, and consistent with the MDACS-listed intended purpose.
 
 For devices with severely constrained label space, electronic labelling (eLabelling) or QR code linking to bilingual information may be acceptable with prior approval from MDD. Consult the MDD during listing if label space is a constraint.
+
+Add to the Bilingual Requirement section: 'For devices with severely constrained label space, electronic labelling (eLabelling) or QR code linking to bilingual information may be acceptable with prior approval from MDD. Consult the MDD during listing if label space is a constraint.'

@@ -30,3 +30,21 @@ For technical questions about GS1 GTIN assignment for UDI-K:
 - Contact GS1 Korea: +82-2-6954-0800 or support@gs1kr.org
 - Visit the GS1 Korea UDI-K information page (Korean): gs1kr.org/udi-k
 - MFDS UDI Portal support: udiportal.mfds.go.kr (help section)
+
+Add after the 'Getting a GS1 GTIN via GS1 Korea' section: 'Support and resources
+
+For technical questions about GS1 GTIN assignment for UDI-K:
+- Contact GS1 Korea: +82-2-6954-0800 or support@gs1kr.org
+- Visit the GS1 Korea UDI-K information page (Korean): gs1kr.org/udi-k
+- MFDS UDI Portal support: udiportal.mfds.go.kr (help section)'
+
+Getting a HIBC code via HIBCC
+​
+Become a member of HIBCC:
+visit HIBCC website
+Apply for a Company Prefix
+Assign HIBC codes to your products
+
+For technical questions about HIBC code assignment for UDI-K:
+Contact HIBCC through their official channels
+MFDS UDI Portal support: udiportal.mfds.go.kr (help section)

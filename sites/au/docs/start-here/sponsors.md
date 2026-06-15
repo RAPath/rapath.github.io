@@ -89,6 +89,24 @@ If a health professional imports a medical device directly from an overseas supp
 
 ---
 
+
+Complete the Written Agreement section with:
+
+Written Agreement with the Manufacturer
+
+Sponsors must have a written agreement with the manufacturer that sets out how regulatory information will be exchanged. The agreement must ensure the sponsor can obtain the following from the manufacturer when requested by the TGA, within 20 working days:
+
+Evidence of conformity with the Essential Principles
+Technical documentation and design files
+Quality management system records
+Adverse event data and investigations
+Post-market surveillance data
+Notification of any changes to the device or manufacturing process
+
+The agreement must also establish clear communication channels for adverse events, TGA requests, and field safety corrective actions. The TGA does not prescribe the format but requires that these minimum elements are addressed.
+
+👉 Regulatory Affairs Professional Guidance
+
 ## Official Sources
 
 - [Steps to supply for sponsors — TGA](https://www.tga.gov.au/products/medical-devices/application-and-market-authorisation/supply-medical-device/steps-supply-device-sponsors)

@@ -4,7 +4,9 @@ description: "Requirements for Instructions for Use (IFU) and package inserts in
 sidebar_position: 3
 ---
 
-## Required IFU content All IFU and package insert materials must be in Korean.
+## Required IFU Content
+
+All IFU and package insert materials must be in Korean. The following information is mandatory:
 
 - Product name and description
 - Intended use and indications
@@ -27,3 +29,5 @@ sidebar_position: 3
 
 ## Related pages
 - [Labelling requirements](./labelling-requirements) · [Electronic IFU](./electronic-ifu)
+
+Add: 'While IFU must be in Korean, MFDS may permit supplementary foreign language versions (such as English) to accompany the Korean IFU for international users or healthcare professionals, provided the Korean version remains the primary instructional document.'

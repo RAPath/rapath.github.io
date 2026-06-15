@@ -40,3 +40,5 @@ The DoC must be updated:
 - MDS-REQ 1 Annex 14 — Declaration of Conformity template
 - [Technical File Overview](./technical-file-overview)
 - [MDMA Overview](../mdma-registration/mdma-overview)
+
+Declaration of Conformity language: The DoC may be submitted in English or Arabic. If submitted in English, the SFDA may require an official Arabic translation for final regulatory records. The signatory's name, title, and company must be clearly legible, and the signature must be original or certified. Electronic signatures may be accepted if compliant with Saudi Arabia's digital signature regulations.

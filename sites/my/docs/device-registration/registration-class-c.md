@@ -71,3 +71,5 @@ Full access to the equivalent device's technical documentation is typically requ
 :::
 
 Obtain the current list of MDA-recognised Conformity Assessment Bodies from the MDA website (www.mda.gov.my). Provide your CAB with a full technical summary and design documentation at the initial briefing so they can estimate their review timeline. For complex Class C devices, allocate 4–6 months for CAB review. Many CABs will provide a preliminary feedback meeting before formal assessment to help you address potential gaps.
+
+Expand 'Engage CAB Early' section to include: 'Obtain the current list of MDA-recognised Conformity Assessment Bodies from the MDA website (www.mda.gov.my). Provide your CAB with a full technical summary and design documentation at the initial briefing so they can estimate their review timeline. For complex Class C devices, allocate 4–6 months for CAB review. Many CABs will provide a preliminary feedback meeting before formal assessment to help you address potential gaps.'

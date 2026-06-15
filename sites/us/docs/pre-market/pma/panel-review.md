@@ -31,9 +31,9 @@ Is the device effective for its intended use?
 Do the benefits outweigh the risks?
 Are there recommended conditions or labelling modifications?
 
-## Panel recommendations are advisory, not binding
+## Panel Recommendations Are Advisory, Not Binding
 
-FDA is not bound by the panel's recommendation, though it typically follows it. FDA must explain in writing if it diverges from a panel recommendation.
+FDA is not bound by the panel's recommendation, though it typically follows it. FDA must provide a written explanation in the approval or denial letter if it diverges from a panel recommendation.
 
 ## Official resources
 - [FDA — Medical Device Advisory Committees](https://www.fda.gov/advisory-committees/committees-and-meeting-materials/medical-devices-advisory-committee)

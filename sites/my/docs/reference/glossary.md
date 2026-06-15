@@ -104,3 +104,7 @@ The compilation of documents demonstrating that a medical device meets the Essen
 
 **UDI (Unique Device Identification)**  
 A system for unique identification of medical devices through their distribution and use. Malaysia is monitoring IMDRF UDI guidance for future implementation.
+
+MyMDA
+
+The MDA's online portal (mymda.mda.gov.my) for regulatory submissions, including establishment licensing, device registration, post-market reporting (adverse events, FSCA, MPR), change notifications (variations), and tracking of application status. All regulatory communication with MDA is conducted through MyMDA.

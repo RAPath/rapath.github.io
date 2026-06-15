@@ -32,3 +32,5 @@ Before cancellation, ensure all post-market obligations (adverse event reporting
 ## Official sources
 
 - [HSA: Renew or cancel a dealer's licence](https://www.hsa.gov.sg/medical-devices/dealers-licence/renew)
+
+Change 'hsa.gov.sg/medical-devices/dealers-licence/renew' to 'hsa.gov.sg/medical-devices/dealers-licence/renew-or-cancel' in the 'Cancelling a dealer's licence' section.

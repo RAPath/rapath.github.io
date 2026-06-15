@@ -76,7 +76,11 @@ Near-patient testing IVDs used outside of central laboratories (e.g. emergency d
 - Training requirements documented
 
 :::note Rapid Diagnostic Tests (RDTs)
-Rapid antigen tests and lateral flow assays for infectious diseases frequently fall into Annex II List B or A. Ensure clinical performance data is generated on Malaysian or regionally-relevant clinical samples where possible.
+Rapid antigen tests and lateral flow assays for infectious diseases frequently fall into Annex II List B or A, depending on the pathogen and clinical context. Ensure clinical performance data is generated on Malaysian or regionally-relevant clinical samples where possible, as sensitivity and specificity can vary significantly by population and specimen quality. For pathogenic agents endemic in Malaysia (e.g., dengue, tuberculosis), performance data from Malaysian clinical sites is strongly preferred.
 :::
 
-Clinical performance studies should be designed with adequate statistical power (typically 80–90%) to demonstrate acceptable diagnostic sensitivity and specificity. For blood screening assays (Annex II List A), minimum sample sizes are typically several thousand samples. For self-testing IVDs, ensure the study population includes a representative sample of the intended lay user population. Provide sample size justification and statistical analysis plan with your dossier.
+Clinical performance studies should be designed with adequate statistical power (typically 80–90%) to demonstrate acceptable diagnostic sensitivity and specificity. For blood screening assays (Annex II List A / Class D), minimum sample sizes are typically in the thousands (exact numbers vary by assay type). For Annex II List B IVDs, smaller but still statistically robust sample sizes are acceptable. For self-testing IVDs, ensure the study population includes a representative sample of the intended lay user population. Provide sample size justification and statistical analysis plan with your dossier.
+
+Add a new subsection under 'Clinical Performance Studies' titled 'Statistical Requirements': 'Clinical performance studies should be designed with adequate statistical power (typically 80–90%) to demonstrate acceptable diagnostic sensitivity and specificity. For blood screening assays (Annex II List A), minimum sample sizes are typically several thousand samples. For self-testing IVDs, ensure the study population includes a representative sample of the intended lay user population. Provide sample size justification and statistical analysis plan with your dossier.'
+
+For Class C and D IVDs, a MDA-recognised Conformity Assessment Body (CAB) must review the technical documentation before submission to MDA, similar to non-IVD Class C and D requirements.

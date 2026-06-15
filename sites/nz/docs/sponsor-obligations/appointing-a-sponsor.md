@@ -59,6 +59,8 @@ Industry associations such as MTAA — Medical Technology Association of Austral
 
 ---
 
-Plan for Sponsor changes: Include clear exit provisions and a WAND transfer process in your Sponsor agreement from day one. If the Sponsor relationship ends without an agreed handover, you must appoint a replacement Sponsor and notify Medsafe of the change within 10 days. Devices cannot legally be supplied if they lack an active Sponsor.
+Plan for Sponsor changes from day one: Include clear exit provisions and a WAND transfer process in your Sponsor agreement. This should specify: (a) notice period before the relationship ends (typically 30–90 days); (b) the outgoing Sponsor's obligation to transfer technical documentation; (c) the manufacturer's obligation to identify and appoint a replacement Sponsor before the current relationship ends. If the Sponsor relationship ends without an agreed handover, you must appoint a replacement Sponsor and notify Medsafe of the change within 10 days. Devices cannot legally be supplied if they lack an active Sponsor.
 
 Insurance — Sponsors should maintain professional indemnity insurance (also called product liability insurance) covering their role as Sponsor. Typical coverage is NZD 5–20 million depending on device risk class and annual turnover, though this varies by insurer and risk profile. The Sponsor agreement should specify minimum coverage limits and that the manufacturer may require proof of current insurance.
+
+After 'There is no official Medsafe directory of Sponsors or regulatory affairs service providers.' add: 'While industry associations may be able to refer potential Sponsors, they do not maintain a formal registry. Membership alone does not qualify an entity as a Sponsor — you must still verify NZ legal presence and regulatory capacity independently.'

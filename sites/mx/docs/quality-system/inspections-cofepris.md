@@ -73,3 +73,5 @@ If COFEPRIS determines serious non-compliance, it may:
 ## Types of inspection
 
 "Routine inspections of registered manufacturing facilities are typically scheduled once every 2–3 years, though high-risk Class III devices or facilities with prior non-conformities may be inspected more frequently. COFEPRIS publishes an annual inspection schedule in November of the prior year. Importers and distributors may be inspected annually or on a risk-based schedule."
+
+Routine inspections of registered manufacturing facilities are typically scheduled once every 2–3 years, though high-risk Class III devices or facilities with prior non-conformities may be inspected more frequently. COFEPRIS publishes an annual inspection schedule in November of the prior year. Importers and distributors may be inspected annually or on a risk-based schedule.

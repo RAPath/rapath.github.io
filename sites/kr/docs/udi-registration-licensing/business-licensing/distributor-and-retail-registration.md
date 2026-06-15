@@ -4,7 +4,7 @@ description: "Registration requirements for medical device distributors and reta
 sidebar_position: 3
 ---
 
-Entities distributing medical devices in Korea must register with MFDS before commencing distribution.
+Entities distributing medical devices in Korea must register with MFDS before commencing distribution. Registration is mandatory even if the distributor is also the product's approval holder (품목허가/신고 holder).
 
 ## Who must register?
 

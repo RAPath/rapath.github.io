@@ -115,3 +115,7 @@ The technical file must show a live feedback loop between the device's post-mark
 | EU MDR 2017/745, Annex XIV | EU clinical evaluation requirements (comparative reference) |
 
 PMCF report → CER update; incorporated into periodic CER revisions. Adverse event reports and complaints → PMS summary → assessed for safety signals or unexpected patterns; used to trigger CER updates if necessary. Complaint handling records → reviewed for trends indicating potential device performance issues; documented in technical file. Changes to device design or manufacturing → risk assessment performed; clinical implications assessed and documented. The technical file is not static — it must be updated to reflect the most current clinical and safety evidence. MHRA expects the technical file to be reviewed and updated on a schedule proportionate to the device's risk class and clinical complexity. For Class III devices, at minimum an annual review is expected; for Class IIa and IIb devices, review is triggered by significant new clinical data or safety signals.
+
+MHRA entry in EUDAMED (emerging — currently in development)
+
+The technical file must remain a living document, regularly updated as new clinical evidence emerges. This is particularly important for Class III devices where post-market clinical follow-up (PMCF) is mandatory.

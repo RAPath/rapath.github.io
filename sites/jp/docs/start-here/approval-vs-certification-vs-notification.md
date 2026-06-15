@@ -6,7 +6,7 @@ sidebar_position: 8
 # Approval vs Certification vs Notification
 
 :::note JP-unique
-Japan's three-pathway system — Shonin (承認), Ninsho (認証), and Todokede (届出) — maps loosely to device risk class but has its own logic that differs from all other major markets. The key differentiator between Shonin and Ninsho is not just class, but whether an applicable MHLW-recognised standard exists for the device risk type and whether the device can be shown to conform to that standard.
+Japan's three-pathway system — Shonin (承認), Ninsho (認証), and Todokede (届出) — maps loosely to device risk class but has its own logic that differs from all other major markets. The key differentiator between Shonin and Ninsho is not just risk class, but whether an MHLW-recognised standard exists for the device category and whether the device can be demonstrated to conform to that standard.
 :::
 
 ## Quick reference
@@ -53,6 +53,18 @@ Post-market obligations for Class I devices are lighter than for Class II–IV, 
    - If Class II and no standard, or Class III/IV → Shonin
 3. **Confirm with PMDA if uncertain** — a pre-submission consultation can confirm the pathway before significant resource is committed
 
-Borderline situations (e.g. a Class II device where an RCB determines it does not conform to the available standard) require case-by-case evaluation.
+Borderline situations (such as a Class II device where an RCB determines it does not conform to the available recognised standard) require case-by-case evaluation with PMDA.
 
 If an RCB determines during review that the device does not conform to the applicable recognised standard, the application will be rejected and the MAH must pursue Shonin (full approval) instead. Similarly, if post-market evidence emerges that the device no longer conforms to its standard, the MAH must transition to Shonin or withdraw the device.
+
+Add to the Certification — Ninsho section: 'If an RCB determines during review that the device does not conform to the applicable recognised standard, the application will be rejected and the MAH must pursue Shonin (full approval) instead. Similarly, if post-market evidence emerges that the device no longer conforms to its standard, the MAH must transition to Shonin or withdraw the device.'
+
+Add a new subsection after the 'How to determine which pathway applies' section:
+
+**Expedited review pathways**
+
+Two expedited review mechanisms can shorten the Shonin timeline:
+
+**Priority Review (Yusen Shinsa)** — Available for devices addressing significant unmet medical needs. PMDA may reduce the standard review timeline from 12–18 months to 6–9 months. Request must be made at time of application submission.
+
+**SAKIGAKE Designation** — Available for innovative devices that represent a significant advance in diagnosis, treatment, or prevention. SAKIGAKE designation enables early PMDA consultation, expedited review, and concurrent review of manufacturing and efficacy data. Timeline reduction depends on device complexity but can shorten review to 6–12 months.

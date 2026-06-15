@@ -60,6 +60,6 @@ If your organisation receives an inspection notice, violation decision, or enfor
 3. Respond formally within the timeframe specified in the enforcement notice
 4. If disputing a violation decision, use the formal administrative complaint and appeal process
 
-:::tip Prevention is far less costly than enforcement
-Investing in robust compliance systems — QMS, PMS, FSCA procedures, labelling review — is substantially less costly than managing enforcement actions. Most DAV actions against foreign manufacturers are avoidable with proper regulatory planning.
+:::tip Prevention is substantially less costly than enforcement
+Investing in robust compliance systems — quality management system documentation, post-market surveillance procedures, FSCA procedures, labelling compliance review — is far less costly than managing enforcement actions, including fines, product recalls, and reputational damage. The vast majority of DAV enforcement actions against foreign manufacturers are avoidable through proper regulatory planning, timely submission of required documentation, and proactive engagement with DAV on compliance questions.
 :::

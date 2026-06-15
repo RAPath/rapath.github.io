@@ -78,3 +78,19 @@ Spanish text is not relegated to smaller font or less prominent placement than t
 All critical safety information (warnings, contraindications, single-use designation) appears equally in both languages.
 Bilingual labels should be submitted with the registration dossier for COFEPRIS approval if this is the first time using a bilingual format.
 Maintain the certified translation document in your regulatory file — COFEPRIS may request it during inspections or at renewal.
+
+Add a new subsection after 'Language requirement':
+
+Certified translation requirements
+​
+Official certified Spanish translations must:
+
+Be prepared by a professional translator certified by the Mexican government (traductor certificado) or recognized equivalent (EU or US notarized translations are generally accepted).
+Include a certification statement confirming accuracy and completeness of the Spanish version.
+Cover all text on the label and in the Instructions for Use, including warnings, storage conditions, and contraindications.
+For bilingual labels (Spanish + origin language), ensure:
+
+Spanish text is not relegated to smaller font or less prominent placement than the origin language.
+All critical safety information (warnings, contraindications, single-use designation) appears equally in both languages.
+Bilingual labels should be submitted with the registration dossier for COFEPRIS approval if this is the first time using a bilingual format.
+Maintain the certified translation document in your regulatory file — COFEPRIS may request it during inspections or at renewal.

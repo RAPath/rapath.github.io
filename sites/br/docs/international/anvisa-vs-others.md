@@ -40,3 +40,5 @@ Verify all information against official [ANVISA](https://www.gov.br/anvisa) sour
 :::
 
 Brazil uses three pathways depending on device risk class: Notificação (Class I low-risk devices), Cadastro (Class I devices and some exempt devices), and Registro (Classes II, III, and IV). Each requires progressively more extensive documentation.
+
+For FDA: 510(k) clearances and PMAs remain valid indefinitely unless the manufacturer withdraws them or FDA takes regulatory action. Devices must continue to comply with applicable regulations. For TGA: ARTG registrations remain valid indefinitely unless voluntarily withdrawn or cancelled by the sponsor. The lack of a fixed expiry date contrasts with ANVISA's 10-year renewal requirement.

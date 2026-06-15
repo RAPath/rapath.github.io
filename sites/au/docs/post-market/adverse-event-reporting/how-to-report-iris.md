@@ -79,4 +79,4 @@ For urgent adverse events (imminent public health threat — 2-day reporting tim
 
 Important Note on ASDER vs. IRIS for Sponsors
 
-ASDER (Adverse Signal Detection and Event Reporting) is the new mandatory reporting system for healthcare facilities. Sponsors continue to report to IRIS and the TGA Business Services portal. However, sponsors should be aware that healthcare facilities may report the same adverse events to ASDER, and the TGA will cross-reference reports from both systems. Sponsors do not have direct access to ASDER and do not report through it — ASDER is a healthcare facility-to-TGA reporting channel.
+ASDER (Adverse Signal Detection and Event Reporting) is the new mandatory reporting system for healthcare facilities. Sponsors continue to report to IRIS and the TGA Business Services portal. However, sponsors should be aware that healthcare facilities may report the same adverse events to ASDER, and the TGA will cross-reference reports from both systems. Sponsors do not have direct access to ASDER and do not report through ASDER.h it — ASDER is a healthcare facility-to-TGA reporting channel.

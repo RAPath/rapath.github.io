@@ -38,3 +38,7 @@ Devices **not intended for the Saudi market** but manufactured or held in KSA fo
 - [MDMA Overview](./mdma-overview)
 - [Device Classification](../device-classification/how-classification-works)
 - [Authorized Representative & MDEL](../authorized-representative/ar-overview)
+
+In vitro diagnostic devices (IVDs)
+
+IVDs (laboratory tests, rapid diagnostic tests, molecular assays) are regulated as medical devices under MDMA. IVDs are classified based on risk and intended use. Manufacturers must provide analytical and clinical validation data demonstrating the device's accuracy, sensitivity, specificity, and reproducibility. The SFDA may require additional evidence for novel or high-risk IVDs, particularly those used in screening or critical decision-making. Consultation with the SFDA is recommended early in development for complex IVDs.

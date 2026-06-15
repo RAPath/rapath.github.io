@@ -16,7 +16,7 @@ All licensed medical device manufacturers in India must maintain a quality manag
 
 ## ISO 13485 and ICMED
 
-While Schedule 5 Part II aligns with ISO 13485:2016, certification to ISO 13485 alone does not automatically satisfy CDSCO requirements. CDSCO accepts ISO 13485 certificates from accredited certification bodies as evidence of GMP compliance, particularly for import licence applications.
+While Schedule 5 Part II aligns with ISO 13485:2016, certification to ISO 13485 alone may not automatically satisfy all CDSCO regulatory requirements, particularly those specific to Indian market context and MDR 2017 provisions. CDSCO accepts ISO 13485 certificates from accredited certification bodies as evidence of GMP compliance, particularly for import licence applications.
 
 The **ICMED (India Certification for Medical Devices)** scheme is India's indigenous QMS certification program, administered through QCI (Quality Council of India), designed specifically to certify conformance with Schedule 5 requirements. ICMED certification is increasingly recognised by CDSCO and SLAs as evidence of GMP compliance.
 

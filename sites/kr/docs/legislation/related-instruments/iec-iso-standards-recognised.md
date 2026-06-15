@@ -4,7 +4,7 @@ description: "Which international IEC and ISO standards are recognised by MFDS f
 sidebar_position: 2
 ---
 
-MFDS maintains a list of recognised international standards for demonstrating compliance with safety and performance requirements.
+MFDS maintains an official list of recognised international standards (IEC, ISO, and equivalent Korean Industrial Standards) for demonstrating compliance with safety and performance requirements. The list specifies exact editions and years; using unapproved editions may result in non-compliance findings.
 
 ## Key recognised standards
 

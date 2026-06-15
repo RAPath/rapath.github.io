@@ -82,3 +82,5 @@ Government Regulation 42/2024 introduces phased mandatory Halal compliance. Clas
 
 4. Halal labeling is now on the horizon
 Government Regulation 42/2024 introduces phased Halal labeling obligations for medical devices. While full implementation timelines are still being clarified, manufacturers should begin assessing the impact on packaging, labeling, and supply chain documentation. Non-compliance at the time of NIE renewal or during market surveillance may result in sanctions.
+
+The text currently ends with '...Choosing between your distributor and a neutral lice' and should be completed. Based on context, this likely should read: 'Choosing between your distributor and a neutral licensed entity as your official NIE holder is a significant commercial and legal decision — consult tax and corporate advisors before committing.'

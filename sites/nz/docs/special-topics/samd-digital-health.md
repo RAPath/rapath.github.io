@@ -78,3 +78,5 @@ Use Medsafe's categorisation service (devices@health.govt.nz) to get an advisory
 :::
 
 The Medical Products Bill's SaMD provisions are expected to come into effect after Cabinet confirmation in 2025, though the exact implementation date has not yet been announced. Until the Bill is enacted, SaMD classification and notification follow existing Medicines Act rules. Sponsors developing SaMD intended for the NZ market should monitor Medsafe's website for announcements about the Bill's passage and any interim guidance on the transition period.
+
+Complete the final sentence: 'Until the Bill is enacted, SaMD classification and notification follow the existing Medicines Act 1981 framework and Schedule 2 classification rules. Once the Bill comes into effect, a dedicated SaMD regulatory pathway will apply — manufacturers should monitor Medsafe's guidance for implementation timelines and transitional arrangements.'

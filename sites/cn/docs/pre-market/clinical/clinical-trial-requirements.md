@@ -53,3 +53,5 @@ Content on this site is written with AI assistance and is intended as a navigati
 :::
 
 Clinical trial applications must be submitted through the NMPA online service platform (国家药监局政务服务平台). Ensure all required supporting documents are prepared in PDF format and comply with NMPA's technical file specifications.
+
+After the Class II approval statement, add: 'However, the trial protocol and ethics approval must still be documented in the registration dossier submitted to NMPA, and the trial registration number in ChiCTR is mandatory.'

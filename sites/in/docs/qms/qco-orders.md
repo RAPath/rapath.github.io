@@ -19,7 +19,7 @@ The Indian government has issued QCOs for certain medical device categories as p
 - Blood pressure monitors;
 - Specific categories of personal protective equipment.
 
-New QCOs may be issued periodically by the Ministry of Commerce and Industry. Manufacturers should regularly check the BIS website and DPIIT official notifications for any QCOs newly affecting their product categories, as non-compliance can result in manufacturing or import restrictions.
+New QCOs may be issued periodically by the Ministry of Commerce and Industry. Manufacturers should proactively monitor the BIS website and DPIIT official notifications for updates, as non-compliance with applicable QCOs can result in seizure of manufactured or imported products, suspension of manufacturing operations, and import restrictions. A transition period is typically provided when new QCOs are announced.
 
 ## BIS certification process
 

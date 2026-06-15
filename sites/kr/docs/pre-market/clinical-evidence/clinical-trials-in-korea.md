@@ -24,3 +24,5 @@ Must be labelled: **"임상시험용 의료기기 (Investigational Device)"**
 - Submit **trial completion report** to MFDS
 - Report outstanding serious adverse events
 - Retain data/records for the minimum period specified by MFDS regulations
+
+Late registration may be flagged during MFDS review or post-market inspections. Registration should be prioritized before or immediately upon enrollment of the first participant to ensure compliance with MFDS expectations and international best practices.

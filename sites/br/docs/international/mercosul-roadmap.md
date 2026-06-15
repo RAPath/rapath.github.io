@@ -46,3 +46,5 @@ Verify all information against official [ANVISA](https://www.gov.br/anvisa) sour
 :::
 
 As of 2026, no firm timeline has been announced for mutual recognition of medical device registrations across MERCOSUL countries. Manufacturers should expect to file separate registrations in each country indefinitely unless MERCOSUL announces a mutual recognition agreement.
+
+As of May 2026, discussions on mutual recognition remain in early stages. The MERCOSUL medical device working group (Grupo de Armonización Reglamentaria) has not yet published a binding mutual recognition framework. Manufacturers should monitor official MERCOSUL announcements via ANVISA's Peticionamento Eletrônico portal for any updates on bilateral or multilateral recognition agreements.

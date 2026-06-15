@@ -55,3 +55,16 @@ FDA issues **Certificates for Foreign Government (CFG)** — also known as expor
 
 Section 801(e) vs. Section 802 pathway
 The § 801(e) export pathway is used for devices meeting general export criteria (foreign specifications, not sold in US, etc.) with no FDA approval required. Section 802 provides an alternative for certain higher-risk devices and requires FDA written notification before export; some device types may require compliance with foreign registration laws. Consult FDA guidance to determine which pathway applies to your device.
+
+Add new section after 'FD&C Act § 801(e) permits': 'Section 801(e) vs. Section 802 pathway
+The § 801(e) export pathway is used for devices meeting general export criteria (foreign specifications, not sold in US, etc.) with no FDA approval required. Section 802 provides an alternative for certain higher-risk devices and requires FDA written notification before export; some device types may require compliance with foreign registration laws. Consult FDA guidance to determine which pathway applies to your device.'
+
+Add new subsection under 'Section 801(e) vs. Section 802 pathway':
+
+**Section 802 Notification Requirements:**
+For devices exported under § 802:
+- Manufacturer must provide FDA written notification prior to export (no pre-approval required)
+- Notification must include: device description, intended use, foreign country regulations the device meets, foreign manufacturer/distributor information
+- Some device types may require compliance verification with foreign country regulations before export
+- Devices exported under § 802 must be labelled to indicate export-only status
+- Keep notification documentation on file for FDA inspection

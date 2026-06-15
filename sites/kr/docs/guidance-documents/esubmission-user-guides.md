@@ -28,3 +28,5 @@ MFDS provides a technical helpdesk for the eSubmission portal. Contact details o
 - [eSubmission system](../pre-market/marketing-authorization/esubmission-system) · [KIMS database registration](../udi-registration-licensing/udi-k/kims-database-registration)
 
 ## Technical support
+
+**Account Issues**: If you cannot access your account, reset your password via the login page or contact the MFDS technical helpdesk. Only Korean business registration numbers (사업자등록번호) are currently accepted for account setup.

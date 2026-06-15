@@ -7,7 +7,7 @@ keywords: [ANVISA, Brazil, medical device]
 
 # Post-Market Clinical Follow-Up (PMCF)
 
-**Post-Market Clinical Follow-Up (PMCF)** is a proactive process of collecting clinical data on a marketed device to confirm its safety and performance over time. PMCF is required for Class IV devices and for Class III devices where clinical evidence was based on equivalence or limited clinical data.
+**Post-Market Clinical Follow-Up (PMCF)** is a proactive process of collecting clinical data on a marketed device to confirm its safety and performance over time. PMCF is required for Class IV devices and may be required for Class III devices where clinical evidence was based on equivalence, limited clinical data, or where post-market data collection is necessary to confirm safety and performance.
 
 PMCF activities may include:
 - Follow-up of patients who received the device as part of the Registro clinical investigation;

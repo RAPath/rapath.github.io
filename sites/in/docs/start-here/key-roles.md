@@ -51,3 +51,5 @@ India has a network of **CDSCO-notified testing laboratories** that conduct perf
 **State Licensing Authority (SLA)**
 
 State Licensing Authorities grant manufacturing licences to Class A and Class B device manufacturers at the state level. They also license wholesale dealers and retail sellers. Manufacturers must comply with state-level GMP inspections and maintain records as required by the SLA.
+
+The foreign manufacturer must establish a quality agreement with the IAR that ensures the IAR has access to all technical documentation, quality records, and test data necessary to support the import licence application and respond to CDSCO inspection queries.

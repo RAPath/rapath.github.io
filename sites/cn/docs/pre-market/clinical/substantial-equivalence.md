@@ -32,7 +32,7 @@ NMPA requires that the applicant either:
 - **Owns the clinical data** from the predicate device (i.e. the applicant is also the registrant of the predicate, or has a contractual right to the data), **or**
 - Relies on **published peer-reviewed literature** covering the predicate's clinical performance
 
-Unlike the FDA, NMPA does not have a system for applicants to cross-reference a competitor's registration file without data access. If data cannot be accessed, a clinical trial may be the only option.
+Unlike the FDA, NMPA does not have a system for applicants to cross-reference a competitor's publicly available registration file without direct data access. If clinical data from the predicate device cannot be obtained through ownership or contractual agreement, published peer-reviewed literature or post-market surveillance data must be relied upon; otherwise, a clinical trial may be required.
 
 ---
 

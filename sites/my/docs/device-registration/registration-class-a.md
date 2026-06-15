@@ -43,7 +43,7 @@ The notification pathway is available for:
 3. Complete the online form and upload all required documents
 4. Submit application and pay the registration fee (RM 500)
 5. MDA processes the notification within **30 working days**
-6. Upon completion, the DRN is issued electronically
+6. Upon approval, the DRN is issued electronically and registered devices are listed on MDA's approved register.
 
 ## Self-Declaration of Conformity
 
@@ -68,3 +68,5 @@ After receiving the DRN for a Class A device:
 - Renew registration before the 5-year expiry
 
 Examples of significant changes requiring a formal variation application include: changes to device design, materials, or intended use; relocation of manufacture; changes to sterile barrier system or sterilisation method (for Class A Sterile); material changes to IFU that affect safety or performance; and any change in the manufacturing quality system scope. Minor updates such as cosmetic label changes or correcting typographical errors may be submitted as administrative variations. When in doubt, contact MDA before making changes.
+
+Add a new subsection under 'Post-Registration' titled 'Significant Changes Requiring Variation Application' with text: 'Examples of significant changes requiring a formal variation application include: changes to device design, materials, or intended use; relocation of manufacture; changes to sterile barrier system or sterilisation method (for Class A Sterile); material changes to IFU that affect safety or performance; and any change in the manufacturing quality system scope. Minor updates such as cosmetic label changes or correcting typographical errors may be submitted as administrative variations. When in doubt, contact MDA before making changes.'

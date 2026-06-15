@@ -56,3 +56,5 @@ All reported corrections and removals are tracked in FDA's **Medical Device Reca
 - [21 CFR Part 806 (eCFR)](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-H/part-806)
 - [FDA — Recalls, Corrections and Removals](https://www.fda.gov/medical-devices/medical-device-recalls)
 - [FDA Medical Device Recall Database](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRES/res.cfm)
+
+Add a new section after 'Reporting requirement (§ 806.10)': 'FDA Recall Classification: FDA may assign a recall classification based on the level of health hazard and type of violation: Class I (serious adverse health consequences or death is possible), Class II (adverse health consequences are possible but not likely), or Class III (unlikely to cause adverse health consequences). While manufacturers report under Part 806 within 10 working days, FDA may issue a separate recall classification and request expanded market surveillance or consumer notification depending on the class assignment.'

@@ -79,8 +79,6 @@ Transitional provisions — major amendments often include transitional provisio
 
 ## Reading a Provision — Practical Steps
 
-This section appears incomplete. It should continue with practical steps for interpreting provisions, such as: checking for definitions, reviewing subsections and paragraphs, consulting related provisions, checking the notes for cross-references, and verifying the commencement date.
-
 1. Read the operative text — not the Note or Simplified Outline
 2. Check all defined terms — terms defined in the Act or Regulations have specific meanings that may differ from ordinary usage. Check s41BD and Part 1 of the MD Regulations for device-specific definitions
 3. Check cross-references — Notes and the provision text itself often contain cross-references to related provisions
@@ -100,6 +98,19 @@ The Act uses penalty units rather than dollar amounts for civil penalties. The v
 Not all subordinate legislation is in the form of Regulations. Legislative Instruments are made by the Minister or Secretary (not the Governor-General as for Regulations) and are also registered on legislation.gov.au. The Advertising Code, the Specified Articles Instrument, and UDI instruments are all legislative instruments. They have the same legal force as Regulations within their scope.
 
 ---
+
+Add the following practical steps section:
+
+**Reading a Provision — Practical Steps**
+
+1. Identify the section number and check the compilation date to ensure you have the current version
+2. Read the section heading and any simplified outline note first for context
+3. Read the operative text carefully — note subsections, paragraphs, and use of 'and' versus 'or'
+4. Check for defined terms (usually in italics) and look them up in the Definitions Part
+5. Review the notes below the provision for cross-references and examples
+6. If the provision refers to regulations ('as prescribed by the regulations'), check the corresponding regulation
+7. Check the endnotes for any uncommenced amendments that might affect the provision
+8. If transitional provisions apply, determine whether the old or new requirement applies to your device
 
 ## Official Sources
 

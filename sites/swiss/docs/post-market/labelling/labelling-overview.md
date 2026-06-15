@@ -25,12 +25,15 @@ All medical device labels must include at minimum:
 - STERILE designation (if applicable)
 
 ## Swiss Language Requirement
-For products placed on the Swiss consumer or professional market, labelling — including the IFU — must be provided in **German, French, and Italian**. English is not an official labelling language in Switzerland for consumer-facing materials, although professional/technical documentation may be in English where Swissmedic accepts this.
+For products placed on the Swiss consumer or professional market, labelling — including the IFU — must be provided in **German, French, and Italian**. English is not an official labelling language in Switzerland for consumer-facing materials or IFUs. Professional/technical documentation and correspondence with Swissmedic may be in English, but all user-visible labelling and instructions must be in DE, FR, and IT.
 
 **Important**: This is a Swiss-specific requirement that differs from EU MDR, which requires the language of the EU member state where the device is marketed. Manufacturers placing devices on both EU and Swiss markets must ensure Swiss language compliance is addressed in addition to EU language requirements.
 
 ## Labelling Symbols
 Device labels should use ISO 15223-1 symbols wherever applicable to reduce multilingual text requirements. Swissmedic has published a list of recognised symbols. Where symbols are used, their meaning must be explained in the IFU.
+
+
+Manufacturers may use collated labelling (separate language versions in the same package), integrated labelling (all three languages on the same label), or references to digital IFUs on the manufacturer's website, provided the label itself includes mandatory elements in DE, FR, and IT. Swissmedic does not require all three languages on a single physical surface if space constraints apply to the device; however, all mandatory label elements must be available to Swiss users in all three languages.
 
 ## Official Sources
 - [MedDO Annex I §§ 23–24 (SR 812.213)](https://www.fedlex.admin.ch/eli/cc/2021/205/en)

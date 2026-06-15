@@ -143,3 +143,5 @@ Always check the **current harmonised standards list** in the OJ before relying 
 | CEN/CENELEC | European standardisation body |
 
 Complete the final paragraph: 'A manufacturer complying with the standard has a presumption of conformity with the MDR/IVDR requirements that the standard covers. Non-compliance with a harmonised standard does not automatically mean non-compliance with the regulation, but the manufacturer must document an alternative means of meeting the applicable GSPR.'
+
+Complete the harmonised standards section with: 'A manufacturer complying with the standard has a presumption of conformity with the MDR/IVDR requirements that the standard addresses. Compliance with a harmonised standard is voluntary but recommended; manufacturers using alternative means must document how their approach achieves equivalent safety and performance. The NANDO database (European Commission) lists all harmonised standards under MDR/IVDR by product category and GSPR requirement.'

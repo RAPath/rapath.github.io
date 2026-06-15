@@ -31,3 +31,5 @@ Brazil is a founding member of MERCOSUL (Mercado Comum do Sul), comprising also 
 - [ANVISA — Relações Internacionais](https://www.gov.br/anvisa/pt-br/acessoainformacao/institucional/relacoes-internacionais)
 
 ## What harmonisation means in practice
+
+**Exporting to MERCOSUL neighbours:** A Brazilian AFE/registration does not automatically permit marketing in Argentina, Uruguay, or Paraguay. However, technical dossiers and GMP documentation prepared for ANVISA can typically be adapted for submission to ANMAT (Argentina), MSP (Uruguay), or MSPBS (Paraguay). A Free Sale Certificate (Certificado de Exportação) from ANVISA may be required by importing countries as proof of legal marketing in Brazil.

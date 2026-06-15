@@ -69,7 +69,7 @@ Some GSPR have multiple sub-sections — not all may apply. Document at the **ap
 
 - If an entire GSPR is not applicable: mark the GSPR as N/A with a brief justification
 - If only some sub-sections of a GSPR apply: document each sub-section separately
-- Avoid blanket "N/A" without justification — this is a common finding in notified body reviews
+- Avoid blanket "N/A" without justification — this is a common deficiency finding in notified body conformity assessment reviews and can delay the assessment process.
 
 ---
 

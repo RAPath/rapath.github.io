@@ -29,3 +29,7 @@ IVDs intended for use outside the clinical laboratory (POC or home use) face add
 ## Official resources
 - [FDA — In Vitro Diagnostics](https://www.fda.gov/medical-devices/products-and-medical-procedures/in-vitro-diagnostics)
 - [21 CFR Parts 862–866](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-H)
+
+**CLIA Complexity Category Impact on Submission**
+
+The proposed CLIA complexity category affects the premarket submission pathway. CLIA-waived IVDs may qualify for abbreviated 510(k) submissions, while moderate and high complexity tests typically require more comprehensive clinical performance data. Clearly identify the proposed CLIA category in your submission and provide justification with supporting analytical and clinical validation data.

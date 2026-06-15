@@ -25,7 +25,7 @@ Thai FDA accepts approvals from the following reference regulatory authorities f
 | FDA (CDRH/CBER) | United States (510(k)/PMA/De Novo) |
 | EU Notified Body | European Union (CE marking) |
 | TGA | Australia |
-| Health Verify 'Health Canada' reference — the content should specify whether this refers to Canada's Medical Devices Directorate (MDD) or Biologic and Radiopharmaceutical Drugs Directorate (BRDD) approval, or if it is actually recognized by Thai FDA. If unsure, flag with MDCD. | Canada |
+| Health Verify 'Verify 'Health Canada' reference — the content should specify whether this refers to Health Canada's Medical Devices Directorate (MDD) or Biologic and Radiopharmaceutical Drugs Directorate (BRDD) approval, or if it is actually recognized by Thai FDA. If unsure, flag with MDCD.' reference — the content should specify whether this refers to Canada's Medical Devices Directorate (MDD) or Biologic and Radiopharmaceutical Drugs Directorate (BRDD) approval, or if it is actually recognized by Thai FDA. If unsure, flag with MDCD. | Canada |
 | PMDA | Japan |
 | MHRA | United Kingdom |
 | HSA | Singapore |
@@ -72,3 +72,10 @@ For the Concise route, Thai FDA accepts the **reference NRA's clinical assessmen
 ## Recommendation
 
 If your device holds FDA clearance/approval, CE marking, TGA registration, or approval from any accepted reference authority, **the Concise route is the recommended first-choice approach** for Thailand. The documentation reduction and time saving are significant, and the device profile already meets international standards.
+
+Correct the reference NRA entry to read clearly:
+
+Authority | Jurisdiction
+Health Canada (Medical Devices Directorate / Biologic and Radiopharmaceutical Drugs Directorate) | Canada
+
+Alternatively, if Health Canada is NOT recognized by Thai FDA, remove this entry and add a note: 'Confirm the current list of accepted reference authorities with the MDCD before planning your submission, as the list may be updated.'

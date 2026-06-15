@@ -57,3 +57,5 @@ This site is a regulatory reference resource, not legal or regulatory affairs ad
 ---
 
 *Part of the [RAPath](https://rapath.github.io/) suite — plain-English medical device regulatory reference for AU · EU · HC · SG · UK · US · MX.*
+
+After the September 2025 bullet point, add: 'This expansion simplifies market entry for devices already approved by recognized international authorities, reducing local dossier requirements and review timelines.'

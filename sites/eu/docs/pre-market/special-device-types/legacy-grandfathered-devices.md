@@ -13,7 +13,7 @@ tags: [mdr, ivdr, special-device-types, transitional, legacy]
 :::
 
 :::warning Disclaimer
-This site provides general information only and does not constitute legal or regulatory advice. Transitional timelines have been amended multiple times — always verify current deadlines in the Official Journal of the EU.
+This site provides general information only and does not constitute legal or regulatory advice. Transitional timelines have been amended multiple times (most recently by Regulation (EU) 2023/607 for MDR and Regulation (EU) 2024/1860 for IVDR) — always verify current deadlines in the Official Journal of the EU before relying on any specific date.
 :::
 
 ---
@@ -22,7 +22,7 @@ This site provides general information only and does not constitute legal or reg
 
 A **legacy device** is a medical device or IVD that was lawfully CE marked under the old directives (MDD, AIMDD, IVDD) before the application of MDR/IVDR, and which continues to be sold under the transitional provisions while the manufacturer works toward MDR/IVDR certification.
 
-The transition from directives to regulations created a practical challenge: manufacturers needed time to generate the additional evidence and documentation required by MDR/IVDR, while keeping established products on the market. Transitional provisions allow continued sale of MDD/IVDD-certified devices under defined conditions and for defined periods.
+The transition from directives to regulations created a practical challenge: manufacturers needed time to generate the additional evidence and documentation required by MDR/IVDR, while keeping established products on the market. Transitional provisions ("legacy provisions") allow continued sale of MDD/AIMDD/IVDD-certified devices under defined conditions and for defined periods, provided the manufacturer is actively working toward MDR/IVDR compliance.
 
 ---
 

@@ -38,7 +38,7 @@ The JMDN code directly determines:
 
 ## Searching the JMDN database
 
-For English-speaking users without Japanese proficiency: Engage a Japan regulatory consultant or translator to identify the Japanese device type name, then search the MHLW JMDN database
+For English-speaking users without Japanese proficiency: Engage a Japan regulatory consultant or translator to identify the correct Japanese device type name and confirm the appropriate risk class, then search the MHLW JMDN database to verify the assigned code and any linked recognised standards or special requirements.
 
 ## JMDN and GMDN — comparison
 
@@ -57,10 +57,16 @@ For genuinely novel device types with no existing JMDN code, the MAH must reques
 1. MAH submits a written request to MHLW with device description, intended use, and proposed classification
 2. MHLW (with PMDA input for higher-risk devices) evaluates the request and assigns a class
 3. MHLW creates the new JMDN code and publishes it
-4. Timeline: typically 6–18 months depending on novelty and MHLW workload
+4. Timeline: typically 6–18 months depending on novelty, complexity of safety assessment, and MHLW workload. Begin this process early in your product development cycle, ideally 12–24 months before planned market entry.
 
 New JMDN code creation is a critical path item for novel devices — begin early.
 
 Example: a Class III cardiovascular stent might be coded as 2670024 (where the first digit or digit group indicates the major category, and subsequent digits further subdivide the device type). The exact hierarchical meaning of each digit position is not publicly documented; only the final assigned code matters for regulatory purposes.
 
 Reclassification of existing devices: If a device differs substantially from the existing JMDN code definition but does not qualify as entirely new, an MAH may request reclassification or request assignment to a different existing code. Submit a request to MHLW with supporting evidence of material differences in intended use, design, or risk profile. Timeline is typically 3–12 months.
+
+Add after 'JMDN codes are typically 7-digit numeric codes': 'Example: a Class III cardiovascular stent might be coded as 2670024 (where the first digit or digit group indicates the major category, and subsequent digits further subdivide the device type). The exact hierarchical meaning of each digit position is not publicly documented; only the final assigned code matters for regulatory purposes.'
+
+Add a new subsection after 'Creating new JMDN codes': 'Reclassification of existing devices: If a device differs substantially from the existing JMDN code definition but does not qualify as entirely new, an MAH may request reclassification or request assignment to a different existing code. Submit a request to MHLW with supporting evidence of material differences in intended use, design, or risk profile. Timeline is typically 3–12 months.'
+
+evidence of material differences in intended use, risk profile, or technological features. MHLW will review the request and issue a decision, typically within 3–6 months. This process is less formal than creating a new JMDN code but still requires advance planning to avoid delays in application submission.

@@ -42,7 +42,7 @@ Sponsors are responsible for ensuring patient implant cards are provided and tha
 Certain implantable device classes are subject to mandatory **annual reporting** obligations:
 - Class III devices — 3 years of annual reporting after ARTG inclusion
 - Class AIMD (now Class III) — same
-- Class IIb implantable devices — check current TGA requirements
+- Class IIb implantable devices — not currently subject to mandatory annual reporting under the current MD Regulations
 
 Annual reports must include post-market surveillance data and confirm continued compliance with conditions of inclusion.
 
@@ -55,6 +55,9 @@ UDI requirements apply progressively to medical devices, with implantable device
 👉 [UDI requirements — TGA](https://www.tga.gov.au/products/medical-devices/labelling-and-advertising/unique-device-identification-udi-hub)
 
 ---
+
+
+Post-market annual reporting requirements have been updated under the current MD Regulations. Class III implantable devices are subject to annual reporting for 3 years following ARTG inclusion. Class IIb implantable devices are not currently subject to mandatory annual reporting, though sponsors should verify current TGA requirements as these may be subject to change. Manufacturers should confirm their obligations based on their device classification and the date of ARTG inclusion.
 
 ## Official Sources
 

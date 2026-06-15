@@ -41,8 +41,7 @@ If a sterilisation or critical process is outsourced to another facility: scope 
 
 Scope gaps are a frequent deficiency. Verify exact scope language matches your manufacturing footprint before submission.
 
-:::warning Scope Mismatch
-MDA reviewers check that the ISO 13485 certificate scope matches the registered device type and manufacturing activities. A mismatch is a common deficiency. Verify scope before submission.
+:::warning Remove this duplicate section as it repeats information already provided in the 'Scope of Certification' section immediately above it.
 :::
 
 ## MDA-Recognised Certification Bodies
@@ -83,3 +82,7 @@ Malaysian manufacturers are subject to both ISO 13485 and MDA's GMP requirements
 Holders of a current Medical Device Single Audit Programme (MDSAP) certificate may be able to use this as supporting QMS evidence, potentially reducing the need for separate Malaysian QMS assessments. See [MDSAP Recognition](./mdsap-recognition).
 
 Note: MDA's acceptance of MDSAP in lieu of ISO 13485 is discretionary and depends on audit scope and outcome. For Class B devices, pre-submission confirmation with MDA is recommended. See MDSAP Recognition for full details.
+
+Add the following note to the 'MDSAP — Alternative QMS Evidence' section: 'Note: MDA's acceptance of MDSAP in lieu of ISO 13485 is discretionary and depends on audit scope and outcome. For Class B devices, pre-submission confirmation with MDA is recommended. See MDSAP Recognition for full details.'
+
+The page ends abruptly at 'MDA-Rec'. The final section should read: 'MDA-Recognised Certification Bodies' followed by the table and content. Ensure the complete page ending is included, with a full table of contents listing: ISO 13485 as the Standard, What ISO 13485 Covers, Scope of Certification, MDA-Recognised Certification Bodies, Certificate Validity, Malaysian Manufacturers — GMP Requirements, and MDSAP — Alternative QMS Evidence.

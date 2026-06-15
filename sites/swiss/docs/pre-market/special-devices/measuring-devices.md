@@ -12,6 +12,9 @@ The NB assesses conformity of Class Im devices with the provisions of MedDO Anne
 
 METAS (Federal Institute of Metrology) involvement is typically required only for devices subject to legal metrology regulations (e.g., devices used for commercial or safety-critical measurements subject to Swiss metrology law). Most medical Class Im devices do not require direct METAS involvement; the NB performs metrological conformity assessment independently. Clarify with your NB whether METAS consultation is needed for your specific device type.
 
+
+Replace the paragraph 'METAS (Federal Institute of Metrology) involvement...' with: 'METAS involvement is required only for Class Im devices subject to Swiss legal metrology regulations (e.g., devices used in commercial transactions or for official control purposes under the Weights and Measures Ordinance). Most clinical Class Im devices (e.g., patient monitors, diagnostic thermometers) fall outside legal metrology scope and require only NB metrological conformity assessment. Contact METAS directly if uncertain whether your device requires legal metrology approval.'
+
 ## Official Sources
 - [MedDO Annex IV — Class Im provisions (SR 812.213)](https://www.fedlex.admin.ch/eli/cc/2021/205/en)
 - [METAS](https://www.metas.ch)

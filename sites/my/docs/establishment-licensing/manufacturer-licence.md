@@ -80,3 +80,5 @@ If a manufacturer licence lapses, all associated device registrations are at ris
 :::
 
 Add this paragraph to the 'Annual Renewal' section after the existing renewal requirements:
+
+After the existing renewal requirements in 'Annual Renewal', add: 'Manufacturers should submit renewal applications at least 60 days before expiry to allow sufficient processing time. If renewal is not completed before expiry, the manufacturer establishment licence will lapse and device registrations may be suspended. The manufacturer must cease all manufacturing and supply activities until the licence is renewed and restored.'

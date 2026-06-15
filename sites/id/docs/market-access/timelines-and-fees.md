@@ -18,7 +18,7 @@ Registration timelines in Indonesia vary significantly by risk class, dossier co
 | **D** | 10–15 working days | 6–10+ months | 6–12+ months |
 
 :::caution
-These timelines assume a **complete and well-prepared dossier**. Incomplete submissions, document inconsistencies, or slow responses to clarification queries can add months to the process. At least one round of clarification queries from Kemenkes evaluators should be expected.
+These timelines assume a **complete and well-prepared dossier**. Incomplete submissions, document inconsistencies (especially name/address mismatches), or slow responses to clarification queries can add months to the process. For Class B and higher devices, at least one round of clarification queries from Kemenkes evaluators should be expected; multiple rounds are common for Class C/D submissions.
 
 Additionally, the Regalkes portal has periodic maintenance shutdowns — plan submissions to avoid these windows.
 :::
@@ -73,3 +73,5 @@ For Class C/D devices, add 3–6+ months to the technical review phase, and pote
 PNBP Payment Timeline
 
 Once the billing notice is generated following administrative review, payment must be made within the timeframe specified by Kemenkes (typically 5–10 working days). If payment is not received within this period, the application may be rejected or held indefinitely. Late payment can result in application withdrawal and the need to resubmit. Coordinate payment processing internally to ensure timely settlement.
+
+Add under 'PNBP Government Fees': 'For current fee schedules, consult the latest PNBP regulation (typically issued as a Permenkes or government decree) or contact Kemenkes directly via Regalkes. Fee amounts are subject to government revision and vary by device class, application type (new registration, renewal, change notification), and device complexity. Your LAR can provide guidance on anticipated fees for your specific device.'

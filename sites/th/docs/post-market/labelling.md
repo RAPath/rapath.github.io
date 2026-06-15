@@ -75,4 +75,18 @@ All promotional claims must:
 
 Claims that exceed the approved indication or make unsubstantiated performance claims are prohibited.
 
-Significant labelling changes include: changes to intended purpose statements, safety warnings, contraindications, or usage instructions. Minor changes (e.g., manufacturer contact updates with no safety impact, translations to additional languages) may not require formal variation notification — confirm with MDCD if unclear.
+Labelling changes are classified as:
+
+**Significant Changes** (require variation notification):
+- Changes to intended purpose statements
+- Changes to safety warnings or contraindications
+- Changes to usage instructions with safety implications
+
+**Minor Changes** (may not require formal variation notification):
+- Manufacturer contact updates with no safety impact
+- Translations to additional languages
+- Administrative corrections
+
+Always confirm classification with MDCD if unclear, as early notification prevents potential compliance issues.
+
+Add after the 'Product Variation Notifications' table: 'Significant labelling changes include: changes to intended purpose statements, safety warnings, contraindications, or usage instructions. Minor changes (e.g., manufacturer contact updates with no safety impact, translations to additional languages) may not require formal variation notification — confirm with MDCD if unclear.'

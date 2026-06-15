@@ -7,7 +7,7 @@ sidebar_position: 1
 
 ## What MHLW notifications are
 
-MHLW notifications (通知 — tsūchi, or 告示 — kokuji) are administrative guidance documents issued by MHLW (or by PMDA as administrative notices). They explain how the PMD Act, Cabinet Orders, and Ministerial Ordinances are to be applied in practice.
+MHLW notifications (通知 — tsūchi, or 告示 — kokuji) are administrative guidance documents issued by MHLW or by PMDA (as administrative notices), explaining how the PMD Act and subsidiary regulations are applied in practice. They explain how the PMD Act, Cabinet Orders, and Ministerial Ordinances are to be applied in practice.
 
 **Legal status:** Notifications are not legislation — they cannot create obligations that go beyond the PMD Act or Ministerial Ordinances. However, PMDA reviewers and RCBs apply them in practice as binding requirements. An application that departs from MHLW notification guidance without adequate justification is unlikely to succeed.
 
@@ -56,3 +56,9 @@ PMDA administrative notices: [pmda.go.jp — administrative information](https:/
 :::
 
 Note: Specific notification numbers, dates, and issuing bureaus are not listed here because they change with periodic updates. Always verify the current version on mhlw.go.jp by searching for the topic (e.g., "認証基準" for recognised standards or "プログラム医療機器" for SaMD) rather than relying on stored notification numbers.
+
+Add a note below the table: 'Note: Specific notification numbers, dates, and issuing bureaus are not listed here because they change with periodic updates. Always verify the current version on mhlw.go.jp by searching for the topic (e.g., "認証基準" for recognised standards or "プログラム医療機器" for SaMD) rather than relying on stored notification numbers.'
+
+Add to the 'QMS and manufacturing' section: 
+Topic: Good Distribution Practice (GDP) for devices
+Key notification: MHLW notification on GDP standards for wholesalers and distributors (updated periodically) — specifies storage, handling, and traceability requirements for device distributors.

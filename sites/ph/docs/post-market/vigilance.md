@@ -16,7 +16,7 @@ Report to CDRRHR any event where a Philippines-registered device:
 - **Malfunctioned** in a way that, if recurrence occurred, could cause death or serious injury
 - Creates a **serious public health concern**
 
-Borderline cases (events that may or may not meet the threshold) should be reported — CDRRHR clearly reportability to CDRRHR the license holder should not make a unilateral determination of whether to report. will investigation advise whether a full report is required.
+Borderline cases (events that may or may not meet the threshold) should be reported — the license holder should not make a unilateral determination of whether to report. CDRRHR will advise whether a full report is required following investigation.
 
 ## Reporting via eReport System — PH-Unique
 
@@ -70,3 +70,5 @@ An FSCA is required when a marketed device presents an unacceptable risk not pre
 5. Report FSCA completion to CDRRHR with reconciliation records
 
 Preliminary reports should include initial findings and available case details even if investigation is ongoing. Final reports must include complete investigation findings, causality assessment, and corrective actions taken or planned.
+
+Add to the 'Preliminary reports' section: 'Preliminary reports should include initial findings and available case details even if investigation is ongoing. Final reports must include complete investigation findings, causality assessment, and corrective actions taken or planned.'

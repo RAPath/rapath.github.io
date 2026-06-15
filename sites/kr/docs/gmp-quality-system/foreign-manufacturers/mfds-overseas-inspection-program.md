@@ -31,3 +31,11 @@ The cost of MFDS overseas inspections (inspector travel, accommodation, fees) is
 - [Foreign GMP certificate requirement](./foreign-gmp-certificate-requirement) · [Recognised foreign GMP certificates](./recognised-foreign-gmp-certificates)
 
 ## Who pays?
+
+Add new section after 'Who pays?':
+
+**Inspection scheduling and notification**
+
+MFDS typically provides 2–4 weeks advance notice for pre-approval and renewal inspections. For-cause and surveillance inspections may be unannounced. The Korean importer (applicant) must coordinate availability and facility preparation with the foreign manufacturer.
+
+Expand 'Preparing for an MFDS overseas inspection' section to clarify: While MFDS may accept English documents for reference, any deviations from Korean language requirements must be pre-approved by MFDS before the inspection. Submit a language accommodation request in advance if full Korean translation is not feasible. All critical quality records (batch records, CAPA records, complaint files) must be available in Korean.

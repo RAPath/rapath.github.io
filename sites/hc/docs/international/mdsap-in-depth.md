@@ -21,7 +21,7 @@ A single MDSAP audit certificate satisfies all five jurisdictions' QMS audit req
 
 ## Why MDSAP matters for Canada
 
-Health Canada requires a current MDSAP audit certificate (or equivalent) as part of Device Licence applications for Class II, III, and IV devices. For Class II, III, and IV devices, an MDSAP audit certificate is required. An ISO 13485 certificate from an accredited certification body alone is no longer sufficient for Health Canada Device Licence submissions for these classes.
+Health Canada requires a current MDSAP audit certificate (or equivalent) as part of Device Licence applications for Class II, III, and IV devices. For Class II, III, and IV devices, an MDSAP audit certificate is required as part of the Device Licence application. An ISO 13485 certificate from an accredited certification body alone is no longer sufficient for Health Canada Device Licence submissions for these classes.
 
 ## MDSAP audit structure
 
@@ -29,7 +29,7 @@ The MDSAP audit covers the manufacturer's QMS against:
 - ISO 13485:2016 (the QMS standard)
 - Regulatory requirements of each participating jurisdiction
 
-MDSAP audits are conducted by accredited Auditing Organizations (AOs) — third-party certification bodies accredited by the relevant IAF-recognised accreditation body to conduct MDSAP audits.
+MDSAP audits are conducted by accredited Auditing Organizations (AOs). These are third-party certification bodies accredited by the relevant IAF-recognized accreditation body in their jurisdiction to conduct MDSAP audits.
 
 ### MDSAP audit cycle
 MDSAP audits follow a 3-year cycle:

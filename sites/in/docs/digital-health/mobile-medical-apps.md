@@ -15,7 +15,7 @@ Mobile medical applications (apps) are subject to CDSCO regulation when they are
 
 ## Classification as Medical Device
 
-Not all health apps are medical devices. An app is regulated as a medical device when it:
+Not all health apps are regulated as medical devices. CDSCO regulates a mobile app as a medical device when it meets the definition in MDR 2017 Section 3(h) and demonstrably:
 - Makes a medical claim (diagnosis, treatment, monitoring, prevention)
 - Provides medical advice or decision support
 - Processes or analyzes medical data for clinical purposes
@@ -32,3 +32,5 @@ Mobile medical apps follow the SaMD regulatory framework under MDR 2017. Classif
 - **Clinical evidence**: Literature review or clinical data supporting safety and effectiveness claims
 - **Cybersecurity assessment**: Data protection, user authentication, encryption measures
 - **ABDM compliance**: If connected to ABDM ecosystem, apps must meet interoperability standards
+
+Add a new subsection titled 'Post-Market Compliance' with the following text: 'Manufacturers must establish post-market surveillance systems to monitor app performance, user feedback, and adverse events. Serious adverse events or malfunctions must be reported to CDSCO as per MDR 2017 requirements. Regular software updates addressing security vulnerabilities or performance issues should be documented and tracked.'

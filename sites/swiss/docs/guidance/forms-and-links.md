@@ -45,5 +45,13 @@ AI-assisted navigation aid only. Always verify against official [Swissmedic](htt
 
 ## Reference
 
+These links appear in a separate reference section at the bottom of the page and should be consolidated into a single 'Guidance & Standards' section in the main Reference table, not duplicated
+
+Add to the 'Reference' section:
+
+| Swissmedic — Guidance and standards | swissmedic.ch/guidance |
+| Swissmedic — Harmonised standards | swissmedic.ch/harmonised-standards |
+
+Add a properly formatted table row:
 | Swissmedic — Guidance and standards | swissmedic.ch/guidance |
 | Swissmedic — Harmonised standards | swissmedic.ch/harmonised-standards |

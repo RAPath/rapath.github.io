@@ -37,3 +37,7 @@ Management review outputs must include decisions and actions related to improvem
 ## Management review
 
 Management review records must document decisions and actions, including responsibility assignment and target completion dates. Results of management review must be communicated to relevant personnel, particularly where changes to the QMS are decided. Evidence that top management has reviewed and approved QMS changes is expected by PMDA during inspections.
+
+after 'Management review outputs must include...':
+
+Management review records must document decisions and actions, including responsibility assignment and target completion dates. Results of management review must be communicated to relevant personnel, particularly where changes to the QMS are decided. Evidence that top management has reviewed and approved QMS changes is expected by PMDA during inspections.

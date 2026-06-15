@@ -41,3 +41,5 @@ Verify all information against official [ANVISA](https://www.gov.br/anvisa) sour
 After the first paragraph, add: "Penalties imposed following an auto de infração may include fines (multas), suspension of product registration, temporary facility closure, or other administrative sanctions. Penalty amounts are graduated based on device class, severity of violation, and company size. The specific penalty framework is defined in Lei 6.437/1977 and ANVISA implementing regulations."
 
 "If no preliminary defence is filed within 10 working days, the infraction notice becomes administratively final. Similarly, if no administrative appeal is filed within 10 working days of ANVISA's decision, the penalty decision becomes final."
+
+Add to the infraction notice process section: "If no preliminary defence is filed within 10 working days, the infraction notice becomes administratively final. Similarly, if no administrative appeal is filed within 10 working days of ANVISA's decision, the penalty decision becomes final."

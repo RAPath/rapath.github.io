@@ -11,7 +11,7 @@ Artificial intelligence (AI) and machine learning (ML) technologies are increasi
 ## Current regulatory position
 
 There is no separate AI/ML-specific pathway in Vietnam. AI/ML-based medical devices are regulated under the standard framework:
-- If the AI/ML software meets the medical device definition → it is a SaMD and is regulated accordingly
+- If the AI/ML software meets the medical device definition → it is regulated as Software as a Medical Device (SaMD) and follows the standard classification and market access pathways.
 - Classification follows the standard Type A–D risk-based approach
 - Market access requires Declaration or Marketing Authorisation depending on class
 
@@ -37,7 +37,7 @@ The intended use statement must define:
 
 ### Explainability
 
-For high-risk AI/ML devices, DAV will increasingly expect evidence that clinicians can understand and appropriately trust or distrust the AI output. Explainability approaches (e.g. saliency maps for imaging AI, confidence scores) should be documented.
+For high-risk AI/ML devices (Type C/D), DAV expects documentation of how clinicians can understand, validate, and appropriately trust or distrust the AI output. Explainability approaches vary by application and may include: saliency maps or feature importance visualisations for imaging AI; confidence or uncertainty scores; decision trees or rule-based explanations where applicable; and user interface design that makes model limitations transparent. The level of explainability required is proportionate to the device's clinical risk and the extent to which the output directly drives clinical decisions.
 
 ### Continuous learning / adaptive AI
 
@@ -63,3 +63,5 @@ For genuinely novel AI/ML applications — particularly those that drive clinica
 :::
 
 Remove the incomplete line 'Intended use b' from the end of the page, or restore the full heading if content was accidentally truncated.
+
+Remove the final line: 'Remove the incomplete line 'Intended use b' from the end of the page, or restore the full heading if content was accidentally trunc' — this is an internal editing note that should not appear in published content.

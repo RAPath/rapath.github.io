@@ -18,7 +18,7 @@ The classification of a SOPP is determined by the **highest classified component
 
 ## Who Can Assemble a SOPP
 
-A person (other than the original manufacturer of the individual components) who assembles a SOPP for supply must comply with the SOPP requirements and becomes the manufacturer of that SOPP for regulatory purposes. The assembler is responsible for compliance with all SOPP-specific obligations. This includes hospitals that assemble custom procedure kits and companies that repackage individual devices into kits.
+Any person (including hospitals and healthcare facilities) who assembles a SOPP for supply becomes the manufacturer of that SOPP for regulatory purposes and must comply with all SOPP requirements, even if the individual components were manufactured by others. The assembler is responsible for compliance with all SOPP-specific obligations. This includes hospitals that assemble custom procedure kits and companies that repackage individual devices into kits.
 
 ## Key Requirements for SOPP Assemblers
 

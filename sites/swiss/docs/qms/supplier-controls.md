@@ -6,7 +6,7 @@ keywords: [supplier controls, purchasing controls, ISO 13485, MedDO, Switzerland
 # Supplier Controls & Purchasing
 
 ## Overview
-ISO 13485 Section 7.4 requires medical device manufacturers to control the quality of purchased products and services. Under MedDO, effective supplier controls are essential because the manufacturer remains responsible for the safety and performance of the final device, regardless of what components or services are outsourced.
+ISO 13485 Section 7.4 requires medical device manufacturers to control the quality of purchased products and services. Under MedDO, effective supplier controls are essential because the manufacturer retains full responsibility and accountability for the safety and performance of the final device, regardless of what materials, components, manufacturing processes, or services are outsourced to other parties.
 
 ## Critical vs Non-Critical Suppliers
 Not all suppliers carry the same risk to device safety. ISO 13485 requires manufacturers to classify suppliers and apply controls proportionate to the risk of the purchased product or service:
@@ -40,6 +40,12 @@ ISO 13485 requires evaluation of critical suppliers on an ongoing basis. This in
 MedDO Annex I § 22 (combination devices) and the GSPR requirements generally require manufacturers to assess and manage risks arising from all components of the device, including purchased materials and components. Supply chain risk management activities should be integrated with the ISO 14971 risk management process:
 - Material or component changes from suppliers should trigger risk assessment
 - Supply disruption scenarios should be considered in business continuity planning
+
+
+Add under 'Critical vs Non-Critical Suppliers' in the 'Critical suppliers' bullet: 'For software suppliers and Software as a Medical Device (SaMD) component providers, critical controls must include: verification of software development lifecycle documentation (IEC 62304 compliance); cybersecurity risk management and vulnerability disclosure procedures; software update and patch management protocols; validation of software changes before deployment; and traceability of software versions used in manufactured devices. These requirements should be explicitly detailed in quality agreements and verified during both initial qualification and ongoing supplier audits.'
+
+
+Quality agreements with critical suppliers should specify timeframes for change notification (e.g., 30–60 days advance notice) and define the assessment process for supplier-initiated changes. Suppliers must notify manufacturers of changes to materials, manufacturing processes, facility location, or critical equipment. The manufacturer must assess whether changes affect device safety, performance, or regulatory compliance and may require revalidation, requalification, or design controls updates.
 
 ## Official Sources
 - [ISO 13485:2016 Section 7.4](https://www.iso.org/standard/59752.html)

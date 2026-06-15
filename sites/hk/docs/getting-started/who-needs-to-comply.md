@@ -30,4 +30,15 @@ Importers/distributors are incentivised to source only MDACS-listed devices (for
 
 Public hospitals must procure MDACS-listed AMDs under Stage C. Private facilities commonly impose equivalent standards.
 
-One LRP may represent multiple foreign manufacturers, subject to MDD approval. The LRP must have adequate resources and governance to manage all assigned devices and maintain separate complaint and vigilance records per manufacturer.
+**Multiple Manufacturer Representation**
+
+One LRP may represent multiple foreign manufacturers, subject to MDD approval. The LRP must have:
+
+- Adequate resources and governance to manage all assigned devices
+- Separate complaint and vigilance records per manufacturer
+- Documented procedures for distinguishing between manufacturers' devices in post-market surveillance
+- Clear contractual terms defining responsibilities for each manufacturer relationship
+
+Contact the MDD if you plan to engage an LRP representing competing devices or if your LRP represents other manufacturers in your therapeutic category.
+
+Add to the LRP section: 'One LRP may represent multiple foreign manufacturers, subject to MDD approval. The LRP must have adequate resources and governance to manage all assigned devices and maintain separate complaint and vigilance records per manufacturer.'

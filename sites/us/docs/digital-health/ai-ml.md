@@ -36,7 +36,7 @@ FDA committed to investing in tools and methods to evaluate AI/ML algorithms, in
 - Real-world performance monitoring methods
 
 ### 5. Real-world performance monitoring
-FDA identified the need for frameworks to enable ongoing monitoring of AI/ML SaMD performance in real-world use — distinct from the pre-deployment testing framework.
+FDA identified the need for frameworks to enable ongoing monitoring of AI/ML SaMD performance in real-world use — distinct from the pre-deployment testing framework. Real-world performance monitoring (also called postmarket surveillance or real-world evidence generation) is critical because algorithm performance may degrade over time due to data drift, population shifts, or environmental changes not captured during premarket clinical testing.
 
 ---
 
@@ -55,7 +55,7 @@ FDA identified the need for frameworks to enable ongoing monitoring of AI/ML SaM
 
 ## FDA's position on AI/ML in devices
 
-FDA has cleared and approved numerous AI/ML-based devices — primarily in radiology, cardiology, and ophthalmology. As of 2026, FDA has cleared or approved over 700 AI/ML-enabled devices. The vast majority have been cleared via 510(k).
+FDA has cleared and approved numerous AI/ML-based devices — primarily in radiology, cardiology, and ophthalmology. As of early 2024, FDA has cleared or approved approximately 500+ AI/ML-enabled medical devices, with the number continuing to grow. The vast majority have been cleared via 510(k).
 
 ---
 
@@ -63,3 +63,18 @@ FDA has cleared and approved numerous AI/ML-based devices — primarily in radio
 - [FDA — AI/ML Action Plan (2021)](https://www.fda.gov/media/145022/download)
 - [FDA — AI/ML-Enabled Medical Devices](https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-and-machine-learning-aiml-enabled-medical-devices)
 - [FDA — Approved/Cleared AI/ML Devices List](https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-and-machine-learning-aiml-enabled-medical-devices)
+
+Update the sentence to read: 'As of 2026, FDA has cleared or approved over 700 AI/ML-enabled devices' to align with the stated reference year.
+
+Real-world performance monitoring guidance
+🔄 In development — FDA is developing guidance on postmarket surveillance and real-world performance monitoring frameworks for AI/ML SaMD. Expected publication timeline is under review.
+
+GMLP detailed guidance
+🔄 In development — FDA continues to develop more detailed implementation guidance for manufacturers on Good Machine Learning Practice. Current guidance consists of 10 Guiding Principles; additional technical guidance documents are in preparation.
+
+Additional guidance documents
+
+In addition to the five action areas, FDA has published supplementary guidance addressing specific AI/ML scenarios:
+
+- Multi-Predictor AI/ML SaMD Guidance (2023) — addresses ensemble models and composite AI systems that combine multiple algorithms or external AI tools
+- Updates to PCCP Guidance on validation (2024) — clarifies validation approaches for models trained on synthetic data and federated learning approaches

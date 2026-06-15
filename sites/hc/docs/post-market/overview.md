@@ -19,7 +19,7 @@ Obtaining a Device Licence or MDEL is the beginning of your regulatory obligatio
 | Labelling compliance | Manufacturers | [Labelling Requirements](/docs/post-market/labelling-advertising/labelling-requirements) |
 | MDEL maintenance | Importers, distributors | [Establishment Licence](/docs/pre-market/establishment-licence/overview) |
 | Annual fees | All licence holders | [Annual Charges](/docs/post-market/device-licence-maintenance/annual-charges) |
-| Cooperation with inspections | All regulated parties | [Inspection Program](/docs/market-surveillance/inspection-program) |
+| Cooperation with inspections and audits — manufacturers and MDEL holders must allow Health Canada inspectors access to facilities, quality records, and personnel during announced and unannounced inspections | All regulated parties | [Inspection Program](/docs/market-surveillance/inspection-program) |
 
 ## Post-market surveillance framework
 
@@ -40,3 +40,11 @@ Failure to meet post-market obligations can result in:
 - Device Licence or MDEL suspension or cancellation
 
 > **Legislative source:** Medical Devices Regulations, SOR/98-282, ss 58–65 (post-market)
+
+Device Licence amendments must be submitted to Health Canada when:
+Labelling changes are necessary (new contraindications, warnings, or instructions)
+Device design or materials change
+New clinical data emerges that affects the benefit-risk profile
+Post-market surveillance identifies previously unknown risks or limitations
+The intended use, patient population, or claim scope expands
+Details on the amendment process are available in the Amending a Device Licence section.

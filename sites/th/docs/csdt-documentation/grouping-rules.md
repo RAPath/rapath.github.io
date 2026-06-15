@@ -109,3 +109,5 @@ Even in a grouped application, each device variant must be adequately described 
 If a new variant is added to an existing approved group, submit a **variation notification** to Thai FDA. The new variant must meet the same grouping eligibility criteria as the original group.
 
 Ensure the final paragraph is complete. The sentence should read: 'Even in a grouped application, each device variant must be adequately described and its characteristics documented. The CSDT must cover the full range of variants with clear identification of which specifications apply to which models.'
+
+Complete the final sentence: "Grouping reduces but doesn't eliminate documentation. Even in a grouped application, each device variant must be adequately described and its characteristics documented. The CSDT must cover the full range of variants and provide sufficient detail for Thai FDA reviewers to assess each model's safety and performance independently."

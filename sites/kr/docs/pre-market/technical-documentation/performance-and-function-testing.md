@@ -18,3 +18,5 @@ Test reports from **MFDS-recognised testing laboratories** required for standard
 
 Clinical performance testing
 — human clinical data, comparative effectiveness, safety outcomes in intended use population
+
+Clinical performance testing requirements vary by device grade and risk level. For Grade III/IV devices, MFDS typically requires clinical data demonstrating safety and efficacy in the intended patient population. Clinical trials must comply with Good Clinical Practice (GCP) guidelines and be conducted under an approved clinical trial protocol. For lower-risk devices, real-world evidence or published literature may be acceptable depending on device type and predicate device availability.

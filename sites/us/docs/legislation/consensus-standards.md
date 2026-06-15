@@ -72,3 +72,5 @@ When a manufacturer demonstrates conformance to an FDA-recognised standard:
 - [21 CFR Part 898](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-H/part-898)
 
 FDA Recognized Consensus Standards
+
+Change page title from 'FDA Recognised Consensus Standards' to 'FDA Recognized Consensus Standards' and update the opening paragraph: 'Under FD&C Act § 514(c) and the associated regulation 21 CFR Part 898, FDA maintains a list of recognized consensus standards — voluntary national and international standards that FDA has determined are relevant to demonstrating safety and effectiveness of devices.'

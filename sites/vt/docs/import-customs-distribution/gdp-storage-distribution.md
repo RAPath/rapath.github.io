@@ -37,7 +37,7 @@ Full traceability of each device from importer to end customer is required:
 - Batch/lot number tracking (where applicable)
 - Records of storage conditions during warehousing
 - Delivery records including recipient details
-- Records must be retained for a minimum period specified in Decree 98/2021 (typically at least the lifetime of the device or 5 years, whichever is longer)
+- Records must be retained for a minimum period specified in Decree 98/2021. The standard retention period is at least the lifetime of the device or 5 years from the date of the transaction, whichever is longer. Confirm the exact retention period applicable to your specific device category with DAV, as implantable devices and certain critical products may have extended retention obligations.
 
 ### Handling complaints and returns
 
@@ -59,3 +59,5 @@ In the event of a Field Safety Corrective Action (FSCA), distributors must be ab
 DAV may audit distribution records through the DMEC system or during inspection visits. Maintain records in a format that allows rapid retrieval and presentation to inspectors.
 
 Confirm the exact retention period applicable to your device category with DAV, as requirements may vary by device type and risk classification.
+
+Add after 'Records must be retained for a minimum period specified in Decree 98/2021 (typically at least the lifetime of the device or 5 years, whichever is longer)': 'Confirm the exact retention period applicable to your device category with DAV, as requirements may vary by device type and risk classification.'

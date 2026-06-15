@@ -13,7 +13,7 @@ A product is **borderline** if it sits between a medical device and a pharmaceut
 - **Mechanical/physical principal action** → likely a medical device (MDACS)
 - **Pharmacological/immunological/metabolic principal action** → likely a pharmaceutical (Pharmacy and Poisons Ordinance)
 
-If uncertain, consult the Medical Device Division (MDD) for a formal product scope determination before investing in full technical dossier preparation. A written determination letter reduces downstream regulatory risk.
+If uncertain, consult the Medical Device Division (MDD) in writing for a formal product scope determination (advisory opinion) before investing in full technical dossier preparation. A written determination letter from the MDD significantly reduces downstream regulatory risk and provides defensible classification rationale for your compliance strategy.
 
 ## Combination Products
 

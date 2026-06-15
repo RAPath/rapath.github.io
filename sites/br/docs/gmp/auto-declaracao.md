@@ -25,3 +25,5 @@ Verify all information against official [ANVISA](https://www.gov.br/anvisa) sour
 :::
 
 "If a verification inspection reveals that GMP compliance was not actually achieved or that the self-declaration was materially inaccurate, ANVISA may impose penalties including fines, product seizure, suspension of registration, or initiation of cancellation proceedings. False self-declaration is considered a serious violation of health surveillance law."
+
+Add after the ANVISA's post-market surveillance paragraph: "If a verification inspection reveals that GMP compliance was not actually achieved or that the self-declaration was materially inaccurate, ANVISA may impose penalties including fines, product seizure, suspension of registration, or initiation of cancellation proceedings. False self-declaration is considered a serious violation of health surveillance law."

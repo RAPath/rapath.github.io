@@ -125,3 +125,5 @@ Indonesian regulations and Kemenkes guidance documents are updated periodically 
 - Halal certification timelines
 
 Your LAR should maintain awareness of regulatory updates as part of their ongoing compliance responsibility.
+
+Complete the section with: 'Staying Up to Date / Indonesian Regulatory Resources / Kemenkes publishes updates, circulars, and guidance documents on the official website (https://kemkes.go.id). Subscribe to Regalkes announcements and monitor ministerial circulars (Surat Edaran) for changes to registration requirements, fee schedules, and deadlines. Your LAR should actively track regulatory updates and notify you of changes affecting your NIEs.'

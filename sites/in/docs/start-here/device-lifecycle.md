@@ -26,7 +26,7 @@ The regulatory lifecycle of a medical device in India mirrors the IMDRF Total Pr
 2. Obtain Free Sale Certificate from country of origin;
 3. Compile technical documentation (STED format);
 4. Submit import licence application via SUGAM portal;
-5. Respond to CDSCO queries; receive Form MD-14 (Class B/C/D) or register under Form MD-15 (Class A).
+5. Respond to CDSCO queries; upon approval receive Form MD-14 import licence (Class B/C/D) or Form MD-15 registration certificate (Class A).
 
 **For Indian manufacturers:**
 1. Apply to SLA (Class A/B) or CDSCO (Class C/D) for manufacturing licence;
@@ -60,3 +60,7 @@ The regulatory lifecycle of a medical device in India mirrors the IMDRF Total Pr
 Form MD-14 is the import licence application form for Class B, C, and D devices; Form MD-15 is the registration form for Class A devices, which requires registration rather than full licensing.
 
 Schedule I contains most medical devices; Schedule II contains in vitro diagnostic (IVD) devices. Classification as Class A, B, C, or D determines the licensing pathway, not the schedule.
+
+For Class A devices under Form MD-15: Submit registration documentation via SUGAM portal; no GMP inspection required prior to registration; devices may be imported and sold upon registration approval. For Class B, C, D devices under Form MD-14: Submit licence application via SUGAM portal; undergo CDSCO technical review and may require notified laboratory testing; GMP inspection conducted before licence issuance.
+
+PSURs are typically submitted annually or at intervals specified in the import/manufacturing licence conditions. Initial PSUR is due one year after initial supply; subsequent reports follow annually or as directed by CDSCO. Class A devices may have different or no PSUR requirements depending on risk classification.

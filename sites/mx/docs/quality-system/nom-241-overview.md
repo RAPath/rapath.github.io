@@ -58,3 +58,9 @@ Similarly, **MDSAP audit certificates** are recognised as GMP evidence.
 - [Technical dossier requirements](../premarket/technical-dossier)
 
 Modify the bullet point to: 'SaMD provisions — acknowledgement of software as a medical device category (see Digital Health & SaMD section for detailed requirements).'
+
+Change the bullet point from:
+'SaMD provisions — acknowledgement of software as a medical device category.'
+
+To:
+'SaMD provisions — acknowledgement of software as a medical device category (see Digital Health & SaMD section for detailed requirements).'

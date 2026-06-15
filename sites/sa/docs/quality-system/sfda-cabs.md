@@ -17,7 +17,7 @@ An **SFDA Conformity Assessment Body (CAB)** is a certification body accredited 
 | **SFDA-accredited CAB** | Class A and B devices (mandatory); Class C and D (acceptable) |
 | **IAF-accredited CB** | Class A and B devices (acceptable alternative) |
 
-For Class C and D devices, the SFDA may additionally require an SFDA inspection or direct audit of manufacturing facilities, regardless of CAB/IAF certification.
+For Class C and D devices, the SFDA may additionally require an on-site SFDA inspection or conduct a direct audit of manufacturing facilities regardless of whether a CAB or IAF-accredited certification body has already certified the QMS.
 
 ## Finding an approved CAB
 
@@ -38,3 +38,5 @@ The SFDA publishes a list of currently accredited CABs on the SFDA website (medi
 - MDS-REQ 3 — QMS requirements
 - [ISO 13485 Overview](./iso-13485-overview)
 - [Inspections and Audits](./inspections-audits)
+
+Verifying CAB accreditation scope: Before selecting a CAB, confirm that their accreditation scope explicitly covers your device type and classification level. Request a copy of the CAB's accreditation certificate or scope document from the SFDA. If your device type is not listed in the CAB's scope, the SFDA may not accept their certification for MDMA purposes.

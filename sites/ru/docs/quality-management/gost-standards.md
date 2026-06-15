@@ -23,7 +23,7 @@ description: The key Russian GOST R standards applicable to medical device quali
 
 ## Standards required in registration dossiers
 
-The registration dossier should reference and demonstrate compliance with applicable GOST R standards. The FGBU expert institution will assess whether the testing and documentation comply with these standards. Where a manufacturer has complied with the international ISO/IEC equivalent rather than the GOST R adoption, this is generally accepted but should be clearly documented.
+The registration dossier should reference and demonstrate compliance with applicable GOST R standards. The FGBU expert institution will assess whether the testing and documentation comply with these standards. Where a manufacturer has complied with the international ISO/IEC equivalent rather than the GOST R adoption, this is generally accepted but must be clearly documented in the dossier with explicit traceability to show how the international standard meets or exceeds GOST R requirements.
 
 ## Mandatory GOST certification (Decree No. 2425)
 

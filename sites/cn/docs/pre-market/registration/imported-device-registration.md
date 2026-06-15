@@ -33,7 +33,7 @@ For a full description of the China Agent role, see [China Agent](/cn/docs/china
 In addition to the standard dossier (see [Dossier Requirements](/cn/docs/pre-market/registration/dossier-requirements)), imported device applications must include:
 
 - Overseas manufacturer proof of legal status — business registration, Certificate of Free Sale or equivalent from the country of origin
-- China Agent authorisation letter — an original (or notarised copy) signed by an authorised representative of the overseas manufacturer, clearly authorising the named China Agent to submit the registration application and act on the manufacturer's behalf for all regulatory communications and post-market obligations
+- China Agent authorisation letter — an original (or notarised copy, if a copy is submitted) signed by an authorised representative of the overseas manufacturer, clearly authorising the named China Agent to submit the registration application and act on the manufacturer's behalf for all regulatory communications and post-market obligations. NMPA may require certification of the signature by a notary public or the overseas manufacturer's embassy/consulate if authenticity cannot be readily verified.
 - Quality system certificate — NMPA accepts ISO 13485 certificates for imported devices (from accredited certification bodies)
 - Country of origin approval documentation — approval from the country where the device is manufactured (if applicable)
 - Chinese translation of key dossier documents

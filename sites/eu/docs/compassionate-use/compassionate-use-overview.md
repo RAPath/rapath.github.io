@@ -26,7 +26,7 @@ These pathways allow patients to access medical devices or IVDs that have **not 
 - No adequate CE-marked alternative available
 - Individual patient need that cannot be met by available options
 
-Each pathway has different eligibility criteria, procedural requirements, and regulatory oversight.
+Each pathway has different eligibility criteria, procedural requirements, and regulatory oversight. The availability and operation of these pathways vary significantly by member state; manufacturers and healthcare providers must consult the relevant national competent authority before initiating any special access pathway.
 
 ---
 
@@ -108,3 +108,5 @@ Some member states designate **authorised prescribers** — specialists with spe
 | National NCA websites | Named-patient and hospital exemption procedures by member state |
 
 Complete the sentence: 'Some member states designate authorised prescribers — specialists with specific expertise who are permitted to prescribe or use unapproved devices in accordance with national law and under specified conditions (e.g., within hospitals or specialist centres). Requirements and procedures for authorised prescriber designation vary by member state.'
+
+Complete the Authorised prescribers section with: 'Some member states designate authorised prescribers — specialists with specific expertise (e.g., consultants in rare diseases, transplantation specialists) who are permitted to prescribe or use unapproved devices in compassionate use settings. Eligibility, training requirements, and oversight vary significantly by member state. Confirmation of authorised prescriber status must be obtained from the relevant NCA before initiating use.'

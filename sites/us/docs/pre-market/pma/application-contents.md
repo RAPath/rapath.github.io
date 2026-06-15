@@ -43,3 +43,8 @@ FDA may also accept **post-approval study data** from comparable studies or publ
 - [FDA — PMA Application Contents Guidance](https://www.fda.gov/media/71990/download)
 
 Add "Chemistry, Manufacturing & Controls (CMC)" as a separate row in the Required PMA sections table with description: "Manufacturing process, quality assurance, process controls, stability data, and facility information demonstrating consistent device quality"
+
+Add a new row to the Required PMA sections table:
+
+Section: Chemistry, Manufacturing & Controls (CMC)
+Description: Manufacturing process, quality assurance, process controls, stability data, facility information, and quality systems demonstrating consistent device quality and compliance with current Good Manufacturing Practice (CGMP)

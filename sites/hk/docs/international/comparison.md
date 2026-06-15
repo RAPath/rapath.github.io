@@ -45,3 +45,5 @@ The Hong Kong Medical Device Division (MDD) participates in **IMDRF (Internation
 IMDRF alignment means Hong Kong's technical documentation standards are broadly compatible with US (FDA), EU, Australia, and Canada — supporting the expedited reliance scheme.
 
 CSDT = Common Submission Dossier Template; STED = Submission Technical Electronic Documentation. Both are harmonised formats derived from IMDRF principles, enabling streamlined multi-market submissions.
+
+Add a footnote or header note: 'CSDT = Common Submission Dossier Template; STED = Submission Technical Electronic Documentation. Both are harmonised formats derived from IMDRF principles, enabling streamlined multi-market submissions.'

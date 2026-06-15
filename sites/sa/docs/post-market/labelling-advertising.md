@@ -48,4 +48,6 @@ Distributing unapproved advertising can result in:
 - [Labelling & IFU](../technical-documentation/labelling-ifu)
 - [MDMA Renewal](./mdma-renewal)
 
+Once advertising materials are approved by the SFDA, they must not be substantively altered without resubmitting for approval. Any changes to claims, images, key messaging, or product indications require resubmission to the SFDA before distribution of the revised materials. Maintain an archive of all approved versions with evidence of SFDA approval dates and any conditions, as this documentation will be requested during SFDA inspections and audits.
+
 Once advertising materials are approved, they must not be substantively altered without resubmitting for approval. If claims, images, or key messaging are modified, resubmission to the SFDA is required before distribution of the revised materials. Archive all approved versions and maintain evidence of SFDA approval for audit and inspection purposes.

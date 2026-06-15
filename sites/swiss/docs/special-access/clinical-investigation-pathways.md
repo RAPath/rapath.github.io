@@ -9,7 +9,7 @@ The primary pathway. Requires Swissmedic authorisation + BASEC ethics approval b
 
 First-in-Human Studies
 ​
-First-in-human investigations receive enhanced Swissmedic scrutiny. In addition to standard ClinO-MD requirements, applicants must submit: comprehensive pre-clinical data supporting the safety basis for first human use; a risk management file specifically addressing first-in-human risks including vulnerability and monitoring of specific endpoints; and a detailed safety monitoring plan with predefined stopping rules based on safety outcomes. Early engagement with Swissmedic during protocol development is strongly recommended.
+First-in-human investigations receive enhanced Swissmedic scrutiny. In addition to standard ClinO-MD requirements, applicants must submit: (1) comprehensive pre-clinical data supporting the safety basis for first human use; (2) a risk management file specifically addressing first-in-human risks, including analysis of vulnerable patient populations and monitoring of specific endpoints; and (3) a detailed safety monitoring plan with predefined stopping rules based on cumulative safety outcomes. Early engagement with Swissmedic during protocol development is strongly recommended to align expectations on safety data requirements and monitoring thresholds.
 
 ## Expanded Access Within a Trial
 Trial participants may continue receiving the investigational device after the formal protocol ends if: the investigation has demonstrated clinical benefit; the participant continues to need the device; the manufacturer continues to supply it; Swissmedic and ethics committee have been notified of the expanded access arrangement.

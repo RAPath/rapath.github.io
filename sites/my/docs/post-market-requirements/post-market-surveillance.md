@@ -8,7 +8,7 @@ description: Post-market surveillance (PMS) obligations for medical device manuf
 
 ## What is Post-Market Surveillance?
 
-**Post-market surveillance (or LARs establish and post-market surveillance (PMS plan))** is the systematic process of collecting, recording, and analysing data on the quality, safety, and performance of a medical device after it has been placed on the market. PMS is a mandatory ongoing obligation under Act 737 for all registered medical devices.
+**Post-market surveillance (PMS plan) is the systematic process of collecting, recording, and analysing data on the quality, safety, and performance of a medical device after it has been placed on the market.** is the systematic process of collecting, recording, and analysing data on the quality, safety, and performance of a medical device after it has been placed on the market. PMS is a mandatory ongoing obligation under Act 737 for all registered medical devices.
 
 PMS activities generate evidence that:
 - The device continues to perform as intended
@@ -83,3 +83,15 @@ All registered device manufacturers/LARs should monitor:
 :::tip Integrate Global and Local PMS
 If you have a global PMS system (e.g. for US, EU, or Australian markets), ensure it captures Malaysian-specific data and that Malaysian adverse events are reported to MDA within Malaysian timelines — which may differ from other markets.
 :::
+
+PMS Plan Trigger Points
+
+A formal, documented PMS plan is mandatory for:
+
+All Class B devices at registration
+All Class C devices at registration
+All Class D devices at registration
+Class A devices transitioning to Class B or higher
+Any device where MDA requires PMS as a registration condition
+
+For Class A devices, reactive monitoring through the vigilance system (Mandatory Problem Reporting) is typically sufficient unless MDA specifies otherwise.

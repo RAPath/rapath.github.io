@@ -29,7 +29,7 @@ This page addresses **device-led combination products** — where the device fun
 
 ## Classification: always Class III
 
-Under **Rule 13 of Schedule 2, UK MDR 2002**, any device that incorporates, as an integral part, a substance which:
+Under **Schedule 2, Rule 13 of the UK MDR 2002**, any device that incorporates, as an integral part, a substance which:
 
 - If used separately, would be considered a medicinal product as defined in the Human Medicines Regulations 2012, **and**
 - The substance acts on the body in a way that is ancillary to the device
@@ -124,3 +124,16 @@ A drug-eluting coronary stent (e.g., sirolimus-eluting, everolimus-eluting) is t
 | Human Medicines Regulations 2012 | Medicinal product framework |
 | MHRA: Combination products guidance | MHRA guidance on drug-device combinations |
 | EU MDR 2017/745, Art. 1(8), Annex I §12 | EU treatment of device-medicine combinations (reference for NI) |
+
+de of action. The drug's elution (releasing sirolimus or everolimus to suppress neointimal proliferation) is the ancillary pharmacological action. Because the substance has ancillary action, the device is classified as Class III regardless of what class a stent without a drug coating would be.
+
+For a drug-eluting stent, the technical file must contain:
+- Standard Class III device information (design, manufacturing, performance testing)
+- Complete characterisation of the drug substance (purity, identity, potency)
+- Pharmacokinetic data showing the elution profile and local tissue concentrations
+- Preclinical safety data for the drug in the stent context (local and systemic toxicity)
+- Clinical data demonstrating that the drug dose, release profile, and timing are safe and effective in preventing restenosis
+- Biocompatibility data for the polymer coating that controls drug release
+- Stability data confirming the drug does not degrade during storage or within the device body
+
+The UKAB will consult MHRA on the safety and quality of the drug component before issuing a device certificate.

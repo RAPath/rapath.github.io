@@ -23,7 +23,7 @@ Under Schedule 3 of the MD Regulations, an Australian Declaration of Conformity 
 - The name and title of the person authorised to sign on behalf of the manufacturer
 - Signature and date
 
-The TGA does not publish a mandatory DoC template, but the EU Declaration of Conformity template is widely used and contains comparable information. Check TGA guidance for any Australia-specific requirements.
+The TGA does not publish a mandatory Declaration of Conformity template. Many sponsors use the EU Declaration of Conformity template as a reference, as it contains comparable information to Australian requirements. However, any DoC used must comply with the specific requirements set out in Schedule 3 of the MD Regulations 2002. Sponsors should confirm their DoC format with the TGA if there is any uncertainty.
 
 ---
 

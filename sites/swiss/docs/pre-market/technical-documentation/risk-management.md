@@ -6,7 +6,7 @@ keywords: [risk management, ISO 14971, MedDO, risk management file, Switzerland]
 # Risk Management (ISO 14971)
 
 ## Overview
-Risk management is mandatory for all medical devices under MedDO Annex I §§ 1–9. **ISO 14971:2019** is the harmonised standard providing the accepted methodology. Risk management is a lifecycle activity — not a one-time documentation continuous, integrated throughout design, production, and post-market phases exercise performed before market placement.
+Risk management is mandatory for all medical devices under MedDO Annex I §§ 1–9. **ISO 14971:2019** is the harmonised standard providing the accepted methodology. Risk management is a lifecycle activity — not a one-time exercise performed before market placement. It is continuous and integrated throughout design, production, and post-market phases.
 
 ## Risk Management File (RMF)
 The RMF documents all risk management activities for a specific device. It must be updated when: new hazards are identified post-market; the device design or intended purpose changes; new clinical evidence affects the known risk profile; an FSCA or serious incident reveals a previously unrecognised risk.
@@ -20,6 +20,12 @@ The RMF documents all risk management activities for a specific device. It must 
 
 ## Integration
 Risk management integrates with: IEC 62304 (software lifecycle); ISO 10993 (biological hazards); GSPR compliance matrix; clinical evaluation; post-market surveillance.
+
+
+Add under 'Risk evaluation' in 'The Five-Stage ISO 14971:2019 Process' section: 'Risk acceptance criteria must be established at the beginning of the risk management process and documented in the Risk Management File. These criteria define the threshold above which risks are considered unacceptable and must be reduced.'
+
+
+Post-market surveillance data collection and review is a critical feedback mechanism that must inform periodic RMF updates. If PMS data reveals new hazards, unexpected adverse events, or performance degradation, the RMF must be updated and risk re-evaluated to ensure residual risks remain acceptable.
 
 ## Official Sources
 - [ISO 14971:2019](https://www.iso.org/standard/72704.html)

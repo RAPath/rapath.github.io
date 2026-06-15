@@ -24,7 +24,7 @@ Obtaining a COFEPRIS sanitary registration is the **beginning** of your regulato
 
 **Technovigilance** (*tecnovigilancia*) is Mexico's post-market surveillance system for medical devices. It is mandatory for all registration holders and is overseen by **CNFV** (Centro Nacional de Farmacovigilancia), a division within COFEPRIS.
 
-A well-functioning technovigilance system is not just a compliance requirement — it is essential for maintaining your sanitary registration at renewal.
+A well-functioning technovigilance system is not just a compliance requirement — it is essential for maintaining your sanitary registration at renewal. COFEPRIS will review your Technovigilance Report in detail, and any evidence of inadequate monitoring, delayed reporting, or failure to take appropriate corrective actions can result in renewal denial or conditional approval pending remediation.
 
 See [Technovigilance overview](technovigilance-overview) for full detail.
 

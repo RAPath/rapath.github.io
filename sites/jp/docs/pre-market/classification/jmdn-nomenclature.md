@@ -21,9 +21,9 @@ JMDN codes are used in every regulatory submission — from pre-market applicati
 
 ## Structure of JMDN codes
 
-JMDN codes are grouped into broad categories (e.g. cardiovascular devices, orthopaedic devices, IVDs). Within each category, devices are further subdivided by type and intended use.
+JMDN codes are grouped into broad categories (e.g. cardiovascular devices, orthopaedic devices, IVDs). Within each category, devices are further subdivided by type, material, and intended use. Each JMDN code is hierarchical: a 7-digit code structure allows for specificity at the device-type level.
 
-For example, a cardiac pacemaker would have a specific JMDN code that pre-assigns it as Class IV (specially controlled) and indicates no Ninsho pathway is available.
+For example, a cardiac pacemaker would have a specific JMDN code (Class IV) that pre-assigns it to the Shonin pathway with no Ninsho option available; conversely, a hearing aid (Class II) would have a different JMDN code indicating Ninsho eligibility if a recognised standard applies.
 
 ## How to find the correct JMDN code
 
@@ -44,4 +44,10 @@ The **Global Medical Device Nomenclature (GMDN)** is an international system use
 
 If no existing JMDN code covers a genuinely novel device type, the MAH must request MHLW to create a new code. This process can take 6–12+ months and should be initiated early in the development/regulatory strategy process. A new JMDN code also requires MHLW to assign the risk class and determine pathway eligibility, which may involve engagement with PMDA.
 
-It is advisable to confirm the JMDN code with a Japan-based regulatory consultant or PMDA before formally filing an application, as an incorrect code assignment can delay the application process and may require resubmission.
+It is strongly advisable to confirm the JMDN code with a Japan-based regulatory consultant or through PMDA pre-submission consultation before formally filing an application, as an incorrect code assignment will delay the application process, may result in rejection, and will require substantial resubmission effort.
+
+Revise the 'Creating new JMDN codes' subsection to include:
+
+**Original text:** 'If no existing JMDN code covers a genuinely novel device type, the MAH must request MHLW to create a new code. This process can take 6–12+ months and should be initiated early in the development/regulatory strategy process. A new JMDN code also requires MHLW to assign the risk class and determine pathway eligibility, which may involve engagement with PMDA.'
+
+**Revised text:** 'If no existing JMDN code covers a genuinely novel device type, the MAH must request MHLW to create a new code. This process can take 6–12+ months and must be completed before a formal application can be filed — a device without an assigned JMDN code cannot enter pre-market review. The request should be initiated early in the development/regulatory strategy process, often in parallel with or before PMDA pre-submission consultation. A new JMDN code assignment also requires MHLW to designate the risk class (I–IV) and determine pathway eligibility, which frequently involves engagement with PMDA to assess intended use and risk profile.'

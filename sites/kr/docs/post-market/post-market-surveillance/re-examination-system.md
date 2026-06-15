@@ -8,7 +8,7 @@ Re-examination (재심사) is a Korean post-market requirement mandating periodi
 
 ## Who is subject?
 
-Grade III and IV devices that received a first-ever 품목허가 in Korea (새로운 허가).
+Grade III and IV devices that received their first 품목허가 in Korea (새로운 허가) — whether marketed as a new device, new indication, or significant modification requiring fresh approval.
 
 ## Re-examination period
 
@@ -40,3 +40,7 @@ Typically 3 to 5 years from first approval. The manufacturer/importer must submi
 - [Re-evaluation system](./re-evaluation-system) · [PMS plan and report](./pms-plan-and-report)
 
 "Failure to submit: If the re-examination dossier is not submitted by the deadline, MFDS may suspend or revoke the 품목허가 without further notice."
+
+Add new section: "Failure to submit: If the re-examination dossier is not submitted by the deadline, MFDS may suspend or revoke the 품목허가 without further notice."
+
+Add after 'Grade III and IV devices that received a first-ever 품목허가 in Korea (새로운 허가).': 'This includes devices with a new indication or significant modification where a fresh approval was required, but generally excludes subsequent approvals for the same device by different manufacturers or routine variations.'

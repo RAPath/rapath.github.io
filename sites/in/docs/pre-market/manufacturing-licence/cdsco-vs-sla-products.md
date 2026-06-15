@@ -24,3 +24,7 @@ India's manufacturing licence framework splits authority between **CDSCO** (Clas
 - CDSCO/SLA inspection prior to grant of licence.
 
 > **Official source:** Medical Devices Rules 2017, Chapter IV; [CDSCO](https://cdsco.gov.in)
+
+Jurisdiction Breakdown:
+
+CDSCO (Central Drugs Standard Control Organization) handles Class C and D devices (higher risk, sterile, implantable devices). State Licensing Authorities (SLAs) handle Class A and B devices (lower risk devices). The classification is determined based on the device's risk category as per the Medical Devices Rules 2017.

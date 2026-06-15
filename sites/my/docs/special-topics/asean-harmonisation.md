@@ -57,7 +57,7 @@ Malaysia adopts ASEAN-agreed technical guidance documents, including:
 - ASEAN Guidelines on Labelling
 - ASEAN Guidelines on Post-Market Vigilance
 
-## AHWP — Asia-Pacific Harmonization Working Party
+## The full name should be clarified as: AHWP — Asia Harmonization Working Party (note: 'Asia' not 'Asia-Pacific'). Alternatively, verify with MDA whether the official name is 'Asia Harmonization Working Party' or 'Asia-Pacific Harmonization Working Party' as sources vary.
 
 Malaysia (through MDA) participates actively in the Asia Harmonization Working Party (AHWP), a strategic Asia-Pacific regulatory coordination body tasked with aligning medical device regulation with IMDRF principles and facilitating regulatory convergence across the region. AHWP activities inform MDA's adoption of IMDRF guidance documents.
 

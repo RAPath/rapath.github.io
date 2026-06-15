@@ -84,5 +84,8 @@ The classification rules are set out in the **Schedule to the Medical Device Reg
 - → **Rule 1** applies → **Class A**
 
 :::tip Classification Queries
-If the rules lead to an ambiguous outcome, submit a classification query to MDA via the MyMDA portal before investing in dossier preparation. A formal MDA determination is binding.
+
+If the rules lead to an ambiguous outcome or the device does not clearly fit a single rule, submit a formal classification query to MDA via the MyMDA portal before investing in dossier preparation. Include device description, intended purpose, invasiveness characteristics, duration of contact, and relevant technical specifications.
+
+A formal MDA determination is binding for the duration of the device's registration. Do not proceed with dossier preparation at a lower-than-determined class, as this creates risk of rejection and regulatory action.
 :::

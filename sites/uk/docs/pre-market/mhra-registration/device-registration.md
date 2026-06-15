@@ -22,7 +22,7 @@ MHRA registers devices at the level of **device families or groups** — not nec
 - Classification
 - Conformity assessment basis
 
-Manufacturers should consult MHRA's current registration guidance for the specific grouping rules, as these have - - - - (available at gov.uk/guidance/register-as-a-manufacturer-to-sell-medical-devices) evolved and continue to be refined.
+Manufacturers should consult MHRA's current registration guidance for the specific grouping rules, as these have evolved and continue to be refined. See MHRA registration guidance at gov.uk/guidance/register-as-a-manufacturer-to-sell-medical-devices.
 
 ---
 

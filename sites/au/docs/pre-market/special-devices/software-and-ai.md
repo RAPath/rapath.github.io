@@ -13,7 +13,7 @@ Software is regulated as a medical device in Australia if it meets the definitio
 
 ## Is Your Software a Medical Device?
 
-Software is a medical device if its intended purpose — as declared by the manufacturer through labelling, promotional materials, and technical documentation — falls within the medical device definition. Key questions:
+Software is a medical device if its intended purpose — as declared by the manufacturer through labelling, promotional materials, technical documentation, instructions for use, and any other statements made by the manufacturer — falls within the medical device definition in Section 41BD of the Therapeutic Goods Act 1989. Key questions:
 
 - Is the software intended to be used for a medical purpose (diagnosis, monitoring, treatment, etc.)?
 - Does it generate or process data for direct clinical decision-making?

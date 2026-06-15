@@ -33,3 +33,5 @@ Requirements for distribution and traceability are set out in MDSAR 2021 and imp
 :::note Disclaimer
 Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [NMPA](https://www.nmpa.gov.cn/) sources before making regulatory decisions. Not affiliated with NMPA or any Chinese Government body. Not legal or regulatory advice.
 :::
+
+China requires medical device manufacturers, importers, and distributors to establish traceability systems meeting the requirements of MDSAR 2021 Articles 43-45. Key requirements include: unique device identification (UDI) labelling or batch/serial tracking; records of all distribution steps from manufacturer to end-user or patient; ability to implement recalls rapidly; documentation retention for at least 5 years post-expiration; and coordination with NMPA during post-market surveillance. Distributors must maintain records of supply sources and customer information. NMPA has issued detailed guidance on UDI implementation through the Medical Device UDI System.

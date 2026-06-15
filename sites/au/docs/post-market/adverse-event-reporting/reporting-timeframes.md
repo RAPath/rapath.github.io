@@ -33,7 +33,7 @@ After submitting an initial report, sponsors must provide follow-up reports to t
 
 ---
 
-## Healthcare Facility Reporting Timeframes (from March 2026)
+## Healthcare Facility Reporting Timeframes (from 1 March 2026)
 
 Under the new mandatory reporting framework for healthcare facilities, different timeframes apply to hospitals:
 

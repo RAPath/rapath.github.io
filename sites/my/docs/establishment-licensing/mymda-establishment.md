@@ -22,7 +22,7 @@ Prepare the following before beginning your online application:
 - [ ] Organisational chart showing responsible persons
 - [ ] Designated Responsible Person (RP) details — name, IC number, qualification, CV
 - [ ] Physical address evidence (tenancy agreement or utility bill)
-- [ ] Email address for official MDA correspondence (use a shared regulatory inbox, not personal email)
+- [ ] Email address for official MDA correspondence (use a monitored shared regulatory email account with multiple users; avoid personal or individual email addresses to prevent loss of regulatory communications if the individual leaves the organisation)
 
 ### Additional for Manufacturers
 - [ ] ISO 13485 certificate (current, issued by recognised certification body)
@@ -91,3 +91,11 @@ Renewal applications should be submitted **at least 60 days before expiry**. The
 :::
 
 Add this section before 'Renewal Applications':
+
+Add this section before 'Renewal Applications':
+
+**Application Rejection**
+
+If MDA issues a formal rejection (rather than a deficiency letter), the application is denied and a new application must be submitted. Common reasons for rejection include: failure to meet baseline QMS requirements, submission of false information, or incompatibility of the proposed activities with the applicant's legal status. Contact MDA for clarification before resubmitting. A resubmitted application is treated as a new application and incurs a new application fee.
+
+Before the 'Renewal Applications' section, add a new section titled 'Troubleshooting & Support' with the following content: 'If you encounter technical issues with the MyMDA portal, contact MDA support via mymda@mda.gov.my or call the MDA helpline. Common issues include: portal timeouts (clear browser cache and re-login), document upload failures (ensure PDF format and <5 MB file size), and payment errors (verify card validity or use FPX alternative). Keep your application reference number ready when contacting support.'

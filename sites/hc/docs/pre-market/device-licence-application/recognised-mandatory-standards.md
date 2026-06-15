@@ -14,7 +14,7 @@ Health Canada also designates certain standards as **Mandatory Standards** for s
 
 ## Recognised standards
 
-The following are frequently cited recognised standards:
+The following are examples of frequently cited recognised standards. This is not an exhaustive list. Manufacturers should verify applicability to their specific device by consulting Health Canada's current guidance documents or the full list of recognised standards published on the Health Canada website:
 
 ### Quality and risk management
 | Standard | Scope |
@@ -81,3 +81,12 @@ When international standards are revised, Health Canada typically allows a trans
 Transition to new standard versions
 
 When Health Canada recognises a new version of a Mandatory Standard, manufacturers are typically given a transition period (often 12–24 months) to achieve compliance with the updated standard. Device Licence applications submitted during the transition period may be accepted under either the previous or current standard version, provided the newer version was formally published. Manufacturers should monitor Health Canada's website for announcements regarding standard updates and transition deadlines.
+
+Add a new subsection after 'International standard recognition': 'Devices not covered by recognised standards
+
+If a device does not align with any recognised standard, manufacturers may:
+- Propose alternative standards for Health Canada consideration
+- Develop a risk-based technical justification demonstrating how Schedule 1 Safety and Effectiveness Requirements are met without reliance on a standard
+- Reference published scientific literature and industry best practices
+
+Manufacturers should discuss such situations in a pre-submission meeting to confirm an acceptable evidence strategy before submission.'

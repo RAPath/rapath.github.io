@@ -8,7 +8,7 @@ description: LTO and registration obligations for manufacturers, importers, dist
 
 ## Overview
 
-All entities in the Philippines medical device supply chain must hold a **License to Operate (LTO)** from CDRRHR. For Class A devices, a CMDN is required. For Class B/C/D devices, a CMDR is required.
+All entities in the Philippines medical device supply chain must hold a **License to Operate (LTO)** from CDRRHR. For Class A devices, a CMDN (Certificate of Medical Device Notification) is required. For Class B/C/D devices, a CMDR (Certificate of Medical Device Registration) is required.
 
 ## Local Manufacturers
 

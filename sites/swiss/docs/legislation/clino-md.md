@@ -24,6 +24,24 @@ ClinO-MD applies to:
 
 **Adverse event reporting**: SUSADEs (Suspected Unexpected Serious Adverse Device Effects) must be reported to Swissmedic and the ethics committee within defined timeframes. Life-threatening events must be reported within 24 hours; other serious adverse events must be reported within 7 calendar days. Expedited reporting may be required in certain circumstances.
 
+
+Add to the 'Key Requirements' section:
+
+## Timelines
+
+Swissmedic typically assesses clinical investigation applications within 30 days of a complete submission. BASEC ethics committee review timelines vary by committee but typically require 4–6 weeks. Both approvals must be obtained before the investigation can commence. Sponsors should coordinate applications to both Swissmedic and BASEC simultaneously to allow parallel review.
+
+
+Remove the second 'Key Requirements' heading that appears before the 'Timelines' section. The heading structure should be:
+
+Key Requirements
+[existing content]
+
+Timelines
+[existing content]
+
+With no duplication of section headings.
+
 ## Official Sources
 - [ClinO-MD (SR 810.305) — Fedlex (EN)](https://www.fedlex.admin.ch/eli/cc/2020/950/en)
 - [Swissmedic — Clinical investigations](https://www.swissmedic.ch/swissmedic/en/home/medical-devices/clinical-trials.html)

@@ -12,7 +12,7 @@ Hong Kong classifies medical devices using an **IMDRF-aligned risk-based system*
 
 | Device Type | Technical Reference | Classes |
 |-------------|-------------------|---------|
-| General medical devices | TR-003 | Class I, II, III, IV |
+| General medical devices | TR-003 | Class I, II, III, IV (general medical devices) |
 | IVD medical devices | TR-004 | Class A, B, C, D |
 
 ## General Classification Factors (TR-003)

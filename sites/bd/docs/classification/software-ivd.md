@@ -99,3 +99,5 @@ If the boundary is unclear, seek a formal DGDA classification determination befo
 ## Accessories
 
 An accessory to a medical device is classified in its own right. The accessory's class is based on its own risk profile and intended use, not the class of the parent device.
+
+The section 'Principal action = pharmacological/biolog' is incomplete. Complete it with: 'Principal action = pharmacological/biological → regulated as a pharmaceutical drug by DGDA. In case of genuine uncertainty about principal action (e.g., medicated wound dressings with both mechanical and chemical action), request a formal DGDA determination in writing before filing.'

@@ -22,12 +22,12 @@ An effective CAPA system under MO 169 must:
 
 ## Nonconformance handling
 
-Nonconforming products must be identified, documented, and segregated to prevent unintended use. Disposition (rework, rejection, acceptance under deviation) must be authorised. Where a nonconformance affects devices already shipped, a market action assessment must be performed — this may trigger an adverse event report or FSCA.
+Nonconforming products must be identified, documented, and segregated to prevent unintended use or distribution. Disposition (rework, rejection, acceptance under deviation, or scrap) must be documented and authorised by a designated individual with appropriate authority (typically Quality function). Records must clearly identify the nonconformance, root cause determination (if conducted), and justification for the disposition. Where a nonconformance affects devices already shipped, a market action assessment must be performed — this may trigger an adverse event report or FSCA.
 
 ## PMDA's CAPA expectations at inspection
 
 PMDA reviewers consistently scrutinise CAPA records at QMS inspections. Common findings:
-- CAPA inputs not systematically captured (complaints not linked to CAPA)
+- CAPA inputs not systematically captured — for example, complaints documented in the complaint register are not reviewed for potential CAPA triggers, or trending analysis is not performed to identify systemic issues
 - Root cause analysis superficial (symptom-focused rather than root cause)
 - Effectiveness verification not completed or documented
 - CAPAs from previous inspections still open without adequate justification

@@ -52,7 +52,7 @@ The ISO 10993-1 framework requires:
 The contact type (surface, implant, blood/tissue contact) and duration (limited &lt;24h, prolonged 24h–30d, permanent >30d) determine which endpoints are relevant.
 
 :::tip
-ISO 10993-1:2018 explicitly discourages unnecessary animal testing — manufacturers should exhaust literature and in vitro data before commissioning animal studies.
+ISO 10993-1:2018 explicitly discourages unnecessary animal testing and promotes a graded approach — manufacturers should exhaust literature and in vitro data before commissioning animal studies, and animal studies should only be performed where scientific gaps cannot be addressed through existing data.
 :::
 
 ### Physicochemical properties

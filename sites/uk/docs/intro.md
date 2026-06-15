@@ -15,7 +15,7 @@ tags: [uk-mdr, introduction]
 
 RAPath UK is a plain English reference for UK medical device regulation under the **UK Medical Devices Regulations 2002 (SI 2002/618, as amended)** and associated legislation. It is designed for regulatory affairs professionals, manufacturers, UK Responsible Persons (UKRPs), importers, consultants, and anyone navigating the UK framework.
 
-This site does not replace official sources. Every page links back to the authoritative legislation text, MHRA guidance, or official Government publication. Think of RAPath UK as a structured, searchable index that helps you find what you need — then points you to the official source to verify it.
+This site does not replace official sources and should not be relied upon as legal advice. Every page links back to the authoritative legislation text, MHRA guidance, or official Government publication. RAPath UK is a structured, searchable index to help you navigate the framework — always verify findings against the official source before making compliance decisions.
 
 ---
 
@@ -58,7 +58,7 @@ RAPath UK addresses regulatory features that have no parallel in the EU, Austral
 - **GB vs NI dual-market position** — two regulatory regimes (UK MDR 2002 / EU MDR-IVDR) operating simultaneously within one political territory
 - **The Windsor Framework** — the 2023 UK-EU agreement governing NI's continued EU alignment
 - **UK Responsible Persons (UKRPs)** — the post-Brexit legal representative role for non-UK manufacturers accessing the GB market
-- **CE marking transitional acceptance** — CE marking valid on the GB market until 30 June 2030
+- **CE marking transitional acceptance** — CE marking valid on the GB market until 31 December 2027
 - **UKCA marking** — the UK conformity mark, replacing CE marking for GB from 2030
 
 Pages covering UK-unique content are marked with a **UK-unique** badge throughout the site.
@@ -105,3 +105,28 @@ Regulatory affairs professionals who flag inaccuracies are the most valuable con
 ## Disclaimer
 
 Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [legislation.gov.uk](https://www.legislation.gov.uk/uksi/2002/618/contents/made) and [MHRA](https://www.gov.uk/government/organisations/medicines-and-healthcare-products-regulatory-agency) sources before making regulatory decisions. This site is not affiliated with MHRA or any UK Government body. Not legal or regulatory advice.
+
+If you are a non-UK manufacturer
+— understand UK Responsible Person requirements and how to appoint a UKRP to represent you on the GB market.
+
+Special pathways
+— emergency use, temporary authorisations, and exceptional pathways for devices addressing urgent public health needs.
+
+Getting help
+— how to contact MHRA, submission support contacts, and guidance on where to direct specific regulatory questions.
+
+nufacturer:
+→ UK Responsible Persons (UKRPs)
+
+If you need to understand post-market obligations:
+→ Post-Market Surveillance
+
+If you need to find a UK Approved Body:
+→ UK Approved Bodies
+
+If you are navigating the Northern Ireland dual-market:
+→ Northern Ireland Medical Device Regulation
+
+The Medicines and Healthcare products Regulatory Agency (MHRA) is the UK Competent Authority responsible for enforcing UK MDR 2002, registering medical devices, designating UK Approved Bodies, and investigating adverse events and recalls.
+
+From 1 January 2024, only UKCA marking (not CE marking) is accepted for newly CE-marked devices placed on the GB market. CE-marked devices placed on the GB market before this date remain valid until 30 June 2030. From 1 July 2030, all devices on the GB market must bear UKCA marking or be subject to MHRA enforcement action.

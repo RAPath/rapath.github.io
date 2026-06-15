@@ -31,10 +31,12 @@ CDSCO has progressively expanded Schedules I and II through gazette notification
 
 ## Transition timelines
 
-Each expansion notification generally provides a transition period (typically 12–24 months) during which manufacturers can continue to supply while completing the licensing process. Devices on the market before a notification are generally eligible for transitional supply subject to licence application submission.
+Each expansion notification generally provides a transition period (typically 12–24 months) during which manufacturers can continue to supply devices already in distribution while submitting and completing the licensing process. To benefit from transitional supply, evidence that the device was on the market before the notification date must be maintained. Manufacturers who fail to submit a licence application by the deadline lose the right to supply, even during the transition period.
 
 :::info
 Always check the CDSCO website and the Official Gazette for the most current schedule of notified devices and any active transition periods.
 :::
 
 The 2020 expansion (1 April 2020) brought 21 categories into scope, including orthopaedic implants (knees, hips, spine), cardiac stents, and cardiac pacemakers. Manufacturers should cross-reference the Official Gazette notification G.S.R. 262(E) dated 1 April 2020 for the complete list of notified categories effective from that date.
+
+After expiration of a transition period, devices that are subject to the new notification may no longer be imported or supplied unless a valid licence (Form MD-14) or registration (Form MD-15) has been obtained. Continuation of supply without a valid licence after the transition period ends constitutes a violation of MDR 2017 and may result in product seizure and regulatory action.

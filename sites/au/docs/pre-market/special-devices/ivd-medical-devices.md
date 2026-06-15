@@ -53,6 +53,9 @@ In-house IVDs are manufactured and used within a single laboratory (not supplied
 
 ---
 
+
+In-house IVDs are classified using Schedule 2A. Those classified as Class 2, 3, or 4 are considered 'above Class 1' and are subject to progressive regulatory requirements. From 1 November 2024, all in-house IVDs classified above Class 1 must comply with the Essential Principles, be included in the ARTG, or fall within a valid exemption. Laboratories should review the classification of each in-house IVD they manufacture to determine current compliance obligations.
+
 ## Official Sources
 
 - [IVD medical devices overview — TGA](https://www.tga.gov.au/products/medical-devices/overview/ivd-medical-devices)

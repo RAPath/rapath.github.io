@@ -19,3 +19,5 @@ The legislative backbone of Swiss medical device regulation.
 :::warning Disclaimer
 AI-assisted content for navigation only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
 :::
+
+Add to the 'Related Legislation' row in the table: 'Transplantation Act, Radiation Protection Act, nFADP, cantonal health laws — additional statutes affecting specific device types or use contexts'

@@ -25,4 +25,4 @@ Directed Recall (CDSCO-Initiated): Initiated by CDSCO when post-market surveilla
 - Submit daily/weekly progress reports as directed
 - Implement recall at own expense
 
-Both types require Field Safety Notice issuance, record-keeping of recall execution, and documentation of returned/destroyed device units.
+Both types require: (1) Field Safety Notice (FSN) issuance to all affected parties; (2) complete record-keeping of recall execution including dates, quantities, and distribution channels; (3) documentation of returned, destroyed, or reworked device units; and (4) submission of a final recall completion report to CDSCO within 90 days of recall closure.

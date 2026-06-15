@@ -9,11 +9,11 @@ keywords: [Class I, Class II, Class III, Class IV, ANVISA, Brazil]
 
 ## Class I — Low risk | Pathway: Notificação
 
-Largely administrative process — no detailed pre-market ANVISA technical review before market placement. **Examples:** Tongue depressors, non-sterile gauze, examination gloves, cold/hot packs.
+Largely administrative process — registration holders submit notification via Peticionamento Eletrônico; no pre-market technical review by ANVISA required before market placement. **Examples:** Tongue depressors, non-sterile gauze, examination gloves, cold/hot packs.
 
 ## Class II — Medium-low risk | Pathway: Cadastro
 
-Abbreviated technical documentation + ANVISA simplified review (3–6 months). **Examples:** Single-use syringes, sterile examination gloves, manual wheelchairs, manual blood pressure monitors.
+Abbreviated technical documentation submitted via Peticionamento Eletrônico; ANVISA simplified review with approval or request for additional information (typical timeframe 3–6 months). **Examples:** Single-use syringes, sterile examination gloves, manual wheelchairs, manual blood pressure monitors.
 
 ## Class III — Medium-high risk | Pathway: Registro
 
@@ -30,3 +30,5 @@ All registrations are valid for **10 years**.
 See [IVD Classification](/docs/pre-market/classification/ivd-classification).
 
 "IVD registrations are also valid for 10 years from the date of approval."
+
+Add after the IVD statement: "IVD registrations are also valid for 10 years from the date of approval."

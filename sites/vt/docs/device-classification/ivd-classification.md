@@ -24,7 +24,7 @@ IVD devices are classified based on the **risk to the individual and to public h
 | Class | Risk basis | Examples |
 |---|---|---|
 | **Type A (IVD)** | Low individual risk, low public health risk | General laboratory instruments, specimen containers, staining reagents |
-| **Type B (IVD)** | Moderate individual risk, low public health risk | Pregnancy tests, blood glucose self-monitoring (home use for known diabetics) |
+| **Type B (IVD)** | Moderate individual risk, low public health risk | Pregnancy tests, blood glucose self-monitoring (home use for management/monitoring of known diabetics). Glucose devices used for diagnosis or initial screening are typically Type C or higher. |
 | **Type C (IVD)** | High individual risk or moderate public health risk | Blood glucose monitoring (diagnosis), coagulation testing, PSA testing, HbA1c |
 | **Type D (IVD)** | High risk to individual and public health | HIV, Hepatitis B/C detection; blood donor screening; TB confirmation |
 
@@ -47,3 +47,5 @@ Point-of-care IVD devices — designed for use outside a laboratory setting, nea
 The IVD classification determines the same declaration or registration pathway as for other device types:
 - Type A/B IVD → [Declaration pathway](../market-access/declaration-type-a-b)
 - Type C/D IVD → [Marketing Authorisation pathway](../market-access/marketing-authorisation-type-c-d)
+
+Add after the 'What is an IVD?' definition: 'Software used to interpret or analyze IVD test results is classified as an IVD device if it is intended to be used as part of the diagnostic or monitoring process. Standalone clinical decision support software may fall outside IVD classification depending on its specific intended use and whether it processes patient-derived data.'

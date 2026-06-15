@@ -38,3 +38,11 @@ Failure to designate a US Agent, or designating an agent who is not reachable, c
 ## US Agent requirement
 
 The US Agent must be authorized to receive and respond to FDA communications on the manufacturer's behalf. The US Agent must maintain current contact information and notify FDA of any changes within 30 days. The manufacturer remains fully liable for compliance regardless of US Agent designation.
+
+The US Agent must be authorized to receive and respond to FDA communications on the manufacturer's behalf. The US Agent must maintain current contact information and notify FDA of any changes within 30 days. The manufacturer remains fully liable for compliance regardless of US Agent designation.
+
+Add the following paragraph after 'The manufacturer remains fully liable for compliance regardless of US Agent designation.':
+
+Amending US Agent information
+
+Manufacturers must notify FDA of any changes to the US Agent contact (name, title, phone, email, or address) within 30 days of the change. Changes are submitted through FURLS. Failure to maintain current US Agent contact information may result in import alerts or refusal of entry, as FDA will be unable to reach the responsible contact regarding inspections, compliance issues, or product safety matters.

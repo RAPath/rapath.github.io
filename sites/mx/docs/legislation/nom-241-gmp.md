@@ -62,3 +62,5 @@ Unofficial English translations of prior NOM-241 versions may be available from 
 
 ISO 13485 equivalency – Partial scope coverage:
 Manufacturers with ISO 13485 certification that does not cover all device categories they market in Mexico must ensure the certificate scope explicitly includes the relevant medical device classification(s). If your ISO 13485 certificate excludes certain device types, those devices must still undergo GMP assessment by COFEPRIS or be manufactured under a separate validated system. Confirm scope alignment with your MRH before submission.
+
+Add new subsection 'Transition from NOM-241-SSA1-2021': 'Manufacturers already certified or operating under NOM-241-SSA1-2021 have until April 2026 to demonstrate compliance with NOM-241-SSA1-2025. COFEPRIS has indicated that existing ISO 13485:2016 certificates remain valid throughout the transition period. However, any renewal applications submitted after April 2025 must reference compliance with NOM-241-SSA1-2025. Confirm transition details with your MRH and QA team.'

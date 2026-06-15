@@ -69,3 +69,5 @@ Ethics committee review typically must be completed before DAV investigation app
 :::
 
 Donated devices must include labelling and instructions for use (IFU) in Vietnamese, to the extent applicable. The receiving institution must maintain records of donated device use and report any serious adverse events to DAV in accordance with post-market vigilance requirements.
+
+under humanitarian donations: 'Donated devices must include labelling and instructions for use (IFU) in Vietnamese, to the extent applicable. The receiving institution must maintain records of donated device use and report any serious adverse events to DAV in accordance with post-market vigilance requirements.

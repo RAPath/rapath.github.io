@@ -48,3 +48,5 @@ Exemption from WAND notification does **not** mean exemption from other obligati
 - Adverse events involving exempt devices should still be reported to Medsafe
 - Labelling must still comply with GHTF guidance
 - If a recall is needed, Medsafe must still be notified
+
+Rewrite as: "Devices provided free of charge and solely for the purpose of evaluation by a healthcare professional (not for patient use, and typically as part of market research or product development) may be exempt. Sponsors should confirm exemption status with Medsafe if uncertain."

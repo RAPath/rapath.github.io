@@ -58,3 +58,11 @@ Maintain a clear document revision history with version dates and descriptions o
 - [Declaration of Conformity](./declaration-of-conformity)
 
 The technical file should be submitted as a structured PDF or electronic document with clear section numbering aligned to MDS-REQ 1 Annex 3. Follow SFDA guidelines for file naming and organization. Consult your AR on current GHAD portal submission technical specifications, as these may be updated periodically.
+
+When to resubmit vs. when to notify
+
+Minor device changes (e.g., manufacturer name change, cosmetic label updates) require notification to SFDA via GHAD but may not trigger technical file resubmission.
+
+Significant changes (e.g., device design modification, new indications, change in manufacturing process, new biocompatibility data showing different outcomes) require a change notification submission with updated technical file sections, or in some cases, a full re-assessment depending on the change's impact on safety and performance.
+
+Consult with your AR on whether a planned change is classified as significant and requires formal resubmission before implementation.

@@ -85,3 +85,5 @@ HSA does not use a "Qualified Person" concept equivalent to the EU's PRRC (Perso
 - [HP(MD) Regulations 2010 — Part 4 (Dealer's licences)](https://sso.agc.gov.sg/SL/HPA2007-S436-2010)
 
 Complete the QP section with: "While HSA does not mandate a named Qualified Person role, dealer's licence applications must identify individuals responsible for quality and regulatory compliance. The responsible person(s) must have appropriate expertise, training, and authority to fulfil those functions."
+
+The Qualified Person (QP) — a role to be aware of: HSA does not use a "Qualified Person" concept equivalent to the EU's PRRC (Person Responsible for Regulatory Compliance). However, dealer's licence applications require nomination of a responsible person who can demonstrate knowledge of regulatory and QMS requirements appropriate to the scope of the licence.

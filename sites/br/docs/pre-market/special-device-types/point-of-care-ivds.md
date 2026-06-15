@@ -24,4 +24,8 @@ POC IVDs are classified under RDC 36/2015 based on risk and intended use. Exampl
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
 
+Lay-use performance studies should demonstrate that the device achieves performance targets (sensitivity and specificity) appropriate to the device's clinical context and intended use, when used by lay persons without professional laboratory training. While 95% sensitivity and 99% specificity are common benchmarks, ANVISA evaluates performance targets on a device-specific basis—lower targets may be acceptable for screening tests with confirmatory testing workflows, while higher targets may be required for tests with direct clinical decision-making. ANVISA may request additional studies in vulnerable populations (e.g., elderly, low literacy) depending on intended user characteristics.
+
+Note: Pregnancy tests are typically Class II when intended for self-testing, but may be classified higher (Class III) if marketed for specific clinical settings or with enhanced performance claims. All self-test pregnancy tests must include warnings about confirmatory testing with clinical laboratory methods, and usability testing with representative lay users (including diverse literacy levels) is mandatory.
+
 Lay-use performance studies should demonstrate that the device achieves at least 95% sensitivity and 99% specificity, or device-specific performance targets, when used by lay persons without professional laboratory training. ANVISA may request additional studies in vulnerable populations (e.g., elderly, low literacy) depending on intended user characteristics.

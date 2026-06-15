@@ -20,7 +20,7 @@ These markings must be:
 - Placed in a location that will not be obscured or damaged in normal use; and
 - In a font size that is readable under normal conditions of use.
 
-Devices without legible lot numbers and expiry dates may be subject to interdição (seizure) by state VISA bodies during market surveillance inspections.
+Devices without legible lot numbers and expiry dates are subject to interdição (seizure) by state VISA bodies during market surveillance inspections, and the responsible company may face regulatory sanctions including product recall orders and administrative penalties.
 
 ---
 

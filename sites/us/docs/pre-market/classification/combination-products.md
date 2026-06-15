@@ -44,7 +44,7 @@ FDA assigns jurisdiction based on the **primary mode of action (PMOA)** — the 
 - PMOA is drug → **CDER** leads (may consult CDRH)
 - PMOA is biologic → **CBER** leads (may consult CDRH)
 
-If PMOA cannot be determined, FDA designates the centre with the most relevant expertise and clearly resources, or may require submission of an RFD to clarify jurisdictional authority.
+If PMOA cannot be determined, FDA designates the centre with the most relevant expertise and resources, or the submitter may request an RFD to clarify jurisdictional authority.
 
 ---
 

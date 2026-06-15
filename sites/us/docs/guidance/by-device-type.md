@@ -76,4 +76,18 @@ FDA publishes guidance documents specific to device types and medical specialtie
 - [FDA Guidance Documents Search](https://www.fda.gov/regulatory-information/search-fda-guidance-documents)
 - [CDRH Guidance Documents](https://www.fda.gov/medical-devices/device-guidance-documents)
 
-First, determine your device classification (Class I, II, or III) using the FDA Device Classification Database or by consulting the CFR sections listed for each specialty area. Device-specific guidance often assumes knowledge of your device's regulatory pathway and requirements.
+**Before searching for device-specific guidance:**
+
+1. Determine your device classification (Class I, II, or III) using the FDA Device Classification Database (accessdata.fda.gov/scripts/cdrh/cfdocs/cfPCD/PCDSearchResults.cfm) or by consulting the CFR sections listed for each specialty area
+2. Identify your product code, which links to applicable standards and predicate devices
+3. Note that device-specific guidance assumes knowledge of your device's regulatory pathway and may reference classification, predicate device requirements, and submission types
+4. Many guidance documents reference applicable consensus standards — cross-reference with the FDA Consensus Standards Database
+
+Add at the beginning of 'How to find device-specific guidance': 'First, determine your device classification (Class I, II, or III) using the FDA Device Classification Database or by consulting the CFR sections listed for each specialty area. Device-specific guidance often assumes knowledge of your device's regulatory pathway and requirements.'
+
+Add under 'Software / Digital Health (all device types)' section:
+
+- Software as a Medical Device (SaMD): Clinical Evaluation (IMDRF-aligned)
+- Software Functions Guidance (2023)
+- AI/ML Predetermined Change Control Plans (2023)
+- Guidance for SaMD Predicate Device Selection and 510(k) Submissions

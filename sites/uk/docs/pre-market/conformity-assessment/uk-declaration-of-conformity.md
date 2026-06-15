@@ -18,7 +18,7 @@ The UK Declaration of Conformity requirement is established by the **UK MDR 2002
 
 The **UK Declaration of Conformity (UK DoC)** is a formal written statement in which the manufacturer declares, under their sole responsibility, that their medical device complies with all applicable requirements of the UK Medical Devices Regulations 2002.
 
-It is not a certificate issued by MHRA or a UKAB — it is the manufacturer's own legal declaration. For higher-risk devices, this declaration is backed by the independent assessment of a UK Approved Body.
+It is not a certificate issued by MHRA or a UKAB — it is the manufacturer's own legal declaration made under their sole responsibility. For higher-risk devices (Classes IIa, IIb, and III), this declaration must be backed by an independent assessment certificate issued by a UK Approved Body. For Class I self-declaration, no third-party certificate is required.
 
 The UK DoC is:
 - Required for all medical devices placed on the GB market

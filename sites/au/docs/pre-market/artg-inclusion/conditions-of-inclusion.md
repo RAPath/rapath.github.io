@@ -31,7 +31,7 @@ The sponsor must maintain distribution records sufficient to enable an effective
 The written agreement between the sponsor and manufacturer must remain in place and must enable the sponsor to obtain technical and regulatory information from the manufacturer within required timeframes.
 
 **Notification of significant changes**
-If a significant change is made to the device (design, intended purpose, materials, manufacturing, labelling), the sponsor must notify the TGA and determine whether a variation application or new ARTG application is required.
+If a significant change is made to the device (design, intended purpose, materials, manufacturing source, labelling, or sterile status), the sponsor must notify the TGA and submit a variation application or new ARTG application as required. The TGA publishes guidance on when a variation is required versus notification only.
 
 **Compliance with advertising requirements**
 All advertising for the device must comply with the Therapeutic Goods Advertising Code. Claims must be consistent with the device's ARTG entry.

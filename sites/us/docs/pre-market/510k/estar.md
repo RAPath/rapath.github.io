@@ -70,3 +70,5 @@ FDA is transitioning toward fully electronic submissions — check current instr
 - [eSTAR Templates Download Page](https://www.fda.gov/medical-devices/premarket-submissions-selecting-and-preparing-correct-submission/estar-templates)
 
 Transition deadline: As of October 1, 2023, eSTAR is the only acceptable submission format for Traditional 510(k)s, Abbreviated 510(k)s, and De Novo requests. Submissions received before this date using non-eSTAR formats were accepted under the previous system, but all current submissions must comply with eSTAR requirements.
+
+Add under 'Submitting via eSTAR' section: 'Transition deadline: As of October 1, 2023, eSTAR is the only acceptable submission format for Traditional 510(k)s, Abbreviated 510(k)s, and De Novo requests. Submissions received before this date using non-eSTAR formats were accepted under the previous system, but all current submissions must comply with eSTAR requirements.'

@@ -63,3 +63,7 @@ Non-compliant products found during market sampling trigger immediate sanctions 
 ## Post-Market Market Sampling
 
 "NIE Renewal Requirements - The NIE must be renewed every 5 years. Renewal applications must be submitted through Regalkes at least 6 months before the current NIE expires. Failure to renew on time results in automatic suspension of the NIE and permission to distribute is terminated. Renewal dossiers must include updated GMP certificates, ISO 13485 certificates, and evidence that the device remains compliant with applicable standards."
+
+Add new section after 'Post-Market Market Sampling': "NIE Renewal Requirements - The NIE must be renewed every 5 years. Renewal applications must be submitted through Regalkes at least 6 months before the current NIE expires. Failure to renew on time results in automatic suspension of the NIE and permission to distribute is terminated. Renewal dossiers must include updated GMP certificates, ISO 13485 certificates, and evidence that the device remains compliant with applicable standards."
+
+Remove the second 'Post-Market Market Sampling' heading and consolidate the content under a single heading. Ensure the section containing the NIE Renewal Requirements quote appears only once with a clear heading such as 'NIE Renewal Requirements' or 'Post-Market Obligations'.

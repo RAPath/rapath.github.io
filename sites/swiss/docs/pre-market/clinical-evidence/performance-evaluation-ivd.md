@@ -22,13 +22,23 @@ For in vitro diagnostic devices under IVDO, clinical evidence takes the form of 
 - Positive/negative predictive values
 
 ## Performance Studies
-For List A IVDs, an NB review of clinical evidence is mandatory via Annex IX Chapter II. For List B IVDs, NB involvement may be required depending on the conformity assessment route chosen (Annex IX Chapter I or Annex X + XI). Ethics committee review is required only when performance studies involve human participants or patient data. Key types:
+For List A IVDs, a mandatory NB review of clinical evidence applies via Annex IX Chapter II (technical documentation assessment). For List B IVDs, NB involvement in performance evaluation is required only if Annex IX Chapter I (QMS audit) or Annex X + XI routes are selected; the NB does not review clinical evidence for List B IVDs. Ethics committee review is required only when performance studies involve human participants or patient data. Key types:
 - **Analytical performance studies** — laboratory studies validating analytical claims
 - **Clinical performance studies** — studies involving human specimens or participants to validate clinical performance claims
 - **Scientific validity assessment** — establishing the analyte's association with the clinical condition
 
 ## MDCG 2022-2 Guidance
 MDCG 2022-2 (Guidance on general principles of clinical evidence for IVDs) is applicable in Switzerland and provides detailed guidance on the performance evaluation process, performance study design, and how to demonstrate compliance with IVDO Annex XIII.
+
+
+Reference Materials and Standards
+​
+Validation of analytical performance typically requires: certified reference materials (CRMs) or in-house reference standards with documented traceability; calibration and quality control (QC) materials appropriate to the measuring range; documentation of material stability, shelf-life, and storage conditions; justification for any deviations from internationally recognised reference standards.
+
+
+Literature-Based vs. Original Performance Data
+​
+For List B IVDs, performance data may be sourced from: published literature from peer-reviewed journals (when methodologically sound and relevant to the claimed use); original analytical studies conducted by the manufacturer or contracted laboratory; combination of literature and original validation data. Literature sources must be critically appraised for applicability to the device's claimed analytical characteristics, population studied, and intended use. Original performance studies are preferred for novel analytes or when existing literature is insufficient or of unclear quality.
 
 ## Official Sources
 - [IVDO Annex XIII (SR 812.219)](https://www.fedlex.admin.ch/eli/cc/2022/103/en)

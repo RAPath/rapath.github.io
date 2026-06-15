@@ -25,3 +25,5 @@ INMETRO certification and its conformity mark (*Marca de Conformidade INMETRO*) 
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+INMETRO certification requires submission to a notified body accredited by INMETRO. The certification process includes technical file review, laboratory testing (if required), and issuance of a conformity certificate. Timeline varies by device complexity and notified body workload, typically 4–12 weeks. Once certified, the INMETRO Marca de Conformidade (conformity mark) must appear on the device or packaging alongside the ANVISA registration number. Both ANVISA and INMETRO authorisations must be in place before marketing. Check INMETRO's current portaria regularly, as compulsory certification requirements are updated periodically.

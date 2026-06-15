@@ -65,7 +65,7 @@ IVD dossiers follow the ASEAN CSDT structure, with IVD-specific modules:
 
 ## IVD Labeling
 
-IVD labeling must comply with all standard Indonesian labeling requirements (Bahasa Indonesia mandatory for all safety and usage information) plus IVD-specific content such as:
+IVD labeling must comply with all standard Indonesian labeling requirements under Permenkes 62/2017 and Permenkes 11/2025 (including mandatory Bahasa Indonesia for all safety and usage information) plus IVD-specific technical content (analytical performance statements, reference intervals, calibration requirements) such as:
 - Analytical sensitivity and specificity statements
 - Calibration requirements and frequency
 - Interference and cross-reactivity warnings
@@ -73,3 +73,7 @@ IVD labeling must comply with all standard Indonesian labeling requirements (Bah
 - Reference ranges or expected values
 
 When a multi-parameter analyser performs assays spanning multiple risk classes (e.g., a haematology analyser performing both routine blood counts and cancer marker detection), the device must be classified according to the highest-risk assay it performs. For example, if the analyser includes a tumour marker assay (Class C), the entire analyser is classified as Class C, regardless of the classification of other routine assays it performs. All assays and performance data for the full range of intended uses must be included in the registration dossier.
+
+Add to 'Combination Analysers' subsection: 'When a multi-parameter analyser performs assays spanning multiple risk classes (e.g., a haematology analyser performing both routine blood counts and cancer marker detection), the device must be classified according to the highest-risk assay it performs. For example, if the analyser includes a tumour marker assay (Class C), the entire analyser is classified as Class C, regardless of the classification of other routine assays it performs. All assays and performance data for the full range of intended uses must be included in the registration dossier.'
+
+Complete the truncated final paragraph. The full sentence should read: 'When a multi-parameter analyser performs assays spanning multiple risk classes (e.g., a haematology analyser performing both routine blood counts and cancer marker detection), the device must be classified according to the highest-risk assay it performs. For example, if the analyser includes a tumour marker assay (Class C), the entire analyser is classified as Class C, regardless of the classification of other routine assays it performs. All documentation must address the highest-risk application in the clinical evaluation report.'

@@ -49,3 +49,7 @@ All full IMDRF member regulatory authorities are recognised by COFEPRIS for the 
 - [SaMD in Mexico](../digital-health/samd-overview)
 
 (formalised in the June 2025 Acuerdo) to match the reference in the 'IMDRF members recognised for the Equivalency Route' section, which correctly cites June 2025.
+
+Clarify the timeline: Add to the first bullet point: '(formalised in the June 2025 Acuerdo)' to match the reference in the 'IMDRF members recognised for the Equivalency Route' section, which correctly cites June 2025.
+
+Remove the parenthetical note at end of section and standardize: Change 'The Equivalency Route (June — formalised via the Acuerdo published in June 2025. 2025)' to 'The Equivalency Route was formalised via Acuerdo published in the Diario Oficial de la Federación in June 2025.'

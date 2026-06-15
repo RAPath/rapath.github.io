@@ -18,7 +18,7 @@ The Ninsho application dossier demonstrates conformity with the applicable recog
 - Manufacturing information and FMR reference
 - QMS confirmation (MO 169 compliance declaration)
 
-Unlike Shonin, Ninsho does not require a full clinical evaluation report in most cases — standard conformity with performance testing data is typically sufficient for standard Class II devices.
+Unlike Shonin, Ninsho does not require a comprehensive clinical evaluation report in most cases. For standard Class II devices, demonstration of conformity with the applicable recognised standard (supported by non-clinical testing data, biocompatibility data, and performance specifications) is typically sufficient. However, if the device makes novel clinical claims or if the applicable standard does not comprehensively address the device's intended use, the RCB may request additional clinical evidence or a clinical evaluation report.
 
 ## RCB review process
 
@@ -44,3 +44,7 @@ Ninsho timelines are significantly faster than Shonin:
 RCBs issue queries similar to PMDA Q&As during Shonin review. Prompt, complete responses help avoid timeline extensions. If an RCB query reveals that the device does not fully conform to the applicable standard, you may need to either modify the device or switch to the Shonin pathway.
 
 For some device types, the RCB may conduct a factory inspection or document-based QMS audit during or after the technical review. If an inspection is scheduled, this extends the overall timeline and should be confirmed with the RCB at the time of submission.
+
+Add to 'RCB review process': 'For some device types, the RCB may conduct a factory inspection or document-based QMS audit during or after the technical review. If an inspection is scheduled, this extends the overall timeline and should be confirmed with the RCB at the time of submission.'
+
+If the RCB determines the device does not conform to the applicable standard and the MAH cannot modify the device to achieve conformity, the MAH must pursue approval via the Shonin pathway instead. This requires preparation of a full Shonin dossier and resubmission to PMDA. The MAH should contact PMDA to discuss the scope and timeline of the required Shonin dossier.

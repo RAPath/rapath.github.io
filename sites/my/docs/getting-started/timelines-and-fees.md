@@ -6,7 +6,7 @@ description: Processing timelines and government fees for MDA establishment lice
 
 # Key Timelines & Fees
 
-Fees are current as of the last update to this guidance. Always verify the most current fee schedules on the MyMDA portal (mymda.mda.gov.my) before submitting your application, as MDA may adjust fees without advance notice.
+Fees are current as of the last update to this guidance. Always verify the most current fee schedules on the MyMDA portal (mymda.mda.gov.my) before submitting your application, as MDA may adjust fees without advance notice. Fees listed below are in Malaysian Ringgit (MYR).
 
 ## Establishment Licensing Fees
 
@@ -67,3 +67,18 @@ The review clock stops when MDA issues a query (Deficiency Letter). The applican
 Payment Timing & Refunds
 
 Establishment and device registration fees are payable upon application submission via the MyMDA portal. Fees are non-refundable if an application is rejected or withdrawn after submission. Variation fees are due when the variation application is submitted.
+
+**Payment Timing & Refunds**
+
+Establishment and device registration fees are payable upon application submission via the MyMDA portal. Fees are non-refundable if an application is rejected or withdrawn after submission. Variation fees are due when the variation application is submitted.
+
+Expedited Review Pathways
+
+MDA may offer expedited or priority review for:
+
+Devices addressing unmet medical needs
+Devices for life-threatening or seriously debilitating conditions
+Devices with breakthrough technology
+Devices approved or registered in stringent regulatory jurisdictions (US FDA, EU, TGA, Health Canada)
+
+Applicants should contact MDA pre-submission to determine eligibility and timeline reduction opportunities.

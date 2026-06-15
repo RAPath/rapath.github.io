@@ -36,7 +36,7 @@ The UDI carrier (barcode, DataMatrix, or RFID) must appear on the label of the d
 The HRI is the text version of the UDI, which must appear adjacent to the UDI carrier. Format requirements:
 - Must contain the same information as the carrier
 - Must be legible without magnification aids
-- Where the device or packaging is too small, the HRI may appear on the next outer packaging level or on a folded leaflet
+- Where the device or packaging is too small to accommodate the HRI legibly, the HRI may appear on the next outer packaging level, on a folded leaflet attached to the package, or within the product documentation provided to users
 
 The HRI presents the UDI components as text — e.g.:
 - `(01) 05012345678900` — UDI-DI (GTIN format)
@@ -131,3 +131,13 @@ A manufacturer may use different issuing entities for different product lines �
 | HIBCC HIBC standard | HIBCC UDI specification |
 
 Complete the section with: 'Supply chain integration: which systems your distributors and hospitals already use Industry standards: GS1 is most common for most medical devices; HIBCC is used in some North American-focused supply chains; ICCBBA is essential for blood/tissue products Regulatory acceptance: all three are EU-recognised; GS1 is the de facto standard in Europe Cost and administration: GS1 requires national membership; HIBCC has direct registration; ICCBBA is ISBT-specific Technical capability: ensure your labelling equipment can produce the required carrier format Once selected, the issuing entity cannot be changed without re-registering the device and obtaining new UDI-DIs.'
+
+Complete the ICCBBA section with: 'ICCBBA (International Council for Commonality in Blood Banking Automation)
+
+Standard: ISBT 128
+UDI-DI format: ISBT 128 formatted identifier for blood, tissue, and cellular products
+Carrier formats: ISBT 128 barcode (linear or 2D)
+Scope: primarily for blood, tissue, cellular, and related products
+Registration: via ICCBBA (iccbba.org)
+
+ISBT 128 is specifically designed for blood and tissue products and is less commonly used for general medical devices compared to GS1 and HIBCC.'

@@ -52,4 +52,8 @@ These reports must summarise post-market clinical follow-up data and any safety 
 - Regulation No. 11020: [roszdravnadzor.gov.ru](https://roszdravnadzor.gov.ru/)
 :::
 
+Definition: 'Serious deterioration in the state of health' encompasses conditions such as extended hospitalization, temporary or permanent disability, reversible or irreversible impairment of body function, or other significant adverse health impacts. Manufacturers should refer to Roszdravnadzor guidance documents and current regulations for the complete interpretation.
+
+Replace 'Contact your Russian Authorized Representative (RUS REP) to ensure reports are filed correctly and within or local distributor the specified timeframes, as they are responsible for filing with Roszdravnadzor on behalf of foreign manufacturers.' with 'Contact your Russian Authorized Representative (RUS REP) or local distributor to ensure reports are filed correctly and within the specified timeframes, as they are responsible for filing with Roszdravnadzor on behalf of foreign manufacturers.'
+
 Note: 'Serious deterioration in the state of health' is interpreted broadly and may include extended hospitalization, temporary or permanent disability, or other significant health impacts as defined in Roszdravnadzor guidance documents.

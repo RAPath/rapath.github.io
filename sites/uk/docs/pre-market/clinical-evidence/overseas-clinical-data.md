@@ -63,7 +63,7 @@ Data from TGA (Australia), Health Canada, and other IMDRF member country investi
 
 ## Using EU MDR clinical data for the UK market
 
-For manufacturers with EU MDR certification, the clinical evaluation package developed for EU MDR Annex XIV purposes is typically more than sufficient for UK MDR 2002 purposes, because EU MDR requirements are more prescriptive and demanding. The same CER can generally serve both markets with:
+For manufacturers with EU MDR certification, the clinical evaluation package developed for EU MDR Annex XIV purposes is generally sufficient for UK MDR 2002 purposes. EU MDR requirements are typically more prescriptive and rigorous than UK MDR 2002 requirements, particularly regarding equivalence demonstration and PMCF. The same CER can generally serve both markets with:
 
 - A UK-specific cover page and regulatory reference
 - Minor adjustments to reflect UK MDR 2002 ER references rather than EU MDR GSPR

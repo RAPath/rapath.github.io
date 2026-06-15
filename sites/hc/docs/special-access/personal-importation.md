@@ -39,3 +39,6 @@ Canada Border Services Agency (CBSA) enforces importation rules at the border. C
 If a device is not personally importable and is also not licensed in Canada, the **Special Access Program (SAP)** may be the appropriate route for a healthcare practitioner to obtain the device for a specific patient. See [Special Access Program](/docs/special-access/special-access-program).
 
 > **Legislative source:** Food and Drugs Act, RSC 1985, c F-27; Health Canada personal importation policy
+
+Quantity and documentation guidance
+While Health Canada does not specify an absolute quantity limit, 'personal use' is typically interpreted as a supply intended for the importer's own treatment needs (e.g., one CPAP machine, a 90-day supply of glucose strips). For importation, the importer should be prepared to declare the device's medical purpose to CBSA. Keeping a copy of the prescription or medical justification is advisable, especially for high-value or controlled devices.

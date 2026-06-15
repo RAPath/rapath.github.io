@@ -57,7 +57,7 @@ Non-EU manufacturers report through their EU authorised representative. The EU R
 | Belgium | FAMHP (Federal Agency for Medicines and Health Products) | famhp.be |
 | Austria | BASG / AGES | basg.gv.at |
 
-A full list of all EU NCAs is maintained on the European Commission DG SANTE website.
+A full list of all EU NCAs is maintained on the European Commission DG SANTE website at https://ec.europa.eu/health/md_newreqs/nando.
 
 ---
 
@@ -135,3 +135,5 @@ For incidents or FSCAs affecting multiple member states:
 | EC DG SANTE | NCA directory |
 
 For FSCA notifications, the NCA may request changes to the corrective action plan, additional risk data, or evidence of effectiveness before approving the FSCA. Manufacturers must respond promptly to NCA requests.
+
+After a report is submitted: The NCA acknowledges receipt (within EUDAMED or by direct communication) within a defined timeframe. The NCA may request clarification or additional information. Manufacturers must respond to NCA queries within the timeframe specified. Some NCAs publish summaries or public alerts based on vigilance reports they receive.

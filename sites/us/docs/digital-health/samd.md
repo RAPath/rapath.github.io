@@ -40,7 +40,7 @@ FDA applies a risk-based approach to SaMD, aligned with the **IMDRF SaMD Risk Ca
 | **II** | Non-serious | Driving clinical management |
 | **I (lowest)** | Any | Informing clinical management |
 
-Higher-risk SaMD (Risk Categories III and IV) typically requires a more rigorous premarket review pathway (PMA or De Novo rather than 510(k)) and substantial clinical evidence, including head-to-head performance studies against applicable reference standards.
+Higher-risk SaMD (Risk Categories III and IV) typically requires a more rigorous premarket review pathway (PMA or De Novo rather than 510(k)) and substantial clinical evidence. For diagnostic AI/ML SaMD, this often includes head-to-head performance studies comparing the algorithm's performance against applicable reference standards (such as expert consensus or gold-standard diagnostic modalities) across diverse patient populations and use conditions.
 
 ---
 
@@ -76,3 +76,9 @@ SaMD is classified under the same Class I/II/III system as all other devices, us
 - [IMDRF SaMD Documents](https://www.imdrf.org/documents?field_document_type_target_id%5B%5D=22)
 
 Key distinction: SaMD is standalone software that performs medical functions independently. Device software functions are software embedded within or controlling a hardware device (e.g., firmware in an infusion pump, algorithms in a ventilator). Both are regulated, but device software functions are regulated as part of the hardware device classification, not as separate SaMD.
+
+Add clarification text after the category table: 'Key distinction: SaMD is standalone software that performs medical functions independently. Device software functions are software embedded within or controlling a hardware device (e.g., firmware in an infusion pump, algorithms in a ventilator). Both are regulated, but device software functions are regulated as part of the hardware device classification, not as separate SaMD.'
+
+Alternative pathways for established manufacturers
+
+FDA's Software Precertification (Pre-Cert) Program (pilot phase, ongoing) offers an alternative to traditional premarket submissions for SaMD manufacturers with a demonstrated history of excellence in software design and quality management. Participating companies may be eligible for expedited or streamlined review pathways. Current participants represent companies with established, mature quality systems for digital health products.

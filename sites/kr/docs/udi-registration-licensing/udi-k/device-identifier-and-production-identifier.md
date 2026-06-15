@@ -29,3 +29,5 @@ Variable portion that includes one or more of:
 
 ## Related pages
 - [UDI-K overview](./udi-k-overview) · [KIMS database registration](./kims-database-registration) · [UDI labelling requirements](./udi-labelling-requirements)
+
+Add a new subsection under "Device Identifier (DI) — 기기식별자": "UDI-K Format: The DI follows either GS1 format (typically 01 + GTIN-14) or HIBCC format. Both are accepted by MFDS. Confirm the required format with your issuing agency (GS1 Korea or HIBCC) before application."

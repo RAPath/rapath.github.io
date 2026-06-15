@@ -24,3 +24,7 @@ India's manufacturing licence framework splits authority between **CDSCO** (Clas
 - CDSCO/SLA inspection prior to grant of licence.
 
 > **Official source:** Medical Devices Rules 2017, Chapter IV; [CDSCO](https://cdsco.gov.in)
+
+Schedule 5 GMP Scope:
+
+Schedule 5 GMP requirements cover: personnel and training; premises and equipment; documentation and records; production and in-process controls; quality assurance; storage and distribution; and post-market surveillance. Facilities must maintain detailed standard operating procedures (SOPs) for all manufacturing processes and conduct regular internal audits.

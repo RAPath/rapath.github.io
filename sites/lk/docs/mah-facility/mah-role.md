@@ -33,6 +33,8 @@ The MAH's accountability spans the full device lifecycle:
 
 ## Who Can Be an MAH?
 
+The MAH may be either a registered company or a sole proprietor/natural person, provided the entity or individual is legally registered in Sri Lanka and meets the capacity requirements set by the NMRA.
+
 Any Sri Lanka-based entity (company or individual) with:
 - Valid Sri Lanka business registration
 - Sufficient technical and administrative capacity to fulfil MAH obligations

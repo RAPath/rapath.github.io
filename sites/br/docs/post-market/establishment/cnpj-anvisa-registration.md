@@ -30,3 +30,9 @@ Verify all information against official [ANVISA](https://www.gov.br/anvisa) sour
 
 
 Timeline: CNPJ registration through Receita Federal is typically processed online and issued within 1–2 business days. However, companies may also request CNPJ in-person at local Receita Federal offices. Ensure CNPJ registration is complete before beginning ANVISA registration, as the CNPJ is a mandatory field in the Peticionamento Eletrônico system.
+
+Add after the prerequisites bullet list:
+
+Timeline: CNPJ registration through Receita Federal is typically processed online and issued within 1–2 business days. However, companies may also request CNPJ in-person at local Receita Federal offices. Ensure CNPJ registration is complete before beginning ANVISA registration, as the CNPJ is a mandatory field in the Peticionamento Eletrônico system.
+
+If CNPJ registration is delayed or rejected, the foreign manufacturer cannot proceed with ANVISA registration, device registration, or importation until a valid CNPJ is obtained. Foreign companies should therefore verify CNPJ eligibility and complete registration before commencing any ANVISA regulatory activities. When working through a Brazilian importer, ensure the importer's CNPJ is active and that the importer has capacity to hold all ANVISA registrations in their own name, as this confers significant regulatory and legal liability on the importer.

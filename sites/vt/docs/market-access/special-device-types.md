@@ -10,7 +10,7 @@ Certain categories of medical device have specific regulatory considerations bey
 
 ## Software as a Medical Device (SaMD)
 
-Software that meets the definition of a medical device — i.e. software intended to be used for a medical purpose without being part of a hardware device — is regulated under Decree 98/2021. DAV is developing its approach to SaMD and digital health software.
+Software that meets the definition of a medical device—i.e., software intended to be used for a medical purpose without being part of a hardware device—is regulated under Decree 98/2021. DAV applies the same classification and risk-based framework to SaMD as to hardware devices and is actively refining guidance on cybersecurity, software validation, and digital health applications.
 
 Key principles:
 - Classification follows intended purpose and risk (same Type A–D framework)
@@ -54,3 +54,5 @@ Unregistered devices may be imported for emergency or humanitarian use under spe
 A device manufactured in Vietnam solely for export is subject to export certificate requirements but does not need to be declared or registered for the Vietnamese domestic market. An export certificate (Certificate of Free Sale) can be obtained from DAV to support market access applications in the destination country.
 
 Manufacturers must maintain detailed software documentation including: software architecture and design specifications, software development lifecycle (SDLC) documentation, cybersecurity risk assessment and mitigation measures, software testing and validation protocols, and procedures for managing software updates and change control. DAV may request evidence of compliance with IEC 62304 requirements during registration review.
+
+Remove the duplicate paragraph starting with 'Manufacturers must maintain detailed software documentation...' at the end of the SaMD section. The key requirements are already clearly stated in the 'Key principles' subsection.

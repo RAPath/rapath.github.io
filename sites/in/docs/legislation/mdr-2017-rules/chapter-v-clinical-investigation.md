@@ -12,3 +12,5 @@ This page summarises the key rules in this chapter of the Medical Devices Rules 
 > **Official source:** [MDR 2017 — CDSCO](https://cdsco.gov.in/opencms/opencms/en/Medical-Device-Diagnostics/Medical-Device-Diagnostic-Rules/)
 
 Chapter V establishes requirements for clinical investigations of medical devices, including approval from CDSCO and ethics committee clearance. Applications must include study protocol, investigator qualifications, informed consent forms, and safety monitoring plans. The process is governed by the New Drugs and Clinical Trials Rules 2019 for applicability to certain device investigations.
+
+Clinical investigation approval requirements vary based on device classification and novelty. Generally, Class C devices and new device technologies require clinical investigation approval. Some devices may be exempt from clinical investigation if adequate clinical data from international sources is available and accepted by CDSCO. Applicants should verify specific requirements based on their device classification.

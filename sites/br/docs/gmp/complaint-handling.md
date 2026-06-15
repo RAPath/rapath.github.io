@@ -20,3 +20,5 @@ Verify all information against official [ANVISA](https://www.gov.br/anvisa) sour
 :::
 
 "Complaint records must include: the date received, source of complaint, detailed description of the issue, lot/batch numbers, manufacturing and expiration dates, actions taken in response, findings of the investigation, and signature of the person responsible for investigation. Investigations must be completed and documented within a defined timeframe specified in the manufacturer's complaint handling procedure."
+
+Add after the first paragraph: "Complaint records must include: the date received, source of complaint, detailed description of the issue, lot/batch numbers, manufacturing and expiration dates, actions taken in response, findings of the investigation, and signature of the person responsible for investigation. Investigations must be completed and documented within a defined timeframe specified in the manufacturer's complaint handling procedure."

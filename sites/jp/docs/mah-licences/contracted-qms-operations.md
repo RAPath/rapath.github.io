@@ -31,3 +31,5 @@ If sterilisation is outsourced to a contract steriliser, special attention is re
 - The contract steriliser must hold the appropriate manufacturing registration
 - The sterilisation process validation must cover the specific device(s) being processed
 - Change notification requirements must be covered in the contract (changes to sterilisation cycle parameters may require Ichibu Henko)
+
+Supplier Qualification Requirements: A contract manufacturer or outsourced provider must be qualified by the MAH before engaging in manufacturing or quality operations. Qualification typically includes: review of the supplier's QMS documentation, on-site audit by the MAH or a third party, verification of certifications (ISO 13485 or equivalent), and documented assessment of the supplier's capability to meet specifications. All qualification records must be maintained and made available during PMDA inspections.

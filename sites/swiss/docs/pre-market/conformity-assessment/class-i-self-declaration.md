@@ -22,10 +22,15 @@ For **standard Class I devices**, the manufacturer performs a **self-declaration
 2. Conduct ISO 14971 risk management
 3. Complete GSPR compliance matrix
 4. Issue and sign the Declaration of Conformity
-5. Register in Switzerland device in DAPI within 30 days of first market placement
+5. Register the device in DAPI within 30 days of first market placement in Switzerland
 
 ## Common Misconception
 Class I devices require the same depth of technical documentation as higher-class devices. The only difference is that the NB does not review it. Swissmedic may request technical documentation during market surveillance at any time.
+
+
+Declaration of Conformity Timeline
+​
+The Declaration of Conformity must be issued and signed before or simultaneously with DAPI registration. Swissmedic may request a copy of the signed Declaration of Conformity at any time during market surveillance. Backdating a Declaration of Conformity after DAPI registration is not acceptable.
 
 ## Official Sources
 - [MedDO Annex IV (SR 812.213)](https://www.fedlex.admin.ch/eli/cc/2021/205/en)

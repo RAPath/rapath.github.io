@@ -23,7 +23,7 @@ A compliant PMS system must systematically collect, review, and act on data from
 - **Post-market clinical follow-up (PMCF)** data — for higher-risk devices where pre-market clinical evidence was insufficient to address all questions
 - **Technical complaints** — reports of device malfunction or performance issues that did not result in patient harm
 
-All PMS data must be analysed and the conclusions must be fed back into the device's risk management file and clinical evaluation report. The PMS system must be documented and systematically (ISO 14971) in a PMS Plan, periodically reviewed (at least annually for higher-risk devices), the results recorded in periodic PMS Reports (PMSR) or Periodic Safety Update Reports (PSUR).
+All PMS data must be analysed and the conclusions must be fed back into the device's risk management file and clinical evaluation report. The PMS system must be documented in a PMS Plan following ISO 14971 principles, periodically reviewed (at least annually for higher-risk devices), with results recorded in periodic PMS Reports (PMSR) or Periodic Safety Update Reports (PSUR).
 
 ---
 
@@ -65,6 +65,9 @@ PMS does not exist in isolation — it connects directly to:
 - **ARTG conditions:** Failure to maintain adequate PMS is a breach of ARTG conditions of inclusion
 
 ---
+
+
+The final paragraph appears incomplete. It should end with a complete sentence. The last visible text reads: 'Clinical evaluation: PMS data must be incorporated into the ongoing clinical evalu' — this needs to be completed with: 'ation and may necessitate updates to the clinical evaluation report if new evidence emerges that affects the benefit-risk assessment.'
 
 ## Official Sources
 

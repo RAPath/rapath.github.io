@@ -31,8 +31,8 @@ Manufacturers supplying both the GB and NI markets (or GB, NI, and EU) must navi
 
 For most manufacturers, the most practical approach until 30 June 2030 is:
 - Maintain EU MDR/IVDR CE certification (via EU Notified Body) — this satisfies the NI market
-- Rely on CE marking transitional acceptance for GB — this satisfies the GB market until 2030
-- Register with MHRA (GB registration via Submissions portal) and EUDAMED (EU/NI registration)
+- Rely on CE marking transitional acceptance for GB — this satisfies the GB market until 30 June 2030
+- Register with MHRA via MHRA Submissions portal (for GB market) and separately in EUDAMED (for EU and NI markets). These are two independent registration systems with separate submission requirements and deadlines.
 - Appoint a UKRP (for GB) and an EU REP (for EU/NI) if not UK/EU-established
 
 ### Strategy 2: CE + UKCA for post-2030 preparedness
@@ -71,3 +71,5 @@ If using a UKAB for third-party assessment and needing NI access:
 | MHRA: Great Britain and Northern Ireland | GB vs NI regulatory position |
 
 Register with MHRA (GB registration via MHRA Submissions portal) and EUDAMED (EU/NI registration)
+
+Note: Manufacturers must register separately in both MHRA Submissions portal (GB) and EUDAMED (NI/EU). There is no automated data sync between these portals — each registration requires independent submission of technical files, declarations of conformity, and periodic updates. Track submission deadlines separately to avoid non-compliance.

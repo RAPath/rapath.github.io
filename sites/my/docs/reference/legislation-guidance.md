@@ -31,7 +31,7 @@ MDA publishes Administrative Guidance Notes to clarify procedural and administra
 | AGN-007 | Custom-Made Devices |
 | AGN-008 | Clinical Investigation |
 
-Note: AGN numbering and titles may be updated periodically by MDA. Manufacturers should verify the current list of published AGNs at www.mda.gov.my before submitting applications, as guidance documents are regularly revised to reflect regulatory updates.
+Note: AGN numbering and titles may be updated periodically by MDA. Manufacturers should verify the current list of published AGNs at www.mda.gov.my/guidance or through the MyMDA portal before submitting applications, as guidance documents are regularly revised to reflect regulatory updates.
 
 ## MDA Technical Guidance Notes (TGN)
 
@@ -82,3 +82,5 @@ ASEAN guidance is available from the [ASEAN Secretariat](https://asean.org) and 
 See [Recognised Standards](../conformity-assessment/recognised-standards) for the full standards list.
 
 All MDA Administrative Guidance Notes and Technical Guidance Notes are available for download from www.mda.gov.my/guidance or through the MyMDA portal after registration. A consolidated guidance documents library is maintained on the MDA website.
+
+Add a note after the AGN and TGN tables: 'All MDA Administrative Guidance Notes and Technical Guidance Notes are available for download from www.mda.gov.my/guidance or through the MyMDA portal after registration. A consolidated guidance documents library is maintained on the MDA website.'

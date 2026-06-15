@@ -28,3 +28,11 @@ As of September 24, 2020, **all device classes** are required to comply with UDI
 ## Full compliance as of 2020
 
 Devices already in commercial distribution before their respective compliance date were subject to a transition period; however, any device repackaged or relabelled after the compliance date must comply with UDI requirements regardless of the original clearance/approval date.
+
+Devices already in commercial distribution before their respective compliance date were subject to a transition period; however, any device repackaged or relabelled after the compliance date must comply with UDI requirements regardless of the original clearance/approval date.
+
+Add the following paragraph after 'Full compliance as of 2020' section:
+
+Transition period and relabeling
+
+Devices already in commercial distribution before their respective compliance date were subject to a transition period. However, a critical rule applies: any device that is repackaged, relabeled, or distributed under a new code (e.g., following a manufacturer change) after the compliance date must comply with UDI requirements immediately, regardless of when the original device was cleared or approved. This includes devices with initial clearances dating back many years.

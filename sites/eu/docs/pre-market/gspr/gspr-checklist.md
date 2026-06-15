@@ -147,3 +147,5 @@ Notified bodies assess the GSPR table as a core part of their technical document
 | Official Journal of EU | List of harmonised standards under MDR/IVDR |
 | MDCG 2022-14 | GSPR guidance |
 | MDCG 2019-9 | Summary of safety and clinical performance guidance |
+
+Complete the truncated section explaining how to demonstrate GSPR conformity and finalize the guidance on the cross-reference table methodology.

@@ -37,4 +37,6 @@ Lei 9.782/1999 creates ANVISA as an *autarquia* (federal independent agency) und
 - [Lei 9.782/1999](https://www.planalto.gov.br/ccivil_03/leis/l9782.htm)
 - [Lei 6.437/1977](https://www.planalto.gov.br/ccivil_03/leis/l6437.htm)
 
-The emergency authorisation mechanisms under Lei 13.979/2020 were used extensively during the COVID-19 pandemic. Manufacturers should verify current ANVISA guidance on whether emergency pathways remain available for specific device categories.
+The emergency authorisation mechanisms under Lei 13.979/2020 were used extensively during the COVID-19 pandemic to enable rapid access to critical diagnostic and protective devices. As of 2024, ANVISA has significantly restricted emergency pathways — most emergency mechanisms have expired or require specific justification. Manufacturers should verify current ANVISA guidance on whether emergency pathways remain available for specific device categories, as the standard RDC 751/2022 registration pathway is now the primary route for market entry.
+
+Add after Lei 13.979/2020 description: 'The emergency authorisation mechanisms under Lei 13.979/2020 were used extensively during the COVID-19 pandemic. Manufacturers should verify current ANVISA guidance on whether emergency pathways remain available for specific device categories.'

@@ -69,4 +69,19 @@ For electronic submissions via eCopy Program, see the current eCopy instructions
 - [AccessGUDID](https://accessgudid.nlm.nih.gov)
 - [FDA — How to Study and Market Your Device](https://www.fda.gov/medical-devices/how-study-and-market-your-device)
 
-All FDA submission portals require secure user account creation and may require multi-factor authentication. Designate authorized personnel and maintain secure access credentials — unauthorized access to submissions is a regulatory violation.
+All FDA submission portals require secure user account creation and implement multi-factor authentication (MFA). Best practices:
+- Designate specific authorized personnel with submission rights
+- Maintain secure, non-shared login credentials
+- Implement role-based access controls if your organization has multiple staff
+- Document who has portal access and audit login activity
+- Unauthorized access to regulatory submissions is a serious compliance violation and may trigger FDA enforcement action
+
+Add before the portal table: 'All FDA submission portals require secure user account creation and may require multi-factor authentication. Designate authorized personnel and maintain secure access credentials — unauthorized access to submissions is a regulatory violation.'
+
+Add under 'FDA eSubmitter (eCopy)' section:
+
+**eCopy File Requirements:**
+- File naming: Use clear naming conventions (e.g., "Company_Device_TestReport_Rev1.pdf")
+- File format: PDF for documents; limit to 100 MB per file or 500 MB per submission
+- Submission structure: Organize by submission type (Traditional 510(k), PMA, etc.)
+- Rejected submissions: Non-compliant file formats or naming will trigger resubmission requests

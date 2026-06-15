@@ -18,7 +18,7 @@ This page tracks significant recent changes to Mexico's medical device regulator
 | **June 2025** | DOF Acuerdo — RRA expansion | Formal expansion of recognised Reference Regulatory Authorities to all IMDRF and MDSAP members |
 | **April 2025** | NOM-241-SSA1-2025 | New GMP standard enters into force; replaces NOM-241-SSA1-2021 |
 
-## Drafts under consultation / pending finalisation
+## Drafts under consultation / pending finalisation – As of early 2026
 
 | Instrument | Status | Key changes |
 |---|---|---|
@@ -48,4 +48,4 @@ This page tracks significant recent changes to Mexico's medical device regulator
 - [Equivalency Route](../premarket/equivalency-route)
 - [Useful links](../resources/useful-links)
 
-January 2026 | COFEPRIS policy update | Subsequent registration renewals now eligible for periods up to 10 years (previously 5 years). This applies to renewal applications submitted after January 2026; initial registrations remain on the standard 5-year term. Transition details for registrations with expiry dates before December 2027 are available on the COFEPRIS website.
+January 2026 | COFEPRIS policy update | Subsequent registration renewals now eligible for periods up to 10 years (previously 5 years). This applies to the second and subsequent renewal applications submitted after January 2026; initial registrations remain on the standard 5-year term. Transition details for registrations with expiry dates before December 2027 are available on the COFEPRIS website.

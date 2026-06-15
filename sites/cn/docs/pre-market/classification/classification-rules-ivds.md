@@ -35,7 +35,7 @@ IVD risk is assessed against four factors:
 
 ## IVD instruments
 
-IVD analysers and instruments are classified separately from reagents. A Class I reagent may be used on a Class II instrument. Classification of the instrument does not determine the class of the reagent, and vice versa.
+IVD analysers and instruments are classified separately from reagents based on their own intended use and risk factors. A Class I reagent may be used with a Class II instrument; the classes are independent. Each component requires separate classification and registration; the classification of one does not automatically determine the classification of the other.
 
 ---
 
@@ -46,3 +46,5 @@ The IVD classification catalogue is published as part of the NMDCC. The **IVD Re
 :::note Disclaimer
 Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [NMPA](https://www.nmpa.gov.cn/) sources before making regulatory decisions. Not affiliated with NMPA or any Chinese Government body. Not legal or regulatory advice.
 :::
+
+IVDs are registered through a separate pathway under the IVD Registration & Filing Administration Measures (NMPA Order No. 48). Class I IVDs may be registered through a streamlined notification process; Class II and III require full registration review by CMDE. If an IVD classification is unclear, manufacturers may request a classification determination from CMDE following the same procedures as for device classification. IVD registration dossiers must include analytical validation, clinical performance studies (for Class II/III), and risk management documentation specific to diagnostic accuracy and clinical consequences of errors.

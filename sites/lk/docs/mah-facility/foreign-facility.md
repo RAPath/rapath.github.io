@@ -45,7 +45,7 @@ Audit costs (NMRA inspector travel, accommodation, per diem) are borne by the ma
 
 An on-site NMRA audit may be waived with evidence of:
 
-Report must be recent — typically within 2–3 years of the waiver application submission date. Confirm the acceptable timeframe with the NMRA Medical Devices Regulatory Division, as this requirement may be updated.
+The audit report must be recent — typically issued within 2–3 years of the waiver application submission date. Confirm the current acceptable timeframe with the NMRA Medical Devices Regulatory Division before submission, as this requirement may be updated.
 
 Option 2 — WHO Pre-Qualification:
 - Current WHO PQ certificate and scope document covering the relevant product category
@@ -70,3 +70,5 @@ Waiver application: Submit waiver request with supporting evidence to the NMRA M
 | Total with audit waiver | 8–16 weeks |
 
 Start facility registration before preparing the product registration dossier — particularly if an on-site audit is likely.
+
+Update the Option 1 — SRA Inspection bullet to: 'Report must be recent (typically within 2–3 years of the audit waiver application date — confirm current NMRA requirements as this timeframe may vary)'

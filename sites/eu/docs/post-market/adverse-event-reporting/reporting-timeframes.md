@@ -139,3 +139,10 @@ Late vigilance reporting is a serious regulatory non-compliance. NCAs may:
 | EUDAMED user guides | Vigilance module submission guidance |
 
 The timeframe starts when the manufacturer first becomes aware that an incident may be a serious incident. This means: A customer complaint received by the complaints team → clock starts if the complaint describes a potentially serious outcome; A report from a healthcare institution → clock starts upon receipt; Internal discovery through post-market surveillance, recalls, or audits → clock starts when the information reaches the appropriate personnel responsible for vigilance decisions. Awareness does not require certainty — if there is reasonable suspicion that an event might be a serious incident, the clock has started.
+
+The timeframe starts when the manufacturer first becomes aware that an incident may be a serious incident. This means:
+- A customer complaint received by the complaints team → clock starts if the complaint describes a potential serious incident
+- A safety report from a healthcare provider → clock starts upon receipt
+- Internal discovery of a device malfunction during post-market surveillance → clock starts when identified
+- "Became aware" does not require certainty; awareness of a potential serious incident triggers the clock, even before investigation is complete
+- Delayed discovery: If a manufacturer discovers an incident that occurred months earlier but was not previously reported, the clock runs from the date of discovery, not from the date of the original incident'

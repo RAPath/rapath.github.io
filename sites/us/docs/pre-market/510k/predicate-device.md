@@ -19,8 +19,7 @@ A valid predicate device is a device that was:
 2. **Cleared through the 510(k) process** after May 28, 1976; **OR**
 3. **Classified through a De Novo order** (which creates a new legally marketed reference)
 
-:::caution
-A device approved via PMA cannot serve as a predicate for a 510(k).
+:::⚠️ Important: A device approved via PMA cannot serve as a predicate for a 510(k). Only devices cleared through 510(k), preamendments devices, or devices classified via De Novo order are valid predicates. PMA-approved devices are in a separate regulatory class (Class III) and follow the PMA supplement pathway for modifications, not the 510(k) pathway. Only devices cleared through 510(k), preamendments devices, or devices classified via De Novo order are valid predicates.
 :::
 
 ---

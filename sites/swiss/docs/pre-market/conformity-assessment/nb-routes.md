@@ -18,9 +18,14 @@ NB performs type examination of a representative sample. Issues EU Type Examinat
 Two options: Chapter I (NB QMS audit of production) or Chapter II (NB testing of finished devices). Used as follow-up to Annex X.
 
 ## NB Selection Tips
-- Confirm NB is designated under EU MDR/IVDR for your device class and type via NANDO
+- Confirm the NB is designated and actively notified under EU MDR/IVDR for your specific device class and application type via the NANDO database; verify that the NB's scope explicitly covers your device technology (e.g., software-based, implantable, in vitro diagnostic)
 - Ask for realistic timelines and confirm current NB capacity — notified body backlogs have been significant since the MDR transition; plan 18–24+ months for Class III devices requiring design examination, particularly if multi-site QMS audits are needed
 - Confirm availability of audit team in your working language
+
+
+Language Considerations for Audit Team
+​
+Confirm with the NB that the audit team speaks your working language (English is standard, but German, French, or Italian may be preferred). If technical documentation is in a language other than English, the NB may require English summaries of critical sections. Budget additional time if simultaneous translation is required. Miscommunication during audits due to language barriers can result in audit delays or findings — ensure clarity upfront.
 
 ## Official Sources
 - [MedDO Annexes IX–XI (SR 812.213)](https://www.fedlex.admin.ch/eli/cc/2021/205/en)

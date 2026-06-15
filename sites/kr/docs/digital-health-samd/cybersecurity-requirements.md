@@ -37,3 +37,5 @@ MFDS cybersecurity guidance aligns with:
 - [MFDS digital health framework](./mfds-digital-health-framework) · [AI/ML guidance](./ai-ml-guidance)
 
 As of 2024, MFDS cybersecurity expectations remain guidance-level recommendations. Mandatory binding cybersecurity requirements are expected to be finalized in [specific year if known, or state 'forthcoming']. Manufacturers should begin implementing these expectations immediately to ensure compliance when mandatory requirements take effect.
+
+Replace the bracketed placeholder with: 'Mandatory binding cybersecurity requirements are expected to be finalized in the coming years' or provide the actual expected timeline if known to MFDS.

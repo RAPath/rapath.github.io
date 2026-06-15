@@ -68,9 +68,13 @@ For device registration matters:
 - Formal correspondence is typically conducted through the Regalkes system and the LAR's registered account
 
 :::note
-Kemenkes communications are conducted exclusively in Bahasa Indonesia. Engaging a local regulatory affairs professional (consultant) or LAR to manage correspondence is essential, not optional — official documents must be in Indonesian, and queries require prompt, accurate responses in Indonesian to meet regulatory deadlines.
+All official Kemenkes communications are conducted exclusively in Bahasa Indonesia. Engaging a Local Authorized Representative (LAR) or local regulatory affairs consultant to manage correspondence is essential, not optional. Official documents must be submitted in Indonesian, and all clarification responses (permintaan klarifikasi) require prompt, accurate Bahasa Indonesia responses to meet the regulatory deadline and avoid application delays.
 :::
 
 ## Regalkes — The Digital Interface
 
 "Typical Approval Timelines - Administrative review typically takes 5-10 working days. Technical review is more variable and depends on dossier completeness and complexity; expect 30-90 days for initial technical review, with clarification rounds adding 14-30 days per response cycle. Total time from submission to NIE issuance ranges from 2-6 months for straightforward devices, longer for high-risk Class C and D devices."
+
+Add new section after 'Regalkes — The Digital Interface': "Typical Approval Timelines - Administrative review typically takes 5-10 working days. Technical review is more variable and depends on dossier completeness and complexity; expect 30-90 days for initial technical review, with clarification rounds adding 14-30 days per response cycle. Total time from submission to NIE issuance ranges from 2-6 months for straightforward devices, longer for high-risk Class C and D devices."
+
+Remove the second 'Regalkes — The Digital Interface' heading. The 'Typical Approval Timelines' quote should appear under its own distinct heading: 'Approval Timelines' or 'Expected Processing Timelines'.

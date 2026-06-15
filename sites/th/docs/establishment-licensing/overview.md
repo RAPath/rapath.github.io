@@ -97,3 +97,7 @@ The Thai FDA e-submission portal is available at the Thai FDA website. Confirm t
 Complete the final sentence: 'The Thai FDA e-submission portal is available at the Thai FDA website. Confirm the current portal URL and technical requirements with your regulatory affairs consultant or the Thai FDA directly.'
 
 Distributors typically do not need an Establishment License unless they are also engaged in repackaging, relabelling, or modification of devices. Confirm with the MDCD if your distribution activities include any processing or alteration of the device.
+
+Expand the 'Distributor (in most cases) Confirm with Thai FDA' line to: 'Distributors typically do not need an Establishment License unless they are also engaged in repackaging, relabelling, or modification of devices. Confirm with the MDCD if your distribution activities include any processing or alteration of the device.'
+
+Complete the final sentence: "The Thai FDA e-submission online portal allows applicants to submit, track, and manage all registration applications electronically. Document submission must comply with portal specifications, and approved certificates are issued through the same system. This is the mandatory route for all new Class 1, 2, 3, and 4 applications."

@@ -37,3 +37,5 @@ Reports are submitted via the **SUGAM vigilance module** using Forms MD-38 (init
 > **Official source:** Medical Devices Rules 2017, Schedule 7; [CDSCO — MDVP](https://cdsco.gov.in/opencms/opencms/en/Medical-Device-Diagnostics/)
 
 Clarify the reportable adverse event definition to: "A reportable adverse event is any incident where a device has malfunctioned or deteriorated in performance, and reoccurrence of such malfunction could lead to serious injury or death to the patient, user, or other person." However, also note that events causing or contributing to serious injury or death must be reported regardless of likelihood of reoccurrence.
+
+A reportable adverse event includes: (1) any incident where a device has malfunctioned or deteriorated in performance, and reoccurrence of such malfunction could lead to serious injury or death; and (2) any event that has actually caused or contributed to serious injury or death, regardless of whether reoccurrence is likely. Both categories must be reported within the specified timelines.

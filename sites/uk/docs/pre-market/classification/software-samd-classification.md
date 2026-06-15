@@ -9,7 +9,7 @@ tags: [uk-mdr, software, samd, ai, classification, pre-market]
 ---
 
 :::note[Regulatory basis]
-Software classification under UK MDR 2002 follows the general classification rules in **Schedule 2** (particularly **Rule 12** for software), and MHRA's published guidance on software as a medical device. The EU MDR/MDCG guidance on software (MDCG 2019-16, MDCG 2021-24) is a useful reference for the UK context, though UK MDR 2002 requirements apply in Great Britain.
+Software classification under UK MDR 2002 follows the general classification rules in **Schedule 2** (particularly **Rule 12** for software), and MHRA's published guidance on software as a medical device. The EU MDR/MDCG guidance on software (MDCG 2019-16, MDCG 2021-24) is a useful reference for the UK context, though UK MDR 2002 requirements apply in Great Britain and Northern Ireland (which has separate alignment with EU IVDR rules).
 :::
 
 :::warning[Disclaimer]

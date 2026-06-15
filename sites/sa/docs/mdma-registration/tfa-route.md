@@ -24,7 +24,7 @@ Devices registered under the GHTF route retain their MDMA certificates until exp
 
 ## TFA technical file structure (MDS-REQ 1 Annex 3)
 
-The SFDA requires the technical file to follow a structured format. Key sections include:
+The SFDA requires the technical file to follow the structured format specified in MDS-REQ 1 Annex 3. Key sections include:
 
 1. Device description and intended use — name, models, catalogue numbers, intended purpose, patient population, indications, contraindications
 2. Manufacturer information — legal manufacturer details, manufacturing sites
@@ -53,4 +53,4 @@ During technical review, the SFDA's evaluation team may issue one or more query 
 - [GHAD Portal](./ghad-portal)
 - [SFDA Review Timelines](./review-timelines)
 
-Manufacturers typically have 15–30 days to respond to query letters, depending on SFDA specifications. Responses should be detailed and reference the specific query point; generic or incomplete responses may result in further queries and extended review timelines. It is advisable to maintain close coordination with your AR and the SFDA review team to clarify expectations early.
+Manufacturers typically have 15–30 days to respond to query letters, depending on SFDA specifications in the query itself. Responses should be detailed, numbered to match each query point, and supported by specific data or documentation; generic or incomplete responses may result in further queries and extended review timelines. It is essential to maintain close coordination with your AR and the SFDA review team to clarify expectations early and avoid misinterpretation of technical queries.

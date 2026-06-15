@@ -45,3 +45,5 @@ Upon sandbox completion, the product must either:
 — Transition to standard 품목허가 pathway with regulatory guidance informed by sandbox data
 — Seek conditional marketing authorization if appropriate
 — Exit the Korean market if the permanent regulatory pathway is not pursued
+
+Devices operating under sandbox permits may be supplied commercially during the testing period, but pricing and volume restrictions are typically imposed by MFDS. The sandbox operator (manufacturer) bears liability for device safety and must maintain product liability insurance. MFDS may impose restrictions on distribution geography and patient population during sandbox operation. Post-sandbox transition to standard 품목허가 requires submission of all sandbox-collected safety and performance data.

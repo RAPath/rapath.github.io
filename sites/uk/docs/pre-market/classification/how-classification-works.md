@@ -30,7 +30,7 @@ Classification is the **first and most consequential** regulatory decision a man
 - Post-market obligations including **PSUR frequency** and **PMS requirements**
 - The scope of **labelling and IFU requirements**
 
-Getting classification wrong has real consequences. Under-classifying a device risks placing an inadequately assessed product on the GB market. Over-classifying wastes resources and delays patient access. MHRA can challenge classification during market surveillance, and UKABs may challenge it during conformity assessment.
+Getting classification wrong has real consequences. Under-classifying a device risks placing an inadequately assessed product on the GB market and exposes the manufacturer to enforcement action, recalls, and reputational damage. Over-classifying wastes resources and delays patient access but does not pose compliance risk. MHRA can challenge classification during market surveillance and post-market surveillance, and UKABs must verify classification during conformity assessment. Where a UKAB believes classification is incorrect, it must escalate to MHRA before issuing any conformity assessment certificate.
 
 ---
 
@@ -211,3 +211,5 @@ If a UKAB disagrees with a manufacturer's classification, the manufacturer must 
 | MDCG 2021-24 (reference) | EU software classification guidance — useful comparative reference |
 
 The page ends with 'Step' and the complete step-by-step guidance for applying classification rules is missing.
+
+Add a new section: "Handling conflicting classification rules: When the characteristics of a device cause multiple classification rules to apply and those rules suggest different classes, the manufacturer must apply the highest-risk class. Example: An implantable cardiac sensor may be covered by both Rule 8 (implantable devices) and Rule 11 (surgically invasive active devices for diagnosis). If Rule 8 indicates Class IIb but Rule 11 indicates Class III, the device is classified as Class III. Manufacturers should document which rules were considered and why the highest class was selected, as this is subject to UKAB review during conformity assessment."

@@ -14,3 +14,16 @@ CDSCO enforcement actions are taken under the **Drugs and Cosmetics Act 1940** a
 Market Surveillance Overview
 
 CDSCO conducts ongoing market surveillance to monitor the safety, efficacy, and quality of medical devices in circulation. Market surveillance activities include:
+
+Market Surveillance Overview
+
+CDSCO market surveillance activities include:
+
+- Adverse event monitoring and investigation
+- Post-market safety assessments
+- Product sampling and testing
+- Recall coordination and implementation
+- Compliance trend analysis
+- Risk-based prioritization of surveillance inspections
+
+Market surveillance findings may trigger show-cause notices, product seizures, license suspension, or criminal prosecution depending on the severity and nature of the non-compliance.

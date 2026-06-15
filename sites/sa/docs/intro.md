@@ -60,3 +60,5 @@ RAPath provides free, open regulatory reference guides for multiple jurisdiction
 - **Saudi Arabia (SFDA)** — you are here
 
 Questions, corrections, or contributions? Visit the [RAPath hub](https://rapath.github.io/) or open an issue in the [GitHub repository](https://github.com/rapath).
+
+In the 'Key concepts at a glance' section, add: 'MDS-G008 — SFDA guidance document covering in vitro diagnostic device classification criteria'

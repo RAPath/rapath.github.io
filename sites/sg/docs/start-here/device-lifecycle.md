@@ -110,3 +110,11 @@ Ongoing: AE reporting · FSCA · Change notifications · PMS · Licence renewal
 - [HSA: Registration overview](https://www.hsa.gov.sg/medical-devices/registration/overview)
 - [HSA: Dealer's licence](https://www.hsa.gov.sg/medical-devices/dealers-licence)
 - [HSA: Quick Guide to MD Registration and Licensing (2026)](https://www.hsa.gov.sg/docs/default-source/hprg-mdb/guidance-documents-for-medical-devices/quick-guide-to-md-registration-and-licensing-(2026-april)ac05a485-dd45-45de-98ec-7ac341165e0b.pdf)
+
+↓
+Post-market compliance obligations:
+• Change notification before changes
+• Adverse event reporting
+• FSCA obligations
+• Post-market surveillance
+• Dealer's licence renewal

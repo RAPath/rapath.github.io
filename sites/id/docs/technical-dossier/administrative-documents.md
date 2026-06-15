@@ -78,3 +78,9 @@ Note: For devices not yet approved or commercially available in the home country
 Revise the Free Sale Certificate (CFS/FSC) subsection to add:
 
 Validity: As a general guideline, Kemenkes typically accepts CFS documents issued within the last 2–3 years. Confirm current maximum age requirements with your LAR, as this may evolve. Some authorities may request renewal of older certificates.
+
+Add to the Free Sale Certificate section after 'Issued by the relevant national competent authority (e.g. FDA for US, MHRA for UK, TGA for Australia) or a designated government body':
+
+Note: For devices not yet approved or commercially available in the home country, an alternative declaration of compliance or letter from the manufacturer's home authority may be accepted in some cases — confirm with your LAR whether your specific device qualifies for an alternative approach.
+
+Remove the lines starting with 'Revise the Free Sale Certificate (CFS/FSC) subsection...' and replace the Validity line in the Free Sale Certificate section with: 'Validity: As a general guideline, Kemenkes typically accepts CFS documents issued within the last 2–3 years. Confirm current maximum age requirements with your LAR, as this may evolve. Some authorities may request renewal of older certificates.'

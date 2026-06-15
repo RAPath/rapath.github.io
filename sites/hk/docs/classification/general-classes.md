@@ -8,7 +8,7 @@ description: Overview of the four risk classes for general medical devices under
 
 ## Class I — Low Risk
 Examples: Bandages, tongue depressors, examination gloves, stethoscopes, non-sterile gauze  
-MDACS: ❌ Not eligible for listing. Class I devices fall outside the MDACS framework. They may be supplied without MDACS registration but must still comply with general safety and quality standards under Hong Kong law.
+MDACS: ❌ Not eligible for listing. Class I devices fall outside the MDACS framework. They may be supplied in Hong Kong without MDACS registration provided they comply with general safety and quality standards under Hong Kong law.
 
 ## Class II — Moderate-Low Risk
 Examples: Hypodermic needles, suction equipment, diagnostic imaging software, patient monitoring devices  
@@ -29,3 +29,5 @@ Bandages, tongue depressors, examination gloves, stethoscopes, non-sterile gauze
 
 MDacs:
 ❌ Not eligible for listing. These devices fall outside the MDACS framework and may be supplied without MDD registration, provided they comply with general safety and quality obligations under Hong Kong law.
+
+Remove the duplicate 'Class I — Low Risk' section that appears lower on the page. Keep only the first instance which clearly states: 'MDACS: ❌ Not eligible for listing. Class I devices fall outside the MDACS framework. They may be supplied without MDACS registration but must still comply with general safety and quality standards under Hong Kong law.'

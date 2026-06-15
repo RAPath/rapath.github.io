@@ -15,7 +15,7 @@ Software as a Medical Device (SaMD) is standalone software that performs a medic
 
 ## Current Regulatory Status
 
-As of 2026, CDSCO has not published a dedicated SaMD guidance document. SaMD is classified using existing MDR 2017 categories (Class A, B, C, D) based on risk and clinical context. CDSCO has signaled intent to align with IMDRF SaMD guidance (documents N12 and N23).
+As of 2026, CDSCO has not published a dedicated SaMD guidance document. SaMD products are currently classified using existing MDR 2017 categories (Class A, B, C, D) based on risk assessment and clinical context. Applicants should reference IMDRF SaMD documents (N12 and N23) for submission preparation pending publication of India-specific guidance. CDSCO has signaled intent to align with IMDRF SaMD guidance (documents N12 and N23).
 
 ## SaMD Qualification Categories (Based on IMDRF Framework)
 

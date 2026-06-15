@@ -84,7 +84,7 @@ UDI requirements apply progressively across device classes:
 | MDR Class IIa, IIb, IVDR Class B, C | 26 May 2023 | 26 May 2023 |
 | MDR Class I, IVDR Class A | 26 May 2025 | 26 May 2025 |
 
-Note: UDI implementation timelines have undergone legislative adjustments, and enforcement has been subject to grace periods. Always verify current requirements in the Official Journal and EUDAMED guidance, as timelines may differ from those listed above.
+Note: UDI implementation timelines have undergone legislative adjustments via Commission Delegated Regulation (EU) 2022/2493. The timelines listed above represent the current requirements, but always verify current status in the Official Journal and EUDAMED implementation guidance, as future amendments may alter these dates.
 
 ---
 

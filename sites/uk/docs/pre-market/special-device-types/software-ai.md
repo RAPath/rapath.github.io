@@ -185,3 +185,41 @@ AI/ML medical devices often process or transmit patient data and may be networke
 4. Clinical validation expectations
 
 For higher-risk AI/ML devices, MHRA expects: (1) Prospective clinical investigation data, not just retrospective dataset analysis; (2) Testing in representative clinical environments with real users; (3) Demonstration of clinical utility — that the algorithm improves patient outcomes compared to standard practice; (4) Quantification of sensitivity, specificity, positive and negative predictive values across clinically relevant subgroups; (5) Assessment of algorithm performance in populations underrepresented in the training data to detect bias.
+
+provide transparent explanatory information about how their outputs are generated. This creates a regulatory challenge: the conformity assessment process depends on understanding how a device works and why it produces a particular output. For a black-box AI/ML algorithm, this understanding may not be available.
+
+MHRA's expectation:
+- The manufacturer must be able to explain the algorithm's behaviour sufficiently to perform risk management and design validation
+- If an algorithm cannot be adequately understood or explained, MHRA is unlikely to accept it as safe and effective
+- Manufacturers should consider using interpretable or explainable AI (XAI) approaches where possible, or provide validation data that demonstrates safe performance despite algorithmic opacity
+
+2. Algorithm modification and real-world performance drift
+
+AI/ML algorithms are often updated or retrained as new data becomes available. This introduces a regulatory challenge: is a retrained algorithm a "new" device? Does it require new conformity assessment?
+
+MHRA's expectation:
+- Changes to training data, model weights, or algorithmic parameters are design changes that must be controlled under a design change procedure
+- Significant retraining or algorithm modification may require re-validation to demonstrate that performance remains safe and effective
+- The manufacturer must have a post-market monitoring and algorithm update policy
+- Updates must be validated before deployment to patients
+
+3. Training data provenance and bias
+
+AI/ML algorithms are only as good as the data used to train them. If training data is biased (e.g., underrepresents certain populations or demographic groups), the algorithm may perform differently in real-world use on underrepresented populations.
+
+MHRA's expectation:
+- The manufacturer must document the source, representativeness, and limitations of training data
+- The technical file must address how the algorithm was validated across different patient populations and use environments
+- If the algorithm's performance varies significantly by patient demographic or clinical subgroup, this must be disclosed in the labelling and IFU
+
+4. Cybersecurity for networked AI/ML systems
+
+AI/ML devices that operate in cloud environments or receive algorithm updates over the internet face cybersecurity risks:
+- Unauthorised access to the cloud model
+- Adversarial attacks on the algorithm input (feeding malicious data to generate false outputs)
+- Interception of algorithm updates
+
+MHRA's expectation:
+- Manufacturers of cloud-based or networked AI/ML SaMD must perform cybersecurity risk assessments
+- Encryption, authentication, and secure update mechanisms are required
+- Incident response and post-market cybersecurity monitoring are mandatory

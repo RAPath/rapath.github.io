@@ -34,3 +34,5 @@ keywords: [glossary, India, CDSCO, medical device, MDR 2017, definitions]
 | **SUGAM** | CDSCO's online portal for submission of licence applications and vigilance reports |
 | **UDI** | Unique Device Identification — system for unambiguous device identification |
 | **UDID** | Unique Device Identification Database — India's national UDI registry |
+
+PMSR: Post-Market Surveillance Report — periodic report documenting post-market data collected under a Post-Market Surveillance Plan, submitted to CDSCO to demonstrate ongoing device safety and performance.

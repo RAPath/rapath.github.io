@@ -59,3 +59,23 @@ If declined, the applicant may:
 • Resubmit as a PMA if the device is determined to be Class III
 • Request a meeting to discuss alternative pathways
 • Appeal FDA's classification decision through the Device Classification Appeal Process
+
+Add a new section titled "De Novo Classification Decision" with the following text:
+
+De Novo Classification Decision
+
+Upon review, FDA will:
+
+• Grant the De Novo request — the device receives authorization to market and is classified as Class I or II with associated special controls
+• Decline the De Novo request — FDA determines the device does not meet criteria for De Novo classification (typically because it is deemed Class III and requires PMA)
+
+If declined, the applicant may:
+
+• Resubmit as a PMA if the device is determined to be Class III
+• Request a meeting to discuss alternative pathways
+• Appeal FDA's classification decision through the Device Classification Appeal Process
+
+Add the following clarification after the 'Decision' bullet point:
+
+Classification Outcome
+The FDA determines the final classification based on the risk profile and proposed special controls. De Novo classification results in either Class I or Class II designation with associated special controls. The classification becomes effective upon issuance of the De Novo order.

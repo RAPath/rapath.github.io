@@ -49,7 +49,7 @@ The following are explicitly **not** classified as medical devices under Indones
 | Industrial machinery | Ministry of Industry |
 
 :::note Products containing pharmaceuticals
-A device that incorporates a pharmaceutical substance as an integral part (e.g. a drug-eluting stent) is generally still classified as a medical device in Indonesia, but may require consultation with both Kemenkes and BPOM during registration.
+A device that incorporates a pharmaceutical substance as an integral part (e.g. a drug-eluting stent) is classified as a medical device in Indonesia and is regulated by Kemenkes under the NIE system. However, such devices may require additional BPOM clearance or notification if the pharmaceutical component requires separate pharmacological assessment. Early consultation with both Kemenkes and BPOM during the pre-submission phase is strongly recommended to clarify the regulatory pathway for combination products.
 :::
 
 ---

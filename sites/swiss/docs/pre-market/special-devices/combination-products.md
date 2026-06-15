@@ -11,7 +11,7 @@ A **combination product** incorporates both a medical device and a medicinal pro
 - **Primary action is physical/mechanical** → regulated as a **medical device** under MedDO; any incorporated medicinal substance assessed ancillarily → Class III
 - **Primary action is pharmacological/immunological/metabolic** → regulated as a **medicinal product** under TPA Chapter 2; device component assessed within the medicinal product framework
 
-This determination must be made by the manufacturer and may be challenged by Swissmedic.
+The manufacturer makes the primary mode of action determination and documents the rationale in the technical documentation. Swissmedic may challenge or clarify the determination during conformity assessment or registration; a formal borderline opinion can be requested for novel or uncertain cases.
 
 ## Swissmedic Engagement
 For novel or complex combination products, early engagement with Swissmedic is strongly recommended. Swissmedic can provide guidance on the applicable regulatory pathway and coordinate between its device and drug divisions. A formal borderline opinion can be requested.

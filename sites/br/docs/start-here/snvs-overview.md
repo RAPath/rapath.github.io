@@ -27,3 +27,5 @@ The SNVS (*Sistema Nacional de Vigilância Sanitária*) is a uniquely Brazilian 
 
 - [SNVS Portal](https://www.gov.br/anvisa/pt-br/assuntos/snvs)
 - [NOTIVISA](https://notivisa.anvisa.gov.br)
+
+Replace 'are obligated to report adverse events via serious NOTIVISA within stipulated timeframes' with 'are obligated to report adverse events via NOTIVISA within stipulated timeframes.'

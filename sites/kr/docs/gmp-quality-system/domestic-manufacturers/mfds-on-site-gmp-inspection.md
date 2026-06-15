@@ -30,3 +30,5 @@ If nonconformities are identified:
 
 ## Related pages
 - [Application and certification process](./application-and-certification-process) · [Renewal and periodic re-inspection](./renewal-and-periodic-reinspection)
+
+Add under 'Nonconformities' section: Follow-up inspections for major nonconformities are typically scheduled within 60–90 days of CAPA submission. The manufacturer must demonstrate full closure of all major nonconformities before certification is granted or renewed.

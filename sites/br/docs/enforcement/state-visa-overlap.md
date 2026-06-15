@@ -42,3 +42,5 @@ Verify all information against official [ANVISA](https://www.gov.br/anvisa) sour
 :::
 
 "Although both ANVISA and state VISA apply the same GMP standards, ANVISA holds final authority over national registration decisions. If a state VISA inspection uncovers serious GMP deficiencies, ANVISA may initiate a federal inspection and take precedence in enforcement actions such as facility closure or registration cancellation."
+
+Add to "What happens when multiple bodies inspect the same company?": "Although both ANVISA and state VISA apply the same GMP standards, ANVISA holds final authority over national registration decisions. If a state VISA inspection uncovers serious GMP deficiencies, ANVISA may initiate a federal inspection and take precedence in enforcement actions such as facility closure or registration cancellation."

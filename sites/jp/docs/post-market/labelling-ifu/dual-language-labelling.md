@@ -30,11 +30,13 @@ MHLW allows several practical approaches for managing international labelling:
 
 ## Practical tips
 
-- Include the Japanese MAH address and MAH name on the primary label — MHLW inspectors focus on this
+- Include the Japanese MAH address and MAH business name (as registered with MHLW) on the primary label or prominent position on packaging — MHLW inspectors verify this information against the approval record. If the MAH address or name on the label does not match the MHLW records, the device may be considered non-compliant.
 - Confirm approval/certification number format with your MAH before printing
-- Approval/certification numbers change if is transferred previously bearing the old MAH name and approval number and cannot be used. Plan inventory carefully and coordinate labelling reprinting with the transfer approval timeline to avoid stock obsolescence. the approval to a new MAH — all printed labels become incorrect
+- Approval/certification numbers change if the approval is transferred to a new MAH — all printed labels bearing the old MAH name and approval number cannot be used. Plan inventory carefully and coordinate labelling reprinting with the transfer approval timeline to avoid stock obsolescence.
 - Plan labelling change timelines carefully — Ichibu Henko may be required for certain label changes
 
 ## Electronic IFU considerations
 
 See [Electronic IFU](./electronic-ifu) for Japan's current position on eIFU acceptance.
+
+Japanese text on labels and IFU must be clearly legible and of sufficient prominence to meet the intent of the Labelling Ordinance. While specific minimum font sizes are not uniformly mandated across all device types, the Japanese text should not be subordinated in visual hierarchy to the original language text. Consult PMDA guidance for your specific device type regarding visual hierarchy and legibility requirements.

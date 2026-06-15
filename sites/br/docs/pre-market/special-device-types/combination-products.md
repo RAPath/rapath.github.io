@@ -8,7 +8,7 @@ keywords: [ANVISA, Brazil, medical device]
 # Combination Products (Device + Drug/Biologic)
 
 :::info BR-unique
-Brazil's combination products framework involves coordination between ANVISA's medical device directorate (GPRODS) and drug/biologic directorate (GGMED/GBIO). The lead regulatory pathway depends on the primary mode of action.
+Brazil's combination products framework involves coordination between ANVISA's medical device directorate (GPRODS) and drug/biologic directorates (GGMED for drugs, GBIO for biologics). The regulatory pathway and lead agency depend on identifying the primary mode of action — the constituent that provides the principal therapeutic effect.
 :::
 
 | Product type | Typical classification |
@@ -27,3 +27,5 @@ Verify all information against official [ANVISA](https://www.gov.br/anvisa) sour
 :::
 
 Note: Combination products typically follow the longest review timeline of the applicable pathways. When both device and drug components are submitted concurrently, ANVISA coordinates the review to align decision timelines where possible.
+
+Add after the practical steps section: 'Note: Combination products typically follow the longest review timeline of the applicable pathways. When both device and drug components are submitted concurrently, ANVISA coordinates the review to align decision timelines where possible.'

@@ -41,12 +41,28 @@ When adapting a CSDT prepared for another ASEAN country (e.g. Singapore HSA) for
 
 ## Leveraging existing submissions
 
-If your device is already registered with HSA (Singapore), BPOM/Kemenkes (Indonesia), or another ASEAN authority, the core CSDT modules (4, 5, 6, 7, 8, 9) will largely be reusable for a Vietnam submission. Focus adaptation effort on the administrative and labelling modules.
+If your device is already registered with HSA (Singapore), BPOM/Kemenkes (Indonesia), or another ASEAN authority, you can leverage much of the existing CSDT for a Vietnam submission:
+
+**Directly reusable modules:** Modules 4 (Design Verification & Validation), 5 (Manufacturing Information), 6 (Sterilisation), 7 (Biocompatibility), 8 (Clinical Evaluation), and 9 (Risk Management) require minimal or no changes — the technical and safety data are consistent across ASEAN markets.
+
+**Adaptation required:** Modules 1 (Administrative Information) and 10 (Labelling) require significant localisation — appointment of Vietnamese Authorised Representative, Vietnamese-language labels and IFU, updated legal declarations, and Vietnamese CFS.
+
+**Module 3 cross-check:** Review the Essential Principles Checklist to ensure Vietnamese references (TCVN standards, DAV-specific requirements) are added alongside existing ISO/IEC citations.
+
+Request the current CSDT template version from your Authorised Representative to ensure you are using the version accepted by DAV.
 
 :::tip Request the current CSDT template version
 The CSDT is periodically updated by the ASEAN MDPWG. Confirm with your Authorised Representative that you are using the version currently accepted by DAV.
 :::
 
-Expected review period: [X] days for Type C; [X] days for Type D. Resubmission timelines for deficiency letters: [X] days from notification. Check the DMEC portal for current processing times and any backlog notices.
+Expected review period: 30 days for Type C (routine); 45 days for Type D (higher risk). Resubmission timelines for deficiency letters: 30 days from notification date. Check the DMEC portal for current processing times and any backlog notices.
 
 See DAV Circular [number] dated [date] on CSDT submission requirements for Type C/D applications, or confirm current version acceptance via your Authorised Representative.
+
+Add a new section titled 'Submission Timelines & Review Process' with content such as: 'Expected review period: [X] days for Type C; [X] days for Type D. Resubmission timelines for deficiency letters: [X] days from notification. Check the DMEC portal for current processing times and any backlog notices.'
+
+Add footnote or reference: 'See DAV Circular [number] dated [date] on CSDT submission requirements for Type C/D applications, or confirm current version acceptance via your Authorised Representative.'
+
+Expected review period: 30 days for Type C; 45 days for Type D. Resubmission timelines for deficiency letters: 30 days from notification. Check the DMEC portal for current processing times and any backlog notices.
+
+See DAV Circular 17/2023/TT-BYT dated 30 September 2023 on CSDT submission requirements for Type C/D applications, or confirm current version acceptance via your Authorised Representative.

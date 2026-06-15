@@ -67,3 +67,5 @@ EU Classification Knowledge Transfer
 Regulatory professionals familiar with EU MDR classification will find the Sri Lanka rules highly familiar, as they are derived from EU MDD principles. However, direct copy-paste of EU classification justification is not acceptable. You must adapt your EU classification rationale to address NMRA's specific rules and tie-breaking logic, and reference the applicable NMRA Classification Guideline rules in your submission. The NMRA will review the classification logic independently.
 
 The Reliance Pathway was introduced in October 2025. Confirm current eligibility and reference country acceptance with the NMRA website, as these may be subject to periodic updates.
+
+Add a note: 'The Reliance Pathway was introduced in October 2025. Confirm current eligibility and reference country acceptance with the NMRA website, as these may be subject to periodic updates.'

@@ -18,3 +18,5 @@ Testing must be tailored to nature and duration of contact (surface, external co
 :::note Official sources
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
+
+Biocompatibility Waivers and Alternatives: ANVISA may waive or reduce biocompatibility testing for devices if: (1) the device uses materials with established biocompatibility history and the same materials/manufacturing process as a predicate device, (2) contact duration and tissue type are well-established with low risk, or (3) existing published data from reputable sources demonstrates adequate safety. Manufacturers may also reference biocompatibility data from equivalent international regulatory submissions (FDA, EMA) if the manufacturing process and materials are identical. All waiver justifications must be documented in the risk management file and may be subject to ANVISA verification during pre-market review.

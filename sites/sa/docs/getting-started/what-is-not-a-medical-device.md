@@ -63,3 +63,10 @@ When assessing whether a product is a medical device:
 - MDS-G008 — Classification guidance (borderline product guidance)
 - [What is a Medical Device?](./what-is-a-medical-device)
 - [Borderline and Combination Products](../device-classification/borderline-products)
+
+Further reading
+​
+SFDA Medical Devices Law — Article 1
+MDS-G008 — Classification guidance (borderline product guidance)
+What is a Medical Device?
+Borderline and Combination Products

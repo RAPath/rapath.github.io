@@ -25,7 +25,7 @@ Class A is the lowest risk category in Indonesia's medical device classification
 Class A devices may follow a simplified notification or registration process. Key features:
 
 - Lighter documentation requirements compared to Class B–D
-- Shorter review timeline (approximately 15–30 days for administrative and technical review, though timelines may vary depending on completeness of submission)
+- Shorter review timeline (approximately 15–30 days for administrative and technical review, though timelines may vary depending on completeness of submission and Kemenkes resource availability)
 - ISO 13485 certification strongly recommended but requirements are less stringent
 - Clinical evidence is generally not required unless specified by Kemenkes for particular device types
 

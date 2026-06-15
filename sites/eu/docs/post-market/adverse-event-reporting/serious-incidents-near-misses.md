@@ -77,7 +77,7 @@ A **near-miss** is an event where:
 Near-misses are **reportable** under MDR/IVDR if the malfunction "might have led" to death or serious deterioration. The fact that harm was averted does not remove the reporting obligation.
 
 :::tip
-Near-miss reporting is one of the most valuable inputs to the vigilance system — near-misses reveal potential failure modes before they become actual patient harm events. NCAs actively encourage thorough near-miss reporting.
+Near-miss reporting is one of the most valuable inputs to the vigilance system — near-misses reveal potential failure modes before they become actual patient harm events. NCAs actively encourage thorough near-miss reporting. Manufacturers should establish procedures to identify, document, and assess potential near-misses in their post-market surveillance systems.g.
 :::
 
 ---

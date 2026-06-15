@@ -8,7 +8,7 @@ slug: /
 
 **Japan Medical Device Regulatory Reference — PMDA · MHLW · PMD Act**
 
-RAPath JP is a plain English reference for Japanese medical device regulation. It covers the full lifecycle — from classification and pre-market approval through to post-market surveillance, quality management, and the Marketing Authorization Holder (MAH) system.
+RAPath JP is a plain English reference for Japanese medical device regulation. It covers the full lifecycle — from device classification and the three pre-market pathways (Approval, Certification, and Notification) through to post-market surveillance, quality management, and the unique Marketing Authorization Holder (MAH) system.
 
 :::warning Disclaimer
 This site is a navigation aid written with AI assistance. Always verify requirements against official [PMDA](https://www.pmda.go.jp/english/) and [MHLW](https://www.mhlw.go.jp/english/) sources before making regulatory decisions. Not affiliated with PMDA, MHLW, or the Japanese Government. Not legal or regulatory advice.

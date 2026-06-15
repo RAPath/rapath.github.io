@@ -23,3 +23,5 @@ Verify all information against official [ANVISA](https://www.gov.br/anvisa) sour
 :::
 
 CNEN (National Nuclear Energy Commission) is the primary regulator for radiological protection policy. IRD (Instituto de Radioproteção e Dosimetria) is CNEN's technical institute and typically conducts the actual oversight and licensing of radiation-emitting medical device facilities.
+
+ANVISA Registration Requirements: Beyond CNEN oversight, radiation-emitting medical devices must undergo ANVISA's pre-market registration process under RDC 56/2001. This includes submission of technical documentation (design, labelling, IFU in Portuguese), quality management system evidence (ISO 13485), safety and performance data, and electromagnetic compatibility testing per IEC 60601-1-2. ANVISA approval must be obtained before the device can be imported, manufactured, or distributed in Brazil.

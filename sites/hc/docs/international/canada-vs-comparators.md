@@ -54,3 +54,5 @@ All five MDSAP jurisdictions (Canada, US, Australia, Brazil, Japan) accept MDSAP
 - **Submit in parallel** where possible — Health Canada review timelines are competitive
 
 Expand the PMS requirements row for Canada to: "Guidance only (regulations anticipated) — comprehensive PMS requirements expected to be formally codified in upcoming regulatory amendments"
+
+Replace the current text 'Guidance only (regulations anticipated)' in the Canada PMS requirements row with: 'Guidance only (regulations anticipated) — comprehensive PMS requirements expected to be formally codified in upcoming regulatory amendments'

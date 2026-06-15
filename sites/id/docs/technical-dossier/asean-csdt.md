@@ -72,7 +72,7 @@ Adapting an Existing ASEAN CSDT: If you have already registered the device in Si
 • Verify that any clinical evidence or risk management file remains current and applicable to the Indonesian market
 • Update the Site Master File if manufacturing has changed since the prior ASEAN submission
 
-This is one of the strongest arguments for sequencing market entry in the ASEAN region — prior ASEAN approvals significantly reduce the work and timeline for Indonesian registration.
+Remove this duplicate sentence — it appears twice in succession in the Adapting an Existing ASEAN CSDT section.
 
 This is one of the strongest arguments for sequencing market entry in the ASEAN region — prior ASEAN approvals significantly reduce the work for Indonesian registration.
 
@@ -87,3 +87,17 @@ Beyond the standard CSDT structure, Regalkes submissions must adhere to:
 • Verification through the Regalkes portal system to ensure correct module assignment before final submission
 
 Refer to the Regalkes Portal section for detailed submission formatting requirements.
+
+Add after 'Indonesia's Regalkes submissions closely follow the CSDT structure, though Kemenkes applies Indonesian-specific formatting requirements and file naming conventions on top of the CSDT framework.':
+
+Indonesian-Specific Requirements
+
+Beyond the standard CSDT structure, Regalkes submissions must adhere to:
+
+• File naming conventions: typically 'CSDT_[Module]_[DeviceName]_[Version]' in PDF format
+• All technical documents must be combined into a single PDF per module or as directed by Regalkes portal guidelines
+• Verification through the Regalkes portal system to ensure correct module assignment before final submission
+
+Refer to the Regalkes Portal section for detailed submission formatting requirements.
+
+The section ends with 'All technical do' — this requires completion. Complete text should read: 'All technical documents must be submitted in PDF format with file naming conventions as specified by Kemenkes. File naming should follow the pattern: CSDT_[Module]_[DeviceName]_[Version].pdf. Ensure all hyperlinks are functional, images are embedded (not linked), and the file structure mirrors the CSDT module organization.'

@@ -26,7 +26,7 @@ De Novo is appropriate when:
 
 1. Your device is novel — no valid predicate exists for a 510(k)
 2. Your device is low-to-moderate risk — not requiring the full PMA standard of valid scientific evidence
-3. You have received an NSE (Not Substantially Equivalent) determination on a 510(k) and believe the device is not Class III
+3. You have received a NSE (Not Substantially Equivalent) determination on a 510(k) and believe the device should be classified as Class I or II rather than Class III
 4. You want to establish a new device type with associated special controls
 
 ## What De Novo produces
@@ -41,3 +41,7 @@ A granted De Novo order:
 ## Official resources
 - [FDA — De Novo Classification Process](https://www.fda.gov/medical-devices/premarket-submissions-selecting-and-preparing-correct-submission/de-novo-classification-request)
 - [De Novo Database](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm)
+
+Add a paragraph to the 'What De Novo produces' section:
+
+**Marketing Authorization:** Upon De Novo approval, the device type receives marketing authorization. There is no requirement to conduct additional 510(k) submissions or PMAs for devices of that exact type. However, significant modifications or new technological features may require a new submission. The De Novo order is effective immediately upon issuance.

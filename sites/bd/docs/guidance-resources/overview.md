@@ -122,3 +122,5 @@ DGDA reviewers check documents carefully. Ensure all certificates are current, s
 Examples:
 - A manufacturer produces three models of non-invasive blood pressure monitors using the same transducer design and materials. All three can be grouped under one application if they share the same intended clinical purpose (non-invasive monitoring) and differ only in display size or wireless connectivity—peripheral differences that do not affect safety or performance.
 - A manufacturer cannot group a Class B diagnostic device with a Class D implantable device under one application, even if manufactured by the same company, because they have fundamentally different risk profiles and clinical purposes.
+
+After the table row with 'Same materials of construction | Core materials consistent across the group', add a row: 'Examples | Blood pressure monitors with identical cuff designs and sensing electronics manufactured together; diagnostic test kits using the same reagent format but for different analytes (e.g., glucose, cholesterol if using identical strips)'

@@ -5,7 +5,7 @@ description: Hospital exemption for in-house manufactured medical devices in Swi
 # Hospital Exemption
 
 ## Overview
-The **hospital exemption** permits licensed healthcare institutions to manufacture devices in-house for use exclusively within that institution, without stSwiss undergoing procedures or However, devices must still meet General Safety and Performance Requirements, and Swissmedic notification is mandatory before use.ard MedDO conformity assessment and DAPI registration. Legal basis: **TPA Art. 9 para. 2(a)** and **MedDO Art. 37**.
+The **hospital exemption** permits licensed healthcare institutions to manufacture devices in-house for use exclusively within that institution, without undergoing standard MedDO conformity assessment and DAPI registration. However, devices must still meet General Safety and Performance Requirements, and Swissmedic notification is mandatory before use. Legal basis: **TPA Art. 9 para. 2(a)** and **MedDO Art. 37**.
 
 ## Conditions to Qualify
 - The institution is a **licensed Swiss healthcare institution**
@@ -16,10 +16,18 @@ The **hospital exemption** permits licensed healthcare institutions to manufactu
 - Swissmedic is **notified** before the device is first put into use
 
 ## Scope Limitations
-The exemption does NOT cover: devices manufactured for sale or transfer to other institutions; devices for which a registered equivalent exists; sterile implantable devices manufactured in-house.
+The exemption does NOT cover: devices manufactured for sale or transfer to other institutions; devices for which a registered equivalent exists; implantable devices manufactured in-house.
 
 ## Swissmedic Notification
 The institution must notify Swissmedic before first use, providing: device description and intended purpose; justification that no registered equivalent exists; confirmation of QMS implementation. Swissmedic may inspect to verify compliance.
+
+
+Add a new paragraph under 'Swissmedic Notification' section:
+
+'Swissmedic typically reviews the notification within 30 days. If the institution fails to meet exemption conditions or Swissmedic identifies compliance gaps during inspection, the exemption may be withdrawn. The institution must immediately cease in-house manufacturing and cease use of non-compliant devices. Regular compliance monitoring by Swissmedic may be required.'
+
+
+Add after 'Swissmedic Notification' section header and before the paragraph starting 'The institution must notify Swissmedic': 'Timeline and Review Process: Swissmedic typically reviews the notification within 30 days. During this period, the institution should not place the device into use until explicit notification of acceptance is received. If Swissmedic identifies compliance gaps, it will notify the institution and request corrective actions before approval is granted.'
 
 ## Official Sources
 - [TPA Art. 9 para. 2(a) (SR 812.21)](https://www.fedlex.admin.ch/eli/cc/2001/422/en)

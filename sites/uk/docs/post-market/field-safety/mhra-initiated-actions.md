@@ -59,12 +59,12 @@ In cases of serious, deliberate, or repeated non-compliance, MHRA can bring crim
 ## Responding to MHRA-initiated actions
 
 When MHRA contacts a manufacturer about a potential safety issue:
-- Respond promptly and completely to information requests
+- Respond promptly (within 10 calendar days unless MHRA specifies a different deadline) and completely to information requests, even if the requested information is voluminous or sensitive.
 - Engage constructively — MHRA's goal is patient protection, not punishment
 - Document all communications with MHRA
 - Seek legal advice if criminal action is threatened
 
-A manufacturer's cooperative response to MHRA concerns significantly affects the regulatory outcome.
+A manufacturer's prompt and cooperative response to MHRA concerns significantly affects the regulatory outcome. Failure to respond to information requests, provide false or misleading information, or obstruct an MHRA investigation can result in escalated enforcement action, including prohibition notices, recall orders, and criminal prosecution.
 
 ---
 

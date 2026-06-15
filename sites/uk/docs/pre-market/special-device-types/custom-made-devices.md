@@ -9,7 +9,7 @@ tags: [uk-mdr, custom-made, special-device-types, pre-market]
 ---
 
 :::note[Regulatory basis]
-Custom-made devices are defined and regulated under **Schedule 2, Rule 7 and Regulation 3 of the UK MDR 2002, with conformity assessment per Annex VIII equivalent (Schedule 3, Part I)**. The custom-made exemption provides a modified conformity assessment pathway — not a full exemption from regulatory requirements.
+Custom-made devices are defined and regulated under **Schedule 2, Rule 7 and Regulation 3 of the UK MDR 2002, with conformity assessment per Annex VIII equivalent (Schedule 3, Part I)**. The custom-made exemption provides a modified conformity assessment pathway — not a full exemption from regulatory requirements. Custom-made devices are exempt from full conformity assessment (Annex II–VII equivalent procedures) but must still comply with all applicable Essential Requirements and produce a statement of conformity (Annex VIII equivalent).
 :::
 
 ---

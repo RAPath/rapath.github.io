@@ -35,4 +35,7 @@ sidebar_position: 8
 | 품목허가 Grade IV | 6–12 months |
 | 품목신고 | 1–4 weeks |
 
+3.5. Korean agent appointment — Foreign manufacturers must appoint a 한국 대리인 (Korean agent) to serve as local representative for all regulatory communications. The Korean agent must be registered with MFDS and may be held jointly liable for compliance with Korean Medical Devices Act requirements.
+
+Add to regulatory journey after Step 3:
 3.5. Korean agent appointment — Foreign manufacturers must appoint a 한국 대리인 (Korean agent) to serve as local representative for all regulatory communications

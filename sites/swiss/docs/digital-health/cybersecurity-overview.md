@@ -30,6 +30,17 @@ Incident reporting : Cybersecurity incidents, vulnerabilities, or exploits that 
 ## Connection to nFADP
 Connected medical devices that process personal health data must comply with both MedDO cybersecurity requirements and the Swiss Federal Data Protection Act (nFADP, SR 235.1). Health data is classified as particularly sensitive personal data under nFADP, attracting heightened protection obligations including: appropriate technical and organisational security measures; data breach notification to the Federal Data Protection and Information Commissioner (FDPIC) and affected individuals.
 
+
+Revise the 'Regulatory Basis' section to read:
+
+**Regulatory Basis**
+
+MedDO Annex I § 17.2–17.4 establishes cybersecurity requirements: devices with software or connectivity must achieve IT security appropriate to their intended purpose, protect against unauthorised access affecting device operation or safety, maintain documented minimum security requirements, and implement a cybersecurity lifecycle management process.
+
+MDCG 2019-16 (Guidance on cybersecurity for medical devices) is the primary interpretive guidance, applicable in Switzerland.
+
+IEC 81001-5-1:2021 is the primary harmonised standard for medical device cybersecurity lifecycle management.
+
 ## Official Sources
 - [MDCG 2019-16 — Cybersecurity for medical devices](https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en)
 - [IEC 81001-5-1:2021](https://www.iec.ch)

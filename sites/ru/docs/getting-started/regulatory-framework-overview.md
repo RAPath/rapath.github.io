@@ -53,3 +53,8 @@ All medical devices — domestic and imported — that are placed on the Russian
 :::
 
 In the 'Key legislation' subsection, after the MOH Order No. 11 bullet point, expand to: 'MOH Order No. 11 — technical and user documentation requirements for registration dossiers. MOH Order No. 4n — establishes the rules for classification of medical devices into risk classes (I, IIa, IIb, III).'
+
+Update the 'Key legislation' subsection to clarify the distinction between MOH Order No. 11 and MOH Order No. 4n. Replace the current line 'MOH Order No. 11 — technical and user documentation requirements' with:
+
+MOH Order No. 11 — establishes technical and user documentation requirements for registration dossiers, specifying the format, content, and language of submissions.
+MOH Order No. 4n — establishes the rules for classification of medical devices into risk classes (I, IIa, IIb, III) based on risk and intended use.

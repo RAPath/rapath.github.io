@@ -16,7 +16,7 @@ In vitro diagnostic (IVD) medical devices are classified separately from general
 **Risk level:** Low  
 **Examples:** General purpose laboratory instruments, reagents for general chemistry analytes (protein, electrolytes), culture media, accessories such as specimen collection tubes for non-listed analytes, histological stains.
 
-Class 1 IVDs are those where an incorrect result poses low risk to the individual patient and minimal risk to public health. Most general laboratory instruments fall here when the intended analyte is not specifically listed in higher-risk schedules.
+Class 1 IVDs are those where an incorrect result poses low risk to the individual patient and minimal risk to public health. An incorrect result would be unlikely to result in any direct adverse impact on individual patients. Most general laboratory instruments fall here when the intended analyte is not specifically listed in higher-risk schedules.
 
 **Key regulatory requirements:**
 - Declaration of Conformity only
@@ -31,7 +31,7 @@ Class 1 IVDs are those where an incorrect result poses low risk to the individua
 **Risk level:** Medium  
 **Examples:** Blood glucose monitors, home pregnancy tests, cholesterol tests, urinalysis test strips, haemoglobin measurement, fertility monitors, drug-of-abuse tests (for non-forensic monitoring).
 
-Class 2 IVDs are those where an incorrect result could cause significant harm to an individual patient but pose low risk to the broader population. Many common point-of-care and consumer tests fall in this class.
+Class 2 IVDs are those where an incorrect result could cause significant harm to an individual patient (though not directly life-threatening) but pose low risk to the broader population. Many common point-of-care and consumer tests fall in this class.
 
 **Key regulatory requirements:**
 - QMS certification (ISO 13485 or equivalent) required
@@ -67,7 +67,7 @@ Class 4 IVDs carry the highest level of risk — an incorrect result could direc
 **Key regulatory requirements:**
 - Full QMS certification (ISO 13485) required
 - Product design assessment required
-- Historically required TGA conformity assessment certificate; EU notified body certificates now accepted from 28 July 2021
+- Historically required TGA conformity assessment certificate; EU notified body certificates accepted (requirements updated 1 July 2024)
 - Applications are **subject to mandatory audit**
 - Closest pre-market TGA scrutiny
 
@@ -107,6 +107,12 @@ In-house IVDs are IVDs manufactured and used within a single laboratory, not sup
 
 ---
 
+Complete the truncated section with: 'are treated as higher risk regardless of their device class, due to the potential for user error and the critical nature of self-diagnosis or near-patient decision-making. Self-tests and point-of-care devices undergo more detailed scrutiny and stricter conformity assessment requirements than equivalent laboratory-based tests.'
+
+Add a new subsection: 'Classification Edge Cases for Self-Tests
+
+Where a device is both a self-test and a Class 1 IVD (e.g., a simple rapid screening test for a non-critical analyte), manufacturers should consult the TGA on the appropriate classification, as the self-test nature may warrant classification one level higher. Similarly, point-of-care devices used in emergency or critical care settings may face additional scrutiny regardless of base classification. Manufacturers should seek early TGA advice where the classification is unclear.'
+
 ## Official Sources
 
 - [Schedule 2A — IVD Classification rules](https://www.legislation.gov.au/current/F2022C00900)
@@ -122,5 +128,3 @@ In-house IVDs are IVDs manufactured and used within a single laboratory, not sup
 - [Class I, IIa, IIb, III & AIMD](./class-i-iia-iib-iii-aimd.md)
 - [IVD Medical Devices (Special Types)](../special-devices/ivd-medical-devices.md)
 - [Conformity Assessment Overview](../conformity-assessment/overview.md)
-
-The section ends with 'Self-tests (designed for use by consumers without clinical training) and point-of-care tests (designed for use in near-patient settings such as GP clinics, pharmacies, or emergency departments) are treated as higher risk regardle' — this appears to be truncated. The complete thought should be: 'Self-tests (designed for use by consumers without clinical training) and point-of-care tests (designed for use in near-patient settings such as GP clinics, pharmacies, or emergency departments) are treated as higher risk regardless of the underlying test methodology, as errors in execution or interpretation are more likely when clinical training is absent or limited.'

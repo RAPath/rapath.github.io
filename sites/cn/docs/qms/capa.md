@@ -35,3 +35,7 @@ Content on this site is written with AI assistance and is intended as a navigati
 :::
 
 CAPA Requirements: Manufacturers must establish documented procedures for identifying, investigating, and correcting non-conformances and complaints. CAPAs must include root cause analysis, corrective action definition with timelines, preventive measures to avoid recurrence, and verification of effectiveness. For post-market issues, CAPA reports must be submitted to NMPA if they affect device safety or effectiveness. YY/T 0287-2017 requires documented evidence of CAPA closure and trending analysis of recurrent issues. NMPA GMP inspections routinely assess CAPA system adequacy and timeliness of implementation.
+
+Add a section: 'CAPA Requirements: Manufacturers must establish documented procedures for identifying, investigating, and correcting non-conformances and complaints. CAPAs must include root cause analysis, corrective action definition with timelines, preventive measures to avoid recurrence, and verification of effectiveness. For post-market issues, CAPA reports must be submitted to NMPA if they affect device safety or effectiveness. YY/T 0287-2017 requires documented evidence of CAPA closure and trending analysis of recurrent issues. NMPA GMP inspections routinely assess CAPA system adequacy and timeliness of implementation.'
+
+Remove the 'Full content to be completed during editorial review' statement from the introduction.

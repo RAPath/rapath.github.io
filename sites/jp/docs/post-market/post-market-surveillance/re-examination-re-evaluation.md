@@ -46,3 +46,5 @@ All MAHs holding approvals for the re-evaluated device category are required to 
 Re-examination timeline and compliance
 
 The re-examination period is typically 4–8 years (specified at the time of approval). The re-examination application must be submitted before the end of this period. Failure to submit a timely re-examination application or to provide sufficient data to support re-examination may result in approval withdrawal. PMDA should be contacted at least 12 months before the application deadline to confirm final timing and data requirements.
+
+Add to the 'Re-examination timeline and compliance' section: "If the MAH identifies that surveillance data collection will not be complete by the re-examination deadline, an extension request may be submitted to PMDA at least 6 months in advance with justification and a revised timeline. Extensions are not automatic and must be approved by MHLW. Submitting an incomplete or inadequate application to meet the deadline without prior extension approval may result in approval withdrawal or mandatory corrective actions."

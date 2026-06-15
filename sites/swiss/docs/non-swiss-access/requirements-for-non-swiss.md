@@ -5,7 +5,7 @@ description: All requirements for manufacturers outside Switzerland placing medi
 # Requirements for Non-Swiss Manufacturers
 
 ## Overview
-Any manufacturer not established in Switzerland must comply with Swiss-specific requirements in addition to standard MedDO/IVDO technical requirements. The key Switzerland-specific obligations are:
+Any manufacturer not legally established in Switzerland with substantive business operations must comply with Swiss-specific requirements in addition to standard MedDO/IVDO technical requirements. The key Switzerland-specific obligations are:
 
 ## 1. Appoint a CH REP (Mandatory)
 A **CH REP established in Switzerland** must be appointed before placing any device on the Swiss market. This is mandatory regardless of CE marking status (subject to MRA). See [CH REP — Full Obligations Guide](./ch-rep-obligations).
@@ -36,3 +36,5 @@ Maintain active vigilance reporting to Swissmedic via eVigilance; implement PMS 
 :::warning Disclaimer
 AI-assisted navigation aid only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
 :::
+
+Modify section 1 to add: 'This CH REP requirement applies regardless of whether MRA Chapter 4 is operational. However, the scope of DAPI registration (simplified vs. full) depends on MRA status — see MRA Impact on Market Access for details.'

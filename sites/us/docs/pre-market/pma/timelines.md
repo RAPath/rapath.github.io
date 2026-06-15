@@ -20,9 +20,9 @@ keywords: [PMA timeline, PMA review, MDUFA PMA, FDA approval timeline, PMA proce
 | MDUFA goal — 180-day Supplement | 180 calendar days |
 | MDUFA goal — Real-Time Supplement | 90 calendar days |
 
-## Pre-submission strategy
+## Pre-submission Strategy
 
-Given the 180-day timeline and high cost of a PMA, pre-submission interaction with FDA is critical:
+Given the 180-day MDUFA timeline, significant clinical data requirements, and high cost of PMA (~$430K), early and frequent pre-submission interaction with FDA is critical:
 
 - **Early Q-submission** — discuss overall PMA strategy, clinical study design, endpoints
 - **IDE application** — must be approved before beginning pivotal clinical trial
@@ -60,3 +60,26 @@ Common reasons for RTF include:
 • Missing or non-compliant environmental assessment
 
 If RTF is issued, the applicant may resubmit after addressing deficiencies.
+
+Add a new subsection titled "Filing Review (Refuse to File Review)" with the following text:
+
+Filing Review (Refuse to File Review)
+
+Within 45 days of submission, FDA conducts a filing review to determine if the PMA is sufficiently complete to permit a substantive review. FDA may:
+
+• Accept the application and begin substantive review
+• Issue a Refuse to File (RTF) letter if the PMA lacks essential information or does not comply with regulatory requirements
+
+Common reasons for RTF include:
+
+• Missing required sections (e.g., clinical data, manufacturing information)
+• Inadequate clinical study design or data
+• Incomplete financial disclosures
+• Missing or non-compliant environmental assessment
+
+If RTF is issued, the applicant may resubmit after addressing deficiencies.
+
+Add after the PMA review milestones table:
+
+Timeline Clarification
+The 45-day filing review (Refuse to File) is separate from the 180-day MDUFA substantive review timeline. The 180-day clock begins after the PMA is accepted for filing. If a Refuse to File letter is issued, the applicant must resubmit, and the 45-day filing review restarts with the resubmission.

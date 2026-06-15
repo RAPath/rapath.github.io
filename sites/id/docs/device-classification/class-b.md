@@ -18,7 +18,7 @@ Class B covers devices that present a low to moderate potential to cause harm. T
 - Powered hospital beds
 - Contact lenses (daily wear, non-corrective)
 - Dental instruments (non-invasive surgical)
-- Pulse oximeters
+- Note: Pulse oximeters may be classified as Class C in some cases depending on functionality and risk profile; verify classification with Kemenkes for your specific device
 
 ## Registration Pathway
 
@@ -27,7 +27,7 @@ Class B follows the **standard registration pathway** via Regalkes. Key features
 - Full ASEAN CSDT dossier required
 - ISO 13485 certification mandatory for imported products
 - Clinical evidence: literature-based clinical evaluation report is typically sufficient; local clinical data generally not required
-- Review timeline: approximately 3–6 months for complete submissions
+- Review timeline: approximately 3–6 months for complete submissions; timelines may vary depending on complexity of device and completeness of clinical evidence package
 
 ## Documentation Requirements
 
@@ -51,4 +51,7 @@ Modify the examples section to read:
 
 Contact lenses (daily wear, non-corrective)
 
+Note: Corrective contact lenses are typically classified as Class C due to their therapeutic function.
+
+Contact lenses (daily wear, non-corrective)
 Note: Corrective contact lenses are typically classified as Class C due to their therapeutic function.

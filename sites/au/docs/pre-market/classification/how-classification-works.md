@@ -66,7 +66,7 @@ A device may meet the criteria for multiple classification rules. In this case, 
 
 ## Intended Purpose Drives Classification
 
-Like the definition of a medical device itself, classification is determined by **intended purpose**. The same physical product can attract different classifications depending on what the manufacturer states it is for. A catheter used for short-term drainage is classified differently from one intended for long-term use. A software application that monitors vital signs is classified differently from one that actively provides therapy recommendations.
+Like the definition of a medical device itself, classification is determined by **intended purpose**. The same physical product can attract different classifications depending on what the manufacturer states it is for. A catheter used for short-term drainage is classified differently from one intended for long-term use. A software application that monitors vital signs is classified differently from one that actively provides therapeutic recommendations. Manufacturers must clearly document the device's intended purpose, and this must be consistent throughout the technical file, labelling, and ARTG application.s therapy recommendations.
 
 Manufacturers must ensure the intended purpose stated in labelling, instructions for use, and technical documentation is consistent with the classification applied.
 
@@ -99,6 +99,11 @@ The TGA publishes detailed guidance on classifying both general medical devices 
 
 ---
 
+
+After 'A software application that monitors vital signs is classified differently from one that actively provide' add:
+
+therapeutic recommendations. Manufacturers must clearly document the device's intended purpose, and this must be consistent throughout the technical file, labelling, and ARTG application.
+
 ## Official Sources
 
 - [Schedule 2 — Classification rules (general devices)](https://www.legislation.gov.au/current/F2002B00237)
@@ -114,7 +119,3 @@ The TGA publishes detailed guidance on classifying both general medical devices 
 - [IVD Class 1–4](./ivd-class-1-2-3-4.md)
 - [Active & Software Devices](./active-and-software-devices.md)
 - [Conformity Assessment Overview](../conformity-assessment/overview.md)
-
-After 'A software application that monitors vital signs is classified differently from one that actively provide' add:
-
-therapeutic recommendations. Manufacturers must clearly document the device's intended purpose, and this must be consistent throughout the technical file, labelling, and ARTG application.

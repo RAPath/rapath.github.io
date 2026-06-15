@@ -22,7 +22,7 @@ The dealer's licence is one of the two parallel obligations in Singapore's [dual
 | **Importer's licence** | Any company bringing medical devices into Singapore from overseas for supply | Importing finished devices for sale or distribution in Singapore |
 | **Wholesaler's licence** | Any company selling medical devices to other businesses in Singapore | Wholesaling (B2B supply) of devices to hospitals, clinics, retailers, other distributors |
 
-A single company may hold more than one licence type if it performs multiple activities (e.g. an importer that also wholesales to other distributors would typically need both an importer's and a wholesaler's licence).
+A single company may hold more than one licence type if it performs multiple activities (e.g. an importer that also wholesales to other distributors would typically need both an importer's and a wholesaler's licence). Each licence type is subject to separate assessment and fees, though a single QMS may cover multiple licence types if the scope is appropriately documented.
 
 ---
 

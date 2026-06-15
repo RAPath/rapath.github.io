@@ -19,7 +19,7 @@ The transfer process requires:
 4. MHLW or the RCB issues an amended approval/certification in the name of the new MAH
 5. Labels must be updated to show the new MAH — a labelling change notification or Ichibu Henko may be required
 
-Until the transfer is formally approved by MHLW/RCB, the original MAH retains all regulatory obligations. Plan transfer timelines carefully to avoid gaps in coverage.
+Until the transfer is formally approved by MHLW/RCB, the original MAH retains all regulatory obligations, including adverse event reporting, complaint handling, and post-market surveillance. Do not assume the incoming MAH's obligations begin before formal approval is issued. Plan transfer timelines carefully to avoid gaps in regulatory coverage and maintain continuity of complaint handling during the transition period.
 
 ## Voluntary withdrawal of an approval
 

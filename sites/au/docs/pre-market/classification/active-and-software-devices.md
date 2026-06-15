@@ -60,6 +60,13 @@ Software is a medical device in Australia if it meets the definition in Section 
 
 AI and machine learning (ML) based software that meets the medical device definition is subject to the same regulatory framework as other SaMD. The TGA is aligned with IMDRF guidance on AI/ML-based software as a medical device. Key considerations for AI-based devices include:
 
+- **Validation and performance data** — the device's training data, validation methodology, and performance metrics must be documented and demonstrate safety and effectiveness
+- **Output interpretation** — whether the output is presented as a diagnosis or merely a recommendation to a health professional affects classification
+- **Changes in AI performance** — post-market monitoring of AI performance and regular updates must be documented
+- **Transparency** — the manufacturer must be able to explain the AI's decision-making process to the extent applicable
+
+For more information on AI/ML-based SaMD regulatory expectations, refer to TGA guidance.
+
 - Classification based on intended purpose and potential harm from incorrect output
 - Clinical evidence requirements proportionate to classification and novelty
 - Post-market surveillance obligations to monitor AI performance over time
@@ -68,6 +75,19 @@ AI and machine learning (ML) based software that meets the medical device defini
 👉 [AI and software as medical devices — TGA](https://www.tga.gov.au/products/medical-devices/software-and-artificial-intelligence-ai)
 
 ---
+
+
+After 'Key considerations for AI-based devices include:' add:
+
+Key considerations for AI-based devices include:
+Validation and performance data — the device's training data, validation methodology, and performance metrics must be documented and demonstrate safety and effectiveness
+Output interpretation — whether the output is presented as a diagnosis or merely a recommendation to a health professional affects classification
+Changes in AI performance — post-market monitoring of AI performance and regular updates must be documented
+Transparency — the manufacturer must be able to explain the AI's decision-making process to the extent applicable
+For more information on AI/ML-based SaMD regulatory expectations, refer to TGA guidance.
+
+
+Classification based on intended purpose and potential for harm from an incorrect output. Training datasets, model validation, and algorithm transparency are important considerations during conformity assessment. Post-market monitoring and version control are particularly important for AI/ML-based devices due to the potential for algorithm drift over time.
 
 ## Official Sources
 
@@ -82,12 +102,3 @@ AI and machine learning (ML) based software that meets the medical device defini
 - [How Classification Works](./how-classification-works.md)
 - [Software & AI (Special Types)](../special-devices/software-and-ai.md)
 - [Reclassification Updates](./reclassification-updates.md)
-
-After 'Key considerations for AI-based devices include:' add:
-
-Key considerations for AI-based devices include:
-Validation and performance data — the device's training data, validation methodology, and performance metrics must be documented and demonstrate safety and effectiveness
-Output interpretation — whether the output is presented as a diagnosis or merely a recommendation to a health professional affects classification
-Changes in AI performance — post-market monitoring of AI performance and regular updates must be documented
-Transparency — the manufacturer must be able to explain the AI's decision-making process to the extent applicable
-For more information on AI/ML-based SaMD regulatory expectations, refer to TGA guidance.

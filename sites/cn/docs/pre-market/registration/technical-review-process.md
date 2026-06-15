@@ -56,7 +56,7 @@ Registration certificate issued (or rejection)
 
 ## Responding to supplemental requests
 
-A well-organised, point-by-point response to each deficiency significantly reduces the risk of a second supplemental request. NMPA/CMDE guidance on common deficiencies is published on the CMDE website.
+A well-organised, point-by-point response to each deficiency significantly reduces the risk of a second supplemental request. Cross-reference each response to the original deficiency and cite supporting documentation by page number to aid reviewer assessment. NMPA/CMDE guidance on common deficiencies is published on the CMDE website.
 
 ---
 
@@ -67,3 +67,5 @@ If NMPA issues a rejection decision, the applicant may request a **technical re-
 :::note Disclaimer
 Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [NMPA](https://www.nmpa.gov.cn/) sources before making regulatory decisions. Not affiliated with NMPA or any Chinese Government body. Not legal or regulatory advice.
 :::
+
+Add after the diagram: 'Note: The review timeline applies to both Class III domestic and imported devices. For imported Class III devices, NMPA may also conduct or request overseas GMP inspection reports, which may extend the overall timeline beyond the 60 working day review period.'

@@ -50,3 +50,5 @@ The **Food and Drugs Act** is the parent statute. The **Medical Devices Regulati
 :::
 
 After the section on 'Section 2 — Definitions', add: 'Note: The definition of "device" under the FDA includes in vitro diagnostic devices (IVDs). IVDs have separate classification rules (Schedule 2, IVD rules) and may have distinct requirements under Health Canada guidance. See Schedule 2 — Classification Rules for IVD classification.'
+
+After the 'Section 2 — Definitions' heading, add: 'Note: The definition of "device" under the FDA includes in vitro diagnostic devices (IVDs). IVDs have separate classification rules (Schedule 2, IVD rules) and may have distinct requirements under Health Canada guidance. See Schedule 2 — Classification Rules for IVD classification.'

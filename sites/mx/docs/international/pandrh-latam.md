@@ -24,7 +24,7 @@ COFEPRIS is an active member of PANDRH, which:
 Key aspects of Mexico's regional position:
 
 - **COFEPRIS as a regional gateway** — many manufacturers seeking to expand across Latin America prioritise Mexico first, as the COFEPRIS regulatory package is often reusable as a reference dossier for other markets.
-- **ANVISA recognition** — Brazil (ANVISA) and Mexico (COFEPRIS) have a mutual information-sharing arrangement. A COFEPRIS registration is not automatically recognised by ANVISA, but COFEPRIS documentation can support ANVISA submissions.
+- **ANVISA recognition** — Brazil (ANVISA) and Mexico (COFEPRIS) have a mutual information-sharing arrangement. A COFEPRIS registration is not automatically recognised by ANVISA, but the COFEPRIS technical dossier and regulatory documentation can serve as source material to reduce duplicative testing and serve as a reference for the ANVISA submission, potentially accelerating the Brazil registration timeline.
 - **Regional harmonisation progress** — PANDRH is working toward greater alignment of IVD classification and device registration requirements across the region.
 
 ## Other major Latin American regulators

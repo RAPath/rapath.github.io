@@ -23,3 +23,7 @@ Content on this site is written with AI assistance and is intended as a navigati
 :::
 
 NMPA released guidance on Software as a Medical Device (SaMD) and AI/ML-based medical devices in 2021-2022. Key requirements include: algorithm validation, cybersecurity assessment, performance stability testing across intended use populations, and transparency in AI decision-making. CMDE provides specific technical review guidelines for machine learning model development, validation datasets, and post-market monitoring strategies.
+
+Add a section titled 'SaMD and AI/ML Regulatory Framework' with at minimum: 'NMPA released guidance on Software as a Medical Device (SaMD) and AI/ML-based medical devices in 2021-2022. Key requirements include: algorithm validation, cybersecurity assessment, performance stability testing across intended use populations, and transparency in AI decision-making. CMDE provides specific technical review guidelines for machine learning model development, validation datasets, and post-market monitoring strategies.'
+
+Replace 'NMPA released guidance on Software as a Medical Device (SaMD) and AI/ML-based medical devices in 2021-2022.' with: 'NMPA released guidance on Software as a Medical Device (SaMD) and AI/ML-based medical devices including the "Guidelines for the Review of Artificial Intelligence-aided Diagnosis Software for Medical Devices" (2021) and related technical guidance through CMDE.'

@@ -56,3 +56,5 @@ The 2021 revision brought MO 169 into close alignment with ISO 13485:2016 (which
 Manufacturers already compliant with ISO 13485:2016 found the transition to the revised MO 169 relatively straightforward.
 
 Although aligned closely, MO 169 and ISO 13485:2016 are not identical. MO 169 includes Japan-specific requirements (e.g., on post-market surveillance GPSP interfaces and labelling in Japanese) that are not in ISO 13485:2016. Conversely, some ISO 13485:2016 requirements are interpreted more flexibly under PMDA guidance. Facilities certified to ISO 13485:2016 should engage a Japan QMS specialist to confirm MO 169 compliance.
+
+Add after the 2021 revision bullet points: 'Although aligned closely, MO 169 and ISO 13485:2016 are not identical. MO 169 includes Japan-specific requirements (e.g., on post-market surveillance GPSP interfaces and labelling in Japanese) that are not in ISO 13485:2016. Conversely, some ISO 13485:2016 requirements are interpreted more flexibly under PMDA guidance. Facilities certified to ISO 13485:2016 should engage a Japan QMS specialist to confirm MO 169 compliance.'

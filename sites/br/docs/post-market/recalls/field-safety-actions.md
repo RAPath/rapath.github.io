@@ -24,3 +24,7 @@ Verify all information against official [ANVISA](https://www.gov.br/anvisa) sour
 :::
 
 FSCAs must be reported to ANVISA via NOTIVISA and the registration holder must demonstrate that Field Safety Notices have been distributed within a reasonable timeframe to all known distributors and healthcare facilities holding the affected device.
+
+Add after the Field Safety Notice definition paragraph: 'FSCAs must be reported to ANVISA via NOTIVISA and the registration holder must demonstrate that Field Safety Notices have been distributed within a reasonable timeframe to all known distributors and healthcare facilities holding the affected device.'
+
+Add after the sentence about Field Safety Notices being sent via tracked method: "The distribution of Field Safety Notices should be completed within 15 days of initiating the FSCA, or urgently (within 24-48 hours) if the safety issue presents an immediate risk of death or serious injury."

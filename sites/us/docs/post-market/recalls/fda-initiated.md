@@ -28,7 +28,7 @@ Under **FD&C Act § 518(e)** [21 U.S.C. § 360h(e)], FDA has the authority to **
 
 ## Mandatory recall vs voluntary recall
 
-In practice, the vast majority of US device recalls are **voluntary** — initiated by the manufacturer in response to identifying a safety issue, sometimes in dialogue with FDA. FDA rarely needs to invoke its § 518(e) authority because manufacturers generally cooperate.
+In practice, the vast majority of US device recalls are **voluntary** — initiated by the manufacturer after identifying a safety issue, often in dialogue with FDA before the recall is publicly announced. FDA rarely needs to invoke its § 518(e) mandatory recall authority because manufacturers generally cooperate and initiate recalls proactively upon discovering safety issues.
 
 The existence of § 518(e) authority serves as an important backstop encouraging voluntary cooperation.
 

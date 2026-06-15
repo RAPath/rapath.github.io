@@ -9,7 +9,7 @@ tags: [uk-mdr, guidance, mhra]
 ---
 
 :::note[Disclaimer]
-MHRA guidance documents are published on gov.uk and updated periodically. This index provides navigation to key guidance — always verify the current version on gov.uk before relying on any specific guidance documents by topic document, as regulations and MHRA positions evolve over time.
+MHRA guidance documents are published on gov.uk and updated periodically. This index provides navigation to key guidance — always verify the current version on gov.uk before relying on any specific guidance document, as regulations and MHRA positions evolve over time.
 :::
 
 ---
@@ -108,3 +108,9 @@ Under the 'Device-type specific' section, add:
 Under the 'Registration and UKCA' section, add:
 
 | Unique Device Identification (UDI) | UK UDI requirements; DI and PI structure; MHRA implementation timeline; relationship to EU UDI |
+
+Under the 'Essential Requirements and conformity' section, add:
+
+| Labelling and advertising requirements | Labelling obligations under Essential Requirement 18; permitted and prohibited claims; advertising rules |
+
+| Unique Device Identification (UDI) | UDI structure and requirements; MHRA UDI implementation timeline; DI and PI components |

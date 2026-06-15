@@ -26,7 +26,7 @@ Under MDR and IVDR, technical documentation is not static — it evolves through
 2. The results of that data gathering (PMS report or PSUR)
 3. The clinical/performance follow-up plan and its evaluation (PMCF/PMPF)
 
-Critically, post-market data must feed back into pre-market documentation: the clinical evaluation report, risk management file, and benefit-risk analysis must be updated when significant post-market information emerges, ensuring the technical file remains current throughout the device lifecycle.
+Critically, post-market data must feed back into pre-market documentation: the clinical evaluation report, risk management file, and benefit-risk analysis must be updated or supplemented when significant post-market information emerges, and updates must be documented in the post-market surveillance reports (PMS/PSUR), ensuring the technical file remains current and justified throughout the device lifecycle.
 
 ---
 
@@ -58,7 +58,7 @@ The PMS plan must specify:
 | Document | When required | Frequency |
 |---|---|---|
 | PMS report | Class I, IIa, IIb (MDR); Class A, B (IVDR) | Updated when necessary; at minimum when significant new information available |
-| Periodic Safety Update Report (PSUR) | Class IIb (implantable), III, AIMD (MDR); Class C, D (IVDR) | At minimum annually for Class III/D; at minimum every 2 years for Class IIb/C |
+| Periodic Safety Update Report (PSUR) | Class IIb (implantable), III, AIMD (MDR); Class C, D (IVDR) | At minimum annually for Class III/D; at minimum every 2 years for Class IIb/C implantable devices; annually for non-implantable Class IIb/C |
 
 ### PSUR content requirements (MDR Annex III §2)
 
@@ -176,3 +176,15 @@ For Class IIb, III, and IVDR Class C and D devices, notified bodies review the P
 | MDCG 2022-21 | PSUR guidance |
 
 Complete the PMCF plan section with: 'Risk acceptability criteria: how safety/performance will be assessed post-market Sample size and duration: justification for the proposed follow-up scope Evaluation methods: how data will be analysed Linkage to clinical evaluation: how PMCF findings update the clinical evaluation report Timescale: when results will be reported to the notified body PMCF evaluation report The PMCF evaluation report must include: Summary of PMCF activities conducted: methods used, patient numbers, follow-up duration Main findings: safety and performance data from PMCF sources Conclusion: whether the device continues to meet safety and performance expectations Actions: any changes to labelling, IFU, or risk management based on PMCF evidence'
+
+Complete the truncated PMCF plan section with: 'The PMCF plan must define:
+
+The general methods for PMCF (literature, registries, surveys, studies)
+The study population and data collection frequency
+The endpoints being monitored (safety and performance parameters)
+The statistical methods and acceptance criteria
+Timelines for interim and final analyses
+How findings will be reported and escalated
+Linkage to risk management and benefit-risk analysis
+
+The PMCF plan is updated at least annually and must be justified if concluded unnecessary. PMCF evaluation reports summarise findings and confirm whether continued PMCF remains necessary.'

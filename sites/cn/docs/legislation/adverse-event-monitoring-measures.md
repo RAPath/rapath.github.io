@@ -31,7 +31,7 @@ This measure implements Articles 81-87 of MDSAR 2021, establishing the framework
 
 ## Key Requirements
 - Manufacturers and registrants must establish adverse event monitoring systems
-- Serious adverse events must be reported to NMPA within 30 days
+- Manufacturers must report serious or unexpected adverse events to NMPA within 30 days of awareness; non-serious events reported annually in periodic safety update reports (PSURs)
 - Regular periodic safety update reports (PSURs) required for Class II and III devices
 - NMPA conducts risk re-evaluation based on reported data
 - Manufacturers must implement recalls when safety risks are identified
@@ -39,3 +39,5 @@ This measure implements Articles 81-87 of MDSAR 2021, establishing the framework
 
 ## Relationship to MDSAR 2021
 This measure operationalizes Chapter VI of MDSAR 2021, providing detailed procedures for the adverse event reporting, monitoring, and re-evaluation obligations outlined in Articles 81-87.
+
+Add after the Overview section: 'This page implements NMPA Announcement on Adverse Event Monitoring and Risk Re-evaluation Procedures, which provides detailed implementation guidance for MDSAR 2021 Articles 81-87.'

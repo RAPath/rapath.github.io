@@ -49,3 +49,5 @@ The current NMDCC is published on the NMPA website. NMPA also operates an online
 :::note Disclaimer
 Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [NMPA](https://www.nmpa.gov.cn/) sources before making regulatory decisions. Not affiliated with NMPA or any Chinese Government body. Not legal or regulatory advice.
 :::
+
+If your device does not fit an existing NMDCC entry, you may request a formal classification determination (分类界定) from NMPA. Submit a request to the Center for Medical Device Evaluation (CMDE) with technical documentation, intended use statement, mechanism of action, technical performance data, and risk analysis. NMPA typically issues a determination within 60-90 days. The determination letter must accompany your registration application and is binding for your device. Reference the NMPA Classification Determination Procedures guidance document.

@@ -9,7 +9,7 @@ keywords: [FDA untitled letter, advisory letter, FDA notice of violation, device
 
 ## What is an untitled letter?
 
-An untitled letter (sometimes called a "notice of violation" or "advisory letter") is an FDA communication — less severe than a warning letter — that notifies a company of a violation that does not meet the threshold for a warning letter. Untitled letters are commonly used for:
+An untitled letter (sometimes called a "notice of violation" or "advisory letter") is an informal FDA communication that notifies a company of a violation that does not rise to the level requiring a warning letter. Untitled letters indicate lower-severity or isolated violations, or situations where FDA prefers to provide notice and opportunity for voluntary correction before escalating to formal enforcement. Untitled letters are commonly used for:
 
 - Promotional violations — labelling or advertising that makes false or misleading claims, but where the violation is less egregious
 - Minor regulatory violations — technical non-compliance that does not present a direct safety risk
@@ -48,3 +48,14 @@ Even though less formal than a warning letter, an untitled letter should be take
 ## Official resources
 - [FDA — Untitled Letters](https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/inspections/warning-letters-and-notice-violation-letters-fdas)
 - [FDA Warning Letters Database](https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/compliance-actions-and-activities/warning-letters)
+
+Replace the section 'Untitled letter vs warning letter' with:
+
+'Untitled letter vs warning letter
+
+Characteristic | Untitled Letter | Warning Letter
+Severity level | Lower | Higher
+Public posting | Typically no | Yes — posted on FDA website
+Formal response required? | Usually expected, but more flexible on timing | Yes — within 15 business days
+Escalation risk if not addressed | May escalate to warning letter | May escalate to enforcement action
+Typical timeframe for response | 30 days (flexible) | 15 business days (mandatory)'

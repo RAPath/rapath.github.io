@@ -20,6 +20,9 @@ The intended purpose (and therefore the labelling claims) is decisive. A product
 ## How to Obtain a Swissmedic Borderline Opinion
 Submit to Swissmedic: product description, intended purpose as stated in labelling, mechanism of action scientific basis, and existing regulatory classifications from other jurisdictions. Opinions are advisory but provide important regulatory certainty.
 
+
+For products with both in vitro diagnostic and therapeutic functions under both MedDO and IVDO, Swissmedic determines the primary intended purpose. If the device's primary purpose is diagnosis (IVD output drives clinical decision-making), it is classified under IVDO. If the primary purpose is therapeutic or the diagnostic function is ancillary to a therapeutic device, MedDO applies. Consultation with Swissmedic is recommended when both functions are integral to the device.
+
 ## Official Sources
 - [MDCG 2022-5 — Borderline guidance (applicable in Switzerland)](https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en)
 - [Swissmedic — Borderline products](https://www.swissmedic.ch/swissmedic/en/home/medical-devices/market-access.html)

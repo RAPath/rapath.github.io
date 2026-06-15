@@ -17,7 +17,7 @@ MedDO (SR 812.213) entered into force on **26 May 2021**, replacing the predeces
 | End of sell-off period | 26 May 2025 (general devices) |
 | Implantable Class III/IIb special rules | Earlier phased dates apply |
 
-Always verify current transitional dates with Swissmedic — these dates have been subject to amendment and align with EU MDR transitional provisions.
+Always verify current transitional dates directly with Swissmedic before relying on these dates for compliance planning — transitional dates have been amended in the past and may be updated. Swissmedic publishes updates on its website and in official Fedlex records.
 
 ## Post-Transition Obligations
 PMS and vigilance obligations under MedDO apply to all devices regardless of transitional certification status. CH REP obligations apply immediately regardless of which ordinance the conformity was certified under.

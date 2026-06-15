@@ -27,7 +27,7 @@ SaMD with high clinical significance for serious conditions will typically be Cl
 
 ## MDMA for SaMD
 
-SaMD requires MDMA via TFA like any other medical device. The technical file for software must address:
+SaMD requires MDMA (Medical Device Marketing Authorization) via TFA (Technical File Application) through the GHAD portal, like any other medical device, unless it qualifies for an export-only exemption. The technical file for software must address:
 - Intended purpose and use scenarios
 - Software lifecycle documentation (IEC 62304)
 - Cybersecurity risk assessment
@@ -44,3 +44,5 @@ SaMD requires MDMA via TFA like any other medical device. The technical file for
 SaMD in Combination Products
 
 When software is integral to the operation of a physical medical device (e.g., firmware for a pacemaker programmer or software controlling an infusion pump), the software and hardware are classified and reviewed as a single combination product. The classification of the combination product follows MDS-REQ 1, and the technical file must address both hardware and software components. Software-only components of a combination product are not separately classified.
+
+Replace the awkwardly placed parenthetical: Change 'Software used solely to support device hardware (device operating software with no independent medical function) is generally not a separate medical (Medical Device Marketing Authorization) (Technical File Application) through the GHAD portal, device, unless it qualifies for an export-only exemption.' to 'Software used solely to support device hardware (device operating software with no independent medical function) is generally not a separate medical device requiring MDMA through the GHAD portal, unless it qualifies for an export-only exemption.'

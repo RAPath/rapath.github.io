@@ -28,7 +28,7 @@ Classification is the first regulatory decision a manufacturer must make. It det
 - Post-market obligations including **PSUR frequency**
 - **EUDAMED registration** requirements
 
-Getting classification wrong — in either direction — has serious consequences. Under-classifying a device risks placing an inadequately assessed product on the market. Over-classifying wastes resources and delays access.
+Incorrect classification has serious consequences in both directions. Under-classifying a device risks placing an inadequately assessed product on the market and failing to meet post-market surveillance obligations. Over-classifying unnecessarily increases conformity assessment burden, delays market access, and wastes resources without proportionate safety benefit.
 
 ---
 

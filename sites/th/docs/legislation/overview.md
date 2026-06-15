@@ -29,7 +29,7 @@ This Act is the cornerstone of Thailand's medical device regulatory framework.
 
 The 2008 Act governed device regulation before the 2019 Act came into force. Devices registered under the old framework are subject to renewal under the new 2019 Act framework.
 
-### B.E. Year Conversion Table
+### B.E. Year Conversion Table (B.E. = Buddhist Era; add 543 to Gregorian year, or subtract 543 from B.E. year)
 
 | B.E. | CE |
 |------|----|

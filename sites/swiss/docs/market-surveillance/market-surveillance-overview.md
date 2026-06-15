@@ -23,6 +23,12 @@ Complaints about medical devices can be submitted directly to Swissmedic via its
 ## European Cooperation
 Swissmedic participates in European market surveillance coordination through bilateral arrangements with the European Commission and EU competent authorities. Information about non-compliant devices and FSCAs is shared between Swissmedic and EU counterparts.
 
+
+Add after first mention of FSCA in Complaint Handling section: 'FSCA (Field Safety Corrective Action) is a manufacturer-initiated action to address or mitigate a known or suspected device defect or non-compliance.'
+
+
+Add after first paragraph: 'MedDO (Medical Device Ordinance) and IVDO (In Vitro Diagnostic Device Ordinance) are Switzerland's primary regulatory instruments for medical devices and in vitro diagnostics respectively.'
+
 ## Official Sources
 - [Swissmedic — Market surveillance](https://www.swissmedic.ch/swissmedic/en/home/medical-devices/market-surveillance.html)
 - [MedDO Art. 76–100 (SR 812.213)](https://www.fedlex.admin.ch/eli/cc/2021/205/en)

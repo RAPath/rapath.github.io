@@ -37,3 +37,5 @@ The public MDIS database can be searched by device name, HKMD number, manufactur
 MDIS Registration Requirement
 
 LRPs must register for MDIS access before submitting any application. MDIS registration is a prerequisite and is typically processed within 5–10 business days of application. Contact the MDD directly at [official MDD contact] to initiate registration and obtain login credentials.
+
+Replace '[official MDD contact]' with actual contact information. Example: 'Contact the MDD directly at mdacs@mdd.gov.hk or call +852 [phone number] to initiate registration and obtain login credentials. MDIS registration is a prerequisite and is typically processed within 5–10 business days of application.'

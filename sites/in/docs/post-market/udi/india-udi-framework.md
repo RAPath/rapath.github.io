@@ -24,6 +24,6 @@ The **Unique Device Identification Database (UDID)** at [udid.cdsco.gov.in](http
 
 ## Implementation timeline
 
-UDI implementation is phased by device class. Higher-risk devices (Class C and D) are subject to earlier compliance dates. Check [UDI Implementation Timeline](/docs/post-market/udi/implementation-timeline) for the current schedule.
+UDI implementation follows a phased approach with higher-risk devices (Class C and D) subject to earlier compliance dates than lower-risk devices (Class A and B). All devices must eventually be enrolled in the UDID database; new device applications submitted after a specified effective date may face stricter UDI requirements. Check [UDI Implementation Timeline](/docs/post-market/udi/implementation-timeline) for the current schedule.
 
 > **Official source:** Medical Devices Rules 2017 (as amended); [CDSCO UDI](https://cdsco.gov.in)

@@ -32,3 +32,19 @@ If a system or procedure pack is assembled and then sterilised by the assembler,
 > Legislative source: Medical Devices Regulations, SOR/98-282; Health Canada guidance on systems and procedure packs
 
 Expand 'Regulatory requirements' section to add: "Device Licence Requirements for Systems and Procedure Packs\n\nA system or procedure pack does NOT require a separate Device Licence if:\n• All component medical devices already hold individual Device Licences or are Class I devices without licence requirements\n• The assembler does not modify any component's design, materials, or intended use\n• The system/pack is labeled according to MDR requirements\n\nA separate Device Licence IS required if:\n• Any component is unlicensed or is being modified by the assembler\n• The system's assembled configuration creates a new intended use not covered by existing component licences\n• The assembler claims a new clinical indication not supported by component licences\nWhen in doubt, applicants should submit a Type A meeting request to Health Canada for classification confirmation."
+
+Under the 'Regulatory requirements' section, after the existing content about Device Licence requirements and sterilisation, add this expanded subsection:
+
+### Device Licence Requirements for Systems and Procedure Packs
+
+A system or procedure pack does NOT require a separate Device Licence if:
+• All component medical devices already hold individual Device Licences or are Class I devices without licence requirements
+• The assembler does not modify any component's design, materials, or intended use
+• The system/pack is labeled according to MDR requirements
+
+A separate Device Licence IS required if:
+• Any component is unlicensed or is being modified by the assembler
+• The system's assembled configuration creates a new intended use not covered by existing component licences
+• The assembler claims a new clinical indication not supported by component licences
+
+When in doubt, applicants should submit a Type A meeting request to Health Canada for classification confirmation.

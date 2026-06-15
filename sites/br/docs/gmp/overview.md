@@ -18,7 +18,7 @@ The CBPF is required for:
 
 ## GMP vs. ISO 13485
 
-RDC 752/2022 is closely aligned with **ISO 13485:2016** (*Medical devices — Quality management systems*) and adopts many of its requirements. For foreign manufacturers, a current ISO 13485 certificate from an accredited certification body is generally accepted by ANVISA as evidence of GMP compliance in place of the CBPF — however, ANVISA may still require a CBPF inspection for certain high-risk devices.
+RDC 752/2022 is closely aligned with **ISO 13485:2016** (*Medical devices — Quality management systems*) and adopts many of its requirements. For foreign manufacturers, a current ISO 13485:2016 certificate from an accredited certification body is generally accepted by ANVISA as evidence of GMP compliance in place of the CBPF. However, ANVISA retains discretion to require a direct CBPF inspection, particularly for Class III and Class IV devices, devices with known safety concerns, or where there are compliance or quality issues identified during regulatory review.
 
 See [CBPF vs. ISO 13485](/docs/gmp/cbpf-vs-iso13485) for a detailed comparison.
 

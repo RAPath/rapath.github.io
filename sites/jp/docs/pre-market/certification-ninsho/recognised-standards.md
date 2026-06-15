@@ -33,4 +33,4 @@ Each entry on the recognised standards list is linked to specific JMDN codes. Wh
 
 ## What to do when no recognised standard exists
 
-If no recognised standard covers your device type, Ninsho is not available — you must use Shonin. If you believe a standard should be designated but has not yet been, there is a formal process to petition MHLW for new standard designation, but this is a lengthy process that is not suitable for near-term market access planning.
+If no recognised standard covers your device type, Ninsho is not available — you must use Shonin. If you believe a standard should be designated but has not yet been, you may petition MHLW through a formal proposal process; however, this typically takes 12–24+ months and is not suitable for near-term market access planning. Most MAHs facing this situation proceed with Shonin while a standard designation is pursued in parallel.

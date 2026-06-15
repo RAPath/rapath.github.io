@@ -153,3 +153,5 @@ The PRRC's name and contact information must be available to the competent autho
 | Commission Recommendation 2003/361/EC | Definition of micro, small, and medium-sized enterprises |
 
 Complete the truncated sentence. It should read: 'they may contract an external person as PRRC, provided the external PRRC has appropriate qualifications and is always available, even if not permanently employed by the organisation.'
+
+Complete the truncated sentence: 'provided the external PRRC has appropriate qualifications and is always available to ensure compliance with MDR/IVDR obligations.'

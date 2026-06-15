@@ -62,7 +62,7 @@ Any alternative approach must still demonstrate that the EP's underlying intent 
 
 During an ARTG application audit, TGA auditors review the EP checklist and supporting evidence. Common issues that cause audit delays or failures include:
 
-- Using outdated standards — manufacturers should apply the most current edition of the standard at the time of technical file preparation. If an earlier edition is applied, this must be justified and documented, and evidence that the intended compliance is still achieved must be provided
+- Using outdated standards — manufacturers should apply the most current edition of the standard at the time of technical file preparation. If an earlier edition is applied, the manufacturer must provide a written justification explaining why the earlier edition remains appropriate, and must provide evidence demonstrating that compliance with the Essential Principle is still achieved
 - Missing EP applicability justifications — simply marking an EP as "N/A" without explanation is insufficient
 - Gaps between the checklist and the technical file — the checklist references documents that are not actually in the technical file
 - Incomplete biocompatibility assessment — for patient-contacting devices, a biological safety evaluation report (BSER) following ISO 10993-1 is expected

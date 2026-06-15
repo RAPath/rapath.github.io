@@ -66,3 +66,7 @@ Use the dashboard to:
 
 note
 DMEC is actively developed and maintained by DAV under MOH. The interface, features, and submission requirements may change. Always consult the official dmec.gov.vn homepage and the latest MOH circulars for current guidance before submitting critical applications.
+
+Add a new subsection: 'Submission Fees
+
+DMEC requires government fees for Type C/D registration applications. Fee amounts vary by device class and are set by MOH. Type A/B declarations typically have minimal or no associated fees. Current fee schedules should be confirmed through the DMEC portal or the latest MOH circular before submission. Payment is typically made by bank transfer, and proof of payment (bank confirmation) must be uploaded with the application.'

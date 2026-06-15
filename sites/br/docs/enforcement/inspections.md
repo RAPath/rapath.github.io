@@ -49,3 +49,7 @@ Verify all information against official [ANVISA](https://www.gov.br/anvisa) sour
 "Products collected during market surveillance inspections are submitted to ANVISA laboratories for testing and analysis. If non-conformities are detected, the registration holder is notified and enforcement action may be initiated, ranging from corrective action requests to seizure or registration cancellation."
 
 "Organize batch records, complaint handling logs, CAPA documentation, and non-conformance reports by date and device for quick retrieval. Ensure all required signatures, approvals, and timestamps are present in quality system documentation."
+
+Add after the Types of ANVISA inspections table: "Products collected during market surveillance inspections are submitted to ANVISA laboratories for testing and analysis. If non-conformities are detected, the registration holder is notified and enforcement action may be initiated, ranging from corrective action requests to seizure or registration cancellation."
+
+Add to "Preparing for an ANVISA inspection": "Organize batch records, complaint handling logs, CAPA documentation, and non-conformance reports by date and device for quick retrieval. Ensure all required signatures, approvals, and timestamps are present in quality system documentation."

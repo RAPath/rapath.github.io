@@ -44,3 +44,5 @@ MAHs must use clinical judgment to assess whether there is a reasonable possibil
 - Reports in medical literature or from regulatory authorities
 
 When causation is unclear or unlikely, the MAH must still document the decision and rationale in the complaint record. If new information later emerges that changes the causation assessment, a supplementary report may be required.
+
+If an initial report is filed within the 15-day window but subsequent investigation determines the event does not actually meet reportability criteria, the MAH should document this determination and may file a supplementary report clarifying that the event was determined to be non-reportable based on completed investigation.

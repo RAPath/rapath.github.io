@@ -39,4 +39,6 @@ Korean MFDS generally accepts FDA or CE clinical data with appropriate Korean su
 
 ## Korea-specific items to plan for
 
-"Note: KGMP certificate acquisition typically requires 3–6 months and must be completed before MFDS will accept a device application (품목허가). Begin the GMP certification process 6–9 months before planned Korean submission to avoid delays."
+"Critical Timeline Note: KGMP certificate acquisition typically requires 3–6 months and must be completed before MFDS will accept a device application (품목허가). Begin the GMP certification process 6–9 months before your planned Korean submission to avoid delays. Do not consider filing to MFDS until KGMP certification is in hand."
+
+Add before 'Korea-specific items to plan for' section: "Note: KGMP certificate acquisition typically requires 3–6 months and must be completed before MFDS will accept a device application (품목허가). Begin the GMP certification process 6–9 months before planned Korean submission to avoid delays."

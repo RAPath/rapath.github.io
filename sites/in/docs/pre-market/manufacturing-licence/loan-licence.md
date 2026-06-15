@@ -24,3 +24,7 @@ India's manufacturing licence framework splits authority between **CDSCO** (Clas
 - CDSCO/SLA inspection prior to grant of licence.
 
 > **Official source:** Medical Devices Rules 2017, Chapter IV; [CDSCO](https://cdsco.gov.in)
+
+Loan Manufacturing Definition:
+
+Loan (contract) manufacturing allows a licensed manufacturer to produce devices for another entity. Form MD-9 is used for such arrangements. Both the licensee and the contract manufacturer must maintain full traceability and quality documentation. The contract manufacturer assumes responsibility for GMP compliance during production, while the licensee remains responsible for product quality and regulatory compliance.

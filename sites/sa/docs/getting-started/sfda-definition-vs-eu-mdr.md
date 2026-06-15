@@ -32,13 +32,13 @@ While both EU MDR and the SFDA regulate certain devices without a strict medical
 In the EU, medical devices and IVDs are governed by two separate regulations (MDR and IVDR). In Saudi Arabia, both general medical devices and IVDs are governed by the **same Medical Devices Law** and its Implementing Regulation, with IVD-specific requirements addressed within MDS-REQ 1. This simplifies the regulatory landscape for IVD manufacturers.
 
 ### 3. Arabic as primary language
-The Medical Devices Law is published in **Arabic** as the authoritative text. The English translations provided in SFDA guidance documents (MDS-REQ series) are operational references but are not the legally authoritative source. In any ambiguity, the Arabic text governs.
+The Medical Devices Law is published in **Arabic** as the authoritative text. The English translations provided in SFDA guidance documents (MDS-REQ series) are operational references but are not the legally authoritative source. In any conflict or ambiguity between the Arabic and English texts, the Arabic version (as the primary legal language) governs.
 
 ### 4. Software qualifying criteria
 The SFDA's qualification criteria for software as a medical device follow IMDRF SaMD principles similarly to EU MDR, but the SFDA has not published a direct equivalent to the EU's MDCG 2019-11 software guidance. Manufacturers should apply conservative principles when assessing whether software qualifies under the SFDA definition.
 
 ### 5. Combination product boundary
-The SFDA applies a principal mode of action test for combination products (device + drug), consistent with EU MDR Article 1(8). However, the SFDA consults its Drug Sector on the medicinal component separately — there is no single combined approval pathway. In the EU, drug-device combinations are handled under one dossier submitted to either the EMA or a national competent authority.
+The SFDA applies a principal mode of action test for combination products (device + drug), consistent with EU MDR Article 1(8). However, the SFDA consults its Drug Sector on the medicinal component separately — there is no single combined approval pathway. In the EU, drug-device combinations are typically handled by classifying them as medical devices (if the device is the principal mode of action) and submitted under the MDR, or as medicinal products if the drug component is principal, without a single unified dossier pathway.
 
 ## Practical implication
 

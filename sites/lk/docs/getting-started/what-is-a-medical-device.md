@@ -53,3 +53,5 @@ Once confirmed as a medical device, determine the risk class. See [Classificatio
 :::
 
 Reagent suppliers and component manufacturers selling to IVD kit manufacturers are not required to register directly with the NMRA. Only the manufacturer of the final assembled IVD kit, or the MAH marketing it in Sri Lanka, must obtain NMRA registration. However, the Consolidated Dossier must document all components and their suppliers.
+
+Add under 'What Is an IVD?': 'Reagent suppliers and component manufacturers selling to IVD kit manufacturers are not required to register directly with the NMRA. Only the manufacturer of the final assembled IVD kit, or the MAH marketing it in Sri Lanka, must obtain NMRA registration. However, the Consolidated Dossier must document all components and their suppliers.'

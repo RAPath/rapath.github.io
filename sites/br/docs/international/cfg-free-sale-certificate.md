@@ -50,3 +50,5 @@ Verify all information against official [ANVISA](https://www.gov.br/anvisa) sour
 :::
 
 CFG application fees vary by device classification. Standard processing typically takes 4–8 weeks from submission. Expedited processing options may be available; consult ANVISA's Peticionamento Eletrônico portal for current fee schedules and processing times.
+
+The CFG is typically issued with a validity period of 12 months from the date of issue. If the device registration expires or is cancelled during this period, the CFG becomes invalid. Exporters must renew the CFG annually or whenever device registration status changes.

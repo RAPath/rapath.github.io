@@ -22,7 +22,7 @@ High-risk AI/ML devices (e.g., autonomous diagnostic AI for serious conditions) 
 
 ## Predetermined Change Control Plans (PCCPs)
 
-One of the key challenges with AI/ML devices is **continuous learning** — algorithms that evolve after market deployment. The FDA has developed a **Predetermined Change Control Plan (PCCP)** framework for this. COFEPRIS has not yet published equivalent an PCCP framework specific to AI/ML devices, or continuously learning but manufacturers with adaptive AI/ML devices should:
+One of the key challenges with AI/ML devices is **continuous learning** — algorithms that evolve after market deployment. The FDA has developed a **Predetermined Change Control Plan (PCCP)** framework for this. COFEPRIS has not yet published an equivalent PCCP framework specific to AI/ML devices or for continuously learning systems; however, manufacturers with adaptive AI/ML devices should:
 
 - Document planned algorithm changes and their anticipated impact on safety and performance.
 - Assess whether post-deployment changes require a modification application to COFEPRIS.
@@ -49,3 +49,7 @@ If an AI/ML device has FDA 510(k)/De Novo/PMA clearance or CE Mark under EU MDR,
 - [IMDRF membership](../international/imdrf-membership)
 
 Manufacturers of AI/ML devices should establish a plan for monitoring real-world performance post-deployment. This includes tracking algorithm accuracy, identifying subgroup performance issues, and reporting significant deviations to COFEPRIS via the technovigilance system (NOM-240). For adaptive AI/ML systems, document how model retraining is governed and whether retraining triggers a modification application.
+
+Add a new subsection titled 'Post-market monitoring and real-world performance' with text: 'Manufacturers of AI/ML devices should establish a plan for monitoring real-world performance post-deployment. This includes tracking algorithm accuracy, identifying subgroup performance issues, and reporting significant deviations to COFEPRIS via the technovigilance system (NOM-240). For adaptive AI/ML systems, document how model retraining is governed and whether retraining triggers a modification application.'
+
+Add the following paragraph after the PCCPs section: 'COFEPRIS AI/ML submission requirements: Manufacturers should submit a detailed technical dossier including the algorithm development methodology, training and validation datasets (with demographic diversity), performance benchmarking data, and a risk management plan specific to AI/ML failure modes. For adaptive systems, provide a post-market monitoring protocol outlining how algorithm performance will be tracked and reported. Consult COFEPRIS DIGIPRiS early if your AI/ML device incorporates continuous learning capabilities, as this may affect classification and approval timelines.'

@@ -11,7 +11,7 @@ slug: /
 
 RAPath EU is a plain English reference for EU medical device regulation under **Regulation (EU) 2017/745 (MDR)** and **Regulation (EU) 2017/746 (IVDR)**. It is designed for regulatory affairs professionals, manufacturers, importers, EU authorised representatives, consultants, and anyone navigating the CE marking framework.
 
-This site does not replace official EU sources. Every page links back to the authoritative legislative text, MDCG guidance, or official Commission publication. Think of RAPath EU as a structured, searchable index that helps you find what you need — then points you to the official source to verify it.
+This site does not replace official EU sources and does not constitute legal or regulatory advice. Every page links back to the authoritative legislative text, MDCG guidance, or official Commission publication. Think of RAPath EU as a structured, searchable index that helps you find what you need — then points you to the official source to verify it. Always consult the official regulation text and a qualified regulatory professional before making compliance decisions.
 
 ---
 

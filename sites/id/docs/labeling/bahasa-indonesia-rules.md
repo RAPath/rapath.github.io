@@ -61,7 +61,7 @@ The quality of Bahasa Indonesia translation matters. Kemenkes evaluators are nat
 - Safety statements that are ambiguous when translated
 
 :::tip
-Use qualified Indonesian medical translators for all BI label and IFU content. Have the translation reviewed by a local regulatory affairs professional before submission.
+Use qualified Indonesian medical translators with subject-matter expertise in the device category for all BI label and IFU content. Have the translation reviewed by a local regulatory affairs professional with Kemenkes submission experience before submission. Consider back-translation (translating the BI text back into English) to verify consistency with the original source document.
 :::
 
-Reference the Kamus Istilah Kesehatan (Indonesian Health Terminology Dictionary) published by Kemenkes or consult with Indonesian regulatory affairs specialists who maintain current terminology databases. Inconsistency in medical term translation (e.g., using different Indonesian terms for the same device function across the IFU) is a common reason for label revision requests during review.
+Reference the Kamus Istilah Kesehatan (Indonesian Health Terminology Dictionary) published by Kemenkes or consult with Indonesian regulatory affairs specialists and qualified medical translators who maintain current terminology databases. Inconsistency in medical term translation across the label and IFU (e.g., using different Indonesian terms for the same device function or clinical condition) is a common reason for label revision requests and deficiency letters during Kemenkes review.

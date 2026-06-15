@@ -30,7 +30,7 @@ Class D requires a **comprehensive registration dossier** with the highest level
 - Post-market surveillance plan
 - Periodic Safety Update Reports (PSUR) commitment
 - ISO 13485 mandatory
-- Review timeline: 6–12 months minimum; complex devices may exceed with extensive clinical data or those requiring deficiency letter cycles this. Applicants should plan for potential review cycles and queries from Kemenkes evaluators.
+- Review timeline: 6–12 months minimum; complex devices with extensive clinical data or those requiring deficiency letter cycles may exceed this. Applicants should plan for potential review cycles and queries from Kemenkes evaluators. timeline, particularly those requiring multiple deficiency letter cycles or extensive clinical data evaluation. Applicants should plan for potential review cycles and queries from Kemenkes evaluators.
 
 ## Documentation Requirements
 
@@ -58,3 +58,11 @@ Class D devices (and biological products) have a Halal labeling compliance deadl
 The ASEAN CSDT (Common Submission Dossier Template) must include all required modules: administrative data, device description and specifications, nonclinical laboratory study data, clinical data, clinical evaluation report, risk management file (ISO 14971), and production information. Digital submission via the Regalkes system is required.
 
 Manufacturers should designate a qualified Regulatory Affairs representative to serve as the primary contact with Kemenkes during the review period. Two-way communication with evaluators, including responses to queries (deficiency letters), is expected within specified timeframes (typically 30 days for each query cycle).
+
+Add after 'Complete ASEAN CSDT dossier' in the Registration Pathway section: 'The ASEAN CSDT (Common Submission Dossier Template) must include all required modules: administrative data, device description and specifications, nonclinical laboratory study data, clinical data, clinical evaluation report, risk management file (ISO 14971), and production information. Digital submission via the Regalkes system is required.'
+
+Add to Post-Approval Obligations section: 'Manufacturers should designate a qualified Regulatory Affairs representative to serve as the primary contact with Kemenkes during the review period. Two-way communication with evaluators, including responses to queries (deficiency letters), is expected within specified timeframes (typically 30 days for each query cycle).'
+
+Add to the 'Registration Pathway' section after 'Class D requires a': 'The ASEAN Common Submission Dossier Template (ASEAN CSDT) is a harmonized format for medical device registration across ASEAN member states.'
+
+Add a note clarifying: 'Government Regulation 42/2024 specifies October 17, 2026 (Class A), October 17, 2029 (Class B), and October 17, 2034 (Class C). The Class D deadline of approximately 2039 has not yet been formally published and may be subject to change through future government regulation.'

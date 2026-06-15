@@ -11,7 +11,7 @@ last_reviewed: 2026-04-30
 
 The **Special Access Scheme (SAS)** allows health practitioners to access therapeutic goods — including medical devices — that are not included in the Australian Register of Therapeutic Goods (ARTG) for specific patients who need them. SAS is an individual patient access pathway, not a general market authorisation. Each approval covers one patient or a defined patient group, not ongoing commercial supply.
 
-SAS is established under Part 3-2 of the Therapeutic Goods Act 1989 and is the primary mechanism by which patients in Australia can access unapproved devices when no suitable approved alternative exists or when waiting for ARTG approval is not clinically appropriate.
+SAS is established under Part 3-2 of the Therapeutic Goods Act 1989 and Regulation 18 of the Therapeutic Goods Regulations 1990. It is the primary mechanism by which patients in Australia can access unapproved devices when no suitable approved alternative exists or when waiting for ARTG approval is not clinically appropriate.
 
 ---
 
@@ -96,6 +96,8 @@ Adverse events involving devices accessed under SAS must still be reported to th
 - [SAS guidance for health practitioners — TGA](https://www.tga.gov.au/resources/guidance/special-access-scheme-sas-guidance-health-practitioners)
 
 ---
+
+Complete the final section with proper navigation: '👉 Special Access Scheme — TGA\n👉 SAS Category B application — TGA\n👉 SAS Category C — TGA'
 
 ## Related Pages
 

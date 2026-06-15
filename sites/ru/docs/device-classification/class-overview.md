@@ -30,7 +30,7 @@ Class IIa includes devices that are short-term invasive, active diagnostic devic
 - Short-term intravascular catheters
 - Ultrasound imaging devices
 
-**Regulatory implications:** Class IIa sterile devices require a mandatory QMS inspection before submission, in force since January 2024.
+**Regulatory implications:** Class IIa sterile devices require a mandatory QMS inspection before submission. This requirement took effect on 1 January 2024 for all new applications submitted from that date onwards.
 
 ## Class IIb — Medium to High Risk
 
@@ -65,5 +65,9 @@ Class III includes active implantable devices and the highest-risk devices with 
 - Annual PM monitoring: Regulation No. 1113
 :::
 
+
+Note: QMS inspection requirements introduced in January 2024 apply to Class IIa sterile devices and all Class IIb and III devices. Class I devices remain exempt from mandatory QMS inspection.
+
+Add to Class I regulatory implications:
 
 Note: QMS inspection requirements introduced in January 2024 apply to Class IIa sterile devices and all Class IIb and III devices. Class I devices remain exempt from mandatory QMS inspection.

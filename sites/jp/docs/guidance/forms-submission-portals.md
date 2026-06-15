@@ -6,7 +6,7 @@ sidebar_position: 6
 # Forms and PMDA Submission Portals
 
 :::note JP-unique
-PMDA operates Japan's primary electronic submission gateway (EDRP) for Shonin applications and related submissions. Most formal pre-market applications and post-market regulatory submissions (Cabinet Order on Medical Device Fees) Consultation fees vary by type (e.g., RS Strategy Consultation vs pre-application consultation). processed through this system. Understanding the portal and form requirements is essential for efficient regulatory submissions.
+PMDA operates Japan's primary electronic submission gateway (EDRP) for Shonin applications and related submissions. Most formal pre-market applications and post-market regulatory submissions are processed through this system. Consultation fees vary by type (e.g., RS Strategy Consultation vs pre-application consultation). Understanding the portal and form requirements is essential for efficient regulatory submissions.
 :::
 
 ## PMDA electronic submission gateway (EDRP)
@@ -42,17 +42,21 @@ PMDA EDRP portal: [pmda.go.jp — electronic submissions](https://www.pmda.go.jp
 
 Pre-submission consultations  are booked through PMDA's consultation management system. The process:
 1. Access PMDA's consultation booking page (pmda.go.jp — consultation services section)
-2. Select the consultation type (RS Strategy Consultation, pre-application consultation, etc.)
+2. Select the consultation type (RS Strategy Consultation for Class III/IV pre-review strategy, pre-application consultation for data package questions, etc.)
 3. Submit a consultation request form with a brief description of the device and regulatory question
 4. PMDA confirms availability and assigns a consultation date (typically several weeks to months in advance, depending on consultation type)
 5. Prepare and submit the consultation briefing document by the PMDA-specified deadline before the meeting
 
 ## Fee payment
 
-PMDA charges fees for pre-submission consultations, application reviews, and QMS inspections. Fees are set by Cabinet Order and are published on PMDA's fee schedule. Fee payment is typically required at the time of application submission. The MAH is responsible for fee payment.
+PMDA charges fees for pre-submission consultations, application reviews, and QMS inspections. Fees are set by Cabinet Order (Cabinet Order on Medical Device Fees) and published on PMDA's fee schedule. Consultation fees vary by type (e.g., RS Strategy Consultation vs pre-application consultation). Fee payment is typically required at the time of application submission. The MAH is responsible for fee payment.
 
 :::info Official source
 PMDA fee schedule: [pmda.go.jp — fees](https://www.pmda.go.jp/english/review-services/fees/0001.html)
 :::
 
+> **Fee payment details:** PMDA requires fee payment to be submitted with the application or as specified in PMDA's fee schedule notice. Payment methods typically include bank transfer to the designated PMDA account. Failure to pay fees on time may result in application rejection or suspension of review. The MAH should confirm current payment procedures directly with PMDA before submission, as procedures may change.
+
 Expand Fee payment section with: "Fee payment details: PMDA requires fee payment to be submitted with the application or as specified in PMDA's fee schedule notice. Payment methods typically include bank transfer to the designated PMDA account. Failure to pay fees on time may result in application rejection or suspension of review. The MAH should confirm current payment procedures directly with PMDA before submission, as procedures may change."
+
+JP-unique: The following sections describe submission systems, forms, and fee structures unique to Japan's regulatory pathway. These are essential for preparing and submitting applications through PMDA's electronic systems.

@@ -74,7 +74,7 @@ Registration includes:
 
 ### Step 5: Place on the GB market
 
-Once steps 1–4 are complete, the device may be placed on the GB market. Post-market obligations (PMS, vigilance reporting) begin at this point.
+Once steps 1–4 are complete, the device may be placed on the GB market. Post-market obligations begin immediately, including: post-market surveillance, adverse event monitoring and vigilance reporting to MHRA, complaint handling, and maintaining distribution records.
 
 ---
 

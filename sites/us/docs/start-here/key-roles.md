@@ -84,3 +84,5 @@ Distributors who repackage, relabel, or otherwise change a device take on manufa
 - [21 CFR Part 803 — Medical Device Reporting](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-H/part-803)
 
 A key distinction exists: distributors who only handle devices in original unopened packaging without any modification are not considered repackagers. However, any person who opens, repacks, or changes the labelling of a device assumes manufacturer responsibilities. Even changing the outer carton label while keeping the device in its original packaging may trigger manufacturer obligations.
+
+Add to the 'Distributors' section before the bullet points: 'A key distinction exists: distributors who only handle devices in original unopened packaging without any modification are not considered repackagers. However, any person who opens, repacks, or changes the labelling of a device assumes manufacturer responsibilities. Even changing the outer carton label while keeping the device in its original packaging may trigger manufacturer obligations.'

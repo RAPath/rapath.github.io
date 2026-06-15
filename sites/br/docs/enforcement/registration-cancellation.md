@@ -38,3 +38,5 @@ Verify all information against official [ANVISA](https://www.gov.br/anvisa) sour
 :::
 
 "Any devices manufactured and distributed under the cancelled registration remain subject to post-market surveillance requirements, and customers must be notified of the cancellation status. Devices cannot be legally sold or distributed after the cancellation date, regardless of when they were manufactured."
+
+Add after "The registration holder must immediately cease distribution and implement a recall of all stock.": "Any devices manufactured and distributed under the cancelled registration remain subject to post-market surveillance requirements, and customers must be notified of the cancellation status. Devices cannot be legally sold or distributed after the cancellation date, regardless of when they were manufactured."

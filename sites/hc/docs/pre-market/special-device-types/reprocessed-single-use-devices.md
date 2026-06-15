@@ -6,7 +6,7 @@ description: Health Canada's regulatory requirements for the reprocessing of sin
 # Reprocessed Single-Use Devices
 
 ## Overview
-Reprocessing of single-use devices (SUDs) refers to the cleaning, disinfection or sterilisation, testing, relabelling, and repackaging of a used SUD so that it can be used again. Reprocessing SUDs is a regulated activity in Canada.
+Reprocessing of single-use devices (SUDs) is a defined process consisting of cleaning, disinfection and/or sterilization, functional testing, relabeling, and repackaging of a used device to restore it for subsequent use. Reprocessing is regulated in Canada as a manufacturing activity, and reprocessors are subject to the same pre-market and post-market requirements as original device manufacturers.
 
 ## Who reprocesses SUDs?
 - Hospital-based reprocessing departments (reprocessing for internal use)
@@ -33,3 +33,9 @@ Hospitals that reprocess SUDs for internal use only (not for distribution) may o
 > Legislative source: Medical Devices Regulations, SOR/98-282; Health Canada Guidance on Reprocessing Single-Use Medical Devices
 
 Expand 'Hospital-based reprocessing' section: "Health Canada distinguishes between hospital-based reprocessing (for internal institutional use) and commercial third-party reprocessing. Hospital departments that reprocess SUDs exclusively for internal use are not required to obtain a Device Licence, provided they follow Health Canada's guidance on validated processes, maintain detailed records, and do not distribute the reprocessed devices. However, if a hospital sells or distributes its reprocessed devices to other facilities, it must obtain a Device Licence and comply with all commercial reprocessor requirements. All reprocessors, whether hospital-based or commercial, must maintain comprehensive validation documentation and traceability records."
+
+Replace the current 'Hospital-based reprocessing' section with this expanded version:
+
+## Hospital-based reprocessing
+
+Health Canada distinguishes between hospital-based reprocessing (for internal institutional use) and commercial third-party reprocessing. Hospital departments that reprocess SUDs exclusively for internal use are not required to obtain a Device Licence, provided they follow Health Canada's guidance on validated processes, maintain detailed records, and do not distribute the reprocessed devices. However, if a hospital sells or distributes its reprocessed devices to other facilities, it must obtain a Device Licence and comply with all commercial reprocessor requirements. All reprocessors, whether hospital-based or commercial, must maintain comprehensive validation documentation and traceability records.

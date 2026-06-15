@@ -60,4 +60,8 @@ The CMDN has a defined validity period. Renew before expiry to maintain uninterr
 
 As a general rule, each device requires its own CMDN application. However, exceptions may apply for devices meeting specific shared application conditions — confirm current grouping/shared application rules with CDRRHR.
 
+**Grouped or shared applications:** Current CDRRHR guidance typically requires a separate CMDN for each distinct device. However, exception conditions may exist for multiple variants or configurations of the same base device with identical specifications. Before investing in preparing a grouped application, confirm in writing with CDRRHR whether your devices qualify for a shared submission, or plan for separate CMDN applications and fees.
+
+Confirm the current published CMDN processing timeline with CDRRHR or the FDA Philippines website, as typical timelines may vary based on workload and application completeness. As a benchmark, Class A applications are generally processed faster than CMDR applications due to lower risk, but exact turnaround times should be verified directly with CDRRHR at the time of submission.
+
 Confirm with CDRRHR whether grouped or shared CMDN applications are permitted for closely related Class A devices (e.g., multiple variants of the same base device). Current guidance favours separate applications per device, but exception conditions may exist.

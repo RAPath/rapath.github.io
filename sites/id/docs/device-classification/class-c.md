@@ -31,7 +31,7 @@ Class C uses the **full registration pathway** via Regalkes, with enhanced docum
 - Review timeline: approximately 6–12 months
 
 :::warning Local clinical evaluation requirement
-For certain Class C device categories, Kemenkes evaluators may request supplementary local clinical data or performance testing conducted in an Indonesian clinical setting. This requirement is assessed on a case-by-case basis and is more likely for novel technologies, devices without existing approvals in other ASEAN member states, or devices intended for populations with distinct demographic or clinical characteristics. Manufacturers should budget additional time and resources for this possibility during planning.
+For certain Class C device categories, Kemenkes evaluators may request supplementary local clinical data or performance testing conducted in an Indonesian clinical setting or using Indonesian patient populations. This requirement is assessed on a case-by-case basis and is more likely for novel technologies, devices without existing approvals in other ASEAN member states, or devices intended for populations with distinct demographic or clinical characteristics. Manufacturers should budget additional time and resources for this possibility during planning.
 :::
 
 ## Documentation Requirements

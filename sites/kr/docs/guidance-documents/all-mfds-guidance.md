@@ -25,3 +25,5 @@ MFDS publishes **official guidance documents (가이드라인)** and **notificat
 Most MFDS guidance is in **Korean only**. Selected key documents have unofficial English translations. IMDRF-aligned documents sometimes have English source documents available from [imdrf.org](https://www.imdrf.org).
 
 ## Major topic areas
+
+**Device-type-specific guidance**: MFDS publishes separate guidance for specific device categories (e.g., orthopaedic implants, cardiac devices, in vitro diagnostics) and by classification grade (Class I–IV). See 'Guidance by Device Type and Grade' for details on locating device-specific documents.

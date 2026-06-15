@@ -10,7 +10,7 @@ description: Overview of the Medicines Act 1981 — New Zealand's primary legisl
 
 The **Medicines Act 1981** is the primary legislation governing medical devices in New Zealand. Although originally designed for medicines, the Act was extended to cover medical devices — a decision that has increasingly shown its age as device technology has advanced far beyond what a 1981 law anticipated.
 
-The Act defines what a medical device is, establishes Medsafe's powers, creates the framework within which the WAND Regulations operate, and sets out offences and penalties for non-compliance.
+The Act defines what a medical device is, establishes Medsafe's powers and inspection authorities, creates the framework within which the WAND Regulations operate, and sets out offences and penalties for non-compliance with medical device supply requirements.
 
 ---
 

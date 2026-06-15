@@ -20,10 +20,15 @@ Responsible for ensuring device compliance, QMS, technical documentation, confor
 ## Swiss Authorised Representative (CH REP)
 Mandatory for non-Swiss manufacturers. Performs or assists with Swissmedic registration, vigilance reporting, FSCA coordination, and inspections. Jointly and severally liable with manufacturer. See [CH REP](./ch-reps).
 
-Importer — Any natural or legal person established in Switzerland who imports and places a non-Swiss manufacturer's device on the Swiss market without being the manufacturer themselves. Must verify device conformity, proper labelling (DE/FR/IT), and confirm CH REP appointment is in place. Has no registration obligation but must cooperate with Swissmedic surveillance activities.
+Importer — Any natural or legal person established in Switzerland who imports and places a non-Swiss manufacturer's device on the Swiss market without being the manufacturer themselves. Must verify device conformity, proper labelling (DE/FR/IT), and confirm CH REP appointment is in place. Has no registration obligation but must cooperate with Swissmedic surveillance activities and report any serious incidents to the manufacturer or CH REP.
 
 ## Distributor
 Makes a device available on the Swiss market without being the manufacturer or importer. Must verify labelling and cooperate with surveillance activities.
+
+
+Swiss Authorised Representative (CH REP)
+​
+Mandatory for non-Swiss manufacturers. Performs or assists with Swissmedic registration, vigilance reporting, FSCA coordination, and inspections. CH REPs are jointly and severally liable with manufacturers for regulatory compliance, including technical documentation accuracy, vigilance reporting, and FSCA implementation. Swissmedic can pursue enforcement action against either the manufacturer or CH REP independently. See CH REP.
 
 ## Official Sources
 - [MedDO Art. 4–18 — Economic operators (SR 812.213)](https://www.fedlex.admin.ch/eli/cc/2021/205/en)

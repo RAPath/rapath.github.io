@@ -32,9 +32,13 @@ Distributors operating in Russia must:
 Medical devices imported into Russia are subject to customs procedures. The customs declaration must reference the Registration Certificate number. Samples imported for registration purposes (pre-market) follow a separate simplified process, which was streamlined by Roszdravnadzor in August 2022.
 
 :::warning 15-day import reporting
-The 15-day import reporting obligation is frequently overlooked by importers new to the Russian market. Non-compliance carries enforcement risk. Ensure your logistics and compliance processes capture this requirement.
+The 15-day import reporting obligation is frequently overlooked by importers new to the Russian market. Non-compliance may result in administrative penalties and suspension of import privileges. Integration of this obligation into logistics systems, customs procedures, and quality management processes is essential. Appoint a responsible party within your organization to ensure timely submission of all import reports.
 :::
 
 :::info Official source
 Regulation No. 11020 (2022): [roszdravnadzor.gov.ru](https://roszdravnadzor.gov.ru/)
 :::
+
+In the 'Importers' section, after the bullet point on '15-day import reporting,' add:
+
+Import reports must be submitted to Roszdravnadzor via the official portal or designated system (verify current submission channel with Roszdravnadzor). The report must include: device trade name, INN (if applicable), registration certificate number, batch/lot number, quantity imported, date of import, intended use, and importer registration details. Retain supporting documentation (invoices, packing lists, customs declarations) for audit purposes.
