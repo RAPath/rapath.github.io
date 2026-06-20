@@ -110,6 +110,10 @@ export function buildSiteConfig(params: SiteParams): Config {
             showLastUpdateTime: false,
           },
           blog: false,
+          gtag: {
+            trackingID: 'G-Z5121MRVZ7',
+            anonymizeIP: false,
+          },
           theme: {
             customCss: [
               path.resolve(__dirname, './css/custom.css'),

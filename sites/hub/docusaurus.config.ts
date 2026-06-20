@@ -44,6 +44,10 @@ const config: Config = {
             description: 'Latest medical device regulatory news across 24 jurisdictions',
           },
         },
+        gtag: {
+          trackingID: 'G-Z5121MRVZ7',
+          anonymizeIP: false,
+        },
         theme: {
           customCss: [
             path.resolve(__dirname, '../../packages/theme/src/css/custom.css'),
