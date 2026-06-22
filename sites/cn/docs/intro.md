@@ -8,7 +8,7 @@ tags: [introduction]
 ---
 import React from 'react';
 
-const PHASES = [
+export const PHASES = [
   { id: 0, icon: '🧭', label: 'Phase 1', title: 'Understand the Framework',
     nodes: [
       { tag: 'Getting Started', title: 'What is a Medical Device?', sub: 'NMPA definition under the Medical Device Supervision and Administration Regulation (MDSAR 2021).', link: { label: 'Read definition', href: '/start-here/what-is-a-medical-device' } },

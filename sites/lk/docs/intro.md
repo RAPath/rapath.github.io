@@ -6,7 +6,7 @@ description: Reference guide for Sri Lanka medical device regulation under the N
 ---
 import React from 'react';
 
-const PHASES = [
+export const PHASES = [
   { id: 0, icon: '🧭', label: 'Phase 1', title: 'Understand the Framework',
     nodes: [
       { tag: 'Getting Started', title: 'What is a Medical Device?', sub: 'NMRA definition under the National Medicines Regulatory Authority Act — scope and key terms.', link: { label: 'Read definition', href: '/getting-started/what-is-a-medical-device' } },

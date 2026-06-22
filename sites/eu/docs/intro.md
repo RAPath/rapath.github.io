@@ -6,7 +6,7 @@ slug: /
 ---
 import React from 'react';
 
-const PHASES = [
+export const PHASES = [
   { id: 0, icon: '🧭', label: 'Phase 1', title: 'Understand the Framework',
     nodes: [
       { tag: 'Getting Started', title: 'What is a Medical Device?', sub: 'EU MDR / IVDR definitions — Article 2 scope, intended purpose, and borderline products.', link: { label: 'Read definition', href: '/start-here/what-is-a-medical-device' } },

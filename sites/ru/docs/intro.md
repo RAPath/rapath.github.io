@@ -6,7 +6,7 @@ description: Reference guide for medical device regulation in Russia — Roszdra
 ---
 import React from 'react';
 
-const PHASES = [
+export const PHASES = [
   { id: 0, icon: '🧭', label: 'Phase 1', title: 'Understand the Framework',
     nodes: [
       { tag: 'Getting Started', title: 'What is a Medical Device?', sub: 'Definition under Federal Law No. 323-FZ and Roszdravnadzor regulatory rules.', link: { label: 'Read definition', href: '/getting-started/what-is-a-medical-device' } },

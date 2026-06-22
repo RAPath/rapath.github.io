@@ -8,7 +8,7 @@ keywords: [CDSCO, medical devices, India, regulatory, MDR 2017, D&C Act, SUGAM]
 ---
 import React from 'react';
 
-const PHASES = [
+export const PHASES = [
   { id: 0, icon: '🧭', label: 'Phase 1', title: 'Understand the Framework',
     nodes: [
       { tag: 'Getting Started', title: 'What is a Medical Device?', sub: 'CDSCO definition under the Drugs and Cosmetics Act (Section 3b) and MDR 2017.', link: { label: 'Read definition', href: '/start-here/what-is-a-medical-device' } },

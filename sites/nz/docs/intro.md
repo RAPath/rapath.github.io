@@ -6,7 +6,7 @@ description: Reference guide for New Zealand medical device regulation under Med
 ---
 import React from 'react';
 
-const PHASES = [
+export const PHASES = [
   { id: 0, icon: '🧭', label: 'Phase 1', title: 'Understand the Framework',
     nodes: [
       { tag: 'Getting Started', title: 'What is a Medical Device?', sub: 'Definition under the Medicines Act 1981 and WAND Regulations 2003 — scope and key terms.', link: { label: 'Read definition', href: '/getting-started/what-is-a-medical-device' } },

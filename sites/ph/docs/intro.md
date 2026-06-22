@@ -6,7 +6,7 @@ description: Reference guide for Philippines medical device regulation — RA 97
 ---
 import React from 'react';
 
-const PHASES = [
+export const PHASES = [
   { id: 0, icon: '🧭', label: 'Phase 1', title: 'Understand the Framework',
     nodes: [
       { tag: 'Getting Started', title: 'What is a Medical Device?', sub: 'Legal definition under RA 9711 and the FDA Act of 2009 — scope, exclusions, and key terms.', link: { label: 'Read definition', href: '/getting-started/what-is-a-medical-device' } },

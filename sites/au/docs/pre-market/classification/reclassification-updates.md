@@ -74,4 +74,4 @@ Subscribe to TGA updates to receive notifications of regulatory changes:
 - [How Classification Works](./how-classification-works.md)
 - [Class I, IIa, IIb, III & AIMD](./class-i-iia-iib-iii-aimd.md)
 - [Active & Software Devices](./active-and-software-devices.md)
-- [What's New](../../whats-new/regulatory-changes.md)
+- [What's New — RAPath Hub](https://rapath.org/whats-new)

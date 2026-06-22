@@ -6,7 +6,7 @@ description: RAPath Saudi Arabia — your open reference guide to medical device
 ---
 import React from 'react';
 
-const PHASES = [
+export const PHASES = [
   { id: 0, icon: '🧭', label: 'Phase 1', title: 'Understand the Framework',
     nodes: [
       { tag: 'Getting Started', title: 'What is a Medical Device?', sub: 'SFDA definition under the Medical Devices and Supplies Regulation — scope and key terms.', link: { label: 'Read definition', href: '/getting-started/what-is-a-medical-device' } },

@@ -6,7 +6,7 @@ description: A practical English-language reference for navigating Indonesia's m
 ---
 import React from 'react';
 
-const PHASES = [
+export const PHASES = [
   { id: 0, icon: '🧭', label: 'Phase 1', title: 'Understand the Framework',
     nodes: [
       { tag: 'Overview', title: 'What is a Medical Device?', sub: 'Definition under Permenkes 62/2017 and the broader Kemenkes regulatory framework.', link: { label: 'Read definition', href: '/overview/what-is-a-medical-device' } },

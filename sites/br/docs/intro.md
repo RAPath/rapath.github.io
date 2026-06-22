@@ -7,7 +7,7 @@ keywords: [ANVISA, medical devices, Brazil, regulatory, RDC 751, CBPF, regulator
 ---
 import React from 'react';
 
-const PHASES = [
+export const PHASES = [
   { id: 0, icon: '🧭', label: 'Phase 1', title: 'Understand the Framework',
     nodes: [
       { tag: 'Getting Started', title: 'What is a Medical Device?', sub: 'ANVISA definition under RDC 751/2022 — scope, exclusions, and product categories.', link: { label: 'Read definition', href: '/start-here/what-is-a-medical-device' } },

@@ -6,7 +6,7 @@ description: Reference guide for Hong Kong's Medical Device Administrative Contr
 ---
 import React from 'react';
 
-const PHASES = [
+export const PHASES = [
   { id: 0, icon: '🧭', label: 'Phase 1', title: 'Understand the Framework',
     nodes: [
       { tag: 'Getting Started', title: 'What is a Medical Device?', sub: 'Hong Kong definition under the Medical Device Ordinance — scope, exclusions, and key terms.', link: { label: 'Read definition', href: '/getting-started/what-is-a-medical-device' } },

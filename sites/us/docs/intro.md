@@ -7,7 +7,7 @@ keywords: [FDA, medical devices, regulatory, 510k, PMA, CDRH, regulatory affairs
 ---
 import React from 'react';
 
-const PHASES = [
+export const PHASES = [
   { id: 0, icon: '🧭', label: 'Phase 1', title: 'Understand the Framework',
     nodes: [
       { tag: 'Getting Started', title: 'What is a Medical Device?', sub: 'FDA definition under section 201(h) of the FD&C Act — scope, exclusions, and key terms.', link: { label: 'Read definition', href: '/start-here/what-is-a-medical-device' } },
