@@ -44,7 +44,7 @@ export const PHASES = [
   },
   { id: 5, icon: '💡', label: 'Phase 6', title: 'Digital Marking & Special Topics',
     nodes: [
-      { tag: 'UDI', badge: 'Mandatory', title: 'Digital Marking (Chestny ZNAK)', sub: 'Russia's mandatory Data Matrix marking system for medical devices via the Honest Sign platform.', link: { label: 'View digital marking guide', href: '/udi-and-marking/digital-marking' } },
+      { tag: 'UDI', badge: 'Mandatory', title: 'Digital Marking (Chestny ZNAK)', sub: "Russia's mandatory Data Matrix marking system for medical devices via the Honest Sign platform.", link: { label: 'View digital marking guide', href: '/udi-and-marking/digital-marking' } },
       { tag: 'Enforcement', title: 'Enforcement & Penalties', sub: 'Roszdravnadzor enforcement powers, inspection types, and KoAP administrative penalties.', link: { label: 'View enforcement guide', href: '/enforcement/overview' } },
       { tag: 'Digital Health', title: 'Software as a Medical Device', sub: 'How Russia regulates standalone software — classification and registration requirements.', link: { label: 'View SaMD guide', href: '/digital-health/software-as-a-medical-device' } },
     ],

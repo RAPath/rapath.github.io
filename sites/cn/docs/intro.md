@@ -20,7 +20,7 @@ export const PHASES = [
     nodes: [
       { tag: 'Classification', badge: 'Class I / II / III', title: 'How Classification Works', sub: 'NMPA three-class system — NMDC classification catalogue and classification rules.', link: { label: 'View classification rules', href: '/pre-market/classification/how-classification-works' } },
       { tag: 'Classification', title: 'IVD Classification', sub: 'IVD classification rules under NMPA — separate classification system for in vitro diagnostics.', link: { label: 'View IVD classification', href: '/pre-market/classification/classification-rules-ivds' } },
-      { tag: 'Classification', title: 'SaMD Classification', sub: 'Software as a medical device — NMPA's AI/ML guidance and SaMD classification approach.', link: { label: 'View SaMD classification', href: '/pre-market/special-types/samd' } },
+      { tag: 'Classification', title: 'SaMD Classification', sub: "Software as a medical device — NMPA's AI/ML guidance and SaMD classification approach.", link: { label: 'View SaMD classification', href: '/pre-market/special-types/samd' } },
     ],
   },
   { id: 2, icon: '📋', label: 'Phase 3', title: 'Registration Pathway',

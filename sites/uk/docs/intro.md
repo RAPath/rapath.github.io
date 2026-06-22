@@ -49,7 +49,7 @@ export const PHASES = [
   },
   { id: 5, icon: '💡', label: 'Phase 6', title: 'Special Access & Northern Ireland',
     nodes: [
-      { tag: 'Special Access', title: 'Approved for Use (AfU)', sub: 'MHRA's Approved for Use route — access to novel or innovative devices outside standard pathways.', link: { label: 'View AfU guide', href: '/special-access/approved-for-use' } },
+      { tag: 'Special Access', title: 'Approved for Use (AfU)', sub: "MHRA's Approved for Use route — access to novel or innovative devices outside standard pathways.", link: { label: 'View AfU guide', href: '/special-access/approved-for-use' } },
       { tag: 'Northern Ireland', title: 'Northern Ireland Rules', sub: 'Windsor Framework 2023 — how EU MDR/IVDR applies in Northern Ireland.', link: { label: 'View NI compliance guide', href: '/northern-ireland/rules-applying-in-ni' } },
       { tag: 'Northern Ireland', title: 'Practical Multi-Market Compliance', sub: 'How to comply with both UKCA (GB) and CE/MDR (NI) requirements simultaneously.', link: { label: 'View multi-market guide', href: '/northern-ireland/practical-compliance-multi-market' } },
     ],

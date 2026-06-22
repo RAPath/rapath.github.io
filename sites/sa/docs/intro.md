@@ -25,7 +25,7 @@ export const PHASES = [
     nodes: [
       { tag: 'Registration', badge: 'Key step', title: 'MDMA Overview', sub: 'Medical Device Marketing Authorization — the mandatory product licence for all devices in KSA.', link: { label: 'View MDMA overview', href: '/mdma-registration/mdma-overview' } },
       { tag: 'Registration', title: 'Technical File Assessment (TFA)', sub: 'Single registration route since 2022 — TFA pathway process and review timelines.', link: { label: 'View TFA route', href: '/mdma-registration/tfa-route' } },
-      { tag: 'Registration', title: 'GHAD Portal Submission', sub: 'SFDA's unified electronic platform for all MDMA applications and communications.', link: { label: 'View GHAD guide', href: '/mdma-registration/ghad-portal' } },
+      { tag: 'Registration', title: 'GHAD Portal Submission', sub: "SFDA's unified electronic platform for all MDMA applications and communications.", link: { label: 'View GHAD guide', href: '/mdma-registration/ghad-portal' } },
       { tag: 'Technical Docs', title: 'Technical File Overview', sub: 'Structure and content of the SFDA technical file — Essential Principles and clinical evaluation.', link: { label: 'View technical file guide', href: '/technical-documentation/technical-file-overview' } },
     ],
   },

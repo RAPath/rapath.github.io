@@ -18,7 +18,7 @@ export const PHASES = [
   { id: 1, icon: '🔬', label: 'Phase 2', title: 'Classify Your Device',
     nodes: [
       { tag: 'Classification', badge: 'Class I / II / III', title: 'How Classification Works', sub: 'FDA three-class system — 21 CFR product codes, intended use, and risk-based classification.', link: { label: 'View classification rules', href: '/pre-market/classification/how-classification-works' } },
-      { tag: 'Classification', title: 'SaMD & Software Classification', sub: 'Digital health, SaMD, and CDS software — FDA's policy and classification framework.', link: { label: 'View digital health guide', href: '/digital-health/samd' } },
+      { tag: 'Classification', title: 'SaMD & Software Classification', sub: "Digital health, SaMD, and CDS software — FDA's policy and classification framework.", link: { label: 'View digital health guide', href: '/digital-health/samd' } },
     ],
   },
   { id: 2, icon: '📋', label: 'Phase 3', title: 'Pre-Market Pathway',

@@ -45,7 +45,7 @@ export const PHASES = [
   { id: 5, icon: '💡', label: 'Phase 6', title: 'Digital Health & Special Access',
     nodes: [
       { tag: 'Digital Health', title: 'SaMD Overview', sub: 'Kemenkes approach to software as a medical device and digital health products.', link: { label: 'View SaMD guide', href: '/digital-health/samd-overview' } },
-      { tag: 'ASEAN', title: 'ASEAN AMDD Harmonisation', sub: 'Indonesia's participation in ASEAN Medical Device Directive alignment and CSDT adoption.', link: { label: 'View ASEAN guide', href: '/asean-harmonisation/amdd-overview' } },
+      { tag: 'ASEAN', title: 'ASEAN AMDD Harmonisation', sub: "Indonesia's participation in ASEAN Medical Device Directive alignment and CSDT adoption.", link: { label: 'View ASEAN guide', href: '/asean-harmonisation/amdd-overview' } },
       { tag: 'Special Access', title: 'Compassionate Use', sub: 'Access pathway for unregistered devices for patients with serious unmet medical needs.', link: { label: 'View compassionate use guide', href: '/special-access/compassionate-use' } },
     ],
   },

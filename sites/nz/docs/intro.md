@@ -47,7 +47,7 @@ export const PHASES = [
     nodes: [
       { tag: 'Digital Health', title: 'SaMD & Digital Health', sub: 'Medsafe approach to Software as a Medical Device and mobile health products.', link: { label: 'View SaMD guide', href: '/special-topics/samd-digital-health' } },
       { tag: 'Compliance', title: 'Enforcement & Compliance', sub: 'Medsafe enforcement powers, penalties, and compliance expectations for Sponsors.', link: { label: 'View enforcement guide', href: '/special-topics/enforcement-compliance' } },
-      { tag: 'Legislation', title: 'Medical Products Bill', sub: 'New Zealand's upcoming reform — what the Medical Products Bill means for device regulation.', link: { label: 'View bill overview', href: '/legislation/medical-products-bill' } },
+      { tag: 'Legislation', title: 'Medical Products Bill', sub: "New Zealand's upcoming reform — what the Medical Products Bill means for device regulation.", link: { label: 'View bill overview', href: '/legislation/medical-products-bill' } },
     ],
   },
 ];

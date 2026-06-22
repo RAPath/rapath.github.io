@@ -45,7 +45,7 @@ export const PHASES = [
   { id: 5, icon: '💡', label: 'Phase 6', title: 'Digital Health & Special Topics',
     nodes: [
       { tag: 'Digital Health', title: 'SaMD & Digital Health', sub: 'MDA approach to software as a medical device and digital health products.', link: { label: 'View SaMD guide', href: '/special-topics/samd-digital-health' } },
-      { tag: 'ASEAN', title: 'ASEAN Harmonisation', sub: 'Malaysia's role in ASEAN AMDD — CSDT, harmonised classification, and regional alignment.', link: { label: 'View ASEAN guide', href: '/special-topics/asean-harmonisation' } },
+      { tag: 'ASEAN', title: 'ASEAN Harmonisation', sub: "Malaysia's role in ASEAN AMDD — CSDT, harmonised classification, and regional alignment.", link: { label: 'View ASEAN guide', href: '/special-topics/asean-harmonisation' } },
       { tag: 'Special Access', title: 'Special Access Route', sub: 'Access pathway for unregistered devices for patients with serious or life-threatening conditions.', link: { label: 'View special access guide', href: '/special-topics/special-access-route' } },
     ],
   },

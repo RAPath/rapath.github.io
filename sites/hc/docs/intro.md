@@ -45,7 +45,7 @@ export const PHASES = [
     nodes: [
       { tag: 'Special Access', title: 'Special Access Program (SAP)', sub: 'Health Canada SAP — access to unlicensed devices for patients with serious conditions.', link: { label: 'View SAP guide', href: '/special-access/special-access-program' } },
       { tag: 'Special Access', title: 'Clinical Trial Authorization (ITA)', sub: 'Investigational Testing Authorization for clinical investigations of unlicensed devices in Canada.', link: { label: 'View ITA guide', href: '/special-access/investigational-testing-authorization' } },
-      { tag: 'International', title: 'UDI Framework', sub: 'Canada's UDI regulatory framework — proposed requirements and alignment with international UDI.', link: { label: 'View UDI guide', href: '/international/udi-framework' } },
+      { tag: 'International', title: 'UDI Framework', sub: "Canada's UDI regulatory framework — proposed requirements and alignment with international UDI.", link: { label: 'View UDI guide', href: '/international/udi-framework' } },
     ],
   },
 ];

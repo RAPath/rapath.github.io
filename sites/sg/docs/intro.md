@@ -12,7 +12,7 @@ export const PHASES = [
     nodes: [
       { tag: 'Getting Started', title: 'What is a Medical Device?', sub: 'HSA definition under the Health Products Act — scope, exclusions, and key terms.', link: { label: 'Read definition', href: '/start-here/what-is-a-medical-device' } },
       { tag: 'Getting Started', title: 'Regulatory Framework', sub: 'HSA structure, the Health Products Act, and how Singapore regulates medical devices.', link: { label: 'View framework', href: '/start-here/regulatory-framework' } },
-      { tag: 'Getting Started', badge: 'Unique to SG', title: 'Dual Obligation Model', sub: 'Both the product (registration) and the supply chain (dealer's licence) must comply with HSA rules.', link: { label: 'View dual model', href: '/start-here/dual-obligation-model' } },
+      { tag: 'Getting Started', badge: 'Unique to SG', title: 'Dual Obligation Model', sub: "Both the product (registration) and the supply chain (dealer's licence) must comply with HSA rules.", link: { label: 'View dual model', href: '/start-here/dual-obligation-model' } },
     ],
   },
   { id: 1, icon: '🔬', label: 'Phase 2', title: 'Classify Your Device',
@@ -26,13 +26,13 @@ export const PHASES = [
       { tag: 'Registration', badge: 'Key step', title: 'Registration Overview (SHARE)', sub: 'HSA MEDICS/PRISM portal registration — Class B/C/D pathways and evaluation routes.', link: { label: 'View registration overview', href: '/pre-market/registration/registration-overview' } },
       { tag: 'Registration', title: 'Evaluation Routes', sub: 'Full evaluation, abridged, and immediate routes — eligibility and documentation requirements.', link: { label: 'View evaluation routes', href: '/pre-market/registration/evaluation-routes' } },
       { tag: 'Registration', title: 'Clinical Evidence', sub: 'Clinical data requirements for HSA registration — what is needed for each route.', link: { label: 'View requirements', href: '/pre-market/registration/clinical-evidence' } },
-      { tag: 'International', title: 'Regulatory Reliance', sub: 'HSA's reliance programme — how approvals from reference authorities expedite Singapore registration.', link: { label: 'View reliance guide', href: '/international/regulatory-reliance' } },
+      { tag: 'International', title: 'Regulatory Reliance', sub: "HSA's reliance programme — how approvals from reference authorities expedite Singapore registration.", link: { label: 'View reliance guide', href: '/international/regulatory-reliance' } },
     ],
   },
   { id: 3, icon: '✅', label: 'Phase 4', title: "Dealer's Licence & QMS",
     nodes: [
       { tag: "Dealer's Licence", badge: 'Mandatory', title: "Dealer's Licence Overview", sub: 'Who needs a licence — manufacturers, importers, wholesalers, and retailers.', link: { label: "View licence guide", href: '/dealers-licence/overview' } },
-      { tag: "Dealer's Licence", title: 'QMS Requirements', sub: 'ISO 13485 (or MDSAP recognition from Jan 2025) mandatory for dealer's licence holders.', link: { label: 'View QMS requirements', href: '/dealers-licence/qms-requirements' } },
+      { tag: "Dealer's Licence", title: 'QMS Requirements', sub: "ISO 13485 (or MDSAP recognition from Jan 2025) mandatory for dealer's licence holders.", link: { label: 'View QMS requirements', href: '/dealers-licence/qms-requirements' } },
       { tag: "Dealer's Licence", title: 'GDP Requirements', sub: 'Good Distribution Practice obligations for licensed medical device dealers in Singapore.', link: { label: 'View GDP requirements', href: '/dealers-licence/gdp-requirements' } },
     ],
   },
@@ -46,8 +46,8 @@ export const PHASES = [
   { id: 5, icon: '💡', label: 'Phase 6', title: 'Enforcement & International',
     nodes: [
       { tag: 'Enforcement', title: 'Enforcement Overview', sub: 'HSA enforcement powers under the Health Products Act — penalties and market surveillance.', link: { label: 'View enforcement guide', href: '/enforcement/overview' } },
-      { tag: 'International', title: 'ASEAN Harmonisation', sub: 'Singapore's role in ASEAN AMDD — CSDT, AMDD classification, and regional alignment.', link: { label: 'View ASEAN guide', href: '/international/asean-amdc' } },
-      { tag: 'International', title: 'IMDRF Membership', sub: 'Singapore's IMDRF engagement and how international guidance shapes HSA policy.', link: { label: 'View IMDRF guide', href: '/international/imdrf' } },
+      { tag: 'International', title: 'ASEAN Harmonisation', sub: "Singapore's role in ASEAN AMDD — CSDT, AMDD classification, and regional alignment.", link: { label: 'View ASEAN guide', href: '/international/asean-amdc' } },
+      { tag: 'International', title: 'IMDRF Membership', sub: "Singapore's IMDRF engagement and how international guidance shapes HSA policy.", link: { label: 'View IMDRF guide', href: '/international/imdrf' } },
     ],
   },
 ];

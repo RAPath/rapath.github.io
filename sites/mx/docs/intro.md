@@ -38,7 +38,7 @@ export const PHASES = [
   },
   { id: 4, icon: '📊', label: 'Phase 5', title: 'Post-Market Obligations',
     nodes: [
-      { tag: 'Post-Market', badge: 'Ongoing', title: 'Technovigilance (NOM-240)', sub: 'Mexico's adverse event reporting system under NOM-240 — obligations and timeframes.', link: { label: 'View technovigilance guide', href: '/postmarket/technovigilance-overview' } },
+      { tag: 'Post-Market', badge: 'Ongoing', title: 'Technovigilance (NOM-240)', sub: "Mexico's adverse event reporting system under NOM-240 — obligations and timeframes.", link: { label: 'View technovigilance guide', href: '/postmarket/technovigilance-overview' } },
       { tag: 'Post-Market', title: 'Adverse Event Reporting', sub: 'What must be reported to COFEPRIS, by whom, and within what timeframes.', link: { label: 'View reporting rules', href: '/postmarket/adverse-event-reporting' } },
       { tag: 'Post-Market', title: 'Labelling (NOM-137-SSA1-2025)', sub: 'Revised labelling standard — Spanish language mandatory fields, effective May 2027.', link: { label: 'View labelling rules', href: '/postmarket/labelling-nom-137' } },
       { tag: 'Post-Market', title: 'FSCAs & Recalls', sub: 'Field safety corrective actions — COFEPRIS notification process and recall requirements.', link: { label: 'View FSCA guide', href: '/postmarket/fsca-recalls' } },

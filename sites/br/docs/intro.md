@@ -19,7 +19,7 @@ export const PHASES = [
     nodes: [
       { tag: 'Classification', badge: 'Class I–IV', title: 'How Classification Works', sub: 'Risk-based four-class system (I / II / III / IV) under RDC 751/2022 — classification rules.', link: { label: 'View classification rules', href: '/pre-market/classification/how-classification-works' } },
       { tag: 'Classification', title: 'IVD Classification', sub: 'IVD classification in Brazil — specific rules and risk categories under ANVISA regulations.', link: { label: 'View IVD classification', href: '/pre-market/classification/ivd-classification' } },
-      { tag: 'Classification', title: 'SaMD Classification', sub: 'Software as a medical device classification and ANVISA's digital health approach.', link: { label: 'View SaMD classification', href: '/pre-market/classification/samd-classification' } },
+      { tag: 'Classification', title: 'SaMD Classification', sub: "Software as a medical device classification and ANVISA's digital health approach.", link: { label: 'View SaMD classification', href: '/pre-market/classification/samd-classification' } },
     ],
   },
   { id: 2, icon: '📋', label: 'Phase 3', title: 'Pre-Market Registration',
@@ -32,7 +32,7 @@ export const PHASES = [
   },
   { id: 3, icon: '✅', label: 'Phase 4', title: 'GMP (CBPF) & AFE',
     nodes: [
-      { tag: 'GMP', badge: 'Mandatory', title: 'Brazilian GMP (CBPF) Overview', sub: 'ANVISA's Good Manufacturing Practices for medical devices — RDC 665/2022 requirements.', link: { label: 'View GMP overview', href: '/gmp/overview' } },
+      { tag: 'GMP', badge: 'Mandatory', title: 'Brazilian GMP (CBPF) Overview', sub: "ANVISA's Good Manufacturing Practices for medical devices — RDC 665/2022 requirements.", link: { label: 'View GMP overview', href: '/gmp/overview' } },
       { tag: 'GMP', title: 'CBPF Certificate', sub: 'Certificado de Boas Práticas de Fabricação — how to obtain and maintain GMP certification.', link: { label: 'View CBPF certificate guide', href: '/gmp/cbpf-certificate' } },
       { tag: 'Establishment', badge: 'Required', title: 'AFE — Authorisation to Operate', sub: 'Autorização de Funcionamento de Empresa — required for manufacturers, importers, and distributors.', link: { label: 'View AFE guide', href: '/post-market/establishment/afe' } },
     ],

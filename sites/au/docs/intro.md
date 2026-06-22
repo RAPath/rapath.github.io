@@ -24,7 +24,7 @@ export const PHASES = [
   { id: 2, icon: '📋', label: 'Phase 3', title: 'ARTG Inclusion',
     nodes: [
       { tag: 'ARTG', badge: 'Key step', title: 'ARTG Inclusion Overview', sub: 'The Australian Register of Therapeutic Goods (ARTG) — inclusion process by device class.', link: { label: 'View ARTG overview', href: '/pre-market/artg-inclusion/overview' } },
-      { tag: 'ARTG', title: 'Conformity Assessment', sub: 'Manufacturer's evidence (declaration) vs. TGA conformity assessment certification.', link: { label: 'View CA overview', href: '/pre-market/conformity-assessment/overview' } },
+      { tag: 'ARTG', title: 'Conformity Assessment', sub: "Manufacturer's evidence (declaration) vs. TGA conformity assessment certification.", link: { label: 'View CA overview', href: '/pre-market/conformity-assessment/overview' } },
       { tag: 'ARTG', title: 'Essential Principles', sub: 'Essential Principles of safety and performance — checklist and compliance requirements.', link: { label: 'View EP overview', href: '/pre-market/essential-principles/overview' } },
       { tag: 'Pre-Market', title: 'Clinical Evidence', sub: 'TGA clinical evidence requirements — when Australian trials are needed vs. international data.', link: { label: 'View evidence requirements', href: '/pre-market/clinical-evidence/what-is-required' } },
     ],

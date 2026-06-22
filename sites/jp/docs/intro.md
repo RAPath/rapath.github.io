@@ -9,7 +9,7 @@ export const PHASES = [
   { id: 0, icon: '🧭', label: 'Phase 1', title: 'Understand the Framework',
     nodes: [
       { tag: 'Getting Started', title: 'What is a Medical Device?', sub: 'PMD Act (Pharmaceuticals and Medical Devices Act) definition — scope and key terms.', link: { label: 'Read definition', href: '/start-here/what-is-a-medical-device' } },
-      { tag: 'Getting Started', title: 'PMDA vs. MHLW', sub: 'How PMDA (review) and MHLW (regulation/approval) work together in Japan's system.', link: { label: 'View PMDA vs MHLW guide', href: '/start-here/pmda-vs-mhlw' } },
+      { tag: 'Getting Started', title: 'PMDA vs. MHLW', sub: "How PMDA (review) and MHLW (regulation/approval) work together in Japan's system.", link: { label: 'View PMDA vs MHLW guide', href: '/start-here/pmda-vs-mhlw' } },
       { tag: 'Getting Started', badge: 'Japan-specific', title: 'Approval vs. Certification vs. Notification', sub: 'Three pathways: Shonin (approval), Ninsho (certification), Todokede (notification) — key differences.', link: { label: 'View pathway comparison', href: '/start-here/approval-vs-certification-vs-notification' } },
     ],
   },

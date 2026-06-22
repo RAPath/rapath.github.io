@@ -46,7 +46,7 @@ export const PHASES = [
   { id: 5, icon: '💡', label: 'Phase 6', title: 'Digital Health & Special Access',
     nodes: [
       { tag: 'Digital Health', title: 'SaMD & Digital Health', sub: 'DAV approach to software as a medical device, AI/ML devices, and connected products.', link: { label: 'View SaMD guide', href: '/digital-health/samd-overview' } },
-      { tag: 'ASEAN', title: 'ASEAN CSDT Alignment', sub: 'Vietnam's role in ASEAN AMDD and CSDT common dossier format.', link: { label: 'View ASEAN guide', href: '/asean-international/asean-csdt' } },
+      { tag: 'ASEAN', title: 'ASEAN CSDT Alignment', sub: "Vietnam's role in ASEAN AMDD and CSDT common dossier format.", link: { label: 'View ASEAN guide', href: '/asean-international/asean-csdt' } },
       { tag: 'Special Access', title: 'Emergency Import', sub: 'Emergency import provisions for unregistered devices in urgent situations.', link: { label: 'View emergency import guide', href: '/special-access/emergency-import' } },
     ],
   },
