@@ -40,6 +40,3 @@ Verify all information against official [ANVISA](https://www.gov.br/anvisa) sour
 
 Quality Assurance Plan, Description of quality assurance procedures for imported products, including receipt inspection and storage conditions
 
-Add to Required documentation for AFE (Importers) table after 'Responsável Técnico details': 'Quality Assurance Plan, Description of quality assurance procedures for imported products, including receipt inspection and storage conditions'
-
-Note: The federal AFE authorization from ANVISA does not replace state or municipal sanitary authorizations (Autorização Sanitária Estadual/Municipal). Importers must verify requirements with their state and local health authorities (Vigilância Sanitária) separately. Timelines for state/municipal approvals vary by jurisdiction and should be confirmed before commencing import activities.

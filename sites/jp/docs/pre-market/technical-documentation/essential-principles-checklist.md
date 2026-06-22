@@ -53,4 +53,3 @@ PMDA will question Essential Principles entries that lack adequate supporting ev
 
 Japan's Essential Principles are specified in Ministerial Ordinance 165 (General Affairs Ministerial Ordinance on Medical Devices and In Vitro Diagnostic Devices). The Essential Principles checklist must be completed in Japanese and submitted as part of every Shonin (approval) application.
 
-Add after the first paragraph: 'Japan's Essential Principles are specified in Ministerial Ordinance 165 (MHLW Ordinance on Medical Devices and In Vitro Diagnostic Devices).'

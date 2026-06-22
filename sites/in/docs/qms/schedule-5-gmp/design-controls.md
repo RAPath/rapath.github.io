@@ -13,4 +13,3 @@ Schedule 5 Part I applies to all manufacturers (Class A–D). Schedule 5 Part II
 
 > **Official source:** Medical Devices Rules 2017, Schedule 5
 
-Add a section detailing specific design control requirements such as: design planning requirements, design input specifications, design output documentation, design review procedures, design verification and validation activities, design transfer protocols, and design change control processes. Reference specific Schedule 5 sections applicable to different device classes.

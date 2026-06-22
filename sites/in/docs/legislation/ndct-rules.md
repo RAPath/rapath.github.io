@@ -13,4 +13,3 @@ The **New Drugs and Clinical Trials Rules 2019 (ND&CT Rules)** govern clinical i
 
 > **Official source:** [CDSCO — Acts & Rules](https://cdsco.gov.in/opencms/opencms/en/Acts-Rules/)
 
-Add clarification: 'The ND&CT Rules 2019 apply to clinical investigations of medical devices intended to generate clinical evidence for regulatory approval. Not all medical device classes require clinical investigation; Class A devices are generally exempt. Refer to Chapter V of MDR 2017 for detailed clinical investigation requirements by device class.'

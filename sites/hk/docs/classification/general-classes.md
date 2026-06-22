@@ -30,4 +30,3 @@ Bandages, tongue depressors, examination gloves, stethoscopes, non-sterile gauze
 MDacs:
 ❌ Not eligible for listing. These devices fall outside the MDACS framework and may be supplied without MDD registration, provided they comply with general safety and quality obligations under Hong Kong law.
 
-Remove the duplicate 'Class I — Low Risk' section that appears lower on the page. Keep only the first instance which clearly states: 'MDACS: ❌ Not eligible for listing. Class I devices fall outside the MDACS framework. They may be supplied without MDACS registration but must still comply with general safety and quality standards under Hong Kong law.'

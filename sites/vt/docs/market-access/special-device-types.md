@@ -55,4 +55,3 @@ A device manufactured in Vietnam solely for export is subject to export certific
 
 Manufacturers must maintain detailed software documentation including: software architecture and design specifications, software development lifecycle (SDLC) documentation, cybersecurity risk assessment and mitigation measures, software testing and validation protocols, and procedures for managing software updates and change control. DAV may request evidence of compliance with IEC 62304 requirements during registration review.
 
-Remove the duplicate paragraph starting with 'Manufacturers must maintain detailed software documentation...' at the end of the SaMD section. The key requirements are already clearly stated in the 'Key principles' subsection.

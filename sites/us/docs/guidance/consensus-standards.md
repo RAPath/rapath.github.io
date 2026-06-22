@@ -72,8 +72,3 @@ If you use a standard not on the recognised list, you cannot use the Abbreviated
 
 The FDA Standards Database is updated regularly as new standards are recognized or existing standards are superseded. Always verify the edition recognized by FDA before relying on a standard in your submission — using a non-recognized edition may result in Refuse to Accept or Additional Information requests.
 
-Add after 'Each result shows': 'The FDA Standards Database is updated regularly as new standards are recognized or existing standards are superseded. Always verify the edition recognized by FDA before relying on a standard in your submission — using a non-recognized edition may result in Refuse to Accept or Additional Information requests.'
-
-Add under 'Key recognised standards by category' in Biocompatibility section:
-
-Note: Biocompatibility testing requirements vary by device contact type (surface, external prolonged, internal, implant) and duration. Refer to ISO 10993-1 and FDA's Biocompatibility Guidance to determine which tests in the 10993 series apply to your specific device. Not all devices require testing for all endpoints.

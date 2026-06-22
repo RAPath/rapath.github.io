@@ -20,4 +20,3 @@ Special access and designation pathways are established under NMPA orders and an
 Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [NMPA](https://www.nmpa.gov.cn/) sources before making regulatory decisions. Not affiliated with NMPA or any Chinese Government body. Not legal or regulatory advice.
 :::
 
-Add a complete section explaining: (1) which free trade zones participate in medical device pilot programmes (Shanghai, Zhejiang, Tianjin, Guangdong, etc.); (2) expedited registration/approval pathways available in pilot zones; (3) regulatory requirements for devices imported through pilot zones; (4) restrictions on domestic distribution post-import; (5) recent NMPA announcements on pilot zone updates; (6) timeline benefits compared to standard registration.

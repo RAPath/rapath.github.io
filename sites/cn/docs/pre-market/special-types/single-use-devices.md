@@ -43,8 +43,3 @@ Content on this site is written with AI assistance and is intended as a navigati
 
 Single-Use Device Requirements: NMPA-approved single-use devices (SUDs) are labeled for one use only and must not be reprocessed or reused. Manufacturers must provide clear, conspicuous labeling stating "Single Use Only" in English and the Chinese equivalent "单次使用" (dāncì shǐyòng) on the device and packaging. If a manufacturer seeks to allow reprocessing and reuse, validation data must be submitted demonstrating safety and effectiveness after reprocessing cycles, and the device classification may be changed accordingly. Required documentation includes: material degradation analysis, sterilization efficacy data after simulated reuse, functional performance testing, bioburden/endotoxin levels, and shelf-life stability post-reprocessing.
 
-Add a section: 'Single-Use Device Requirements: NMPA-approved single-use devices (SUDs) are labeled for one use only and must not be reprocessed or reused. Manufacturers must provide clear labeling in Chinese and English stating "Single Use Only" (单次使用). If reprocessing is considered, manufacturers must submit validation data demonstrating safety and effectiveness after reprocessing, and the device must be reclassified accordingly. Documentation of material degradation, sterilization efficacy, and functional performance after simulated reuse is required.'
-
-Remove the 'Full content to be completed during editorial review' statement from the introduction.
-
-Revise to: 'Manufacturers must provide clear labeling stating "Single Use Only" in English and the Chinese equivalent "单次使用" (dāncì shǐyòng).'

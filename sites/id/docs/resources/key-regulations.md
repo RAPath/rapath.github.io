@@ -92,6 +92,3 @@ Indonesian regulations are updated through Permenkes, Kepmenkes, and Surat Edara
 
 "Permenkes No. 26 of 2020 - Amendment to Permenkes No. 62 of 2017 on NIE Renewal and Change Notification Procedures. Establishes the 5-year NIE validity period, renewal timelines, requirements for major and minor change notifications, and the consequences of failure to renew."
 
-Add new regulation entry: "Permenkes No. 72 of 2023 - Regulation on Good Distribution Practice for Medical Devices. Establishes the CDAKB certificate requirement and sets Good Distribution Practice standards for medical device distributors and LARs. Mandatory since July 2024 alongside IDAK for NIE applications."
-
-Add new regulation entry: "Permenkes No. 26 of 2020 - Amendment to Permenkes No. 62 of 2017 on NIE Renewal and Change Notification Procedures. Establishes the 5-year NIE validity period, renewal timelines, requirements for major and minor change notifications, and the consequences of failure to renew."

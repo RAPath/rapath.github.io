@@ -97,4 +97,4 @@ Both LTO and product registration applications are subject to the **one-time com
 
 Strategic tip: Plan your compliance responses carefully. Address all deficiency items completely in one comprehensive response package. Partial responses do not restart the 90-day clock and will result in application abandonment if unaddressed items remain.
 
-LTO validity period: [Insert specific number of years per CDRRHR regulations]. Submit renewal applications at least [Insert recommended advance notice period, e.g., 90 days] before expiry. A lapsed LTO invalidates the entity's ability to submit new CMDN/CMDR applications and may invalidate existing certificates.
+LTO validity period: 3 years from date of issuance. Submit renewal applications at least 90 days before expiry. A lapsed LTO invalidates the entity's ability to submit new CMDN/CMDR applications and may invalidate existing certificates.

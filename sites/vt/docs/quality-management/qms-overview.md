@@ -54,4 +54,4 @@ These are inspectable obligations — provincial health departments and DAV can 
 
 QMS certificates must be renewed before expiration. If a manufacturer's QMS certificate expires during the validity period of a marketed device's registration, the manufacturer must submit a new valid QMS certificate to DAV within 30 days of renewal. Failure to maintain a valid QMS certificate may result in suspension of the device's marketing authorisation.
 
-Add: 'Contact your Authorised Representative or DAV's registration department to confirm current document legalisation requirements, as these may vary by country of origin and certification body. Allow additional time in your registration timeline for document preparation and authentication.'
+Contact your Authorised Representative or DAV's registration department to confirm current document legalisation requirements, as these may vary by country of origin and certification body. Allow additional time in your registration timeline for document preparation and authentication.

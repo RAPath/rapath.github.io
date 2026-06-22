@@ -52,6 +52,3 @@ PMDA provides written minutes of consultations. These are important documents â€
 
 If PMDA's position changes between consultation and formal application (e.g., due to new guidance or evolving evidence), reference the consultation minutes in your application rationale and clearly document how changes are being addressed. PMDA generally honors consultation positions documented in meeting minutes, but if significant changes affect the advice, a brief written clarification to PMDA before submission is recommended.
 
-Add to 'PMDA meeting records': 'If PMDA's position changes between consultation and formal application (e.g., due to new guidance or evolving evidence), reference the consultation minutes in your application rationale and clearly document how changes are being addressed. PMDA generally honors consultation positions documented in meeting minutes, but if significant changes affect the advice, a brief written clarification to PMDA before submission is recommended.'
-
-RS Strategy Consultation and other PMDA consultation services are fee-based. Consultation fees are typically non-refundable and are generally not credited against subsequent PMDA application review fees. Confirm current fee amounts and policies with PMDA when requesting a consultation.

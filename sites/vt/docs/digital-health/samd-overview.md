@@ -62,13 +62,15 @@ A significant update to SaMD — particularly one that changes the intended purp
 
 Vietnam's National Digital Health Strategy (Decision 749/QD-TTg, 2020) sets goals for widespread health digitisation. DAV and MOH are actively developing regulatory capacity to address the growing volume of digital health products entering the market. Expect SaMD guidance to continue evolving.
 
-Add a new subsection: 'IMDRF SaMD Risk Categorisation Examples
+## IMDRF SaMD Risk Categorisation Examples
 
-Under the IMDRF framework (which DAV references), SaMD risk depends on:
+Under the IMDRF framework (which DAV references), SaMD risk depends on the significance of the information provided and the healthcare situation:
 
-• Type 1: SaMD intended to treat or prevent a serious condition, or provide an interpretation or recommendation without independent care judgment (higher risk)
-• Type 2: SaMD for management of a serious condition with clinical decision support functionality
-• Type 3: SaMD intended to support decision-making or provide recommendations
-• Type 4: SaMD intended to record, display, or transmit patient data (lower risk)
+| Category | Description | Risk Level |
+|---|---|---|
+| **Type 1** | SaMD intended to treat or prevent a serious condition, or provide interpretation without independent care judgment | Highest |
+| **Type 2** | SaMD for management of a serious condition with clinical decision support | High |
+| **Type 3** | SaMD intended to support decision-making or provide recommendations | Moderate |
+| **Type 4** | SaMD intended to record, display, or transmit patient data | Lower |
 
-For novel SaMD, DAV recommends consulting the IMDRF N12, N23, and N41 framework documents and seeking early engagement with DAV for classification confirmation.'
+For novel SaMD, consult the IMDRF N12, N23, and N41 framework documents and seek early engagement with DAV for classification confirmation.

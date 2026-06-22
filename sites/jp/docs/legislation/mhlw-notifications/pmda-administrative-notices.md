@@ -42,4 +42,3 @@ PMDA administrative notices: [pmda.go.jp — administrative guidance](https://ww
 
 This gateway is called PMDA's e-submission system. Current requirements and file format specifications are published at pmda.go.jp/english/review-services/submission/form-submission/ (English overview) and the Japanese guidance at pmda.go.jp/review/mreview (Japanese details).
 
-Add after 'Electronic submission via its EDRP gateway': 'This gateway is called PMDA's e-submission system. Current requirements and file format specifications are published at pmda.go.jp/english/review-services/submission/form-submission/ (English overview) and the Japanese guidance at pmda.go.jp/review/mreview (Japanese details).'

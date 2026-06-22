@@ -18,4 +18,3 @@ The **MFDS Clinical Trials Notification (의료기기 임상시험 계획 승인
 ## Related pages
 - [Clinical trial approval](../../pre-market/clinical-evidence/clinical-trial-approval) · [IRB and GCP requirements](../../pre-market/clinical-evidence/irb-and-gcp-requirements)
 
-Expand the 'Key provisions' section to include: "Clinical trial approval must be obtained from MFDS before trial initiation. Standard approval timeline is 30 days. An IRB/EC review and approval is also required in parallel with MFDS submission. Serious adverse events must be reported to MFDS within 15 days. Trial records must be retained for a minimum of 5 years after trial completion or device approval, whichever is later."

@@ -39,10 +39,3 @@ Always verify the auditor's current recognition status with HSA before engaging 
 
 ## What is a Medical Device Auditor?
 
-Add to the 'What is a Medical Device Auditor?' section:
-
-**Auditor qualifications**
-
-HSA-recognised auditors typically hold relevant qualifications in medical device quality systems and audit competence. Auditors may be accredited under international schemes such as ISO 17021 (bodies certifying management systems). Before engaging an auditor, confirm they are currently listed on HSA's recognised auditors register and have the appropriate accreditation for the scope of your QMS.
-
-Remove the duplicate 'What is a Medical Device Auditor?' entry from the navigation section at the bottom of the page, keeping only one entry.

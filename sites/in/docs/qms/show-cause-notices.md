@@ -13,4 +13,3 @@ The **Production Linked Incentive (PLI) scheme** for medical devices offers fina
 
 > **Official source:** Medical Devices Rules 2017; [CDSCO](https://cdsco.gov.in); [DPIIT PLI](https://www.investindia.gov.in)
 
-Add content explaining: what triggers show cause notices from CDSCO, timelines for response, consequences of non-compliance, appeal procedures, remedial actions required, and documentation of corrective measures. This page should address enforcement procedures rather than inspection and incentive information.

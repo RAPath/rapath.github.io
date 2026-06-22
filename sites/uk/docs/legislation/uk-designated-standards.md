@@ -58,16 +58,3 @@ MHRA publishes the current list of UK-designated standards at:
 
 To determine which standards apply to your device: (1) identify the device's classification and intended use, (2) consult the relevant Essential Requirements in Schedule 1, (3) cross-reference MHRA's current designated standards list to find applicable standards, and (4) ensure all requirements addressed by a standard are fully met — partial compliance does not confer presumption of conformity. If a standard is not fully applied, document alternative conformity methods.
 
-Add after 'When a manufacturer applies a UK-designated standard in full...' paragraph: 'To determine which standards apply to your device: (1) identify the device's classification and intended use, (2) consult the relevant Essential Requirements in Schedule 1, (3) cross-reference MHRA's current designated standards list to find applicable standards, and (4) ensure all requirements addressed by a standard are fully met — partial compliance does not confer presumption of conformity. If a standard is not fully applied, document alternative conformity methods.'
-
-Add a new section: 'When no designated standard applies
-
-If no UK-designated standard exists for a particular Essential Requirement applicable to your device:
-
-• You may apply an international standard (ISO, IEC) or national standard that addresses the requirement, even if it is not on MHRA's designated list
-• Document your chosen standard and explain in your Technical File why it is appropriate
-• Demonstrate how compliance with that standard meets the relevant Essential Requirement
-• This does not confer automatic presumption of conformity — you bear the responsibility to show conformity through your documentation and testing
-• Alternatively, you may demonstrate conformity through alternative means (testing, design analysis, clinical data) without relying on any standard
-
-For novel or emerging device types, consult MHRA via a pre-submission meeting to discuss appropriate conformity demonstration methods before finalising your technical approach.'

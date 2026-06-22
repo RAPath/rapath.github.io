@@ -38,4 +38,3 @@ For AI/ML that adapts post-deployment:
 - Significant changes beyond the boundary require MDD change notification
 - Consider a Predetermined Change Control Plan approach for anticipated future updates
 
-Add a paragraph after the 'Classification' section: 'SaMD Classification and MDACS Eligibility: Only Class II, III, or IV SaMD (or IVD SaMD Classes B, C, D) are eligible for MDACS listing. Class I or Class A SaMD may still be supplied in Hong Kong provided they comply with general safety standards, but do not require MDACS registration.'

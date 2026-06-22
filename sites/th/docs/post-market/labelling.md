@@ -89,4 +89,3 @@ Labelling changes are classified as:
 
 Always confirm classification with MDCD if unclear, as early notification prevents potential compliance issues.
 
-Add after the 'Product Variation Notifications' table: 'Significant labelling changes include: changes to intended purpose statements, safety warnings, contraindications, or usage instructions. Minor changes (e.g., manufacturer contact updates with no safety impact, translations to additional languages) may not require formal variation notification — confirm with MDCD if unclear.'

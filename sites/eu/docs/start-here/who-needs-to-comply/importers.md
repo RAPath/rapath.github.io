@@ -153,6 +153,3 @@ This is a crucial compliance boundary — importers who add their own branding, 
 | IVDR Art. 13 | Importer obligations (IVDR) |
 | MDCG 2021-17 | Guidance on economic operators |
 
-Complete the truncated sentence and finish the labelling requirements section. It should read: 'Importers should plan for labelling early in their supply chain engagement, as retrofitting labels or using supplementary labels adds cost and complexity. Ensure that importer details are captured on the device label, packaging, or documentation in a way that complies with MDR Article 13(4) and IVDR Article 13(4).'
-
-Complete the truncated sentence and any missing paragraphs. The sentence should read: 'Importers should plan for labelling and supplementary label placement during the device preparation phase to avoid delays when receiving shipments from non-EU manufacturers.'

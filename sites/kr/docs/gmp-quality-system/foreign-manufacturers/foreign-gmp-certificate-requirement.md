@@ -35,4 +35,3 @@ MFDS recognises **ISO 13485 certificates** from IAF certification bodies holding
 
 **Scope specificity:** The ISO 13485 certificate scope must explicitly list the device category, manufacturing process type, and sterilization method (if applicable) matching the 품목허가 application. Overly broad scopes (e.g., 'all active medical devices') may require scope clarification from the certification body or MFDS review.
 
-Add new section titled 'Role of Korean Importer': The Korean importer (or authorized representative) is responsible for submitting the GMP compliance documentation to MFDS, handling communication with MFDS throughout the process, and bearing all costs associated with inspections or certification activities. The importer must maintain the relationship with MFDS and ensure ongoing compliance reporting.

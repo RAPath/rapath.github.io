@@ -59,6 +59,3 @@ Devices that were certified under the legacy EU directives (MDD, AIMDD, IVDD) be
 
 Manufacturers serving Northern Ireland should note that NI remains on the EU MDR/IVDR regime and continues to accept EU Notified Body certificates and CE marking. The transition steps outlined above apply only to the GB market. See Great Britain vs Northern Ireland for the full regulatory split between GB and NI.
 
-Add a new section titled 'Northern Ireland considerations' after the 'Legacy EU MDD / AIMDD / IVDD certificates' section: 'Manufacturers serving Northern Ireland should note that NI remains on the EU MDR/IVDR regime and continues to accept EU Notified Body certificates and CE marking. The transition steps outlined above apply only to the GB market. See Great Britain vs Northern Ireland for the full regulatory split between GB and NI.'
-
-After the 'Obtain UKAB certificate' step, add: 'Update MHRA registration — Log into the MHRA Submissions portal and upload your UK Declaration of Conformity and UKAB certificate number to your device registration. Ensure the certificate reference and UKAB identification number are recorded correctly, as this information is used for compliance verification and post-market surveillance.'

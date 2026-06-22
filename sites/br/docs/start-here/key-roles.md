@@ -41,10 +41,3 @@ Hospitals, clinics and laboratories are classified as user facilities and must r
 
 ## Importers
 
-Add new subsection after 'Importers':
-
-**Foreign manufacturers**
-
-Foreign manufacturers who do not have direct representation in Brazil must appoint a Brazilian importer to hold the product registration. The foreign manufacturer remains responsible for ensuring GMP/CBPF compliance and must maintain technical documentation and quality records. ANVISA may inspect foreign manufacturers' facilities — cooperation with ANVISA inspections is mandatory. The foreign manufacturer should nominate the importer as their legal representative in Brazil (representante legal).
-
-Replace 'may represent The RT's signature on ANVISA documents constitutes personal legal accountability. the company in ANVISA inspections.' with 'may represent the company in ANVISA inspections. The RT's signature on ANVISA documents constitutes personal legal accountability.'

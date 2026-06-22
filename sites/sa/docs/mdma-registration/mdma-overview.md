@@ -68,8 +68,3 @@ Application fees vary by device class, complexity, and the number of items bundl
 
 ## Who needs MDMA?
 
-Add a new subsection after 'Who needs MDMA?':
-
-**MDIL alternative (limited scope)**
-
-A **Medical Device Importing License (MDIL)** may be permitted for certain low-risk, non-sterile, non-measuring Class A devices as exempted by official SFDA announcement. MDIL is a simplified listing route that does not require full technical file submission. However, MDIL eligibility is limited and the list of exempted devices is periodically updated. Manufacturers and importers should verify current MDIL-eligible device categories directly with the SFDA before relying on this route, as criteria are subject to change.

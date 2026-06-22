@@ -44,6 +44,3 @@ Failure to pay annual MDEL fees within the required period may result in:
 
 MDEL fees must be paid within 30 days of invoice. While Health Canada may provide administrative flexibility, non-payment beyond 30 days risks automatic suspension of the licence. To avoid suspension, licensees should confirm payment due dates with Health Canada's online portal and set reminders well in advance of the invoice deadline.
 
-Add to the 'Fee structure' section: 'Applicants must verify the current annual MDEL fee amounts through Health Canada's Medical Devices Directorate website or the Canada Gazette, as fees are updated periodically and may vary based on establishment type and activities listed on the licence.'
-
-MDEL fees must be paid within 30 days of invoice. Health Canada may provide a grace period of up to 60 days before suspension proceedings begin, but reliance on this grace period is not recommended. Applicants should confirm current payment terms with Health Canada's online portal.

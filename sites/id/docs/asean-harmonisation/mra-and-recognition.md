@@ -65,6 +65,3 @@ These documents go in the administrative section of the CSDT as "overseas regula
 
 "GMP certificates accepted by BPOM must be issued by BPOM itself or by audit bodies accredited under BPOM's GMP recognition programme. Alternatively, manufacturing site inspections can be conducted directly by BPOM if required during the registration review."
 
-Add to the 'ASEAN Mutual Recognition' section: "Device registration and MRA-related submissions are evaluated by BPOM's medical device division (currently under the Directorate of Device and Related Products Regulation / Direktorat Regulasi Produk Alat Kesehatan dan Terkait)."
-
-Add after 'An MDSAP certificate is therefore not equivalent to an Indonesian GMP inspection...': "GMP certificates accepted by BPOM must be issued by BPOM itself or by audit bodies accredited under BPOM's GMP recognition programme. Alternatively, manufacturing site inspections can be conducted directly by BPOM if required during the registration review."

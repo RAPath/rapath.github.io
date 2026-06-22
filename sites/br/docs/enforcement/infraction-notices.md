@@ -42,4 +42,3 @@ After the first paragraph, add: "Penalties imposed following an auto de infra√ß√
 
 "If no preliminary defence is filed within 10 working days, the infraction notice becomes administratively final. Similarly, if no administrative appeal is filed within 10 working days of ANVISA's decision, the penalty decision becomes final."
 
-Add to the infraction notice process section: "If no preliminary defence is filed within 10 working days, the infraction notice becomes administratively final. Similarly, if no administrative appeal is filed within 10 working days of ANVISA's decision, the penalty decision becomes final."

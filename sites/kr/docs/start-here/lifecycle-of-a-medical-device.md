@@ -37,5 +37,3 @@ sidebar_position: 8
 
 3.5. Korean agent appointment — Foreign manufacturers must appoint a 한국 대리인 (Korean agent) to serve as local representative for all regulatory communications. The Korean agent must be registered with MFDS and may be held jointly liable for compliance with Korean Medical Devices Act requirements.
 
-Add to regulatory journey after Step 3:
-3.5. Korean agent appointment — Foreign manufacturers must appoint a 한국 대리인 (Korean agent) to serve as local representative for all regulatory communications

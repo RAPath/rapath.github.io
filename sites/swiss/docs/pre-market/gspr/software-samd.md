@@ -23,15 +23,3 @@ MedDO Annex I § 17 requires software to be developed in accordance with the sta
 ## AI and Machine Learning
 Swissmedic applies MDCG guidance on AI/ML; Switzerland is not an EU member and Swissmedic independently assesses AI/ML devices as medical devices under MedDO requirements. Key requirements: AI/ML software with medical intended purpose is regulated as a medical device; training/validation datasets must be fully documented with provenance, representativeness, and limitations disclosed; algorithm updates, retraining with new data, or significant performance changes may constitute modifications requiring reassessment or post-market surveillance notifications.
 
-
-Add under 'AI and Machine Learning' section: 'Dataset documentation should include: dataset origin and composition; representative population characteristics; performance across different subgroups; validation methodology; any known limitations or potential bias. Swissmedic expects manufacturers to demonstrate that datasets are appropriate for the intended use case.'
-
-## Official Sources
-- [MDCG 2019-11 — Software qualification and classification](https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en)
-- [MDCG 2020-1 — AI and ML in medical devices](https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en)
-
-:::warning Disclaimer
-AI-assisted content for navigation only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
-:::
-
-Dataset documentation should include: dataset origin and composition; representative population characteristics; performance across different subgroups; validation methodology; any known limitations or potential bias. Swissmedic expects manufacturers to demonstrate that datasets are appropriate for the intended use case.

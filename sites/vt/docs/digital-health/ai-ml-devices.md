@@ -62,6 +62,3 @@ Using these frameworks to structure your technical documentation demonstrates re
 For genuinely novel AI/ML applications — particularly those that drive clinical decisions in high-risk settings — consider seeking a pre-submission meeting or written opinion from DAV before investing in a full dossier. This is becoming standard practice in more mature regulatory markets and is advisable in Vietnam for complex cases.
 :::
 
-Remove the incomplete line 'Intended use b' from the end of the page, or restore the full heading if content was accidentally truncated.
-
-Remove the final line: 'Remove the incomplete line 'Intended use b' from the end of the page, or restore the full heading if content was accidentally trunc' — this is an internal editing note that should not appear in published content.

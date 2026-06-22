@@ -34,4 +34,3 @@ Reports are submitted via the **MDIS portal**.
 
 Clarify in the Reporting Timeframes section: 'The timeframes begin from the date the LRP becomes aware of the event, not from the date the event occurred. LRP awareness includes awareness through customer complaints, healthcare facility reports, or internal investigations.'
 
-Update the 'Reporting Timeframes' table and explanatory text to include: 'The timeframes begin from the date the LRP becomes aware of the event, not from the date the event occurred. LRP awareness includes awareness through customer complaints, healthcare facility reports, or internal investigations.'

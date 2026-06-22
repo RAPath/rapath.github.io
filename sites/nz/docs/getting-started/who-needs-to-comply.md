@@ -88,6 +88,3 @@ Hospitals that reprocess single-use devices may have manufacturer obligations an
 
 "Healthcare providers or organisations that manufacture custom-made devices (such as dental laboratories or orthotics workshops) must either register as a manufacturer with Medsafe or appoint a Sponsor to take legal responsibility for the device. Many small custom manufacturing operations self-sponsor their devices by registering as a New Zealand-based entity."
 
-Add to the Healthcare providers section: "Healthcare providers or organisations that manufacture custom-made devices (such as dental laboratories or orthotics workshops) must either register as a manufacturer with Medsafe or appoint a Sponsor to take legal responsibility for the device. Many small custom manufacturing operations self-sponsor their devices by registering as a New Zealand-based entity."
-
-The incomplete sentence should be completed as: "Many small custom manufacturing operations self-sponsor their devices by registering with Medsafe or appointing a Sponsor to take legal responsibility for the devices they make."

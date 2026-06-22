@@ -28,4 +28,3 @@ The system is broadly aligned with the IMDRF UDI guidance document but has China
 Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [NMPA](https://www.nmpa.gov.cn/) sources before making regulatory decisions. Not affiliated with NMPA or any Chinese Government body. Not legal or regulatory advice.
 :::
 
-Add content covering: (1) UDI encoding standards (GTIN for Device Identifier, batch/lot/serial for Package Identifier); (2) Barcode format requirements (1D or 2D); (3) Requirements for human-readable translation of UDI; (4) Rules for devices without natural packaging; (5) Transition provisions for legacy encoding systems.

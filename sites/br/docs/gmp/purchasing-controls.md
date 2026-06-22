@@ -25,6 +25,3 @@ Verify all information against official [ANVISA](https://www.gov.br/anvisa) sour
 
 Re-evaluation should occur at least annually or when risk assessments indicate a need. Evaluation criteria should include the supplier's quality history, compliance with applicable standards, and ability to maintain consistency in product or service delivery.
 
-Add after 'Re-evaluate suppliers periodically.': 'Re-evaluation should occur at least annually or when risk assessments indicate a need. Evaluation criteria should include the supplier's quality history, compliance with applicable standards, and ability to maintain consistency in product or service delivery.'
-
-Maintain documented records of all supplier evaluations, qualification activities, and re-evaluations. Documentation should include the evaluation criteria used, results of assessments, and justification for approval or rejection decisions. These records must be retained for the duration of the business relationship plus a defined period after supplier discontinuation.

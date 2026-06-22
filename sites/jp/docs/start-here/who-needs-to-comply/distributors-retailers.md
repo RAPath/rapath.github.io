@@ -28,4 +28,3 @@ Entities that repair medical devices must hold a **repair business licence** if 
 
 Distributors are prohibited from advertising medical devices in ways that exceed the claims in the approved product labelling, or in ways that make false or misleading representations about safety and efficacy. The PMD Act's advertising provisions (Articles 66–68) apply to all parties in the supply chain, not only the MAH.
 
-Expand Advertising restrictions section: 'Distributors are prohibited from advertising medical devices in ways that exceed the claims in the approved product labelling, or in ways that make false or misleading representations about safety and efficacy. For higher-risk devices (Class III and IV), MHLW may require pre-approval of advertising materials. The PMD Act's advertising provisions (Articles 66–68) apply to all parties in the supply chain, not only the MAH.'

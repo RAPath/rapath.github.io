@@ -53,5 +53,3 @@ External links are provided for reference only. RAPath does not control the cont
 ## Key documents to download
 - MDS-REQ 3 — QMS requirements and ISO 13485 certification
 
-Add to the 'Key documents to download' list in 'SFDA guidance documents (MDS-REQ series)' section:
-- MDS-REQ 3 — QMS requirements and ISO 13485 certification

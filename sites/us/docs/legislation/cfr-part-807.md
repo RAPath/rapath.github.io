@@ -72,6 +72,3 @@ Foreign manufacturers exporting to the USA must:
 
 Failure to renew registration by December 31 may result in automatic deactivation of establishment registration and prohibit continued commercial distribution. Reactivation requires submission of a new registration application and may delay market access.
 
-Add after 'Registration timing' section: Failure to renew registration by December 31 may result in automatic deactivation of establishment registration and prohibit continued commercial distribution. Reactivation requires submission of a new registration application and may delay market access.
-
-Under 'Foreign establishment registration (§ 807.40)', clarify: 'Annual renewal must be completed between October 1 and December 31 each year. Failure to renew by December 31 results in automatic deactivation of the establishment registration effective January 1 of the following year. Foreign manufacturers cannot distribute devices in the USA while registration is deactivated. Reactivation requires submission of a new registration application, which may take 5-10 business days to process.'

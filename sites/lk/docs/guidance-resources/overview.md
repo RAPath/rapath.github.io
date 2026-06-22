@@ -46,10 +46,3 @@ All documents and latest forms: **[www.nmra.gov.lk](https://www.nmra.gov.lk/)** 
 F-MDR-035 was revised effective 2 June 2026. Previous versions are no longer accepted. Download a fresh copy for every submission.
 :::
 
-Update the example rate or add: 'This rate was current as of May 2026. NMRA updates the USD/LKR conversion monthly. Always check www.nmra.gov.lk for the rate applicable to your submission date before calculating fees.'
-
-Replace the 'USD Fee Schedule — Current Rate' section with: 'USD Fee Schedule — Current Rate
-
-NMRA fees are denominated in USD. The LKR equivalent is calculated at the monthly rate published on the NMRA website.
-
-Check www.nmra.gov.lk for the current monthly rate before making any fee payment. Exchange rates are updated monthly and you must use the rate applicable to your submission date when calculating fees.'

@@ -24,10 +24,3 @@ A **warning letter** is FDA's primary enforcement communication — it is public
 ## Official resources
 - [FDA Warning Letters Database](https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/compliance-actions-and-activities/warning-letters)
 
-Add after 'Must respond in writing within 15 business days': Response should address each 483 observation and explain corrective actions taken or planned. Failure to respond adequately or failure to promptly correct violations may result in escalated enforcement action, including seizure, injunction, or criminal prosecution.
-
-Add the following section before 'Key facts':
-
-Consequences of inadequate response
-
-FDA does not set a specific deadline for correcting violations, but expects corrections to be implemented promptly. If a manufacturer fails to respond adequately within 15 business days, does not fully address each 483 observation, or fails to demonstrate timely correction, FDA may escalate enforcement action without further notice. Escalation typically follows this progression: warning letter → seizure (temporary detention of product) → injunction (court order to cease operations) → criminal prosecution (for willful or knowing violations).

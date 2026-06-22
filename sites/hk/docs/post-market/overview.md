@@ -22,6 +22,3 @@ The LRP is the **primary point of contact** for all post-market matters. MDD may
 
 10 calendar days for serious adverse events; 30 calendar days for other reportable events.
 
-Add a note clarifying when the 10-day vs 30-day timeline applies: '10 calendar days for serious adverse events; 30 calendar days for other reportable events.'
-
-Replace the incomplete row with: 'Adverse event reporting | Report serious adverse events within 10 calendar days; other reportable events within 30 calendar days'

@@ -27,6 +27,3 @@ Submitted to MFDS at MFDS-specified intervals:
 ## Related pages
 - [Re-examination system](./re-examination-system) · [Adverse event reporting overview](../adverse-event-reporting/what-must-be-reported)
 
-Add as a new subsection: 'PMS plan submission
-
-The PMS plan must be submitted to MFDS as part of or immediately following the 품목허가 application. MFDS may request modifications or clarifications before formally accepting the plan. Once accepted, the plan remains in effect unless material changes to the device or manufacturing process require updates.'

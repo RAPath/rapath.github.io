@@ -77,16 +77,3 @@ Where necessary to prevent contamination of device or product:
 
 Process validation must be revalidated when significant changes are made to the process, equipment, manufacturing location, or materials that could affect process capability or product quality. Change control procedures must trigger revalidation evaluation.
 
-Add to the Process validation section after 'Validation protocol requirements': Revalidation Triggers
-
-Process revalidation is required when:
-- Equipment is replaced or substantially modified
-- Manufacturing location changes
-- Raw material suppliers change (especially for critical materials)
-- Process parameters are widened or changed
-- Manufacturing volume increases significantly beyond validated range
-- Process control limits are modified
-- Sterilization methods or parameters change
-- Personnel changes affect critical process functions
-
-Minor changes that do not affect process capability or product quality (e.g., cosmetic equipment modifications, administrative procedure updates) do not require revalidation but must be evaluated through change control procedures.

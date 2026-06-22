@@ -49,4 +49,3 @@ Some implantable devices are subject to implant card requirements — a card giv
 
 The specific duration of clinical follow-up required depends on the device type and expected lifespan. For example, joint replacements typically require 5-10 year follow-up data, while cardiovascular implants may require longer observation periods. Manufacturers should consult Health Canada's device-specific guidance documents or request a Type A meeting to clarify clinical evidence requirements early in development. Participation in implant registries (such as provincial hip and knee registries) may be expected for certain device categories.
 
-Remove the duplicate section heading at the end of the page. Keep only one 'Long-term clinical evidence' section that includes both the bullet-pointed requirements and the detailed guidance quote that currently appears under the second heading.

@@ -49,4 +49,3 @@ For any genuinely borderline product, submit a formal written query to DAV befor
 
 DAV will issue a written response indicating the applicable regulatory category and, where applicable, the classification.
 
-Add to the 'Requesting a formal determination' section: 'DAV typically responds to classification queries within 30 days of receipt of a complete request. Submit your query to [relevant DAV contact/portal]. Obtain written confirmation of the classification before proceeding to avoid potential rejection or reclassification during the market access review.'

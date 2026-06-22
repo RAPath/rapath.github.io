@@ -27,8 +27,3 @@ MFDS SaMD guidance aligns with:
 
 The guideline addresses validation of machine learning models, transparency of algorithmic decision-making, cybersecurity requirements, and post-market management of algorithm updates and model retraining (PCCP).
 
-Add to the 'Key MFDS guidance documents' table row for 'AI/ML Medical Device Guideline':
-
-The guideline addresses validation of machine learning models, transparency of algorithmic decision-making, cybersecurity requirements, and post-market management of algorithm updates and model retraining (PCCP).
-
-Consolidate by removing the standalone paragraph 'The guideline addresses validation of machine learning models...' and instead expand the table cell content for AI/ML Medical Device Guideline to: 'Validation requirements, algorithm transparency, PCCP concept, post-market management of algorithm updates and model retraining, cybersecurity requirements for connected devices'

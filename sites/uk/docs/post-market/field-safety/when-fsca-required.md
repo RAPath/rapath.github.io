@@ -119,6 +119,3 @@ MHRA reviews the notification and may request modifications to the FSCA scope or
 | ISO 14971:2019 | Risk management — FSCA risk determination |
 | IMDRF/NCAR/N18FINAL | International definitions for FSCAs |
 
-Complete the truncated section with: 'Affected batches or serial numbers — which specific units? All units, or only those manufactured during a specific date range or with specific material lot codes? The scope must be clearly defined and documented.'
-
-Complete the sentence: 'A manufacturer's failure to take timely corrective action when a safety issue is identifiable, even in the absence of reported harm, may result in MHRA enforcement action or criminal prosecution.'

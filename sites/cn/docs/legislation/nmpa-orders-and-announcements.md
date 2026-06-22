@@ -39,4 +39,3 @@ NMPA issues orders, announcements, and guidance documents that implement and cla
 ## Official Source
 All NMPA orders and announcements are published on www.nmpa.gov.cn under the 'Announcements' and 'Guidance Documents' sections.
 
-Add to each announcement: Full official title in Chinese and English, publication date, and direct NMPA website reference. For example: 'NMPA Announcement 2021-01 (Medical Device Registration and Filing Procedure; issued January 2021; available at www.nmpa.gov.cn/notice/zhengce/2021-01/)'

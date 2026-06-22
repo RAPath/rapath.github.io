@@ -335,6 +335,3 @@ MHRA may require manufacturers to maintain support (spare parts, maintenance) fo
 | ISO 14971:2019 | Risk management — applies throughout lifecycle |
 | MHRA: Adverse incident reporting | Vigilance reporting requirements |
 
-Update the regulatory basis statement to:
-
-This page provides a lifecycle overview across the UK Medical Devices Regulations 2002 (SI 2002/618, as amended) as applicable in Great Britain. For devices intended for the Northern Ireland market, manufacturers must follow EU MDR 2017/745 or EU IVDR 2017/746 instead. See Great Britain vs Northern Ireland for the regulatory divergence.

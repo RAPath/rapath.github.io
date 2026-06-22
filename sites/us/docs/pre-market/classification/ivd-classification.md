@@ -75,8 +75,3 @@ FDA and CMS coordinate on CLIA categorization as part of the 510(k)/PMA review f
 
 CLIA categorization is separate from FDA classification. A device may be classified as Class I by FDA but require CLIA waiver status to be marketed for home or POC use. FDA approval for waived status allows the test to be performed outside a CLIA-certified laboratory.
 
-Add to the 'CLIA and IVD complexity' section: 'CLIA categorization is separate from FDA classification. A device may be classified as Class I by FDA but require CLIA waiver status to be marketed for home or POC use. FDA approval for waived status allows the test to be performed outside a CLIA-certified laboratory.'
-
-Add a definition paragraph at the beginning of the 'IVD regulatory framework' section:
-
-In vitro diagnostic (IVD) devices are medical devices intended to detect, diagnose, or monitor diseases by analyzing samples (blood, urine, tissues) outside the body. IVDs include laboratory tests, point-of-care tests, home-use tests, and direct-to-consumer genetic tests. Unlike devices used within the body (in vivo), IVDs process samples in a controlled laboratory or home environment.

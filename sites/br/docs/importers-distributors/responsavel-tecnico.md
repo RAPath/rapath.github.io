@@ -43,4 +43,3 @@ Verify all information against official [ANVISA](https://www.gov.br/anvisa) sour
 
 The Responsável Técnico must maintain active professional registration with their respective council (CREA, CRM, CFF, COREN, CFBM, CFBio, CFO, or equivalent) and comply with continuing professional development requirements set by those councils. Professional registration must be renewed according to each council's schedule (typically every 2–3 years). Proof of active registration must be provided to ANVISA upon request.
 
-Add to RT responsibilities section: 'The RT bears joint professional liability with the company for regulatory violations, adverse events, and product non-conformities. Professional councils (CREA, CRM, CFF, COREN, etc.) may impose disciplinary sanctions including suspension or cancellation of professional registration if the RT fails to meet their regulatory obligations.'

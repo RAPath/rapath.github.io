@@ -49,12 +49,3 @@ A report is required when the manufacturer **receives or otherwise becomes aware
 - [21 CFR Part 803](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-H/part-803)
 - [FDA — Medical Device Reporting (MDR)](https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-mdr-how-report-medical-device-problems)
 
-Add a new section after "What information triggers a report":
-
-**Reporting timeline**
-
-Manufacturers must submit MDR reports to FDA within **30 days** of becoming aware of information suggesting a reportable event. This 30-day requirement applies to deaths, serious injuries, and malfunctions.
-
-Importers and user facilities follow different timelines — importers report to the manufacturer (no specific deadline specified in 21 CFR 803.20), while user facilities have **10 working days** to report deaths and serious injuries.
-
-Add to the 'What information triggers a report' section: 'Manufacturers must submit MDR reports to FDA within 30 days of receiving or becoming aware of information suggesting a reportable event.'

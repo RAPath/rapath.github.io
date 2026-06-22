@@ -65,4 +65,3 @@ If the Sri Lanka MAH changes:
 
 A gap in MAH coverage can interrupt commercial supply — plan transfers carefully and well in advance.
 
-Replace 'Current USD rate (May 2026): LKR 315.19 per USD' with 'Current USD rate: Check the NMRA website for the current monthly exchange rate, as rates are updated monthly. As of [current date], refer to the NMRA's published schedule.'

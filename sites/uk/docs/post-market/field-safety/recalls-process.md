@@ -106,6 +106,3 @@ MHRA can independently require a manufacturer to recall a device if MHRA conclud
 | MHRA: Adverse incident reporting guidance | Recall process guidance |
 | MHRA: Device alerts | Published recalls — gov.uk |
 
-Complete the truncated sentence with: 'Issue public warnings or Device Alerts on gov.uk if the risk requires immediate awareness among healthcare professionals or patients.'
-
-Complete the section: 'MHRA's recall powers — MHRA can independently require a manufacturer to recall a device if MHRA concludes there is an unacceptable risk and the manufacturer has not acted adequately. MHRA can also issue public notices, modify device registrations, or prohibit further supply.'

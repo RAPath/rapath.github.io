@@ -44,12 +44,3 @@ After exhausting administrative appeals, judicial review is available in the Bra
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
 
-Add a note below the fine ranges table:
-
-Add a note below the fine ranges table:
-
-**Note**: Fine values shown are indicative and based on Lei 6.437/1977. ANVISA updates fine ranges periodically. Consult ANVISA's official updates or seek legal counsel for current fine amounts applicable to your case, as inflation adjustments and regulatory updates may apply. The actual fine calculation considers the Unified Value of Reference (UFR — Unidade Fiscal de Referência) at the time of the infraction notice.
-
-Add below the 'Fine ranges (indicative)' table:
-
-Note: Fine values are indexed and updated periodically by ANVISA. The ranges shown are indicative. Verify current fine brackets against the official ANVISA website or Lei 6.437/1977 before calculating penalties.

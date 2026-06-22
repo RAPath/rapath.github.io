@@ -66,6 +66,3 @@ All complaints must be reviewed and evaluated for MDR reportability. A formal co
 
 Manufacturers must be in full compliance with ISO 13485:2016 incorporation by February 2, 2026. During the transition period (February 2, 2024 – February 2, 2026), manufacturers may continue to comply with the previous version of Part 820 or may voluntarily adopt ISO 13485:2016 early.
 
-Add after the effectiveness date: 'Manufacturers must be in full compliance with ISO 13485:2016 incorporation by February 2, 2026. During the transition period (February 2, 2024 – February 2, 2026), manufacturers may continue to comply with the previous version of Part 820 or may voluntarily adopt ISO 13485:2016 early.'
-
-Add to the 'ISO 13485:2016 incorporation' section after the first paragraph: 'Compliance deadline: All manufacturers must be in full compliance with ISO 13485:2016 incorporation by February 2, 2026. During the transition period (February 2, 2024 – February 2, 2026), manufacturers may continue to comply with the previous version of Part 820 or may voluntarily adopt ISO 13485:2016 early.'

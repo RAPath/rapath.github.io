@@ -36,22 +36,3 @@ The PMS plan (required by MedDO Annex III para. 1) must cover:
 ## Feedback Loop
 PMS data must be used to update: the risk management file; the clinical evaluation report; the GSPR compliance matrix; and where applicable the SSCP. This feedback loop is assessed during NB surveillance audits.
 
-
-Add a new section under 'Feedback Loop':
-
-**Significant Changes Requiring PMS Plan Updates**
-
-Manufacturers must update the PMS plan when significant changes occur, including: changes to the device design, manufacturing process, or labeling; new safety signals or performance issues; changes to the risk profile; or updates to applicable standards or regulatory requirements. The PMS plan should be reviewed at least annually and updated as needed to reflect the current post-market experience.
-
-
-Add a clarifying note after the table: 'For Class I devices, significant changes triggering PMS report submission include: new indications, major design modifications, new manufacturing sites, changes to materials or biocompatibility data, updates to risk management based on post-market data, or new safety signals from post-market surveillance.'
-
-## Official Sources
-- [MedDO Annex III (SR 812.213)](https://www.fedlex.admin.ch/eli/cc/2021/205/en)
-- [MDCG 2022-21 — PMS plan template (applicable in Switzerland)](https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en)
-
-:::warning Disclaimer
-AI-assisted content for navigation only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
-:::
-
-## Feedback Loop

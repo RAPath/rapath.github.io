@@ -26,6 +26,3 @@ Content on this site is written with AI assistance and is intended as a navigati
 
 NMPA requires compliance with YY/T 0664 (based on IEC 62304), which mandates software development planning, implementation, verification, validation, and post-market surveillance. Manufacturers must document software specifications, configuration management, problem resolution processes, and maintain traceability throughout the product lifecycle.
 
-Add a section on lifecycle requirements: 'NMPA requires compliance with YY/T 0664 (based on IEC 62304), which mandates software development planning, implementation, verification, validation, and post-market surveillance. Manufacturers must document software specifications, configuration management, problem resolution processes, and maintain traceability throughout the product lifecycle.'
-
-Remove the line 'Full content to be completed during editorial review.' from the introductory paragraph, or update it to 'This page provides a plain English reference for software lifecycle requirements under China's NMPA regulatory framework for digital health.'

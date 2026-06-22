@@ -59,4 +59,3 @@ China's national standard for medical device quality management systems; equival
 Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [NMPA](https://www.nmpa.gov.cn/) sources before making regulatory decisions. Not affiliated with NMPA or any Chinese Government body. Not legal or regulatory advice.
 :::
 
-Add entries for: (1) 'Breakthrough Device' / '突破性医疗器械' — expedited designation; (2) 'Conditional Approval' / '条件批准' — approval with post-market conditions; (3) 'Responsible Person' / '质量负责人' — expanded definition noting personal accountability; (4) 'Change Supplement' / '变更申请' — type of post-approval notification; (5) 'Pre-submission Meeting' / '申前沟通' — CMDE pre-submission guidance meeting; (6) 'Dossier' / '技术资料' — complete regulatory submission package.

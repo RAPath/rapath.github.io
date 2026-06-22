@@ -33,26 +33,3 @@ MDCG guidance may be cited in technical documentation and conformity assessment 
 
 For the current complete list: [European Commission MDCG guidance page](https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en).
 
-
-Add to the 'Key MDCG Documents Applicable in Switzerland' table:
-
-| MDCG 2023-3 | In vitro diagnostic regulation — performance evaluation |
-| MDCG 2023-8 | Post-market surveillance — key principles |
-
-
-Add the following rows to the table:
-| MDCG 2023-3 | In vitro diagnostic regulation — performance evaluation |
-| MDCG 2023-8 | Post-market surveillance — key principles |
-
-## Official Sources
-- [MDCG guidance — European Commission](https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en)
-- [Swissmedic — Guidance and standards](https://www.swissmedic.ch/swissmedic/en/home/medical-devices/market-access.html)
-
-:::warning Disclaimer
-AI-assisted navigation aid only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
-:::
-
-## Key MDCG Documents Applicable in Switzerland
-
-| MDCG 2023-3 | In vitro diagnostic regulation — performance evaluation |
-| MDCG 2023-8 | Post-market surveillance — key principles |

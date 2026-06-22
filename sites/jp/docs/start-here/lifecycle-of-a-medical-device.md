@@ -50,4 +50,3 @@ The page already contains this instruction as editorial text rather than final c
 
 No addition needed to lifecycle page itself, but the Regulatory Framework Overview page should complete the final section.
 
-Update Phase 2 — Approval / Certification / Notification section, Ninsho paragraph: 'Ninsho (Certification — Class II/some III). Application submitted to chosen RCB → RCB review (typically 3–9 months, but can extend if additional data or clarification is requested) → Ninsho certificate issued to MAH by RCB.'

@@ -63,6 +63,3 @@ EU MDR Technical Documentation (TD) can be adapted for Indonesia but requires mo
 
 "Regalkes is BPOM's web-based registration system for medical device submissions. The CSDT structure is adapted to align with Regalkes' module requirements for dossier submission and evaluation."
 
-Add to the opening of 'How Regalkes Maps to the CSDT' section: "Regalkes is BPOM's web-based registration system for medical device submissions. The CSDT structure is adapted to align with Regalkes' module requirements for dossier submission and evaluation."
-
-Regalkes review timelines typically follow the standard pathways outlined in the Registration Pathways section and vary by device class (Class A: simplified/notified pathway; Class B–D: standard review 30–360 days depending on complexity and availability of foreign approvals). Dossiers adapted from ASEAN CSDT submissions generally experience shorter review times due to the alignment with Regalkes' expected format, whereas EU MDR adaptations may require additional clarification queries during restructuring.

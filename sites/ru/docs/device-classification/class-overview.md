@@ -68,6 +68,3 @@ Class III includes active implantable devices and the highest-risk devices with 
 
 Note: QMS inspection requirements introduced in January 2024 apply to Class IIa sterile devices and all Class IIb and III devices. Class I devices remain exempt from mandatory QMS inspection.
 
-Add to Class I regulatory implications:
-
-Note: QMS inspection requirements introduced in January 2024 apply to Class IIa sterile devices and all Class IIb and III devices. Class I devices remain exempt from mandatory QMS inspection.

@@ -26,18 +26,3 @@ The NB validates the SSCP as part of conformity assessment for Class III and imp
 ## Swiss Language Requirements
 The SSCP must be available in German, French, and Italian where the device is available to patients. For professional-use-only devices, fewer language versions may be required.
 
-
-Add under 'Content Requirements (MedDO Art. 35)' section: 'The SSCP must be updated and revalidated by the NB whenever significant new safety or performance data becomes available, including post-market surveillance findings, serious incidents, or material changes to the device design or intended use. The update frequency should be defined in the manufacturer\'s post-market surveillance plan.'
-
-
-The SSCP must be made publicly available before or at the time of initial market placement. Swissmedic may request access to the SSCP during market surveillance or conformity assessment activities to verify that safety and performance information available to users is accurate and compliant with MedDO Art. 35.
-
-## Official Sources
-- [MedDO Art. 35 (SR 812.213)](https://www.fedlex.admin.ch/eli/cc/2021/205/en)
-- [MDCG 2019-9 — SSCP guidance](https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en)
-
-:::warning Disclaimer
-AI-assisted content for navigation only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
-:::
-
-The SSCP must be updated and revalidated by the NB whenever significant new safety or performance data becomes available, including post-market surveillance findings, serious incidents, or material changes to the device design or intended use. The update frequency should be defined in the manufacturer\'s post-market surveillance plan.

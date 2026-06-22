@@ -45,8 +45,3 @@ When the SFDA issues a deficiency letter, the AR or manufacturer must respond wi
 
 ## Factors affecting review duration
 
-Add a new subsection before 'Factors affecting review duration':
-
-**Completeness check and query deadlines**
-
-The 30-60 day completeness check period covers the SFDA's initial verification that all required sections of the technical file (per MDS-REQ 1 Annex 3) are present. This is a procedural check — not a content review. Once the SFDA issues payment invoice and begins the technical review phase, substantive deficiency queries may be issued. The query response deadline stated in the deficiency letter is separate from the overall review timeline; extended response periods may pause the technical review clock pending receipt of complete answers.

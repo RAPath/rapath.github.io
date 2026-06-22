@@ -48,4 +48,3 @@ The IVD classification determines the same declaration or registration pathway a
 - Type A/B IVD → [Declaration pathway](../market-access/declaration-type-a-b)
 - Type C/D IVD → [Marketing Authorisation pathway](../market-access/marketing-authorisation-type-c-d)
 
-Add after the 'What is an IVD?' definition: 'Software used to interpret or analyze IVD test results is classified as an IVD device if it is intended to be used as part of the diagnostic or monitoring process. Standalone clinical decision support software may fall outside IVD classification depending on its specific intended use and whether it processes patient-derived data.'

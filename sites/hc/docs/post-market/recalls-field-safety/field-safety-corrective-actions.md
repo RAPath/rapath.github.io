@@ -40,12 +40,3 @@ The manufacturer must maintain records of:
 
 > **Legislative source:** Medical Devices Regulations, SOR/98-282, s 65; Health Canada Guidance on Medical Device Recalls
 
-Include manufacturer contact information
-A contact point (phone, email, or web portal) for customers to report actions taken or seek clarification
-
-Timelines
-Manufacturers must report FSCA progress and final effectiveness results to Health Canada within specified timeframes (typically 30 days for initial notification, with periodic updates for ongoing recalls).
-
-Add after the 'Field Safety Notice (FSN)' requirements list: 'Timing: The FSN must be issued without delay once the FSCA is determined to be necessary. For Class I recalls, Health Canada expects the FSN to be distributed within days of notification. For Class II and III FSCAs, distribution should occur within a reasonable timeframe proportionate to the risk.'
-
-Add to FSCA documentation section: 'The final FSCA report must document: (1) the FSCA execution and distribution details; (2) effectiveness check results showing the level of customer compliance; (3) any unexpected findings; and (4) lessons learned. This report must be submitted to Health Canada within the timeframe specified for the recall class (typically within 12 months of initiation, with interim reports required at 30, 60, and 90 days for Class I recalls).'

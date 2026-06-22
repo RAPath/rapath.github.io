@@ -35,8 +35,3 @@ Unlike most other jurisdictions, **KGMP certification is a prerequisite** for �
 
 ## Why KGMP is critical in Korea
 
-Add after 'Why KGMP is critical in Korea' section:
-
-**Self-declaration not permitted:** Unlike ISO 13485 where manufacturers can self-declare compliance, in Korea no 품목허가 can be issued without documented KGMP certification or GMP recognition from MFDS. This is non-negotiable regardless of manufacturer size or product risk classification.
-
-Add under 'Why KGMP is critical in Korea': Manufacturers with products already approved in Korea prior to recent regulatory changes may have transitional periods to achieve full KGMP certification. Check with MFDS for any applicable grandfather clauses or phase-in schedules.

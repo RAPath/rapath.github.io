@@ -29,4 +29,3 @@ Notifications are updated most frequently to reflect technical developments.
 ## Related pages
 - [Recent amendments](./recent-amendments) · [What's New](../whats-new/recent-regulatory-changes)
 
-Add under Language challenge section: "MFDS publishes English-language summaries and guidance for key documents (AI/ML devices, combination products, real-world evidence) on its English website (mfds.go.kr/en). These are reliable starting points; however, always cross-reference the Korean original for authoritative regulatory requirements."

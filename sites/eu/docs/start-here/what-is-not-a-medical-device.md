@@ -163,16 +163,3 @@ A product is a medical device if the manufacturer **claims** it is for a medical
 
 Human blood, blood components, cells, tissues, and organs: These are excluded from MDR where they are governed by other Union legislation (Directive 2002/98/EC, Directive 2004/23/EC). However, a finished device incorporating such material (e.g. a collagen-based wound dressing derived from human tissue, a decellularised scaffold) is regulated as a medical device. The human-derived material itself is regulated under tissue and cells legislation; the finished device is assessed under MDR. Products for veterinary use: Medical devices intended solely for veterinary use fall outside MDR and IVDR scope. A device with dual intent (veterinary and human medical use) is regulated as a medical device. Veterinary medicinal products are governed by Regulation (EU) 2019/6.
 
-Add the following sections after 'Biocidal products': 'Human blood, blood components, cells, tissues, and organs: These are excluded from MDR where they are governed by other Union legislation (Directive 2002/98/EC, Directive 2004/23/EC). However, a finished device incorporating such material (e.g. a collagen-based wound dressing derived from human tissue, a decellularised scaffold) is regulated as a medical device. The human-derived material itself is regulated under tissue and cells legislation; the finished device is assessed under MDR. Products for veterinary use: Medical devices intended solely for veterinary use fall outside MDR and IVDR scope. A device with dual intent (veterinary and human medical use) is regulated as a medical device. Veterinary medicinal products are governed by Regulation (EU) 2019/6.'
-
-Complete the veterinary section and add missing exclusions:
-
-Veterinary medicinal products are governed by Regulation (EU) 2019/6 (Veterinary Medicinal Products Regulation). However, a device that incorporates veterinary medicinal substances (e.g. an antibiotic-impregnated wound dressing for animal wounds) may still be an MDR device — the borderline depends on the principal mode of action.
-
-Additionally, the following are excluded:
-
-**Human blood and blood-derived products**: Products consisting of whole blood or blood components derived from human donors, governed by Directive 2002/98/EC (Blood Safety Directive). However, processed blood-derived materials used as components in a finished device (e.g. fibrin glue, collagen) may constitute a medical device.
-
-**Organs, tissues, and cells of human origin**: Where governed by EU tissue and cells legislation (Directive 2004/23/EC), these are excluded. However, tissue-engineered products and devices incorporating such materials are subject to MDR.
-
-**Products for general hygiene**: Products intended solely for general environmental hygiene and not specifically to sterilise or disinfect medical devices are excluded. The distinction turns on intended purpose — if marketed to disinfect medical device components, it becomes a device accessory.

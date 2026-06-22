@@ -72,8 +72,3 @@ MDUFA created a performance-based accountability system:
 
 MDUFA V | FY2018–2022 | Q-Sub enhancements, SaMD guidance commitments
 
-Add to MDUFA history table: 'MDUFA V | FY2018–2022 | Q-Sub enhancements, SaMD guidance commitments'
-
-Update the opening paragraph to: 'The Medical Device User Fee Amendments (MDUFA) authorize FDA to collect user fees from medical device manufacturers in exchange for commitments to meet defined review performance goals. MDUFA must be reauthorized by Congress every five years. MDUFA VI (FY2023–2027) is the current authorization cycle.'
-
-Add a row to the MDUFA history table: 'MDUFA V | FY2018–2022 | Q-Sub enhancements, SaMD guidance commitments'

@@ -81,4 +81,3 @@ If your device type has no existing product code, you have two main options:
 
 For De Novo requests, FDA will assign a new product code as part of the classification order. This product code can then be searched in the FDA Product Classification Database by future manufacturers seeking to use the device as a predicate for 510(k) submissions.
 
-Expand the 'When no product code exists' section to add: 'For De Novo requests, FDA will assign a new product code as part of the classification order. This product code can then be searched in the FDA Product Classification Database by future manufacturers seeking to use the device as a predicate for 510(k) submissions.'

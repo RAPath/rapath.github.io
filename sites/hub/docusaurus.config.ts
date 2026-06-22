@@ -11,6 +11,31 @@ const config: Config = {
 
   // future.v4 / faster intentionally omitted — see packages/theme/src/index.ts
 
+  // Non-blocking Google Fonts (CSS @import removed from custom.css — it was render-blocking)
+  headTags: [
+    { tagName: 'link', attributes: { rel: 'preconnect', href: 'https://fonts.googleapis.com' } },
+    { tagName: 'link', attributes: { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: 'anonymous' } },
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'preload',
+        as: 'style',
+        href: 'https://fonts.googleapis.com/css2?family=Inter:wght@300..800&display=swap',
+      },
+    },
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'stylesheet',
+        href: 'https://fonts.googleapis.com/css2?family=Inter:wght@300..800&display=swap',
+        media: 'print',
+        onload: "this.media='all'",
+      },
+    },
+    { tagName: 'link', attributes: { rel: 'preconnect', href: 'https://www.googletagmanager.com' } },
+    { tagName: 'link', attributes: { rel: 'dns-prefetch', href: 'https://www.google-analytics.com' } },
+  ],
+
   url: 'https://rapath.org',
   baseUrl: '/',
   organizationName: 'RAPath',

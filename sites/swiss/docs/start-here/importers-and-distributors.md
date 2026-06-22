@@ -18,20 +18,3 @@ When an importer becomes a manufacturer: If an importer places a device on the m
 ## Distributors
 Distributors must verify labelling compliance, not supply non-compliant devices, maintain records, and cooperate with Swissmedic surveillance activities.
 
-
-Add a new sentence in the 'Importers' section after 'Swiss labelling compliance (DE/FR/IT language requirements)':
-
-'Detailed Swiss labelling requirements are specified in MedDO Annex III and IVDO Annex III. All text on labels, instructions for use, and packaging must be in German, French, or Italian depending on the region of intended use, or ideally in all three languages for nationwide distribution.'
-
-
-Add to the 'Importers' section after the bullet point about reporting non-conformities: 'Notify Swissmedic of any serious adverse events or field safety corrective actions (FSCAs) without undue delay via eVigilance, even if the manufacturer or CH REP is also reporting.'
-
-## Official Sources
-- [MedDO Art. 12–15 (SR 812.213)](https://www.fedlex.admin.ch/eli/cc/2021/205/en)
-
-
-:::warning Disclaimer
-Content is AI-assisted and intended as a navigation aid only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
-:::
-
-Detailed Swiss labelling requirements are specified in MedDO Annex III and IVDO Annex III. All text on labels, instructions for use, and packaging must be in German, French, or Italian depending on the region of intended use, or ideally in all three languages for nationwide distribution.

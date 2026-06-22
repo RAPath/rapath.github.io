@@ -35,4 +35,3 @@ The **UDI** system (21 CFR Part 801 Subpart E) integrates with distribution reco
 
 No addition needed — see accuracy_errors section for the correction.
 
-Remove the line 'No addition needed — see accuracy_errors section for the correction.' from the page.

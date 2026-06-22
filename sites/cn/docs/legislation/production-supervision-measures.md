@@ -41,4 +41,3 @@ This measure implements MDSAR 2021 Chapter III (Articles 44-57), establishing re
 ## Relationship to MDSAR 2021
 This measure operationalizes Article 44 (production licence) and Articles 47-49 (GMP and quality system) of MDSAR 2021 Chapter III with detailed procedural and technical requirements.
 
-Add to Key Requirements: 'Class I device manufacturers are exempt from production licensing but must still maintain quality systems and traceability. GMP requirements include documented procedures for design, production, quality control, and change management, with evidence of compliance maintained for inspection.'

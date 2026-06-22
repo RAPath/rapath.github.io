@@ -175,16 +175,3 @@ For Class IIb, III, and IVDR Class C and D devices, notified bodies review the P
 | MDCG 2020-7 | PMCF plan and evaluation report templates |
 | MDCG 2022-21 | PSUR guidance |
 
-Complete the PMCF plan section with: 'Risk acceptability criteria: how safety/performance will be assessed post-market Sample size and duration: justification for the proposed follow-up scope Evaluation methods: how data will be analysed Linkage to clinical evaluation: how PMCF findings update the clinical evaluation report Timescale: when results will be reported to the notified body PMCF evaluation report The PMCF evaluation report must include: Summary of PMCF activities conducted: methods used, patient numbers, follow-up duration Main findings: safety and performance data from PMCF sources Conclusion: whether the device continues to meet safety and performance expectations Actions: any changes to labelling, IFU, or risk management based on PMCF evidence'
-
-Complete the truncated PMCF plan section with: 'The PMCF plan must define:
-
-The general methods for PMCF (literature, registries, surveys, studies)
-The study population and data collection frequency
-The endpoints being monitored (safety and performance parameters)
-The statistical methods and acceptance criteria
-Timelines for interim and final analyses
-How findings will be reported and escalated
-Linkage to risk management and benefit-risk analysis
-
-The PMCF plan is updated at least annually and must be justified if concluded unnecessary. PMCF evaluation reports summarise findings and confirm whether continued PMCF remains necessary.'

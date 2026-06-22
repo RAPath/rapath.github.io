@@ -55,6 +55,3 @@ The Regalkes account and submissions are linked to the LAR's **OSS** (Online Sin
 
 "The LAR must have an active IDAK (medical device distribution licence) and CDAKB (Good Distribution Practice certificate) before registering in Regalkes. These licences are verified in real-time through OSS connectivity. If either licence expires or is suspended, the Regalkes account will be frozen and no new applications or renewals can be submitted."
 
-Add to Step 2 section: "The LAR must have an active IDAK (medical device distribution licence) and CDAKB (Good Distribution Practice certificate) before registering in Regalkes. These licences are verified in real-time through OSS connectivity. If either licence expires or is suspended, the Regalkes account will be frozen and no new applications or renewals can be submitted."
-
-Replace the incomplete paragraph with: 'Manufacturers accustomed to EU MDR or FDA submission formats will need to restructure their technical files to fit Regalkes requirements. This is a significant practical challenge that is frequently underestimated and should be budgeted for in timelines. Most importantly, you must use the ASEAN Common Submission Dossier Template (CSDT) as the baseline. File naming conventions must strictly match Regalkes specifications, and all text-based documents must be in Bahasa Indonesia.'

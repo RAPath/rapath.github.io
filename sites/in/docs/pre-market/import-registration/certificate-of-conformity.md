@@ -25,4 +25,3 @@ The CoC (or equivalent conformity evidence) demonstrates that the manufacturer h
 
 ISO 13485 certificates are typically valid for 3 years with annual surveillance audits. Ensure the certificate is current at time of CDSCO submission.
 
-Add after 'What does CDSCO accept?' section: 'Alternative evidence: If the manufacturer does not hold ISO 13485 certification, CDSCO may accept equivalent quality system certifications (e.g. ISO 9001 with medical device supplements) or, for Class A devices, the IAR declaration under Form MD-15 may suffice. For Class C and D devices lacking ISO 13485, CDSCO may require a detailed quality system audit report or on-site GMP inspection. The acceptability of alternative quality evidence is determined on a case-by-case basis by CDSCO.'

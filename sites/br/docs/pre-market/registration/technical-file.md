@@ -28,4 +28,3 @@ Verify all information against official [ANVISA](https://www.gov.br/anvisa) sour
 
 Key: ✓ = Required in full; Summary = Summary version acceptable; As needed = Only required if applicable to the device. All documentation must be in Portuguese or accompanied by certified Portuguese translation.
 
-Add a note below the table: 'Key: ✓ = Required in full; Summary = Summary version acceptable; As needed = Only required if applicable to the device. All documentation must be in Portuguese or accompanied by certified Portuguese translation.'

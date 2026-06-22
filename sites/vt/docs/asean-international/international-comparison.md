@@ -56,16 +56,3 @@ Either add a UK (MHRA) column to the comparison table with relevant data, or rem
 
 Revise the USA dossier format entry to: 'eSTAR portal (510(k) / PMA via eCopy format)' for clarity.
 
-Add the following row to the comparison table:
-Feature: UK (MHRA)
-Primary law: Medical Devices Regulations 2002 (amended by EU(A) Regulations 2019; UKCA marking post-Brexit)
-Classification: Class I–IV
-Market access: CE marking via Notified Body (until 31 Dec 2024) / UKCA marking (post-transition)
-Pre-market review (low risk): Limited (Class I self-declared)
-Pre-market review (high risk): Yes (MHRA evaluation or Notified Body conformity assessment)
-QMS requirement: ISO 13485 or UK Quality Management System Regulation
-Local representative: Required (UK Responsible Person)
-Dossier format: UK Technical File (UKMD dossier)
-UDI: Implemented
-
-Change 'eSTAR (510(k) / PMA)' to 'eSTAR portal (510(k) / PMA via eCopy format)'

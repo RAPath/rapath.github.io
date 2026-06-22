@@ -66,6 +66,3 @@ For QMS inspections related to Shonin applications, PMDA directly inspects the m
 
 • Clinical trial oversight — PMDA conducts inspections of clinical trial sites and investigators to ensure compliance with GCP Ordinance requirements for device trials in Japan.
 
-Add to PMDA bullet list: '• Clinical trial oversight — PMDA conducts inspections of clinical trial sites and investigators to ensure compliance with GCP Ordinance requirements for device trials in Japan.'
-
-The page content appears truncated. The final line should end after the Prefectural governments section with: 'Prefectural inspection authority — prefectural governments can inspect licensed MAHs and manufacturers within their jurisdiction.'

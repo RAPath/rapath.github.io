@@ -57,4 +57,3 @@ RDC 36/2015 is already listed in the table, but add a note in the section introd
 
 'RDC 36/2015 provides the dedicated framework for in vitro diagnostics, which operate under a parallel but distinct registration system from general medical devices.'
 
-Replace 'Grant of registration (valid 10 years)' with 'Grant of registration (valid 5 years)' in the lifecycle diagram.

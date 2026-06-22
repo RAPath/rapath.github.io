@@ -65,8 +65,3 @@ Example: a Class III cardiovascular stent might be coded as 2670024 (where the f
 
 Reclassification of existing devices: If a device differs substantially from the existing JMDN code definition but does not qualify as entirely new, an MAH may request reclassification or request assignment to a different existing code. Submit a request to MHLW with supporting evidence of material differences in intended use, design, or risk profile. Timeline is typically 3–12 months.
 
-Add after 'JMDN codes are typically 7-digit numeric codes': 'Example: a Class III cardiovascular stent might be coded as 2670024 (where the first digit or digit group indicates the major category, and subsequent digits further subdivide the device type). The exact hierarchical meaning of each digit position is not publicly documented; only the final assigned code matters for regulatory purposes.'
-
-Add a new subsection after 'Creating new JMDN codes': 'Reclassification of existing devices: If a device differs substantially from the existing JMDN code definition but does not qualify as entirely new, an MAH may request reclassification or request assignment to a different existing code. Submit a request to MHLW with supporting evidence of material differences in intended use, design, or risk profile. Timeline is typically 3–12 months.'
-
-evidence of material differences in intended use, risk profile, or technological features. MHLW will review the request and issue a decision, typically within 3–6 months. This process is less formal than creating a new JMDN code but still requires advance planning to avoid delays in application submission.

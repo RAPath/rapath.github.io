@@ -13,4 +13,3 @@ The **Production Linked Incentive (PLI) scheme** for medical devices offers fina
 
 > **Official source:** Medical Devices Rules 2017; [CDSCO](https://cdsco.gov.in); [DPIIT PLI](https://www.investindia.gov.in)
 
-Add content explaining: SLA audit scope and frequency, audit procedures for Class A/B manufacturers, documentation requirements for audit readiness, non-conformance reporting and resolution, audit timelines, re-inspection procedures, and compliance verification processes specific to State Licensing Authorities.

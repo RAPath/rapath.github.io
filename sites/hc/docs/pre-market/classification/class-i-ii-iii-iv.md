@@ -74,5 +74,3 @@ Importers and distributors must hold an Establishment Licence (MDEL)
 
 Revise to: 'Target review time: 15 days (completeness check; substantive review follows if application is complete)'
 
-Add to each of Class II, III, and IV sections:
-Importers and distributors must hold an Establishment Licence (MDEL)

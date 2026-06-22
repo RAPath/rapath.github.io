@@ -35,4 +35,3 @@ Both the **individual employee** responsible for the violation and the **company
 
 Fine amounts for common violations: Failure to report adverse events within 15 days may incur fines up to ₩5 million. Failure to maintain required records or register in KIMS/UDI-K may result in fines up to ₩3 million. Failure to notify MFDS of product changes may incur fines up to ₩2 million. Refer to the Medical Devices Act Enforcement Decree Article 85 for the complete schedule of administrative fines.
 
-Add a section clarifying the violation severity tiers (minor, moderate, serious) and provide context for when each fine amount applies, with reference to the Enforcement Decree Article 85.

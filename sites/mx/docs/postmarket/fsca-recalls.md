@@ -78,20 +78,3 @@ Escalation to COFEPRIS
 
 If the MRH does not respond to CNFV notification with a timely assessment and corrective action plan, COFEPRIS may escalate to a mandatory recall without further consultation. Engage COFEPRIS early in the decision-making process for ambiguous cases.
 
-Add a new subsection after 'COFEPRIS/CNFV notification':
-
-Mandatory recalls vs. voluntary FSCAs
-​
-FSCAs can be either:
-
-Voluntary — initiated by the manufacturer or MRH based on internal risk assessment. In this case, notify CNFV but retain control of scope and timeline.
-Mandatory — ordered by COFEPRIS when it determines an unacceptable risk exists, regardless of the manufacturer's assessment. Mandatory recalls must be implemented as directed and within COFEPRIS-specified timeframes.
-Failure to comply with a mandatory recall can result in:
-
-Suspension of the sanitary registration.
-Administrative penalties (multas).
-Closure of the MRH or distributor facilities.
-Criminal prosecution in cases of severe patient harm.
-Escalation to COFEPRIS
-
-If the MRH does not respond to CNFV notification with a timely assessment and corrective action plan, COFEPRIS may escalate to a mandatory recall without further consultation. Engage COFEPRIS early in the decision-making process for ambiguous cases.

@@ -57,6 +57,3 @@ Re-evaluation (再評価 — saihyōka) is different from re-examination. Re-eva
 
 Failure to submit the re-examination application by the deadline may result in automatic suspension of the approval until the application is received. The MAH should submit well before the deadline to allow PMDA adequate review time. If extenuating circumstances prevent timely submission, the MAH should contact PMDA immediately to discuss options.
 
-Add after 'Submitting the re-examination application': 'Failure to submit the re-examination application by the deadline may result in automatic suspension of the approval until the application is received. The MAH should submit well before the deadline to allow PMDA adequate review time. If extenuating circumstances prevent timely submission, the MAH should contact PMDA immediately to discuss options.'
-
-If the re-examination application reveals new safety concerns or inadequate efficacy evidence, MHLW may impose additional post-market study conditions, restrict indications, or revoke the approval. MAHs should maintain close communication with PMDA throughout the re-examination period if any emerging safety signals are identified, rather than waiting until the formal re-examination submission deadline.

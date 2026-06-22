@@ -42,4 +42,3 @@ If you hold FDA clearance, CE marking, or TGA registration, always use the exped
 
 Expedited reliance applications typically receive a faster review decision (2–4 months typical) compared to standard-route applications (4–6+ months), though individual timelines vary based on MDD workload and submission completeness.
 
-Add under 'Preferred route if reference approval exists' section: 'Expedited reliance applications typically receive a faster review decision (2–4 months typical) compared to standard-route applications (4–6+ months), though individual timelines vary based on MDD workload and submission completeness.'

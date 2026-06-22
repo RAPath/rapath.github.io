@@ -212,4 +212,3 @@ If a UKAB disagrees with a manufacturer's classification, the manufacturer must 
 
 The page ends with 'Step' and the complete step-by-step guidance for applying classification rules is missing.
 
-Add a new section: "Handling conflicting classification rules: When the characteristics of a device cause multiple classification rules to apply and those rules suggest different classes, the manufacturer must apply the highest-risk class. Example: An implantable cardiac sensor may be covered by both Rule 8 (implantable devices) and Rule 11 (surgically invasive active devices for diagnosis). If Rule 8 indicates Class IIb but Rule 11 indicates Class III, the device is classified as Class III. Manufacturers should document which rules were considered and why the highest class was selected, as this is subject to UKAB review during conformity assessment."

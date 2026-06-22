@@ -29,4 +29,3 @@ Consultation has occurred on a statutory framework. If enacted, listing would be
 
 Devices that emit ionizing or non-ionizing radiation (X-ray equipment, ultrasound, laser, radioactive sources) require approval under both MDACS and the Radiation Ordinance (Cap. 303):
 
-Add after Radiation Ordinance entry: 'Radiation devices require separate approval under the Radiation Ordinance and are subject to additional inspection and licensing. Submit MDACS applications and Radiation Ordinance applications concurrently; processing timelines are independent. Consult the Radiation Protection Bureau for specific requirements.'

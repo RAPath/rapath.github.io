@@ -59,4 +59,3 @@ In Radiation-Emitting Devices section, change 'See Radiation-Emitting Devices.' 
 
 For borderline cases where the medicinal and device components are inextricably combined, the NMRA may require a joint application or coordinated review with the medicinal products regulatory division.
 
-Add after 'Devices Incorporating Medicinal Substances' section: 'For borderline cases where the medicinal and device components are inextricably combined, the NMRA may require a joint application or coordinated review with the medicinal products regulatory division.'

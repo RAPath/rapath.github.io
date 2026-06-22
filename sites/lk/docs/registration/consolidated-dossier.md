@@ -62,4 +62,3 @@ Fee Information
 
 Consult the NMRA website (www.nmra.gov.lk) for current application fees associated with consolidated dossier submission. Fees vary by device class and submission route (full vs. reliance). Annual renewal fees are also applicable after initial Registration Certificate issuance.
 
-Add under 'Sample Requirements — LK-Unique' section, after the list of devices requiring samples: 'Sample submission is a mandatory component of the consolidated dossier for these device categories. Samples must be brought into Sri Lanka under a separate Sample Import Licence obtained from NMRA before samples arrive. Testing is typically performed by NMRA-recognized testing laboratories within Sri Lanka. Evidence of test completion (passing relevant standards) must be included in the consolidated dossier before registration approval. Samples are retained by NMRA for post-market surveillance purposes.'

@@ -172,4 +172,3 @@ IVDR applied from **26 May 2022**, but with staggered transition deadlines for l
 | IVDR Art. 100 | EU reference laboratories |
 | MDCG 2020-16 | Guidance on companion diagnostics |
 
-Replace the broken text. The full sentence should read: 'Class A IVDs pose the lowest risk because errors in their use rarely affect individual patient management directly — they are typically general-purpose instruments or ancillary materials whose performance does not directly determine a clinical decision.'

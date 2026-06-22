@@ -35,37 +35,3 @@ Regardless of MRA status, manufacturers placing devices on the Swiss market must
 
 The MRA affects primarily the **extent of DAPI registration requirements** and **whether Swiss re-evaluation of the NB technical assessment is required**.
 
-
-Add after the 'What the MRA Covers' section:
-
-## DAPI (Device Application Process Information)
-
-DAPI is Swissmedic's registration and notification system for medical devices and IVDs. The extent to which manufacturers must use the DAPI system depends on MRA Chapter 4 operational status:
-- **DAPI notification** (simplified): When MRA Chapter 4 is fully operational, manufacturers of CE-marked devices typically submit a notification via DAPI rather than a full registration dossier.
-- **DAPI registration** (full): When MRA Chapter 4 is not fully operational or for non-CE-marked devices, a complete registration including technical documentation and conformity assessment evidence is required.
-
-Both processes require appointment of a Swiss Authorised Representative (CH REP) and payment of registration fees.
-
-## Official Sources
-- [MRA text — Swiss SECO](https://www.seco.admin.ch/seco/en/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/Bilaterale_Wirtschaftsabkommen/Abkommen-Gegenseitige-Anerkennung-CH-EU.html)
-- [Swissmedic — MRA information](https://www.swissmedic.ch/swissmedic/en/home/medical-devices/market-access.html)
-
-## Related Pages
-- [MRA Status Updates](../whats-new/mra-status-updates)
-- [Registration Overview](../pre-market/swissmedic-registration/registration-overview)
-- [EU Notified Bodies for Switzerland](../pre-market/conformity-assessment/eu-nb-in-switzerland)
-
-
-:::warning Disclaimer
-AI-assisted content for navigation only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
-:::
-
-## What the MRA Covers
-
-## DAPI (Device Application Process Information)
-
-DAPI is Swissmedic's registration and notification system for medical devices and IVDs. The extent to which manufacturers must use the DAPI system depends on MRA Chapter 4 operational status:
-- **DAPI notification** (simplified): When MRA Chapter 4 is fully operational, manufacturers of CE-marked devices typically submit a notification via DAPI rather than a full registration dossier.
-- **DAPI registration** (full): When MRA Chapter 4 is not fully operational or for non-CE-marked devices, a complete registration including technical documentation and conformity assessment evidence is required.
-
-Both processes require appointment of a Swiss Authorised Representative (CH REP) and payment of registration fees.

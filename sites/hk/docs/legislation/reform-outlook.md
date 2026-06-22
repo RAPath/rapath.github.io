@@ -27,10 +27,3 @@ Consultation on a Medical Devices Ordinance has been completed. As of May 2026, 
 - Monitor the MDD website for legislative announcements
 - When enacted, review transition provisions and plan any compliance gaps
 
-Replace 'Current Status (May 2026)' header with 'Current Status (as of latest review)' and reword first sentence: 'Consultation on a Medical Devices Ordinance has been completed. As of the last update to this page, no ordinance has been enacted — MDACS remains operative. Check the MDD website for the latest legislative announcements.'
-
-Replace the 'Current Status (May 2026)' heading and first paragraph with:
-
-**Current Status (as of latest review)**
-
-Consultation on a Medical Devices Ordinance has been completed. As of the last update to this page, no ordinance has been enacted — MDACS remains operative. For the latest legislative announcements, check the MDD website (https://www.drugoffice.gov.hk) and subscribe to MDD notifications.

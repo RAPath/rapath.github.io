@@ -204,4 +204,3 @@ The UKAB must specifically assess **analytical and clinical performance data** f
 | MHRA: UK Approved Bodies list | Current list of designated UKABs and their scope |
 | EU MDD 93/42/EEC, Annexes II–VII | Source annexes for Schedule 3 (comparative reference) |
 
-Complete the comparison table with full rows for 'Scope', 'Best for', and 'Ongoing obligation' showing contrasts between Annex II and Annex III approaches. Include additional rows such as 'Cost', 'Timeline', and 'Device stability requirements'.

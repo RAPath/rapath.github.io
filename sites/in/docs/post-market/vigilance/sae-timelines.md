@@ -42,4 +42,3 @@ Reports must include: device identification, patient demographics, event descrip
 **Non-Compliance Consequences**
 Failure to report SAEs within prescribed timelines may result in regulatory action including warning letters, suspension of manufacturing license, or import ban.
 
-Add a section with SAE reporting timelines such as: 'Class D devices: Serious adverse events must be reported within 14 days of becoming aware of the event. Class C devices: SAEs must be reported within 30 days. Class B devices: Within 30 days where applicable. Deaths and life-threatening events require expedited reporting regardless of classification.'

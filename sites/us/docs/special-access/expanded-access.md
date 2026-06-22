@@ -64,6 +64,3 @@ When multiple patients need access, a **Treatment IDE** (21 CFR § 812.36) may b
 
 — which establishes the regulatory framework for both emergency and non-emergency individual patient access as well as treatment IDEs.
 
-Add to the opening paragraph after 'FD&C Act § 520(g)': '— which establishes the regulatory framework for both emergency and non-emergency individual patient access as well as treatment IDEs.'
-
-Add new section 'Manufacturer role in expanded access': 'The device manufacturer (or sponsor) must provide concurrence for expanded access requests and may be required to supply the investigational device. The manufacturer is responsible for maintaining expanded access records and ensuring compliance with applicable regulations. For Treatment IDEs, the manufacturer must submit or sponsor the IDE application.'

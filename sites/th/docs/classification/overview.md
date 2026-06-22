@@ -71,6 +71,3 @@ IVD classification considers: user expertise (professional vs lay), individual p
 
 How to Check the Positive List: Visit the Thai FDA/MDCD website and download the current Positive List (updated periodically). If your device model is not clearly listed, contact the MDCD for clarification before finalizing your registration strategy. Using the wrong pathway can delay approval by several months.
 
-Add to the Positive List section: 'How to Check the Positive List: Visit the Thai FDA/MDCD website and download the current Positive List (updated periodically). If your device model is not clearly listed, contact the MDCD for clarification before finalizing your registration strategy. Using the wrong pathway can delay approval by several months.'
-
-Under the 'Four-Class Risk System' heading, replace the garbled sentence with: "Thailand's classification system follows the ASEAN Medical Device Directive (AMDD) four-class risk framework. Note: Thailand uses the AMDD standard classification without a separate 'Critical Point' class, unlike some other jurisdictions."

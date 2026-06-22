@@ -38,4 +38,3 @@ The Korean agent must be formally appointed and this relationship should be docu
 - Include the Korean agent's contact details and qualifications in the 품목허가/품목신고 application
 - Update MFDS if the Korean agent changes during the product's market life
 
-Add to the "Appointment and Registration Process" section: "Note: The Korean agent must hold a valid importer or distributor business licence (수입업 허가 or 도매업 허가) with MFDS in addition to being named on the 품목허가/품목신고. These are separate registrations."

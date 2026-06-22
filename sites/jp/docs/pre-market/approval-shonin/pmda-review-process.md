@@ -47,4 +47,3 @@ PMDA charges review fees set by Cabinet Order. Fees vary by device class, novelt
 
 Important: The PMDA review clock pauses during Q&A rounds and QMS inspection periods. The 12-month and 6-month targets represent PMDA's active review time, not calendar time. Total elapsed time from acceptance to decision commonly exceeds these targets due to clock stops.
 
-Add to the 'Standard review timelines' section: 'Important: The review clock automatically pauses (stops counting) during Q&A response periods and QMS inspection periods. The published targets of 12 months (standard) and 6 months (priority) represent only PMDA's active review time, not calendar time. Actual elapsed calendar time from formal acceptance to approval decision typically ranges from 18–30+ months for standard Class III/IV devices due to these clock stops.'

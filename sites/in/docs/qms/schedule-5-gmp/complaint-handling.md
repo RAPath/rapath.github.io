@@ -13,4 +13,3 @@ Schedule 5 Part I applies to all manufacturers (Class A–D). Schedule 5 Part II
 
 > **Official source:** Medical Devices Rules 2017, Schedule 5
 
-Add a section detailing specific complaint handling requirements such as: complaint receipt and documentation procedures, investigation timelines, severity assessment criteria, recall trigger thresholds, record retention periods, management notification procedures, and reporting requirements to CDSCO. Include reference to specific Schedule 5 sections.

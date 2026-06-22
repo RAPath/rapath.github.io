@@ -79,4 +79,3 @@ Healthcare providers and patients can also report adverse events directly to Med
 
 Healthcare providers and patients wishing to report directly to Medsafe should use the same contact method: Email devices@health.govt.nz or contact Medsafe by phone. While the NZ Sponsor remains the primary reporting obligation holder, direct reports from healthcare settings are valuable for signal detection and should be submitted as soon as possible after identifying a potential adverse event.
 
-Add to the 'How to report' section: 'Medsafe does not mandate a specific report format. Reports can be submitted in letter, email, or freeform format, provided all required information is included. Some sponsors use their own internal adverse event forms; others submit narrative reports. The key requirement is that all mandatory data elements are clearly presented.'

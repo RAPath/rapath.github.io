@@ -39,4 +39,3 @@ Class D devices require an **annual PSUR**, updated with:
 
 Class D MDMA applications typically require 120–180 days or longer for SFDA review, depending on the complexity of clinical evidence, the extent of pre-clinical testing, and outcomes of mandatory on-site inspections. Early engagement with the SFDA is strongly recommended: manufacturers should request a pre-submission meeting to align on technical file strategy, evidence requirements, and inspection scope before formal submission to avoid potential delays.
 
-Add to the MDMA pathway section: 'Class D MDMA applications require 120–180 days or longer for SFDA review, depending on the complexity of the clinical evidence and the outcomes of mandatory on-site inspections. Manufacturers are encouraged to request a pre-submission meeting with the SFDA to align on technical file strategy before formal submission.'

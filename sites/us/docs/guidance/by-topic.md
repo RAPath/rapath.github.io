@@ -38,8 +38,3 @@ keywords: [FDA guidance, device guidance, 510k guidance, PMA guidance, QMSR guid
 - Medical Device Reporting for Manufacturers (2016)
 - Post-Market Surveillance Under Section 522 (2016)
 
-Add to the 510(k) section:
-
-**510(k) Predicate Device Search**
-
-Use the FDA's 510(k) Submission Summary Search (accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm) to identify cleared predicates by product code, indications for use, and device classification.

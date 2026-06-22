@@ -49,6 +49,3 @@ All Class B documentation requirements apply, plus:
 
 Class C devices must comply with Halal labeling requirements by **17 October 2034** under Government Regulation 42/2024.
 
-Add the following sentence to the 'Review timeline' section:
-
-Review timeline: approximately 6–12 months; timelines may be shorter for devices with existing approvals in other ASEAN member states.

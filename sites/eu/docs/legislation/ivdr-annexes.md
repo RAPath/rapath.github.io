@@ -178,10 +178,3 @@ Currently reserved; no content assigned.
 | IVDR 2017/746, Annexes I–XVI | Full annex texts |
 | EUR-Lex consolidated IVDR | Current version including all amendments |
 
-Complete the Annex XI description: 'Annex XI — Product conformity verification
-
-Parts A and B — same structure as MDR Annex XI. Part A covers production quality assurance (QA) for Class B and C devices; Part B covers product conformity verification for Class B and C devices using statistical sampling. Neither part applies to Class D devices, which use Annex IX only.'
-
-The Annex X section ends with 'Available for Class B and C IVDs. Used in combi' and needs completion. It should read: 'Annex X — EU type examination
-
-Available for Class B and C IVDs. Used in combination with Annex XI for these classes. The NB examines and tests a representative specimen of the IVD against the technical documentation and applicable standards, issuing an EU type examination certificate that can support multiple conformity assessment applications.'

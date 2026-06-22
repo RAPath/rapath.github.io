@@ -58,4 +58,3 @@ Both classes require a full marketing authorisation through DAV. See [Marketing 
 Type D devices receive the most intensive DAV scrutiny, including additional expert review and potentially clinical data evaluation. Build additional review time into your project plan — Type D applications typically require 6-12 months or longer for DAV assessment, compared to 3-6 months for Type C applications.
 :::
 
-Add clarification to 'Type C classification criteria': 'Surgically invasive devices are classified based on duration of body contact: transient (less than 60 minutes), short-term (60 minutes to 30 days), or long-term (more than 30 days). Short-term surgical devices typically remain Type C, while long-term implantable devices elevate classification unless they contact central circulation or CNS, which makes them Type D.'

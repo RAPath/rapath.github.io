@@ -20,4 +20,3 @@ Special access and designation pathways are established under NMPA orders and an
 Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [NMPA](https://www.nmpa.gov.cn/) sources before making regulatory decisions. Not affiliated with NMPA or any Chinese Government body. Not legal or regulatory advice.
 :::
 
-Add a complete section under 'Regulatory basis' explaining: (1) that China does not have a formal 'compassionate use' or 'expanded access' programme equivalent to FDA or EU frameworks; (2) that humanitarian access may be possible under emergency use or special circumstances but requires direct negotiation with NMPA; (3) reference relevant NMPA orders/announcements if any exist for named patient access; (4) note that this is typically handled on a case-by-case basis with no standardized pathway.

@@ -71,5 +71,3 @@ When a device is withdrawn from the Canadian market:
 - Post-market obligations (including responding to outstanding incidents and completing any ongoing recalls) continue until all distributed devices are accounted for
 - Distribution records must be retained for at least 2 years after the last distribution of the device, or as otherwise specified by Health Canada.
 
-Expand the post-market surveillance bullet point to:
-Post-market surveillance — systematic monitoring of device performance through complaint analysis, adverse event trends, and other surveillance mechanisms appropriate to the device class and risk profile. Class III and IV devices typically require more robust surveillance plans.

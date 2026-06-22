@@ -86,4 +86,3 @@ Predicate: A Special 510(k) does not require identification of a separate predic
 
 after 'Summary report format' bullet: 'Predicate: A Special 510(k) does not require identification of a separate predicate device. Instead, it relies on design control records and design history files of the previously cleared device to demonstrate that the modification does not raise new safety or effectiveness questions.
 
-Add to the 'When to use' section under Special 510(k): "Important: A Special 510(k) cannot be used to market a new device for the first time. It is exclusively for modifications to devices you already have cleared or approved."

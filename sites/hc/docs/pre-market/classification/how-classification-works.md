@@ -61,11 +61,3 @@ Health Canada's classification decisions are binding for the purposes of regulat
 
 > **Legislative source:** Medical Devices Regulations, SOR/98-282, Schedule 2
 
-Expand the 'How to determine the class of your device' section to include:
-For IVDs specifically:
-- Determine the seriousness of the condition being tested
-- Assess impact of false positive/negative results
-- Consider whether the IVD is for point-of-care or laboratory use (POC/home-use may be elevated one class)
-- Reference IVD Classification Rules for specific classification factors
-
-Update the 'How to determine the class of your device' section to add: 'For IVDs specifically: Determine the seriousness of the condition being tested; Assess the impact of false positive/negative results on patient outcomes; Consider whether the IVD is for laboratory, point-of-care, or home-use (point-of-care and home-use may trigger class elevation); Reference the separate IVD classification rules in Schedule 2 (Rules for IVD devices).'

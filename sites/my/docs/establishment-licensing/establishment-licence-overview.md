@@ -74,6 +74,3 @@ Licence holders must notify MDA promptly of material changes, including:
 - Change in company ownership or structure
 - Cessation of activities
 
-Add this sentence to the 'Application Process' section after the processing time information:
-
-After the processing time information, add: 'Applicants will be notified of approval or issued a Deficiency Letter (DL) requiring additional information; response to a DL is typically required within 60 days.'

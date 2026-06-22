@@ -47,8 +47,3 @@ See [Clinical Trials under the PMD Act](/docs/pre-market/clinical-evidence/clini
 
 Serious adverse events must be reported to MHLW within 7 days of becoming aware of the event, or according to the timeframe specified in the CTN approval notification. Expedited reporting may be required for fatal or life-threatening events.
 
-Add under 'Sponsor responsibilities': 'Serious adverse events must be reported to MHLW within 7 days of becoming aware of the event, or according to the timeframe specified in the CTN approval notification. Expedited reporting may be required for fatal or life-threatening events.'
-
-Ethics committees must be registered with and accredited by MHLW. A list of accredited ethics committees is maintained by MHLW and is publicly searchable. Sponsors should verify the trial site's ethics committee is on the current accredited list before enrolling subjects.
-
-Upon receipt of the CTN, MHLW issues a notification letter confirming the 30-day waiting period. Trials may commence after 30 days unless MHLW raises concerns. The notification letter specifies any applicable additional reporting requirements or timelines specific to that trial.

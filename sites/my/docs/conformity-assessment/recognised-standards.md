@@ -81,4 +81,3 @@ If you cannot fully comply with a standard, document the deviation and provide a
 
 If partial compliance is claimed, provide documented risk assessment and technical justification for each deviation. Waivers must be justified by design necessity or equivalence to the Essential Principle. Unsupported deviations are a frequent source of deficiency letters and may result in rejection.
 
-Expand the 'Deviations from Standards' section to include: 'If partial compliance is claimed, provide documented risk assessment and technical justification for each deviation. Waivers must be justified by design necessity or equivalence to the Essential Principle. Unsupported deviations are a frequent source of deficiency letters and may result in rejection.'

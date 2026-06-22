@@ -98,4 +98,3 @@ Published FSNs are available on the [MHRA device alerts and safety notices](http
 | MHRA: Adverse incident reporting guidance | FSN content requirements |
 | IMDRF/NCAR/N18FINAL | International FSN content standards |
 
-Add to MHRA review and publication section: 'MHRA typically reviews submitted FSNs within 2–5 working days. If MHRA requests modifications, the manufacturer should resubmit within the timeframe specified (usually 5 working days). Once approved, MHRA publishes the FSN on its Device Alerts page within 1 working day. Publication timelines may be expedited for Class 1 safety issues. The manufacturer remains responsible for issuing the FSN to known users immediately upon MHRA notification of intent to approve, even if MHRA publication is pending.'

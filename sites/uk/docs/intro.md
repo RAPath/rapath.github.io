@@ -8,6 +8,98 @@ description: >
   What this site is, who it is for, and how to use it.
 tags: [uk-mdr, introduction]
 ---
+import React from 'react';
+
+const PHASES = [
+  { id: 0, icon: '🧭', label: 'Phase 1', title: 'Understand the Framework',
+    nodes: [
+      { tag: 'Getting Started', title: 'What is a Medical Device?', sub: 'UK definition under the UK MDR 2002 (as amended) — scope, exclusions, and key terms.', link: { label: 'Read definition', href: '/start-here/what-is-a-medical-device' } },
+      { tag: 'Getting Started', title: 'Regulatory Framework', sub: 'MHRA, UK MDR 2002, and the post-Brexit Great Britain / Northern Ireland regulatory landscape.', link: { label: 'View framework', href: '/start-here/regulatory-framework-overview' } },
+      { tag: 'Getting Started', badge: 'Post-Brexit', title: 'Great Britain vs. Northern Ireland', sub: 'Northern Ireland follows EU MDR/IVDR under the Windsor Framework — key difference for compliance.', link: { label: 'View GB vs NI guide', href: '/start-here/great-britain-vs-northern-ireland' } },
+    ],
+  },
+  { id: 1, icon: '🔬', label: 'Phase 2', title: 'Classify Your Device',
+    nodes: [
+      { tag: 'Classification', badge: 'UK MDR Schedule 2', title: 'Classification Rules', sub: 'UK classification rules (Schedule 2 of UK MDR 2002) — Class I / IIa / IIb / III and AIMD.', link: { label: 'View classification rules', href: '/legislation/schedule-2-classification-rules' } },
+      { tag: 'Classification', title: 'What is an IVD?', sub: 'IVD scope and classification under UK MDR 2002 — List A, List B, and self-test devices.', link: { label: 'View IVD guide', href: '/start-here/what-is-an-ivd' } },
+    ],
+  },
+  { id: 2, icon: '📋', label: 'Phase 3', title: 'UKCA Marking & MHRA Registration',
+    nodes: [
+      { tag: 'Pre-Market', badge: 'Key step', title: 'Conformity Assessment', sub: 'UKCA marking pathway — UK Approved Body involvement, conformity assessment routes.', link: { label: 'View conformity assessment', href: '/pre-market/conformity-assessment' } },
+      { tag: 'Pre-Market', title: 'Essential Requirements', sub: 'Schedule 1 Essential Requirements — safety and performance standards for UKCA marking.', link: { label: 'View essential requirements', href: '/pre-market/essential-requirements' } },
+      { tag: 'Pre-Market', title: 'MHRA Registration', sub: 'Mandatory MHRA registration for all devices placed on the Great Britain market.', link: { label: 'View registration guide', href: '/pre-market/mhra-registration/device-registration' } },
+      { tag: 'Pre-Market', title: 'Technical Documentation', sub: 'Technical file requirements for UKCA marking — content and structure.', link: { label: 'View tech doc guide', href: '/pre-market/technical-documentation' } },
+    ],
+  },
+  { id: 3, icon: '✅', label: 'Phase 4', title: 'UK Approved Bodies',
+    nodes: [
+      { tag: 'Approved Body', badge: 'Required Class IIa+', title: 'What are Approved Bodies?', sub: 'UK Approved Bodies (UKABs) carry out conformity assessment for Class IIa and above.', link: { label: 'View UKAB guide', href: '/approved-bodies/what-are-approved-bodies' } },
+      { tag: 'Approved Body', title: 'Finding a UK Approved Body', sub: 'How to find a designated UKAB for your device type — MHRA register.', link: { label: 'View UKAB directory', href: '/approved-bodies/finding-a-ukab' } },
+      { tag: 'Pre-Market', title: 'Clinical Evidence', sub: 'MHRA clinical evidence requirements — when UK clinical investigations are needed.', link: { label: 'View evidence requirements', href: '/pre-market/clinical-evidence/clinical-evaluation' } },
+    ],
+  },
+  { id: 4, icon: '📊', label: 'Phase 5', title: 'Post-Market Obligations',
+    nodes: [
+      { tag: 'Post-Market', badge: 'Ongoing', title: 'Vigilance Reporting', sub: 'MHRA Yellow Card reporting — serious incidents, FSCAs, and periodic safety reports.', link: { label: 'View reporting guide', href: '/post-market/vigilance/what-must-be-reported' } },
+      { tag: 'Post-Market', title: 'Field Safety Corrective Actions', sub: 'When FSCAs are required, MHRA notification process, and field safety notice requirements.', link: { label: 'View FSCA guide', href: '/post-market/field-safety/when-fsca-required' } },
+      { tag: 'Post-Market', title: 'Post-Market Surveillance', sub: 'PMS plan requirements and MHRA expectations for ongoing device surveillance.', link: { label: 'View PMS requirements', href: '/post-market/post-market-surveillance/pms-requirements-by-class' } },
+      { tag: 'Post-Market', title: 'Labelling & Advertising', sub: 'UK labelling requirements — English language, UKCA mark, and MHRA registration details.', link: { label: 'View labelling rules', href: '/post-market/labelling-advertising/labelling-requirements' } },
+    ],
+  },
+  { id: 5, icon: '💡', label: 'Phase 6', title: 'Special Access & Northern Ireland',
+    nodes: [
+      { tag: 'Special Access', title: 'Approved for Use (AfU)', sub: 'MHRA's Approved for Use route — access to novel or innovative devices outside standard pathways.', link: { label: 'View AfU guide', href: '/special-access/approved-for-use' } },
+      { tag: 'Northern Ireland', title: 'Northern Ireland Rules', sub: 'Windsor Framework 2023 — how EU MDR/IVDR applies in Northern Ireland.', link: { label: 'View NI compliance guide', href: '/northern-ireland/rules-applying-in-ni' } },
+      { tag: 'Northern Ireland', title: 'Practical Multi-Market Compliance', sub: 'How to comply with both UKCA (GB) and CE/MDR (NI) requirements simultaneously.', link: { label: 'View multi-market guide', href: '/northern-ireland/practical-compliance-multi-market' } },
+    ],
+  },
+];
+
+export const PathwayMap = () => {
+  const [openPhase, setOpenPhase] = React.useState(0);
+  const toggle = (id) => setOpenPhase(prev => prev === id ? null : id);
+  return (
+    <div style={{ borderRadius: '12px', border: '1px solid var(--ifm-border-color)', background: 'color-mix(in srgb, var(--ifm-color-primary) 6%, var(--ifm-background-color))', padding: '1.5rem', margin: '2rem 0' }}>
+      <p style={{ margin: '0 0 1rem 0', fontSize: '0.85rem', color: 'var(--ifm-font-color-secondary)' }}>Click a phase to expand — each card links to the relevant section of this guide.</p>
+      {PHASES.map((phase) => {
+        const isOpen = openPhase === phase.id;
+        return (
+          <div key={phase.id} style={{ borderRadius: '8px', border: `1px solid ${isOpen ? 'var(--ifm-color-primary)' : 'var(--ifm-border-color)'}`, marginBottom: '0.5rem', overflow: 'hidden' }}>
+            <button onClick={() => toggle(phase.id)} style={{ display: 'flex', alignItems: 'center', gap: '0.75rem', padding: '0.875rem 1rem', background: 'color-mix(in srgb, var(--ifm-color-primary) 8%, var(--ifm-background-color))', cursor: 'pointer', border: 'none', width: '100%', textAlign: 'left', color: 'var(--ifm-font-color-base)', fontFamily: 'inherit' }}>
+              <span style={{ fontSize: '1.25rem', minWidth: '1.5rem' }}>{phase.icon}</span>
+              <span style={{ flex: 1 }}>
+                <span style={{ fontSize: '0.7rem', color: 'var(--ifm-font-color-secondary)', display: 'block', marginBottom: '0.1rem' }}>{phase.label}</span>
+                <span style={{ fontWeight: 600, color: 'var(--ifm-font-color-base)' }}>{phase.title}</span>
+              </span>
+              <span style={{ fontSize: '1.1rem', color: 'var(--ifm-font-color-secondary)', display: 'inline-block', transform: isOpen ? 'rotate(90deg)' : 'rotate(0deg)', transition: 'transform 0.18s' }}>›</span>
+            </button>
+            {isOpen && (
+              <div style={{ position: 'relative', padding: '1rem 1rem 0.5rem 2.5rem' }}>
+                <div style={{ position: 'absolute', left: '1.5rem', top: 0, bottom: 0, width: '2px', background: 'var(--ifm-border-color)' }} />
+                {phase.nodes.map((node, idx) => (
+                  <div key={idx} style={{ position: 'relative', marginBottom: '0.75rem' }}>
+                    <div style={{ position: 'absolute', left: '-1rem', top: '1.25rem', width: '1rem', height: '2px', background: 'var(--ifm-border-color)' }} />
+                    <div style={{ background: 'var(--ifm-background-color)', border: '1px solid var(--ifm-border-color)', borderLeft: '3px solid var(--ifm-color-primary)', borderRadius: '8px', padding: '0.875rem 1rem' }}>
+                      <div style={{ marginBottom: '0.25rem' }}>
+                        <span style={{ fontSize: '0.7rem', color: 'var(--ifm-font-color-secondary)', textTransform: 'uppercase', letterSpacing: '0.05em' }}>{node.tag}</span>
+                        {node.badge && <span style={{ display: 'inline-block', fontSize: '0.7rem', fontWeight: 600, padding: '0.15rem 0.5rem', borderRadius: '999px', marginLeft: '0.5rem', background: 'color-mix(in srgb, var(--ifm-color-primary) 12%, transparent)', color: 'var(--ifm-color-primary)' }}>{node.badge}</span>}
+                      </div>
+                      <div style={{ fontWeight: 600, marginBottom: '0.25rem', color: 'var(--ifm-font-color-base)' }}>{node.title}</div>
+                      <div style={{ fontSize: '0.85rem', color: 'var(--ifm-font-color-secondary)', marginBottom: node.link ? '0.5rem' : '0' }}>{node.sub}</div>
+                      {node.link && <a href={node.link.href} style={{ fontSize: '0.8rem', color: 'var(--ifm-color-primary)', textDecoration: 'none', fontWeight: 500 }}>{node.link.label} →</a>}
+                    </div>
+                  </div>
+                ))}
+              </div>
+            )}
+          </div>
+        );
+      })}
+    </div>
+  );
+};
+
 
 # RAPath UK
 
@@ -18,6 +110,11 @@ RAPath UK is a plain English reference for UK medical device regulation under th
 This site does not replace official sources and should not be relied upon as legal advice. Every page links back to the authoritative legislation text, MHRA guidance, or official Government publication. RAPath UK is a structured, searchable index to help you navigate the framework — always verify findings against the official source before making compliance decisions.
 
 ---
+
+
+## Regulatory Pathway Map
+
+<PathwayMap />
 
 ## Who this site is for
 

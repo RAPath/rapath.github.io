@@ -40,4 +40,3 @@ A foreign company cannot hold an MAH licence in its own name. Only a Japan-regis
 
 The subsidiary must have a physical Japan office and Japan-based staff who are capable of executing MAH responsibilities. A subsidiary with only virtual office space or a mail-forwarding address will not satisfy the domicile requirement. MHLW conducts on-site verification during the licence application process and will reject applications where the Japan office cannot demonstrate actual operational capacity (staff present, systems in place, records management capability).
 
-Add under 'Option 1 — Establish a Japan subsidiary': 'The subsidiary must have a physical Japan office and Japan-based staff who are capable of executing MAH responsibilities. A subsidiary with only virtual office space or minimal Japan staffing may not satisfy regulatory expectations, and MHLW may request evidence of actual operational capacity during licence application review.'

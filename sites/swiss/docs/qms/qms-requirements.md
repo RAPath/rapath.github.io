@@ -42,18 +42,3 @@ MedDO/MDR conformity assessment requires the QMS to address certain elements tha
 - **PSUR preparation** — processes for preparing periodic safety update reports on schedule
 - **SSCP maintenance** — for Class III/implantable devices: processes for updating and validating the SSCP
 
-
-Add under 'QMS Scope Requirements' section: 'For implantable Class I devices, ISO 13485 is mandatory. Manufacturers must ensure the QMS scope includes enhanced requirements specific to implantable devices: biocompatibility assessment per ISO 10993 series (including biodegradation, sensitization, and long-term compatibility testing); long-term safety monitoring and post-market surveillance aligned with device lifetime; full traceability requirements to enable rapid product identification and recall; and design controls demonstrating that the device can be safely implanted, remain functional, and be removed or repositioned if necessary.'
-
-
-Add under 'QMS Scope Requirements' section: 'For implantable Class I devices, although ISO 13485 is mandatory, manufacturers should ensure the QMS scope includes heightened attention to biocompatibility assessment (ISO 10993), long-term safety monitoring, and traceability requirements due to the elevated risk profile of implantable devices.'
-
-## Official Sources
-- [ISO 13485:2016](https://www.iso.org/standard/59752.html)
-- [MedDO Annex IX — Conformity assessment (SR 812.213)](https://www.fedlex.admin.ch/eli/cc/2021/205/en)
-
-:::warning Disclaimer
-AI-assisted navigation aid only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
-:::
-
-For implantable Class I devices, although ISO 13485 is mandatory, manufacturers should ensure the QMS scope includes heightened attention to biocompatibility assessment (ISO 10993), long-term safety monitoring, and traceability requirements due to the elevated risk profile of implantable devices.

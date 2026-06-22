@@ -41,5 +41,3 @@ A **Field Safety Corrective Action (FSCA)** is broader than a recall. Not all FS
 ## Notifying Health Canada
 Notification timeline: Manufacturers must notify Health Canada without delay — ideally before the recall is announced publicly. Delays in notification can be viewed unfavorably during compliance reviews.
 
-Add after 'Notifying Health Canada' section:
-Notification timeline: Manufacturers must notify Health Canada without delay — ideally before the recall is announced publicly. Delays in notification can be viewed unfavorably during compliance reviews.

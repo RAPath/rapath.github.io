@@ -39,14 +39,3 @@ Re-registration of an expiring national registration must be initiated well in a
 Engage your Russian Authorized Representative (RUS REP) early — dossier preparation, translation, and QMS inspection scheduling all take significant lead time.
 :::
 
-Add under 'Extensions commonly occur when':
-
-- Additional post-market data is requested or becomes available during review
-- Changes to related regulatory requirements occur during the review period
-- Manufacturing site changes or QMS inspection re-scheduling is required
-
-Under 'Extensions commonly occur when:', add:
-- Additional post-market surveillance data is requested or becomes available during review
-- Changes to related regulatory requirements occur during the review period
-- Manufacturing site relocation or QMS inspection re-scheduling is required
-- Labelling or translation revisions are needed following FGBU feedback

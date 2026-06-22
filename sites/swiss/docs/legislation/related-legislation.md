@@ -33,14 +33,3 @@ The Transplantation Act (Transplantationsgesetz, SR 810.21) governs the removal,
 AI-assisted content for navigation only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
 :::
 
-Expand the nFADP section as follows:
-
-## Federal Data Protection Act (nFADP, SR 235.1)
-
-The revised Federal Data Protection Act (nFADP), which entered into force in September 2023, governs the processing of personal data including health data in Switzerland. Medical devices that process, store, or transmit patient data — including connected devices (internet-enabled medical devices), Software as a Medical Device (SaMD), and imaging systems — must comply with nFADP requirements. Key obligations include:
-- Data security measures to protect patient information
-- Privacy by design principles in device development
-- Data breach notification to the Federal Data Protection and Information Commissioner (FDPIC) within a defined timeframe
-- Documentation of data processing activities
-
-Compliance with nFADP is in addition to, not in place of, MedDO/IVDO compliance.

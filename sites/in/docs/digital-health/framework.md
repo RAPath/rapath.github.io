@@ -31,4 +31,3 @@ Current status
 ​
 As of 2026, CDSCO has not yet published a dedicated comprehensive SaMD guidance document. However, SaMD products are being evaluated and approved under the existing MDR 2017 classification framework using IMDRF SaMD principles as reference standards. CDSCO has publicly signaled intent to publish specific SaMD guidance aligned with IMDRF N12 (Definition and Scope of Software as a Medical Device) and N23 (Clinical Evaluation of AI/ML-Based Medical Devices) documents. Industry stakeholders should monitor CDSCO announcements for expected publication timelines.
 
-Remove the second 'Current status' section entirely (the one starting with 'As of 2026, CDSCO has not yet published a dedicated comprehensive SaMD guidance document. However, SaMD products are being evaluated...'). Keep only the first occurrence under the 'National Digital Health Mission (NDHM)' heading.

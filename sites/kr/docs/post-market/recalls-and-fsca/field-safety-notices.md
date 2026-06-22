@@ -30,6 +30,3 @@ A copy of the FSN must be submitted to MFDS at the time of distribution.
 
 "Timing: FSNs must be distributed without delay upon identification of a safety issue. MFDS notification should occur simultaneously with or before distribution to customers and healthcare professionals."
 
-Add new section after 'MFDS notification': "Timing: FSNs must be distributed without delay upon identification of a safety issue. MFDS notification should occur simultaneously with or before distribution to customers and healthcare professionals."
-
-Add after 'Language requirement': 'FSNs are typically issued in response to identified hazards with a potential for serious injury or device malfunction. Minor defects or low-risk issues may not warrant a formal FSN but should still be documented in post-market surveillance records.'

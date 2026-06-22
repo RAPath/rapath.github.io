@@ -71,6 +71,3 @@ COFEPRIS has undergone significant modernisation since 2024:
 
 Enforcement mechanisms: COFEPRIS has broad authority to conduct market surveillance, inspect manufacturing and distribution facilities, seize non-compliant devices, impose administrative sanctions, and pursue criminal proceedings for serious violations. Non-compliance with GMP, technovigilance, or registration requirements can result in product seizure, facility closures, and significant financial penalties.
 
-Add new subsection under 'COFEPRIS — the regulator': 'Enforcement mechanisms: COFEPRIS has broad authority to conduct market surveillance, inspect manufacturing and distribution facilities, seize non-compliant devices, impose administrative sanctions, and pursue criminal proceedings for serious violations. Non-compliance with GMP, technovigilance, or registration requirements can result in product seizure, facility closures, and significant financial penalties.'
-
-In the NOMs table, expand NOM-137 entry to: "NOM-137-SSA1-2008 | Labelling of medical devices | In force; draft update published 2024 (expected entry into force pending official publication)."

@@ -65,4 +65,3 @@ Confirm the current IVD guidance document from the NMRA website.
 
 Clarify the status: 'Originally published as a draft in 2019, the NMRA Guideline for Classification of Medical Devices in Sri Lanka was formally implemented and remains in effect. Check the NMRA website for any updates or revisions to ensure you are using the current version.'
 
-Replace the 'NMRA Classification Guideline' section opening with: 'The NMRA Guideline for Classification of Medical Devices in Sri Lanka sets out the EU-derived classification rules for general and IVD devices. Originally published as a draft in 2019, the guideline was formally implemented and remains in effect. Always download the current version from the NMRA website to ensure compliance with any updates or revisions.'

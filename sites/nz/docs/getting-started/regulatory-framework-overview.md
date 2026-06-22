@@ -99,4 +99,3 @@ Under the **Trans-Tasman Mutual Recognition Arrangement (TTMRA)**, goods lawfull
 
 The Medical Products Bill remains in development as of 2024. No formal enactment date has been announced. Sponsors should monitor Medsafe's website and the official Bill Tracker for updates on progress and expected implementation.
 
-Complete the final section with content about the Medical Products Bill reform agenda and timeline if available, or remove the incomplete line.

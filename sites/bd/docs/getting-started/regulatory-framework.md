@@ -58,4 +58,3 @@ A distinctive feature of the DGDA process is that application completeness is re
 
 The DGDA has authority to fix prices for drugs and medical devices in Bangladesh. This price-fixing role means that registered product prices are subject to DGDA oversight and manufacturers/ARs must comply with pricing requirements. Price changes may require DGDA notification or approval.
 
-Replace the inline verification note with: 'The Drug and Cosmetics Act, 2023 became effective on 18 September 2023 (as published in the Bangladesh Government Gazette). Manufacturers should verify current DGDA implementation status and any transition provisions with the DGDA directly, as enforcement timelines for legacy device registrations may differ.'

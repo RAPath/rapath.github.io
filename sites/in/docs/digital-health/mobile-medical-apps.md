@@ -33,4 +33,3 @@ Mobile medical apps follow the SaMD regulatory framework under MDR 2017. Classif
 - **Cybersecurity assessment**: Data protection, user authentication, encryption measures
 - **ABDM compliance**: If connected to ABDM ecosystem, apps must meet interoperability standards
 
-Add a new subsection titled 'Post-Market Compliance' with the following text: 'Manufacturers must establish post-market surveillance systems to monitor app performance, user feedback, and adverse events. Serious adverse events or malfunctions must be reported to CDSCO as per MDR 2017 requirements. Regular software updates addressing security vulnerabilities or performance issues should be documented and tracked.'

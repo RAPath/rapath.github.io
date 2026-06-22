@@ -78,4 +78,3 @@ The equivalency route does not permit use of a third-party pre-approving agency.
 
 Identical' means the device form, formulation, materials, manufacturing process, and technical specifications must be identical to the approved foreign version. Minor differences in regulatory-mandated labeling (e.g., Spanish-only statements required by NOM-137) are generally acceptable and do not disqualify the application; however, changes to indications, instructions for use, or contraindications will require standard route submission.
 
-Add a verification note immediately after the 'Regulatory basis' heading: 'Note: COFEPRIS expanded equivalency route recognition via Acuerdo published in the Federal Register. Verify current recognized authorities on the COFEPRIS website, as the list of IMDRF and MDSAP members may be updated periodically.'

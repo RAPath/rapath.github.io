@@ -60,4 +60,3 @@ CDAKB Validity and Renewal
 
 The CDAKB is valid for a specified period (typically 5 years, though confirm current regulation). It must be renewed before expiry. If the CDAKB expires while a NIE is active, the NIE is automatically frozen until the CDAKB is restored. Monitor your LAR's CDAKB expiry date and coordinate renewal planning well in advance — Kemenkes may conduct re-inspection as part of the renewal process.
 
-Add after the July 2024 mandatory statement: 'Note: This requirement applies to new NIE applications submitted after July 2024. Renewals of existing NIEs registered prior to this date are evaluated under the requirements in effect at the time of original registration; however, confirm current policy with Kemenkes or your LAR, as transition guidance may have been issued.'

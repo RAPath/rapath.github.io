@@ -62,4 +62,3 @@ Class A manufacturers must maintain a **PMS Report** (rather than the full PSUR 
 
 On first mention of 'TFA route', add: 'All Class A devices (including As, Am, and Ar sub-types) require MDMA via the TFA route (Technical File Assessment) — the standard pathway for device registration with the SFDA.'
 
-In the 'MDMA pathway for Class A' section, change the opening sentence to: 'All Class A devices (including As, Am, and Ar sub-types) require MDMA via the TFA route (Technical File Assessment) — the standard pathway for device registration with the SFDA. There is no longer a simple self-declaration or listing pathway — the MDNR (Medical Device National Registry) was cancelled in September 2022.'

@@ -54,6 +54,3 @@ All IVDs require MDMA via the TFA route. Grouping of IVDs in a single MDMA appli
 - [How Classification Works](./how-classification-works)
 - [MDMA Overview](../mdma-registration/mdma-overview)
 
-Expand the MDMA for IVDs section: 'All IVDs require MDMA via the TFA route. Grouping of IVDs in a single MDMA application is permitted (up to 50 items), provided they share the same legal manufacturer, risk class, and intended use. Grouping simplifies the submission process and may reduce application fees. See Device Grouping for detailed requirements.'
-
-Add a new paragraph after the 'IVD risk classes' table: 'Note: IVD classes are separate from general medical device classes. A device may be classified as Class A (general) and separately contain Class D IVD components. Each component follows its respective classification rules, and combined MDMA applications are possible when appropriate. For combination devices with both general device and IVD components, consult the technical file guidance for your specific product.'

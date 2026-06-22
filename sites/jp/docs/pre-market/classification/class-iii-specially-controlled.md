@@ -35,4 +35,3 @@ Class III devices approved via Shonin are subject to a **re-examination period**
 
 The re-examination period for Class III devices is typically 3 years from the date of approval, though MHLW may extend this to 4–5 years for certain high-risk or first-in-class devices. During this period, the MAH must collect real-world safety and efficacy data and submit interim and final reports to MHLW.
 
-Add clarification to 're-examination period' section: 'The re-examination period for Class III devices is typically 3 years from the date of approval, though MHLW may extend this to 4–5 years for certain high-risk or first-in-class devices. During this period, the MAH must collect real-world safety and efficacy data and submit interim and final reports to MHLW.'

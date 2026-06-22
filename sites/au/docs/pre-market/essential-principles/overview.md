@@ -89,22 +89,3 @@ Essential Principles compliance is not a one-time exercise — it must be mainta
 
 ---
 
-
-Add under 'How to Demonstrate Compliance': 'Manufacturers should systematically assess each of the 15 Essential Principles by considering: (1) the device classification and device type, (2) the intended purpose and patient population, (3) the materials used (particularly whether they contact the patient), (4) the energy source and active components, (5) the environment of use, (6) whether the device has a measuring function or generates radiation, and (7) whether it is an IVD. The TGA Essential Principles Checklist template guides this assessment and requires manufacturers to document for each EP whether it applies, and if so, what evidence of compliance is held.'
-
-## Official Sources
-
-- [Schedule 1 — Essential Principles (legislation.gov.au)](https://www.legislation.gov.au/current/F2022C00900)
-- [Complying with the Essential Principles — TGA guidance](https://www.tga.gov.au/resources/guidance/complying-essential-principles-safety-and-performance-medical-devices)
-- [Essential Principles overview — TGA](https://www.tga.gov.au/products/medical-devices/manufacturing/quality-safety-and-performance-requirements-medical-devices-essential-principles)
-
----
-
-## Related Pages
-
-- [EP 1–6 General Principles](./ep-1-6-general-principles.md)
-- [EP 7–15 Design & Construction](./ep-7-15-design-and-construction.md)
-- [Checklist & Compliance](./checklist-and-compliance.md)
-- [Clinical Evidence](../clinical-evidence/what-is-required.md)
-
-EP 13 applies to all devices and requires essential information to be provided on the device, packaging, labelling, and instructions for use. EP 13B is an additional requirement for software-based and programmable devices, requiring that version numbers and build numbers be provided to enable traceability of the specific software deployed. Both must be addressed in technical documentation.

@@ -40,17 +40,3 @@ Consultants and auditors working in Switzerland should have specific knowledge o
 - **Fasmed** — Swiss trade association for medical technology companies
 - **MedTech Switzerland** — industry association
 
-
-Add a new section titled 'Legacy MDD Transition' with the following text:
-
-'Medical devices previously approved under the EU Medical Device Directive (MDD, 93/42/EEC) and placed on the Swiss market must now comply with MedDO requirements. The transition period ended on 26 May 2024, after which only MedDO-compliant devices may remain on the market. Consultants assessing legacy MDD devices should identify gaps in technical documentation, risk management, clinical evaluation reports, GSPR alignment, post-market surveillance planning, and vigilance processes to ensure full compliance and avoid market suspension or removal.'
-
-## Official Sources
-- [Swissmedic — Medical devices](https://www.swissmedic.ch/swissmedic/en/home/medical-devices.html)
-- [RegAss — Swiss Regulatory Affairs Society](https://www.regas.ch)
-
-:::warning Disclaimer
-AI-assisted navigation aid only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
-:::
-
-Medical devices previously approved under the EU Medical Device Directive (MDD, 93/42/EEC) must comply with the new MedDO requirements. The transition period ended on 26 May 2024. Consultants assessing legacy MDD devices should identify gaps in technical documentation, risk management, and post-market surveillance to ensure full MedDO compliance, including requirements for clinical evaluation reports and GSPR alignment with the updated standards.

@@ -29,10 +29,3 @@ See [Foreign GMP certificate requirement](./foreign-manufacturers/foreign-gmp-ce
 
 ## Domestic manufacturers
 
-Add a new subsection under 'Domestic manufacturers' or 'Exemptions':
-
-**KGMP Certification Validity and Renewal**
-
-KGMP certificates are typically valid for 3 years from the date of issuance. Manufacturers must apply for renewal before expiration. MFDS conducts periodic surveillance inspections to maintain certification status.
-
-Add after 'KGMP' on first mention: '(Korean Good Manufacturing Practice)' to clarify the acronym for new readers.

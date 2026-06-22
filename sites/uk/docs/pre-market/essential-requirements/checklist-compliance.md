@@ -151,4 +151,3 @@ For IVD medical devices, the applicable Essential Requirements are set out in UK
 
 The table should be completed with all applicable IVD Essential Requirements rows and their corresponding applicability, method, and reference columns, followed by explanatory text about when the self-declaration conformity assessment route applies versus when UKAB involvement is required.
 
-Complete the 'Worked example framework — General IVD (self-declaration)' table with entries for remaining applicable Essential Requirements (ER 3–18 where applicable), following the same three-column format (ER reference, Applicable?, Method, TF Reference).

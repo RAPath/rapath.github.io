@@ -83,6 +83,3 @@ Holders of a current Medical Device Single Audit Programme (MDSAP) certificate m
 
 Note: MDA's acceptance of MDSAP in lieu of ISO 13485 is discretionary and depends on audit scope and outcome. For Class B devices, pre-submission confirmation with MDA is recommended. See MDSAP Recognition for full details.
 
-Add the following note to the 'MDSAP — Alternative QMS Evidence' section: 'Note: MDA's acceptance of MDSAP in lieu of ISO 13485 is discretionary and depends on audit scope and outcome. For Class B devices, pre-submission confirmation with MDA is recommended. See MDSAP Recognition for full details.'
-
-The page ends abruptly at 'MDA-Rec'. The final section should read: 'MDA-Recognised Certification Bodies' followed by the table and content. Ensure the complete page ending is included, with a full table of contents listing: ISO 13485 as the Standard, What ISO 13485 Covers, Scope of Certification, MDA-Recognised Certification Bodies, Certificate Validity, Malaysian Manufacturers — GMP Requirements, and MDSAP — Alternative QMS Evidence.

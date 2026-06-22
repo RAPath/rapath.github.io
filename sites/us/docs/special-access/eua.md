@@ -84,4 +84,3 @@ When an emergency declaration terminates:
 
 The "may be effective" standard is notably lower than substantial equivalence — it requires only evidence suggesting the product may work, without comparative data demonstrating it is as good as a predicate device. This allows faster authorization during emergencies when rigorous comparative data may not yet exist.
 
-Add after the 'FDA review' bullet point: 'The "may be effective" standard is notably lower than substantial equivalence — it requires only evidence suggesting the product may work, without comparative data demonstrating it is as good as a predicate device. This allows faster authorization during emergencies when rigorous comparative data may not yet exist.'

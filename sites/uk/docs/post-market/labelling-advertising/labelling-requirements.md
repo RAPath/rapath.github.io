@@ -111,4 +111,3 @@ IFU may be provided:
 | MHRA: Labelling guidance for medical devices | MHRA's labelling guidance |
 | ISO 15223-1 | Symbols to be used with information to be supplied by the manufacturer |
 
-Add to the IFU section: 'Electronic IFU (eIFU) is acceptable provided: (1) the device labelling clearly directs the user to where the eIFU can be accessed; (2) the eIFU remains accessible for the intended lifetime of the device; (3) eIFU is not the sole means of access for critical safety information unless the device is intended for use in a digital-only environment. MHRA expects that printed or durable physical IFU remain available for devices where users may not have reliable access to electronic documentation.'

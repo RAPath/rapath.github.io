@@ -126,16 +126,3 @@ Where a safety issue has EU-wide implications, the **MDCG** coordinates NCA resp
 | IVDR Art. 88–92 | IVDR equivalent provisions |
 | MDR Art. 10(12) | Manufacturer duty to cooperate with NCAs |
 
-Complete the final sentence:
-
-Manufacturer obligations when contacted by an NCA
-​
-When an NCA contacts a manufacturer regarding a market surveillance investigation, the manufacturer must:
-
-- Cooperate fully — MDR Art. 10(12) requires manufacturers to cooperate with competent authorities on any action taken to eliminate or mitigate risks
-- Provide requested documentation — technical files, quality records, complaints, PMS reports
-- Allow NCA access to premises and records — including manufacturing sites and distribution records
-- Respond to requests within the specified timeframe — typically 10–30 days depending on urgency
-- Not obstruct or delay the investigation
-
-Failure to cooperate may result in enforcement action, suspension of the CE certificate, or market withdrawal orders.

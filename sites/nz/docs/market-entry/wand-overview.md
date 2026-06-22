@@ -78,6 +78,3 @@ Manufacturer (overseas)
   Medsafe monitors market via adverse events, signals, WAND data
 ```
 
-Expand the 'Who can access WAND?' section with: "While WAND itself is not publicly searchable, Medsafe may be able to confirm to healthcare providers or patients whether a specific device has been notified to WAND, depending on the nature of the inquiry and any confidentiality concerns. The non-public status of WAND is maintained to protect commercial confidentiality of device specifications and Sponsor information."
-
-Remove the instruction: "Expand the 'Who can access WAND?' section with: 'While WAND itself is not publicly searchable, Medsafe may be able to confirm to healthcare providers or patients whether a specific device has been notified to WAND, depending on the nature of the inquiry and any confidentiality concerns. The non-public status of WAND is maintained to protect commercial confidentiality of device specifications and Sponsor information.'" and either integrate this clarification into the actual 'Who can access WAND?' section or remove it entirely.

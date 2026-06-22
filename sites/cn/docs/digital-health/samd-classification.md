@@ -26,8 +26,3 @@ Content on this site is written with AI assistance and is intended as a navigati
 
 NMPA classifies SaMD into three risk categories (Class I, II, III) based on intended use and risk level. Class I devices (lowest risk) are exempt from premarket registration under certain conditions. Class II devices require registration through the standard pathway. Class III devices (highest risk) require registration with clinical evaluation and more stringent quality controls.
 
-Add a section with classification structure: 'NMPA classifies SaMD into three risk categories (Class I, II, III) based on intended use and risk level. Class I devices (lowest risk) are exempt from premarket registration under certain conditions. Class II devices require registration through the standard pathway. Class III devices (highest risk) require registration with clinical evaluation and more stringent quality controls.'
-
-Remove the line 'Full content to be completed during editorial review.' from the introductory paragraph, or update it to 'This page provides a plain English reference for SaMD classification under China's NMPA regulatory framework for digital health.'
-
-Add after the classification description: 'The NMPA Standalone Software Classification and Boundary Definition Guidance Principle (独立软件分类界定指导原则) provides detailed criteria for determining whether software constitutes a medical device and into which risk class it should be categorized based on its intended use and technical characteristics.'

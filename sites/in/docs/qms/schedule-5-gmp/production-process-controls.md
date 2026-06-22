@@ -13,4 +13,3 @@ Schedule 5 Part I applies to all manufacturers (Class A–D). Schedule 5 Part II
 
 > **Official source:** Medical Devices Rules 2017, Schedule 5
 
-Add a section detailing specific requirements such as: process validation and qualification procedures, in-process testing and monitoring, equipment maintenance and calibration, operator training requirements, process parameter control limits, batch record documentation, contamination control, and traceability requirements. Include class-specific variations.

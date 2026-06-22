@@ -71,4 +71,3 @@ Waiver application: Submit waiver request with supporting evidence to the NMRA M
 
 Start facility registration before preparing the product registration dossier — particularly if an on-site audit is likely.
 
-Update the Option 1 — SRA Inspection bullet to: 'Report must be recent (typically within 2–3 years of the audit waiver application date — confirm current NMRA requirements as this timeframe may vary)'

@@ -42,14 +42,3 @@ GBA cross-border supply involves both Hong Kong and Mainland China regulatory re
 
 To confirm eligibility and current designated hospitals, contact the Hong Kong Medical Device Division (Tel: +852 3468 5900; Email: mddc@dh.gov.hk) or the Guangdong Provincial Medical Products Administration. Processing times and application requirements vary and should be verified directly with regulators.
 
-Add the following paragraph under the 'Current Status' section:
-
-**Identifying Eligible GBA Hospitals**
-
-The Guangdong Provincial Medical Products Administration maintains a list of designated hospitals eligible for the cross-border pilot. To confirm:
-
-1. Contact the Hong Kong Medical Device Division (mddc@dh.gov.hk, +852 3468 5900) and request the latest list of designated hospitals
-2. Contact the Guangdong Provincial Medical Products Administration directly
-3. Engage a regulatory affairs professional familiar with both MDACS and Guangdong healthcare procurement
-
-Designated hospital lists are updated periodically; verify current eligibility before finalising supply agreements.

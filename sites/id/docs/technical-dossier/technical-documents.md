@@ -90,13 +90,3 @@ For active (powered) devices:
 • EMC testing per IEC 61000 series
 • Test reports from accredited laboratories (ISO/IEC 17025 accreditation preferred; third-party laboratories are strongly recommended for regulatory credibility)
 
-Add after the Intended use bullet point in Device Description and Specification:
-
-Note: If the device may be used for multiple distinct clinical indications, each must be listed separately. If off-label use is anticipated or known, document this and explain how the device's safety and performance data cover (or do not cover) such uses. Kemenkes evaluators will assess whether residual risks for unintended uses are acceptable.
-
-Remove the line 'Revise the Electrical Safety subsection to read:' and replace the Electrical Safety section with: 'Electrical Safety
-
-For active (powered) devices:
-• IEC 60601 series compliance (general and particular standards)
-• EMC testing per IEC 61000 series
-• Test reports from accredited laboratories (ISO/IEC 17025 accreditation preferred; third-party laboratories are strongly recommended for regulatory credibility)'

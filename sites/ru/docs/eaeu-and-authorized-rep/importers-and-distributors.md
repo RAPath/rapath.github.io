@@ -39,6 +39,3 @@ The 15-day import reporting obligation is frequently overlooked by importers new
 Regulation No. 11020 (2022): [roszdravnadzor.gov.ru](https://roszdravnadzor.gov.ru/)
 :::
 
-In the 'Importers' section, after the bullet point on '15-day import reporting,' add:
-
-Import reports must be submitted to Roszdravnadzor via the official portal or designated system (verify current submission channel with Roszdravnadzor). The report must include: device trade name, INN (if applicable), registration certificate number, batch/lot number, quantity imported, date of import, intended use, and importer registration details. Retain supporting documentation (invoices, packing lists, customs declarations) for audit purposes.

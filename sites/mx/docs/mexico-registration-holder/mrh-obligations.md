@@ -66,18 +66,4 @@ Ensure the technical agreement includes indemnification clauses protecting the M
 Define clear audit rights — reserve the right to conduct unannounced inspections of distributor facilities.
 Specify distributor obligations regarding storage, handling, record-keeping, and incident reporting with measurable compliance standards.
 Require distributors to maintain product liability insurance naming the MRH as additional insured.
-Include termination clauses allowing exit without cause on short notice (30–60 days) if needed.
-Despite contractual protections, COFEPRIS will hold the MRH accountable for distributor compliance failures discovered during inspections. Monitor your distributors actively and document all oversight activities.
 
-Add a new subsection under 'Distributor management':
-
-Liability & contractual safeguards
-​
-While the MRH bears ultimate regulatory responsibility for all registered devices, including those distributed by third parties, you can limit exposure through your technical agreement:
-
-Ensure the technical agreement includes indemnification clauses protecting the MRH from distributor misconduct.
-Define clear audit rights — reserve the right to conduct unannounced inspections of distributor facilities.
-Specify distributor obligations regarding storage, handling, record-keeping, and incident reporting with measurable compliance standards.
-Require distributors to maintain product liability insurance naming the MRH as additional insured.
-Include termination clauses allowing exit without cause on short notice (30–60 days) if needed.
-Despite contractual protections, COFEPRIS will hold the MRH accountable for distributor compliance failures discovered during inspections. Monitor your distributors actively and document all oversight activities.

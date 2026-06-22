@@ -29,4 +29,3 @@ The ISO 13485 certificate must:
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
 
-Replace the corrupted opening paragraph with: 'For imported medical devices classified as Class III or higher-risk device types, ANVISA accepts evidence of foreign manufacturer GMP compliance in the form of the following acceptable evidence types:'

@@ -66,4 +66,3 @@ After an inspection, Health Canada issues an inspection report classifying the f
 
 Health Canada typically establishes inspection cycles based on device risk classification and compliance history. Class III and IV devices (higher-risk devices) generally receive more frequent inspections than Class I and II devices (lower-risk devices).
 
-Add after 'Routine inspections' section: 'Health Canada typically establishes inspection cycles based on device risk classification and compliance history. Class III and IV devices generally receive more frequent inspections than Class I and II devices.'

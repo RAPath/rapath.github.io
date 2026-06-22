@@ -181,6 +181,3 @@ Given UKAB capacity constraints, starting UKCA transition significantly before t
 
 > **Important:** MHRA registration is a separate, non-negotiable requirement and does not depend on the validity of the CE mark. This is one of the most common compliance gaps among manufacturers relying on the CE transitional acceptance period.
 
-The sentence should be completed with guidance on what manufacturers are relying on. The full context should explain: 'This is one of the most common compliance gaps among manufacturers relying on the CE transitional acceptance — MHRA registration is a separate, non-negotiable requirement and does not depend on the validity of the CE mark.'
-
-The page ends with 'This is one of the most common compliance gaps among manufacturers relying' — this sentence should be completed. The full guidance should read: 'This is one of the most common compliance gaps among manufacturers relying on the CE transitional period.'

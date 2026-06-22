@@ -147,4 +147,3 @@ Before concluding a product is a medical device, work through these questions:
 | MDCG 2019-11 | Guidance on qualification and classification of software |
 | MDCG 2022-5 | Guidance on borderline products |
 
-Complete the Annex XVI section with: 'Annex XVI includes cosmetic and personal hygiene products that do not satisfy the medical device definition (e.g., they lack medical intent) but are nonetheless regulated as medical devices due to their inherent risks if used on the human body. Examples include: decorative contact lenses, dermal fillers for non-therapeutic augmentation, sunscreen products marketed for cosmetic effect rather than medical protection. These devices must comply with MDR even though they are not intended to treat or prevent disease. Classification and conformity assessment rules apply normally.'

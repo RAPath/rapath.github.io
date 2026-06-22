@@ -39,6 +39,3 @@ Class B devices require a **Periodic Safety Update Report (PSUR)** — more comp
 
 Class B MDMA applications typically receive SFDA review decision within 60–90 days from submission, though this may extend if additional information is requested during the review process.
 
-Add to the MDMA pathway section: 'Class B MDMA applications typically receive SFDA review decision within 60–90 days from submission, though this may extend if additional information is requested during the review process.'
-
-Add to the 'Further reading' section at the bottom: 'Class B MDMA applications typically receive SFDA review decision within 60–90 days from submission, though this may extend if additional information is requested during the review process.'

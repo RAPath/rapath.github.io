@@ -79,6 +79,3 @@ If the LAR appointment is terminated:
 The LAR can be held liable under Malaysian law for non-compliance with Act 737. Before accepting a LAR appointment, conduct thorough due diligence on the foreign manufacturer's quality and compliance systems.
 :::
 
-Add this sentence to the 'Termination of LAR Appointment' section after the existing bullet points:
-
-After the existing bullet points in 'Termination of LAR Appointment', add: 'A transition period may be agreed between the old and new LAR to ensure continuity of regulatory obligations and product supply.'

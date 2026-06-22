@@ -77,4 +77,3 @@ Because New Zealand has **not adopted the EU MDR (2017/745) classification chang
 
 Schedule 2 can be accessed via the New Zealand legislation website (legislation.govt.nz) or through Medsafe's regulatory guidance documents. The full text of the Medicines (Database of Medical Devices) Regulations 2003 is publicly available.
 
-Replace the entire 'Who classifies the device?' section with: 'Classification is the sponsor's responsibility. Medsafe does not classify devices. Classification is the responsibility of the manufacturer or sponsor, and must be justified in technical documentation. Medsafe does not offer pre-market classification rulings. If you are uncertain, consult the manufacturer or seek independent regulatory advice. Medsafe does offer a categorisation service for borderline products — contact devices@health.govt.nz for an advisory opinion.'

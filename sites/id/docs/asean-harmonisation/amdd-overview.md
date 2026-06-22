@@ -65,6 +65,3 @@ The ASEAN CSDT prepared for Singapore (HSA) or Malaysia (MDA) is the closest sta
 
 "BPOM (Badan Pengawas Obat dan Makanan / Indonesian Agency for Drug and Food Control) is the regulatory authority responsible for implementing AMDD principles and overseeing device registration and post-market surveillance in Indonesia."
 
-Add after the first paragraph: "BPOM (Badan Pengawas Obat dan Makanan / Indonesian Agency for Drug and Food Control) is the regulatory authority responsible for implementing AMDD principles and overseeing device registration and post-market surveillance in Indonesia."
-
-The Essential Principles applicable in Indonesia are detailed in the CSDT Essential Principles checklist provided in BPOM's Regalkes portal guidance and cross-referenced in Permenkes 62/2017. These principles align with the GHTF/IMDRF Essential Principles framework adopted by ASEAN.

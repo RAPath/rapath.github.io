@@ -44,4 +44,3 @@ Clinical evidence for AI/ML SaMD must demonstrate the algorithm's performance on
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
 
-Add the following paragraph after the first paragraph under 'ANVISA's approach to AI/ML SaMD':

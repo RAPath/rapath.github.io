@@ -30,4 +30,3 @@ sidebar_position: 6
 
 **CAPA submission timeframe:** For major nonconformities, manufacturers must submit a detailed CAPA plan within 30 days of inspection report receipt. Implementation timeline depends on nonconformity severity but typically ranges from 60–180 days.
 
-Add under 'Administrative actions after inspection': When a KGMP certificate is suspended due to major nonconformities, the suspension period typically lasts 30–90 days. Manufacturers must submit evidence of corrective action implementation before MFDS will lift the suspension. Products from a suspended manufacturer cannot be supplied to the Korean market during the suspension period.

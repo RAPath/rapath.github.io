@@ -28,4 +28,3 @@ Content on this site is written with AI assistance and is intended as a navigati
 
 This section provides an overview of how China's NMPA framework compares to major international regulatory systems including FDA (USA), EMA/MDR (Europe), TGA (Australia), and HSA (Singapore), with emphasis on timing of China submissions relative to other markets and data harmonization opportunities. Use the comparison pages to understand alignment, gaps, and strategic market-entry sequencing for your device.
 
-Add introductory context: 'This section provides an overview of how China's NMPA framework compares to major international regulatory systems including FDA (USA), EMA (Europe), TGA (Australia), and HSA (Singapore). Use the comparison pages to understand alignment, gaps, and strategic market-entry sequencing for your device.'

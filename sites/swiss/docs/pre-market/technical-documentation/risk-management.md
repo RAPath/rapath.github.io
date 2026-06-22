@@ -21,18 +21,3 @@ The RMF documents all risk management activities for a specific device. It must 
 ## Integration
 Risk management integrates with: IEC 62304 (software lifecycle); ISO 10993 (biological hazards); GSPR compliance matrix; clinical evaluation; post-market surveillance.
 
-
-Add under 'Risk evaluation' in 'The Five-Stage ISO 14971:2019 Process' section: 'Risk acceptance criteria must be established at the beginning of the risk management process and documented in the Risk Management File. These criteria define the threshold above which risks are considered unacceptable and must be reduced.'
-
-
-Post-market surveillance data collection and review is a critical feedback mechanism that must inform periodic RMF updates. If PMS data reveals new hazards, unexpected adverse events, or performance degradation, the RMF must be updated and risk re-evaluated to ensure residual risks remain acceptable.
-
-## Official Sources
-- [ISO 14971:2019](https://www.iso.org/standard/72704.html)
-- [MedDO Annex I §§ 1–9 (SR 812.213)](https://www.fedlex.admin.ch/eli/cc/2021/205/en)
-
-:::warning Disclaimer
-AI-assisted content for navigation only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
-:::
-
-Risk acceptance criteria must be established at the beginning of the risk management process and documented in the Risk Management File. These criteria define the threshold above which risks are considered unacceptable and must be reduced.

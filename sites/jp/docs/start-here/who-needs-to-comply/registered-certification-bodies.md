@@ -33,6 +33,3 @@ PMDA handles Shonin applications (Class III and IV) and conducts QMS inspections
 
 Selection of RCB is typically the responsibility of the MAH. There are no restrictions preventing an MAH from working with any accredited RCB; however, the RCB must have competence in the relevant device category and recognised standard.
 
-Add as a new paragraph under 'What RCBs do': 'Selection of RCB is typically the responsibility of the MAH. There are no restrictions preventing an MAH from working with any accredited RCB; however, the RCB must have competence in the relevant device category and recognised standard.'
-
-Replace the sentence 'MHLW maintains a current list at mhlw.go.jp. Examples of Always verify current accreditation status on the official MHLW list, as RCB accreditations can change. accredited RCBs include' with: 'MHLW maintains a current list of accredited RCBs on its official website (accessible via the Pharmaceuticals and Medical Devices Agency portal). Examples of accredited RCBs include'

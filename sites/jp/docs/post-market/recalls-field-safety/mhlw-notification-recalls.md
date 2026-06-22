@@ -49,4 +49,3 @@ Recalls are classified using the international risk classification system:
 
 The classification must be justified in the MHLW notification based on the severity of the defect and the likelihood of harm. PMDA guidance documents provide decision trees for appropriate classification of specific device issues.
 
-Add to the 'When to notify MHLW' section: "MHLW notification does not require pre-approval before initiating the recall. The MAH may proceed with customer notification and corrective action immediately upon notification to MHLW when the safety issue poses a serious or imminent risk. However, MHLW must be informed before or simultaneously with customer notification. In non-urgent situations, the MAH should attempt to notify MHLW before customer contact where feasible to allow for MHLW input on the recall strategy."

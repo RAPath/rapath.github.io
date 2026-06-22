@@ -67,4 +67,3 @@ description: Key links for New Zealand medical device regulatory affairs — Med
 
 Note: Some Medsafe URLs listed may redirect or have changed. Always verify the current URL by visiting medsafe.govt.nz and navigating to the relevant section. For device enquiries and adverse event reporting, devices@health.govt.nz is the current primary contact point.
 
-Update the 'Note' at the bottom to: 'Note: Medsafe has periodically updated its website structure. The URLs listed reflect common paths, but Medsafe's site structure may have changed. The most reliable approach is to visit medsafe.govt.nz and use the site search function to locate the resource, or contact devices@health.govt.nz directly. RAPath is not responsible for broken links due to Medsafe website maintenance.'

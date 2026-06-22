@@ -29,19 +29,3 @@ A serious incident also includes near-serious incidents — incidents where a se
 ## FSCAs
 Field safety corrective actions are reported separately from serious incidents — see [FSCA Process](../fsca/fsca-process).
 
-
-Add to the 'Serious Incidents (Art. 66)' section after the definition:
-
-**Near-Serious Incidents**
-
-A near-serious incident is an incident that did not result in serious harm but could have done so but for a fortunate circumstance (e.g., a device malfunction discovered before patient use, or a use error that was corrected before causing injury). Near-serious incidents must be reported if they have potential to cause serious harm.
-
-## Official Sources
-- [MedDO Art. 66–68 (SR 812.213)](https://www.fedlex.admin.ch/eli/cc/2021/205/en)
-- [Swissmedic — Vigilance for medical devices](https://www.swissmedic.ch/swissmedic/en/home/medical-devices/market-surveillance/vigilance.html)
-
-:::warning Disclaimer
-AI-assisted content for navigation only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
-:::
-
-## Serious Incidents (Art. 66)

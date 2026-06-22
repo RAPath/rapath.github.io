@@ -56,15 +56,3 @@ A complete CAPA process includes:
 5. **Effectiveness verification**: objective evidence that the action has resolved the problem and that similar problems have not recurred
 6. **Management review input**: CAPA summary included in management review
 
-
-Add under 'Key Design Control Elements (ISO 13485 Section 7.3)' section: 'A Design History File (DHF) or equivalent design documentation must be maintained that demonstrates the complete design process from initiation through validation. The DHF must be retained for the same period as technical documentation (10 years for general devices, 15 years for implantable devices).'
-
-## Official Sources
-- [ISO 13485:2016 Section 7.3 and 8.5](https://www.iso.org/standard/59752.html)
-- [MedDO Annex I (SR 812.213)](https://www.fedlex.admin.ch/eli/cc/2021/205/en)
-
-:::warning Disclaimer
-AI-assisted navigation aid only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
-:::
-
-A Design History File (DHF) or equivalent design documentation must be maintained that demonstrates the complete design process from initiation through validation. The DHF must be retained for the same period as technical documentation (10 years for general devices, 15 years for implantable devices).

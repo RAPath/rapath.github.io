@@ -87,4 +87,3 @@ Allow time for CAB clarification
 
 If your device holds approvals from regulators not mentioned above (e.g., from less widely-recognised markets), include them with a brief explanation of the regulator's standards. MDA may not give them the same weight as FDA or TGA approvals, but they still demonstrate your commitment to compliance and can support the application.
 
-Add to 'Tips for Class B Applications': 'If your device holds approvals from regulators not mentioned above (e.g., from less widely-recognised markets), include them with a brief explanation of the regulator's standards. MDA may not give them the same weight as FDA or TGA approvals, but they still demonstrate your commitment to compliance and can support the application.'

@@ -51,4 +51,3 @@ The SUGAM (Streamlined Guidance And Monitoring) portal is the centralized online
 **Technical Support**
 For SUGAM portal issues, contact CDSCO Pharmacovigilance Division or check the official SUGAM help portal.
 
-Add a section explaining the SUGAM portal such as: 'The SUGAM (System for Unified Guidance on Medical device Adverse event Monitoring) portal is CDSCO's online platform for reporting adverse events and vigilance data. All post-market surveillance reports, including SAEs, PSURs, and field actions, must be submitted through SUGAM. The portal provides real-time tracking of report status and enables CDSCO to monitor device safety across the Indian market.'

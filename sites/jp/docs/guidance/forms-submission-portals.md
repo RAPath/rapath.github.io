@@ -57,6 +57,3 @@ PMDA fee schedule: [pmda.go.jp — fees](https://www.pmda.go.jp/english/review-s
 
 > **Fee payment details:** PMDA requires fee payment to be submitted with the application or as specified in PMDA's fee schedule notice. Payment methods typically include bank transfer to the designated PMDA account. Failure to pay fees on time may result in application rejection or suspension of review. The MAH should confirm current payment procedures directly with PMDA before submission, as procedures may change.
 
-Expand Fee payment section with: "Fee payment details: PMDA requires fee payment to be submitted with the application or as specified in PMDA's fee schedule notice. Payment methods typically include bank transfer to the designated PMDA account. Failure to pay fees on time may result in application rejection or suspension of review. The MAH should confirm current payment procedures directly with PMDA before submission, as procedures may change."
-
-JP-unique: The following sections describe submission systems, forms, and fee structures unique to Japan's regulatory pathway. These are essential for preparing and submitting applications through PMDA's electronic systems.

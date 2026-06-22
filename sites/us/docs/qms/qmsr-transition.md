@@ -48,6 +48,3 @@ For manufacturers without ISO 13485 certification:
 
 Note: As of [current date], the QMSR transition to February 2, 2026 remains the compliance deadline. Manufacturers should ensure full compliance by this date. For updates on implementation delays or extensions, check FDA.gov.
 
-Add a note at the top: 'Note: As of [current date], the QMSR transition to February 2, 2026 remains the compliance deadline. Manufacturers should ensure full compliance by this date. For updates on implementation delays or extensions, check FDA.gov.'
-
-Replace 'Note: As of [current date], the QMSR transition to February 2, 2026 remains the compliance deadline. Manufacturers should ensure full compliance by this date. For updates on implementation delays or extensions, check FDA.gov.' with: 'Note: The QMSR effective date of February 2, 2026 is a firm deadline. As of 2024, there are no announced delays or extensions. Manufacturers should complete their transition assessment and remediation planning immediately. For the latest updates on QMSR implementation, refer to FDA.gov or subscribe to CDRH updates.'

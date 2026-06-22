@@ -69,14 +69,3 @@ eSTAR is a **fillable interactive PDF**:
 
 Submitting invalid PDF	Verify the PDF flattens correctly in Adobe Reader; test attachment links before submission. eSTAR submissions that cannot be read by FDA's system will be returned as incomplete.
 
-Add after 'Submitting expired template version' in Common eSTAR mistakes: 'Submitting invalid PDF	Verify the PDF flattens correctly in Adobe Reader; test attachment links before submission. eSTAR submissions that cannot be read by FDA's system will be returned as incomplete.'
-
-Add new subsection under 'How eSTAR works':
-
-**Signature and Authorization Requirements**
-
-All eSTAR submissions must be signed and certified by an authorized individual (typically the company official or designated regulatory representative). Signatures must:
-- Be applied using a valid electronic signature (e-signature) or traditional signature depending on submission pathway
-- Include typed name, title, and date
-- Certify that the information is truthful and accurate to the best of the signer's knowledge
-- Unauthorized or missing signatures will result in Refuse to Accept (RTA)

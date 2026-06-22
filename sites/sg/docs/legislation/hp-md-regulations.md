@@ -39,4 +39,3 @@ Full text: [sso.agc.gov.sg/SL/HPA2007-S436-2010](https://sso.agc.gov.sg/SL/HPA20
 
 The HP(MD) Regulations 2010 came into force on [date] and have been amended [number] times, most recently in [year]. Always consult the current consolidated version on Singapore Statutes Online to ensure you are applying the latest requirements.
 
-Replace the placeholder sentence with: 'The HP(MD) Regulations 2010 came into force on 1 January 2010 and have been amended multiple times since. Always consult the current consolidated version on Singapore Statutes Online to ensure you are applying the latest requirements.'

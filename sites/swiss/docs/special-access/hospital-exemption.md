@@ -21,20 +21,3 @@ The exemption does NOT cover: devices manufactured for sale or transfer to other
 ## Swissmedic Notification
 The institution must notify Swissmedic before first use, providing: device description and intended purpose; justification that no registered equivalent exists; confirmation of QMS implementation. Swissmedic may inspect to verify compliance.
 
-
-Add a new paragraph under 'Swissmedic Notification' section:
-
-'Swissmedic typically reviews the notification within 30 days. If the institution fails to meet exemption conditions or Swissmedic identifies compliance gaps during inspection, the exemption may be withdrawn. The institution must immediately cease in-house manufacturing and cease use of non-compliant devices. Regular compliance monitoring by Swissmedic may be required.'
-
-
-Add after 'Swissmedic Notification' section header and before the paragraph starting 'The institution must notify Swissmedic': 'Timeline and Review Process: Swissmedic typically reviews the notification within 30 days. During this period, the institution should not place the device into use until explicit notification of acceptance is received. If Swissmedic identifies compliance gaps, it will notify the institution and request corrective actions before approval is granted.'
-
-## Official Sources
-- [TPA Art. 9 para. 2(a) (SR 812.21)](https://www.fedlex.admin.ch/eli/cc/2001/422/en)
-- [MedDO Art. 37 (SR 812.213)](https://www.fedlex.admin.ch/eli/cc/2021/205/en)
-
-:::warning Disclaimer
-AI-assisted navigation aid only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
-:::
-
-Swissmedic typically reviews the notification within 30 days. If the institution fails to meet exemption conditions or Swissmedic identifies compliance gaps during inspection, the exemption may be withdrawn. The institution must immediately cease in-house manufacturing and cease use of non-compliant devices. Regular compliance monitoring by Swissmedic may be required.

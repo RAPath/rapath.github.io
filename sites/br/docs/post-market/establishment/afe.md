@@ -43,8 +43,3 @@ Verify all information against official [ANVISA](https://www.gov.br/anvisa) sour
 
 Note: State VISA endorsement requirements vary significantly by jurisdiction. Check with your state VISA body (Vigilância Sanitária Estadual) early in the application process to confirm local requirements, as delays in obtaining state endorsement can extend the AFE approval timeline.
 
-Add after the state VISA endorsement bullet point:
-
-Note: State VISA endorsement requirements vary significantly by jurisdiction. Check with your state VISA body (Vigilância Sanitária Estadual) early in the application process to confirm local requirements, as delays in obtaining state endorsement can extend the AFE approval timeline.
-
-AFE renewal requirements vary by activity type. Manufacturers and importers typically require renewal every 2–5 years; the specific renewal period is stipulated in the individual AFE. Companies must monitor their AFE expiration date and submit renewal applications before expiry to avoid operating without authorisation. Renewal applications should be submitted via Peticionamento Eletrônico with updated documentation confirming continued compliance with GMP, Responsável Técnico designation, and facility status.

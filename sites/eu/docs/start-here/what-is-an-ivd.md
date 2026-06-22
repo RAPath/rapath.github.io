@@ -146,4 +146,3 @@ A laboratory instrument sold as a general-purpose photometer is not an IVD. The 
 | MDCG 2019-11 | Qualification and classification of software |
 | MDCG 2020-16 | Guidance on companion diagnostics |
 
-Complete the software section with: 'AI-based image analysis of histopathology slides → may be borderline — assess against whether the software examines specimens or processes pre-examined images. A mobile app that tracks specimen handoff but does not interpret results → not an IVD. Key principle: if the software output is intended to provide diagnostic, prognostic, or monitoring information directly from specimens, it is likely an IVD software regardless of the underlying technology.'

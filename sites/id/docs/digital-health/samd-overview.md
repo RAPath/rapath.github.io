@@ -56,4 +56,3 @@ Cybersecurity : For internet-connected or networked SaMD, documentation of cyber
 
 SaMD requiring registration must be submitted through the Regalkes system and obtain an NIE (Nomor Izin Edar) using the same application pathway as hardware devices. The classification determines the documentation requirements and review timeline. Regulatory Affairs contacts at Kemenkes can clarify whether specific SaMD products are considered medical devices subject to NIE registration.
 
-Add after the 'Current Regulatory Status in Indonesia' section: 'While a formal SaMD regulation is under development, manufacturers should anticipate that future Indonesian SaMD guidance will likely align with IMDRF and ASEAN regional harmonization efforts. Engagement with Kemenkes early in the development cycle is strongly recommended for novel SaMD products.'

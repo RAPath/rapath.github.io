@@ -41,18 +41,3 @@ MedDO Annex I § 22 (combination devices) and the GSPR requirements generally re
 - Material or component changes from suppliers should trigger risk assessment
 - Supply disruption scenarios should be considered in business continuity planning
 
-
-Add under 'Critical vs Non-Critical Suppliers' in the 'Critical suppliers' bullet: 'For software suppliers and Software as a Medical Device (SaMD) component providers, critical controls must include: verification of software development lifecycle documentation (IEC 62304 compliance); cybersecurity risk management and vulnerability disclosure procedures; software update and patch management protocols; validation of software changes before deployment; and traceability of software versions used in manufactured devices. These requirements should be explicitly detailed in quality agreements and verified during both initial qualification and ongoing supplier audits.'
-
-
-Quality agreements with critical suppliers should specify timeframes for change notification (e.g., 30–60 days advance notice) and define the assessment process for supplier-initiated changes. Suppliers must notify manufacturers of changes to materials, manufacturing processes, facility location, or critical equipment. The manufacturer must assess whether changes affect device safety, performance, or regulatory compliance and may require revalidation, requalification, or design controls updates.
-
-## Official Sources
-- [ISO 13485:2016 Section 7.4](https://www.iso.org/standard/59752.html)
-- [MedDO Annex I (SR 812.213)](https://www.fedlex.admin.ch/eli/cc/2021/205/en)
-
-:::warning Disclaimer
-AI-assisted navigation aid only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
-:::
-
-For software suppliers and Software as a Medical Device (SaMD) providers, critical controls must include verification of software development lifecycle (IEC 62304 compliance), cybersecurity measures, and software update/patch management protocols. These should be detailed in quality agreements and verified during supplier audits.

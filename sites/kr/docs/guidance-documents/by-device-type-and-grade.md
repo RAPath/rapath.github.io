@@ -24,4 +24,3 @@ Search the MFDS website guidance library by:
 ## Related pages
 - [All MFDS guidance](./all-mfds-guidance) · [MFDS Q&As and FAQs](./mfds-qas-and-faqs)
 
-Add a new subsection: 'Direct access: Visit mfds.go.kr → 법령자료 (Legal resources) → 가이드라인 (Guidelines) → select device category or use the Classification Table cross-reference at mfds.go.kr/brd/m_52/view.do?seq=19 to identify applicable guidance documents.'

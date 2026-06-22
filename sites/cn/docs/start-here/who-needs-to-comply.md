@@ -56,4 +56,3 @@ Content on this site is written with AI assistance and is intended as a navigati
 
 For certain Class II and III devices, manufacturers must submit technical documentation and clinical data through NMPA-designated notified bodies. These independent testing organizations conduct technical reviews and safety assessments. Manufacturers must work with a notified body during the registration process to receive a technical review report (检测报告).
 
-Add a new section titled 'Notified Bodies (检验机构)' with text: 'For certain Class II and III devices, manufacturers must submit technical documentation and clinical data through NMPA-designated notified bodies. These independent testing organizations conduct technical reviews and safety assessments. Manufacturers must work with a notified body during the registration process to receive a technical review report (检测报告).'

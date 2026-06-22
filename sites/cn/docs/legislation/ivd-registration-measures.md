@@ -40,4 +40,3 @@ This measure establishes separate registration and filing procedures for in vitr
 ## Relationship to MDSAR 2021
 This measure implements Articles 10-43 of MDSAR 2021 (Chapter II), providing IVD-specific guidance on registration and filing with tailored requirements reflecting IVD regulatory classification.
 
-Add to Key Requirements: 'List A comprises low-risk IVDs established by NMPA; manufacturers should consult www.nmpa.gov.cn for the current official list and classification guidance. Devices not on List A follow standard Class II or III registration pathways.'

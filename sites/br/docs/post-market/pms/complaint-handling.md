@@ -24,6 +24,3 @@ Verify all information against official [ANVISA](https://www.gov.br/anvisa) sour
 
 Complaint investigations must be completed within 30 days for standard complaints; serious adverse events must be investigated urgently (within 24-48 hours of identification). All complaints classified as adverse events or technical complaints must be reported to NOTIVISA in accordance with RDC 753/2022.
 
-Add after the first paragraph: 'Complaint investigations must be completed within a specified timeframe (typically 30 days for standard complaints, or urgently for serious adverse events), and all complaints classified as adverse events or technical complaints must be reported to NOTIVISA in accordance with RDC 753/2022.'
-
-Add after the sentence about 30-day timeframe: "Serious adverse events that result in death or serious injury must be reported urgently to NOTIVISA, typically within 24-48 hours of becoming aware of the event."

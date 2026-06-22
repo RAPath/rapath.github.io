@@ -27,18 +27,3 @@ Send the FSN to all identified customers (hospitals, distributors, healthcare pr
 ## Step 5 — Effectiveness Check
 After implementation, conduct an effectiveness check to confirm the corrective action has been received and acted upon by customers. Document the results and report to Swissmedic in the follow-up report.
 
-
-Add after 'Be submitted to Swissmedic before or simultaneously with dispatch to customers': 'If an FSN is prepared after customer dispatch has commenced, notify Swissmedic immediately and provide justification for the delay. Swissmedic may require additional corrective measures if customer notification has been significantly delayed.'
-
-
-Step 2 clarification: Swissmedic notification must occur before or at the same time as the manufacturer begins dispatch of the Field Safety Notice to customers. If notification occurs after customer dispatch has started, the manufacturer must immediately notify Swissmedic and provide written justification for the delay.
-
-## Official Sources
-- [MedDO Art. 69–70 (SR 812.213)](https://www.fedlex.admin.ch/eli/cc/2021/205/en)
-- [Swissmedic — FSCA information](https://www.swissmedic.ch/swissmedic/en/home/medical-devices/market-surveillance/vigilance.html)
-
-:::warning Disclaimer
-AI-assisted content for navigation only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
-:::
-
-If an FSN is prepared after customer dispatch has commenced, notify Swissmedic immediately and provide justification for the delay. Swissmedic may require additional corrective measures if customer notification has been significantly delayed.

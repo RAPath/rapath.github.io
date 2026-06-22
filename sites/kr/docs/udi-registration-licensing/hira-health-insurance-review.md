@@ -28,4 +28,3 @@ Truly novel devices not fitting an existing reimbursement category must go throu
 ## Related pages
 - [National Health Insurance coverage and listing](./national-health-insurance-coverage)
 
-Add to the "HIRA assessment process" section: "Timeline Note: HIRA applications typically open after MFDS 품목허가 approval is published in the official gazette. Applicants should verify publication before submitting to HIRA. NHI listing is not mandatory for market access but is commercially essential for hospital sales in Korea."

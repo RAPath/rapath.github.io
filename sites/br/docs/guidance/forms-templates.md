@@ -44,6 +44,3 @@ Verify all information against official [ANVISA](https://www.gov.br/anvisa) sour
 
 The Technical File Index is mandatory and must be submitted with all Class III and IV device registrations. A template is available on the Peticionamento Eletrônico portal. The index must clearly map all dossier documents to the essential requirements checklist (RDC 751/2022 Annex II) and GMP requirements being addressed.
 
-Add to Key forms and templates section after 'Technical file index template' row: 'The Technical File Index is mandatory and must be submitted with all Class III and IV device registrations; a template is available on the ANVISA portal.'
-
-Quality Agreement template | For importers: defines quality responsibilities, GMP compliance verification, and communication procedures between importer and foreign manufacturer

@@ -26,17 +26,3 @@ Healthcare facilities that fail to report adverse events face ANVISA enforcement
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
 
-Add after the list of obligations:
-
-**How healthcare facilities report**
-
-Healthcare facilities must register on NOTIVISA and submit reports directly via the portal using their institutional CNPJ. Reports should be submitted by the institution's designated responsible person or quality/risk management representative. Many health facilities also report through their state-level VISA (health surveillance agency), which may forward reports to ANVISA; however, direct NOTIVISA submission is the primary required pathway.
-
-SNVS (Sistema Nacional de Vigilância Sanitária) Structure
-Brazil's three-tier surveillance system comprises:
-
-1. ANVISA (federal level) — sets policy and oversees nationwide surveillance;
-2. State VISA agencies — implement surveillance at state level;
-3. Municipal health authorities — conduct local monitoring and investigations.
-
-Healthcare facilities report to their local or state VISA, which coordinates with ANVISA on serious events and recalls.

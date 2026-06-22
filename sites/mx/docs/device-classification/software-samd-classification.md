@@ -47,4 +47,3 @@ Absent a dedicated SaMD classification rule, COFEPRIS applies the general three-
 - [AI/ML devices](../digital-health/ai-ml-devices)
 - [How classification works](how-classification-works)
 
-Add after 'Regulatory evolution' section: 'Review timelines: Standard route SaMD submissions typically receive COFEPRIS review decisions within 30–60 days; equivalency route submissions may be resolved within 30 working days if the foreign predicate device is approved by an IMDRF-recognised authority.'

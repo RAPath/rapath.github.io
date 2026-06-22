@@ -37,19 +37,3 @@ For Swiss market access, the ISO 13485 QMS scope should cover:
 
 If the manufacturer uses a contract manufacturer or outsources any quality-critical processes, the scope and supplier control processes must be documented in the QMS.
 
-
-Add under 'Scope Considerations for Switzerland' section: 'If a manufacturer produces devices in multiple locations or device classes with substantially different processes, the ISO 13485 certificate scope must clearly delineate which locations and device types are included. Some manufacturers maintain separate certificates for different sites or process categories. Verify with your certification body that the certificate scope fully covers all Swiss market activities.'
-
-
-Verify that your chosen ISO 13485 certification body's accreditation explicitly includes the medical device scope and that their accreditation body is recognised by Swiss regulatory authorities. SAS maintains a list of accredited certification bodies on its website; ensure the certification body is accredited for ISO 13485:2016 specifically.
-
-## Official Sources
-- [ISO 13485:2016](https://www.iso.org/standard/59752.html)
-- [SAS — Swiss accreditation body](https://www.sas.admin.ch)
-- [IAF — International Accreditation Forum](https://iaf.nu)
-
-:::warning Disclaimer
-AI-assisted navigation aid only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
-:::
-
-If a manufacturer produces devices in multiple locations or device classes with substantially different processes, the ISO 13485 certificate scope must clearly delineate which locations and device types are included. Some manufacturers maintain separate certificates for different sites or process categories. Verify with your certification body that the certificate scope fully covers all Swiss market activities.

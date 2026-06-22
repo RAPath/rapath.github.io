@@ -50,6 +50,3 @@ Always verify the current MHLW recognised standards list before selecting a stan
 
 "Transition periods: When MHLW designates a new edition of a standard, a transition period is typically provided allowing manufacturers to use either the old or new edition. The notification specifies the exact transition dates. Applications submitted during the transition period must clearly identify which edition of the standard was used in the certification package."
 
-Add to How standards are designated section: "Transition periods: When MHLW designates a new edition of a standard, a transition period is typically provided allowing manufacturers to use either the old or new edition. The notification specifies the exact transition dates. Applications submitted during the transition period must clearly identify which edition of the standard was used in the certification package."
-
-Removal or discontinuation of standards: If a standard is removed from the recognised standards list, MHLW typically provides a transition period. Devices certified under the removed standard may continue to be marketed, but new applications must use a current designated standard. Check MHLW notifications for any grandfathering provisions when a standard is discontinued.

@@ -52,15 +52,3 @@ For higher-risk devices, the SFDA expects a **PMCF plan** to be in place from th
 - [Post-Market Surveillance](../post-market/pms-psur)
 - [Special Access — Clinical Investigations](../special-access/clinical-investigations)
 
-Expand the 'Using foreign clinical data' section:
-
-Expand the 'Using foreign clinical data' section:
-
-**GHTF-member market clinical data**
-
-GHTF (Global Harmonization Task Force) member countries include the European Union, United States, Canada, Japan, and Australia. Clinical trial data from these jurisdictions is generally accepted by the SFDA provided that:
-- The trial population is representative of or bridgeable to the Saudi patient population
-- The trial protocol and methods meet international standards (ICH-GCP or equivalent)
-- The device intended use and indication are the same or substantially similar to the Saudi MDMA application
-
-Equivalence demonstration requirements: When claiming equivalence to a predicate device, manufacturers must provide: (1) identification of the predicate device with MDMA number or registration status in a recognized market; (2) documented evidence that the predicate shares the same intended use, device principles, and technical and biological characteristics; (3) justification for why differences between devices do not affect safety or performance; (4) clinical data supporting the equivalence claim. For Class C and D devices, simple equivalence claims may not be sufficient without additional clinical support.

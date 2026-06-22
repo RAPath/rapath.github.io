@@ -42,6 +42,3 @@ A granted De Novo order:
 - [FDA — De Novo Classification Process](https://www.fda.gov/medical-devices/premarket-submissions-selecting-and-preparing-correct-submission/de-novo-classification-request)
 - [De Novo Database](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm)
 
-Add a paragraph to the 'What De Novo produces' section:
-
-**Marketing Authorization:** Upon De Novo approval, the device type receives marketing authorization. There is no requirement to conduct additional 510(k) submissions or PMAs for devices of that exact type. However, significant modifications or new technological features may require a new submission. The De Novo order is effective immediately upon issuance.

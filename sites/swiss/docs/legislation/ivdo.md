@@ -23,19 +23,3 @@ IVDO parallels MedDO in structure but applies IVD-specific definitions, classifi
 | PMCF equivalent | PMCF plan and report | PMPF plan and report |
 | PSUR frequency | Annual (IIb/III) / biennial (IIa) | Annual (List A/B) / biennial |
 
-
-Add to the Overview section after 'IVDO and MedDO are parallel and mutually exclusive ordinances.':
-
-IVDO requirements align closely with EU IVDR 2017/746 in scope, classification, and technical requirements. In-vitro diagnostic devices (IVDs) placed on the Swiss market must comply with IVDO; devices CE-marked under EU IVDR can generally access the Swiss market if IVDO requirements are met, subject to the current status of the CH–EU MRA Chapter 4. For transitional provisions and timelines for devices previously authorised under older Swiss IVD regulations, consult IVDO Chapter 10 and Swissmedic guidance.
-
-## Official Sources
-- [IVDO (SR 812.219) — Fedlex (EN)](https://www.fedlex.admin.ch/eli/cc/2022/103/en)
-
-
-:::warning Disclaimer
-AI-assisted content for navigation only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
-:::
-
-## IVDO and MedDO are parallel and mutually exclusive ordinances.
-
-IVDO requirements align closely with EU IVDR 2017/746 in scope, classification, and technical requirements. In-vitro diagnostic devices (IVDs) placed on the Swiss market must comply with IVDO; devices CE-marked under EU IVDR can generally access the Swiss market if IVDO requirements are met, subject to the current status of the CH–EU MRA Chapter 4. For transitional provisions and timelines for devices previously authorised under older Swiss IVD regulations, consult IVDO Chapter 10 and Swissmedic guidance.

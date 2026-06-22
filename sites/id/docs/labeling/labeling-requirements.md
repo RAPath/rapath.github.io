@@ -70,4 +70,3 @@ After the NIE is issued, the **NIE number must be incorporated into all product 
 
 Kemenkes conducts market sampling to verify that the label on products in hospitals and pharmacies matches the approved label in Regalkes.
 
-Update the 'Single use statement' row in the Mandatory Label Elements table to read: 'If applicable: "FOR SINGLE USE ONLY" / "Sekali Pakai" or "Hanya untuk Penggunaan Sekali Pakai" (approved Indonesian equivalents)'

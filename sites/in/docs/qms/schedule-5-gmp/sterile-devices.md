@@ -13,4 +13,3 @@ Schedule 5 Part I applies to all manufacturers (Class A–D). Schedule 5 Part II
 
 > **Official source:** Medical Devices Rules 2017, Schedule 5
 
-Add a section detailing specific requirements such as: environmental monitoring procedures for clean rooms, sterilization method validation (steam, EtO, radiation, filtration), sterility testing requirements and acceptance criteria, pyrogenicity testing, biocompatibility testing for bioburden, environmental controls and classification standards, personnel training for aseptic handling, and documentation of sterilization records. Include specific Schedule 5 Part II references.

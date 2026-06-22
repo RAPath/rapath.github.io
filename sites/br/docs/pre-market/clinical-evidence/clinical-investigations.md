@@ -30,4 +30,3 @@ Verify all information against official [ANVISA](https://www.gov.br/anvisa) sour
 
 "Investigational device classification: Devices under clinical investigation may be exempted from standard registration requirements while the investigation is ongoing, provided all RDC 10/2015 requirements are met."
 
-Add after GCP compliance row: "Investigational device classification: Devices under clinical investigation may be exempted from standard registration requirements while the investigation is ongoing, provided all RDC 10/2015 requirements are met."

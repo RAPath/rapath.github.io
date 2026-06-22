@@ -36,4 +36,3 @@ All design changes must be reviewed, verified, and validated before implementati
 
 For devices with user-facing interfaces or where user actions directly affect device safety or performance, formal usability engineering (human factors) evaluation is required as part of design validation. This evaluation must address both normal use and foreseeable misuse scenarios, with particular attention to instructions for use (IFU) clarity and user error potential.
 
-Add after 'Design changes' section: 'All design inputs, outputs, reviews, verifications, validations, and change records must be compiled in a Design History File (DHF) maintained by the manufacturer and available for PMDA inspection.'

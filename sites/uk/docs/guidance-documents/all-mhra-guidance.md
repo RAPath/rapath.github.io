@@ -85,32 +85,3 @@ Published device alerts, field safety notices, and MHRA-issued safety communicat
 | MHRA Submissions portal | submissions.mhra.gov.uk |
 | MHRA Yellow Card | yellowcard.mhra.gov.uk |
 
-Under the 'Essential Requirements and conformity' section, add:
-
-| Quality Management Systems (QMS) | QMS requirements under UK MDR 2002; ISO 13485 application; QMS audit scope and frequency |
-
-Under the 'Post-market' section, add:
-
-| Periodic Safety Update Reports (PSURs) | PSUR requirements by device class; content, frequency, and UKAB submission |
-
-Under the 'Registration and UKCA' section, add:
-
-| UK Declaration of Conformity | Content requirements; signing authority; differences from EU DoC; lifecycle maintenance |
-
-Under the 'Post-market' section, add:
-
-| Field Safety Corrective Actions and Notices | FSCA decision criteria; FSN content and distribution; MHRA review requirements |
-
-Under the 'Device-type specific' section, add:
-
-| Software as a Medical Device (SaMD) and AI/ML | Technical documentation for SaMD; AI Change Programme requirements; validation and testing |
-
-Under the 'Registration and UKCA' section, add:
-
-| Unique Device Identification (UDI) | UK UDI requirements; DI and PI structure; MHRA implementation timeline; relationship to EU UDI |
-
-Under the 'Essential Requirements and conformity' section, add:
-
-| Labelling and advertising requirements | Labelling obligations under Essential Requirement 18; permitted and prohibited claims; advertising rules |
-
-| Unique Device Identification (UDI) | UDI structure and requirements; MHRA UDI implementation timeline; DI and PI components |

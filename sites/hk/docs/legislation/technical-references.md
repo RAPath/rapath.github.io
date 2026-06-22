@@ -31,6 +31,3 @@ All TRs and GNs are published on the MDD official website. Always use the curren
 
 Note: This list reflects the current published TR series as of the content review date. The MDD may issue additional Technical References or updates. Always verify against the official MDD website (www.mdd.gov.hk) for the most current versions and any newly published TRs. Check the MDD website at least quarterly or subscribe to MDD notifications to stay informed of amendments or new guidance.
 
-Add a note: 'Note: This list reflects the current published TR series as of the content review date. The MDD may issue additional Technical References or updates. Always verify against the official MDD website (www.mdd.gov.hk) for the most current versions and any newly published TRs.'
-
-Consider adding: 'Subscribe to MDD announcements or check the official MDD website quarterly to stay informed of new TR publications or amendments. RAPath will update this page when new TRs are published, but always verify the official source for the most current versions.'

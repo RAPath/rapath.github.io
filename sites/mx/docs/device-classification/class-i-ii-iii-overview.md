@@ -87,6 +87,3 @@ description: Detailed overview of Mexico's three medical device risk classes, th
 - [Standard Registration Route](../premarket/standard-route)
 - [Equivalency Route](../premarket/equivalency-route)
 
-Replace 'MXN fees for Class II (check current COFEPRIS fee schedule).' with a specific fee reference or note directing users to the Fees & Fee Calculator Reference page. Example: 'MXN 24,749 (~USD 1,395) — verify current fee via the annual Ley Federal de Derechos in the DOF (see Fees & Fee Calculator Reference).'
-
-Replace the line 'MXN fees for Class II (check current COFEPRIS fee schedule).' with: 'MXN 24,749 (~USD 1,395) — verify current fee via the annual Ley Federal de Derechos in the DOF (see Fees & Fee Calculator Reference).'

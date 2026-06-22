@@ -34,4 +34,3 @@ Report format and submission technical requirements
 
 Reports must be submitted in Japanese and in a format specified by PMDA (typically PDF or PMDA's designated electronic format). The PMDA electronic gateway requires specific metadata, file naming conventions, and document structure. Contact PMDA's regulatory affairs division for current technical specifications before preparing reports for submission.
 
-Add to the 'Timelines and submission process' section after the paragraph about PMDA electronic gateway: "Note: The submission process described applies to Shonin-approved devices. For Ninsho-certified devices, periodic safety reports are submitted to the responsible Registered Conformity Assessment Body (RCB), not directly to PMDA. Confirm the correct submission entity and contact details with your RCB or PMDA before preparing reports."

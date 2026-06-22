@@ -23,4 +23,3 @@ Verify all information against official [ANVISA](https://www.gov.br/anvisa) sour
 
 Custom-made devices are exempt from standard Registro or Notificação filing requirements; however, this exemption does not waive GMP, AFE, adverse event reporting, or post-market surveillance obligations.
 
-Add after the definition paragraph: 'Custom-made devices are exempt from standard Registro or Notificação filing requirements; however, this exemption does not waive GMP, AFE, adverse event reporting, or post-market surveillance obligations.'

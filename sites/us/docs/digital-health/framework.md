@@ -21,8 +21,3 @@ The **Digital Health Center of Excellence (DHCoE)** is FDA's hub for software an
 ## Official resources
 - [FDA — Digital Health Center of Excellence](https://www.fda.gov/medical-devices/digital-health-center-excellence)
 
-Add rows to the Core framework documents table:
-
-Document | Year | Status
-Software Functions Guidance | 2023 | ✅ Finalised (2023)
-CDS Software Guidance | 2022 | ✅ Finalised (2022)

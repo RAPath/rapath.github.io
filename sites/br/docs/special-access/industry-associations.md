@@ -42,4 +42,3 @@ SINDIMED represents the interests of the medical device industry in labour and i
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
 
-Remove the reference to SBCTA as a health tech association. Instead, add: 'ABIIS (Associação Brasileira da Indústria de Dispositivos Médicos) — represents in vitro diagnostics and medical device manufacturers. ABRIFIBRA (Associação Brasileira de Infraestrutura para a Pesquisa Clínica) — represents clinical research organisations and providers.'

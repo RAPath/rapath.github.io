@@ -16,13 +16,3 @@ For devices incorporating a medicinal substance, Swissmedic may consult its drug
 ## Examples
 Drug-eluting stents (paclitaxel, sirolimus), antibiotic-impregnated bone cement, heparin-coated catheters, silver-containing wound dressings (where silver acts ancillarily).
 
-Expand the 'Swissmedic Drug Division Consultation' section to include: 'Scientific opinion from Swissmedic's drug division is required for all devices with ancillary medicinal substances. The consultation is coordinated through the NB or directly by the manufacturer. Swissmedic typically provides a scientific opinion within 60–90 days of receipt of a complete request.'
-
-## Official Sources
-- [MedDO Rule 14 and Annex I Ch. II §14 (SR 812.213)](https://www.fedlex.admin.ch/eli/cc/2021/205/en)
-
-:::warning Disclaimer
-AI-assisted content for navigation only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
-:::
-
-Manufacturers should submit a request for scientific opinion early in development, ideally before final conformity assessment documentation is completed. The request should include: detailed characterisation of the medicinal substance; quality data; pharmacology and toxicology summary; intended clinical use and benefit-risk assessment. Swissmedic typically provides the opinion within a defined timeframe as part of the overall registration assessment.

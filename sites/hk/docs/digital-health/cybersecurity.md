@@ -32,4 +32,3 @@ The MDD expects cybersecurity risks to be addressed within the risk management p
 | IMDRF N60 | Cybersecurity guidance |
 | NIST Cybersecurity Framework | General cybersecurity framework |
 
-Add after the 'Relevant Standards and Guidance' table: 'Note: While Hong Kong does not have jurisdiction-specific cybersecurity guidance, the MDD expects manufacturers to apply international standards (IEC 81001-5-1, IMDRF N60) within the ISO 14971 risk management framework and to demonstrate cybersecurity controls proportionate to the device risk class during pre-market review.'

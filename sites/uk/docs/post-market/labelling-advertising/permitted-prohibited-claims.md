@@ -88,16 +88,3 @@ Comparative claims in advertising must comply with both UK MDR 2002 and ASA (Adv
 
 Expert and healthcare professional claims: Claims attributed to healthcare professionals or clinical experts must be: (1) made by individuals with genuine expertise in the relevant field; (2) substantiated by the same evidence standards as manufacturer claims; (3) clearly identified as expert opinion rather than clinical data; (4) not presented as clinical proof if based only on personal experience or case series. Testimonials from healthcare professionals are subject to the same ASA rules as patient testimonials.
 
-Add to the Comparison claims row: 'Competitor device names should not be used unless they are the actual registered/established name; visual comparisons must not distort relative performance through scale manipulation or selective data presentation. Comparative claims in advertising are subject to ASA substantiation rules in addition to UK MDR 2002.'
-
-Add new section: 'Expert and healthcare professional claims: Claims attributed to healthcare professionals or clinical experts must be: (1) made by individuals with genuine expertise in the relevant field; (2) substantiated by the same evidence standards as manufacturer claims; (3) clearly identified as expert opinion rather than clinical data; (4) not presented as clinical proof if based only on personal experience or case series. Testimonials from healthcare professionals are subject to the same ASA rules as patient testimonials.'
-
-Expert and healthcare professional claims
-
-Claims attributed to healthcare professionals or experts must:
-- Be based on the genuine, substantiated views of the individual named
-- Not be misleading about the nature or basis of the professional's experience
-- Include appropriate disclaimers where the professional has a financial interest in the device
-- Comply with ASA rules on expert endorsements
-
-A device manufacturer cannot attribute claims to a healthcare professional without their informed consent and evidence that the claim reflects their actual professional opinion.

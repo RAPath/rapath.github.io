@@ -38,6 +38,3 @@ Most overseas manufacturers entering Japan:
 
 FMR is required for overseas manufacturers of finished devices. Suppliers of components or raw materials to domestic manufacturers may have different requirements; verify with PMDA.
 
-Add after 'Foreign Manufacturer Registration (外国製造業者認定 — gaikoku seizō gyōsha ninte) is a registration (not a licence) that allows an overseas manufacturing facility to supply finished devices to Japan via a Japan-based MAH.': 'FMR is required for overseas manufacturers of finished devices. Suppliers of components or raw materials to domestic manufacturers may have different requirements; verify with PMDA.'
-
-Add clarification: 'FMR is typically applied for as a parallel step during the Shonin or Ninsho application process. The MAH submits the FMR form and supporting QMS documentation (including the overseas manufacturer's facility information and MO 169 compliance evidence) along with or shortly before the technical dossier. MHLW will not issue the Shonin/Ninsho until FMR approval is confirmed, so both processes should be coordinated to avoid delays.'

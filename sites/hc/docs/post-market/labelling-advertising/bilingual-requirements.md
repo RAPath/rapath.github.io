@@ -39,14 +39,3 @@ If bilingual labels are updated after licence issuance, assess whether the updat
 
 Foreign manufacturers should prioritize bilingual label development early in the regulatory process. Health Canada does not provide grace periods for English-only submissions; incomplete bilingual labelling will result in a Screening Deficiency Notice and clock suspension from the date of submission.
 
-Add after 'Device Licence application' section: 'Foreign manufacturers should prioritize bilingual label development early in the regulatory process. Health Canada does not provide grace periods for English-only submissions; incomplete bilingual labelling will result in a Screening Deficiency Notice and clock suspension from the date of submission.'
-
-Complete the bilingual requirements table:
-
-Indications for use	Yes
-Warnings and contraindications	Yes
-Instructions for Use (IFU)	Yes
-Package inserts	Yes
-Device description	Yes
-Safety information	Yes
-Contact information	Yes (all elements must be bilingual, including name and full address)

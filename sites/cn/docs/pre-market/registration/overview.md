@@ -59,4 +59,3 @@ Content on this site is written with AI assistance and is intended as a navigati
 
 Key distinction: Although Class I domestic devices are filed with local district/county authorities, Class I imported devices bypass local authorities entirely and must be filed directly with National NMPA. This is a critical difference in workflow and submission requirements despite both being classified as "filing" pathways. See Imported Device Registration for details.
 
-Add a footnote after the 'Pathway by class' table: 'Note: Although Class I domestic devices are filed with local district/county authorities, Class I imported devices must be filed with national NMPA, creating a different workflow despite both being classified as "filing" pathways.'

@@ -68,4 +68,3 @@ If NMPA issues a rejection decision, the applicant may request a **technical re-
 Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [NMPA](https://www.nmpa.gov.cn/) sources before making regulatory decisions. Not affiliated with NMPA or any Chinese Government body. Not legal or regulatory advice.
 :::
 
-Add after the diagram: 'Note: The review timeline applies to both Class III domestic and imported devices. For imported Class III devices, NMPA may also conduct or request overseas GMP inspection reports, which may extend the overall timeline beyond the 60 working day review period.'

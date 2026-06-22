@@ -49,12 +49,3 @@ In individual cases where a patient with a life-threatening or serious condition
 | ISO 14155:2020 | GCP for clinical investigations |
 | MHRA: Clinical investigations guidance | MHRA clinical investigation guidance |
 
-Expand the 'MHRA notification' bullet point to clarify:
-
-MHRA notification — submit a notification to MHRA before the investigation begins (for most pre-market investigations of unmarked devices). The notification should include:
-• Protocol summary (objectives, design, patient population)
-• Investigator qualifications and ethics committee approval reference
-• Preliminary safety and performance data
-• Device description and labelling (investigational marking)
-• Risk assessment relevant to the investigational use
-MHRA typically issues confirmation within 10 working days (or may request additional information). Investigations must not commence until MHRA confirmation is received.

@@ -97,10 +97,3 @@ Adverse events involving devices accessed under SAS must still be reported to th
 
 ---
 
-Complete the final section with proper navigation: '👉 Special Access Scheme — TGA\n👉 SAS Category B application — TGA\n👉 SAS Category C — TGA'
-
-## Related Pages
-
-- [Authorised Prescribers](./authorised-prescribers.md)
-- [Clinical Trial Pathways](./clinical-trial-pathways.md)
-- [Personal Importation](./personal-importation.md)

@@ -49,4 +49,3 @@ Submission Timeline and Pathways
 
 The SFDA reviews SaMD applications through the standard MDMA pathway via GHAD. Standard review timelines typically range from 3–12 months depending on device complexity and classification. No expedited or accelerated pathways are currently available for SaMD. Manufacturers should budget for substantive pre-market review, particularly for Class C and D devices.
 
-Add a clear section heading before the timeline paragraph: '## Submission Timeline and Review Pathways\n\nThe SFDA reviews SaMD applications through the standard MDMA pathway via GHAD. Standard review timelines typically range from 3–12 months depending on device complexity and classification. No expedited or accelerated pathways are currently available for SaMD. Manufacturers should budget for substantive pre-market review, particularly for Class C and D devices.'

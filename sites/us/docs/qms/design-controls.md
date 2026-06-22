@@ -31,22 +31,3 @@ The DHF is a primary target during FDA 510(k) review and facility inspections.
 
 For Class I devices, design controls apply only if the device is intended for a use that is of substantial importance in preventing impairment of human health or presents a potential unreasonable risk. Examples include Class I pacemakers and critical diagnostic devices used for patient monitoring. Most Class I devices exempt from 510(k) notification are also exempt from design control requirements, though they remain subject to CAPA, complaint handling, and MDR procedures.
 
-Add under 'Who must have design controls?': 'For Class I devices, design controls apply only if the device is intended for a use that is of substantial importance in preventing impairment of human health or presents a potential unreasonable risk. Examples include Class I pacemakers or critical diagnostic devices. Most Class I devices are exempt from design control requirements.'
-
-After the 'Design inputs' section, add: Design Output
-Design output requirements that address design input requirements and form the basis for device specifications.
-
-Design Review
-Documented, comprehensive, systematic examination of a design to evaluate adequacy and identify problems. Design reviews must occur at appropriate stages of device development and include representatives from all affected functions.
-
-Design Verification
-Establishment of objective evidence that design output meets design input requirements through analysis, demonstration, inspection, or testing.
-
-Design Validation
-Establishment of objective evidence that device specifications conform to defined user needs and intended uses. Design validation must include actual use data or simulated use conditions.
-
-Design Change
-Modifications to a device design after design verification and validation. All design changes must be documented, reviewed, and approved before implementation, with verification or validation as appropriate.
-
-Design Transfer
-Ensuring that device design is correctly translated into production specifications and manufacturing processes. Design transfer must verify that manufacturing can consistently produce devices meeting design specifications.

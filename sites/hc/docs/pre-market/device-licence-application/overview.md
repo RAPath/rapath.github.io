@@ -90,12 +90,3 @@ Class I devices — Post-market obligations
 
 Although Class I devices do not require pre-market Device Licence approval, manufacturers must comply with post-market obligations including adverse event reporting, recall procedures, and Medical Device Establishment Licence (MDEL) requirements if manufacturing or importing the device. Class I devices are subject to inspection and enforcement action if safety issues are identified.
 
-Add a new subsection after 'Who must apply': 'Exemptions and expedited pathways
-
-Health Canada may provide expedited review or exemptions from certain requirements for:
-- Devices designated as breakthrough technologies
-- Post-market Surveillance Devices (PMSDs) under specific conditions
-- Devices identical to previously licensed devices
-- Certain combination products where the device component is demonstrated to be safe and effective
-
-Manufacturers seeking expedited review or exemptions should contact Health Canada's Medical Devices Directorate early in the development process.'

@@ -134,4 +134,3 @@ Clinical investigation data from investigations conducted in the UK, the EU, or 
 | HRA: Research Ethics | NHS REC process for medical device studies |
 | ICH E6(R2) | Good Clinical Practice guidelines (applied to device investigations) |
 
-Complete the conduct section with guidance on: completion of investigation, data analysis, statistical reporting, final report preparation, and submission to MHRA. Include reference to MHRA clinical investigation guidance document.

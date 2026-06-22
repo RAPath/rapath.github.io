@@ -46,8 +46,3 @@ GUDID submissions must be completed before the device is commercially distribute
 
 GUDID submissions must be completed before the device is commercially distributed or marketed in the United States. Failure to submit required information to GUDID before marketing can result in warning letters and enforcement action.
 
-Add the following paragraph after the 'What must be submitted to GUDID' section:
-
-Timing of GUDID submission
-
-GUDID submission must be completed before the device is commercially distributed in the United States. For devices requiring premarket review (510(k), PMA, or De Novo), GUDID submission should occur before or concurrently with premarket submission to avoid delays in market entry. Devices already in commercial distribution prior to UDI compliance dates must submit to GUDID by their respective compliance deadline (Class III by September 24, 2014; Class II by September 24, 2016; Class I by September 24, 2018).

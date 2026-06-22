@@ -63,4 +63,3 @@ MHRA applies reduced fees for manufacturers that qualify as SMEs under UK Govern
 
 MHRA typically provides notice of upcoming fee deadlines. If payment is not received by the deadline, the manufacturer should contact MHRA immediately to discuss payment options or request a payment arrangement. Continued non-payment without contact may result in automatic suspension of registrations without further notice. Once suspended, devices cannot legally remain on the GB market and the suspension will be recorded in the MHRA public register.
 
-Add to Consequences of non-payment section: 'MHRA typically provides notice of upcoming fees and a deadline for payment. If payment is not received by the deadline, the manufacturer should contact MHRA immediately to discuss payment options. Continued non-payment without contact may result in automatic suspension without further warning.'

@@ -71,4 +71,3 @@ See [eSTAR Templates](/docs/guidance/estar-templates) for more detail.
 
 Note: When submitting via eSTAR, the Indications for Use information is captured within the eSTAR template itself. FDA Form 3881 as a standalone document is no longer required for eSTAR submissions, though the required content elements remain the same.
 
-Add this sentence to the end of the 'Device description' row in the Required elements table: "Note: When submitting via eSTAR, the Indications for Use information is captured within the eSTAR template itself; FDA Form 3881 as a standalone document is not required."

@@ -84,6 +84,3 @@ See [Singapore vs TGA / FDA / CE / Health Canada](../../international/sg-vs-othe
 - [HSA: Registration overview — overseas reference agencies](https://www.hsa.gov.sg/medical-devices/registration/overview)
 - [HSA: Registration and licensing requirements tool](https://www.hsa.gov.sg/medical-devices/registration/requirements)
 
-Complete the final strategic implications bullet point: "Japan-first for Class D implants: MHLW Shonin for active implantables, combined with another reference agency approval, can satisfy EDR conditions for faster market entry."
-
-Japan-first for Class B devices seeking abridged or expedited routes can be combined with one additional reference agency approval to unlock EDR or ECR pathways.

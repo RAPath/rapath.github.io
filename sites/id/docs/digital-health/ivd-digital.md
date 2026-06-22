@@ -48,4 +48,3 @@ Network-connected IVD platforms must address cybersecurity risks — data integr
 
 Medical data processed by IVD digital platforms is subject to Indonesia's **Personal Data Protection Law** (Undang-Undang Perlindungan Data Pribadi — UU PDP), which came into force in 2024. Data localisation and patient consent requirements may interact with cloud-hosted IVD platform architectures.
 
-Replace the self-referential see reference with: 'For AI/ML systems used with non-IVD devices (e.g., image analysis software used with imaging hardware), refer to SaMD Overview for general SaMD classification principles.'

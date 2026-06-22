@@ -65,6 +65,3 @@ Key UKABs designated by MHRA include:
 
 Note: The UKABs listed below are examples only. MHRA's designated list is the authoritative source for all currently designated bodies. New designations and withdrawals occur regularly. Always consult the official MHRA list at gov.uk/government/publications/approved-bodies-for-medical-devices for the complete and current list before selecting a UKAB.
 
-Add a note immediately after the 'Current UK Approved Bodies' heading: 'Note: The UKABs listed below are examples only. MHRA's designated list is the authoritative source for all currently designated bodies. New designations and withdrawals occur regularly. Always consult the official MHRA list at gov.uk/government/publications/approved-bodies-for-medical-devices for the complete and current list before selecting a UKAB.'
-
-Add after the 'Current UK Approved Bodies' heading: 'As of May 2026, MHRA has designated [X] UK Approved Bodies. The list below shows examples of larger, multi-scope bodies; however, the complete and current list is available at gov.uk/government/publications/approved-bodies-for-medical-devices.'

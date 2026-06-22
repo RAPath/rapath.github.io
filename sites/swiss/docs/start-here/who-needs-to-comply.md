@@ -38,4 +38,3 @@ Mandatory for non-Swiss manufacturers. Performs or assists with Swissmedic regis
 Content is AI-assisted and intended as a navigation aid only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
 :::
 
-Expand the 'Swiss Authorised Representative (CH REP)' section: "CH REPs are jointly and severally liable with manufacturers for regulatory compliance, including technical documentation accuracy, vigilance reporting, and FSCA implementation. Swissmedic can pursue enforcement action against either the manufacturer or CH REP independently."

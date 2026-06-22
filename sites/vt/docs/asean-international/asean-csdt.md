@@ -55,14 +55,8 @@ Request the current CSDT template version from your Authorised Representative to
 The CSDT is periodically updated by the ASEAN MDPWG. Confirm with your Authorised Representative that you are using the version currently accepted by DAV.
 :::
 
-Expected review period: 30 days for Type C (routine); 45 days for Type D (higher risk). Resubmission timelines for deficiency letters: 30 days from notification date. Check the DMEC portal for current processing times and any backlog notices.
+## Submission Timelines & Review Process
 
-See DAV Circular [number] dated [date] on CSDT submission requirements for Type C/D applications, or confirm current version acceptance via your Authorised Representative.
+Expected review period: **30 days** for Type C; **45 days** for Type D. Resubmission timelines for deficiency letters are typically 30 days from the notification date. Check the DMEC portal for current processing times and any backlog notices.
 
-Add a new section titled 'Submission Timelines & Review Process' with content such as: 'Expected review period: [X] days for Type C; [X] days for Type D. Resubmission timelines for deficiency letters: [X] days from notification. Check the DMEC portal for current processing times and any backlog notices.'
-
-Add footnote or reference: 'See DAV Circular [number] dated [date] on CSDT submission requirements for Type C/D applications, or confirm current version acceptance via your Authorised Representative.'
-
-Expected review period: 30 days for Type C; 45 days for Type D. Resubmission timelines for deficiency letters: 30 days from notification. Check the DMEC portal for current processing times and any backlog notices.
-
-See DAV Circular 17/2023/TT-BYT dated 30 September 2023 on CSDT submission requirements for Type C/D applications, or confirm current version acceptance via your Authorised Representative.
+DAV Circular 17/2023/TT-BYT (30 September 2023) provides the current CSDT submission requirements for Type C/D applications. Confirm the accepted version with your Authorised Representative before submitting.

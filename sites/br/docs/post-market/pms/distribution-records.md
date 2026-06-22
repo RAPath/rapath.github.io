@@ -26,6 +26,3 @@ Verify all information against official [ANVISA](https://www.gov.br/anvisa) sour
 
 Distribution records are required under RDC 752/2022 (GMP) and RDC 751/2022 (PMS) and are essential for product traceability and post-market surveillance.
 
-Add at the beginning: 'Distribution records are required under RDC 752/2022 (GMP) and RDC 751/2022 (PMS) and are essential for product traceability and post-market surveillance.'
-
-Add clarification: "For implantable devices, records must be retained for the expected lifetime of the device plus an additional 2 years. For non-implantable devices, retention is typically 5 years from distribution date."

@@ -78,12 +78,3 @@ SKI — Per-Shipment Import Permit
 
 Even with BPOM and ethics committee approval, each shipment of investigational devices into Indonesia requires a separate SKI (Surat Keterangan Impor — Import Permit/Certificate) from Kemenkes. Note: Verify the issuing agency (Kemenkes, Directorate of Medical Devices) during application, as procedures may vary by region. (Ministry of Health). The SKI is tied to the specific shipment, lot numbers, and quantities. Plan for this administrative step in your clinical supply chain timeline.
 
-Add after 'Ethics committee review typically runs in parallel with BPOM review. Both approvals are required before import.':
-
-Estimated Review Timeline
-
-The combined BPOM and ethics committee review typically takes 4–8 weeks from complete submission, though timelines vary based on study complexity, completeness of the application, and ethics committee capacity. Plan accordingly in your clinical supply chain timeline.
-
-Remove the line 'Revise the SKI section as follows:' and replace the entire SKI — Per-Shipment Import Permit section with: 'SKI — Per-Shipment Import Permit
-
-Even with BPOM and ethics committee approval, each shipment of investigational devices into Indonesia requires a separate SKI (Surat Keterangan Impor — Import Permit/Certificate) from Kemenkes (Ministry of Health). Note: Verify the issuing agency (Kemenkes, Directorate of Medical Devices) during application, as procedures may vary by region. The SKI is tied to the specific shipment, lot numbers, and quantities. Plan for this administrative step in your clinical supply chain timeline.'

@@ -32,6 +32,3 @@ Bilingual (Korean + English) is permitted, but Korean must be present and equall
 
 "Complete Korean-language Instructions for Use (IFU) or package insert with equivalent prominence and accessibility as original language versions"
 
-Add to the mandatory label elements section: "Complete Korean-language Instructions for Use (IFU) or package insert with equivalent prominence and accessibility as original language versions"
-
-Replace 'all medical device labelling must be in Korean (한국어). Devices without and Instructions for Use complete Korean-language labelling or imported into may not be supplied in Korea.' with: 'All medical device labelling must be in Korean (한국어). Devices without complete Korean-language labelling and Instructions for Use may not be supplied in Korea.'

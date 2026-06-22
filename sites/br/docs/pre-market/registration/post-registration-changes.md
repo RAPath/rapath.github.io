@@ -21,6 +21,3 @@ Verify all information against official [ANVISA](https://www.gov.br/anvisa) sour
 
 Note: Manufacturing site changes are classified as major changes only for Class III and Class IV devices. For Class I and II devices, manufacturing site changes may follow different procedures — confirm current requirements with ANVISA.
 
-Add a clarifying note: 'Note: Manufacturing site changes are classified as major changes only for Class III and Class IV devices. For Class I and II devices, manufacturing site changes may follow different procedures — confirm current requirements with ANVISA.'
-
-A Change Request (Petição de Alteração) must be submitted whenever there is an intention to modify the registered device, its manufacturing process, or labelling/instructions for use. Changes are assessed at the time of submission to determine if they are classified as major or minor. Notify ANVISA before implementing major changes; implement minor changes and notify ANVISA within the specified timeframe.

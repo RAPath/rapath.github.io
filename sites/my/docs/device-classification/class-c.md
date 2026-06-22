@@ -72,4 +72,3 @@ MDA scrutinises clinical evidence for Class C devices carefully. Insufficient, o
 
 ISO 13485 QMS certificate from a recognised certification body is required. MDSAP certificates may supplement but typically do not replace ISO 13485 certification for Class C devices due to the enhanced conformity assessment requirements. Confirm acceptance of MDSAP via pre-submission query if intended as primary QMS evidence.
 
-Add clarification to the Conformity Assessment section: 'MDA's acceptance of MDSAP as a supplement to or substitute for ISO 13485 is discretionary and depends on audit scope and outcome. For Class C devices, manufacturers should contact MDA via pre-submission query before relying primarily on MDSAP rather than ISO 13485 certification, as enhanced conformity assessment requirements may necessitate a full ISO 13485 certificate.'

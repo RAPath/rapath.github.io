@@ -87,18 +87,3 @@ The TGA monitors advertising compliance and handles complaints from the public, 
 
 The final section 'Who Can Advertise a Medical Device' is incomplete, ending with 'Only ARTG-included medical devices (or devices covered by a specific exemption) can be a'. This sentence should be completed.
 
-Add clarification: 'Restricted representations in advertising directed exclusively to health professionals may have different approval requirements. Sponsors should contact the TGA for guidance on restricted representations intended only for health professional audiences.'
-
-## Official Sources
-
-- [Therapeutic Goods Advertising Code 2021](https://www.tga.gov.au/resources/legislation/therapeutic-goods-therapeutic-goods-advertising-code-instrument-2021)
-- [Applying the Advertising Code — TGA](https://www.tga.gov.au/products/regulations-all-products/advertising/applying-advertising-code)
-- [Advertising legal framework — TGA](https://www.tga.gov.au/products/regulations-all-products/advertising/advertising-legal-framework)
-- [Labelling and advertising for medical devices — TGA](https://www.tga.gov.au/products/medical-devices/labelling-and-advertising)
-
----
-
-## Related Pages
-
-- [Labelling Requirements](./labelling-requirements.md)
-- [Permitted & Prohibited Claims](./permitted-and-prohibited-claims.md)

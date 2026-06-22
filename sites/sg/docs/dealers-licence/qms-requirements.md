@@ -40,13 +40,23 @@ For manufacturers, the QMS scope extends to design and development, production, 
 
 Before a dealer's licence can be issued, an **HSA-recognised Medical Device Auditor** must assess the applicant's QMS and confirm it meets the applicable requirements. The audit report is submitted as part of the licence application. See [Medical Device Auditors](./medical-device-auditors.md).
 
-## Official sources
+## Risk Class Considerations
+
+The complexity and extent of QMS documentation scales with the risk classification of devices handled:
+
+| Device Class | QMS Certification Requirement |
+|---|---|
+| **Class A** | Declaration of Conformity to ISO 13485 may be submitted in lieu of third-party certification |
+| **Class B, C, D** | ISO 13485 certification from an SAC-accredited Conformity Assessment Body (CAB) or MDSAP audit is required |
+
+:::note Change from January 2025
+From **1 January 2025**, only ISO 13485 certificates issued by **SAC-accredited CABs** or through **MDSAP** are accepted for manufacturer's licence applications with HSA. Certificates from non-SAC-accredited bodies are no longer accepted for new applications.
+:::
+
+Dealers should discuss scope with their HSA-recognised auditor to ensure the QMS is proportionate but comprehensive. HSA's core QMS requirements — documented procedures, internal audit, CAPA, and complaint handling — apply regardless of device class.
+
+## Official Sources
 
 - [HSA: QMS for Medical Devices](https://www.hsa.gov.sg/medical-devices/dealers-licence/quality-management-system-(qms)-for-medical-devices)
 - [HSA: Medical Device Auditors](https://www.hsa.gov.sg/medical-devices/dealers-licence/medical-device-auditors)
-
-Add to the QMS scope section:
-
-**Risk class considerations**
-
-The complexity and extent of QMS documentation may scale with the risk classification of devices handled. Dealers handling only Class A devices may maintain a simpler QMS than those handling Class C devices. However, HSA's core QMS requirements (documented procedures, internal audit, CAPA, complaint handling) apply regardless of class. Dealers should discuss scope with their HSA-recognised auditor to ensure the QMS is proportionate but comprehensive.
+- [HSA: GN-02 Guidance on Licensing of Manufacturers, Importers and Wholesalers (November 2024)](https://www.hsa.gov.sg/docs/default-source/hprg-mdb/guidance-documents-for-medical-devices/gn-02-r6-guidance-on-licensing-of-manufacturers-importers-and-wholesalers-of-md-(2024-nov)-pub.pdf)

@@ -92,26 +92,3 @@ The SFDA publishes its list of recognised standards on the SFDA website under **
 
 ## SFDA standard recognition
 
-Expand the Biocompatibility section as follows:
-
-Add a new subsection under 'SFDA standard recognition':
-
-**Standards recognition process**
-
-The SFDA periodically reviews and updates its list of recognised standards. Manufacturers or other stakeholders may request recognition of new standards by submitting a formal proposal to the SFDA with supporting documentation demonstrating alignment with the Essential Principles. The SFDA's standards review timeline varies; applicants should contact the SFDA directly to confirm whether a specific standard version is currently recognised at the time of submission.
-
-Expand the Biocompatibility section as follows:
-
-**Biocompatibility**
-
-| Standard | Scope |
-|----------|-------|
-| ISO 10993 series | Biological evaluation of medical devices — multiple parts addressing different contact scenarios |
-| ISO 10993-1:2018 | Evaluation and testing strategy within a risk management framework |
-| ISO 10993-5:2009 | In vitro cytotoxicity test |
-| ISO 10993-10:2010 | Sensitisation and irritation testing |
-| ISO 10993-23:2021 | Temporary and short-term implantation devices |
-
-**Note:** The applicable parts of ISO 10993 depend on the device's intended contact duration (limited, prolonged, permanent) and contact site (skin, mucous membrane, blood, etc.). See ISO 10993-1 for selection logic.
-
-Clarify the Electrical safety and electromagnetic compatibility (EMC) section by either: (1) Adding a separate row for IEC 60601-1-6:2015 with scope 'Risk management related to usability', or (2) Removing all reference to IEC 60601-1-6 if it is not a recognised standard for this jurisdiction. Verify current SFDA recognition status.

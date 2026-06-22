@@ -104,6 +104,3 @@ MDCG guidance documents are numbered (e.g. MDCG 2020-5) and available on the Com
 | OJ L 117, 5.5.2017 | MDR and IVDR original publication |
 | DG SANTE | MDCG guidance — ec.europa.eu/health/medical-devices |
 
-Complete the reference section: 'Reference\nEUR-Lex: EU law database — eur-lex.europa.eu\nOJ L 117, 5.5.2017: Original publication of MDR and IVDR\nConsolidated versions: Available on EUR-Lex under each regulation number\nOfficial Journal of the EU: eur-lex.europa.eu/oj/'
-
-Complete the 'Official references' section with a full table or list of relevant EU legislative databases and their URLs, such as: EUR-Lex (eur-lex.europa.eu), Official Journal of the EU (eur-lex.europa.eu/oj), NANDO (notified bodies database), and EUDAMED (ec.europa.eu/tools/eudamed).

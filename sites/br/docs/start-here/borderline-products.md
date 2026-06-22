@@ -46,4 +46,3 @@ Submit a **consulta de enquadramento** via ANVISA's Peticionamento Eletrônico. 
 **What to include in your submission:**
 Clearly describe the product's intended purpose, mechanism of action, components, and how each component contributes to the final therapeutic effect. Provide evidence or scientific literature supporting your proposed classification. ANVISA typically responds within 30–60 days with a formal written opinion (parecer técnico).
 
-Add a new subsection under 'Seeking a classification opinion': 'Submission requirements: A consulta de enquadramento should include product description, intended purpose, mechanism of action, and supporting technical documentation justifying the classification being queried. Submit via ANVISA's Peticionamento Eletrônico portal. ANVISA typically provides a formal opinion within 30–60 days. Note that this is a non-binding consultation; a formal classification may differ if registration is subsequently pursued.'

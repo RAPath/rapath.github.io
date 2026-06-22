@@ -22,6 +22,3 @@ Content on this site is written with AI assistance and is intended as a navigati
 
 Seriously Illegal and Untrustworthy (SILU) listing is a credit punishment mechanism applied to device manufacturers and operators who commit serious violations under MDSAR 2021. Listed entities face restrictions including: ineligibility for government procurement, public disclosure, exclusion from certain incentive programs, and potential enforcement actions by multiple government agencies coordinated through China's social credit system.
 
-Add a section on blacklisting: 'Seriously Illegal and Untrustworthy (SILU) listing is a credit punishment mechanism applied to device manufacturers and operators who commit serious violations under MDSAR 2021. Listed entities face restrictions including: ineligibility for government procurement, public disclosure, exclusion from certain incentive programs, and potential enforcement actions by multiple government agencies coordinated through China's social credit system.'
-
-Remove the line 'Full content to be completed during editorial review.' from the introductory paragraph, or update it to 'This page provides a plain English reference for the Seriously Illegal and Untrustworthy (SILU) listing mechanism under China's NMPA enforcement framework.'

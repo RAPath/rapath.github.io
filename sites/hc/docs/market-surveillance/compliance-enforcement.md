@@ -49,4 +49,3 @@ A compliance action by one jurisdiction may trigger surveillance in others.
 
 Under Section 21 of the Food and Drugs Act (FDA), Health Canada may order a person to stop selling a device if it presents a risk of injury to health. A stop-sale order is published publicly.
 
-Add clarification after the first mention: 'Under Section 21 of the Food and Drugs Act (FDA), Health Canada may order a person to stop selling a device if it presents a risk of injury to health.'

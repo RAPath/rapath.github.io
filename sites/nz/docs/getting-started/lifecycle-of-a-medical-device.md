@@ -94,6 +94,3 @@ Prepare labelling                                   Manage FSCAs
 
 GMDN codes are assigned by the GMDN Agency and typically take 5–10 business days to obtain. A fee may apply depending on the GMDN Agency's current pricing structure. Ensure the code is obtained before submitting WAND notification.
 
-Complete Stage 3: 'Once the device is being supplied in New Zealand, the Sponsor must: Monitor device performance — complaints, adverse event signals, overseas regulatory actions. Report adverse events to Medsafe when required. Update WAND within 10 days of any changes to device details, sponsor details, or manufacturer details. Maintain distribution records to enable traceability in a recall. Keep technical documentation current — available on request from Medsafe.'
-
-The table of contents should list: 'Stage 1 — Pre-supply preparation; Stage 2 — WAND notification; Stage 3 — Ongoing compliance while on the market; Stage 4 — Changes and variations; Stage 5 — Adverse events and FSCAs; Stage 6 — Retirement or discontinuation; Visual summary'

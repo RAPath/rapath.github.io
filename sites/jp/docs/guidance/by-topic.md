@@ -73,6 +73,3 @@ MHLW guidance (Japanese): [mhlw.go.jp — medical devices](https://www.mhlw.go.j
 
 "Change management: MHLW notification on Ichibu Henko (partial change approval) classification and procedures. PMDA guidance on determining whether proposed manufacturing, design, or labelling changes require Ichibu Henko approval or minor notification."
 
-Add to Post-market guidance section: "Change management: MHLW notification on Ichibu Henko (partial change approval) classification and procedures. PMDA guidance on determining whether proposed manufacturing, design, or labelling changes require Ichibu Henko approval or minor notification."
-
-STED (Summary Technical Documentation) is PMDA's required format for organising technical and clinical data in Shonin applications. It follows the IMDRF framework and organises information into modules covering device description, quality management, nonclinical testing, clinical evaluation, and bibliography. PMDA's STED guidance specifies the exact module structure and content requirements.

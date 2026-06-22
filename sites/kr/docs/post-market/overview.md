@@ -17,4 +17,3 @@ MFDS runs its own market surveillance inspections, monitors adverse event databa
 ## Related pages
 - [Adverse event reporting](./adverse-event-reporting/what-must-be-reported) · [Re-examination](./post-market-surveillance/re-examination-system) · [Recalls and FSCA](./recalls-and-fsca/when-recall-or-fsca-required)
 
-Update the 'GMP certificate maintenance' row detail from 'Keep KGMP / foreign GMP certificate valid' to: 'Keep KGMP / foreign GMP certificate valid; renewal typically required every 3 years or per issuing body requirements'

@@ -47,10 +47,3 @@ description: History and key commencement dates for the Medical Device Act 2012 
 Always verify the latest version of any legislation or guidance via the AGC website or directly from MDA.
 :::
 
-Add this note at the end of the 'Key Milestones' section:
-
-Add this note at the end of the 'Key Milestones' section:
-
-**Note:** This page reflects milestones up to 2023. MDA periodically updates guidance, classification criteria, and post-market surveillance requirements. For the most current regulatory changes and upcoming amendments, consult the **MDA website (www.mda.gov.my)** and subscribe to MDA notifications via MyMDA.
-
-At the end of the 'Key Milestones' section, add: 'MDA continues to update guidance on emerging technologies including Software as a Medical Device (SaMD), artificial intelligence (AI)-based systems, and in vitro diagnostic regulations. Manufacturers developing these products should check MDA website regularly for the latest technical guidance.'

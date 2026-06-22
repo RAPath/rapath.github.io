@@ -175,4 +175,3 @@ However, near-patient tests may still be Class C (e.g. bedside troponin, near-pa
 | IVDR Art. 100 | EU reference laboratories |
 | MDCG 2020-16 | Companion diagnostics guidance |
 
-Complete Rule 3 with examples such as: 'Full blood count (FBC) and differential tests | Basic metabolic panels (glucose, electrolytes, renal function in routine screening) | C-reactive protein (routine inflammation markers) | General urinalysis | Routine serology (non-STI, non-infectious agent testing) | Blood cultures for bacteriology | Semen analysis | General coagulation screening (APTT, PT, fibrinogen) — not used for anticoagulation monitoring | Allergy testing | Rheumatoid factor and non-specific inflammatory markers'

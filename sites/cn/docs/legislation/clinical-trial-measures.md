@@ -40,4 +40,3 @@ This measure establishes administrative procedures for clinical trials of medica
 ## Relationship to MDSAR 2021
 This measure implements registration requirements under Chapter II of MDSAR 2021, particularly Articles 15 and 16, which require clinical data for Class III device registration.
 
-Add after the Overview section: 'The official implementing measure is NMPA Announcement 2021-02: Measures for the Administration of Medical Device Clinical Trials, which establishes the procedural framework referenced in this page.'

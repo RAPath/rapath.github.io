@@ -118,4 +118,3 @@ Note: UDI implementation timelines have undergone legislative adjustments via Co
 | Commission Implementing Regulation (EU) 2017/2185 | List of issuing entities |
 | IMDRF/UDI WG/N7FINAL:2013 | International UDI guidance |
 
-Complete the reference: 'MDR Annex VI — UDI system structure and requirements'

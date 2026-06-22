@@ -81,14 +81,3 @@ FDA uses 18 expert advisory panels, each corresponding to a medical specialty. T
 
 Class I devices present minimal risk and require only general controls such as labeling, manufacturing standards, and proper device identification. Class II devices present moderate risk and require special controls in addition to general controls; these special controls may include performance standards, premarket testing, or post-market surveillance requirements. Class III devices present the highest risk and require Premarket Approval (PMA), which demands clinical evidence demonstrating safety and effectiveness through valid scientific evidence.
 
-Add after the opening paragraph: 'Class I devices present minimal risk and require only general controls (labeling, manufacturing standards). Class II devices present moderate risk and require special controls in addition to general controls. Class III devices present the highest risk and require Premarket Approval (PMA) demonstrating safety and effectiveness through valid scientific evidence.'
-
-Add a new subsection after 'The classification framework' titled 'Class Definitions and Control Requirements':
-
-**Class Definitions and Control Requirements**
-
-Class I devices present minimal risk and require only general controls (labeling, manufacturing standards, proper identification). Examples include bandages, stethoscopes, and simple examination gloves.
-
-Class II devices present moderate risk and require special controls in addition to general controls. Special controls may include performance standards, premarket testing requirements, or post-market surveillance. Examples include glucose meters, pregnancy test kits, and certain imaging devices.
-
-Class III devices present the highest risk and require Premarket Approval (PMA) demonstrating safety and effectiveness through valid scientific evidence. These include implantable devices, pacemakers, and certain life-sustaining devices.

@@ -35,4 +35,3 @@ Verify all information against official [ANVISA](https://www.gov.br/anvisa) sour
 
 If registration is denied, applicants may file an administrative appeal (recurso) within the timeframe specified in the ANVISA rejection notice. See Appeals section for details.
 
-Add after the review stages paragraph: 'If registration is denied, applicants may file an administrative appeal (recurso) within the timeframe specified in the ANVISA rejection notice. See Appeals section for details.'

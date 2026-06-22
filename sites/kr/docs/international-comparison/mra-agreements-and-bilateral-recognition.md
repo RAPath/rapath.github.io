@@ -28,4 +28,3 @@ Where a mutual recognition or harmonisation arrangement exists:
 
 "(Vietnam, Thailand, Philippines, Indonesia have individual bilateral MoUs with MFDS; agreement scope and enforcement status vary. Confirm applicability with MFDS before relying on MRA for regulatory strategy.)"
 
-Add to the ASEAN row: "(Vietnam, Thailand, Philippines, Indonesia have individual bilateral MoUs with MFDS; agreement scope and enforcement status vary. Confirm applicability with MFDS before relying on MRA for regulatory strategy.)"

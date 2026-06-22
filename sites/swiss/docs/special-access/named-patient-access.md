@@ -17,17 +17,3 @@ description: Named-patient import authorisation for unregistered medical devices
 3. Swissmedic reviews and may grant a **device-specific, patient-specific authorisation**
 4. Device is imported following authorisation
 
-
-Add a new section titled 'Documentation & Reporting Requirements' with the following text:
-
-'The treating physician or importing party must retain documentation confirming: Swissmedic's authorisation letter; anonymised patient identification and diagnosis; device description, manufacturer, and country of origin; and evidence that no Swiss-registered equivalent exists. This documentation must be retained for the duration of use and for at least 10 years thereafter (or 15 years for implantable devices). Serious adverse events during named-patient use must be reported to Swissmedic via eVigilance within the timeframes specified in MedDO Chapter 7. The authorisation is specific to the named patient and does not permit use for other patients; each additional patient requires a separate authorisation.'
-
-## Official Sources
-- [TPA Art. 36 (SR 812.21)](https://www.fedlex.admin.ch/eli/cc/2001/422/en)
-- [Swissmedic — Named-patient access](https://www.swissmedic.ch/swissmedic/en/home/medical-devices/special-access.html)
-
-:::warning Disclaimer
-AI-assisted navigation aid only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
-:::
-
-The treating physician or importing party must retain documentation confirming: Swissmedic's authorisation; patient identification and diagnosis; device description and origin; and evidence that no Swiss-registered equivalent exists. Serious adverse events during named-patient use must be reported to Swissmedic via eVigilance. The authorisation is specific to the named patient and does not permit use for other patients.

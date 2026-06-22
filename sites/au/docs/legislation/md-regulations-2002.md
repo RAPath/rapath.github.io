@@ -139,32 +139,3 @@ The requirement to maintain distribution records sufficient to enable an effecti
 
 After 'The current compilation (Compilation No. 63 as at July 2024' add the sentence: 'This compilation date may be outdated. Always check the endnotes on legislation.gov.au to confirm you are viewing the latest compilation and to identify any uncommenced amendments.'
 
-
-Complete the Schedule 3 entry with: 'Schedule 3 — Conformity Assessment Procedures
-
-The detailed conformity assessment procedures that manufacturers must follow for each device class, including:
-
-— Procedure 1: Declaration of Conformity (Class I and Class 1 IVD)
-— Procedure 2A: QMS certification + Overseas regulator evidence (Class IIa and Class 2 IVD)
-— Procedure 2B: QMS + design assessment certificate (Class IIb and Class 3 IVD)
-— Procedure 3: Full assessment + mandatory design dossier review (Class III and Class 4 IVD)
-— Procedure 4A: In-house IVD (Class 1 only)
-— Procedure 4B: In-house IVD (Class 4 only)
-
-👉 Schedule 3 — legislation.gov.au'
-
-## Official Sources
-
-- [MD Regulations 2002 — Current text (legislation.gov.au)](https://www.legislation.gov.au/current/F2002B00237)
-- [Schedules 1, 2, 3 (easier to read for schedule content)](https://www.legislation.gov.au/current/F2002B00237)
-- [TGA — legislation page](https://www.tga.gov.au/resources/legislation)
-
----
-
-## Related Pages
-
-- [Therapeutic Goods Act 1989](./therapeutic-goods-act.md)
-- [Related Instruments & Determinations](./related-instruments.md)
-- [How to Read Legislation](./how-to-read-legislation.md)
-- [Essential Principles](../pre-market/essential-principles/overview.md)
-- [Classification](../pre-market/classification/how-classification-works.md)

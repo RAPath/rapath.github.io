@@ -76,21 +76,3 @@ Clinical evidence obligations do not end at ARTG inclusion. Manufacturers must:
 
 ---
 
-Complete the truncated section with: 'investigation will be required instead. Equivalence claims must be supported by rigorous documentation comparing device design, materials, manufacturing processes, and intended use. Any differences must be shown not to affect safety or clinical performance.'
-
-
-The section ends with 'For Class III devices and novel devices, the bar for demonstrating equivalence is very high. In many cases, a clinical' — this should be completed. A reasonable completion would be: 'For Class III devices and novel devices, the bar for demonstrating equivalence is very high. In many cases, a clinical investigation specifically on the subject device will be required rather than reliance on equivalent device data.'
-
-## Official Sources
-
-- [Schedule 1, EP 14 — Clinical evidence requirement (legislation.gov.au)](https://www.legislation.gov.au/current/F2022C00900)
-- [Clinical evidence for medical devices — TGA](https://www.tga.gov.au/products/medical-devices/manufacturing/clinical-evidence-medical-devices)
-- [Complying with Essential Principles — TGA guidance](https://www.tga.gov.au/resources/guidance/complying-essential-principles-safety-and-performance-medical-devices)
-
----
-
-## Related Pages
-
-- [Clinical Trials in Australia](./clinical-trials-in-australia.md)
-- [Using Overseas Clinical Data](./using-overseas-clinical-data.md)
-- [EP 14 — Clinical Evidence](../essential-principles/ep-7-15-design-and-construction.md)

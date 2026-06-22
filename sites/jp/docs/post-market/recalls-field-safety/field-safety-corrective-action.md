@@ -29,4 +29,3 @@ The MAH must establish a process to verify that the FSCA has been effective — 
 
 MHLW may set specific effectiveness targets for significant recalls.
 
-Replace the 'Planning an FSCA' section with: "Planning an FSCA\n\nAn effective FSCA plan includes:\n\nScope definition — which specific devices are affected, identified by lot numbers, serial numbers, manufacturing date ranges, or serial number ranges\n\nTimeline — the proposed start date for the corrective action and the expected duration\n\nCommunication strategy — how affected customers will be notified, including distribution channels and timeline for notification\n\nResource requirements — personnel, facilities, and logistics needed to execute the FSCA\n\nVerification method — how effectiveness will be measured and documented\n\nRisk assessment — classification of the FSCA as Class I, II, or III based on the severity of the defect and likelihood of harm"

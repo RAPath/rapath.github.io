@@ -13,4 +13,3 @@ Schedule 5 Part I applies to all manufacturers (Class A–D). Schedule 5 Part II
 
 > **Official source:** Medical Devices Rules 2017, Schedule 5
 
-Add a section detailing specific requirements such as: supplier qualification and evaluation criteria, purchase order specifications and acceptance criteria, supplier audit requirements, certificate of analysis requirements, incoming inspection procedures, material traceability documentation, and supplier agreement provisions. Reference Schedule 5 sections.

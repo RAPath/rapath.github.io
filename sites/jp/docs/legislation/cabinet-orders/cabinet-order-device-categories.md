@@ -33,4 +33,3 @@ Current Cabinet Orders: [e-Gov Cabinet Order database](https://laws.e-gov.go.jp/
 
 MHLW publishes Cabinet Order amendments via e-Gov and MHLW news releases. No single subscription mechanism exists; monitoring should be conducted through: (1) periodic e-Gov searches for 高度管理医療機器, (2) MHLW pharmaceutical bureau announcements, and (3) PMDA notification updates referencing reclassifications.
 
-Add a new section titled 'Monitoring Cabinet Order updates' with text: 'MHLW publishes Cabinet Order amendments via e-Gov and MHLW news releases. No single subscription mechanism exists; monitoring should be conducted through: (1) periodic e-Gov searches for 高度管理医療機器, (2) MHLW pharmaceutical bureau announcements, and (3) PMDA notification updates referencing reclassifications.'

@@ -47,18 +47,3 @@ Understanding the distinct roles of NB conformity assessment audits and Swissmed
 | Announcement | Generally announced; unannounced ≥1x per 5 years | Can be unannounced |
 | Right to refuse | No — manufacturer must cooperate | No — manufacturer must cooperate |
 
-
-Add under 'Swissmedic QMS Oversight' section: 'In addition to post-market surveillance, Swissmedic may conduct pre-market inspections during conformity assessment procedures, particularly for Class III devices or when high-risk indicators are identified. These inspections assess the manufacturer\'s capability to comply with MedDO before the NB issues a conformity certificate.'
-
-
-In addition to the paragraph already included about pre-market inspections, clarify: Pre-market inspections are distinct from NB conformity assessment audits and may be conducted by Swissmedic independently or in coordination with the NB. These inspections verify the manufacturer's QMS capability, premises, and equipment before or after market placement. Swissmedic may conduct inspections during the NB assessment process, particularly for high-risk devices.
-
-## Official Sources
-- [MedDO Annex IX (SR 812.213)](https://www.fedlex.admin.ch/eli/cc/2021/205/en)
-- [Swissmedic — Market surveillance](https://www.swissmedic.ch/swissmedic/en/home/medical-devices/market-surveillance.html)
-
-:::warning Disclaimer
-AI-assisted navigation aid only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
-:::
-
-In addition to post-market surveillance, Swissmedic may conduct pre-market inspections during conformity assessment procedures, particularly for Class III devices or when high-risk indicators are identified. These inspections assess the manufacturer\'s capability to comply with MedDO before the NB issues a conformity certificate.

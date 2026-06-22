@@ -48,4 +48,3 @@ For IDE-approved studies, FDA may:
 
 Results must be posted within 12 months of the primary completion date (or within 30 days of FDA action on the submission, whichever is later) for applicable trials.
 
-Expand the 'ClinicalTrials.gov registration' section to add: 'Results must be posted within 12 months of the primary completion date (or within 30 days of FDA action on the submission, whichever is later) for applicable trials.'

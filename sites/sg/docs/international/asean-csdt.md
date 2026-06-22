@@ -36,8 +36,5 @@ For manufacturers entering multiple ASEAN markets:
 - [HSA: ASEAN AMDC](https://www.hsa.gov.sg/medical-devices/international-collaboration-medical-devices/amdc)
 - [HSA: Free Sale Certificate](https://www.hsa.gov.sg/medical-devices/certificates)
 
-Direct link to ASEAN CSDT: [Insert ASEAN Sectoral Working Group on Medical Devices website URL]' or 'For the current CSDT version, visit the ASEAN Sectoral Working Group on Medical Devices or consult HSA's guidance documents library.
+For the current CSDT version, visit the [ASEAN Sectoral Working Group on Medical Devices](https://asean.org/asean-economic-community/sectoral-bodies-under-the-purview-of-aem/goods/healthcare/) or consult HSA's guidance documents library.
 
-Add after the sentence about where to find the CSDT: 'Direct link to ASEAN CSDT: [Insert ASEAN Sectoral Working Group on Medical Devices website URL]' or 'For the current CSDT version, visit the ASEAN Sectoral Working Group on Medical Devices or consult HSA's guidance documents library.'
-
-Add after 'Where to find the CSDT' heading: 'For the current CSDT version and related ASEAN medical device standards, consult HSA's guidance documents library at hsa.gov.sg/medical-devices/guidance-documents or contact the ASEAN Secretariat's Directorate of ASEAN Community Resilience (DACR) for direct access to the ASEAN Sectoral Working Group on Medical Devices resources.'

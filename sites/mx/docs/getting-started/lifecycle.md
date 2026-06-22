@@ -78,6 +78,3 @@ Changes to the device, labelling, manufacturer, or MRH must be notified to or ap
 
 Devices listed in Annex 2 of the July 2025 classification decree are entirely exempt from sanitary registration. Devices listed in Annex 3 are not classified as health supplies and do not require registration or import permits. Only devices classified in Class I (non-exempt), Class II, or Class III require a sanitary registration.
 
-Expand Phase 1 to include: 'Devices listed in Annex 2 of the July 2025 classification decree are entirely exempt from sanitary registration. Devices listed in Annex 3 are not classified as health supplies and do not require registration or import permits. Only devices classified in Class I (non-exempt), Class II, or Class III require a sanitary registration.'
-
-Add after Phase 4 dossier requirements: "Certified translations (traducciones certificadas) must be prepared by a traductor certificado recognised by Mexican authorities or COFEPRIS. Digital certification stamps (e-signature) are accepted; scanned paper copies alone are insufficient."

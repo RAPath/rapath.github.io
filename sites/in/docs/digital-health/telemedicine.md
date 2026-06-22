@@ -36,4 +36,3 @@ When medical devices are used in telemedicine contexts:
 - **Medical record retention**: Digital records must be retained per regulatory requirements
 - **Emergency protocols**: Procedures for escalation to in-person care when required
 
-Add a new subsection titled 'SaMD and Medical Device Approval in Telemedicine Context' with the following text: 'Telemedicine platforms that integrate Software as a Medical Device (SaMD) components—such as diagnostic algorithms, monitoring systems, or decision-support software—must obtain separate CDSCO approval under MDR 2017. The device approval is independent of telemedicine platform registration. Remote monitoring devices must demonstrate data integrity through encrypted transmission, secure server architecture, and validated algorithm performance across telemedicine connectivity scenarios.'

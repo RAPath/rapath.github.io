@@ -35,8 +35,3 @@ Verify all information against official [ANVISA](https://www.gov.br/anvisa) sour
 
 Footnote: Devices submitted to ANVISA must not bear CE marking on their labels or packaging. If a device is manufactured for multiple markets, separate labelling for the Brazilian market (without CE mark) is required. Presence of CE marking on devices intended for Brazil may result in ANVISA deficiency questions or rejection.
 
-Add a new row or footnote to the table:
-
-Footnote: Devices submitted to ANVISA must not bear CE marking on their labels or packaging. If a device is manufactured for multiple markets, separate labelling for the Brazilian market (without CE mark) is required. Presence of CE marking on devices intended for Brazil may result in ANVISA deficiency questions or rejection.
-
-Important: CE marking must NOT appear on any device labelling intended for the Brazilian market, regardless of whether the device is also authorised in the EU. If a manufacturer produces the same device for multiple markets (EU and Brazil), separate labelling batches are required — the Brazilian labelling must contain only the ANVISA registration number and must omit CE marking entirely. Presence of CE marking on devices submitted to ANVISA or found on the Brazilian market may be treated as non-compliance and may trigger deficiency notices, rejection, or enforcement action.

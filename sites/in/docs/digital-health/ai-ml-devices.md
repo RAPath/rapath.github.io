@@ -24,4 +24,3 @@ As of 2026, CDSCO classifies AI/ML devices under the existing Medical Devices Ru
 - **Post-market surveillance**: Enhanced monitoring required for devices using adaptive or learning algorithms.
 - **Cybersecurity**: AI/ML devices must address data security, model integrity, and protection against adversarial attacks.
 
-Add a new bullet point under 'Key Regulatory Considerations': 'Algorithm updates and model retraining: Manufacturers must establish protocols for governing algorithm updates, including documentation of retraining datasets, validation against new data, and determination of when clinical re-evaluation is required. Major algorithm changes may necessitate submission of updated clinical evidence to CDSCO.'

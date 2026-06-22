@@ -11,4 +11,3 @@ This page covers import requirements under the Medical Devices Rules 2017.
 
 > **Official source:** Medical Devices Rules 2017, Chapter III; [CDSCO](https://cdsco.gov.in)
 
-Add content covering: list of CDSCO-designated ports of entry for medical devices, how to specify port of entry in SUGAM application, whether multiple ports can be designated, procedures for changing port of entry, and any restrictions by device class.

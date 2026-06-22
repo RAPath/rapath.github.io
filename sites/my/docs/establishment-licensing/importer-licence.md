@@ -71,8 +71,3 @@ Importer licences are renewed **annually** via MyMDA. Updated documentation requ
 Most foreign market entry strategies in Malaysia involve one local entity acting as both the **importer** and the **LAR**. This simplifies regulatory responsibility and reduces the number of licences to manage.
 :::
 
-Add this bullet point to the 'Responsibilities of the Importer' section:
-
-• **Due diligence on foreign manufacturer:** Verify that the foreign manufacturer is legally permitted to export medical devices from its country and has not been subject to regulatory action (suspension, withdrawal of approval, or warning letters) in major jurisdictions. Request evidence of manufacturing authorization from the manufacturer's home country regulator.
-
-Add to the 'Responsibilities of the Importer' section as a new bullet point: '• Due diligence on foreign manufacturer: Verify that the foreign manufacturer is legally permitted to export medical devices from its country and has not been subject to regulatory action (suspension, withdrawal of approval, or warning letters) in major jurisdictions. Request evidence of manufacturing authorization from the manufacturer's home country regulator.'

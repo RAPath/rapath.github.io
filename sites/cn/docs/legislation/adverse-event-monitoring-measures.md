@@ -40,4 +40,3 @@ This measure implements Articles 81-87 of MDSAR 2021, establishing the framework
 ## Relationship to MDSAR 2021
 This measure operationalizes Chapter VI of MDSAR 2021, providing detailed procedures for the adverse event reporting, monitoring, and re-evaluation obligations outlined in Articles 81-87.
 
-Add after the Overview section: 'This page implements NMPA Announcement on Adverse Event Monitoring and Risk Re-evaluation Procedures, which provides detailed implementation guidance for MDSAR 2021 Articles 81-87.'

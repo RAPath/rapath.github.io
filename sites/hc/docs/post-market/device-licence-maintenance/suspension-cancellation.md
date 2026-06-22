@@ -37,4 +37,3 @@ Similar provisions apply to MDELs. Non-payment of annual fees or failure to comp
 
 > **Legislative source:** Medical Devices Regulations, SOR/98-282, ss 43–43.1 (suspension/cancellation)
 
-Replace the broken bullet point with: 'The licence holder fails to pay annual fees within the required period, or persistent non-compliance with the MDR is identified and not adequately resolved within specified timeframes'

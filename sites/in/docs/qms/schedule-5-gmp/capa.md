@@ -13,4 +13,3 @@ Schedule 5 Part I applies to all manufacturers (Class A–D). Part II applies to
 
 > **Official source:** Medical Devices Rules 2017, Schedule 5
 
-Add a section detailing specific CAPA requirements such as: procedures for investigating complaints and nonconformities, root cause analysis methodologies, corrective action implementation timelines, preventive action triggers, documentation requirements for CAPA records, and management review of CAPA effectiveness. Reference specific Schedule 5 sections that address these elements.

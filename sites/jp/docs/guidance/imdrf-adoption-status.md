@@ -39,4 +39,3 @@ For overseas manufacturers, Japan's IMDRF adoption means:
 
 "MDSAP participation: Japan participates in MDSAP, allowing manufacturers to conduct a single quality management system audit that can satisfy both Japan's MO 169 QMS requirements and requirements in other MDSAP jurisdictions (US, Canada, Brazil, Japan). This can significantly streamline QMS audits for multi-market applications. Contact PMDA for MDSAP auditor lists and qualification requirements."
 
-Add to Practical implications of IMDRF alignment section: "MDSAP participation: Japan participates in MDSAP, allowing manufacturers to conduct a single quality management system audit that can satisfy both Japan's MO 169 QMS requirements and requirements in other MDSAP jurisdictions (US, Canada, Brazil, Japan). This can significantly streamline QMS audits for multi-market applications. Contact PMDA for MDSAP auditor lists and qualification requirements."

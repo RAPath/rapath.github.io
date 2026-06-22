@@ -26,4 +26,3 @@ Manufacturers should submit a pre-submission inquiry (PSI) to CDSCO seeking form
 
 India does not yet have a dedicated combination product regulation equivalent to 21 CFR Part 3 (USA) or Article 1(8) EU MDR. A pragmatic approach — seek guidance from CDSCO — is recommended before submission.
 
-Add procedural guidance: 'Pre-submission inquiries (PSI) should be submitted in writing to CDSCO, preferably through the SUGAM portal or via official email channels. The inquiry should include: device name and description, intended use, technical specifications, preliminary classification assessment, and any relevant supporting documentation. Response timelines are typically 30-45 days but may vary depending on complexity.'

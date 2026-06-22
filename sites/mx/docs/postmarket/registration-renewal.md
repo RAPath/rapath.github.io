@@ -85,14 +85,3 @@ Approved vs. non-approved changes — Any modifications requiring prior COFEPRIS
 Technovigilance Report implications — Ensure the Technovigilance Report reflects which incidents occurred before and after any design or manufacturing changes, as this demonstrates whether changes were effective in mitigating identified risks.
 If renewal documentation reveals unapproved changes, COFEPRIS may request a compliance letter or formal amendment before granting renewal, potentially delaying approval.
 
-Add a new subsection after 'First renewal':
-
-Impact of mid-cycle modifications on renewal
-​
-If your device or labelling has changed during the 5-year registration period, the renewal dossier must reflect these changes:
-
-Updated labelling — Submit the current label and IFU as they appear on devices marketed during the renewal period (not the original label from registration).
-Updated technical information — If manufacturing site, supply chain, or device design changed, provide updated documentation (ISO 13485 certificates, design controls, risk management files).
-Approved vs. non-approved changes — Any modifications requiring prior COFEPRIS approval (per DIGIPRiS modification rules) must be approved before renewal is submitted. A renewal application cannot be used to gain approval for pending changes.
-Technovigilance Report implications — Ensure the Technovigilance Report reflects which incidents occurred before and after any design or manufacturing changes, as this demonstrates whether changes were effective in mitigating identified risks.
-If renewal documentation reveals unapproved changes, COFEPRIS may request a compliance letter or formal amendment before granting renewal, potentially delaying approval.

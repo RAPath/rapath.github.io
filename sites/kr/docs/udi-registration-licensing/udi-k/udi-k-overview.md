@@ -37,4 +37,3 @@ UDI-K is aligned with the IMDRF UDI guidance and is compatible with GS1 GTIN-bas
 
 note: Phase 1 (Grade IV) and Phase 2 (Grade III) are now in effect. Confirm Phase 3 and Phase 4 dates with MFDS — the schedule may be updated.
 
-Add a note row to the phased implementation table: 'note: Phase 1 (Grade IV) and Phase 2 (Grade III) are now in effect. Confirm Phase 3 and Phase 4 dates with MFDS — the schedule may be updated.'

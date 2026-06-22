@@ -23,4 +23,3 @@ The PMS report must be retained by the registration holder and made available to
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
 
-Add new bullet point: "Deadline for submission: Annual PMS reports must be submitted to ANVISA annually (typically within 60 days of the end of the reporting period or as specified in the technical dossier)."

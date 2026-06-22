@@ -60,4 +60,3 @@ DAV may audit distribution records through the DMEC system or during inspection 
 
 Confirm the exact retention period applicable to your device category with DAV, as requirements may vary by device type and risk classification.
 
-Add after 'Records must be retained for a minimum period specified in Decree 98/2021 (typically at least the lifetime of the device or 5 years, whichever is longer)': 'Confirm the exact retention period applicable to your device category with DAV, as requirements may vary by device type and risk classification.'

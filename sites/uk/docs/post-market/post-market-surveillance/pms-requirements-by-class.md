@@ -105,6 +105,3 @@ The PMS report feeds directly into the PSUR for classes requiring PSURs.
 
 IVD self-test devices: PSUR requirements depend on the conformity assessment route. Self-test devices assessed by a UKAB must submit PSURs at least every 2 years. Self-test devices that are not UKAB-certified (if permitted by the classification) may have different reporting obligations — consult MHRA guidance on IVD classification and conformity assessment requirements.
 
-Add clarification after the table: 'IVD self-test devices: PSUR requirements depend on the conformity assessment route. Self-test devices assessed by a UKAB must submit PSURs at least every 2 years. Self-test devices that are not UKAB-certified (if permitted by the classification) may have different reporting obligations — consult MHRA guidance on IVD classification and conformity assessment requirements.'
-
-Self-test devices that are not UKAB-certified (if permitted by the conformity assessment rules) must submit PSURs at least every 2 years if they are List A devices, or may be exempt from PSURs if classified as general IVDs. Consult MHRA guidance on the specific conformity assessment route applicable to your self-test device.

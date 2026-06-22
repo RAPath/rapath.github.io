@@ -158,7 +158,3 @@ A medical device that is software-only (not embedded in hardware). In Vietnam, S
 
 Manufacturers, Authorised Representatives, and hospital users access DMEC using credentials issued by DAV. Registration in DMEC is mandatory before submitting any declaration, registration, or import permit application.
 
-Add to DMEC entry: 'Manufacturers, Authorised Representatives, and hospital users access DMEC using credentials issued by DAV. Registration in DMEC is mandatory before submitting any declaration, registration, or import permit application.'
-
-MOH — Ministry of Health (Bộ Y tế)
-The national government ministry responsible for health policy, regulation, and oversight in Vietnam. The MOH issues circulars and directives implementing medical device regulation; the Drug Administration of Vietnam (DAV) operates under MOH authority.

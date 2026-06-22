@@ -37,10 +37,3 @@ IVDs require **performance evaluation** (analytical and clinical performance stu
 
 This includes both false positives (incorrect positive results leading to unnecessary treatment) and false negatives (missed disease diagnosis), with particular weight given to conditions with high morbidity/mortality if missed.
 
-Add clarification after 'IVD classification in Japan is based on the potential harm caused by a wrong test result': 'This includes both false positives (incorrect positive results leading to unnecessary treatment) and false negatives (missed disease diagnosis), with particular weight given to conditions with high morbidity/mortality if missed.'
-
-Revise the Class IV IVD definition paragraph to clarify:
-
-**Original paragraph:** 'Class IV IVDs are exclusively those used for blood safety screening and (including blood transfusion compatibility testing screening for HIV, HTLV-I/II, HBsAg, HCV, syphilis, and other transfusion-relevant pathogens). The in blood screening — affecting multiple recipients — potential for widespread harm from false negatives justifies the highest regulatory requirement.'
-
-**Revised paragraph:** 'Class IV IVDs are exclusively those used for blood safety screening — that is, screening of blood or blood products intended for transfusion to prevent transmission of infectious diseases to transfusion recipients. These include HIV, HTLV-I/II, HBsAg, HCV, syphilis, and other transfusion-relevant pathogens, as well as blood transfusion compatibility testing (ABO, Rh). The Class IV designation reflects that a single false negative result could expose multiple transfusion recipients to serious harm or death, and therefore the highest regulatory scrutiny is justified.'

@@ -100,20 +100,3 @@ The TGA publishes regulatory changes through:
 
 ---
 
-Expand the PRAC bullet point to read: '2. PRAC replaced URPTG - The Procedure for Recalls, Product Alerts and Product Corrections (PRAC) replaced the Uniform Recall Procedure for Therapeutic Goods (URPTG). The PRAC simplifies recall terminology from 8 categories to 4 market action types: (1) Urgent Safety Advisory, (2) Product Alert, (3) Product Correction, and (4) Recall. These categories are based on risk severity and likelihood of harm.'
-
-## Official Sources
-
-- [What's new for medical devices — TGA](https://www.tga.gov.au/products/medical-devices/overview/changes-medical-device-regulations)
-- [Federal Register of Legislation](https://www.legislation.gov.au)
-- [TGA consultation hub](https://consultations.tga.gov.au)
-
----
-
-## Related Pages
-
-- [Therapeutic Goods Act 1989](./therapeutic-goods-act.md)
-- [MD Regulations 2002](./md-regulations-2002.md)
-- [What's New](../whats-new/regulatory-changes.md)
-
-2. PRAC replaced URPTG - The Procedure for Recalls, Product Alerts and Product Corrections (PRAC) replaced the Uniform Recall Procedure for Therapeutic Goods (URPTG). The PRAC simplifies recall terminology from 8 categories to 4 market action types: (1) Urgent Safety Advisory, (2) Product Alert, (3) Product Correction, and (4) Recall. These categories are based on risk severity and likelihood of harm.

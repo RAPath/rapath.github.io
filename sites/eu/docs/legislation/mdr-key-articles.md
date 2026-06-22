@@ -223,4 +223,3 @@ Repeal of Directives 90/385/EEC (AIMDD) and 93/42/EEC (MDD).
 | Regulation (EU) 2023/607 | Amendment — extended transitional provisions |
 | EUR-Lex consolidated text | Current consolidated version of MDR |
 
-Complete the Art. 27 entry: 'Art. 27 — UDI system: UDI requirements for all devices; application timeline by class; EUDAMED registration requirements; UDI database access by NCAs and manufacturers.'

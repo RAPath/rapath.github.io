@@ -56,8 +56,3 @@ FDA review goal: **30 days** for IDE application.
 
 FDA may grant emergency IDE authorizations for devices treating life-threatening conditions when an approved alternative does not exist. Additionally, 21 CFR § 812.320 provides for compassionate use (emergency use) of investigational devices outside of a formal IDE study under certain conditions.
 
-Add after 'When is an IDE required?' section: 'FDA may grant emergency IDE authorizations for devices treating life-threatening conditions when an approved alternative does not exist. Additionally, 21 CFR § 812.320 provides for compassionate use (emergency use) of investigational devices outside of a formal IDE study under certain conditions.'
-
-Add clarification to the 'When is an IDE required?' section:
-
-**Important:** Even when an IDE is not required (for example, when studying an already-approved device used according to its cleared labeling), IRB approval under 21 CFR Part 56 is still mandatory. An IDE exemption does not eliminate the need for ethics oversight.

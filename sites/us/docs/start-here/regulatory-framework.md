@@ -79,9 +79,3 @@ FDA classifies medical devices into three classes based on the **level of contro
 - [FDA — How to Study and Market Your Device](https://www.fda.gov/medical-devices/how-study-and-market-your-device)
 - [FD&C Act full text (eCFR)](https://www.ecfr.gov/current/title-21)
 
-Add a note to the Regulatory Framework page clarifying the current status: 'As of May 2026, the Quality System Modernization Rule (QMSR) is in effect as of February 2, 2026. All manufacturers must comply with 21 CFR Part 820 as updated, which incorporates ISO 13485:2016 principles.' This removes ambiguity about timeline.
-
-Add a status note box after the 'Legislative foundation' heading:
-
-### Current Status Note (May 2026)
-As of **February 2, 2026**, the **Quality System Modernization Rule (QMSR)** is in full effect. All manufacturers must comply with **21 CFR Part 820** as updated, which incorporates **ISO 13485:2016 principles**. This replaces the previous Quality System Regulation framework.

@@ -28,6 +28,3 @@ Submit via MFDS eSubmission portal (의료기기 전자민원).
 
 Designated Quality Assurance Manager with qualifications meeting MFDS standards (typically requiring relevant academic background and experience in medical device quality assurance)
 
-Expand 'Designated Quality Assurance Manager meeting MFDS requirements' to: 'Designated Quality Assurance Manager with qualifications meeting MFDS standards (typically requiring relevant academic background and experience in medical device quality assurance)'
-
-Remove the duplicated text 'Designated Quality Assurance Manager with qualifications meeting MFDS standards (typically requiring relevant academic background and experience in medical device quality assurance)' that appears after the 'Key importer obligations' section, as it repeats information already listed in the first bullet point.

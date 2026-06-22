@@ -85,4 +85,3 @@ The Sponsor carries significant legal exposure. Failing to notify WAND, failing 
 
 A registered office or principal place of business means a physical address in New Zealand where the entity can be contacted and where records can be kept. A PO box alone is not sufficient; there must be a genuine business presence with ability to receive correspondence and maintain regulatory records.
 
-Add a new subsection under 'Liability exposure': 'Sponsor insolvency or removal: If a Sponsor is struck off the register or becomes insolvent while acting as Sponsor, the device's WAND notification remains valid only while the relationship is active. The manufacturer must appoint a replacement Sponsor immediately and notify Medsafe of the change within 10 days. Devices cannot legally be supplied without an active Sponsor, even temporarily.'

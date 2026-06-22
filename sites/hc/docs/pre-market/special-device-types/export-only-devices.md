@@ -35,10 +35,3 @@ Canadian manufacturers producing export-only Class I devices must consult Health
 
 While export-only devices are exempt from Device Licence requirements in Canada, manufacturers must still comply with the full Medical Devices Regulations quality system requirements (SOR/98-282, Part 2). This includes maintaining documented procedures, risk management, design controls, and complaint handling systems equivalent to those required for devices sold in Canada. However, manufacturers may align their QMS with the regulatory requirements of the destination country if those requirements are more stringent than Canadian requirements.
 
-Remove the duplicate section heading. The first 'Quality system requirements still apply' section should remain, followed by the detailed quote that currently appears under the second heading. Restructure as:
-
-## Quality system requirements still apply
-
-Even for export-only devices, Canadian manufacturers must maintain a quality management system that complies with the MDR. Export-only status does not exempt manufacturers from QMS requirements or MDSAP certification.
-
-While export-only devices are exempt from Device Licence requirements in Canada, manufacturers must still comply with the full Medical Devices Regulations quality system requirements (SOR/98-282, Part 2). This includes maintaining documented procedures, risk management, design controls, and complaint handling systems equivalent to those required for devices sold in Canada. However, manufacturers may align their QMS with the regulatory requirements of the destination country if those requirements are more stringent than Canadian requirements.

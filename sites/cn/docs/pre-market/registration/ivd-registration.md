@@ -51,6 +51,3 @@ Content on this site is written with AI assistance and is intended as a navigati
 
 Class I IVDs are filed with the local district/county authority (not NMPA), following the same streamlined process as other Class I devices. The filing package must include IVD-specific technical dossier requirements, performance testing data, and labelling in Chinese. Upon completeness review, a filing record number (备案号) is issued automatically. Refer to NMPA/CMDE IVD Registration Guidance for complete filing requirements.
 
-Add after 'Filing for Class I IVDs' section: 'Class I IVDs are filed with the local district/county authority (not NMPA), following the same streamlined process as other Class I devices. The filing package must include IVD-specific technical dossier requirements, performance testing data, and labelling in Chinese. Upon completeness review, a filing record number (备案号) is issued automatically. Refer to NMPA/CMDE IVD Registration Guidance for complete filing requirements.'
-
-Add a new subsection before 'Filing for Class I IVDs': 'Imported Class I IVDs\n\nImported Class I IVDs must be filed with National NMPA, not local authorities. This follows the same rule as all other imported Class I devices. The filing package must include IVD-specific technical dossier requirements and performance testing data in Chinese.'

@@ -29,8 +29,3 @@ A **recall** or **Field Safety Corrective Action (FSCA)** is required when:
 ## Related pages
 - [Voluntary vs MFDS-ordered recalls](./voluntary-vs-mfds-ordered-recalls) · [Field safety notices](./field-safety-notices)
 
-Add after the MFDS recall classification table:
-
-**Timeline for recall classification**
-
-Manufacturers/importers must notify MFDS of the safety issue and proposed recall classification within a specific timeframe. MFDS may adjust the classification based on additional evidence. Manufacturers should not delay notifying MFDS pending final classification confirmation.

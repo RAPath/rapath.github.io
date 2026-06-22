@@ -28,4 +28,3 @@ The system is broadly aligned with the IMDRF UDI guidance document but has China
 Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [NMPA](https://www.nmpa.gov.cn/) sources before making regulatory decisions. Not affiliated with NMPA or any Chinese Government body. Not legal or regulatory advice.
 :::
 
-Add content covering: (1) Required UDID data elements (DI, PI, product classification, manufacturing location); (2) Database access and search functionality; (3) Submission procedures for manufacturers and importers; (4) Timeline for UDID submission relative to device registration; (5) Penalties for non-compliance or incorrect UDID information.

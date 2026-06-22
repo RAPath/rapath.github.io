@@ -37,4 +37,3 @@ AI-assisted navigation aid only. Always verify against official [Swissmedic](htt
 
 MRA Chapter 4 operational status should be verified within 30 days of commencing Swiss market access planning, as status changes impact registration timeline and may require either simplified notification or full registration.
 
-Add after 'Current MRA Status' heading: 'As of the last update to this page, verify the operational status of MRA Chapter 4 directly with Swissmedic (https://www.swissmedic.ch) or SECO (State Secretariat for Economic Affairs) as status may change. The determination of whether Chapter 4 is operational is critical to determining whether DAPI notification or full registration is required.'

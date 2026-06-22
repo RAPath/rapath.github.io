@@ -46,4 +46,3 @@ As of the publication date of this content, Check the Canada Gazette for current
 [Health Canada UDI consultations](https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/activities/announcements.html) | [IMDRF UDI guidance](https://www.imdrf.org/working-groups/unique-device-identification-udi)
 :::
 
-Add at the start of 'Status of Canadian UDI regulations' section: "Last reviewed: [DATE]. " and ensure a last-updated date appears on the page footer or metadata.

@@ -38,20 +38,3 @@ If multiple rules yield different classes, the device is assigned to the **highe
 4. Document the classification rationale in technical documentation
 5. Review classification whenever intended purpose or design changes significantly; document the rationale for any reclassification. Notification to Swissmedic is required if the device is reclassified to a higher class, as this may trigger conformity assessment route changes and require an updated conformity assessment before continued market placement.; document the rationale for any reclassification. Notification to Swissmedic is required if the device is reclassified to a higher class, as this may trigger conformity assessment route changes and require an updated conformity assessment before continued market placement.
 
-
-Add after the Class I sub-types definition: 'Note: Im, Is, and Ir designations are used in technical documentation and Swissmedic registration to specify measurement, sterility, or reusability requirements. These sub-types do not alter conformity assessment routes but are mandatory labelling and documentation requirements.'
-
-## Official Sources
-- [MedDO Annex VIII (SR 812.213)](https://www.fedlex.admin.ch/eli/cc/2021/205/en)
-- [Swissmedic — Classification](https://www.swissmedic.ch/swissmedic/en/home/medical-devices/market-access/classification.html)
-- [MDCG 2021-24 — Classification manual (applicable in Switzerland)](https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en)
-
-## Related Pages
-- [MedDO Classification Rules 1–22](./medo-classification-rules)
-- [Conformity Assessment Overview](../conformity-assessment/conformity-assessment-overview)
-
-:::warning Disclaimer
-AI-assisted content for navigation only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
-:::
-
-Note: Im, Is, and Ir designations are used in technical documentation and Swissmedic registration to specify measurement, sterility, or reusability requirements. These sub-types do not alter conformity assessment routes but are mandatory labelling and documentation requirements.

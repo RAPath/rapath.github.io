@@ -38,7 +38,7 @@ The manufacturer is responsible for determining the correct classification based
 - Issue formal classification opinions on request
 
 :::tip Request a DAV classification opinion
-If your device falls into a grey area between two classes, it is strongly recommended to request a formal written classification opinion from DAV before committing to a full registration dossier. This avoids costly rework and potential rejection if DAV disagrees with your classification. Submit your request through [contact/portal details] and expect a response within approximately 30 days.
+If your device falls into a grey area between two classes, request a formal written classification opinion from DAV before committing to a full registration dossier. Submit a written request to DAV including: (1) a clear description of the device and its intended purpose, (2) technical specifications and design drawings, (3) identification of applicable classification rules under Decree 98/2021 and Circular 14/2020, and (4) your proposed classification. DAV will issue a formal written opinion. Expect a response within approximately 30 days.
 :::
 
 ## IVD devices
@@ -48,5 +48,3 @@ In-vitro diagnostic devices follow a separate set of classification rules. See [
 ## ASEAN harmonisation
 
 Vietnam's classification rules are directly derived from the **ASEAN AMDD classification framework**, making them broadly compatible with rules applied in Singapore (HSA), Malaysia (MDA), Thailand (FDA Thailand), and other ASEAN member states. See [ASEAN & International](../asean-international/vietnam-asean-landscape).
-
-Add a new section under 'Request a DAV classification opinion' with: 'Submit a written request to DAV (Department of Administration and Verification) including: (1) a clear description of the device and its intended purpose, (2) technical specifications and design drawings, (3) identification of applicable classification rules under Decree 98/2021 and Circular 14/2020, and (4) your proposed classification. DAV will issue a formal written classification opinion. Note that requesting a classification opinion before submitting a full dossier can prevent costly rework if DAV disagrees with your initial classification determination.'

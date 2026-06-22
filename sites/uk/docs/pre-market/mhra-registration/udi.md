@@ -77,4 +77,3 @@ UDI must be in both **human-readable interpretation (HRI)** and **AIDC** (Automa
 | GS1 UK | GS1 UDI standards |
 | EU MDR 2017/745, Art. 27 | EU UDI requirements (applies in NI — comparative reference) |
 
-Replace 'MHRA requires manufacturers to include UDI on device labels for higher-risk device classes (Class III, AIMD, and certain Class IIb devices) by implementation that have been progressively delayed. specified dates' with: 'MHRA requires manufacturers to include UDI on device labels for higher-risk device classes (Class III, AIMD, and certain Class IIb devices) by specified implementation dates that have been progressively delayed.'

@@ -65,8 +65,3 @@ IVD-specific guidance across all classes:
 
 "Priority Review and RS Strategy Consultation: Class III devices may be eligible for Priority Review if they address serious unmet medical needs. PMDA's RS Strategy Consultation provides early feedback on review strategy before formal application submission. Contact PMDA consultation services for eligibility assessment."
 
-Expand Class I devices section with: "Conformity assessment: Class I manufacturers must comply with MO 169 QMS requirements, though some low-risk Class I devices may qualify for simplified QMS requirements. Manufacturers should contact their prefectural government for guidance on QMS simplifications applicable to their device type. Some prefectures publish specific Class I quality manuals."
-
-Expand IVDs section to clarify: "IVD pathways: In-vitro diagnostic devices follow the same three-pathway system as other medical devices (Shonin, Ninsho, Todokede) based on JMDN code classification. In-house diagnostics (医療機関内診断用医療機器) may have reduced requirements if the applicant is a clinical facility. Check the JMDN code list and recognised standards list for your IVD to determine applicable pathway."
-
-Add to Class III devices section: "Priority Review and RS Strategy Consultation: Class III devices may be eligible for Priority Review if they address serious unmet medical needs. PMDA's RS Strategy Consultation provides early feedback on review strategy before formal application submission. Contact PMDA consultation services for eligibility assessment."

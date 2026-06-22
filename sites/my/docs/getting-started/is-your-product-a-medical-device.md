@@ -56,10 +56,3 @@ Does the product achieve its primary intended effect through pharmacological, im
 If uncertain, submit a product classification enquiry via the MyMDA portal. MDA will provide a formal determination.
 :::
 
-Add this note to Step 1 after the medical purposes list:
-
-Add this note to Step 1 after the medical purposes list:
-
-**In Vitro Diagnostic Devices (IVDs):** Products intended for in vitro examination of human specimens to provide diagnostic information are medical devices. IVDs may be subject to specific conformity assessment requirements and performance evaluation procedures under MDA guidance. If your product is an IVD, refer to MDA's latest IVD performance evaluation guidance before proceeding to classification.
-
-After the medical purposes list in Step 1, add: 'Note: If the product's intended purpose is ambiguous or if it claims both medical and non-medical uses, MDA will classify based on the primary intended purpose. Contact MDA for clarification if the product's regulatory status is unclear.'

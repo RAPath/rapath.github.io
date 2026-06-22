@@ -47,4 +47,3 @@ Monitor the MHLW website quarterly or subscribe to PMDA's notification service t
 
 MHLW publishes updates to the recognised standards list typically 1–2 times per year, often aligned with international standard revisions (ISO, IEC) or in response to new device types entering the market. Updates are announced via MHLW notifications (通知) and posted on mhlw.go.jp. There is no single automated alert system; monitor the site quarterly or subscribe to PMDA's notification service.
 
-Add a new subsection titled 'Update frequency and timeline': 'MHLW publishes updates to the recognised standards list typically 1–2 times per year, often aligned with international standard revisions (ISO, IEC) or in response to new device types entering the market. Updates are announced via MHLW notifications (通知) and posted on mhlw.go.jp. There is no single automated alert system; monitor the site quarterly or subscribe to PMDA's notification service.'

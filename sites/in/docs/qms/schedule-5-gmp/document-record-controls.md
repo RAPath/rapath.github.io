@@ -13,4 +13,3 @@ Schedule 5 Part I applies to all manufacturers (Class A–D). Schedule 5 Part II
 
 > **Official source:** Medical Devices Rules 2017, Schedule 5
 
-Add a section detailing specific requirements such as: document approval and authorization procedures, version control and change tracking, record retention periods by document type, access controls and traceability, document archival procedures, obsolete document handling, and electronic record management requirements. Include specific Schedule 5 references.

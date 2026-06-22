@@ -41,4 +41,3 @@ One LRP may represent multiple foreign manufacturers, subject to MDD approval. T
 
 Contact the MDD if you plan to engage an LRP representing competing devices or if your LRP represents other manufacturers in your therapeutic category.
 
-Add to the LRP section: 'One LRP may represent multiple foreign manufacturers, subject to MDD approval. The LRP must have adequate resources and governance to manage all assigned devices and maintain separate complaint and vigilance records per manufacturer.'

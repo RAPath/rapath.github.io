@@ -53,8 +53,3 @@ MHLW has issued device category-specific labelling notifications (available on t
 
 Class I devices may have different or reduced IFU requirements depending on the specific device category and risk classification. Refer to applicable MHLW notifications for Class I device labelling and IFU exemptions.
 
-Add to IFU requirements section: 'Class I devices may have different or reduced IFU requirements depending on the specific device category and risk classification. Refer to applicable MHLW notifications for Class I device labelling and IFU exemptions.'
-
-UDI Implementation: Medical devices marketed in Japan must display Unique Device Identification (UDI) on the label and packaging according to a phased implementation schedule by device class. UDI requirements began for certain device classes in 2021 and continue phasing through 2024. Verify the current UDI deadline for your specific device class on the MHLW website.
-
-eIFU Provisions: Currently, eIFU is permitted only for certain device categories with prior MHLW approval. A comprehensive general eIFU framework has not been finalised. If you intend to provide eIFU instead of or in addition to paper IFU, contact MHLW or PMDA in advance for guidance specific to your device category.

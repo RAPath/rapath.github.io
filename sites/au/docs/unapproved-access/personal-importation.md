@@ -96,20 +96,3 @@ Devices imported under the personal importation exemption carry risks the import
 
 ---
 
-Complete the truncated sentence: 'quantities of unapproved devices at the border may trigger further investigation, and goods may be detained pending TGA clearance. Importers should declare medical devices to the ABF and be prepared to demonstrate that the quantity and intended use are consistent with personal use.'
-
-## Official Sources
-
-- [Regulation 12 — Therapeutic Goods Regulations 1990 (personal importation)](https://www.legislation.gov.au/current/F1996B00406)
-- [Importing therapeutic goods for personal use — TGA](https://www.tga.gov.au/resources/guidance/importing-therapeutic-goods-personal-use)
-- [Importing and supplying medical devices — TGA](https://www.tga.gov.au/products/medical-devices/supply-and-distribution/importing-and-supplying-medical-devices)
-
----
-
-## Related Pages
-
-- [Special Access Scheme (SAS)](./special-access-scheme.md)
-- [Authorised Prescribers](./authorised-prescribers.md)
-- [Clinical Trial Pathways](./clinical-trial-pathways.md)
-- [Importers and Distributors](/docs/start-here/importers-and-distributors)
-- [Sponsors](/docs/start-here/sponsors)

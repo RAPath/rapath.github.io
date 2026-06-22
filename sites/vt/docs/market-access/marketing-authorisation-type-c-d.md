@@ -72,11 +72,3 @@ Ensure your CFS is correctly legalised well in advance of your intended submissi
 
 : 'All dossier modules must be submitted together in a single submission to initiate DAV review. The DMEC system does not permit module-by-module submission or hold incomplete dossiers. Ensure all modules are complete and accurate before submission.
 
-Add after 'Submit via DMEC — upload all dossier modules and pay the applicable government fee:': 'All dossier modules must be submitted together in a single submission to initiate DAV review. The DMEC system does not permit module-by-module submission or hold incomplete dossiers. Ensure all modules are complete and accurate before submission.'
-
-Be issued by the relevant national authority (not a private body)
-Cover the specific device(s) being registered
-Be legalised / apostilled in accordance with Vietnamese requirements
-Be valid at the time of submission
-
-CFS legalisation frequently presents a critical bottleneck in the registration timeline. Initiate CFS requests at least 8–12 weeks before your planned DMEC submission to allow for processing time, authentication, and correction of any errors. Verify the exact legalisation procedure required by the Vietnamese Embassy or consulate in the country of origin, as requirements vary. A poorly executed CFS can delay your entire application by months.

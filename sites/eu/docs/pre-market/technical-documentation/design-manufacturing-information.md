@@ -157,4 +157,3 @@ MDCG 2020-3 provides guidance on significant changes to medical devices.
 | MDR Art. 10(9) | QMS requirements |
 | MDCG 2020-3 | Guidance on significant changes |
 
-Add content to Section 3.3: "The technical documentation must provide an overview of the quality management system (QMS) that governs design, manufacturing, and post-market activities. Per EN ISO 13485:2016, this includes: Quality policy and objectives; Organizational structure and responsibility assignments; Design and development controls; Supplier and subcontractor management; Manufacturing process controls; Inspection, testing, and acceptance criteria; Document and record control; Complaint handling and corrective action procedures; Post-market surveillance and vigilance reporting. The QMS overview should demonstrate that the processes documented in Sections 3.1 and 3.2 (design and manufacturing) are controlled and monitored systematically."

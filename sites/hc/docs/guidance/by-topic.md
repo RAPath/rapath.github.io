@@ -67,4 +67,3 @@ All official guidance is available on the **[Health Canada guidance documents pa
 
 Guidance on Bilingual Labelling Requirements — English and French labelling requirements for all devices sold in Canada
 
-Add to the 'Device Licence applications' section: "Guidance on Risk Management — ISO 14971 application in the submission context"

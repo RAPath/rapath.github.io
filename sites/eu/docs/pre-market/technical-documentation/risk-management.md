@@ -220,10 +220,3 @@ The risk management file is typically structured as:
 | MDR Annex II, Section 5 | Risk management in technical documentation |
 | MDCG 2020-6 | Technical documentation templates |
 
-Complete the risk controls section with: '1. Design changes: modify the design to eliminate or reduce hazards 2. Protective measures: engineering controls that protect the patient/user if hazard cannot be eliminated by design 3. Information for users: warnings, instructions, training, supervision — only when design and protective measures are insufficient 4. Post-production surveillance: monitoring of devices in use to detect unforeseen hazards Each risk must be addressed using the highest applicable priority before moving to the next level. Documentation must justify why a lower priority was chosen if applicable.'
-
-Complete the risk control hierarchy section with: 'Priority 1 - Design controls: eliminate or minimise hazards through design changes
-Priority 2 - Protective measures: implement safeguards, guards, interlocks, alarms
-Priority 3 - Information for users: warnings, instructions, training, labelling
-
-Risk controls must be verified to confirm they actually reduce risk as intended. The residual risk after all controls must be re-evaluated against acceptability criteria. Only if design and protective controls cannot further reduce risk without creating new hazards, and the remaining risk is acceptable, may information-only controls be used as the primary strategy.'

@@ -80,12 +80,3 @@ When pre-clinical testing is required
 ​
 Pre-clinical test reports demonstrating safety and performance are required for all device classes. For Class I non-sterile devices, pre-clinical data alone may be sufficient if no clinical investigation is requested by the FGBU. For higher classes or novel devices, clinical data is typically required in addition to pre-clinical testing.
 
-Add a new subsection under 'Pre-clinical and clinical data':
-
-When pre-clinical testing is required
-​
-Pre-clinical test reports demonstrating safety and performance are required for all device classes. For Class I non-sterile devices, pre-clinical data alone may be sufficient if no clinical investigation is requested by the FGBU. For higher classes or novel devices, clinical data is typically required in addition to pre-clinical testing.
-
-Add clarification to the 'Pre-clinical and clinical data' section:
-
-For Class I non-sterile devices with no novel components and where the FGBU does not request clinical investigation, pre-clinical test reports demonstrating safety and performance may be sufficient. For all other classes or devices with novel features, clinical evaluation or clinical investigation data is typically required in addition to pre-clinical testing. The FGBU determines whether clinical investigation is necessary during Phase 1 review.

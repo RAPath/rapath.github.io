@@ -107,24 +107,3 @@ In-house IVDs are IVDs manufactured and used within a single laboratory, not sup
 
 ---
 
-Complete the truncated section with: 'are treated as higher risk regardless of their device class, due to the potential for user error and the critical nature of self-diagnosis or near-patient decision-making. Self-tests and point-of-care devices undergo more detailed scrutiny and stricter conformity assessment requirements than equivalent laboratory-based tests.'
-
-Add a new subsection: 'Classification Edge Cases for Self-Tests
-
-Where a device is both a self-test and a Class 1 IVD (e.g., a simple rapid screening test for a non-critical analyte), manufacturers should consult the TGA on the appropriate classification, as the self-test nature may warrant classification one level higher. Similarly, point-of-care devices used in emergency or critical care settings may face additional scrutiny regardless of base classification. Manufacturers should seek early TGA advice where the classification is unclear.'
-
-## Official Sources
-
-- [Schedule 2A — IVD Classification rules](https://www.legislation.gov.au/current/F2022C00900)
-- [IVD medical devices overview — TGA](https://www.tga.gov.au/products/medical-devices/overview/ivd-medical-devices)
-- [Self-tests and point-of-care IVDs — TGA](https://www.tga.gov.au/resources/guidance/guidance-regulatory-requirements-self-tests-and-point-care-combo-test-kits)
-- [Application audit criteria — TGA](https://www.tga.gov.au/resources/guidance/understanding-selection-criteria-medical-device-application-audits)
-
----
-
-## Related Pages
-
-- [How Classification Works](./how-classification-works.md)
-- [Class I, IIa, IIb, III & AIMD](./class-i-iia-iib-iii-aimd.md)
-- [IVD Medical Devices (Special Types)](../special-devices/ivd-medical-devices.md)
-- [Conformity Assessment Overview](../conformity-assessment/overview.md)

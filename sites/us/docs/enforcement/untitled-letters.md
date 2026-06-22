@@ -49,13 +49,3 @@ Even though less formal than a warning letter, an untitled letter should be take
 - [FDA — Untitled Letters](https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/inspections/warning-letters-and-notice-violation-letters-fdas)
 - [FDA Warning Letters Database](https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/compliance-actions-and-activities/warning-letters)
 
-Replace the section 'Untitled letter vs warning letter' with:
-
-'Untitled letter vs warning letter
-
-Characteristic | Untitled Letter | Warning Letter
-Severity level | Lower | Higher
-Public posting | Typically no | Yes — posted on FDA website
-Formal response required? | Usually expected, but more flexible on timing | Yes — within 15 business days
-Escalation risk if not addressed | May escalate to warning letter | May escalate to enforcement action
-Typical timeframe for response | 30 days (flexible) | 15 business days (mandatory)'

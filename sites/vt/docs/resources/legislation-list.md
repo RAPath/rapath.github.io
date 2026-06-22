@@ -62,14 +62,3 @@ Vietnamese regulatory instruments are frequently amended. This list was accurate
 
 ---
 
-
-Add a note beneath the Circular 14/2020/TT-BYT entry: 'Note: Verify current classification guidance on the DMEC portal or DAV website, as classification rules may have been updated by subsequent circulars or DAV guidance documents.'
-
-## Official Sources
-
-- **Vietnam Legal Document Portal:** [vbpl.vn](https://vbpl.vn)
-- **Ministry of Health:** [moh.gov.vn](https://moh.gov.vn)
-- **Drug Administration of Vietnam:** [dav.gov.vn](https://dav.gov.vn)
-- **National Medical Device Information System (DMEC):** [dmec.gov.vn](https://dmec.gov.vn)
-
-Note: Verify current classification guidance on the DMEC portal or DAV website, as classification rules may have been updated by subsequent circulars or DAV guidance documents.

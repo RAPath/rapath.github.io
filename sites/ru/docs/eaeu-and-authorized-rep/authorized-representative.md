@@ -42,15 +42,3 @@ Government Decree No. 1684: [government.ru](https://government.ru/)
 
 RUS REP requirements under EAEU: When registering under the EAEU pathway with Russia as the reference state, the RUS REP (or equivalent authorized representative) must still be appointed and maintains the same core responsibilities: submitting the dossier, corresponding with the EEC, and handling post-market obligations. However, some administrative procedures may differ under EEC Decision No. 46 compared to the national pathway. Manufacturers should verify specific requirements with their RUS REP when transitioning to EAEU registration.
 
-Add a new subsection under 'EAEU pathway' section: 'RUS REP requirements under EAEU: When registering under the EAEU pathway with Russia as the reference state, the RUS REP (or equivalent authorized representative) must still be appointed and maintains the same core responsibilities: submitting the dossier, corresponding with the EEC, and handling post-market obligations. However, some administrative procedures may differ under EEC Decision No. 46 compared to the national pathway. Manufacturers should verify specific requirements with their RUS REP when transitioning to EAEU registration.'
-
-Add a new subsection titled 'Selecting a RUS REP' with this text:
-
-When selecting a RUS REP, manufacturers should verify:
-- Registration with Roszdravnadzor as an authorized representative
-- Demonstrated experience with medical device registrations in Russia
-- Familiarity with your device classification and therapeutic area
-- Adequate staffing and resources to manage post-market obligations
-- Financial stability and professional liability insurance
-- Clear understanding of the transition to EAEU rules by 2027
-The RUS REP acts as your regulatory gateway; investing time in this selection is critical to successful market access.

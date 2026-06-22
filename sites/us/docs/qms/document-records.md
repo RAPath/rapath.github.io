@@ -75,4 +75,3 @@ All documents required by the QMSR must be controlled. Document control procedur
 
 For devices with indefinite or unknown expected life (e.g., implants, prosthetics), DHRs must be retained for at least 5 years from date of release, or according to a manufacturer-defined retention period that is justified and documented in the quality system. Consult product-specific FDA guidance for retention recommendations.
 
-Add to Device History Record section: 'For devices with indefinite or unknown expected life (e.g., implants, prosthetics), DHRs must be retained for at least 5 years from date of release, or according to a manufacturer-defined retention period that is justified and documented in the quality system. Consult product-specific FDA guidance for retention recommendations.'

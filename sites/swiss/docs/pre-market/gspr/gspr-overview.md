@@ -33,18 +33,3 @@ Manufacturers demonstrate compliance by: identifying all applicable GSPRs; mappi
 | § 17 Software | IEC 62304, IEC 62366-1 |
 | §§ 23–24 Labelling | ISO 15223, EN ISO 7000 |
 
-
-Add after the 'Annex I Structure' heading: 'MedDO Annex I (SR 812.213) is structured in three chapters with specific article ranges. Manufacturers should verify the exact article numbers in the official SR 812.213 regulation for precise compliance mapping.'
-
-
-Consider adding a brief sentence or adding a new section: 'A GSPR compliance matrix is a structured table mapping each applicable GSPR requirement to the technical solution (harmonised standard, alternative method, or evidence) used to demonstrate compliance, along with supporting documentation references. This matrix forms the core of the technical documentation and is reviewed by notified bodies during conformity assessment.'
-
-## Official Sources
-- [MedDO Annex I (SR 812.213)](https://www.fedlex.admin.ch/eli/cc/2021/205/en)
-- [Swissmedic — Harmonised standards](https://www.swissmedic.ch/swissmedic/en/home/medical-devices/market-access/harmonised-standards.html)
-
-:::warning Disclaimer
-AI-assisted content for navigation only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
-:::
-
-MedDO Annex I (SR 812.213) is structured in three chapters with specific article ranges. Manufacturers should verify the exact article numbers in the official SR 812.213 regulation for precise compliance mapping.

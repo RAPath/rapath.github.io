@@ -74,4 +74,3 @@ PNBP Payment Timeline
 
 Once the billing notice is generated following administrative review, payment must be made within the timeframe specified by Kemenkes (typically 5–10 working days). If payment is not received within this period, the application may be rejected or held indefinitely. Late payment can result in application withdrawal and the need to resubmit. Coordinate payment processing internally to ensure timely settlement.
 
-Add under 'PNBP Government Fees': 'For current fee schedules, consult the latest PNBP regulation (typically issued as a Permenkes or government decree) or contact Kemenkes directly via Regalkes. Fee amounts are subject to government revision and vary by device class, application type (new registration, renewal, change notification), and device complexity. Your LAR can provide guidance on anticipated fees for your specific device.'

@@ -44,4 +44,3 @@ Cybersecurity risk assessment is mandatory for all software medical devices and 
 
 Cybersecurity risk assessment is mandatory for all software medical devices and must address data protection, authentication, encryption, and vulnerability management in accordance with GOST R 56956-2016 (Information security in medical devices).
 
-Remove the second 'Practical notes' heading that appears after 'OKPD-2 codes for software' in the table of contents. There should be only one 'Practical notes' section in the page outline.

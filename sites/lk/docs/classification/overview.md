@@ -68,4 +68,3 @@ Regulatory professionals familiar with EU MDR classification will find the Sri L
 
 The Reliance Pathway was introduced in October 2025. Confirm current eligibility and reference country acceptance with the NMRA website, as these may be subject to periodic updates.
 
-Add a note: 'The Reliance Pathway was introduced in October 2025. Confirm current eligibility and reference country acceptance with the NMRA website, as these may be subject to periodic updates.'

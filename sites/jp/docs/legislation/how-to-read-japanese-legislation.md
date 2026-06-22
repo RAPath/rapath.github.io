@@ -68,4 +68,3 @@ e-Gov is the authoritative source for current legislative text.
 
 PMDA Administrative Notices (事務連絡): Available on PMDA's website under "Administrative Information" (行政情報), "Guidance Documents" (ガイダンス), or "Review Information" (審査情報). These are often published in Japanese only; English translations are provided for key operational notices but are not systematically available for all guidance. Applicants should verify the current version in Japanese to ensure compliance with the most recent procedural requirements.
 
-Add to the 'How to find a specific provision' section: 'PMDA Administrative Notices (事務連絡): Available on PMDA's website under "Administrative Information" (行政情報) or "Guidance Documents" (ガイダンス). These are often in Japanese only; English translations are not systematically provided.'

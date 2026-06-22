@@ -357,4 +357,3 @@ Any measure aimed at preventing a device in the supply chain from being further 
 | ISO 14971:2019 | Risk management for medical devices |
 | ISO 13485:2016 | Medical device QMS |
 
-Complete the Companion diagnostic entry and add remaining glossary terms (D through Z) including: Device Master File, Distributor, EUDAMED, European Medicines Agency, Importer, In vitro diagnostic (IVD), Notified Body, Performance evaluation, Post-Market Clinical Follow-up (PMCF), Post-Market Surveillance (PMS), Serious incident, Technical documentation, and other key regulatory terms defined in MDR Article 2 and IVDR Article 2.

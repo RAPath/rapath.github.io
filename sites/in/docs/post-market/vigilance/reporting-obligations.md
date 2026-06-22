@@ -42,4 +42,3 @@ All adverse event reports must be submitted via the SUGAM portal or directly to 
 **Manufacturer Responsibilities**
 Manufacturers must establish and maintain an effective post-market surveillance system and designate a qualified individual responsible for adverse event management and trending.
 
-Add a section explaining key reporting obligations such as: 'Manufacturers, importers, and authorized representatives must report adverse events to CDSCO via the SUGAM portal within specified timelines. Serious adverse events must be reported within 14 days for Class D devices and 30 days for Class C devices. All safety-related updates, recalls, and field actions must be communicated through formal channels.'

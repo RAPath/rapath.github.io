@@ -73,4 +73,3 @@ For most manufacturers targeting 3+ markets, parallel submissions (filing in mul
 - [RAPath HC — Health Canada](https://rapath.org/hc/)
 - [RAPath SG — HSA](https://rapath.org/sg/)
 
-Add a new paragraph under 'Strategic sequencing options': 'Post-market data considerations: FDA 510(k) clearances do not typically require post-market clinical follow-up, while EU MDR requires PMCF (post-market clinical follow-up) plans for most Class II and above devices. This means an EU-first strategy requires commitment to long-term data collection, while FDA-first may allow faster market entry with limited post-approval obligations.'

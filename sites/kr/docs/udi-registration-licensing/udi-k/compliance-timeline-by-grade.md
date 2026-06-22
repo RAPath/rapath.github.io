@@ -40,4 +40,3 @@ Failure to comply with UDI-K requirements by the applicable deadline may result 
 
 Manufacturers and importers should plan compliance activities well in advance of the deadline to avoid disruption to supply chains.
 
-Expand the "Existing stock at compliance date" section: "Transition Stock Rules: MFDS typically allows existing stock manufactured before the compliance deadline to be distributed until stock depletion, provided the products meet all other regulatory requirements. However, all new manufacturing from the compliance date forward must include UDI-K labels. Confirm specific transition provisions in the relevant MFDS notification (관련 고시) for your device grade."

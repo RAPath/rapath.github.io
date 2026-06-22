@@ -100,4 +100,3 @@ Before importing and distributing, update all product labeling to include the NI
 
 "Step 7a: Clarification Response Timeline - Kemenkes typically allows 14-30 days for response to clarification queries (permintaan klarifikasi). Responses must address all queries completely. Partial responses or missing information will restart the response clock. Failure to respond within the deadline may result in administrative rejection of the application."
 
-Add new section after Step 7: "Step 7a: Clarification Response Timeline - Kemenkes typically allows 14-30 days for response to clarification queries (permintaan klarifikasi). Responses must address all queries completely. Partial responses or missing information will restart the response clock. Failure to respond within the deadline may result in administrative rejection of the application."

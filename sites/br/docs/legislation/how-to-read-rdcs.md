@@ -40,4 +40,3 @@ Verify all information against official [ANVISA](https://www.gov.br/anvisa) sour
 
 RDCs and international harmonisation: Many ANVISA RDCs transpose MERCOSUL GMC Resolutions into Brazilian national law. Additionally, RDC 751/2022 and its companions align with IMDRF guidance and EU MDR principles. When reading RDCs, check the preamble for references to MERCOSUL or international standards to understand the regulatory intent.
 
-Add new section after 'Finding and accessing RDCs': 'RDCs and international harmonisation: Many ANVISA RDCs transpose MERCOSUL GMC Resolutions into Brazilian national law. Additionally, RDC 751/2022 and its companions align with IMDRF guidance and EU MDR principles. When reading RDCs, check the preamble for references to MERCOSUL or international standards to understand the regulatory intent.'

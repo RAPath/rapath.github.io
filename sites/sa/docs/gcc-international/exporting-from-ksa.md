@@ -59,4 +59,3 @@ Export Certificate Validity
 
 SFDA export certificates are typically valid for a specified period (confirm current duration with SFDA via GHAD). Manufacturers must renew the export certificate if the device specification, manufacturing location, or MDEL status changes. Export certificates are device and destination-specific; a separate certificate is required for each destination country and each distinct device variant.
 
-Add definition after first mention of AR: 'Determine whether MDMA is required (domestic sale vs export-only) — consult with your AR (Authorized Representative in Saudi Arabia)'

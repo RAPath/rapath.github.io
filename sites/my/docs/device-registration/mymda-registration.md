@@ -92,6 +92,3 @@ All official communication with MDA about your application should be done throug
 
 that reads: 'Note: A Local Authorised Representative (LAR) agreement is required only if the manufacturer is based outside Malaysia. Malaysian manufacturers do not require an LAR.
 
-Add a clarification paragraph after 'Prerequisites before starting a registration application:' that reads: 'Note: A Local Authorised Representative (LAR) agreement is required only if the manufacturer is based outside Malaysia. Malaysian manufacturers do not require an LAR.'
-
-**Note:** A Local Authorised Representative (LAR) agreement is required only if the manufacturer is based outside Malaysia. Malaysian manufacturers do not require an LAR.

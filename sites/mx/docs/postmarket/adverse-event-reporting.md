@@ -93,15 +93,3 @@ The MRH should respond to CNFV within 10 calendar days with available informatio
 Consider this direct reporting pathway when designing your distributor technical agreement — distributors should be contractually required to monitor CNFV communications and alert the MRH if direct reports are received.
 To reduce gaps, encourage major customers and distributors to notify you promptly when they become aware of incidents, even if they have also reported directly to CNFV.
 
-Add a new subsection after 'Who submits to CNFV?':
-
-Handling direct reports from healthcare facilities
-​
-Healthcare users and facilities can report device incidents directly to CNFV without notifying the MRH first. When this occurs:
-
-CNFV will contact the MRH to request an initial assessment and any available information about the device, manufacturer, and incident context.
-The MRH should respond to CNFV within 10 calendar days with available information, even if the full investigation is incomplete.
-Consider this direct reporting pathway when designing your distributor technical agreement — distributors should be contractually required to monitor CNFV communications and alert the MRH if direct reports are received.
-To reduce gaps, encourage major customers and distributors to notify you promptly when they become aware of incidents, even if they have also reported directly to CNFV.
-
-Complete the truncated sentence: 'Consider this direct reporting pathway when designing your distributor management and technovigilance procedures to ensure timely awareness of emerging safety issues.'

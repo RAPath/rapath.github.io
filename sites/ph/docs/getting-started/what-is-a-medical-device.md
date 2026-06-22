@@ -53,6 +53,3 @@ Even though IVDs do not currently require CMDN/CMDR registration, all entities h
 
 Last reviewed: May 2026. For current information, always verify with CDRRHR at www.fda.gov.ph — regulatory requirements may change.
 
-Add a note clarifying the review date: 'Last reviewed: May 2026. For current information, always verify with CDRRHR at www.fda.gov.ph — regulatory requirements may change.'
-
-Change 'as of the last review (May 2026)' to 'as of May 2026 (the date of last formal review)' or add a note explaining this is the expected next review date.

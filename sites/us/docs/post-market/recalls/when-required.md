@@ -31,8 +31,3 @@ Reports must be submitted to FDA **within 10 working days** of initiating the co
 - [21 CFR Part 806](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-H/part-806)
 - [FDA — Recalls, Corrections and Removals](https://www.fda.gov/medical-devices/medical-device-recalls)
 
-Add after the definition of Correction and Removal:
-
-**What qualifies as 'risk to health'**
-
-A recall or correction must be reported if it addresses a device defect, non-compliance, or malfunction that could result in adverse health consequences, ranging from minor injury to death. Performance improvements that do not eliminate a health hazard do not require reporting.

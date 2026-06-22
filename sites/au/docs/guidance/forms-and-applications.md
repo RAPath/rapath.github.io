@@ -100,10 +100,3 @@ Small businesses and new entrants to the Australian medical device market can ac
 
 ---
 
-
-Update the ASDER entry to read: 'ASDER — healthcare facility reporting (from March 2025) - Report adverse events as a healthcare facility using ASDER (Adverse Supporting Data Entry Report). During the 12-month voluntary period (21 March 2025 to 20 March 2026), use: Contact: MDAE.Support@health.gov.au. Mandatory reporting begins 21 March 2026.'
-
-## Related Pages
-
-- [All Guidance by Topic](./by-topic.md)
-- [Guidance by Device Class](./by-device-class.md)

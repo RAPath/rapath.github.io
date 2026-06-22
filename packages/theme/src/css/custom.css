@@ -4,8 +4,8 @@
    All typography, fonts, sizing, spacing = Docusaurus/Infima defaults.
    ============================================================================= */
 
-/* Import Inter from Google Fonts */
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300..800&display=swap');
+/* Inter loaded non-blocking via headTags in docusaurus configs (preconnect + preload).
+   @import removed — CSS @import is render-blocking on mobile. */
 
 :root {
   /* Font family */

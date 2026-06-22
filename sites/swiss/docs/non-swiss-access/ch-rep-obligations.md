@@ -37,18 +37,3 @@ Swissmedic maintains a publicly accessible CH REP register (name, address, conta
 ## Due Diligence When Selecting a CH REP
 Consider: established Swiss track record; DAPI and eVigilance system experience; capacity for your device portfolio volume; contractual terms and liability framework; experience with your specific device types.
 
-
-Add under 'Terminating the Mandate' section: 'During the transition period between old and new CH REP appointment, the manufacturer remains responsible for ensuring all incidents and complaints are properly reported to Swissmedic. Both the outgoing and incoming CH REP should coordinate to ensure no vigilance reporting gaps occur.'
-
-
-The note at the bottom about transition coordination is helpful but should also state: 'The manufacturer must ensure the outgoing CH REP does not remove itself from DAPI records until the incoming CH REP is fully registered and functional. Swissmedic should be notified of the transition to avoid gaps in regulatory responsibility.'
-
-## Official Sources
-- [MedDO Art. 56–59 (SR 812.213)](https://www.fedlex.admin.ch/eli/cc/2021/205/en)
-- [Swissmedic — Authorised representative](https://www.swissmedic.ch/swissmedic/en/home/medical-devices/market-access/authorised-representative.html)
-
-:::warning Disclaimer
-AI-assisted navigation aid only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
-:::
-
-During the transition period between old and new CH REP appointment, the manufacturer remains responsible for ensuring all incidents and complaints are properly reported to Swissmedic. Both the outgoing and incoming CH REP should coordinate to ensure no vigilance reporting gaps occur.

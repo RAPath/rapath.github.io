@@ -57,8 +57,3 @@ PMDA administrative notices: [pmda.go.jp — administrative information](https:/
 
 Note: Specific notification numbers, dates, and issuing bureaus are not listed here because they change with periodic updates. Always verify the current version on mhlw.go.jp by searching for the topic (e.g., "認証基準" for recognised standards or "プログラム医療機器" for SaMD) rather than relying on stored notification numbers.
 
-Add a note below the table: 'Note: Specific notification numbers, dates, and issuing bureaus are not listed here because they change with periodic updates. Always verify the current version on mhlw.go.jp by searching for the topic (e.g., "認証基準" for recognised standards or "プログラム医療機器" for SaMD) rather than relying on stored notification numbers.'
-
-Add to the 'QMS and manufacturing' section: 
-Topic: Good Distribution Practice (GDP) for devices
-Key notification: MHLW notification on GDP standards for wholesalers and distributors (updated periodically) — specifies storage, handling, and traceability requirements for device distributors.

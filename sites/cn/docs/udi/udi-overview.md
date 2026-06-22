@@ -28,4 +28,3 @@ The system is broadly aligned with the IMDRF UDI guidance document but has China
 Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [NMPA](https://www.nmpa.gov.cn/) sources before making regulatory decisions. Not affiliated with NMPA or any Chinese Government body. Not legal or regulatory advice.
 :::
 
-Add content covering: (1) Purpose of China UDI system (traceability, adverse event tracking, recalls); (2) Scope (device classes subject to UDI requirements); (3) Timeline for implementation by device class; (4) Key differences from IMDRF guidance or other jurisdictions; (5) Responsibility of manufacturers, importers, and NMPA.

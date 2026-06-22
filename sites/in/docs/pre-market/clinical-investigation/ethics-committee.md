@@ -21,14 +21,3 @@ Form MD-24 (clinical investigation permission) or Form MD-28 (amendment) is subm
 
 > **Official source:** Medical Devices Rules 2017, Chapter V; ND&CT Rules 2019; [CDSCO](https://cdsco.gov.in)
 
-Add the following section after 'CDSCO permission':
-
-CDSCO-Recognised Ethics Committees
-
-Not all institutional ethics committees are recognised by CDSCO for device clinical investigations. An ethics committee must be:
-
-- Registered with CDSCO (list available on CDSCO website)
-- Constitute at least 5 members including lay representatives
-- Have prior experience reviewing medical device protocols
-
-Typical EC review timelines range from 4–8 weeks depending on protocol complexity. It is advisable to select an experienced, CDSCO-recognised EC early in the planning phase.

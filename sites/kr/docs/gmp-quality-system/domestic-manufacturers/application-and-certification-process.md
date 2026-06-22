@@ -37,12 +37,3 @@ The KGMP certificate specifies the manufacturing site and the **categories of de
 
 ## Application requirements
 
-Add a new section after 'Step-by-step process':
-
-**Typical timeline**
-
-The KGMP certification process typically takes 4–6 months from initial application to certificate issuance, depending on facility complexity, readiness, and any nonconformities identified during inspection.
-
-**Readiness before application:** Manufacturers must have a functioning QMS compliant with KGMP in place before submitting the certification application. MFDS will not schedule on-site inspection for incomplete or non-functional quality systems.
-
-Add under 'Step 6. Correct any nonconformities identified (CAPA)': Manufacturers typically have 30–60 days to submit a CAPA plan, depending on the severity of nonconformities. The total certification timeline from application to certificate issuance typically ranges from 3–6 months.

@@ -46,4 +46,3 @@ Software as a Medical Device (SaMD) is classified using the IMDRF SaMD classific
 **Note on State Licensing Authorities (SLA)**
 Manufacturing licenses for Class A and B devices are issued by State Licensing Authorities designated by individual state governments. Manufacturers must apply through their respective state health department or state drug licensing authority. There is no centralized CDSCO application for Class A and B manufacturing licenses.
 
-Add clarification: 'Rule 4 of the Medical Devices Rules 2017 establishes the classification methodology based on four key criteria: (1) Duration of body contact (temporary, short-term, or long-term); (2) Degree of invasiveness; (3) Active vs. passive functionality; (4) Potential for harm considering the intended use and body system affected. Devices are assigned to Classes A, B, C, or D based on overall risk assessment across these criteria.'

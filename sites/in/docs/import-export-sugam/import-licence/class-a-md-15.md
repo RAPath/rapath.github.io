@@ -11,4 +11,3 @@ This page covers import requirements under the Medical Devices Rules 2017.
 
 > **Official source:** Medical Devices Rules 2017, Chapter III; [CDSCO](https://cdsco.gov.in)
 
-Add content covering: Form MD-15 application requirements, Class A notified devices list reference, exemptions or streamlined approval process for Class A, validity period, renewal procedures, and documentation checklist.

@@ -24,4 +24,3 @@ sidebar_position: 5
 
 For the 2024 AI/ML guidance update entry, add: 'Includes mandatory algorithm change monitoring protocol (ACMP), explainability documentation for high-risk algorithms, and requirements for clinician notification of significant algorithm modifications.'
 
-Update the 2024 eIFU entry row to read: "eIFU provisions introduced — Electronic IFU permitted for professional-use devices and in-vitro diagnostic devices; limited to online access with downloadable PDF backup option."

@@ -94,4 +94,3 @@ The **Trans-Tasman Mutual Recognition Arrangement** means that goods lawfully su
 
 While New Zealand does not mandate specific conformity assessment routes (like CE marking or ARTG listing), sponsors must ensure technical documentation meets GHTF/SG1/N43:2005 labelling standards and includes evidence of safety and performance appropriate to the device's risk class. Medsafe may request this documentation at any time.
 
-Complete the final paragraph: 'No overseas regulatory clearance? You can still supply in NZ, but you must hold your own technical documentation, risk management records, and performance evidence — and a NZ Sponsor must be willing to take responsibility for the device and ensure WAND notification is completed.e responsibility for the device. Your technical evidence will be held on file and Medsafe may request it during audits or in response to a safety signal.'

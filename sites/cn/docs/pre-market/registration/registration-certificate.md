@@ -58,4 +58,3 @@ A re-registration application must be submitted **at least 6 months before the c
 Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [NMPA](https://www.nmpa.gov.cn/) sources before making regulatory decisions. Not affiliated with NMPA or any Chinese Government body. Not legal or regulatory advice.
 :::
 
-Add after the Re-registration section: 'If a registration certificate expires and the re-registration application is still under review, the device may not be legally sold during the gap period. However, the applicant must continue to fulfil post-market obligations (adverse event reporting, product recalls) for devices already on the market under the expired certificate until re-registration is approved or until the device is recalled.'

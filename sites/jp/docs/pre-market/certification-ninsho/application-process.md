@@ -45,6 +45,3 @@ RCBs issue queries similar to PMDA Q&As during Shonin review. Prompt, complete r
 
 For some device types, the RCB may conduct a factory inspection or document-based QMS audit during or after the technical review. If an inspection is scheduled, this extends the overall timeline and should be confirmed with the RCB at the time of submission.
 
-Add to 'RCB review process': 'For some device types, the RCB may conduct a factory inspection or document-based QMS audit during or after the technical review. If an inspection is scheduled, this extends the overall timeline and should be confirmed with the RCB at the time of submission.'
-
-If the RCB determines the device does not conform to the applicable standard and the MAH cannot modify the device to achieve conformity, the MAH must pursue approval via the Shonin pathway instead. This requires preparation of a full Shonin dossier and resubmission to PMDA. The MAH should contact PMDA to discuss the scope and timeline of the required Shonin dossier.

@@ -28,4 +28,3 @@ Verify all information against official [ANVISA](https://www.gov.br/anvisa) sour
 
 Note: Combination products typically follow the longest review timeline of the applicable pathways. When both device and drug components are submitted concurrently, ANVISA coordinates the review to align decision timelines where possible.
 
-Add after the practical steps section: 'Note: Combination products typically follow the longest review timeline of the applicable pathways. When both device and drug components are submitted concurrently, ANVISA coordinates the review to align decision timelines where possible.'

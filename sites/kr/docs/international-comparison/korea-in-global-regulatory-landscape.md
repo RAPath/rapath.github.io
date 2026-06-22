@@ -21,4 +21,3 @@ MFDS is generally considered a rigorous but scientifically engaged regulator, co
 
 "Korea joined the International Medical Device Regulators Forum (IMDRF) in 2011 and actively participates in workgroups on STED, clinical evaluation, and emerging technologies. MFDS has committed to adopting IMDRF-aligned standards for device classification and technical documentation requirements."
 
-Add after the regulatory reputation section: "Korea joined the International Medical Device Regulators Forum (IMDRF) in 2011 and actively participates in workgroups on STED, clinical evaluation, and emerging technologies. MFDS has committed to adopting IMDRF-aligned standards for device classification and technical documentation requirements."

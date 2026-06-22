@@ -62,8 +62,3 @@ Indonesia does not mandate a specific edition of ISO 14971, but the **2019 revis
 
 This line appears orphaned at the end of the Risk Management section. It should be removed or integrated as clarification text within the Class A row of the Class-Specific Requirements table.
 
-Expand the Class A row in the Class-Specific Requirements table:
-
-Change 'Basic risk summary; simpler hazard/harm analysis acceptable' to:
-
-'Basic risk summary; simplified hazard identification and harm analysis acceptable (may omit detailed probability/severity matrices if hazards are well-established and controls are straightforward)'

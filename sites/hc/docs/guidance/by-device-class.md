@@ -57,6 +57,3 @@ Class IV devices require the most comprehensive submissions. Health Canada's tar
 
 "Manufacturers of Class I devices do not require a Device Licence; however, Canadian importers and distributors of Class I devices must hold an MDEL."
 
-Add after the first sentence: "Manufacturers of Class I devices do not require a Device Licence; however, Canadian importers and distributors of Class I devices must hold an MDEL."
-
-Add after the Class II review time statement: "A 'complete' submission means one that contains all required elements as outlined in the Class II guidance document. Incomplete submissions may restart the review clock."

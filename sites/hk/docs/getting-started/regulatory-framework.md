@@ -31,4 +31,3 @@ A proposed **Medical Devices Ordinance** would make listing mandatory by law. Un
 
 Access the Medical Device Information System (MDIS) via the MDD website:
 
-Add after 'Listing database' row: 'Access MDIS via the MDD website (https://www.drugoffice.gov.hk). User guides and technical support are available from the Medical Device Division.'

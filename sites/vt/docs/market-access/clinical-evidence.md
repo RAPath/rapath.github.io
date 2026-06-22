@@ -65,4 +65,3 @@ If your device already holds CE marking or FDA clearance, the clinical evidence 
 
 : 'For devices intended for use in pediatric or geriatric populations, the CER should specifically address clinical performance and safety in these groups. Where published literature is limited for these populations, clinical investigation data may be required.
 
-Add after 'Identify and address any residual clinical risks:': 'For devices intended for use in pediatric or geriatric populations, the CER should specifically address clinical performance and safety in these groups. Where published literature is limited for these populations, clinical investigation data may be required.'

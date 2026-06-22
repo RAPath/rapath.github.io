@@ -31,4 +31,3 @@ The MDD accepts clinical data generated outside Hong Kong, provided the study po
 
 PMCF is typically required for higher-risk devices (Class III/IV) or when clinical evidence from pre-market sources is limited.
 
-Add after 'Post-market clinical follow-up (PMCF) data': 'PMCF is typically required for higher-risk devices (Class III/IV) or when clinical evidence from pre-market sources is limited.'

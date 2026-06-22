@@ -11,6 +11,3 @@ This page tracks amendments, circulars, and gazette notifications to the Medical
 
 > **Official source:** [Official Gazette of India](https://egazette.gov.in); [CDSCO](https://cdsco.gov.in)
 
-Add introductory paragraph:
-
-Key amendments during 2021–2023 introduced stricter adverse event reporting requirements, enhanced import compliance procedures, and aligned Indian medical device classification with IMDRF frameworks. These amendments strengthen post-market surveillance and import authorization processes.

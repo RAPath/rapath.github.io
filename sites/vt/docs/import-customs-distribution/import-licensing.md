@@ -62,6 +62,3 @@ For high-value or complex consignments, consider pre-clearance consultation with
 
 Requests for Additional Information (RAI): DAV may issue an RAI if the initial application is incomplete or unclear. The applicant must respond within the timeframe specified in the RAI notice (typically 10–15 working days). Failure to respond may result in application rejection. Rejected applications may be resubmitted after addressing the stated deficiencies.
 
-Add new section after 'DAV aims to process import permit applications within 5–10 working days for standard applications.': 'Requests for Additional Information (RAI): DAV may issue an RAI if the initial application is incomplete or unclear. The applicant must respond within the timeframe specified in the RAI notice (typically 10–15 working days). Failure to respond may result in application rejection. Rejected applications may be resubmitted after addressing the stated deficiencies.'
-
-Rejected applications may be resubmitted after addressing all stated deficiencies. If you receive an RAI that you cannot adequately respond to within the specified timeframe, contact DAV immediately to request an extension rather than allowing the deadline to pass. Extensions are sometimes granted in cases of genuine logistical or technical barriers to information gathering.

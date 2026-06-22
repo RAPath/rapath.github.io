@@ -26,8 +26,3 @@ Content on this site is written with AI assistance and is intended as a navigati
 
 China's digital health regulatory framework classifies software as a medical device when it is intended to be used in the diagnosis, prevention, monitoring, treatment, or alleviation of disease, or in the assessment or modification of physiological function. Such software is subject to NMPA oversight and must comply with the Medical Device Supervision and Administration Regulation (MDSAR) 2021.
 
-Add a section explaining the regulatory scope: 'China's digital health regulatory framework classifies software as medical devices when it is intended to be used in the diagnosis, prevention, monitoring, treatment, or alleviation of disease, or in the assessment or modification of physiological function. Such software is subject to NMPA oversight and must comply with the Medical Device Supervision and Administration Regulation (MDSAR) 2021.'
-
-Remove the line 'Full content to be completed during editorial review.' from the introductory paragraph, or update it to 'This page provides a plain English reference for digital health regulatory framework under China's NMPA regulatory framework for digital health.'
-
-Add to the framework section: 'Class I devices (lowest risk) may be exempt from premarket registration under certain conditions specified in NMPA guidance, though manufacturers must still comply with general medical device regulations including adverse event reporting and quality management requirements.'

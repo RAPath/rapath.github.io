@@ -56,5 +56,4 @@ Software and firmware defects
 Device malfunctions caused by software or firmware defects must be reported if they:
 Result in or could contribute to death or serious deterioration in health
 Are attributable to a flaw in the device's code or algorithm
-Include logic errors, calculation errors, or unexpected interactions with other systems
-Software patches or updates that address safety-related issues should prompt a review of whether affected devices already distributed meet the reporting criteria
+

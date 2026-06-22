@@ -59,10 +59,3 @@ The ASEAN CSDT (Common Submission Dossier Template) must include all required mo
 
 Manufacturers should designate a qualified Regulatory Affairs representative to serve as the primary contact with Kemenkes during the review period. Two-way communication with evaluators, including responses to queries (deficiency letters), is expected within specified timeframes (typically 30 days for each query cycle).
 
-Add after 'Complete ASEAN CSDT dossier' in the Registration Pathway section: 'The ASEAN CSDT (Common Submission Dossier Template) must include all required modules: administrative data, device description and specifications, nonclinical laboratory study data, clinical data, clinical evaluation report, risk management file (ISO 14971), and production information. Digital submission via the Regalkes system is required.'
-
-Add to Post-Approval Obligations section: 'Manufacturers should designate a qualified Regulatory Affairs representative to serve as the primary contact with Kemenkes during the review period. Two-way communication with evaluators, including responses to queries (deficiency letters), is expected within specified timeframes (typically 30 days for each query cycle).'
-
-Add to the 'Registration Pathway' section after 'Class D requires a': 'The ASEAN Common Submission Dossier Template (ASEAN CSDT) is a harmonized format for medical device registration across ASEAN member states.'
-
-Add a note clarifying: 'Government Regulation 42/2024 specifies October 17, 2026 (Class A), October 17, 2029 (Class B), and October 17, 2034 (Class C). The Class D deadline of approximately 2039 has not yet been formally published and may be subject to change through future government regulation.'

@@ -78,8 +78,3 @@ Clinical data from the EU, US, Australia, or other ASEAN markets can and should 
 - Is the patient population comparable?
 - Does the clinical evidence cover the full intended use claimed on the Indonesian label?
 
-Expand the Class A section as follows:
-
-Class A — Clinical Evidence Not Generally Required
-
-For most Class A devices, clinical evidence is not required. A brief statement of intended use with supporting literature references is typically sufficient. Kemenkes may, for some Class A IVDs or devices with unusual intended uses, request basic performance data — such as analytical performance data (sensitivity, specificity, accuracy) for diagnostic devices or performance bench testing for other device types. Consult with your LAR early if your Class A device has novel features or a new indication.

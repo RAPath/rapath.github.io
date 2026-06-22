@@ -223,4 +223,3 @@ Once certified, the manufacturer must:
 | MHRA: Conformity assessment for medical devices | MHRA guidance on route selection |
 | gov.uk: UK Approved Bodies | Current list of designated UKABs |
 
-Add complete descriptions of Annex IV (Production Quality Assurance), Annex V (Product Quality Assurance), and Annex VI (Declaration of Conformity) with use cases and UKAB roles for each, similar to the detail provided for Annex II and III.

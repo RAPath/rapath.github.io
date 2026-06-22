@@ -77,6 +77,3 @@ UDI Registration: Devices must be registered in NMPA's UDI Database (UDID) withi
 
 Timelines assume: (1) complete and compliant initial dossier; (2) no supplemental information requests (SIR); (3) no major quality or safety issues identified during review. Class III devices typically experience 1–3 rounds of supplemental requests, adding 3–6 months per round.
 
-Expand Stage 7 (POST-MARKET OBLIGATIONS) to include: 'UDI Registration: Devices must be registered in NMPA's UDI Database (UDID) within specified timeframe (Class III: within 6 months of registration; Class II: by 2025; Class I: phased implementation). Failure to register affects sales permissions.'
-
-Add a note below the timeline table: 'Timelines assume: (1) complete and compliant initial dossier; (2) no supplemental information requests (SIR); (3) no major quality or safety issues identified during review. Class III devices typically experience 1–3 rounds of supplemental requests, adding 3–6 months per round.'

@@ -30,4 +30,3 @@ Every device label must clearly display:
 
 All elements must be legible, indelible, and placed where they are easily visible. Minimum font size requirements vary by context: principal display panels must use at least 10-point font (or equivalent for the language); information panels may use smaller fonts if necessary, but must remain readable by the intended user. Contrast between text and background must be sufficient (minimum 4.5:1 ratio recommended) to ensure readability.
 
-Remove 'CE mark (if applicable for exports)' from the mandatory elements list, or add clarifying context: 'CE mark is not an Indian requirement; only include if the device is also intended for EU export to meet EU requirements separately.'

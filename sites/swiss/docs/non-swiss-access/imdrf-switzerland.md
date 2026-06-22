@@ -34,15 +34,3 @@ For manufacturers preparing Swiss market access submissions, IMDRF guidance can 
 3. Harmonised standards (for GSPR compliance)
 4. IMDRF guidance (as supplementary international context)
 
-
-Expand the MDSAP row in the table: 'MDSAP (Multi-regional Device Single Audit Program) — Not directly recognised for Swiss NB conformity assessment; may have supporting value for manufacturers seeking simultaneous US, Japanese, Canadian, and Brazilian approvals, but does not reduce Swiss regulatory burden.'
-
-## Official Sources
-- [IMDRF — imdrf.org](https://www.imdrf.org)
-- [Swissmedic — International cooperation](https://www.swissmedic.ch/swissmedic/en/home/about-us/international.html)
-
-:::warning Disclaimer
-AI-assisted navigation aid only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
-:::
-
-MDSAP (Multi-regional Device Single Audit Program) — Not directly recognised for Swiss NB conformity assessment; may have supporting value for manufacturers seeking simultaneous US, Japanese, Canadian, and Brazilian approvals, but does not reduce Swiss regulatory burden.

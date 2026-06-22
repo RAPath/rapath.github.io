@@ -78,6 +78,3 @@ No independent conformity assessment body review is required for standard Class 
 The manufacturer bears full legal responsibility for the accuracy of the self-declaration of conformity. MDA may audit or inspect at any time. Misrepresentation is an offence under Act 737.
 :::
 
-Clarify the sterile Class A submission by adding: 'For sterile Class A devices, the notification submission must include: sterilisation method and validation summary (ISO 11135, 11137, or 17665 as applicable), sterile barrier system validation (ISO 11607), shelf-life validation summary, and evidence of ISO 13485 QMS or documented in-house controls for sterilisation processes. These additional technical elements differentiate sterile from non-sterile Class A submissions.'
-
-Replace the note 'Clarify the sterile Class A submission by adding: "For sterile Class A devices..."' with integrated content directly under the 'Sterile Class A vs Standard Class A' heading: 'For sterile Class A devices, the notification submission must include: sterilisation method and validation summary (ISO 11135, 11137, or 17665 as applicable), sterile barrier system validation (ISO 11607), shelf-life validation summary, and evidence of ISO 13485 QMS or documented in-house controls for sterilisation processes. These additional technical elements differentiate sterile from non-sterile Class A submissions.'

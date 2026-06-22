@@ -39,34 +39,3 @@ Follow the standard NMRA registration pathway:
 4. Registration Certificate issued
 5. Import Licence application
 
-Include AEA approval status in the NMRA application where known.
-
-## Atomic Energy Authority Process
-
-Contact the **Atomic Energy Authority of Sri Lanka** directly for current requirements. The AEA process typically covers:
-- Technical specifications of the radiation source and emission characteristics
-- Radiation safety design documentation
-- Operator qualification requirements
-- Installation and commissioning standards
-- Radiation protection measures
-
-**AEA Contact:** [www.aea.gov.lk](https://www.aea.gov.lk/)
-
-## Parallel Processing — Recommended
-
-Both processes should be run **in parallel** to minimise total time to market. Key points:
-- Start AEA engagement early — the AEA process timeline may differ from NMRA
-- The NMRA and AEA processes are independent — approval from one does not confer or accelerate approval from the other
-- Budget for two separate approval processes with potentially different fee structures
-- Document both approvals clearly for customs clearance purposes
-
-## Ongoing Compliance
-
-After market approval:
-- AEA approval may have conditions regarding installation, commissioning, and periodic inspection
-- Radiation-emitting equipment in clinical use is typically subject to periodic AEA inspection
-- Adverse events involving radiation emissions must be reported to both NMRA and AEA as applicable
-
-AEA Application Submission
-
-While the primary AEA contact is www.aea.gov.lk, applicants should contact the Atomic Energy Authority of Sri Lanka directly via their official website to obtain current submission procedures, required technical documentation templates, and contact details for the radiation safety review division. Processing timelines and fee structures should also be confirmed directly with the AEA.

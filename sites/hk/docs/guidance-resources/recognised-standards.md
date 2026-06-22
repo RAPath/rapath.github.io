@@ -38,4 +38,3 @@ If a standard does not apply to your device, provide alternative technical evide
 
 See TR-002 (Conformity Assessment) for class-specific pathways and acceptable evidence combinations.
 
-Add after the standards table: 'Compliance with the listed standards is the primary route to demonstrating conformity with Essential Principles (TR-001). If a standard is not applicable to your device, provide alternative technical evidence (e.g., technical file, test reports, risk assessment) demonstrating conformity. See TR-002 (Conformity Assessment) for acceptable alternative pathways.'

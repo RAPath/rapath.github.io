@@ -24,4 +24,3 @@ Renewal must be initiated **before expiry** via Peticionamento Eletrônico. A mi
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
 
-Remove the second occurrence of 'Post-registration changes (Petição de Alteração)' header and its duplicate content block to streamline the page structure.

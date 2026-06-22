@@ -70,22 +70,3 @@ MDSAP is a program that allows a single audit of a medical device manufacturer t
 
 ---
 
-
-Add to the MDSAP section: 'For manufacturers in countries participating in MDSAP (Australia, USA, Canada, Brazil, Japan), a single audit conducted under the MDSAP program can satisfy Australia's conformity assessment requirements under Pathway 2 (Comparable Overseas Regulator Evidence), provided the audit covers the applicable Schedule 3 procedures for the device class.'
-
-## Official Sources
-
-- [Schedule 3 — Conformity Assessment Procedures (legislation.gov.au)](https://www.legislation.gov.au/current/F2022C00900)
-- [Conformity assessment for medical devices — TGA](https://www.tga.gov.au/products/medical-devices/manufacturing/obtain-and-maintain-regulatory-evidence)
-- [Proposed changes to conformity assessment procedures — TGA consultation, December 2025](https://consultations.tga.gov.au/tga/proposed-changes-australian-caps-medical-devices)
-
----
-
-## Related Pages
-
-- [TGA Certification](./tga-certification.md)
-- [Comparable Overseas Regulators](./comparable-overseas-regulators.md)
-- [Manufacturer's Evidence](./manufacturers-evidence.md)
-- [Declaration of Conformity](./declaration-of-conformity.md)
-
-MDSAP audits can reduce the total regulatory burden for manufacturers supplying multiple jurisdictions. However, MDSAP certification does not replace the need for ARTG inclusion — a separate application to the TGA is still required. Australian manufacturers using MDSAP should confirm that their audit scope covers all applicable Australian conformity assessment procedures before relying on MDSAP evidence for an ARTG application.

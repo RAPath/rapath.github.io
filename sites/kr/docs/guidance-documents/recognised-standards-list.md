@@ -25,8 +25,3 @@ The recognised list specifies the edition (or edition range) of each standard. U
 
 ## Confirm the correct edition
 
-Add to 'Confirm the correct edition' subsection:
-
-**If your standard is not recognised**: If your device does not align with a recognised standard, you must provide additional technical justification and risk analysis in your submission. MFDS reviewers may request comparison data to alternative recognised standards or additional testing. Contact MFDS via pre-consultation if you anticipate this issue.
-
-Add after 'On the MFDS website under legal resources': '(mfds.go.kr → 법령자료 → 인정기준 또는 인정표준 [Recognised Standards])'

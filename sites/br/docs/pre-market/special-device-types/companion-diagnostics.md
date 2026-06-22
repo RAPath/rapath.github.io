@@ -19,4 +19,3 @@ Verify all information against official [ANVISA](https://www.gov.br/anvisa) sour
 
 The regulatory pathway for CDx depends on its classification (typically Notificação for Class I/II or Registro for Class III/IV IVDs). CDx registrations are reviewed and approved separately from the companion therapeutic product.
 
-Add after first sentence: 'The regulatory pathway for CDx depends on its classification (typically Notificação for Class I/II or Registro for Class III/IV IVDs). CDx registrations are reviewed and approved separately from the companion therapeutic product.'

@@ -33,8 +33,3 @@ ECR-1: Available when the device has ≥1 approval from a reference agency, ≥3
 
 The Immediate route is available for Class C devices that meet specific criteria including approval from overseas reference agencies and safe marketing history. Refer to HSA guidance for detailed eligibility conditions.
 
-Add detailed explanation of ECR-1 and ECR-2 routes: 'ECR-1: Available when the device has ≥1 approval from a reference agency, ≥3 years of safe marketing history, no known safety issues, and no prior rejection by HSA or the reference agency. ECR-2: Available when the device has ≥2 approvals from different reference agencies and no prior rejection or withdrawal by HSA or any reference agency.'
-
-Add section describing Class C Immediate route: 'The Immediate route is available for Class C devices that meet specific criteria including approval from overseas reference agencies and safe marketing history. Refer to HSA guidance for detailed eligibility conditions.'
-
-Add a paragraph under 'Available routes for Class C': 'Immediate Registration (Conditional): Available for Class C devices that have received approval from at least one reference agency and meet specific safe marketing history and other eligibility criteria. Refer to HSA's Class C Immediate Registration Guide for detailed conditions and documentation requirements.'

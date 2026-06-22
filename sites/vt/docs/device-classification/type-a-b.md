@@ -56,4 +56,3 @@ Both classes use the **Declaration (Công bố)** pathway via the DMEC portal. T
 If DAV reviews your declaration and concludes the device should be classified as Type C or D, it will require you to withdraw the declaration and submit a full marketing authorisation (Đăng ký lưu hành) application. Any devices already distributed under the Type A/B declaration pathway may be subject to recall or regulatory action.
 :::
 
-Add to 'Type A classification criteria': 'Sterility significantly impacts classification. Non-sterile versions of devices (e.g., non-sterile gloves, non-sterile gauze) may remain Type A, while equivalent sterile versions (e.g., sterile examination gloves, sterile dressings) are typically elevated to Type B due to the manufacturing controls and safety requirements required for sterility assurance.'

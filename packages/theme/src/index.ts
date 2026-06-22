@@ -66,6 +66,30 @@ interface SiteParams {
   metaDescription: string;
 }
 
+// ─── Non-blocking Google Fonts (shared across all sites) ─────────────────────
+// CSS @import is render-blocking — these headTags load Inter asynchronously.
+const FONT_HEAD_TAGS = [
+  { tagName: 'link', attributes: { rel: 'preconnect', href: 'https://fonts.googleapis.com' } },
+  { tagName: 'link', attributes: { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: 'anonymous' } },
+  {
+    tagName: 'link',
+    attributes: {
+      rel: 'preload',
+      as: 'style',
+      href: 'https://fonts.googleapis.com/css2?family=Inter:wght@300..800&display=swap',
+    },
+  },
+  {
+    tagName: 'link',
+    attributes: {
+      rel: 'stylesheet',
+      href: 'https://fonts.googleapis.com/css2?family=Inter:wght@300..800&display=swap',
+      media: 'print',
+      onload: "this.media='all'",
+    },
+  },
+];
+
 // ─── Main config builder ──────────────────────────────────────────────────────
 export function buildSiteConfig(params: SiteParams): Config {
   return {
@@ -79,6 +103,13 @@ export function buildSiteConfig(params: SiteParams): Config {
     organizationName: 'RAPath',
     projectName: params.siteCode,
     trailingSlash: true,
+
+    headTags: [
+      ...FONT_HEAD_TAGS,
+      // Preconnect for Google Analytics (avoids extra RTT on first beacon)
+      { tagName: 'link', attributes: { rel: 'preconnect', href: 'https://www.googletagmanager.com' } },
+      { tagName: 'link', attributes: { rel: 'dns-prefetch', href: 'https://www.google-analytics.com' } },
+    ],
 
     onBrokenLinks: 'warn',
     markdown: { hooks: { onBrokenMarkdownLinks: 'warn' } },

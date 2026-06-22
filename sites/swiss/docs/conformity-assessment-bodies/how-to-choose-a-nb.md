@@ -37,12 +37,3 @@ AI-assisted navigation aid only. Always verify against official [Swissmedic](htt
 
 ## Disclaimer
 
-Add a new section before the 'Disclaimer' titled:
-
-**Next Steps After Selecting an NB**
-
-1. Request a pre-assessment meeting or letter of intent
-2. Provide device description and proposed conformity assessment route
-3. Agree on scope, fees, and preliminary timeline
-4. Clarify QMS documentation requirements and submission format
-5. Confirm the NB's process for initial document review and completeness assessment

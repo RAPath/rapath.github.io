@@ -71,4 +71,3 @@ An FSCA is required when a marketed device presents an unacceptable risk not pre
 
 Preliminary reports should include initial findings and available case details even if investigation is ongoing. Final reports must include complete investigation findings, causality assessment, and corrective actions taken or planned.
 
-Add to the 'Preliminary reports' section: 'Preliminary reports should include initial findings and available case details even if investigation is ongoing. Final reports must include complete investigation findings, causality assessment, and corrective actions taken or planned.'

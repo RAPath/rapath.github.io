@@ -11,12 +11,3 @@ Indian legislation, including amendments to MDR 2017, is published in the Offici
 
 The Medical Devices Rules 2017 is available at the [CDSCO medical devices rules page](https://cdsco.gov.in/opencms/opencms/en/Medical-Device-Diagnostics/Medical-Device-Diagnostic-Rules/).
 
-Add a section with details: 'Key Recent Amendments to MDR 2017:
-
-MDR 2017 Amendment Rules 2020 — Expanded the scope of notified devices; added new device categories
-
-MDR 2017 Amendment Rules 2021 — Introduced Unique Device Identifier (UDI) requirements; updated vigilance and adverse event reporting procedures
-
-MDR 2017 Amendment Rules 2023 — Further expansion of notified device scope; updated classification criteria for certain device categories
-
-For the complete list of amendments and implementation dates, refer to the Official Gazette of India (egazette.gov.in) or the CDSCO website.'

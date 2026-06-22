@@ -64,4 +64,3 @@ Once an IDE is approved, changes to the study — including protocol amendments,
 
 For Non-Significant Risk (NSR) devices, the abbreviated IDE application is submitted directly to the IRB without FDA review. However, the device sponsor must still maintain records demonstrating NSR determination and must notify FDA if the IRB disagrees with the NSR classification.
 
-Add after the flowchart: 'For Non-Significant Risk (NSR) devices, the abbreviated IDE application is submitted directly to the IRB without FDA review. However, the device sponsor must still maintain records demonstrating NSR determination and must notify FDA if the IRB disagrees with the NSR classification.'

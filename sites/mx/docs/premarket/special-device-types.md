@@ -53,6 +53,3 @@ Devices manufactured in Mexico **exclusively for export** may be eligible for re
 - [Special Access](../special-access/compassionate-use)
 - [Quality System — NOM-241](../quality-system/nom-241-overview)
 
-Expand 'IVD medical devices' section: "In vitro diagnostic devices are classified under Annex 2 (2025 classification decree) into risk categories (low, medium, high). IVD classification is independent of Class I–III device classification. IVD-specific technical dossier requirements include analytical performance data (sensitivity, specificity, precision, accuracy), clinical performance validation against a reference standard, and stability data for reagents and calibration materials. See IVD classification page for detailed classification criteria."
-
-Expand 'IVD medical devices' section: 'In vitro diagnostic devices are classified under Annex 2 (2025 classification decree) into risk categories (low, medium, high). IVD classification is independent of Class I–III device classification. IVD-specific technical dossier requirements include analytical performance data (sensitivity, specificity, precision, accuracy), clinical performance validation against a reference standard, and stability data for reagents and calibration materials. See IVD classification page for detailed classification criteria.'

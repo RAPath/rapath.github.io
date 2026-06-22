@@ -23,4 +23,3 @@ Post-market requirements
 
 AI/ML devices require ongoing performance monitoring and retraining protocols. MFDS mandates submission of performance data at specified intervals (typically annually for high-risk algorithms) and triggers for algorithm retraining or update notifications to users.
 
-Add to the Post-market requirements section: "The 2024 update introduces mandatory algorithm change monitoring protocol (ACMP), explainability documentation for high-risk algorithms, and requirements for clinician notification of significant algorithm modifications."

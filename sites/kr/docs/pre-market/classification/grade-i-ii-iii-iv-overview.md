@@ -28,10 +28,3 @@ Life-sustaining or life-critical implantables. Pathway: **품목허가** with th
 
 ## Relevant legislation
 
-Add after the Grade IV description and before 'Relevant legislation':
-
-**Post-market surveillance by grade**
-
-Grade III and IV devices typically require more intensive post-market surveillance including adverse event monitoring, periodic safety updates, and compliance reviews. Grade I and II devices have lighter post-market requirements unless specific safety signals emerge.
-
-Reclassification impact: If an existing approved device is reclassified to a higher grade (e.g., Grade II to Grade III), the manufacturer must comply with the new pre-market and post-market requirements within a transition period specified by MFDS, typically 6–12 months. Failure to meet new requirements may result in suspension or cancellation of the 품목허가.

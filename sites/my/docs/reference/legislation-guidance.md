@@ -83,4 +83,3 @@ See [Recognised Standards](../conformity-assessment/recognised-standards) for th
 
 All MDA Administrative Guidance Notes and Technical Guidance Notes are available for download from www.mda.gov.my/guidance or through the MyMDA portal after registration. A consolidated guidance documents library is maintained on the MDA website.
 
-Add a note after the AGN and TGN tables: 'All MDA Administrative Guidance Notes and Technical Guidance Notes are available for download from www.mda.gov.my/guidance or through the MyMDA portal after registration. A consolidated guidance documents library is maintained on the MDA website.'

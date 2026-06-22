@@ -64,17 +64,3 @@ FDA has cleared and approved numerous AI/ML-based devices — primarily in radio
 - [FDA — AI/ML-Enabled Medical Devices](https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-and-machine-learning-aiml-enabled-medical-devices)
 - [FDA — Approved/Cleared AI/ML Devices List](https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-and-machine-learning-aiml-enabled-medical-devices)
 
-Update the sentence to read: 'As of 2026, FDA has cleared or approved over 700 AI/ML-enabled devices' to align with the stated reference year.
-
-Real-world performance monitoring guidance
-🔄 In development — FDA is developing guidance on postmarket surveillance and real-world performance monitoring frameworks for AI/ML SaMD. Expected publication timeline is under review.
-
-GMLP detailed guidance
-🔄 In development — FDA continues to develop more detailed implementation guidance for manufacturers on Good Machine Learning Practice. Current guidance consists of 10 Guiding Principles; additional technical guidance documents are in preparation.
-
-Additional guidance documents
-
-In addition to the five action areas, FDA has published supplementary guidance addressing specific AI/ML scenarios:
-
-- Multi-Predictor AI/ML SaMD Guidance (2023) — addresses ensemble models and composite AI systems that combine multiple algorithms or external AI tools
-- Updates to PCCP Guidance on validation (2024) — clarifies validation approaches for models trained on synthetic data and federated learning approaches

@@ -65,11 +65,3 @@ Worst-case device identification
 
 When a Device Licence application covers a family of devices with variants, the submission must clearly identify which variant(s) represent the worst-case scenario for each applicable safety parameter (e.g., largest implant, highest energy output, longest duration of use). For each worst-case designation, explain why that variant is considered worst-case and provide evidence (testing, analysis, or published data) demonstrating that if the worst-case device is safe and effective, all other variants in the family will also be safe and effective.
 
-Add a new subsection after 'Intended use and indications': 'Changes to intended use during development
-
-If the intended use changes significantly during device development or clinical investigation, the change may affect:
-- Device classification
-- Required clinical evidence
-- Regulatory pathway (Device Licence vs. ITA)
-
-Manufacturers should notify Health Canada of material changes to intended use before finalizing the Device Licence application. A pre-submission meeting is recommended if the change is substantial. Health Canada will confirm whether the change requires a new classification assessment or additional evidence.'

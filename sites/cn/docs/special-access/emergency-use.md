@@ -20,4 +20,3 @@ Special access and designation pathways are established under NMPA orders and an
 Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [NMPA](https://www.nmpa.gov.cn/) sources before making regulatory decisions. Not affiliated with NMPA or any Chinese Government body. Not legal or regulatory advice.
 :::
 
-Add a complete section under 'Regulatory basis' explaining: (1) NMPA's emergency use authorization framework (if formal pathway exists); (2) triggering conditions (public health emergency, epidemic, disaster); (3) application process and required evidence; (4) duration and conditions of emergency authorisation; (5) reference relevant NMPA orders (particularly those issued during COVID-19 if applicable); (6) transition to standard registration post-emergency.

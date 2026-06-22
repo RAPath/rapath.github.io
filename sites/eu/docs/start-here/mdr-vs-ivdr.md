@@ -148,6 +148,3 @@ National competent authorities can provide formal opinions. These are not bindin
 | MDCG 2022-5 | Borderline product guidance |
 | MDCG 2019-11 | Software qualification guidance |
 
-Complete the guidance list: 'MDCG 2022-5 — Borderline manual between MDR and other legislation; MDCG 2019-11 — Software qualification and classification; MDCG 2022-1 — Borderline between medical devices and biocidal products; MDCG 2021-6 — Borderline between medical devices and cosmetics. For additional clarification, contact your national competent authority or consult a qualified regulatory specialist.'
-
-Complete the sentence: 'National competent authorities can provide binding borderline decisions for their jurisdiction. If you remain uncertain after consulting MDCG guidance, contact your national competent authority or seek formal classification advice from a regulatory consultant.'

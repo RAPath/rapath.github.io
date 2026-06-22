@@ -205,4 +205,3 @@ The MDR/IVDR do not have an equivalence approval pathway analogous to FDA's 510(
 | MDR Art. 9 | Common Specifications |
 | IVDR Arts. 8–9 | Equivalent IVDR provisions |
 
-Complete the section with: 'How CE marking works: EU medical device regulation is a conformity assessment system. The manufacturer (or notified body, for higher-risk devices) assesses conformity with MDR/IVDR requirements. Once conformity is demonstrated, the manufacturer affixes the CE marking and draws up an EU Declaration of Conformity. The CE marking signifies that the device meets applicable requirements and is lawful to place on the EU market. However, CE marking does not constitute EU approval—it is a declaration of conformity under a self-certification or third-party certification model, depending on device risk class.'

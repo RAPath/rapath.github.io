@@ -40,4 +40,3 @@ The current annual fee amounts are published on the Health Canada Medical Device
 
 Current fee amounts are published in the Medical Devices Regulations Fees Order (SOR/98-282) and are available on the Health Canada Medical Devices Directorate website. Manufacturers should consult these documents annually for any fee changes.
 
-Add under 'Current fee schedule': 'Current fee amounts are published in the Medical Devices Regulations Fees Order (SOR/98-282) and are available on the Health Canada Medical Devices Directorate website. Manufacturers should consult these documents annually for any fee changes.'

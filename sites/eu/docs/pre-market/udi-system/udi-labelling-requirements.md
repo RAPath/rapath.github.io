@@ -130,14 +130,3 @@ A manufacturer may use different issuing entities for different product lines â€
 | GS1 Healthcare UDI Implementation Guide | GS1 UDI application guidance |
 | HIBCC HIBC standard | HIBCC UDI specification |
 
-Complete the section with: 'Supply chain integration: which systems your distributors and hospitals already use Industry standards: GS1 is most common for most medical devices; HIBCC is used in some North American-focused supply chains; ICCBBA is essential for blood/tissue products Regulatory acceptance: all three are EU-recognised; GS1 is the de facto standard in Europe Cost and administration: GS1 requires national membership; HIBCC has direct registration; ICCBBA is ISBT-specific Technical capability: ensure your labelling equipment can produce the required carrier format Once selected, the issuing entity cannot be changed without re-registering the device and obtaining new UDI-DIs.'
-
-Complete the ICCBBA section with: 'ICCBBA (International Council for Commonality in Blood Banking Automation)
-
-Standard: ISBT 128
-UDI-DI format: ISBT 128 formatted identifier for blood, tissue, and cellular products
-Carrier formats: ISBT 128 barcode (linear or 2D)
-Scope: primarily for blood, tissue, cellular, and related products
-Registration: via ICCBBA (iccbba.org)
-
-ISBT 128 is specifically designed for blood and tissue products and is less commonly used for general medical devices compared to GS1 and HIBCC.'

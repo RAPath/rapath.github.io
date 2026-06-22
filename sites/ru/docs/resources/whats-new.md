@@ -60,8 +60,3 @@ Decree No. 1684 implementation guidance (ongoing)
 ​
 Roszdravnadzor is issuing supplementary guidance documents clarifying interpretation of Decree No. 1684 requirements. Monitor the official Roszdravnadzor website for updates on documentation requirements, QMS inspection procedures, and clinical investigation triggers.
 
-Add a new entry under '2025':
-
-Decree No. 1684 implementation guidance (ongoing)
-​
-Roszdravnadzor is issuing supplementary guidance documents clarifying interpretation of Decree No. 1684 requirements. Monitor the official Roszdravnadzor website for updates on documentation requirements, QMS inspection procedures, and clinical investigation triggers.

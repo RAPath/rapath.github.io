@@ -36,8 +36,3 @@ Government Decree No. 1684: [government.ru](https://government.ru/)
 
 Transition from Decree No. 1416: Manufacturers with existing registrations under Decree No. 1416 may continue to maintain and renew those registrations under the national pathway until 1 January 2027. Amendments to existing national registrations may be submitted under Decree No. 1684 rules. However, all new device registrations submitted after 1 January 2027 must follow the EAEU pathway under EEC Decision No. 46.
 
-Add a new subsection: 'Transition from Decree No. 1416: Manufacturers with existing registrations under Decree No. 1416 may continue to maintain and renew those registrations under the national pathway until 1 January 2027. Amendments to existing national registrations may be submitted under Decree No. 1684 rules. However, all new device registrations submitted after 1 January 2027 must follow the EAEU pathway under EEC Decision No. 46.'
-
-In the 'What remains unchanged' section, replace the existing sentence with:
-
-The fundamental two-phase registration process continues under Decree No. 1684: Phase 1 involves submission and expert review of the technical dossier (non-clinical and clinical data); Phase 2 requires submission of additional clinical data and final expert assessment by Roszdravnadzor. The GRLS registration database and Registration Certificate system remain the same.

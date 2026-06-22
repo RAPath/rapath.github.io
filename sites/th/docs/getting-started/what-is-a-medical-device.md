@@ -50,4 +50,3 @@ Thai legislation uses Buddhist Era (B.E.) year numbering. B.E. = CE year + 543. 
 
 Examples of software NOT regulated as SaMD in Thailand include: general office software (word processors, spreadsheets), entertainment software, administrative database systems without medical decision-support or diagnostic functions, raw data collection systems that do not analyze or interpret clinical data, and general communication or document management tools lacking any medical decision-support capability.
 
-Add after the SaMD paragraph: 'Examples of software NOT regulated as SaMD in Thailand: general office software (word processors, spreadsheets), entertainment software, administrative database systems without medical decision-support or diagnostic functions, and raw data collection systems that do not analyze or interpret clinical data.'

@@ -81,13 +81,3 @@ A PCCP does not authorise:
 
 If an implemented modification results in unexpected performance degradation, safety signals, or adverse events, the manufacturer must immediately notify FDA and may be required to submit a new premarket submission or seek modification of the approved PCCP. Failure to report performance issues discovered during real-world use can trigger FDA enforcement action.
 
-Add a subsection under 'What a PCCP does NOT cover': 'If an implemented modification results in unexpected performance degradation, safety signals, or adverse events, the manufacturer must immediately notify FDA and may be required to submit a new premarket submission or seek modification of the approved PCCP. Failure to report performance issues discovered during real-world use can trigger FDA enforcement action.'
-
-Modifications that exceed PCCP scope
-
-If a manufacturer wishes to implement a modification that falls outside the approved PCCP scope — such as:
-- A new intended use or indication
-- A fundamental change to the algorithm architecture not covered in the original PCCP
-- Algorithm retraining with significantly different data sources or patient populations
-
-— the manufacturer must submit a new premarket submission (510(k), De Novo, or PMA supplement depending on the significance of the change). Implementing modifications outside the approved PCCP scope without obtaining FDA approval constitutes a violation of the FD&C Act and may trigger FDA enforcement action, including warning letters or seizure of affected devices.

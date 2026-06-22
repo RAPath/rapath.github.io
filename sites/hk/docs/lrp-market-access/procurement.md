@@ -29,6 +29,3 @@ Stage C applies only to DH public procurement. However, many private hospitals a
 
 AMDs refers to medical devices on the DH procurement framework that fall within the mandated classes (Class II, III, IV for general devices; Class B, C, D for IVDs). Devices used only for research, training, or non-clinical purposes are typically excluded. Confirm device eligibility with the DH procurement team.
 
-Add after 'All applicable medical devices (AMDs)': 'AMDs refers to medical devices on the DH procurement framework that fall within the mandated classes (Class II, III, IV for general devices; Class B, C, D for IVDs). Devices used only for research, training, or non-clinical purposes are typically excluded. Confirm device eligibility with the DH procurement team.'
-
-Add a new section: 'Devices procured by DH prior to 23 March 2026 may be supplied from existing inventory after the deadline. However, no new orders or deliveries of unlisted devices will be accepted from 23 March 2026 onward. Manufacturers and LRPs should begin the listing process immediately to avoid supply chain disruptions.'

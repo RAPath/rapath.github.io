@@ -46,10 +46,3 @@ ANVISA has a dedicated digital health team within GPRODS that handles:
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
 
-Add the following sentence after the RDC 751/2022 entry in the Key regulatory instruments table:
-
-RDC 752/2022 | Specific regulation for software as a medical device (SaMD) and digital health products — complements RDC 751/2022
-
-Add this row to the Key regulatory instruments table after the RDC 751/2022 entry:
-
-RDC 752/2022 | Specific regulation for software as a medical device (SaMD) and digital health products — complements RDC 751/2022

@@ -11,17 +11,3 @@ India's UDI framework aligns with IMDRF UDI guidance. CDSCO accepts UDI barcodes
 
 > **Official source:** [UDID — CDSCO](https://udid.cdsco.gov.in); Medical Devices Rules 2017 (as amended)
 
-Add the following section:
-
-## Implementation Timeline by Device Class
-
-| Device Class | Compliance Deadline | Notes |
-|---|---|---|
-| Class D (Highest Risk) | [Insert actual date from CDSCO] | Includes implantable devices, cardiac devices, etc. |
-| Class C (High Risk) | [Insert actual date from CDSCO] | Includes devices with significant patient risk |
-| Class B (Medium Risk) | [Insert actual date from CDSCO] | Includes diagnostic and monitoring devices |
-| Class A (Lowest Risk) | [Insert actual date from CDSCO] | Includes low-risk devices |
-
-Note: For the most current implementation dates, refer to the latest CDSCO notifications and amendments to the Medical Devices Rules 2017.
-
-Note: As of the latest CDSCO notifications, specific implementation dates for UDI compliance by device class have not been universally published with fixed deadlines. Manufacturers should monitor the CDSCO website and UDID portal (udid.cdsco.gov.in) for the most current phase-in schedule, as dates may be revised. Contact CDSCO directly via the SUGAM module for clarification on applicability to specific device types.

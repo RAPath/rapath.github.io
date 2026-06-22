@@ -157,16 +157,3 @@ A system of numeric or alphanumeric codes that enables the clear identification 
 
 ---
 
-
-Complete the Custom-made device definition with:
-
-Custom-made device
-A device manufactured specifically in accordance with a written prescription for a named individual patient (or user). Custom-made devices are subject to specific exemptions and requirements under the MD Regulations, including exemptions from certain conformity assessment requirements provided specified conditions are met.
-
-Source: Schedule 4, Therapeutic Goods (Medical Devices) Regulations 2002
-
-## Official Sources
-
-- [Therapeutic Goods Act 1989 — Definitions](https://www.legislation.gov.au/current/C2023C00182)
-- [Therapeutic Goods (Medical Devices) Regulations 2002](https://www.legislation.gov.au/current/F2022C00900)
-- [ARGMD Glossary — TGA](https://www.tga.gov.au/products/medical-devices/overview/australian-regulatory-guidelines-medical-devices-argmd)

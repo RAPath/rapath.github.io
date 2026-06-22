@@ -27,4 +27,3 @@ Verify all information against official [ANVISA](https://www.gov.br/anvisa) sour
 
 "Notification timelines: Urgent recalls must be reported to ANVISA within 24 hours of identifying the serious risk or making the recall decision, whichever is earlier. Voluntary recalls should be notified to ANVISA simultaneously with or before market withdrawal. Compulsory recalls must be actioned within the timeframe specified by ANVISA's order."
 
-Add after the table: "Notification timelines: Urgent recalls must be reported to ANVISA within 24 hours of decision to recall. Voluntary recalls should be notified to ANVISA simultaneously with or before market withdrawal. Compulsory recalls must be actioned within the timeframe specified by ANVISA's order."

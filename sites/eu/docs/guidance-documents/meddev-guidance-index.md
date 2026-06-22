@@ -96,4 +96,3 @@ Key forms and application portals for EU medical device regulation:
 
 Access them at: https://health.ec.europa.eu/medical-devices-sector/new-regulations/mdcg-endorsed-documents-and-other-guidance-and-documents_en (select "MEDDEV guidance" tab).
 
-Add after 'All MEDDEV documents are available on the European Commission DG SANTE website under the "Old Guidance" section.': 'Access them at: https://health.ec.europa.eu/medical-devices-sector/new-regulations/mdcg-endorsed-documents-and-other-guidance-and-documents_en (select "MEDDEV guidance" tab).'

@@ -140,20 +140,3 @@ These records must be kept for a period that enables traceability and must be ma
 | IVDR Art. 14 | Distributor obligations (IVDR) |
 | MDCG 2021-17 | Guidance on economic operators |
 
-Complete the distributor-to-manufacturer transition section with:
-
-**Examples of distributor activities that do NOT make them manufacturers:**
-- Translating packaging or IFU into a local language (if done under the manufacturer's QMS and with their approval)
-- Adding local distributor contact information to packaging (if this does not modify the device description or intended purpose)
-- Storing, transporting, or handling devices according to manufacturer instructions
-- Providing customer service or technical support on behalf of the manufacturer
-
-**Documentation requirements for distributors:**
-Distributors must keep records of:
-- Device purchase and supply chain documentation
-- Complaints and adverse events received
-- Corrective actions and recalls managed
-- Storage and transport conditions maintained
-- Traceability information (where applicable)
-
-These records must be retained for at least 10 years from the last distribution date (15 years for implantable devices) and made available to competent authorities upon request.

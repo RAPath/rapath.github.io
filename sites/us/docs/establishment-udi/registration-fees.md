@@ -33,16 +33,3 @@ Registration fees are paid through FDA's **FEE** system (Federal eCopy Electroni
 
 FY2026 fees are effective October 1, 2025 through September 30, 2026. Failure to pay the registration fee by the deadline will result in deactivation of your establishment registration and you will not be permitted to import or distribute devices in the USA.
 
-Add after the FY2026 fee table: 'FY2026 fees are effective October 1, 2025 through September 30, 2026. Failure to pay the registration fee by the deadline will result in deactivation of your establishment registration and you will not be permitted to import or distribute devices in the USA.'
-
-Add a new subsection under 'Payment process':
-
-**Consequences of non-payment**
-
-Failure to pay the registration fee by the deadline (typically December 31) will result in:
-- Automatic deactivation of your establishment registration
-- Prohibition from importing or distributing medical devices in the USA
-- Inability to submit premarket applications or device listings
-- Requirement to re-register and pay fees to restore active status
-
-Note: Deactivated establishments may still be subject to FDA inspections and enforcement actions.

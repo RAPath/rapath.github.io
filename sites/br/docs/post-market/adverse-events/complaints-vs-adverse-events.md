@@ -32,8 +32,3 @@ Technical complaints must also be reported via NOTIVISA. They often trigger ANVI
 Verify all information against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.
 :::
 
-Add to the end of the Technical Complaints section:
-
-**Reporting implications**
-
-Both adverse events and technical complaints must be reported via NOTIVISA within the timeframes specified by RDC 753/2022. Technical complaints may trigger ANVISA's quality investigation process (investigação de desvio de qualidade) and can lead to recalls or field safety corrective actions even without confirmed patient harm.

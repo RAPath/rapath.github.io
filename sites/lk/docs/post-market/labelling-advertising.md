@@ -75,4 +75,3 @@ Any significant change to device labelling after registration must be notified t
 
 Confirm implementation timelines for advertising pre-approval with the NMRA, as this requirement may have specific transition provisions or grandfathering provisions for devices registered before the formal requirement came into effect.
 
-Add to Device Advertising section: 'Confirm the effective date and any transition provisions for advertising pre-approval with the NMRA, as this requirement may have specific implementation timelines for existing registrations.'

@@ -39,4 +39,3 @@ MHLW publication and escalation
 
 Major recalls (Class I and some Class II recalls) are typically published on the MHLW website within 5 working days of notification. The MAH should be prepared for public visibility of the FSN. For recalls affecting patient safety with high severity, MHLW may issue a separate public safety alert (安全性情報) in addition to the FSN, which may be distributed through healthcare institution networks and published in medical safety bulletins.
 
-Add to the 'Content requirements' section after the 'MAH confirmation' item: "Unique identification: A reference number or document identifier assigned by the MAH to allow tracking and reference in correspondence with MHLW and customers. This identifier should also appear on the hard copy and electronic versions distributed to customers."

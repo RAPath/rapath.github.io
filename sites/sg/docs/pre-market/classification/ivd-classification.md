@@ -96,6 +96,3 @@ See [Grouping Types](../grouping/grouping-types.md) for full detail.
 - [HSA: IVD grouping types](https://www.hsa.gov.sg/medical-devices/registration/grouping/ivd-test-kit)
 - [HP(MD) Regulations 2010](https://sso.agc.gov.sg/SL/HPA2007-S436-2010)
 
-Complete the final section heading and ensure all content is intact. The page appears to cut off at 'IVD classification facto' which should likely continue or complete properly.
-
-Remove the incomplete text 'Complete the final section heading and ensure all conte' entirely, or complete the intended content if there was a final section planned.

@@ -33,15 +33,3 @@ While medical device clinical investigations are primarily governed by MDR 2017 
 
 In case of conflict between MDR 2017 and NDCT Rules 2019, MDR 2017 is the primary governing framework for devices. However, where NDCT Rules impose stricter standards, those should be followed.
 
-Add a new introductory section:
-
-Scope and Application of NDCT Rules 2019
-
-While medical device clinical investigations are primarily governed by MDR 2017 (Chapter V, Rules 37–45), the New Drugs and Clinical Trials Rules 2019 (NDCT Rules) provide supplementary requirements in the following areas:
-
-- Ethics Committee recognition and composition standards (partially overlap with MDR requirements)
-- Adverse event reporting and safety monitoring during investigations
-- Records retention and data integrity requirements
-- Investigator qualifications and responsibilities
-
-In case of conflict between MDR 2017 and NDCT Rules 2019, MDR 2017 is the primary governing framework for devices. However, where NDCT Rules impose stricter standards, those should be followed.

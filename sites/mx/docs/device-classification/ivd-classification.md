@@ -52,4 +52,3 @@ IVDs approved by IMDRF-recognised authorities (FDA, CE-IVDR under EU In Vitro Di
 
 IVDs listed in Annex 2 or 3 of the July 2025 COFEPRIS decree are exempt from sanitary registration. Check the DOF decree to confirm your IVD's Annex status before proceeding with full registration.
 
-Add a new subsection after 'Registration requirements by IVD class' titled 'Annex exemptions for IVDs' with text: 'IVDs listed in Annex 2 or 3 of the July 2025 COFEPRIS decree are exempt from sanitary registration. Check the DOF decree to confirm your IVD's Annex status before proceeding with full registration.'

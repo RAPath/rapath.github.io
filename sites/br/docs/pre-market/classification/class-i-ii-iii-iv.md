@@ -31,4 +31,3 @@ See [IVD Classification](/docs/pre-market/classification/ivd-classification).
 
 "IVD registrations are also valid for 10 years from the date of approval."
 
-Add after the IVD statement: "IVD registrations are also valid for 10 years from the date of approval."

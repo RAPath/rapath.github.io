@@ -39,4 +39,3 @@ When submitting or updating KIMS records via the MFDS eSubmission portal, ensure
 
 Incomplete or inaccurate submissions will be rejected by the MFDS portal and must be corrected before resubmission.
 
-Add to the "Initial submission" section: "Timeline: KIMS registration must be completed before the device is placed on the market. Many manufacturers aim to submit within 1-2 weeks of 품목허가 approval to avoid market delays."
