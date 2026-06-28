@@ -1,0 +1,34 @@
+# RAPath UK
+
+> UK MHRA Medical Device Regulatory Reference
+
+Plain English reference for UK MHRA medical device regulation — UKCA marking, classification, UK MDR 2002, and post-market obligations.
+
+RAPath is an independent open-source project providing plain English navigation aids for medical device regulatory requirements. Content is written with AI assistance and derived from publicly available official sources only. Always verify against official regulatory sources before making any regulatory decisions. Not legal or regulatory advice.
+
+## Sections
+
+- [Start Here](https://rapath.org/uk/start-here/what-is-a-medical-device)
+- [Pre-Market](https://rapath.org/uk/pre-market/classification/how-classification-works)
+- [Post-Market](https://rapath.org/uk/post-market/post-market-overview)
+- [Legislation](https://rapath.org/uk/legislation/uk-mdr-2002-overview)
+- [UK Approved Bodies](https://rapath.org/uk/approved-bodies/what-are-approved-bodies)
+- [Northern Ireland](https://rapath.org/uk/northern-ireland/overview)
+- [What's New](https://rapath.org/uk/whats-new/regulatory-changes)
+
+## Official Sources
+
+- [UK MDR 2002 (legislation.gov.uk)](https://www.legislation.gov.uk/uksi/2002/618/contents/made)
+- [MHRA](https://www.gov.uk/government/organisations/medicines-and-healthcare-products-regulatory-agency)
+- [MHRA Submissions Portal](https://submissions.mhra.gov.uk/)
+- [UK Approved Bodies List](https://www.gov.uk/government/publications/approved-bodies-for-medical-devices)
+- [MHRA Yellow Card](https://yellowcard.mhra.gov.uk/)
+
+## About RAPath
+
+- [All Jurisdictions](https://rapath.org/#jurisdictions)
+- [What's New](https://rapath.org/whats-new)
+- [About](https://rapath.org/about)
+- [Terms of Use](https://rapath.org/terms)
+- [Q&A / Discussions](https://github.com/orgs/RAPath/discussions)
+- [GitHub](https://github.com/RAPath/rapath.github.io)

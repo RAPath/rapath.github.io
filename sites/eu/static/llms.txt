@@ -1,0 +1,33 @@
+# RAPath EU
+
+> EU Medical Device Regulatory Reference — MDR & IVDR
+
+Plain English guide to EU medical device regulation — MDR 2017/745 and IVDR 2017/746, CE marking, conformity assessment, EUDAMED, and post-market obligations.
+
+RAPath is an independent open-source project providing plain English navigation aids for medical device regulatory requirements. Content is written with AI assistance and derived from publicly available official sources only. Always verify against official regulatory sources before making any regulatory decisions. Not legal or regulatory advice.
+
+## Sections
+
+- [Start Here](https://rapath.org/eu/start-here/what-is-a-medical-device)
+- [Pre-Market](https://rapath.org/eu/pre-market/classification/how-classification-works)
+- [Post-Market](https://rapath.org/eu/post-market/post-market-overview)
+- [Legislation](https://rapath.org/eu/legislation/mdr-key-articles)
+- [Notified Bodies](https://rapath.org/eu/notified-bodies/what-notified-bodies-do)
+- [What's New](https://rapath.org/eu/whats-new/recent-regulatory-changes)
+
+## Official Sources
+
+- [MDR 2017/745 (EUR-Lex)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32017R0745)
+- [IVDR 2017/746 (EUR-Lex)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32017R0746)
+- [MDCG Guidance Documents](https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en)
+- [EUDAMED](https://ec.europa.eu/tools/eudamed)
+- [NANDO Database](https://ec.europa.eu/growth/tools-databases/nando)
+
+## About RAPath
+
+- [All Jurisdictions](https://rapath.org/#jurisdictions)
+- [What's New](https://rapath.org/whats-new)
+- [About](https://rapath.org/about)
+- [Terms of Use](https://rapath.org/terms)
+- [Q&A / Discussions](https://github.com/orgs/RAPath/discussions)
+- [GitHub](https://github.com/RAPath/rapath.github.io)

@@ -1,0 +1,31 @@
+# RAPath Hong Kong
+
+> Hong Kong MDD / MDACS Medical Device Regulatory Reference
+
+Plain English reference for Hong Kong MDACS medical device regulation — listing pathways, classification, LRP obligations, and post-market requirements.
+
+RAPath is an independent open-source project providing plain English navigation aids for medical device regulatory requirements. Content is written with AI assistance and derived from publicly available official sources only. Always verify against official regulatory sources before making any regulatory decisions. Not legal or regulatory advice.
+
+## Sections
+
+- [Getting Started](https://rapath.org/hk/getting-started/what-is-a-medical-device)
+- [Classification](https://rapath.org/hk/classification/how-classification-works)
+- [MDACS Listing](https://rapath.org/hk/mdacs-listing/overview)
+- [Post-Market](https://rapath.org/hk/post-market/overview)
+- [Legislation](https://rapath.org/hk/legislation/framework)
+- [What's New](https://rapath.org/hk/whats-new/recent-changes)
+
+## Official Sources
+
+- [Medical Device Division (MDD), Department of Health](https://www.mdd.gov.hk/)
+- [MDACS — Technical References & Guidance Notes](https://www.mdd.gov.hk/en/technical_references.html)
+- [MDIS — Medical Device Information System](https://www.mdis.gov.hk/)
+
+## About RAPath
+
+- [All Jurisdictions](https://rapath.org/#jurisdictions)
+- [What's New](https://rapath.org/whats-new)
+- [About](https://rapath.org/about)
+- [Terms of Use](https://rapath.org/terms)
+- [Q&A / Discussions](https://github.com/orgs/RAPath/discussions)
+- [GitHub](https://github.com/RAPath/rapath.github.io)

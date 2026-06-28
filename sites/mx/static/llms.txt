@@ -1,0 +1,31 @@
+# RAPath Mexico
+
+> Mexico COFEPRIS Medical Device Regulatory Reference
+
+Plain English reference for Mexico COFEPRIS medical device regulation — sanitary registration, classification, NOM-241 GMP, technovigilance, and the Mexico Registration Holder (MRH).
+
+RAPath is an independent open-source project providing plain English navigation aids for medical device regulatory requirements. Content is written with AI assistance and derived from publicly available official sources only. Always verify against official regulatory sources before making any regulatory decisions. Not legal or regulatory advice.
+
+## Sections
+
+- [Getting Started](https://rapath.org/mx/getting-started/what-is-a-medical-device)
+- [Pre-Market](https://rapath.org/mx/premarket/overview)
+- [Post-Market](https://rapath.org/mx/postmarket/overview)
+- [Registration Holder](https://rapath.org/mx/mexico-registration-holder/what-is-mrh)
+- [Legislation & NOMs](https://rapath.org/mx/legislation/ley-general-de-salud)
+- [International](https://rapath.org/mx/international/imdrf-membership)
+
+## Official Sources
+
+- [COFEPRIS — Dispositivos Médicos](https://www.gob.mx/cofepris)
+- [Diario Oficial de la Federación](https://www.dof.gob.mx)
+- [Ley General de Salud](https://www.diputados.gob.mx)
+
+## About RAPath
+
+- [All Jurisdictions](https://rapath.org/#jurisdictions)
+- [What's New](https://rapath.org/whats-new)
+- [About](https://rapath.org/about)
+- [Terms of Use](https://rapath.org/terms)
+- [Q&A / Discussions](https://github.com/orgs/RAPath/discussions)
+- [GitHub](https://github.com/RAPath/rapath.github.io)

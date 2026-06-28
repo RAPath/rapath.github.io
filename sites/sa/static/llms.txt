@@ -1,0 +1,31 @@
+# RAPath Saudi Arabia
+
+> Saudi Arabia SFDA Medical Device Regulatory Reference
+
+Plain English reference for Saudi Arabia SFDA medical device regulation — MDMA registration, device classification, authorized representative, MDEL, and post-market obligations.
+
+RAPath is an independent open-source project providing plain English navigation aids for medical device regulatory requirements. Content is written with AI assistance and derived from publicly available official sources only. Always verify against official regulatory sources before making any regulatory decisions. Not legal or regulatory advice.
+
+## Sections
+
+- [Start Here](https://rapath.org/sa/getting-started/what-is-a-medical-device)
+- [Registration (MDMA)](https://rapath.org/sa/mdma-registration/mdma-overview)
+- [Post-Market](https://rapath.org/sa/post-market/overview)
+- [AR & MDEL](https://rapath.org/sa/authorized-representative/ar-overview)
+- [GCC & International](https://rapath.org/sa/gcc-international/ksa-global-landscape)
+- [What's New](https://rapath.org/sa/whats-new/recent-changes)
+
+## Official Sources
+
+- [SFDA — Medical Devices](https://www.sfda.gov.sa/en/medicaldevices)
+- [GHAD Portal](https://ghad.sfda.gov.sa/)
+- [NCMDR — Adverse Event Reporting](https://www.sfda.gov.sa/en/ncmdr)
+
+## About RAPath
+
+- [All Jurisdictions](https://rapath.org/#jurisdictions)
+- [What's New](https://rapath.org/whats-new)
+- [About](https://rapath.org/about)
+- [Terms of Use](https://rapath.org/terms)
+- [Q&A / Discussions](https://github.com/orgs/RAPath/discussions)
+- [GitHub](https://github.com/RAPath/rapath.github.io)

@@ -1,0 +1,31 @@
+# RAPath Thailand
+
+> Thailand Thai FDA / MDCD Medical Device Regulatory Reference
+
+Plain English reference for Thailand Thai FDA medical device regulation — three registration pathways, CSDT dossier, ASEAN AMDD alignment, and Establishment License requirements.
+
+RAPath is an independent open-source project providing plain English navigation aids for medical device regulatory requirements. Content is written with AI assistance and derived from publicly available official sources only. Always verify against official regulatory sources before making any regulatory decisions. Not legal or regulatory advice.
+
+## Sections
+
+- [Getting Started](https://rapath.org/th/getting-started/what-is-a-medical-device)
+- [Classification](https://rapath.org/th/classification/overview)
+- [Registration Pathways](https://rapath.org/th/three-pathways/overview)
+- [CSDT & Docs](https://rapath.org/th/csdt-documentation/overview)
+- [Post-Market](https://rapath.org/th/post-market/overview)
+- [Legislation](https://rapath.org/th/legislation/overview)
+- [What's New](https://rapath.org/th/whats-new/recent-changes)
+
+## Official Sources
+
+- [Thai FDA — Medical Device Control Division (MDCD)](https://www.fda.moph.go.th/sites/Medical/Pages/home.aspx)
+- [Thai FDA](https://www.fda.moph.go.th/)
+
+## About RAPath
+
+- [All Jurisdictions](https://rapath.org/#jurisdictions)
+- [What's New](https://rapath.org/whats-new)
+- [About](https://rapath.org/about)
+- [Terms of Use](https://rapath.org/terms)
+- [Q&A / Discussions](https://github.com/orgs/RAPath/discussions)
+- [GitHub](https://github.com/RAPath/rapath.github.io)

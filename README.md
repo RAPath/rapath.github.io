@@ -3,7 +3,7 @@
 
 RAPath is an independent open-source reference for medical device regulation across 24 jurisdictions. Every page is written in plain English, links back to the authoritative legislative or regulatory source, and is openly available to anyone who needs it.
 
-🌐 [rapath.github.io](https://rapath.github.io)
+🌐 [rapath.org](https://rapath.org)
 
 ---
 
@@ -11,30 +11,30 @@ RAPath is an independent open-source reference for medical device regulation acr
 
 | Jurisdiction | Regulator | Status | URL |
 | :--- | :--- | :--- | :--- |
-| 🇦🇺 **Australia** | TGA | Live | [rapath.github.io/au](https://rapath.github.io/au) |
-| 🇳🇿 **New Zealand** | Medsafe | Live | [rapath.github.io/nz](https://rapath.github.io/nz) |
-| 🇪🇺 **European Union** | MDR & IVDR | Live | [rapath.github.io/eu](https://rapath.github.io/eu) |
-| 🇬🇧 **United Kingdom** | MHRA | Live | [rapath.github.io/uk](https://rapath.github.io/uk) |
-| 🇨🇭 **Switzerland** | Swissmedic | Live | [rapath.github.io/swiss](https://rapath.github.io/swiss) |
-| 🇨🇦 **Canada** | Health Canada | Live | [rapath.github.io/hc](https://rapath.github.io/hc) |
-| 🇺🇸 **United States** | FDA | Live | [rapath.github.io/us](https://rapath.github.io/us) |
-| 🇲🇽 **Mexico** | COFEPRIS | Live | [rapath.github.io/mx](https://rapath.github.io/mx) |
-| 🇧🇷 **Brazil** | ANVISA | Live | [rapath.github.io/br](https://rapath.github.io/br) |
-| 🇯🇵 **Japan** | PMDA | Live | [rapath.github.io/jp](https://rapath.github.io/jp) |
-| 🇨🇳 **China** | NMPA | Live | [rapath.github.io/cn](https://rapath.github.io/cn) |
-| 🇰🇷 **South Korea** | MFDS | Live | [rapath.github.io/kr](https://rapath.github.io/kr) |
-| 🇭🇰 **Hong Kong** | MDD / MDACS | Live | [rapath.github.io/hk](https://rapath.github.io/hk) |
-| 🇮🇳 **India** | CDSCO | Live | [rapath.github.io/in](https://rapath.github.io/in) |
-| 🇧🇩 **Bangladesh** | DGDA | Live | [rapath.github.io/bd](https://rapath.github.io/bd) |
-| 🇱🇰 **Sri Lanka** | NMRA | Live | [rapath.github.io/lk](https://rapath.github.io/lk) |
-| 🇸🇬 **Singapore** | HSA | Live | [rapath.github.io/sg](https://rapath.github.io/sg) |
-| 🇲🇾 **Malaysia** | MDA | Live | [rapath.github.io/my](https://rapath.github.io/my) |
-| 🇹🇭 **Thailand** | Thai FDA | Live | [rapath.github.io/th](https://rapath.github.io/th) |
-| 🇮🇩 **Indonesia** | BPOM | Live | [rapath.github.io/id](https://rapath.github.io/id) |
-| 🇵🇭 **Philippines** | FDA Philippines | Live | [rapath.github.io/ph](https://rapath.github.io/ph) |
-| 🇻🇳 **Vietnam** | DAV / MOH | Live | [rapath.github.io/vt](https://rapath.github.io/vt) |
-| 🇷🇺 **Russia** | Roszdravnadzor | Live | [rapath.github.io/ru](https://rapath.github.io/ru) |
-| 🇸🇦 **Saudi Arabia** | SFDA | Live | [rapath.github.io/sa](https://rapath.github.io/sa) |
+| 🇦🇺 **Australia** | TGA | Live | [rapath.org/au](https://rapath.org/au) |
+| 🇳🇿 **New Zealand** | Medsafe | Live | [rapath.org/nz](https://rapath.org/nz) |
+| 🇪🇺 **European Union** | MDR & IVDR | Live | [rapath.org/eu](https://rapath.org/eu) |
+| 🇬🇧 **United Kingdom** | MHRA | Live | [rapath.org/uk](https://rapath.org/uk) |
+| 🇨🇭 **Switzerland** | Swissmedic | Live | [rapath.org/swiss](https://rapath.org/swiss) |
+| 🇨🇦 **Canada** | Health Canada | Live | [rapath.org/hc](https://rapath.org/hc) |
+| 🇺🇸 **United States** | FDA | Live | [rapath.org/us](https://rapath.org/us) |
+| 🇲🇽 **Mexico** | COFEPRIS | Live | [rapath.org/mx](https://rapath.org/mx) |
+| 🇧🇷 **Brazil** | ANVISA | Live | [rapath.org/br](https://rapath.org/br) |
+| 🇯🇵 **Japan** | PMDA | Live | [rapath.org/jp](https://rapath.org/jp) |
+| 🇨🇳 **China** | NMPA | Live | [rapath.org/cn](https://rapath.org/cn) |
+| 🇰🇷 **South Korea** | MFDS | Live | [rapath.org/kr](https://rapath.org/kr) |
+| 🇭🇰 **Hong Kong** | MDD / MDACS | Live | [rapath.org/hk](https://rapath.org/hk) |
+| 🇮🇳 **India** | CDSCO | Live | [rapath.org/in](https://rapath.org/in) |
+| 🇧🇩 **Bangladesh** | DGDA | Live | [rapath.org/bd](https://rapath.org/bd) |
+| 🇱🇰 **Sri Lanka** | NMRA | Live | [rapath.org/lk](https://rapath.org/lk) |
+| 🇸🇬 **Singapore** | HSA | Live | [rapath.org/sg](https://rapath.org/sg) |
+| 🇲🇾 **Malaysia** | MDA | Live | [rapath.org/my](https://rapath.org/my) |
+| 🇹🇭 **Thailand** | Thai FDA | Live | [rapath.org/th](https://rapath.org/th) |
+| 🇮🇩 **Indonesia** | BPOM | Live | [rapath.org/id](https://rapath.org/id) |
+| 🇵🇭 **Philippines** | FDA Philippines | Live | [rapath.org/ph](https://rapath.org/ph) |
+| 🇻🇳 **Vietnam** | DAV / MOH | Live | [rapath.org/vt](https://rapath.org/vt) |
+| 🇷🇺 **Russia** | Roszdravnadzor | Live | [rapath.org/ru](https://rapath.org/ru) |
+| 🇸🇦 **Saudi Arabia** | SFDA | Live | [rapath.org/sa](https://rapath.org/sa) |
 
 ---
 
@@ -66,7 +66,7 @@ RAPath includes 19 free, interactive tools — no account required.
 | RA Consultants | Acronym & Glossary Lookup, Economic Operator Map, Regulatory Process Flow |
 | Software / SaMD | Cybersecurity Requirements |
 
-🔗 [rapath.github.io/tools](https://rapath.github.io/tools/)
+🔗 [rapath.org/tools](https://rapath.org/tools/)
 
 ---
 

@@ -1,0 +1,30 @@
+# RAPath China
+
+> China NMPA Medical Device Regulatory Reference
+
+Plain English reference for China NMPA medical device regulation — registration pathways, classification, and post-market obligations.
+
+RAPath is an independent open-source project providing plain English navigation aids for medical device regulatory requirements. Content is written with AI assistance and derived from publicly available official sources only. Always verify against official regulatory sources before making any regulatory decisions. Not legal or regulatory advice.
+
+## Sections
+
+- [Start Here](https://rapath.org/cn/start-here/what-is-a-medical-device)
+- [Pre-Market](https://rapath.org/cn/pre-market/classification)
+- [Post-Market](https://rapath.org/cn/post-market/overview)
+- [Legislation](https://rapath.org/cn/legislation/medical-device-supervision-regulations)
+- [What's New](https://rapath.org/cn/whats-new/regulatory-changes)
+
+## Official Sources
+
+- [NMPA (National Medical Products Administration)](https://www.nmpa.gov.cn/)
+- [National Medical Device Registration System](https://www.nmpa.gov.cn/ylqx/)
+- [Center for Medical Device Evaluation (CMDE)](https://www.cmde.org.cn/eportal/ui?pageId=330595)
+
+## About RAPath
+
+- [All Jurisdictions](https://rapath.org/#jurisdictions)
+- [What's New](https://rapath.org/whats-new)
+- [About](https://rapath.org/about)
+- [Terms of Use](https://rapath.org/terms)
+- [Q&A / Discussions](https://github.com/orgs/RAPath/discussions)
+- [GitHub](https://github.com/RAPath/rapath.github.io)

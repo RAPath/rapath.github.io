@@ -1,0 +1,32 @@
+# RAPath Singapore
+
+> Singapore HSA Medical Device Regulatory Reference
+
+Plain English reference for Singapore HSA medical device regulation — product registration, classification, Health Products Act, and post-market obligations.
+
+RAPath is an independent open-source project providing plain English navigation aids for medical device regulatory requirements. Content is written with AI assistance and derived from publicly available official sources only. Always verify against official regulatory sources before making any regulatory decisions. Not legal or regulatory advice.
+
+## Sections
+
+- [Start Here](https://rapath.org/sg/start-here/what-is-a-medical-device)
+- [Pre-Market](https://rapath.org/sg/pre-market/classification/how-classification-works)
+- [Post-Market](https://rapath.org/sg/post-market/overview)
+- [Dealer's Licence](https://rapath.org/sg/dealers-licence/overview)
+- [International & ASEAN](https://rapath.org/sg/international/asean-harmonisation)
+- [What's New](https://rapath.org/sg/whats-new/regulatory-changes)
+
+## Official Sources
+
+- [HSA — Medical Devices](https://www.hsa.gov.sg/medical-devices)
+- [Health Products Act (Cap. 122D)](https://sso.agc.gov.sg/Act/HPA2007)
+- [HP(MD) Regulations 2010](https://sso.agc.gov.sg/SL/HPA2007-S436-2010)
+- [SHARE Portal](https://www.hsa.gov.sg/medical-devices/e-services)
+
+## About RAPath
+
+- [All Jurisdictions](https://rapath.org/#jurisdictions)
+- [What's New](https://rapath.org/whats-new)
+- [About](https://rapath.org/about)
+- [Terms of Use](https://rapath.org/terms)
+- [Q&A / Discussions](https://github.com/orgs/RAPath/discussions)
+- [GitHub](https://github.com/RAPath/rapath.github.io)

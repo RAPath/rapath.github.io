@@ -1,0 +1,32 @@
+# RAPath Australia
+
+> Australian TGA Medical Device Regulatory Reference
+
+Plain English reference for Australian medical device regulation — TGA requirements, ARTG inclusion, Essential Principles, and post-market obligations.
+
+RAPath is an independent open-source project providing plain English navigation aids for medical device regulatory requirements. Content is written with AI assistance and derived from publicly available official sources only. Always verify against official regulatory sources before making any regulatory decisions. Not legal or regulatory advice.
+
+## Sections
+
+- [Start Here](https://rapath.org/au/start-here/what-is-a-medical-device)
+- [Pre-Market](https://rapath.org/au/pre-market/classification/how-classification-works)
+- [Post-Market](https://rapath.org/au/post-market/overview)
+- [Legislation](https://rapath.org/au/legislation/therapeutic-goods-act)
+- [What's New](https://rapath.org/au/whats-new/regulatory-changes)
+
+## Official Sources
+
+- [TGA — Medical Devices](https://www.tga.gov.au/products/medical-devices)
+- [ARTG Public Summary](https://www.tga.gov.au/resources/artg)
+- [Therapeutic Goods Act 1989](https://www.legislation.gov.au/Series/C2004A03952)
+- [MD Regulations 2002](https://www.legislation.gov.au/Series/F2002B00237)
+- [IRIS Reporting Portal](https://www.tga.gov.au/reporting-problems)
+
+## About RAPath
+
+- [All Jurisdictions](https://rapath.org/#jurisdictions)
+- [What's New](https://rapath.org/whats-new)
+- [About](https://rapath.org/about)
+- [Terms of Use](https://rapath.org/terms)
+- [Q&A / Discussions](https://github.com/orgs/RAPath/discussions)
+- [GitHub](https://github.com/RAPath/rapath.github.io)

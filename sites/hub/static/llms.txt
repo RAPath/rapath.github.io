@@ -1,0 +1,27 @@
+# RAPath Global Hub
+
+> Global Medical Device Regulatory Reference
+
+Central hub for RAPath — plain English medical device regulatory references across 25 jurisdictions worldwide.
+
+RAPath is an independent open-source project providing plain English navigation aids for medical device regulatory requirements. Content is written with AI assistance and derived from publicly available official sources only. Always verify against official regulatory sources before making any regulatory decisions. Not legal or regulatory advice.
+
+## Sections
+
+- [Browse Jurisdictions](https://rapath.org/#jurisdictions)
+- [What's New](https://rapath.org/whats-new)
+- [Regulatory Tools](https://rapath.org/tools/)
+
+## Official Sources
+
+- [RAPath GitHub](https://github.com/RAPath/rapath.github.io)
+- [Q&A Discussions](https://github.com/orgs/RAPath/discussions)
+
+## About RAPath
+
+- [All Jurisdictions](https://rapath.org/#jurisdictions)
+- [What's New](https://rapath.org/whats-new)
+- [About](https://rapath.org/about)
+- [Terms of Use](https://rapath.org/terms)
+- [Q&A / Discussions](https://github.com/orgs/RAPath/discussions)
+- [GitHub](https://github.com/RAPath/rapath.github.io)

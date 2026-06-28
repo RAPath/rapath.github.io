@@ -1,0 +1,30 @@
+# RAPath Sri Lanka
+
+> Sri Lanka NMRA Medical Device Regulatory Reference
+
+Plain English reference for Sri Lanka NMRA medical device regulation — two-step registration, MAH requirements, reliance pathway, and MDEC review process.
+
+RAPath is an independent open-source project providing plain English navigation aids for medical device regulatory requirements. Content is written with AI assistance and derived from publicly available official sources only. Always verify against official regulatory sources before making any regulatory decisions. Not legal or regulatory advice.
+
+## Sections
+
+- [Getting Started](https://rapath.org/lk/getting-started/what-is-a-medical-device)
+- [Classification](https://rapath.org/lk/classification/overview)
+- [Registration](https://rapath.org/lk/registration/overview)
+- [Post-Market](https://rapath.org/lk/post-market/overview)
+- [Legislation](https://rapath.org/lk/legislation/nmra-act)
+- [What's New](https://rapath.org/lk/whats-new/recent-changes)
+
+## Official Sources
+
+- [National Medicines Regulatory Authority (NMRA)](https://www.nmra.gov.lk/)
+- [NMRA — Application Forms & Guidelines](https://www.nmra.gov.lk/index.php?option=com_content&view=article&id=73)
+
+## About RAPath
+
+- [All Jurisdictions](https://rapath.org/#jurisdictions)
+- [What's New](https://rapath.org/whats-new)
+- [About](https://rapath.org/about)
+- [Terms of Use](https://rapath.org/terms)
+- [Q&A / Discussions](https://github.com/orgs/RAPath/discussions)
+- [GitHub](https://github.com/RAPath/rapath.github.io)

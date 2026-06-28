@@ -1,0 +1,32 @@
+# RAPath Health Canada
+
+> Health Canada Medical Device Regulatory Reference
+
+Plain English reference for Health Canada medical device regulation — Medical Device Licence, classification, conformity assessment, and post-market obligations.
+
+RAPath is an independent open-source project providing plain English navigation aids for medical device regulatory requirements. Content is written with AI assistance and derived from publicly available official sources only. Always verify against official regulatory sources before making any regulatory decisions. Not legal or regulatory advice.
+
+## Sections
+
+- [Start Here](https://rapath.org/hc/start-here/what-is-a-medical-device)
+- [Pre-Market](https://rapath.org/hc/pre-market/classification/how-classification-works)
+- [Post-Market](https://rapath.org/hc/post-market/overview)
+- [Legislation](https://rapath.org/hc/legislation/food-and-drugs-act)
+- [What's New](https://rapath.org/hc/whats-new/regulatory-changes)
+
+## Official Sources
+
+- [Health Canada — Medical Devices](https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices.html)
+- [Medical Devices Regulations (SOR/98-282)](https://laws-lois.justice.gc.ca/eng/regulations/SOR-98-282/)
+- [Food and Drugs Act](https://laws-lois.justice.gc.ca/eng/acts/F-27/)
+- [MDALL Database](https://health-products.canada.ca/mdall-limh/)
+- [MedEffect Canada](https://www.canada.ca/en/health-canada/services/drugs-health-products/medeffect-canada.html)
+
+## About RAPath
+
+- [All Jurisdictions](https://rapath.org/#jurisdictions)
+- [What's New](https://rapath.org/whats-new)
+- [About](https://rapath.org/about)
+- [Terms of Use](https://rapath.org/terms)
+- [Q&A / Discussions](https://github.com/orgs/RAPath/discussions)
+- [GitHub](https://github.com/RAPath/rapath.github.io)
