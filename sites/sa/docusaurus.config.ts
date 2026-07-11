@@ -4,14 +4,13 @@ export default buildSiteConfig({
   title: 'RAPath Saudi Arabia',
   tagline: 'Saudi Arabia SFDA Medical Device Regulatory Reference',
   sidebarId: 'regulationSidebar',
-  whatsNewPath: '/whats-new/recent-changes',
   sections: [
     { label: 'Start Here', to: '/getting-started/what-is-a-medical-device' },
     { label: 'Registration (MDMA)', to: '/mdma-registration/mdma-overview' },
     { label: 'Post-Market', to: '/post-market/overview' },
     { label: 'AR & MDEL', to: '/authorized-representative/ar-overview' },
     { label: 'GCC & International', to: '/gcc-international/ksa-global-landscape' },
-    { label: "What's New", to: '/whats-new/recent-changes' },
+    { label: "What's New", href: 'https://rapath.org/whats-new' },
   ],
   officialSources: [
     { label: 'SFDA — Medical Devices', href: 'https://www.sfda.gov.sa/en/medicaldevices' },

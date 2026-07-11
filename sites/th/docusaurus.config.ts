@@ -4,7 +4,6 @@ export default buildSiteConfig({
   title: 'RAPath Thailand',
   tagline: 'Thailand Thai FDA / MDCD Medical Device Regulatory Reference',
   sidebarId: 'regulationSidebar',
-  whatsNewPath: '/whats-new/recent-changes',
   sections: [
     { label: 'Getting Started',       to: '/getting-started/what-is-a-medical-device' },
     { label: 'Classification',        to: '/classification/overview' },
@@ -12,7 +11,7 @@ export default buildSiteConfig({
     { label: 'CSDT & Docs',           to: '/csdt-documentation/overview' },
     { label: 'Post-Market',           to: '/post-market/overview' },
     { label: 'Legislation',           to: '/legislation/overview' },
-    { label: "What's New",            to: '/whats-new/recent-changes' },
+    { label: "What's New", href: 'https://rapath.org/whats-new' },
   ],
   officialSources: [
     { label: 'Thai FDA — Medical Device Control Division (MDCD)', href: 'https://www.fda.moph.go.th/sites/Medical/Pages/home.aspx' },

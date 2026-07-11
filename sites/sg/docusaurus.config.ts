@@ -4,14 +4,13 @@ export default buildSiteConfig({
   title: 'RAPath Singapore',
   tagline: 'Singapore HSA Medical Device Regulatory Reference',
   sidebarId: 'regulationSidebar',
-  whatsNewPath: '/whats-new/regulatory-changes',
   sections: [
     { label: 'Start Here', to: '/start-here/what-is-a-medical-device' },
     { label: 'Pre-Market', to: '/pre-market/classification/how-classification-works' },
     { label: 'Post-Market', to: '/post-market/overview' },
     { label: "Dealer's Licence", to: '/dealers-licence/overview' },
     { label: 'International & ASEAN', to: '/international/asean-harmonisation' },
-    { label: "What's New", to: '/whats-new/regulatory-changes' },
+    { label: "What's New", href: 'https://rapath.org/whats-new' },
   ],
   officialSources: [
     { label: 'HSA — Medical Devices', href: 'https://www.hsa.gov.sg/medical-devices' },

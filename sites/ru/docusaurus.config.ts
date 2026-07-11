@@ -4,13 +4,12 @@ export default buildSiteConfig({
   title: 'RAPath Russia',
   tagline: 'Russia Roszdravnadzor Medical Device Regulatory Reference',
   sidebarId: 'regulationSidebar',
-  whatsNewPath: '/whats-new/regulatory-changes',
   sections: [
     { label: 'Start Here', to: '/start-here/what-is-a-medical-device' },
     { label: 'Pre-Market', to: '/pre-market/classification' },
     { label: 'Post-Market', to: '/post-market/overview' },
     { label: 'Legislation', to: '/legislation/federal-law-323-overview' },
-    { label: "What's New", to: '/whats-new/regulatory-changes' },
+    { label: "What's New", href: 'https://rapath.org/whats-new' },
   ],
   officialSources: [
     { label: 'Roszdravnadzor', href: 'https://roszdravnadzor.gov.ru/' },

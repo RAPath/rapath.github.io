@@ -4,14 +4,13 @@ export default buildSiteConfig({
   title: 'RAPath Japan',
   tagline: 'Japan PMDA Medical Device Regulatory Reference',
   sidebarId: 'regulationSidebar',
-  whatsNewPath: '/whats-new/recent-amendments',
   sections: [
     { label: 'Start Here', to: '/start-here/what-is-a-medical-device' },
     { label: 'Pre-Market', to: '/pre-market/classification' },
     { label: 'Post-Market', to: '/post-market/overview' },
     { label: 'MAH & Licences', to: '/mah-licences/overview' },
     { label: 'Legislation', to: '/legislation/pmd-act' },
-    { label: "What's New", to: '/whats-new/recent-amendments' },
+    { label: "What's New", href: 'https://rapath.org/whats-new' },
   ],
   officialSources: [
     { label: 'PMDA (English)', href: 'https://www.pmda.go.jp/english/' },

@@ -4,7 +4,6 @@ export default buildSiteConfig({
   title: 'RAPath New Zealand',
   tagline: 'New Zealand Medical Device Regulation — Medsafe & Medicines Act 1981',
   sidebarId: 'regulationSidebar',
-  whatsNewPath: '/whats-new/recent-changes',
   sections: [
     { label: 'Getting Started',       to: '/getting-started/what-is-a-medical-device' },
     { label: 'Market Entry — WAND',   to: '/market-entry/wand-overview' },
@@ -12,7 +11,7 @@ export default buildSiteConfig({
     { label: 'Sponsor Obligations',   to: '/sponsor-obligations/what-is-a-sponsor' },
     { label: 'Post-Market',           to: '/post-market/adverse-event-reporting' },
     { label: 'Legislation',           to: '/legislation/medicines-act-1981' },
-    { label: "What's New",            to: '/whats-new/recent-changes' },
+    { label: "What's New", href: 'https://rapath.org/whats-new' },
   ],
   officialSources: [
     { label: 'Medsafe — Medical Devices',       href: 'https://www.medsafe.govt.nz/regulatory/DevicesNew.asp' },

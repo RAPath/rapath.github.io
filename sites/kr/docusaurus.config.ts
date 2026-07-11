@@ -4,13 +4,12 @@ export default buildSiteConfig({
   title: 'RAPath South Korea',
   tagline: 'South Korea MFDS Medical Device Regulatory Reference',
   sidebarId: 'regulationSidebar',
-  whatsNewPath: '/whats-new/regulatory-changes',
   sections: [
     { label: 'Start Here', to: '/start-here/what-is-a-medical-device' },
     { label: 'Pre-Market', to: '/pre-market/classification' },
     { label: 'Post-Market', to: '/post-market/overview' },
     { label: 'Legislation', to: '/legislation/medical-devices-act' },
-    { label: "What's New", to: '/whats-new/regulatory-changes' },
+    { label: "What's New", href: 'https://rapath.org/whats-new' },
   ],
   officialSources: [
     { label: 'MFDS (Ministry of Food and Drug Safety)', href: 'https://www.mfds.go.kr/eng/' },

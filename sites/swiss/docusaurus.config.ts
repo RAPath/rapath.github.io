@@ -4,14 +4,13 @@ export default buildSiteConfig({
   title: 'RAPath Swissmedic',
   tagline: 'Swiss Medical Device Regulatory Reference',
   sidebarId: 'regulationSidebar',
-  whatsNewPath: '/whats-new/recent-regulatory-changes',
   sections: [
     { label: 'Start Here', to: '/start-here/overview' },
     { label: 'Pre-Market', to: '/pre-market/overview' },
     { label: 'Post-Market', to: '/post-market/overview' },
     { label: 'Legislation', to: '/legislation/meddo-overview' },
     { label: 'Conformity Assessment Bodies', to: '/conformity-assessment-bodies/overview' },
-    { label: "What's New", to: '/whats-new/recent-regulatory-changes' },
+    { label: "What's New", href: 'https://rapath.org/whats-new' },
   ],
   officialSources: [
     { label: 'Swissmedic', href: 'https://www.swissmedic.ch' },

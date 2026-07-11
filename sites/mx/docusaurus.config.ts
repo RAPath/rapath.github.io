@@ -4,7 +4,6 @@ export default buildSiteConfig({
   title: 'RAPath Mexico',
   tagline: 'Mexico COFEPRIS Medical Device Regulatory Reference',
   sidebarId: 'regulationSidebar',
-  whatsNewPath: '/resources/useful-links',
   sections: [
     { label: 'Getting Started', to: '/getting-started/what-is-a-medical-device' },
     { label: 'Pre-Market', to: '/premarket/overview' },

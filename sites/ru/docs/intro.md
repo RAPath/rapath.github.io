@@ -55,13 +55,13 @@ export const PathwayMap = () => {
   const [openPhase, setOpenPhase] = React.useState(0);
   const toggle = (id) => setOpenPhase(prev => prev === id ? null : id);
   return (
-    <div style={{ borderRadius: '12px', border: '1px solid var(--ifm-border-color)', background: 'color-mix(in srgb, var(--ifm-color-primary) 6%, var(--ifm-background-color))', padding: '1.5rem', margin: '2rem 0' }}>
+    <div style={{ borderRadius: '12px', border: '1px solid var(--ifm-border-color)', background: 'transparent', padding: '1.5rem', margin: '2rem 0' }}>
       <p style={{ margin: '0 0 1rem 0', fontSize: '0.85rem', color: 'var(--ifm-font-color-secondary)' }}>Click a phase to expand — each card links to the relevant section of this guide.</p>
       {PHASES.map((phase) => {
         const isOpen = openPhase === phase.id;
         return (
-          <div key={phase.id} style={{ borderRadius: '8px', border: `1px solid ${isOpen ? 'var(--ifm-color-primary)' : 'var(--ifm-border-color)'}`, marginBottom: '0.5rem', overflow: 'hidden' }}>
-            <button onClick={() => toggle(phase.id)} style={{ display: 'flex', alignItems: 'center', gap: '0.75rem', padding: '0.875rem 1rem', background: 'color-mix(in srgb, var(--ifm-color-primary) 8%, var(--ifm-background-color))', cursor: 'pointer', border: 'none', width: '100%', textAlign: 'left', color: 'var(--ifm-font-color-base)', fontFamily: 'inherit' }}>
+          <div key={phase.id} style={{ borderRadius: '8px', border: `1px solid ${isOpen ? 'var(--ifm-color-emphasis-800)' : 'var(--ifm-border-color)'}`, marginBottom: '0.5rem', overflow: 'hidden' }}>
+            <button onClick={() => toggle(phase.id)} style={{ display: 'flex', alignItems: 'center', gap: '0.75rem', padding: '0.875rem 1rem', background: 'transparent', cursor: 'pointer', border: 'none', width: '100%', textAlign: 'left', color: 'var(--ifm-font-color-base)', fontFamily: 'inherit' }}>
               <span style={{ fontSize: '1.25rem', minWidth: '1.5rem' }}>{phase.icon}</span>
               <span style={{ flex: 1 }}>
                 <span style={{ fontSize: '0.7rem', color: 'var(--ifm-font-color-secondary)', display: 'block', marginBottom: '0.1rem' }}>{phase.label}</span>
@@ -75,10 +75,10 @@ export const PathwayMap = () => {
                 {phase.nodes.map((node, idx) => (
                   <div key={idx} style={{ position: 'relative', marginBottom: '0.75rem' }}>
                     <div style={{ position: 'absolute', left: '-1rem', top: '1.25rem', width: '1rem', height: '2px', background: 'var(--ifm-border-color)' }} />
-                    <div style={{ background: 'var(--ifm-background-color)', border: '1px solid var(--ifm-border-color)', borderLeft: '3px solid var(--ifm-color-primary)', borderRadius: '8px', padding: '0.875rem 1rem' }}>
+                    <div style={{ background: 'var(--ifm-background-color)', border: '1px solid var(--ifm-border-color)', borderLeft: '3px solid var(--ifm-color-emphasis-800)', borderRadius: '8px', padding: '0.875rem 1rem' }}>
                       <div style={{ marginBottom: '0.25rem' }}>
                         <span style={{ fontSize: '0.7rem', color: 'var(--ifm-font-color-secondary)', textTransform: 'uppercase', letterSpacing: '0.05em' }}>{node.tag}</span>
-                        {node.badge && <span style={{ display: 'inline-block', fontSize: '0.7rem', fontWeight: 600, padding: '0.15rem 0.5rem', borderRadius: '999px', marginLeft: '0.5rem', background: 'color-mix(in srgb, var(--ifm-color-primary) 12%, transparent)', color: 'var(--ifm-color-primary)' }}>{node.badge}</span>}
+                        {node.badge && <span style={{ display: 'inline-block', fontSize: '0.7rem', fontWeight: 600, padding: '0.15rem 0.5rem', borderRadius: '999px', marginLeft: '0.5rem', background: 'var(--ifm-color-emphasis-100)', color: 'var(--ifm-color-emphasis-700)' }}>{node.badge}</span>}
                       </div>
                       <div style={{ fontWeight: 600, marginBottom: '0.25rem', color: 'var(--ifm-font-color-base)' }}>{node.title}</div>
                       <div style={{ fontSize: '0.85rem', color: 'var(--ifm-font-color-secondary)', marginBottom: node.link ? '0.5rem' : '0' }}>{node.sub}</div>
@@ -131,10 +131,4 @@ Russia regulates medical devices through **Roszdravnadzor (RZN)** — the Federa
 - **[Clinical Evaluation](/clinical-evaluation/clinical-evaluation-requirements)** — when local Russian clinical testing is required
 - **[Quality Management](/quality-management/qms-overview)** — ISO 13485, GOST standards, manufacturing site inspections
 - **[EAEU & Authorized Representative](/eaeu-and-authorized-rep/eaeu-overview)** — RUS REP role, EAEU framework, importer and distributor obligations
-- **[Digital Marking (Chestny ZNAK)](/udi-and-marking/digital-marking)** — mandatory Data Matrix marking for specified device categories
-- **[Post-Market](/post-market/overview)** — adverse event reporting, FSCAs, recalls, registration maintenance
-- **[Enforcement](/enforcement/overview)** — Roszdravnadzor enforcement powers, inspection types, penalties
-- **[Legislation](/legislation/federal-law-323)** — Federal Law 323-FZ, Decree No. 1684, EAEU instruments, MOH Orders
-
----
-*Part of the [RAPath](https://rapath.org/) suite — medical device regulatory reference.*
+- **[Digital Marking (Chestny ZNAK)](/udi-and-marking/digital-marking)** — mandatory Data Matrix marking for 

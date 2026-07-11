@@ -4,7 +4,6 @@ export default buildSiteConfig({
   title: 'RAPath UK',
   tagline: 'UK MHRA Medical Device Regulatory Reference',
   sidebarId: 'regulationSidebar',
-  whatsNewPath: '/whats-new/regulatory-changes',
   sections: [
     { label: 'Start Here', to: '/start-here/what-is-a-medical-device' },
     { label: 'Pre-Market', to: '/pre-market/classification/how-classification-works' },
@@ -12,7 +11,7 @@ export default buildSiteConfig({
     { label: 'Legislation', to: '/legislation/uk-mdr-2002-overview' },
     { label: 'UK Approved Bodies', to: '/approved-bodies/what-are-approved-bodies' },
     { label: 'Northern Ireland', to: '/northern-ireland/overview' },
-    { label: "What's New", to: '/whats-new/regulatory-changes' },
+    { label: "What's New", href: 'https://rapath.org/whats-new' },
   ],
   officialSources: [
     { label: 'UK MDR 2002 (legislation.gov.uk)', href: 'https://www.legislation.gov.uk/uksi/2002/618/contents/made' },

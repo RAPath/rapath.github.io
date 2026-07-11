@@ -4,13 +4,12 @@ export default buildSiteConfig({
   title: 'RAPath Australia',
   tagline: 'Australian TGA Medical Device Regulatory Reference',
   sidebarId: 'regulationSidebar',
-  whatsNewPath: '/whats-new/regulatory-changes',
   sections: [
     { label: 'Start Here', to: '/start-here/what-is-a-medical-device' },
     { label: 'Pre-Market', to: '/pre-market/classification/how-classification-works' },
     { label: 'Post-Market', to: '/post-market/overview' },
     { label: 'Legislation', to: '/legislation/therapeutic-goods-act' },
-    { label: "What's New", to: '/whats-new/regulatory-changes' },
+    { label: "What's New", href: 'https://rapath.org/whats-new' },
   ],
   officialSources: [
     { label: 'TGA — Medical Devices', href: 'https://www.tga.gov.au/products/medical-devices' },

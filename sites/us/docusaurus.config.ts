@@ -4,14 +4,13 @@ export default buildSiteConfig({
   title: 'RAPath US',
   tagline: 'FDA Medical Device Regulatory Reference',
   sidebarId: 'regulationSidebar',
-  whatsNewPath: '/whats-new/regulatory-changes',
   sections: [
     { label: 'Start Here', to: '/start-here/what-is-a-medical-device' },
     { label: 'Pre-Market', to: '/pre-market/classification/how-classification-works' },
     { label: 'Post-Market', to: '/post-market/overview' },
     { label: 'Quality System (QMSR)', to: '/qms/overview' },
     { label: 'Establishment & UDI', to: '/establishment-udi/registration-overview' },
-    { label: "What's New", to: '/whats-new/regulatory-changes' },
+    { label: "What's New", href: 'https://rapath.org/whats-new' },
   ],
   officialSources: [
     { label: 'FDA — Medical Devices', href: 'https://www.fda.gov/medical-devices' },

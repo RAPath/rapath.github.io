@@ -4,14 +4,13 @@ export default buildSiteConfig({
   title: 'RAPath Sri Lanka',
   tagline: 'Sri Lanka NMRA Medical Device Regulatory Reference',
   sidebarId: 'regulationSidebar',
-  whatsNewPath: '/whats-new/recent-changes',
   sections: [
     { label: 'Getting Started', to: '/getting-started/what-is-a-medical-device' },
     { label: 'Classification',  to: '/classification/overview' },
     { label: 'Registration',    to: '/registration/overview' },
     { label: 'Post-Market',     to: '/post-market/overview' },
     { label: 'Legislation',     to: '/legislation/nmra-act' },
-    { label: "What's New",      to: '/whats-new/recent-changes' },
+    { label: "What's New", href: 'https://rapath.org/whats-new' },
   ],
   officialSources: [
     { label: 'National Medicines Regulatory Authority (NMRA)', href: 'https://www.nmra.gov.lk/' },

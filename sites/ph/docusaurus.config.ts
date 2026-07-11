@@ -4,7 +4,6 @@ export default buildSiteConfig({
   title: 'RAPath Philippines',
   tagline: 'Philippines FDA / CDRRHR Medical Device Regulatory Reference',
   sidebarId: 'regulationSidebar',
-  whatsNewPath: '/whats-new/recent-changes',
   sections: [
     { label: 'Getting Started', to: '/getting-started/what-is-a-medical-device' },
     { label: 'Classification',  to: '/classification/overview' },
@@ -12,7 +11,7 @@ export default buildSiteConfig({
     { label: 'CDRRHR Ops',     to: '/cdrrhr-operations/establishment-license' },
     { label: 'Post-Market',    to: '/post-market/overview' },
     { label: 'Legislation',    to: '/legislation/overview' },
-    { label: "What's New",     to: '/whats-new/recent-changes' },
+    { label: "What's New", href: 'https://rapath.org/whats-new' },
   ],
   officialSources: [
     { label: 'FDA Philippines — CDRRHR', href: 'https://www.fda.gov.ph/center-for-device-regulation-radiation-health-and-research/' },

@@ -4,13 +4,12 @@ export default buildSiteConfig({
   title: 'RAPath Health Canada',
   tagline: 'Health Canada Medical Device Regulatory Reference',
   sidebarId: 'regulationSidebar',
-  whatsNewPath: '/whats-new/regulatory-changes',
   sections: [
     { label: 'Start Here', to: '/start-here/what-is-a-medical-device' },
     { label: 'Pre-Market', to: '/pre-market/classification/how-classification-works' },
     { label: 'Post-Market', to: '/post-market/overview' },
     { label: 'Legislation', to: '/legislation/food-and-drugs-act' },
-    { label: "What's New", to: '/whats-new/regulatory-changes' },
+    { label: "What's New", href: 'https://rapath.org/whats-new' },
   ],
   officialSources: [
     { label: 'Health Canada — Medical Devices', href: 'https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices.html' },

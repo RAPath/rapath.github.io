@@ -4,14 +4,13 @@ export default buildSiteConfig({
   title: 'RAPath EU',
   tagline: 'EU Medical Device Regulatory Reference — MDR & IVDR',
   sidebarId: 'regulationSidebar',
-  whatsNewPath: '/whats-new/recent-regulatory-changes',
   sections: [
     { label: 'Start Here', to: '/start-here/what-is-a-medical-device' },
     { label: 'Pre-Market', to: '/pre-market/classification/how-classification-works' },
     { label: 'Post-Market', to: '/post-market/post-market-overview' },
     { label: 'Legislation', to: '/legislation/mdr-key-articles' },
     { label: 'Notified Bodies', to: '/notified-bodies/what-notified-bodies-do' },
-    { label: "What's New", to: '/whats-new/recent-regulatory-changes' },
+    { label: "What's New", href: 'https://rapath.org/whats-new' },
   ],
   officialSources: [
     { label: 'MDR 2017/745 (EUR-Lex)', href: 'https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32017R0745' },
