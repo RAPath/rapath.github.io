@@ -41,5 +41,5 @@ The MDIL is applied for via the GHAD portal. The applicant must:
 
 ## Further reading
 
-- [MDMA Overview](../mdma-registration/mdma-overview)
-- [MDEL Overview](./mdel-overview)
+- [MDMA Overview](../mdma-registration/mdma-overview.md)
+- [MDEL Overview](./mdel-overview.md)

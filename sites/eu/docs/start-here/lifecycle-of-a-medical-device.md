@@ -204,9 +204,9 @@ Initial clinical/performance evaluation
 
 ## Related pages
 
-- [Regulatory framework overview](./regulatory-framework-overview)
-- [Who needs to comply?](./who-needs-to-comply)
-- [Transitional provisions & timelines](./transitional-provisions)
+- [Regulatory framework overview](./regulatory-framework-overview.md)
+- [Who needs to comply?](./who-needs-to-comply.md)
+- [Transitional provisions & timelines](./transitional-provisions.md)
 - [Pre-market overview](/pre-market)
 - [Post-market overview](/post-market)
 - [Clinical evaluation](/pre-market/clinical-evidence/clinical-evaluation)

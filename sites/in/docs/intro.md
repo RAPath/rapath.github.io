@@ -142,7 +142,7 @@ The site is structured around the regulatory lifecycle of a medical device in In
 | [International & Comparison](/international/overview) | IMDRF, India vs FDA/TGA/EU, MRA status, multi-market strategy |
 | [Enforcement & Compliance](/enforcement/inspections) | CDSCO inspections, show-cause notices, suspension, appeals |
 | [Digital Health & SaMD](/digital-health/framework) | SaMD, AI/ML devices, telemedicine, NDHM interface |
-| [What's New](/whats-new/regulatory-changes) | Recent changes, new circulars, draft rules, UDI & PLI tracker |
+| [What's New](https://rapath.org/whats-new) | Recent changes, new circulars, draft rules, UDI & PLI tracker |
 
 ---
 
@@ -156,7 +156,7 @@ The site is structured around the regulatory lifecycle of a medical device in In
 
 ## Content currency
 
-This site was last reviewed in **May 2026**. CDSCO guidance and regulations change frequently. Check [What's New](/whats-new/regulatory-changes) for recent updates.
+This site was last reviewed in **May 2026**. CDSCO guidance and regulations change frequently. Check [What's New](https://rapath.org/whats-new) for recent updates.
 
 :::warning Disclaimer
 Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [CDSCO](https://cdsco.gov.in) sources before making regulatory decisio

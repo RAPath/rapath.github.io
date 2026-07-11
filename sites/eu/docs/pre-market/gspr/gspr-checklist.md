@@ -128,10 +128,10 @@ Notified bodies assess the GSPR table as a core part of their technical document
 
 ## Related pages
 
-- [GSPR overview — Annex I](./gspr-overview)
-- [Chapter I — General requirements](./chapter-i-general-requirements)
-- [Chapter II — Design & construction](./chapter-ii-design-construction)
-- [Chapter III — IFU & labelling](./chapter-iii-ifu-labelling)
+- [GSPR overview — Annex I](./gspr-overview.md)
+- [Chapter I — General requirements](./chapter-i-general-requirements.md)
+- [Chapter II — Design & construction](./chapter-ii-design-construction.md)
+- [Chapter III — IFU & labelling](./chapter-iii-ifu-labelling.md)
 - [Technical documentation — GSPR cross-reference](/pre-market/technical-documentation/gspr-cross-reference)
 - [Conformity assessment — overview](/pre-market/conformity-assessment/conformity-assessment-overview)
 

@@ -117,9 +117,9 @@ Clinical investigation data from investigations conducted in the UK, the EU, or 
 
 ## Related pages
 
-- [Clinical evaluation requirements](./clinical-evaluation)
-- [Using overseas clinical data](./overseas-clinical-data)
-- [Performance evaluation for IVDs](./performance-evaluation)
+- [Clinical evaluation requirements](./clinical-evaluation.md)
+- [Using overseas clinical data](./overseas-clinical-data.md)
+- [Performance evaluation for IVDs](./performance-evaluation.md)
 - [Special access — devices for evaluation purposes only](../../special-access/devices-for-evaluation)
 
 ---

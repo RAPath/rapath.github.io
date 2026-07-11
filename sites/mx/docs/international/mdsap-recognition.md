@@ -46,7 +46,7 @@ MDSAP audits are conducted by **MDSAP-recognised Auditing Organisations (AOs)** 
 
 ## Related pages
 
-- [NOM-241 overview — GMP](../quality-system/nom-241-overview)
-- [Equivalency Route](../premarket/equivalency-route)
+- [NOM-241 overview — GMP](../quality-system/nom-241-overview.md)
+- [Equivalency Route](../premarket/equivalency-route.md)
 - [IMDRF membership](imdrf-membership)
-- [Technical dossier requirements](../premarket/technical-dossier)
+- [Technical dossier requirements](../premarket/technical-dossier.md)

@@ -15,7 +15,7 @@ Companion diagnostics coordination with drug approval — IVDs used to select pa
 - Companion diagnostics coordination with drug approval
 
 ## Related pages
-- [IVD classification](../classification/ivd-classification) · [Performance evaluation for IVDs](../clinical-evidence/performance-evaluation-for-ivds) · [Companion diagnostics](./companion-diagnostics)
+- [IVD classification](../classification/ivd-classification.md) · [Performance evaluation for IVDs](../clinical-evidence/performance-evaluation-for-ivds.md) · [Companion diagnostics](./companion-diagnostics.md)
 
 IVD classification system
 ​

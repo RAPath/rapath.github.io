@@ -48,7 +48,7 @@ Your Indonesian commercial distributor also holds the NIE. Convenient and cost-e
 Establish your own Indonesian subsidiary (PT PMA) and hold the NIE in your own entity. Maximum control, but requires significant investment (~IDR 10 billion minimum) and time to set up.
 
 ### 3. Neutral Licence Holder
-Appoint an independent professional licence-holding service as the NIE holder (separate from your commercial distributor). This is increasingly the preferred approach for foreign manufacturers — see [Neutral Licence Holder](./neutral-licence-holder).
+Appoint an independent professional licence-holding service as the NIE holder (separate from your commercial distributor). This is increasingly the preferred approach for foreign manufacturers — see [Neutral Licence Holder](./neutral-licence-holder.md).
 
 ---
 
@@ -66,7 +66,7 @@ Before appointing any entity as your LAR, verify:
 
 ## Letter of Authorization
 
-The formal appointment of your LAR is documented in a **Letter of Authorization (LoA)**. This is one of the most critical documents in the registration dossier. See [Letter of Authorization](./letter-of-authorization) for full requirements.
+The formal appointment of your LAR is documented in a **Letter of Authorization (LoA)**. This is one of the most critical documents in the registration dossier. See [Letter of Authorization](./letter-of-authorization.md) for full requirements.
 
 LAR Termination and NIE Status
 

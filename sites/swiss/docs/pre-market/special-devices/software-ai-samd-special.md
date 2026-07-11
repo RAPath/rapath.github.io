@@ -5,7 +5,7 @@ description: Software as a Medical Device and AI/ML devices in Switzerland — q
 # Software & AI as Medical Device
 
 ## Overview
-This page covers advanced considerations for software medical devices and AI/ML-based devices. For foundational qualification and IEC 62304 requirements, see [Software as a Medical Device](../gspr/software-samd) and [Cybersecurity](../gspr/cybersecurity).
+This page covers advanced considerations for software medical devices and AI/ML-based devices. For foundational qualification and IEC 62304 requirements, see [Software as a Medical Device](../gspr/software-samd.md) and [Cybersecurity](../gspr/cybersecurity.md).
 
 ## AI/ML Device Lifecycle Considerations
 AI/ML-based medical devices in Switzerland present unique regulatory challenges because the algorithm may continue to learn, be updated, or adapt post-market. These changes must be managed through a Predetermined Change Control Plan (PCCP) to avoid triggering new conformity assessments for routine updates.
@@ -22,8 +22,8 @@ Clinical Evaluation for AI/ML Devices
 AI/ML-based medical devices require a robust clinical evaluation that demonstrates safety and performance in real-world conditions. The clinical evaluation plan must address: validation of the algorithm's clinical utility; evaluation of performance across different patient populations and data scenarios; assessment of potential failure modes and their clinical consequences; post-market surveillance plan to detect performance degradation or unexpected clinical outcomes.
 
 ## Related Pages
-- [Software as a Medical Device (SaMD)](../gspr/software-samd)
-- [Cybersecurity Requirements](../gspr/cybersecurity)
+- [Software as a Medical Device (SaMD)](../gspr/software-samd.md)
+- [Cybersecurity Requirements](../gspr/cybersecurity.md)
 
 
 :::warning Disclaimer

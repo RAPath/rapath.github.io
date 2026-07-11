@@ -62,10 +62,10 @@ UDI must be in both **human-readable interpretation (HRI)** and **AIDC** (Automa
 
 ## Related pages
 
-- [MHRA registration overview](./who-must-register)
-- [Device-level registration requirements](./device-registration)
-- [Labelling requirements](../../post-market/labelling-advertising/labelling-requirements)
-- [What's New](../../whats-new/recent-regulatory-changes) — for latest UDI implementation updates
+- [MHRA registration overview](./who-must-register.md)
+- [Device-level registration requirements](./device-registration.md)
+- [Labelling requirements](../../post-market/labelling-advertising/labelling-requirements.md)
+- [What's New](https://rapath.org/whats-new) — for latest UDI implementation updates
 
 ---
 

@@ -15,5 +15,5 @@ The **MFDS UDI Notification (의료기기 고유식별자 시스템 운영에 �
 - Authorised issuing agencies (GS1 Korea, HIBCC)
 
 ## Related pages
-- [UDI-K overview](../../udi-registration-licensing/udi-k/udi-k-overview) · [KIMS database registration](../../udi-registration-licensing/udi-k/kims-database-registration)
+- [UDI-K overview](../../udi-registration-licensing/udi-k/udi-k-overview.md) · [KIMS database registration](../../udi-registration-licensing/udi-k/kims-database-registration.md)
 

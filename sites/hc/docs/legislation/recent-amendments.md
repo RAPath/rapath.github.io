@@ -23,6 +23,9 @@ Health Canada has been developing guidance (rather than regulatory amendments) o
 ### UDI framework (anticipated)
 Canada is developing a Unique Device Identification (UDI) framework aligned with IMDRF standards. A regulatory framework is anticipated, though final regulations were still in development as of May 2026. See [UDI Framework](/docs/international/udi-framework).
 
+### MDEL Phase 2 modernization (SOR/2026-110)
+Published 17 June 2026, in force **14 December 2026**. This amendment removes the MDEL requirement for foreign distributors selling via Canadian MDEL-holding importers, and adds a new supplier-list disclosure requirement for MDEL holders.
+
 ## Monitoring for changes
 
 To stay informed of regulatory amendments:

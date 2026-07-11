@@ -60,8 +60,8 @@ Changes to the registered device — including changes to the device itself, lab
 - [Equivalency Route](equivalency-route)
 - [Technical dossier requirements](technical-dossier)
 - [Registration fees & timelines](registration-fees-timelines)
-- [DIGIPRiS portal](../getting-started/digiepris-portal)
-- [Labelling — NOM-137](../postmarket/labelling-nom-137)
+- [DIGIPRiS portal](../getting-started/digiepris-portal.md)
+- [Labelling — NOM-137](../postmarket/labelling-nom-137.md)
 
 ## Third-party pre-review
 

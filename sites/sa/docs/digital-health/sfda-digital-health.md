@@ -34,6 +34,6 @@ Key Saudi Vision 2030 initiatives relevant to medical device manufacturers inclu
 
 ## Further reading
 
-- [SaMD Overview](./samd-overview)
-- [AI/ML Guidance](./ai-ml-guidance)
-- [Saudi Vision 2030](../getting-started/regulatory-framework-overview)
+- [SaMD Overview](./samd-overview.md)
+- [AI/ML Guidance](./ai-ml-guidance.md)
+- [Saudi Vision 2030](../getting-started/regulatory-framework-overview.md)

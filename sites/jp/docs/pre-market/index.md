@@ -11,12 +11,12 @@ Everything required to place a medical device on the Japanese market — from de
 
 | Sub-section | What it covers |
 | --- | --- |
-| [Classification](./classification/how-classification-works) | JMDN codes, Classes I–IV, IVD, SaMD, borderline products |
-| [Approval (Shonin)](./approval-shonin/overview) | Full PMDA/MHLW approval process for Class III and IV devices |
-| [Certification (Ninsho)](./certification-ninsho/overview) | RCB certification pathway for Class II and eligible Class III devices |
-| [Notification (Todokede)](./notification-todokede/overview) | Prefectural notification for Class I devices |
-| [Clinical Evidence](./clinical-evidence/clinical-trials-pmd-act) | Clinical trials, foreign data, clinical evaluation reports, IVD performance evaluation |
-| [Technical Documentation](./technical-documentation/application-dossier-structure) | Dossier structure, device description, risk management, software, Essential Principles |
+| [Classification](./classification/how-classification-works.md) | JMDN codes, Classes I–IV, IVD, SaMD, borderline products |
+| [Approval (Shonin)](./approval-shonin/overview.md) | Full PMDA/MHLW approval process for Class III and IV devices |
+| [Certification (Ninsho)](./certification-ninsho/overview.md) | RCB certification pathway for Class II and eligible Class III devices |
+| [Notification (Todokede)](./notification-todokede/overview.md) | Prefectural notification for Class I devices |
+| [Clinical Evidence](./clinical-evidence/clinical-trials-pmd-act.md) | Clinical trials, foreign data, clinical evaluation reports, IVD performance evaluation |
+| [Technical Documentation](./technical-documentation/application-dossier-structure.md) | Dossier structure, device description, risk management, software, Essential Principles |
 
 ## Key decision points
 

@@ -54,13 +54,13 @@ Mexico follows **Good Clinical Practice** principles aligned with ICH E6 and the
 
 ## Using Mexican clinical data for registration
 
-Data from clinical investigations conducted in Mexico can be included in COFEPRIS registration dossiers. However, most manufacturers use foreign clinical data, which COFEPRIS accepts for registration purposes (see [Clinical evidence requirements](../premarket/clinical-evidence)).
+Data from clinical investigations conducted in Mexico can be included in COFEPRIS registration dossiers. However, most manufacturers use foreign clinical data, which COFEPRIS accepts for registration purposes (see [Clinical evidence requirements](../premarket/clinical-evidence.md)).
 
 ## Related pages
 
-- [Clinical evidence requirements](../premarket/clinical-evidence)
+- [Clinical evidence requirements](../premarket/clinical-evidence.md)
 - [Compassionate use](compassionate-use)
-- [Pre-Market overview](../premarket/overview)
+- [Pre-Market overview](../premarket/overview.md)
 
 After 'Mexico follows Good Clinical Practice principles aligned with ICH E6 and the Ley General de Salud research provisions.' add:
 'Detailed GCP requirements are published in COFEPRIS regulatory guidance and must be reviewed in conjunction with the Ley General de Salud provisions on health research.'

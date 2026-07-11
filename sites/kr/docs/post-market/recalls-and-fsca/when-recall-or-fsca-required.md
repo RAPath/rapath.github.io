@@ -27,5 +27,5 @@ A **recall** or **Field Safety Corrective Action (FSCA)** is required when:
 | Class 3 | Unlikely to cause adverse health consequences |
 
 ## Related pages
-- [Voluntary vs MFDS-ordered recalls](./voluntary-vs-mfds-ordered-recalls) · [Field safety notices](./field-safety-notices)
+- [Voluntary vs MFDS-ordered recalls](./voluntary-vs-mfds-ordered-recalls.md) · [Field safety notices](./field-safety-notices.md)
 

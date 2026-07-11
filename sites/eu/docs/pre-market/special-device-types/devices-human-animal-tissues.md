@@ -93,7 +93,7 @@ Class III classification under Rules 17/18 means:
 ## Related pages
 
 - [Classification rules 1–22](/pre-market/classification/mdr-classification-rules)
-- [Devices incorporating a medicinal substance](./devices-incorporating-medicine)
+- [Devices incorporating a medicinal substance](./devices-incorporating-medicine.md)
 - [GSPR Chapter II — Design & construction](/pre-market/gspr/chapter-ii-design-construction)
 - [Conformity assessment — Annex IX](/pre-market/conformity-assessment/annex-ix-qms-tech-doc)
 

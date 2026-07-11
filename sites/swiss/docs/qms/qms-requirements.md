@@ -23,9 +23,9 @@ A quality management system (QMS) is required for manufacturers of Class IIa, II
 
 ## QMS Scope Requirements
 The QMS scope must cover all processes that affect device quality:
-- **Design and development controls** (required for Class II/III) — see [Design Controls & CAPA](./design-controls-capa)
+- **Design and development controls** (required for Class II/III) — see [Design Controls & CAPA](./design-controls-capa.md)
 - **Risk management** — ISO 14971 process must be integrated with the QMS
-- **Purchasing and supplier controls** — see [Supplier Controls](./supplier-controls)
+- **Purchasing and supplier controls** — see [Supplier Controls](./supplier-controls.md)
 - **Production and process controls** — manufacturing process validation, environment controls
 - **Inspection and testing** — incoming inspection, in-process testing, final release
 - **Nonconforming product controls** — process for identifying and managing nonconforming devices

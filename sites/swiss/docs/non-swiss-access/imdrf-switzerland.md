@@ -30,7 +30,7 @@ Unlike IMDRF founding members (FDA, Health Canada, TGA, MHLW, HSA, European Comm
 ## Practical Implications for Manufacturers
 For manufacturers preparing Swiss market access submissions, IMDRF guidance can be cited as supporting evidence, but the primary references for Swiss submissions should be:
 1. MedDO/IVDO provisions (the authoritative Swiss regulatory requirement)
-2. MDCG guidance documents (where applicable in Switzerland — see [MDCG Guidance Applicability](../guidance/mdcg-guidance-applicability))
+2. MDCG guidance documents (where applicable in Switzerland — see [MDCG Guidance Applicability](../guidance/mdcg-guidance-applicability.md))
 3. Harmonised standards (for GSPR compliance)
 4. IMDRF guidance (as supplementary international context)
 

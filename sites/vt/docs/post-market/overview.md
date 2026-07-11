@@ -17,7 +17,7 @@ Placing a medical device on the Vietnamese market is the beginning, not the end,
 | Post-market surveillance | Manufacturer | [Post-Market Surveillance](post-market-surveillance) |
 | Labelling compliance | Manufacturer / importer | [Labelling](labelling) |
 | Change notification | Manufacturer / Authorised Rep | [Change Notification](change-notification) |
-| Registration renewal (Type C/D) | Authorised Rep | [Marketing Authorisation](../market-access/marketing-authorisation-type-c-d) |
+| Registration renewal (Type C/D) | Authorised Rep | [Marketing Authorisation](../market-access/marketing-authorisation-type-c-d.md) |
 
 ## Why post-market compliance matters in Vietnam
 
@@ -42,4 +42,4 @@ Responsible for GDP compliance, maintaining distribution records for traceabilit
 
 Post-market incident reports and FSCA notifications are submitted through the DMEC portal. Ensure all relevant staff have appropriate DMEC access and are trained in the reporting procedures.
 
-→ See [DMEC Portal](../import-customs-distribution/dmec-portal)
+→ See [DMEC Portal](../import-customs-distribution/dmec-portal.md)

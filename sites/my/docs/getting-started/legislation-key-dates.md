@@ -36,6 +36,8 @@ description: History and key commencement dates for the Medical Device Act 2012 
 | 2019 | Updated guidance on SaMD/digital health published |
 | 2021 | ASEAN CSDT (Common Submission Dossier Template) adopted |
 | 2023 | Updated MDA guidance on IVD performance evaluation |
+| January 2026 | MDA Circular No. 1 of 2026 — Establishment Licence made compulsory for tender participation |
+| February 2026 | Medical Device (Designated Medical Devices) Order 2026 gazetted (effective 1 June 2026) — brings aesthetic/cosmetic devices (lasers, HIFU, liposuction) under Act 737 |
 
 ## Useful References
 

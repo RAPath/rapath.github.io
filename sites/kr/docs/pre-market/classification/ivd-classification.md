@@ -21,7 +21,7 @@ IVD devices follow a **separate 4-grade system** (A, B, C, D); blood donor scree
 - **Public health surveillance implications**
 
 ## Companion diagnostics
-Classified at Grade C or D — see [Companion diagnostics](../special-device-types/companion-diagnostics).
+Classified at Grade C or D — see [Companion diagnostics](../special-device-types/companion-diagnostics.md).
 
 ## Relevant legislation
 - IVD Act, Articles 2 and 6

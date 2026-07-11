@@ -49,8 +49,8 @@ Fees are paid through the **DIGIPRiS** portal at the time of submission. Proof o
 
 - [Standard Registration Route](standard-route)
 - [Equivalency Route](equivalency-route)
-- [DIGIPRiS portal](../getting-started/digiepris-portal)
-- [Registration renewal](../postmarket/registration-renewal)
+- [DIGIPRiS portal](../getting-started/digiepris-portal.md)
+- [Registration renewal](../postmarket/registration-renewal.md)
 
 ## Review timelines
 

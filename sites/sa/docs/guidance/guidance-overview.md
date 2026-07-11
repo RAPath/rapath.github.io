@@ -69,6 +69,6 @@ Always verify you are using the **most current version** — guidance documents 
 
 ## Further reading
 
-- [MDS-REQ Series Full Index](../legislation/mds-req-series)
-- [Recognised Consensus Standards](./consensus-standards)
-- [Forms, Fees & Portals](./forms-fees-portals)
+- [MDS-REQ Series Full Index](../legislation/mds-req-series.md)
+- [Recognised Consensus Standards](./consensus-standards.md)
+- [Forms, Fees & Portals](./forms-fees-portals.md)

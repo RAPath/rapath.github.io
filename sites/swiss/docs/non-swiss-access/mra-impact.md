@@ -28,7 +28,7 @@ When MRA Chapter 4 is **not fully operational**:
 
 ## Current MRA Status
 :::caution
-Always verify the current MRA Chapter 4 operational status before planning your Swiss market access timeline. See [MRA Status Updates](../whats-new/mra-status-updates) and contact [Swissmedic](https://www.swissmedic.ch/swissmedic/en/home/medical-devices/market-access.html) or [SECO](https://www.seco.admin.ch) directly.
+Always verify the current MRA Chapter 4 operational status before planning your Swiss market access timeline. See [MRA Status Updates](https://rapath.org/whats-new) and contact [Swissmedic](https://www.swissmedic.ch/swissmedic/en/home/medical-devices/market-access.html) or [SECO](https://www.seco.admin.ch) directly.
 :::
 
 :::warning Disclaimer

@@ -55,7 +55,7 @@ Two additional entities relevant to medical device market access under Vision 20
 
 ## Further reading
 
-- [Regulatory Framework Overview](./regulatory-framework-overview)
-- [GCC & International](../gcc-international/gcc-harmonization)
-- [Digital Health & SaMD](../digital-health/sfda-digital-health)
-- [SFDA vs Other Regulators](../gcc-international/sfda-vs-regulators)
+- [Regulatory Framework Overview](./regulatory-framework-overview.md)
+- [GCC & International](../gcc-international/gcc-harmonization.md)
+- [Digital Health & SaMD](../digital-health/sfda-digital-health.md)
+- [SFDA vs Other Regulators](../gcc-international/sfda-vs-regulators.md)

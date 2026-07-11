@@ -21,4 +21,4 @@ sidebar_position: 3
 4. MFDS decision: confirm / modify conditions / restrict use / revoke approval
 
 ## Related pages
-- [Re-examination system](./re-examination-system) · [MFDS-initiated corrective actions](../recalls-and-fsca/mfds-initiated-corrective-actions)
+- [Re-examination system](./re-examination-system.md) · [MFDS-initiated corrective actions](../recalls-and-fsca/mfds-initiated-corrective-actions.md)

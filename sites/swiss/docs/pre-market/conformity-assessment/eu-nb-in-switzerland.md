@@ -24,7 +24,7 @@ Under MRA Chapter 4, Swissmedic does not re-review the NB's technical documentat
 | MRA Chapter 4 **operational** | CE-marked devices generally access Swiss market without separate full registration (DAPI notification still required) |
 | MRA Chapter 4 **not fully operational** | All devices require DAPI registration regardless of CE status; EU NB certificate is the evidentiary basis |
 
-See [MRA with EU — Current Status](../../legislation/mra-with-eu).
+See [MRA with EU — Current Status](../../legislation/mra-with-eu.md).
 
 
 When MRA Chapter 4 is Not Fully Operational

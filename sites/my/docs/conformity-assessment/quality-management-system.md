@@ -79,7 +79,7 @@ Malaysian manufacturers are subject to both ISO 13485 and MDA's GMP requirements
 
 ## MDSAP — Alternative QMS Evidence
 
-Holders of a current Medical Device Single Audit Programme (MDSAP) certificate may be able to use this as supporting QMS evidence, potentially reducing the need for separate Malaysian QMS assessments. See [MDSAP Recognition](./mdsap-recognition).
+Holders of a current Medical Device Single Audit Programme (MDSAP) certificate may be able to use this as supporting QMS evidence, potentially reducing the need for separate Malaysian QMS assessments. See [MDSAP Recognition](./mdsap-recognition.md).
 
 Note: MDA's acceptance of MDSAP in lieu of ISO 13485 is discretionary and depends on audit scope and outcome. For Class B devices, pre-submission confirmation with MDA is recommended. See MDSAP Recognition for full details.
 

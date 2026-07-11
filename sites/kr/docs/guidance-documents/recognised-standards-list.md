@@ -21,7 +21,7 @@ The recognised list specifies the edition (or edition range) of each standard. U
 :::
 
 ## Related pages
-- [IEC/ISO standards recognised by MFDS](../legislation/related-instruments/iec-iso-standards-recognised) · [Korean Industrial Standards (KS)](../legislation/related-instruments/korean-industrial-standards-ks)
+- [IEC/ISO standards recognised by MFDS](../legislation/related-instruments/iec-iso-standards-recognised.md) · [Korean Industrial Standards (KS)](../legislation/related-instruments/korean-industrial-standards-ks.md)
 
 ## Confirm the correct edition
 

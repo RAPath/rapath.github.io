@@ -25,7 +25,7 @@ User guides are currently in **Korean only**. For non-Korean speakers, work with
 MFDS provides a technical helpdesk for the eSubmission portal. Contact details on the MFDS website.
 
 ## Related pages
-- [eSubmission system](../pre-market/marketing-authorization/esubmission-system) · [KIMS database registration](../udi-registration-licensing/udi-k/kims-database-registration)
+- [eSubmission system](../pre-market/marketing-authorization/esubmission-system.md) · [KIMS database registration](../udi-registration-licensing/udi-k/kims-database-registration.md)
 
 ## Technical support
 

@@ -78,7 +78,7 @@ For **Class Ir** devices (reusable surgical instruments), the notified body asse
 ## Related pages
 
 - [Class I · IIa · IIb · III](/pre-market/classification/mdr-classes)
-- [Custom-made devices](./custom-made-devices)
+- [Custom-made devices](./custom-made-devices.md)
 - [GSPR Chapter III — IFU & labelling](/pre-market/gspr/chapter-iii-ifu-labelling)
 
 ---

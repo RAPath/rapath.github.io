@@ -49,6 +49,10 @@ The SFDA invoices the applicant **via GHAD** after the initial submission comple
 Fee amounts change periodically. Always check the current SFDA fee schedule on the official website or confirm with your AR before budgeting for a submission.
 :::
 
+**How to access current fee schedules**
+
+Fee schedules are published on the SFDA website under: **Medical Devices → Registration and Licensing → Fees**. You can also request the current fee schedule from your Authorized Representative or contact the SFDA through the GHAD portal's enquiry channel. Fees are typically updated annually; always verify the schedule applicable to your submission date before budgeting.
+
 ## SFDA e-Services website
 
 In addition to GHAD, the SFDA e-Services website provides access to:
@@ -61,21 +65,13 @@ In addition to GHAD, the SFDA e-Services website provides access to:
 
 ## Review timelines — quick reference
 
-See [SFDA Review Timelines](../mdma-registration/review-timelines) for indicative review periods by device class.
+See [SFDA Review Timelines](../mdma-registration/review-timelines.md) for indicative review periods by device class.
 
 ## Further reading
 
-- [GHAD Portal](../mdma-registration/ghad-portal)
-- [MDMA Overview](../mdma-registration/mdma-overview)
-- [MDEL Overview](../authorized-representative/mdel-overview)
-- [Guidance Overview](./guidance-overview)
-
-Modify the 'Application fees' section to include:
-
-Modify the 'Application fees' section to include:
-
-**How to access current fee schedules**
-
-Fee schedules are published on the SFDA website under: **Medical Devices → Registration and Licensing → Fees**. You can also request the current fee schedule from your Authorized Representative or contact the SFDA through the GHAD portal's enquiry channel. Fees are typically updated annually; always verify the schedule applicable to your submission date before budgeting.
+- [GHAD Portal](../mdma-registration/ghad-portal.md)
+- [MDMA Overview](../mdma-registration/mdma-overview.md)
+- [MDEL Overview](../authorized-representative/mdel-overview.md)
+- [Guidance Overview](./guidance-overview.md)
 
 After the GHAD portal URL, add: 'Access GHAD via the SFDA e-Services website at www.sfda.gov.sa → e-Services → GHAD Portal. If the direct URL has changed, always access GHAD through the official SFDA website.'

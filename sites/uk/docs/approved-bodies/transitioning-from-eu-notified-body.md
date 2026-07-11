@@ -25,7 +25,7 @@ How manufacturers with EU Notified Body certificates transition to UK Approved B
 
 Until 30 June 2030, CE-marked devices certified by EU Notified Bodies may be placed on the GB market without UKCA marking. This transition period allows manufacturers with valid EU Notified Body certificates to continue supplying the GB market under CE marking without the need for parallel UKAB certification during this time.
 
-See [CE marking — transitional acceptance in GB](../pre-market/conformity-assessment/ce-marking-transitional) for the full transitional position.
+See [CE marking — transitional acceptance in GB](../pre-market/conformity-assessment/ce-marking-transitional.md) for the full transitional position.
 
 ## When will UKCA marking be needed?
 
@@ -33,7 +33,7 @@ From 1 July 2030, UKCA marking will be required for devices placed on the GB mar
 
 ## Steps to transition to a UKAB
 
-1. Select a UKAB — identify a UKAB designated for your device type and conformity assessment route (see [Finding a UKAB](./finding-a-ukab))
+1. Select a UKAB — identify a UKAB designated for your device type and conformity assessment route (see [Finding a UKAB](./finding-a-ukab.md))
 2. Engage early — UKAB capacity is limited and demand is expected to surge as the 30 June 2030 deadline approaches. Manufacturers are advised to initiate contact with a UKAB by 2027–2028 to secure an audit slot and allow sufficient time for document review, audit execution, and non-conformity resolution.
 3. Gap analysis — assess your technical file and QMS against UK MDR 2002 Essential Requirements; most EU MDR-compliant technical files will broadly satisfy UK ERs, but differences exist
 4. Apply to the UKAB — submit formal application and documentation

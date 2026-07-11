@@ -27,4 +27,4 @@ sidebar_position: 1
 - **Healthcare facilities (의료기관)** — must report to both the manufacturer/importer AND MFDS directly
 
 ## Related pages
-- [Manufacturer vs importer obligations](./manufacturer-vs-importer-obligations) · [Reporting timeframes](./reporting-timeframes) · [How to report](./how-to-report)
+- [Manufacturer vs importer obligations](./manufacturer-vs-importer-obligations.md) · [Reporting timeframes](./reporting-timeframes.md) · [How to report](./how-to-report.md)

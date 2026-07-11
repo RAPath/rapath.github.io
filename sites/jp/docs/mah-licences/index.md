@@ -19,17 +19,17 @@ For overseas manufacturers, the MAH requirement is the single most consequential
 
 | Page | What it covers |
 | --- | --- |
-| [What is an MAH?](./what-is-a-mah) | Definition, legal basis, the Japan domicile requirement |
-| [MAH Licence Types](./mah-licence-types) | General MAH licence, staffing requirements, issuing authority |
-| [Eligibility and Domicile](./eligibility-domicile-requirement) | What "Japan domicile" means; options for overseas manufacturers |
-| [General MAH Licence](./general-mah-licence) | Application process, RTO requirements, 5-year renewal |
-| [Licensed MAH (Kannin)](./licensed-mah-kannin) | Third-party MAH model; contractual obligations; transition risks |
-| [MAH Responsibilities](./mah-responsibilities) | Full list of PMD Act obligations; personal liability of responsible officers |
-| [Appointing a Japan-Based MAH](./appointing-japan-based-mah) | Due diligence checklist; key contract provisions |
-| [Foreign Manufacturer Registration](./foreign-manufacturer-registration) | FMR process; annual confirmation; QMS inspection obligations |
-| [Contracted QMS Operations](./contracted-qms-operations) | Outsourcing manufacturing; MAH oversight obligations |
-| [MAH Licence Renewal](./mah-licence-renewal) | 5-year cycle; consequences of lapsing |
-| [Change Notifications](./change-notifications) | Changes requiring MAH licence amendment or notification |
-| [Licence Surrender and Transfer](./licence-surrender-transfer) | Changing MAHs; transferring approvals; voluntary withdrawal |
-| [MAH vs Manufacturer](./mah-vs-manufacturer) | Split responsibilities; quality agreement essentials |
-| [Prefectural vs MHLW Authority](./prefectural-vs-mhlw-licensing) | Which body issues which licence |
+| [What is an MAH?](./what-is-a-mah.md) | Definition, legal basis, the Japan domicile requirement |
+| [MAH Licence Types](./mah-licence-types.md) | General MAH licence, staffing requirements, issuing authority |
+| [Eligibility and Domicile](./eligibility-domicile-requirement.md) | What "Japan domicile" means; options for overseas manufacturers |
+| [General MAH Licence](./general-mah-licence.md) | Application process, RTO requirements, 5-year renewal |
+| [Licensed MAH (Kannin)](./licensed-mah-kannin.md) | Third-party MAH model; contractual obligations; transition risks |
+| [MAH Responsibilities](./mah-responsibilities.md) | Full list of PMD Act obligations; personal liability of responsible officers |
+| [Appointing a Japan-Based MAH](./appointing-japan-based-mah.md) | Due diligence checklist; key contract provisions |
+| [Foreign Manufacturer Registration](./foreign-manufacturer-registration.md) | FMR process; annual confirmation; QMS inspection obligations |
+| [Contracted QMS Operations](./contracted-qms-operations.md) | Outsourcing manufacturing; MAH oversight obligations |
+| [MAH Licence Renewal](./mah-licence-renewal.md) | 5-year cycle; consequences of lapsing |
+| [Change Notifications](./change-notifications.md) | Changes requiring MAH licence amendment or notification |
+| [Licence Surrender and Transfer](./licence-surrender-transfer.md) | Changing MAHs; transferring approvals; voluntary withdrawal |
+| [MAH vs Manufacturer](./mah-vs-manufacturer.md) | Split responsibilities; quality agreement essentials |
+| [Prefectural vs MHLW Authority](./prefectural-vs-mhlw-licensing.md) | Which body issues which licence |

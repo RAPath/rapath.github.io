@@ -142,7 +142,7 @@ The site is structured around the regulatory lifecycle of a medical device in th
 | [International & Comparison](/international/overview) | IMDRF, FDA vs TGA/EU/HC/HSA, multi-market strategy |
 | [Enforcement & Compliance](/enforcement/inspections) | Warning letters, 483s, consent decrees |
 | [Digital Health & SaMD](/digital-health/framework) | SaMD, AI/ML, CDS policy, PCCPs |
-| [What's New](/whats-new/regulatory-changes) | Recent changes, draft guidance, open dockets |
+| [What's New](https://rapath.org/whats-new) | Recent changes, draft guidance, open dockets |
 
 ---
 
@@ -156,7 +156,7 @@ The site is structured around the regulatory lifecycle of a medical device in th
 
 ## Content currency
 
-This site was last reviewed in **May 2026**. FDA guidance and regulations change frequently. Check [What's New](/whats-new/regulatory-changes) for recent updates.
+This site was last reviewed in **May 2026**. FDA guidance and regulations change frequently. Check [What's New](https://rapath.org/whats-new) for recent updates.
 
 :::warning Disclaimer
 Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [FDA](https://www.fda.gov/medical-devices) sources before making regulatory decisio

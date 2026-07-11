@@ -25,7 +25,7 @@ Conditional authorization may be granted when:
 If the conditions are not fulfilled (e.g., PMCF study not completed), MFDS may **revoke** the conditional authorization. Planning for compliance is essential from the outset.
 
 ## Related pages
-- [Innovative medical device designation](./innovative-medical-device-designation) · [Post-market clinical follow-up](../post-market/post-market-surveillance/post-market-clinical-follow-up)
+- [Innovative medical device designation](./innovative-medical-device-designation.md) · [Post-market clinical follow-up](../post-market/post-market-surveillance/post-market-clinical-follow-up.md)
 
 Re-evaluation and conversion
 ​

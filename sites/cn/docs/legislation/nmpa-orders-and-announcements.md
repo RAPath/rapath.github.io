@@ -35,6 +35,11 @@ NMPA issues orders, announcements, and guidance documents that implement and cla
 - **NMPA Post-Market Surveillance Guidance**: Procedures for manufacturer-led safety monitoring
 - **NMPA Adverse Event Reporting Guideline**: Detailed reporting procedures and timeframes
 - **NMPA Recall Procedure**: Manufacturer notification and implementation requirements
+- **NMPA Announcement No. 52/2026** (effective 1 June 2026) — establishes procedural framework for managing classification-reclassification administrative outcomes
+
+:::note
+Revised GMP for medical devices (released Nov 2025) takes effect 1 November 2026 (not yet in force).
+:::
 
 ## Official Source
 All NMPA orders and announcements are published on www.nmpa.gov.cn under the 'Announcements' and 'Guidance Documents' sections.

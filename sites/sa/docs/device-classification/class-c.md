@@ -24,9 +24,9 @@ Class C devices require an **annual PSUR** — the most frequent update interval
 
 ## Further reading
 
-- [How Classification Works](./how-classification-works)
-- [Quality System](../quality-system/iso-13485-overview)
-- [Post-Market Surveillance](../post-market/pms-psur)
+- [How Classification Works](./how-classification-works.md)
+- [Quality System](../quality-system/iso-13485-overview.md)
+- [Post-Market Surveillance](../post-market/pms-psur.md)
 
 Class C MDMA applications typically require 90–120 days for SFDA review from submission, with potential for extension if SFDA-initiated on-site inspections are conducted or substantial additional technical clarifications are requested. Manufacturers should build flexibility into their timelines for potential inspection scheduling.
 

@@ -42,8 +42,8 @@ const config: Config = {
   projectName: 'rapath.org',
   trailingSlash: false,
 
-  onBrokenLinks: 'warn',
-  markdown: { hooks: { onBrokenMarkdownLinks: 'warn' } },
+  onBrokenLinks: 'throw',
+  markdown: { hooks: { onBrokenMarkdownLinks: 'throw' } },
 
   i18n: { defaultLocale: 'en', locales: ['en'] },
 
@@ -100,8 +100,8 @@ const config: Config = {
         { to: '/whats-new', label: "What's New", position: 'left' },
         { href: 'https://github.com/orgs/RAPath/discussions', label: 'Q&A', position: 'left' },
         {
-          to: "/tools/",
-          label: "🔍 Regulatory Tools",
+          to: "/tools",
+          label: "Regulatory Tools",
           position: "right",
         },
         { href: 'https://github.com/RAPath/rapath.github.io', label: 'GitHub', position: 'right' },

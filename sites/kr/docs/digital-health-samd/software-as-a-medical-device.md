@@ -29,7 +29,7 @@ SaMD is software that meets the **medical device definition** — intended to di
 
 ## Classification of SaMD
 
-See [SaMD classification](../pre-market/classification/samd-classification) for the MFDS grade assignment framework.
+See [SaMD classification](../pre-market/classification/samd-classification.md) for the MFDS grade assignment framework.
 
 ## Related pages
-- [SaMD — MFDS policy](../pre-market/special-device-types/samd-mfds-policy) · [SaMD classification](../pre-market/classification/samd-classification) · [AI/ML medical devices](../pre-market/special-device-types/ai-ml-medical-devices)
+- [SaMD — MFDS policy](../pre-market/special-device-types/samd-mfds-policy.md) · [SaMD classification](../pre-market/classification/samd-classification.md) · [AI/ML medical devices](../pre-market/special-device-types/ai-ml-medical-devices.md)

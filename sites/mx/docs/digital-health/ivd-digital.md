@@ -41,7 +41,7 @@ For IVD systems incorporating software:
 
 ## Related pages
 
-- [IVD classification](../device-classification/ivd-classification)
+- [IVD classification](../device-classification/ivd-classification.md)
 - [SaMD in Mexico — overview](samd-overview)
-- [Technical dossier requirements](../premarket/technical-dossier)
-- [Registration renewal](../postmarket/registration-renewal)
+- [Technical dossier requirements](../premarket/technical-dossier.md)
+- [Registration renewal](../postmarket/registration-renewal.md)

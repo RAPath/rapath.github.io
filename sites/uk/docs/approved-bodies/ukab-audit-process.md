@@ -49,6 +49,8 @@ Major non-conformities must be resolved (corrective action plans submitted and a
 
 7. Certificate decision The UKAB reviews all audit and assessment findings and decides whether to issue the certificate. For Class III devices and AIMDs, the UKAB issues two separate certificates: a Design Examination Certificate for each approved device design, and a QMS Certificate for the manufacturer's quality management system. The manufacturer cannot place a device design on the market without both certificates.
 
+**Important**: For Class III devices and AIMDs, both the Design Examination Certificate and the QMS Certificate must be issued before the device can be placed on the market. Neither certificate alone is sufficient; both are required to legally affix the UKCA mark.
+
 8. Ongoing surveillance
 After certification:
 - Annual planned surveillance audits — review of QMS and PMS activities
@@ -59,10 +61,12 @@ After certification:
 
 | Stage | Typical duration |
 |---|---|
-| Class I (sterile/measuring/implantable) — UKAB partial involvement | 1–3 months |
+| Class I (sterile/measuring/implantable) — UKAB assessment (if required) | 1–3 months |
 | Class IIa/IIb — full QMS audit | 3–9 months |
 | Class III — full QMS + design dossier | 6–18 months |
 | IVD List A — full assessment | 6–18 months |
+
+Class I devices do not routinely require UKAB involvement unless they are sterile, have a measuring function, or are implantable. Check UK MDR 2002 Schedule 3 for your specific device classification.
 
 These are indicative — actual timelines depend on device complexity, technical file completeness, and UKAB capacity.
 
@@ -73,7 +77,3 @@ These are indicative — actual timelines depend on device complexity, technical
 | UK MDR 2002, Schedule 3 | Conformity assessment procedures |
 | MHRA: UK Approved Bodies | UKAB requirements and oversight |
 | ISO 13485:2016 | QMS standard — basis for UKAB QMS audit |
-
-Modify the 'Typical timelines' table header row for Class I to read: 'Class I (sterile/measuring/implantable) — UKAB assessment (if required) | 1–3 months' and add a note below the table: 'Class I devices do not routinely require UKAB involvement unless they are sterile, have a measuring function, or are implantable. Check UK MDR 2002 Schedule 3 for your specific device classification.'
-
-After 'Certificate decision' paragraph, add: 'Important: For Class III devices and AIMDs, both the Design Examination Certificate and the QMS Certificate must be issued before the device can be placed on the market. Neither certificate alone is sufficient; both are required to legally affix the UKCA mark.'

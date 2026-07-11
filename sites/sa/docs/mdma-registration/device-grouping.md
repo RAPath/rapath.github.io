@@ -40,5 +40,5 @@ IVD devices may also be grouped under the same conditions (same manufacturer, sa
 ## Further reading
 
 - MDS-REQ 1 — Grouping rules
-- [MDMA Overview](./mdma-overview)
-- [IVD Classification](../device-classification/ivd-classification)
+- [MDMA Overview](./mdma-overview.md)
+- [IVD Classification](../device-classification/ivd-classification.md)

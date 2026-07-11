@@ -22,7 +22,7 @@ The investigational device may be **supplied free of charge** to trial sites —
 Full manufacturing and distribution records must be maintained for all investigational devices, including lot numbers, quantities, and site distribution.
 
 ## Related pages
-- [Clinical trial approval](../pre-market/clinical-evidence/clinical-trial-approval) · [IRB and GCP requirements](../pre-market/clinical-evidence/irb-and-gcp-requirements)
+- [Clinical trial approval](../pre-market/clinical-evidence/clinical-trial-approval.md) · [IRB and GCP requirements](../pre-market/clinical-evidence/irb-and-gcp-requirements.md)
 
 Clinical trial approval process
 ​

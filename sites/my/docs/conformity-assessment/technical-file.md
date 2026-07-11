@@ -92,7 +92,7 @@ Based on IEC 62304 — Medical device software lifecycle processes:
 - Software safety classification (Class A, B, or C)
 - Software development lifecycle documentation summary
 - Verification and validation summary
-- Cybersecurity assessment (see [SaMD & Digital Health](../special-topics/samd-digital-health))
+- Cybersecurity assessment (see [SaMD & Digital Health](../special-topics/samd-digital-health.md))
 
 ### 10. Sterility (sterile devices)
 

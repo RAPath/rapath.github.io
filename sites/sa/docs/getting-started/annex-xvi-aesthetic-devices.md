@@ -51,6 +51,6 @@ If you are uncertain whether your aesthetic or wellness device falls within the 
 ## Further reading
 
 - MDS-G008 — Classification guidance (Chapter 1: scope and borderline products)
-- [What is a Medical Device?](./what-is-a-medical-device)
-- [SFDA Definition vs EU MDR](./sfda-definition-vs-eu-mdr)
-- [Borderline & Combination Products](../device-classification/borderline-products)
+- [What is a Medical Device?](./what-is-a-medical-device.md)
+- [SFDA Definition vs EU MDR](./sfda-definition-vs-eu-mdr.md)
+- [Borderline & Combination Products](../device-classification/borderline-products.md)

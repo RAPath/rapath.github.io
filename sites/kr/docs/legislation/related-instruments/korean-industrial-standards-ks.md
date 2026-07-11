@@ -17,4 +17,4 @@ Most KS standards for medical devices are **transpositions of IEC/ISO standards*
 The MFDS Classification Table specifies which KS or IEC/ISO standards apply to each device type. Test reports from **MFDS-recognised testing laboratories** must confirm conformance.
 
 ## Related pages
-- [IEC/ISO standards recognised by MFDS](./iec-iso-standards-recognised) · [Electrical and mechanical safety testing](../../pre-market/technical-documentation/electrical-and-mechanical-safety)
+- [IEC/ISO standards recognised by MFDS](./iec-iso-standards-recognised.md) · [Electrical and mechanical safety testing](../../pre-market/technical-documentation/electrical-and-mechanical-safety.md)

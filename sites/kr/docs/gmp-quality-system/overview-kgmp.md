@@ -31,7 +31,7 @@ Unlike most other jurisdictions, **KGMP certification is a prerequisite** for 頀
 - Complaint handling and adverse event interface
 
 ## Related pages
-- [Who must obtain KGMP?](./who-must-obtain-kgmp) 路 [Domestic manufacturer certification](./domestic-manufacturers/application-and-certification-process) 路 [GMP for foreign manufacturers](./foreign-manufacturers/foreign-gmp-certificate-requirement)
+- [Who must obtain KGMP?](./who-must-obtain-kgmp.md) 路 [Domestic manufacturer certification](./domestic-manufacturers/application-and-certification-process.md) 路 [GMP for foreign manufacturers](./foreign-manufacturers/foreign-gmp-certificate-requirement.md)
 
 ## Why KGMP is critical in Korea
 

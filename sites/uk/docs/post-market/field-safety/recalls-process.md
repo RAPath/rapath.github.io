@@ -91,10 +91,10 @@ MHRA can independently require a manufacturer to recall a device if MHRA conclud
 
 ## Related pages
 
-- [When an FSCA is required](./when-fsca-required)
-- [Field Safety Notices (FSNs)](./field-safety-notices)
-- [MHRA-initiated safety actions](./mhra-initiated-actions)
-- [Distribution records](../post-market-surveillance/distribution-records)
+- [When an FSCA is required](./when-fsca-required.md)
+- [Field Safety Notices (FSNs)](./field-safety-notices.md)
+- [MHRA-initiated safety actions](./mhra-initiated-actions.md)
+- [Distribution records](../post-market-surveillance/distribution-records.md)
 
 ---
 

@@ -22,7 +22,7 @@ Manufacturers already using GS1 GTINs for FDA or EUDAMED UDI can use the **same 
 :::
 
 ## Related pages
-- [UDI-K overview](./udi-k-overview) · [KIMS database registration](./kims-database-registration)
+- [UDI-K overview](./udi-k-overview.md) · [KIMS database registration](./kims-database-registration.md)
 
 Support and resources
 

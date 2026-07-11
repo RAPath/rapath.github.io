@@ -185,10 +185,10 @@ In the technical documentation's **GSPR cross-reference table**, each applicable
 
 ## Related pages
 
-- [GSPR overview — Annex I](./gspr-overview)
-- [Chapter I — General requirements](./chapter-i-general-requirements)
-- [Chapter III — IFU & labelling](./chapter-iii-ifu-labelling)
-- [GSPR checklist](./gspr-checklist)
+- [GSPR overview — Annex I](./gspr-overview.md)
+- [Chapter I — General requirements](./chapter-i-general-requirements.md)
+- [Chapter III — IFU & labelling](./chapter-iii-ifu-labelling.md)
+- [GSPR checklist](./gspr-checklist.md)
 - [Risk management](/pre-market/technical-documentation/risk-management)
 - [Technical documentation — GSPR cross-reference](/pre-market/technical-documentation/gspr-cross-reference)
 

@@ -33,6 +33,6 @@ DTx products follow the standard SaMD regulatory pathway to obtain 품목허가 
 Novel DTx products may be eligible for the **regulatory sandbox** program while their classification is being determined.
 
 ## Related pages
-- [SaMD — MFDS policy](../pre-market/special-device-types/samd-mfds-policy) · [Sandbox regulatory program](../special-access/sandbox-regulatory-program)
+- [SaMD — MFDS policy](../pre-market/special-device-types/samd-mfds-policy.md) · [Sandbox regulatory program](../special-access/sandbox-regulatory-program.md)
 
 Clinical trial requirements for DTx: MFDS expects randomized controlled trials (RCTs) comparing the DTx to standard of care or placebo, depending on the therapeutic area. Study duration must demonstrate sustained efficacy, and primary endpoints must align with clinical outcomes relevant to the indication. Patient-reported outcome measures (PROMs) are typically required in addition to objective clinical endpoints.

@@ -87,8 +87,8 @@ The SFDA publishes its list of recognised standards on the SFDA website under **
 ## Further reading
 
 - MDS-REQ 1 — Essential Principles and standards references
-- [Essential Principles](../technical-documentation/essential-principles)
-- [Guidance Overview](./guidance-overview)
+- [Essential Principles](../technical-documentation/essential-principles.md)
+- [Guidance Overview](./guidance-overview.md)
 
 ## SFDA standard recognition
 

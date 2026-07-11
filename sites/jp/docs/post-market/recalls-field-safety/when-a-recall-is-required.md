@@ -26,7 +26,7 @@ The MAH should assess whether the issue creates a reasonable risk of harm to pat
 
 ## MHLW notification for recalls
 
-Before or immediately upon initiating a recall, the MAH must notify MHLW. See [MHLW Notification for Recalls](./mhlw-notification-recalls) for the specific process and requirements.
+Before or immediately upon initiating a recall, the MAH must notify MHLW. See [MHLW Notification for Recalls](./mhlw-notification-recalls.md) for the specific process and requirements.
 
 ## MAH's role in recall decisions
 

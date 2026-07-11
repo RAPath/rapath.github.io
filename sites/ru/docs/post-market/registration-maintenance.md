@@ -23,7 +23,7 @@ Not all changes carry the same notification requirement. Under Decree No. 1684, 
 
 ## Registration expiry and re-registration
 
-Registration Certificates have a defined validity period. Re-registration must be initiated before expiry. Given the **2027 deadline** for national registrations, manufacturers should assess whether re-registration under EAEU rules is more appropriate when a national certificate approaches expiry.
+Registration Certificates have a defined validity period. Re-registration must be initiated before expiry. New national submissions may be accepted until **31 December 2027** (extended via EAEU Protocol signed 29 December 2025), and national registration/re-registration completion under Union rules is permitted until **31 December 2028**; manufacturers should assess whether re-registration under EAEU rules is more appropriate when a national certificate approaches expiry. Source: EAEU Eurasian Economic Commission (eec.eaeunion.org).
 
 ## Suspension and cancellation
 

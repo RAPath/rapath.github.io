@@ -28,7 +28,7 @@ Bilingual (Korean + English) is permitted, but Korean must be present and equall
 - Medical Devices Act, Article 24 · MFDS Notification — Labelling Standards for Medical Devices
 
 ## Related pages
-- [Import labelling rules](./import-labelling-rules) · [IFU requirements](./ifu-and-package-insert) · [UDI labelling](../../udi-registration-licensing/udi-k/udi-labelling-requirements)
+- [Import labelling rules](./import-labelling-rules.md) · [IFU requirements](./ifu-and-package-insert.md) · [UDI labelling](../../udi-registration-licensing/udi-k/udi-labelling-requirements.md)
 
 "Complete Korean-language Instructions for Use (IFU) or package insert with equivalent prominence and accessibility as original language versions"
 

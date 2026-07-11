@@ -66,8 +66,8 @@ Key points for digital marketing:
 
 ## Related pages
 
-- [Labelling requirements](./labelling-requirements)
-- [Advertising rules](./advertising-rules)
+- [Labelling requirements](./labelling-requirements.md)
+- [Advertising rules](./advertising-rules.md)
 
 ---
 

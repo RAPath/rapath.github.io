@@ -37,9 +37,9 @@ SaMD requires MDMA (Medical Device Marketing Authorization) via TFA (Technical F
 
 ## Further reading
 
-- [Software & SaMD Classification](../device-classification/software-samd-classification)
-- [AI/ML Guidance](./ai-ml-guidance)
-- [SFDA Digital Health Framework](./sfda-digital-health)
+- [Software & SaMD Classification](../device-classification/software-samd-classification.md)
+- [AI/ML Guidance](./ai-ml-guidance.md)
+- [SFDA Digital Health Framework](./sfda-digital-health.md)
 
 SaMD in Combination Products
 

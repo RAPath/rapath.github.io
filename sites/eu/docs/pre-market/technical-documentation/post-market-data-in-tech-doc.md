@@ -154,8 +154,8 @@ For Class IIb, III, and IVDR Class C and D devices, notified bodies review the P
 
 ## Related pages
 
-- [Technical documentation — overview](./technical-documentation-overview)
-- [Risk management](./risk-management)
+- [Technical documentation — overview](./technical-documentation-overview.md)
+- [Risk management](./risk-management.md)
 - [Clinical evaluation](/pre-market/clinical-evidence/clinical-evaluation-overview)
 - [PMS requirements](/post-market/post-market-surveillance/pms-requirements)
 - [PSUR by class and frequency](/post-market/post-market-surveillance/psur)

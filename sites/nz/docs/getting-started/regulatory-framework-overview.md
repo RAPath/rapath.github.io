@@ -89,7 +89,7 @@ The current framework under the Medicines Act 1981 was designed in an era before
 - An independent statutory officer (rather than Medsafe within the Ministry of Health)
 - Continued role for Medsafe as the day-to-day regulator
 
-See [Medical Products Bill](/legislation/medical-products-bill) and the [Bill Tracker](/whats-new/medical-products-bill-tracker) for the latest.
+See [Medical Products Bill](/legislation/medical-products-bill) and the [Bill Tracker](https://rapath.org/whats-new) for the latest.
 
 ---
 

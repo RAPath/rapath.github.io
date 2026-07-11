@@ -84,7 +84,7 @@ Synthesise all appraised data to reach conclusions on:
 
 ### Stage 6 — Write the Clinical Evaluation Report
 
-Document all of the above in a structured CER. See [Clinical Evaluation Report (CER)](./clinical-evaluation-report).
+Document all of the above in a structured CER. See [Clinical Evaluation Report (CER)](./clinical-evaluation-report.md).
 
 ---
 
@@ -112,7 +112,7 @@ MDR Art. 61(4) states that for implantable Class III devices and Class III devic
 
 In practice, for novel Class III devices with no genuine equivalent, a clinical investigation is expected.
 
-See [Clinical investigations](./clinical-investigations).
+See [Clinical investigations](./clinical-investigations.md).
 
 ---
 
@@ -130,10 +130,10 @@ The current CER and PMCF evaluation report are reviewed by the notified body at 
 
 ## Related pages
 
-- [Clinical Evaluation Report (CER)](./clinical-evaluation-report)
-- [Equivalence claims](./equivalence-claims)
-- [Clinical investigations](./clinical-investigations)
-- [Using international clinical data](./using-international-clinical-data)
+- [Clinical Evaluation Report (CER)](./clinical-evaluation-report.md)
+- [Equivalence claims](./equivalence-claims.md)
+- [Clinical investigations](./clinical-investigations.md)
+- [Using international clinical data](./using-international-clinical-data.md)
 - [Post-market data in technical documentation](/pre-market/technical-documentation/post-market-data-in-tech-doc)
 
 ---

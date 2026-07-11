@@ -20,7 +20,7 @@ MFDS may reclassify a device based on new evidence, safety data, or internationa
 4. MFDS decision published; Classification Table updated if approved
 
 ## Related pages
-- [How classification works](./how-classification-works) · [Grade I–IV overview](./grade-i-ii-iii-iv-overview)
+- [How classification works](./how-classification-works.md) · [Grade I–IV overview](./grade-i-ii-iii-iv-overview.md)
 
 ## MFDS decision published; Classification Table updated if approved
 

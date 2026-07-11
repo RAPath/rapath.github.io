@@ -14,7 +14,7 @@ Labelling requirements apply throughout the device lifecycle, not just at the ti
 - **UDI** must be present on all labels as required by MDS-REQ 7
 - **Arabic labelling** must be provided for all home-use (lay user) devices — an ongoing requirement, not a one-time approval
 
-See [Labelling & IFU Requirements](../technical-documentation/labelling-ifu) for label content requirements.
+See [Labelling & IFU Requirements](../technical-documentation/labelling-ifu.md) for label content requirements.
 
 ## Advertising pre-approval — MDS-REQ 8
 
@@ -45,8 +45,8 @@ Distributing unapproved advertising can result in:
 ## Further reading
 
 - MDS-REQ 8 — Medical Device Advertising
-- [Labelling & IFU](../technical-documentation/labelling-ifu)
-- [MDMA Renewal](./mdma-renewal)
+- [Labelling & IFU](../technical-documentation/labelling-ifu.md)
+- [MDMA Renewal](./mdma-renewal.md)
 
 Once advertising materials are approved by the SFDA, they must not be substantively altered without resubmitting for approval. Any changes to claims, images, key messaging, or product indications require resubmission to the SFDA before distribution of the revised materials. Maintain an archive of all approved versions with evidence of SFDA approval dates and any conditions, as this documentation will be requested during SFDA inspections and audits.
 

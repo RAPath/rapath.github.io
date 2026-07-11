@@ -22,10 +22,10 @@ A medical device achieves its purpose **principally by physical, mechanical, or 
 The intended purpose determines both whether something is a medical device and which class it falls into. Swissmedic assesses intended purpose from what the manufacturer states or implies through labelling, IFUs, promotional materials, and technical documentation. The same product may or may not be a medical device depending solely on the claims made about it.
 
 ## Software as a Medical Device
-Software is explicitly included in the MedDO definition. Standalone software intended for a medical purpose is regulated as a medical device in its own right. Qualification guidance MDCG 2019-11 applies in Switzerland — see [Software as a Medical Device](../pre-market/gspr/software-samd).
+Software is explicitly included in the MedDO definition. Standalone software intended for a medical purpose is regulated as a medical device in its own right. Qualification guidance MDCG 2019-11 applies in Switzerland — see [Software as a Medical Device](../pre-market/gspr/software-samd.md).
 
 ## IVD Devices
-IVDs — products used for the in vitro examination of human specimens — are regulated under the separate **IVDO (SR 812.219)**. See [MedDO vs IVDO](./medo-vs-ivdo).
+IVDs — products used for the in vitro examination of human specimens — are regulated under the separate **IVDO (SR 812.219)**. See [MedDO vs IVDO](./medo-vs-ivdo.md).
 
 after the list of purposes: "Additionally, products without a medical purpose that are specifically listed in MedDO Annex XVI (such as coloured contact lenses) are also regulated as medical devices under MedDO.
 
@@ -35,9 +35,9 @@ after the list of purposes: "Additionally, products without a medical purpose th
 - [Swissmedic — What are medical devices?](https://www.swissmedic.ch/swissmedic/en/home/medical-devices.html)
 
 ## Related Pages
-- [What is Not a Medical Device?](./what-is-not-a-medical-device)
-- [MedDO vs IVDO](./medo-vs-ivdo)
-- [How Classification Works](../pre-market/classification/how-classification-works)
+- [What is Not a Medical Device?](./what-is-not-a-medical-device.md)
+- [MedDO vs IVDO](./medo-vs-ivdo.md)
+- [How Classification Works](../pre-market/classification/how-classification-works.md)
 
 :::warning Disclaimer
 Content is AI-assisted and intended as a navigation aid only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.

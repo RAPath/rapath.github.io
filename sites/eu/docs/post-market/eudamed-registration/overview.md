@@ -103,8 +103,8 @@ Always verify current status at **ec.europa.eu/tools/eudamed** — the Commissio
 
 ## Related pages
 
-- [Economic operator registration](./economic-operator-registration)
-- [Device registration & UDI upload](./device-registration-udi)
+- [Economic operator registration](./economic-operator-registration.md)
+- [Device registration & UDI upload](./device-registration-udi.md)
 - [Certificates & notified body data](./certificates-nb-data)
 - [Public-facing modules & timelines](./public-modules-timelines)
 - [EUDAMED UDI registration](/pre-market/udi-system/eudamed-udi-registration)

@@ -41,10 +41,10 @@ Foreign manufacturers who have proprietary technical documentation they do not w
 8. Download MDMA certificate upon approval
 
 ### MDEL application
-The MDEL (establishment license) is also applied for and managed through GHAD. See [MDEL Overview](../authorized-representative/mdel-overview).
+The MDEL (establishment license) is also applied for and managed through GHAD. See [MDEL Overview](../authorized-representative/mdel-overview.md).
 
 ### UDI submission
-UDI data must be submitted via GHAD in the format specified by MDS-REQ 7. See [UDI Data Submission](../udi/udi-data-submission).
+UDI data must be submitted via GHAD in the format specified by MDS-REQ 7. See [UDI Data Submission](../udi/udi-data-submission.md).
 
 ## Application status tracking
 
@@ -66,6 +66,6 @@ GHAD provides real-time status tracking for all submitted applications. Status s
 
 ## Further reading
 
-- [MDMA Overview](./mdma-overview)
-- [SFDA Review Timelines](./review-timelines)
-- [MDEL Overview](../authorized-representative/mdel-overview)
+- [MDMA Overview](./mdma-overview.md)
+- [SFDA Review Timelines](./review-timelines.md)
+- [MDEL Overview](../authorized-representative/mdel-overview.md)

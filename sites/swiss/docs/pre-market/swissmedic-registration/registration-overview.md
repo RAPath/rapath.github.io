@@ -24,7 +24,7 @@ Before placing a medical device on the Swiss market, the manufacturer or CH REP 
 - **MRA operational**: CE-marked devices generally don't require a separate full registration procedure; DAPI notification is still required
 - **MRA not fully operational**: Full DAPI registration required for all devices regardless of CE status; EU NB certificate used as evidence
 
-Always verify current MRA status before planning Swiss registration timelines — see [MRA with EU](../../legislation/mra-with-eu).
+Always verify current MRA status before planning Swiss registration timelines — see [MRA with EU](../../legislation/mra-with-eu.md).
 
 ## Documents Typically Required (Class IIa+)
 - Device description and identification (name, model, UDI-DI)

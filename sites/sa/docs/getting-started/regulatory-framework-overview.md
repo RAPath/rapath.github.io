@@ -71,7 +71,7 @@ The KSA market is also linked — through the **Gulf Cooperation Council (GCC)**
 
 ## Further reading
 
-- [Medical Devices Law and Implementing Regulation](../legislation/medical-devices-law)
-- [MDMA Registration Overview](../mdma-registration/mdma-overview)
-- [Authorized Representative & MDEL](../authorized-representative/ar-overview)
-- [GCC & International](../gcc-international/gcc-harmonization)
+- [Medical Devices Law and Implementing Regulation](../legislation/medical-devices-law.md)
+- [MDMA Registration Overview](../mdma-registration/mdma-overview.md)
+- [Authorized Representative & MDEL](../authorized-representative/ar-overview.md)
+- [GCC & International](../gcc-international/gcc-harmonization.md)

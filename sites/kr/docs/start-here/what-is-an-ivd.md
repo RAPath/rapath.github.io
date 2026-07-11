@@ -14,4 +14,4 @@ Korea introduced the **In Vitro Diagnostics Medical Devices Act (체외진단의
 - In Vitro Diagnostics Medical Devices Act, Article 2
 
 ## Related pages
-- [Medical Devices Act vs IVD Act](./medical-devices-act-vs-ivd-act) · [IVD classification](../pre-market/classification/ivd-classification)
+- [Medical Devices Act vs IVD Act](./medical-devices-act-vs-ivd-act.md) · [IVD classification](../pre-market/classification/ivd-classification.md)

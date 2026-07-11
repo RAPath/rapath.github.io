@@ -28,13 +28,13 @@ Schedule 3 of Part I contains the following conformity assessment annexes:
 |---|---|---|
 | Annex I | Quality management system statement | Class I self-declaration |
 | Annex II | Full quality system | Class IIa, IIb, III (+ design dossier for Class III) |
-| Annex III | EC type-examination | Class IIa, IIb |
+| Annex III | EC type-examination (paired with Annex IV, V, or VI) | Class IIa, IIb |
 | Annex IV | Production quality assurance | Paired with Annex III |
 | Annex V | Product quality assurance | Paired with Annex III |
 | Annex VI | Production quality assurance (declaration) | Paired with Annex III |
 | Annex VII | EC declaration of conformity (self-declaration) | Class I |
 
-See [Conformity assessment overview](../pre-market/conformity-assessment/overview) and [Class IIa · IIb · III — UK Approved Body routes](../pre-market/conformity-assessment/ukab-routes) for detailed guidance.
+See [Conformity assessment overview](../pre-market/conformity-assessment/overview.md) and [Class IIa · IIb · III — UK Approved Body routes](../pre-market/conformity-assessment/ukab-routes.md) for detailed guidance.
 
 ## Official references
 
@@ -42,18 +42,9 @@ See [Conformity assessment overview](../pre-market/conformity-assessment/overvie
 |---|---|
 | [UK MDR 2002, Schedule 3](https://www.legislation.gov.uk/uksi/2002/618/schedule/3/made) | Full conformity assessment procedures |
 
-Modify the 'Schedule 3 structure' table entry for Annex III to read: 'Annex III | EC type-examination (paired with Annex IV, V, or VI) | Class IIa, IIb' and add a note: 'Note: Annex III is always used with a production or product quality assurance annex (IV, V, or VI) for full conformity assessment.'
+**Note**: Annex III (EC type-examination) is always used in combination with one of the following production or product quality assurance annexes:
+- Annex IV — Production quality assurance
+- Annex V — Product quality assurance
+- Annex VI — Production quality assurance (declaration)
 
-Modify the 'Schedule 3 structure' table entry for Annex III from:
-'Annex III | EC type-examination | Class IIa, IIb'
-
-To:
-'Annex III | EC type-examination (paired with Annex IV, V, or VI) | Class IIa, IIb'
-
-And add a note immediately below the table:
-'Note: Annex III (EC type-examination) is always used in combination with one of the following production or product quality assurance annexes:
-• Annex IV — Production quality assurance
-• Annex V — Product quality assurance
-• Annex VI — Production quality assurance (declaration)
-
-A device cannot comply with Annex III alone; the manufacturer must select Annex III paired with one of IV, V, or VI. The choice depends on the level of quality control required for the specific device and risk profile.'
+A device cannot comply with Annex III alone; the manufacturer must select Annex III paired with one of IV, V, or VI. The choice depends on the level of quality control required for the specific device and risk profile.

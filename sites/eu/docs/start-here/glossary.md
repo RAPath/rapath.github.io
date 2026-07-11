@@ -44,7 +44,7 @@ Any implantable device the operation of which depends on a source of electrical 
 See **Serious incident**.
 
 ### ARTG
-Australian Register of Therapeutic Goods — the Australian equivalent of CE marking; not applicable to EU MDR/IVDR. See [What is a medical device?](./what-is-a-medical-device) for the EU framework.
+Australian Register of Therapeutic Goods — the Australian equivalent of CE marking; not applicable to EU MDR/IVDR. See [What is a medical device?](./what-is-a-medical-device.md) for the EU framework.
 
 ### Authorised representative (EU REP)
 Any natural or legal person established within the EU who has received and accepted a written mandate from a non-EU manufacturer to act on the manufacturer's behalf in relation to specified tasks with regard to the manufacturer's obligations under MDR/IVDR.
@@ -186,7 +186,7 @@ The use for which a device is intended according to the data supplied by the man
 ## L
 
 ### Legacy device
-Informal term for a device certified under MDD/AIMDD/IVDD that is in the transitional period before MDR/IVDR compliance is required. See [Transitional provisions & timelines](./transitional-provisions).
+Informal term for a device certified under MDD/AIMDD/IVDD that is in the transitional period before MDR/IVDR compliance is required. See [Transitional provisions & timelines](./transitional-provisions.md).
 
 ---
 
@@ -209,7 +209,7 @@ Medical Device Coordination Group — the expert body assisting the European Com
 *MDR Art. 103*
 
 ### Medical device
-See [What is a medical device?](./what-is-a-medical-device) for the full definition and analysis.
+See [What is a medical device?](./what-is-a-medical-device.md) for the full definition and analysis.
 *MDR Art. 2(1)*
 
 ---
@@ -341,10 +341,10 @@ Any measure aimed at preventing a device in the supply chain from being further 
 
 ## Related pages
 
-- [What is a medical device?](./what-is-a-medical-device)
-- [What is an IVD?](./what-is-an-ivd)
-- [Who needs to comply?](./who-needs-to-comply)
-- [Regulatory framework overview](./regulatory-framework-overview)
+- [What is a medical device?](./what-is-a-medical-device.md)
+- [What is an IVD?](./what-is-an-ivd.md)
+- [Who needs to comply?](./who-needs-to-comply.md)
+- [Regulatory framework overview](./regulatory-framework-overview.md)
 
 ---
 

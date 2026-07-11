@@ -5,7 +5,7 @@ description: Clinical investigation pathways for medical devices in Switzerland 
 # Clinical Investigation Pathways
 
 ## Standard Clinical Investigation (ClinO-MD)
-The primary pathway. Requires Swissmedic authorisation + BASEC ethics approval before commencement. See [Clinical Investigations (ClinO-MD)](../pre-market/clinical-evidence/clinical-investigations).
+The primary pathway. Requires Swissmedic authorisation + BASEC ethics approval before commencement. See [Clinical Investigations (ClinO-MD)](../pre-market/clinical-evidence/clinical-investigations.md).
 
 First-in-Human Studies
 ​

@@ -23,4 +23,4 @@ Examples:
 3. Neither? → Investigate, record, include in trend monitoring
 
 ## Related pages
-- [What must be reported](./what-must-be-reported) · [Reporting timeframes](./reporting-timeframes)
+- [What must be reported](./what-must-be-reported.md) · [Reporting timeframes](./reporting-timeframes.md)

@@ -95,7 +95,7 @@ Every device must be supplied with information needed for safe and effective use
 - Sterility status and expiry (if applicable)
 - UKCA mark and UKAB identification number (if applicable)
 
-Full labelling requirements are addressed in [Labelling requirements](../../post-market/labelling-advertising/labelling-requirements).
+Full labelling requirements are addressed in [Labelling requirements](../../post-market/labelling-advertising/labelling-requirements.md).
 
 ---
 
@@ -201,19 +201,19 @@ Manufacturers coming from an EU MDR background should note that the UK Essential
 
 The UK ERs are substantively less prescriptive than the EU GSPRs. Manufacturers preparing technical files to EU MDR GSPR standard will typically exceed UK ER requirements — this is not a problem. Manufacturers preparing for UK MDR only should be aware that an EU GSPR-standard technical file is not required for the GB market.
 
-MHRA's reform programme intends to modernise the Essential Requirements framework — likely toward greater alignment with EU MDR GSPR structure. Monitor [What's New](../../whats-new/recent-regulatory-changes) for updates.
+MHRA's reform programme intends to modernise the Essential Requirements framework — likely toward greater alignment with EU MDR GSPR structure. Monitor [What's New](https://rapath.org/whats-new) for updates.
 
 ---
 
 ## Related pages
 
-- [General requirements — ER 1–6](./general-requirements)
-- [Design and construction — ER 7–17](./design-construction-requirements)
-- [IFU and labelling — ER 18](../../post-market/labelling-advertising/labelling-requirements)
-- [IVD Essential Requirements (Schedule 1A)](./ivd-essential-requirements)
-- [Conformity assessment overview](../conformity-assessment/overview)
-- [Technical documentation overview](../technical-documentation/overview)
-- [UK-designated standards](./uk-designated-standards)
+- [General requirements — ER 1–6](./general-requirements.md)
+- [Design and construction — ER 7–17](./design-construction-requirements.md)
+- [IFU and labelling — ER 18](../../post-market/labelling-advertising/labelling-requirements.md)
+- [IVD Essential Requirements (Schedule 1A)](./ivd-essential-requirements.md)
+- [Conformity assessment overview](../conformity-assessment/overview.md)
+- [Technical documentation overview](../technical-documentation/overview.md)
+- [UK-designated standards](../../legislation/uk-designated-standards.md)
 
 ---
 

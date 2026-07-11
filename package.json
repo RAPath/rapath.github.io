@@ -60,7 +60,11 @@
     "build:all": "bash scripts/build-all.sh"
   },
   "dependencies": {
+    "@docusaurus/core": "^3.10.2",
     "@docusaurus/faster": "^3.10.1",
+    "@docusaurus/module-type-aliases": "^3.10.2",
+    "@docusaurus/preset-classic": "^3.10.2",
+    "@docusaurus/types": "^3.10.2",
     "@easyops-cn/docusaurus-search-local": "^0.55.1"
   }
 }

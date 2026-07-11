@@ -15,5 +15,5 @@ The **MFDS Labelling Standards Notification (의료기기 기재 사항 기준 �
 - Symbol requirements (ISO 15223 symbols generally accepted)
 
 ## Related pages
-- [Labelling requirements](../../post-market/labelling/labelling-requirements) · [IFU and package insert](../../post-market/labelling/ifu-and-package-insert)
+- [Labelling requirements](../../post-market/labelling/labelling-requirements.md) · [IFU and package insert](../../post-market/labelling/ifu-and-package-insert.md)
 

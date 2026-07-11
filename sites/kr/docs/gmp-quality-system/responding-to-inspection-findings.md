@@ -17,4 +17,4 @@ sidebar_position: 7
 MFDS conducts a critical assessment of CAPA submissions. The root cause analysis must be thorough and evidence-based, and corrective actions must directly address the systemic issue rather than treating symptoms. Superficial corrective actions—such as retraining alone without fixing underlying process deficiencies—are unlikely to be accepted, particularly for major nonconformities. For critical findings, MFDS may require additional verification or a follow-up inspection before closure is granted.
 
 ## Related pages
-- [MFDS inspections and administrative actions](./mfds-inspections-and-actions) · [CAPA](./core-qms-requirements/capa)
+- [MFDS inspections and administrative actions](./mfds-inspections-and-actions.md) · [CAPA](./core-qms-requirements/capa.md)

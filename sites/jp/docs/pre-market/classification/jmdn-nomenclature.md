@@ -42,12 +42,6 @@ The **Global Medical Device Nomenclature (GMDN)** is an international system use
 
 ## Creating new JMDN codes
 
-If no existing JMDN code covers a genuinely novel device type, the MAH must request MHLW to create a new code. This process can take 6–12+ months and should be initiated early in the development/regulatory strategy process. A new JMDN code also requires MHLW to assign the risk class and determine pathway eligibility, which may involve engagement with PMDA.
+If no existing JMDN code covers a genuinely novel device type, the MAH must request MHLW to create a new code. This process can take 6–12+ months and must be completed before a formal application can be filed — a device without an assigned JMDN code cannot enter pre-market review. The request should be initiated early in the development/regulatory strategy process, often in parallel with or before PMDA pre-submission consultation. A new JMDN code assignment also requires MHLW to designate the risk class (I–IV) and determine pathway eligibility, which frequently involves engagement with PMDA to assess intended use and risk profile.
 
 It is strongly advisable to confirm the JMDN code with a Japan-based regulatory consultant or through PMDA pre-submission consultation before formally filing an application, as an incorrect code assignment will delay the application process, may result in rejection, and will require substantial resubmission effort.
-
-Revise the 'Creating new JMDN codes' subsection to include:
-
-**Original text:** 'If no existing JMDN code covers a genuinely novel device type, the MAH must request MHLW to create a new code. This process can take 6–12+ months and should be initiated early in the development/regulatory strategy process. A new JMDN code also requires MHLW to assign the risk class and determine pathway eligibility, which may involve engagement with PMDA.'
-
-**Revised text:** 'If no existing JMDN code covers a genuinely novel device type, the MAH must request MHLW to create a new code. This process can take 6–12+ months and must be completed before a formal application can be filed — a device without an assigned JMDN code cannot enter pre-market review. The request should be initiated early in the development/regulatory strategy process, often in parallel with or before PMDA pre-submission consultation. A new JMDN code assignment also requires MHLW to designate the risk class (I–IV) and determine pathway eligibility, which frequently involves engagement with PMDA to assess intended use and risk profile.'

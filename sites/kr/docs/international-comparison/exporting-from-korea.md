@@ -25,15 +25,11 @@ Apply via the **MFDS eSubmission portal (의료기기 전자민원)**:
 - The product must have a valid 품목허가 or 품목신고 (or be an export-only device meeting requirements)
 - The product must not be banned in Korea
 
-MFDS typically issues export certificates within a few business days.
+MFDS typically issues export certificates within 3–5 business days. Expedited processing may be available upon request; contact the MFDS eSubmission helpdesk for details.
 
 ## Export-only devices
 
-See [Export-only devices](../pre-market/special-device-types/export-only-devices) for specific rules on devices not sold in Korea.
+See [Export-only devices](../pre-market/special-device-types/export-only-devices.md) for specific rules on devices not sold in Korea.
 
 ## Related pages
-- [Export-only devices](../pre-market/special-device-types/export-only-devices) · [KGMP overview](../gmp-quality-system/overview-kgmp)
-
-Revise the sentence 'MFDS typically issues export certificates within a few business days.' to:
-
-'MFDS typically issues export certificates within 3–5 business days. Expedited processing may be available upon request; contact the MFDS eSubmission helpdesk for details.'
+- [Export-only devices](../pre-market/special-device-types/export-only-devices.md) · [KGMP overview](../gmp-quality-system/overview-kgmp.md)

@@ -149,8 +149,8 @@ Manufacturers may use any of the three issuing entities. The choice should consi
 
 ## Related pages
 
-- [UDI overview & structure](./udi-overview)
-- [EUDAMED UDI registration](./eudamed-udi-registration)
+- [UDI overview & structure](./udi-overview.md)
+- [EUDAMED UDI registration](./eudamed-udi-registration.md)
 - [Labelling requirements](/post-market/labelling-advertising/labelling-requirements)
 - [Implantable devices](/pre-market/special-device-types/implantable-devices)
 

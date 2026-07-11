@@ -37,7 +37,7 @@ A kit or procedure pack containing multiple medical devices:
 
 ## Second-hand and refurbished devices
 
-Second-hand, reconditioned, and refurbished medical devices are a specific area of Vietnamese regulatory attention. See [Special Device Types](../market-access/special-device-types) for the applicable rules.
+Second-hand, reconditioned, and refurbished medical devices are a specific area of Vietnamese regulatory attention. See [Special Device Types](../market-access/special-device-types.md) for the applicable rules.
 
 ## Requesting a formal determination
 

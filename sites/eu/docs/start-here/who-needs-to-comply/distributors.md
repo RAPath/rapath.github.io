@@ -121,10 +121,10 @@ These records must be kept for a period that enables traceability and must be ma
 
 ## Related pages
 
-- [Who needs to comply?](../who-needs-to-comply)
-- [Manufacturers](./manufacturers)
-- [Authorised representatives (EU REPs)](./authorised-representatives)
-- [Importers](./importers)
+- [Who needs to comply?](../who-needs-to-comply.md)
+- [Manufacturers](./manufacturers.md)
+- [Authorised representatives (EU REPs)](./authorised-representatives.md)
+- [Importers](./importers.md)
 - [Labelling requirements](/post-market/labelling-and-advertising/labelling-requirements)
 - [Recalls & field safety](/post-market/recalls-and-field-safety)
 

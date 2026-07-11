@@ -142,9 +142,9 @@ A product is a medical device if the manufacturer **claims** it is for a medical
 
 ## Related pages
 
-- [What is a medical device?](./what-is-a-medical-device)
-- [What is an IVD?](./what-is-an-ivd)
-- [MDR vs IVDR — which applies?](./mdr-vs-ivdr)
+- [What is a medical device?](./what-is-a-medical-device.md)
+- [What is an IVD?](./what-is-an-ivd.md)
+- [MDR vs IVDR — which applies?](./mdr-vs-ivdr.md)
 - [Devices incorporating a medicinal substance](/pre-market/special-device-types/devices-incorporating-medicine)
 
 ---

@@ -85,6 +85,6 @@ All documents submitted to COFEPRIS must be in **Spanish** or accompanied by an 
 
 - [Standard Registration Route](standard-route)
 - [Clinical evidence](clinical-evidence)
-- [Labelling — NOM-137](../postmarket/labelling-nom-137)
-- [Quality System — NOM-241](../quality-system/nom-241-overview)
+- [Labelling — NOM-137](../postmarket/labelling-nom-137.md)
+- [Quality System — NOM-241](../quality-system/nom-241-overview.md)
 

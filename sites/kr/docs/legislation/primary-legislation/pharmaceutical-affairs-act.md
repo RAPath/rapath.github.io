@@ -13,4 +13,4 @@ The **Pharmaceutical Affairs Act (약사법)** primarily governs pharmaceuticals
 - **Drug-device combination labelling** — labelling must satisfy both Acts where both apply
 
 ## Related pages
-- [Combination products — classification](../../pre-market/classification/combination-products) · [Medical Devices Act](./medical-devices-act)
+- [Combination products — classification](../../pre-market/classification/combination-products.md) · [Medical Devices Act](./medical-devices-act.md)

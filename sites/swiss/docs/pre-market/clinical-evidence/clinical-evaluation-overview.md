@@ -9,7 +9,7 @@ keywords: [clinical evaluation, CER, MedDO Annex XIV, MDCG, Switzerland, clinica
 A **clinical evaluation** is the systematic, planned, and continuously updated process of generating, collecting, analysing, and assessing clinical data to verify safety and performance for the intended use. Required for all medical devices under **MedDO Annex XIV** and is a mandatory component of technical documentation. The requirements are identical to EU MDR Annex XIV.
 
 ## Sources of Clinical Data
-1. **Clinical investigations** of the specific device (see [Clinical Investigations](./clinical-investigations))
+1. **Clinical investigations** of the specific device (see [Clinical Investigations](./clinical-investigations.md))
 2. **Literature data for an equivalent device** — requires rigorous equivalence demonstration (technical, biological, and clinical characteristics)
 3. **Post-market data** — PMCF, complaint data, literature, and registries (used to update the CER post-market)
 

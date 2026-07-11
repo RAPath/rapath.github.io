@@ -132,11 +132,11 @@ The UKCA mark and the UK DoC are inseparable — one cannot exist without the ot
 
 ## Related pages
 
-- [Conformity assessment — overview](./overview)
-- [UKCA marking requirements](./ukca-marking)
-- [Class I self-declaration pathway](./class-i-self-declaration)
-- [Class IIa · IIb · III — UK Approved Body routes](./ukab-routes)
-- [MHRA registration](../mhra-registration/who-must-register)
+- [Conformity assessment — overview](./overview.md)
+- [UKCA marking requirements](./ukca-marking.md)
+- [Class I self-declaration pathway](./class-i-self-declaration.md)
+- [Class IIa · IIb · III — UK Approved Body routes](./ukab-routes.md)
+- [MHRA registration](../mhra-registration/who-must-register.md)
 
 ---
 

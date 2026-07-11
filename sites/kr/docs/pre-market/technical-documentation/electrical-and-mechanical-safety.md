@@ -19,7 +19,7 @@ Korea requires test reports from **MFDS-recognised testing laboratories** for ap
 
 ## KC mark
 
-Electrically-powered medical devices may also need a **KC mark** under the Electrical Appliances and Consumer Products Safety Control Act — separate from the MFDS 품목허가. See [KC mark](../../legislation/related-instruments/kc-mark-and-electrical-safety).
+Electrically-powered medical devices may also need a **KC mark** under the Electrical Appliances and Consumer Products Safety Control Act — separate from the MFDS 품목허가. See [KC mark](../../legislation/related-instruments/kc-mark-and-electrical-safety.md).
 
 MFDS-recognised testing laboratories
 ​

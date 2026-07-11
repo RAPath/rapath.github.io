@@ -32,13 +32,13 @@ Manufacturers who have already implemented UDI for US or EU markets should caref
 
 ## Who must comply?
 
-All medical device manufacturers holding an MDMA are subject to SFDA UDI requirements. UDI compliance is phased — see [UDI Compliance Timeline](./udi-data-submission).
+All medical device manufacturers holding an MDMA are subject to SFDA UDI requirements. UDI compliance is phased — see [UDI Compliance Timeline](./udi-data-submission.md).
 
 ## Further reading
 
 - MDS-REQ 7 — UDI requirements
-- [UDI Data Submission](./udi-data-submission)
-- [UDI Labelling Requirements](./udi-labelling)
+- [UDI Data Submission](./udi-data-submission.md)
+- [UDI Labelling Requirements](./udi-labelling.md)
 
 Manufacturers must first obtain a valid MDMA certificate and register with the GHAD portal before submitting UDI data. UDI assignment cannot occur prior to MDMA approval. Ensure your Authorized Representative has active GHAD portal access before initiating UDI data submission.
 

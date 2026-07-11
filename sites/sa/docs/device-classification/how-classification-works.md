@@ -59,20 +59,20 @@ This does not mean a CE certificate substitutes for SFDA MDMA — but it greatly
 
 ## IVD classification
 
-IVD devices have a separate classification system. See [IVD Classification](./ivd-classification) for details.
+IVD devices have a separate classification system. See [IVD Classification](./ivd-classification.md) for details.
 
 ## Software classification
 
-Software that qualifies as a medical device (SaMD) is classified using the applicable rules in MDS-REQ 1, informed by IMDRF SaMD principles. See [Software & SaMD Classification](./software-samd-classification).
+Software that qualifies as a medical device (SaMD) is classified using the applicable rules in MDS-REQ 1, informed by IMDRF SaMD principles. See [Software & SaMD Classification](./software-samd-classification.md).
 
 ## Borderline products
 
-If it is unclear whether a product is a medical device, or which class applies, see [Borderline & Combination Products](./borderline-products) and consult MDS-G008.
+If it is unclear whether a product is a medical device, or which class applies, see [Borderline & Combination Products](./borderline-products.md) and consult MDS-G008.
 
 ## Further reading
 
 - MDS-REQ 1 — Classification rules (Part 2)
 - MDS-G008 — Classification guidance document
-- [Class A](./class-a) · [Class B](./class-b) · [Class C](./class-c) · [Class D](./class-d)
-- [IVD Classification](./ivd-classification)
+- [Class A](./class-a.md) · [Class B](./class-b.md) · [Class C](./class-c.md) · [Class D](./class-d.md)
+- [IVD Classification](./ivd-classification.md)
 

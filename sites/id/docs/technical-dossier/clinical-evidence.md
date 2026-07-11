@@ -67,7 +67,7 @@ If a clinical investigation is required (either at submission or post-approval f
 3. **GCP compliance** — the investigation must follow BPOM-aligned GCP guidelines
 4. **Import permit (SKI)** for investigational devices per shipment
 
-See [Import for Research](../special-access/import-for-research) for the clinical trial import process.
+See [Import for Research](../special-access/import-for-research.md) for the clinical trial import process.
 
 ---
 

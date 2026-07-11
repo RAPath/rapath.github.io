@@ -39,9 +39,9 @@ When the SFDA issues a deficiency letter, the AR or manufacturer must respond wi
 
 ## Further reading
 
-- [MDMA Overview](./mdma-overview)
-- [GHAD Portal](./ghad-portal)
-- [Device Grouping](./device-grouping)
+- [MDMA Overview](./mdma-overview.md)
+- [GHAD Portal](./ghad-portal.md)
+- [Device Grouping](./device-grouping.md)
 
 ## Factors affecting review duration
 

@@ -39,11 +39,11 @@ Such devices are treated as medical devices for classification and registration 
 
 An **IVD medical device** is any medical device — including reagents, calibrators, control materials, kits, instruments, or software — intended to be used in vitro for the examination of specimens derived from the human body.
 
-IVDs are subject to the same Medical Devices Law but have their own classification rules and specific technical file requirements. See [IVD Classification](../device-classification/ivd-classification) for details.
+IVDs are subject to the same Medical Devices Law but have their own classification rules and specific technical file requirements. See [IVD Classification](../device-classification/ivd-classification.md) for details.
 
 ## Software as a medical device
 
-Software that meets the SFDA definition (intended to diagnose, monitor, treat, or alleviate disease, for example) qualifies as a medical device and must be registered via MDMA. Software used solely to support device hardware does not independently qualify. See [Digital Health & SaMD](../digital-health/samd-overview) for detail.
+Software that meets the SFDA definition (intended to diagnose, monitor, treat, or alleviate disease, for example) qualifies as a medical device and must be registered via MDMA. Software used solely to support device hardware does not independently qualify. See [Digital Health & SaMD](../digital-health/samd-overview.md) for detail.
 
 ## Key distinction: intended purpose
 
@@ -54,4 +54,4 @@ Classification as a medical device depends on the **intended purpose** as stated
 - SFDA Medical Devices Law — Article 1 (definitions)
 - MDS-REQ 1 — Requirements for Medical Device Marketing Authorization
 - MDS-G008 — Classification guidance (Chapter 1: scope)
-- [What is Not a Medical Device?](./what-is-not-a-medical-device)
+- [What is Not a Medical Device?](./what-is-not-a-medical-device.md)

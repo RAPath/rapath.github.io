@@ -22,4 +22,4 @@ The clock starts from the date the **manufacturer or importer becomes aware** of
 - **Follow-up report (수정 보고)**: submit with final investigation findings
 
 ## Related pages
-- [What must be reported](./what-must-be-reported) · [How to report](./how-to-report)
+- [What must be reported](./what-must-be-reported.md) · [How to report](./how-to-report.md)

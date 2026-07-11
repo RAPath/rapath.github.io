@@ -9,7 +9,7 @@ keywords: [SaMD, software medical device, MedDO, Switzerland, qualification, cla
 This page provides an end-to-end overview of regulating standalone software as a medical device (SaMD) in Switzerland under MedDO. For detailed coverage of specific topics, see the linked pages.
 
 ## Step 1 — Qualification: Is This Software a Medical Device?
-Not all health-related software is a medical device. The key question is whether the software has a medical intended purpose — specifically whether it is intended to perform an action on data beyond storage, communication, or search, and whether its output is intended to drive clinical decisions. Use MDCG 2019-11 (applicable in Switzerland) as the qualification framework. See [MDCG 2019-11 Applicability](./mdcg-2019-11).
+Not all health-related software is a medical device. The key question is whether the software has a medical intended purpose — specifically whether it is intended to perform an action on data beyond storage, communication, or search, and whether its output is intended to drive clinical decisions. Use MDCG 2019-11 (applicable in Switzerland) as the qualification framework. See [MDCG 2019-11 Applicability](./mdcg-2019-11.md).
 
 ## Step 2 — Classification: Which Class?
 Once qualified as a medical device, SaMD is classified using MedDO Annex VIII. Key rules for software:

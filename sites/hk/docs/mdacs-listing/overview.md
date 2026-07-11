@@ -39,3 +39,7 @@ Upon approval:
 
 While no fixed renewal date applies, the MDD may conduct periodic audits, require re-attestation of ISO 13485 status, or request updated documentation if public health concerns arise or if the device remains unlisted for an extended period without market activity.
 
+## Listing Form Revamp (2026)
+
+The MD101 (General Class II–IV) and MD102 (IVD Class B–D) listing application forms were revamped, effective **12 June 2026**. Applicants should confirm they are using the current version of the relevant form before submission.
+

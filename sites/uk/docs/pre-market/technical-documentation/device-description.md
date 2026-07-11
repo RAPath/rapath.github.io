@@ -135,10 +135,10 @@ State:
 
 ## Related pages
 
-- [Technical documentation overview](./overview)
-- [Risk management (ISO 14971)](./risk-management)
-- [Clinical evaluation summary](./clinical-evaluation-summary)
-- [Labelling requirements](../../post-market/labelling-advertising/labelling-requirements)
+- [Technical documentation overview](./overview.md)
+- [Risk management (ISO 14971)](./risk-management.md)
+- [Clinical evaluation summary](./clinical-evaluation-summary.md)
+- [Labelling requirements](../../post-market/labelling-advertising/labelling-requirements.md)
 
 ---
 

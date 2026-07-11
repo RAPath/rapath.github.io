@@ -52,10 +52,10 @@ Maintain a clear document revision history with version dates and descriptions o
 ## Further reading
 
 - MDS-REQ 1 — Full technical file requirements (Annex 3)
-- [Essential Principles](./essential-principles)
-- [Risk Management](./risk-management)
-- [Clinical Evaluation](./clinical-evaluation)
-- [Declaration of Conformity](./declaration-of-conformity)
+- [Essential Principles](./essential-principles.md)
+- [Risk Management](./risk-management.md)
+- [Clinical Evaluation](./clinical-evaluation.md)
+- [Declaration of Conformity](./declaration-of-conformity.md)
 
 The technical file should be submitted as a structured PDF or electronic document with clear section numbering aligned to MDS-REQ 1 Annex 3. Follow SFDA guidelines for file naming and organization. Consult your AR on current GHAD portal submission technical specifications, as these may be updated periodically.
 

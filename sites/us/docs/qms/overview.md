@@ -16,9 +16,9 @@ The QMSR (and its predecessor, the QSR) is a US-specific regulatory requirement.
 FDA's quality system requirements for device manufacturers have been in place since 1978. The most recent significant update:
 
 - **Original QSR (21 CFR Part 820)** — effective 1996, required US device manufacturers to implement a quality system covering design controls, production, and post-market activities
-- **QMSR final rule** — published in February 2024, effective **February 2, 2026**
+- **QMSR final rule** — published in February 2024, took effect **February 2, 2026**
 
-The QMSR amends 21 CFR Part 820 to align with **ISO 13485:2016** — meaning manufacturers with a conforming ISO 13485 QMS will largely satisfy QMSR requirements, though additional US-specific requirements still apply.
+The QMSR amends 21 CFR Part 820 to align with **ISO 13485:2016** — meaning manufacturers with a conforming ISO 13485 QMS largely satisfy QMSR requirements, though additional US-specific requirements still apply.
 
 ## Key change: QMSR = ISO 13485 + US-specific additions
 

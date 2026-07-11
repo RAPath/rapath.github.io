@@ -39,7 +39,7 @@ For device categories requiring local testing (blood-contacting devices, latex p
 
 ## Submitting the Registration Application
 
-The MAH submits a **Consolidated Dossier** to the NMRA Medical Devices Regulatory Division using the **F-MDR-035 checklist** (revised format effective 2 June 2026).
+The MAH submits a **Consolidated Dossier** to the NMRA Medical Devices Regulatory Division. NMRA's Consolidated Dossier submission process for new medical device applications took effect **5 August 2025**. Always confirm the current checklist/form version via the NMRA website (Application Forms section) as this has likely been revised since.
 
 **Two registration routes are available:**
 

@@ -46,18 +46,18 @@ The IFU must provide complete information for safe and effective use of the devi
 
 ## UDI on labelling
 
-All devices must carry a **UDI** on the label in human-readable and, where appropriate, machine-readable (barcode or RFID) format. See [UDI Labelling Requirements](../udi/udi-labelling).
+All devices must carry a **UDI** on the label in human-readable and, where appropriate, machine-readable (barcode or RFID) format. See [UDI Labelling Requirements](../udi/udi-labelling.md).
 
 ## Advertising
 
-All promotional and advertising materials for medical devices require **pre-approval** from the SFDA under **MDS-REQ 8**. See [Post-Market — Labelling & Advertising](../post-market/labelling-advertising).
+All promotional and advertising materials for medical devices require **pre-approval** from the SFDA under **MDS-REQ 8**. See [Post-Market — Labelling & Advertising](../post-market/labelling-advertising.md).
 
 ## Further reading
 
 - MDS-REQ 1 — Labelling requirements
 - MDS-REQ 8 — Medical Device Advertising
-- [UDI Overview](../udi/udi-overview)
-- [Post-Market Labelling & Advertising](../post-market/labelling-advertising)
+- [UDI Overview](../udi/udi-overview.md)
+- [Post-Market Labelling & Advertising](../post-market/labelling-advertising.md)
 
 While English is acceptable for professional-use devices, manufacturers should consider providing Arabic translations on labels even for professional devices, as many healthcare professionals in Saudi Arabia may benefit from bilingual labelling. This supports compliance with good manufacturing practice and user safety principles.
 

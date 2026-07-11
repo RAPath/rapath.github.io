@@ -49,9 +49,9 @@ The clock starts when the manufacturer's quality/regulatory team receives and pr
 
 ## Related pages
 
-- [What must be reported to MHRA](./what-must-be-reported)
-- [How to report to MHRA](./how-to-report)
-- [Exemptions from reporting](./exemptions-from-reporting)
+- [What must be reported to MHRA](./what-must-be-reported.md)
+- [How to report to MHRA](./how-to-report.md)
+- [Exemptions from reporting](./exemptions-from-reporting.md)
 
 ---
 

@@ -96,10 +96,10 @@ The IVD equivalent of PMCF is **Post-Market Performance Follow-up (PMPF)**. For 
 
 ## Related pages
 
-- [PMS requirements by class](./pms-requirements-by-class)
-- [Periodic Safety Update Reports (PSURs)](./psur)
-- [Clinical evaluation requirements](../../pre-market/clinical-evidence/clinical-evaluation)
-- [Clinical evaluation summary in the technical file](../../pre-market/technical-documentation/clinical-evaluation-summary)
+- [PMS requirements by class](./pms-requirements-by-class.md)
+- [Periodic Safety Update Reports (PSURs)](./psur.md)
+- [Clinical evaluation requirements](../../pre-market/clinical-evidence/clinical-evaluation.md)
+- [Clinical evaluation summary in the technical file](../../pre-market/technical-documentation/clinical-evaluation-summary.md)
 
 ---
 

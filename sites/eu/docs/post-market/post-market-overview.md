@@ -135,11 +135,11 @@ See [Adverse event reporting](/post-market/adverse-event-reporting/what-must-be-
 
 ## Related pages
 
-- [PMS requirements](./post-market-surveillance/pms-requirements)
-- [What must be reported](./adverse-event-reporting/what-must-be-reported)
-- [When an FSCA is required](./field-safety-corrective-actions/when-fsca-required)
-- [EUDAMED registration overview](./eudamed-registration/overview)
-- [Labelling requirements](./labelling-advertising/labelling-requirements)
+- [PMS requirements](./post-market-surveillance/pms-requirements.md)
+- [What must be reported](./adverse-event-reporting/what-must-be-reported.md)
+- [When an FSCA is required](./field-safety-corrective-actions/when-fsca-required.md)
+- [EUDAMED registration overview](./eudamed-registration/overview.md)
+- [Labelling requirements](./labelling-advertising/labelling-requirements.md)
 
 ---
 

@@ -15,7 +15,7 @@ MedDO requires manufacturers to compile and maintain technical documentation dem
 4. **GSPR compliance documentation** — compliance matrix mapping each applicable GSPR to evidence
 5. **Risk-benefit analysis and risk management** — risk management file (ISO 14971)
 6. **Verification and validation** — pre-clinical test reports, biocompatibility, electrical safety, software validation, sterility, shelf-life
-7. **Clinical evaluation** — CER per MedDO Annex XIV — see [Clinical Evaluation Overview](../clinical-evidence/clinical-evaluation-overview)
+7. **Clinical evaluation** — CER per MedDO Annex XIV — see [Clinical Evaluation Overview](../clinical-evidence/clinical-evaluation-overview.md)
 
 ## MedDO Annex III — Post-Market Follow-Up Documentation
 - Post-market surveillance plan

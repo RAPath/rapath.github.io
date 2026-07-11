@@ -49,8 +49,8 @@ During technical review, the SFDA's evaluation team may issue one or more query 
 ## Further reading
 
 - MDS-REQ 1 — Full technical file requirements
-- [Technical Documentation Overview](../technical-documentation/technical-file-overview)
-- [GHAD Portal](./ghad-portal)
-- [SFDA Review Timelines](./review-timelines)
+- [Technical Documentation Overview](../technical-documentation/technical-file-overview.md)
+- [GHAD Portal](./ghad-portal.md)
+- [SFDA Review Timelines](./review-timelines.md)
 
 Manufacturers typically have 15–30 days to respond to query letters, depending on SFDA specifications in the query itself. Responses should be detailed, numbered to match each query point, and supported by specific data or documentation; generic or incomplete responses may result in further queries and extended review timelines. It is essential to maintain close coordination with your AR and the SFDA review team to clarify expectations early and avoid misinterpretation of technical queries.

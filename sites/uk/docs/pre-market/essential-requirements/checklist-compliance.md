@@ -125,12 +125,12 @@ The ER checklist is part of the technical file and must be maintained as a livin
 
 ## Related pages
 
-- [Essential Requirements — overview](./overview)
-- [General requirements — ER 1–6](./general-requirements)
-- [Design and construction — ER 7–17](./design-construction-requirements)
-- [IVD Essential Requirements (Schedule 1A)](./ivd-essential-requirements)
-- [Technical documentation overview](../technical-documentation/overview)
-- [UK-designated standards](./uk-designated-standards)
+- [Essential Requirements — overview](./overview.md)
+- [General requirements — ER 1–6](./general-requirements.md)
+- [Design and construction — ER 7–17](./design-construction-requirements.md)
+- [IVD Essential Requirements (Schedule 1A)](./ivd-essential-requirements.md)
+- [Technical documentation overview](../technical-documentation/overview.md)
+- [UK-designated standards](../../legislation/uk-designated-standards.md)
 
 ---
 

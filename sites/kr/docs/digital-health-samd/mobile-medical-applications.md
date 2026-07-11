@@ -29,4 +29,4 @@ MFDS regulates mobile apps as SaMD (Software as a Medical Device) when they are 
 | CBT-based digital therapeutic for insomnia with clinical claims | Yes — potentially DTx | Grade II–III |
 
 ## Related pages
-- [Software as a medical device](./software-as-a-medical-device) · [Digital therapeutics regulation](./digital-therapeutics-regulation)
+- [Software as a medical device](./software-as-a-medical-device.md) · [Digital therapeutics regulation](./digital-therapeutics-regulation.md)

@@ -16,12 +16,12 @@ The NMRA Guideline for Classification of Medical Devices in Sri Lanka sets out t
 
 Originally published as a draft in 2019, this guideline forms the basis of device classification in Sri Lanka. Available from the NMRA website → Medical Devices Regulatory Division.
 
-## Consolidated Dossier Submission Checklist — F-MDR-035
+## Consolidated Dossier Submission Process
 
-The F-MDR-035 Consolidated Dossier Submission Checklist is the mandatory format for all new medical device registration applications in Sri Lanka. It specifies precisely which documents are required, their format, and their organisation within the dossier.
+NMRA's Consolidated Dossier submission process for new medical device applications took effect **5 August 2025**. It specifies precisely which documents are required, their format, and their organisation within the dossier. Always confirm the current checklist/form version via the NMRA website (Application Forms section) as this has likely been revised since.
 
-Critical: From 2 June 2026 onwards, on or all MAHs must use the revised F-MDR-035 format. Applications submitted after this date using the old format will be rejected. Download the current version from:
-NMRA website → Application Forms tab → Medical Devices Regulatory Division → F-MDR-035
+Download the current version from:
+NMRA website → Application Forms tab → Medical Devices Regulatory Division
 
 ## Reliance Pathway Guidelines
 
@@ -64,4 +64,3 @@ Confirm the current IVD guidance document from the NMRA website.
 - Subscribe to NMRA circulars mailing list for announcements of updates
 
 Clarify the status: 'Originally published as a draft in 2019, the NMRA Guideline for Classification of Medical Devices in Sri Lanka was formally implemented and remains in effect. Check the NMRA website for any updates or revisions to ensure you are using the current version.'
-

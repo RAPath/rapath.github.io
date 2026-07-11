@@ -120,10 +120,10 @@ Late vigilance reporting is a serious regulatory non-compliance. NCAs may:
 
 ## Related pages
 
-- [What must be reported](./what-must-be-reported)
-- [Serious incidents & near-misses](./serious-incidents-near-misses)
-- [How to report — NCAs](./how-to-report-ncas)
-- [EUDAMED vigilance module](./eudamed-vigilance-module)
+- [What must be reported](./what-must-be-reported.md)
+- [Serious incidents & near-misses](./serious-incidents-near-misses.md)
+- [How to report — NCAs](./how-to-report-ncas.md)
+- [EUDAMED vigilance module](./eudamed-vigilance-module.md)
 - [When an FSCA is required](/post-market/field-safety-corrective-actions/when-fsca-required)
 
 ---

@@ -33,7 +33,7 @@ A critically important distinction in the Philippines: as of the last review (Ma
 - An **LTO (License to Operate)** is still required for entities importing or distributing IVDs
 - Monitor the **CDRRHR website and FDA Circulars** for the announcement and timeline of IVD registration implementation
 
-See [What's New](/whats-new/ivd-registration-update) for the latest on IVD registration status.
+See [What's New](https://rapath.org/whats-new) for the latest on IVD registration status.
 
 ## What Is Not a Medical Device?
 

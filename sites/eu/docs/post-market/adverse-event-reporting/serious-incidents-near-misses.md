@@ -98,7 +98,7 @@ When a potentially reportable event is identified, the manufacturer must:
 
 1. **Log and triage**: capture the event in the complaints/vigilance management system and assess urgency
 2. **Initiate preliminary assessment**: determine within 24 hours whether an immediate safety action or urgent reporting is needed
-3. **Submit initial report**: within the applicable timeframe (see [Reporting timeframes](./reporting-timeframes))
+3. **Submit initial report**: within the applicable timeframe (see [Reporting timeframes](./reporting-timeframes.md))
 4. **Conduct full investigation**: root cause analysis, device analysis (if device returned), assessment of event sequence
 5. **Submit final report**: with investigation conclusions and any corrective actions
 6. **Update PMS and risk management files**: incorporate findings
@@ -107,9 +107,9 @@ When a potentially reportable event is identified, the manufacturer must:
 
 ## Related pages
 
-- [What must be reported](./what-must-be-reported)
-- [Reporting timeframes](./reporting-timeframes)
-- [How to report — NCAs](./how-to-report-ncas)
+- [What must be reported](./what-must-be-reported.md)
+- [Reporting timeframes](./reporting-timeframes.md)
+- [How to report — NCAs](./how-to-report-ncas.md)
 - [When an FSCA is required](/post-market/field-safety-corrective-actions/when-fsca-required)
 
 ---

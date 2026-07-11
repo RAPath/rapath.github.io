@@ -101,11 +101,11 @@ PMPF data sources include:
 
 ## Related pages
 
-- [What is an IVD?](../../start-here/what-is-an-ivd)
-- [IVD classification](../classification/ivd-classification)
-- [Clinical evaluation requirements](./clinical-evaluation)
-- [Clinical investigations in the UK](./clinical-investigations)
-- [Post-market surveillance for IVDs](../../post-market/post-market-surveillance/pms-requirements-by-class)
+- [What is an IVD?](../../start-here/what-is-an-ivd.md)
+- [IVD classification](../classification/ivd-classification.md)
+- [Clinical evaluation requirements](./clinical-evaluation.md)
+- [Clinical investigations in the UK](./clinical-investigations.md)
+- [Post-market surveillance for IVDs](../../post-market/post-market-surveillance/pms-requirements-by-class.md)
 
 ---
 

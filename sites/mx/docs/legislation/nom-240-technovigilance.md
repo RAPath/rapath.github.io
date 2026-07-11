@@ -46,7 +46,7 @@ The 2024 draft introduces significant changes:
 | Administrative Guide | An administrative guide for reporting medical device incidents planned as a companion document |
 
 :::info Monitor DOF for finalisation
-As of early 2026, PROY-NOM-240-SSA1-2024 had not been formally published as a final NOM. The comment period closed September 2024. Monitor the DOF and [What's New](../resources/useful-links) for the publication date and transition provisions.
+As of early 2026, PROY-NOM-240-SSA1-2024 had not been formally published as a final NOM. The comment period closed September 2024. Monitor the DOF and [What's New](../resources/useful-links.md) for the publication date and transition provisions.
 :::
 
 ## Access the official text
@@ -56,7 +56,7 @@ As of early 2026, PROY-NOM-240-SSA1-2024 had not been formally published as a fi
 
 ## Related pages
 
-- [Technovigilance overview](../postmarket/technovigilance-overview)
-- [Adverse event reporting](../postmarket/adverse-event-reporting)
-- [MRH obligations](../mexico-registration-holder/mrh-obligations)
+- [Technovigilance overview](../postmarket/technovigilance-overview.md)
+- [Adverse event reporting](../postmarket/adverse-event-reporting.md)
+- [MRH obligations](../mexico-registration-holder/mrh-obligations.md)
 - [NOMs overview](noms-overview)

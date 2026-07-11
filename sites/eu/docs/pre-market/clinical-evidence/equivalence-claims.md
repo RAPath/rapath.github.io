@@ -127,10 +127,10 @@ The CER must include:
 
 ## Related pages
 
-- [Clinical evaluation overview](./clinical-evaluation-overview)
-- [Clinical Evaluation Report (CER)](./clinical-evaluation-report)
-- [Clinical investigations](./clinical-investigations)
-- [Using international clinical data](./using-international-clinical-data)
+- [Clinical evaluation overview](./clinical-evaluation-overview.md)
+- [Clinical Evaluation Report (CER)](./clinical-evaluation-report.md)
+- [Clinical investigations](./clinical-investigations.md)
+- [Using international clinical data](./using-international-clinical-data.md)
 
 ---
 

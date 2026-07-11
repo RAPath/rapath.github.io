@@ -100,9 +100,9 @@ Manufacturers must respond to NCA queries promptly. Response obligations are par
 
 ## Related pages
 
-- [What must be reported](./what-must-be-reported)
-- [Reporting timeframes](./reporting-timeframes)
-- [How to report — NCAs](./how-to-report-ncas)
+- [What must be reported](./what-must-be-reported.md)
+- [Reporting timeframes](./reporting-timeframes.md)
+- [How to report — NCAs](./how-to-report-ncas.md)
 - [EUDAMED registration overview](/post-market/eudamed-registration/overview)
 - [Field safety notices](/post-market/field-safety-corrective-actions/field-safety-notices)
 

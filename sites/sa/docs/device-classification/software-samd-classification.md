@@ -36,14 +36,14 @@ The SFDA is developing its approach to AI and machine learning-enabled medical d
 - Transparency and explainability requirements
 - Predetermined Change Control Plans (PCCPs) for adaptive algorithms
 
-→ [AI/ML-Enabled Devices](../digital-health/ai-ml-guidance)
+→ [AI/ML-Enabled Devices](../digital-health/ai-ml-guidance.md)
 
 ## Further reading
 
 - MDS-REQ 1 — Classification rules applied to software
 - IMDRF SaMD guidance documents
-- [Digital Health & SaMD Overview](../digital-health/samd-overview)
-- [Borderline & Combination Products](./borderline-products)
+- [Digital Health & SaMD Overview](../digital-health/samd-overview.md)
+- [Borderline & Combination Products](./borderline-products.md)
 
 Submission Timeline and Pathways
 

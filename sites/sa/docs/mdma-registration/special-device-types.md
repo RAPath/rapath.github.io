@@ -35,9 +35,9 @@ Devices **not intended for the Saudi market** but manufactured or held in KSA fo
 
 ## Further reading
 
-- [MDMA Overview](./mdma-overview)
-- [Device Classification](../device-classification/how-classification-works)
-- [Authorized Representative & MDEL](../authorized-representative/ar-overview)
+- [MDMA Overview](./mdma-overview.md)
+- [Device Classification](../device-classification/how-classification-works.md)
+- [Authorized Representative & MDEL](../authorized-representative/ar-overview.md)
 
 In vitro diagnostic devices (IVDs)
 

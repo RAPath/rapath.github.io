@@ -64,9 +64,9 @@ The EU MDR 2017/745 (applying in NI) has specific provisions on reprocessed sing
 
 ## Related pages
 
-- [Labelling requirements](../../post-market/labelling-advertising/labelling-requirements)
-- [Systems & procedure packs](./systems-procedure-packs)
-- [Custom-made devices](./custom-made-devices)
+- [Labelling requirements](../../post-market/labelling-advertising/labelling-requirements.md)
+- [Systems & procedure packs](./systems-procedure-packs.md)
+- [Custom-made devices](./custom-made-devices.md)
 
 ---
 

@@ -104,10 +104,10 @@ Full information is submitted in the **final report** after investigation is com
 
 ## Related pages
 
-- [Serious incidents & near-misses](./serious-incidents-near-misses)
-- [Reporting timeframes](./reporting-timeframes)
-- [How to report — NCAs](./how-to-report-ncas)
-- [EUDAMED vigilance module](./eudamed-vigilance-module)
+- [Serious incidents & near-misses](./serious-incidents-near-misses.md)
+- [Reporting timeframes](./reporting-timeframes.md)
+- [How to report — NCAs](./how-to-report-ncas.md)
+- [EUDAMED vigilance module](./eudamed-vigilance-module.md)
 - [Trend reporting](./trend-reporting)
 - [When an FSCA is required](/post-market/field-safety-corrective-actions/when-fsca-required)
 

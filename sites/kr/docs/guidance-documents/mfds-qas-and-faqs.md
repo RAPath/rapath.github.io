@@ -23,4 +23,4 @@ Submit pre-consultation requests via the MFDS eSubmission portal (의료기기 �
 Q&A documents represent **MFDS's current interpretation** of the regulations. Referencing a relevant Q&A in a submission can strengthen a regulatory position.
 
 ## Related pages
-- [eSubmission system](../pre-market/marketing-authorization/esubmission-system) · [All MFDS guidance](./all-mfds-guidance)
+- [eSubmission system](../pre-market/marketing-authorization/esubmission-system.md) · [All MFDS guidance](./all-mfds-guidance.md)

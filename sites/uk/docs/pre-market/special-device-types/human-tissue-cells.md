@@ -73,9 +73,9 @@ This traceability is required to enable rapid notification and investigation in 
 
 ## Related pages
 
-- [Classification rules — Rule 8 and Rule 17](../classification/classification-rules)
-- [Devices incorporating a medicinal substance](./devices-incorporating-medicine)
-- [Borderline & combination products](../classification/borderline-combination-products)
+- [Classification rules — Rule 8 and Rule 17](../classification/classification-rules.md)
+- [Devices incorporating a medicinal substance](./devices-incorporating-medicine.md)
+- [Borderline & combination products](../classification/borderline-combination-products.md)
 
 ---
 

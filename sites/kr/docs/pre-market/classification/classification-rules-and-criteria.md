@@ -25,6 +25,6 @@ Submit a **product classification inquiry (분류 민원)** via the MFDS eSubmis
 
 ## Software, accessories, and combination products
 
-- **SaMD**: classified by intended function and risk — see [SaMD classification](./samd-classification)
+- **SaMD**: classified by intended function and risk — see [SaMD classification](./samd-classification.md)
 - **Accessories**: classified independently from the parent device
-- **Combination products**: MFDS determines which Act governs — see [Combination products](./combination-products)
+- **Combination products**: MFDS determines which Act governs — see [Combination products](./combination-products.md)

@@ -121,16 +121,16 @@ Before concluding a product is a medical device, work through these questions:
 1. **Is there an intended purpose?** Has the manufacturer made claims — in labelling, marketing, or documentation — that suggest a medical purpose?
 2. **Is the intended user human?** Veterinary devices are excluded from MDR scope (governed by separate legislation).
 3. **What is the principal mode of action?** If pharmacological/immunological/metabolic, it may be a medicinal product.
-4. **Is it an IVD?** If the product is used in vitro to examine specimens from the human body, consider IVDR first. See [MDR vs IVDR — which applies?](./mdr-vs-ivdr).
+4. **Is it an IVD?** If the product is used in vitro to examine specimens from the human body, consider IVDR first. See [MDR vs IVDR — which applies?](./mdr-vs-ivdr.md).
 5. **Is it an Annex XVI product?** Even without a medical purpose, some cosmetic/aesthetic devices fall under MDR.
 
 ---
 
 ## Related pages
 
-- [What is an IVD?](./what-is-an-ivd) — IVDR equivalent definition
-- [What is not a medical device?](./what-is-not-a-medical-device) — borderlines and exclusions
-- [MDR vs IVDR — which applies?](./mdr-vs-ivdr)
+- [What is an IVD?](./what-is-an-ivd.md) — IVDR equivalent definition
+- [What is not a medical device?](./what-is-not-a-medical-device.md) — borderlines and exclusions
+- [MDR vs IVDR — which applies?](./mdr-vs-ivdr.md)
 - [Software & SaMD classification](/pre-market/special-device-types/software-samd)
 - [Devices incorporating a medicinal substance](/pre-market/special-device-types/devices-incorporating-medicine)
 

@@ -29,4 +29,4 @@ sidebar_position: 6
 - In serious cases, suspension of the 품목허가
 
 ## Related pages
-- [Advertising and promotional claims](./advertising-and-promotional-claims)
+- [Advertising and promotional claims](./advertising-and-promotional-claims.md)

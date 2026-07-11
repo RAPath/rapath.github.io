@@ -24,7 +24,7 @@ sidebar_position: 6
 | Criminal violation | Case referred for prosecution |
 
 ## Related pages
-- [Responding to inspection findings](./responding-to-inspection-findings) · [Enforcement — administrative actions](../enforcement-compliance/administrative-actions)
+- [Responding to inspection findings](./responding-to-inspection-findings.md) · [Enforcement — administrative actions](../enforcement-compliance/administrative-actions.md)
 
 ## Administrative actions after inspection
 

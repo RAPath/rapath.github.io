@@ -89,8 +89,8 @@ MDCG 2020-10 is listed twice in the guidance index with conflicting subjects. Ve
 
 ## Related pages
 
-- [MDCG guidance by topic](./mdcg-guidance)
-- [MEDDEV guidance index](./meddev-guidance-index)
+- [MDCG guidance by topic](./mdcg-guidance.md)
+- [MEDDEV guidance index](./meddev-guidance-index.md)
 - [Forms & application links](./forms-application-links)
 
 MDCG 2020-10 is listed in the guidance index as addressing 'Electromagnetic compatibility and safety' for active devices. Verify this is the correct and sole classification for this document across all site pages.

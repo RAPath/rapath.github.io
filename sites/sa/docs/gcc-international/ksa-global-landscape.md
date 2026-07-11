@@ -55,10 +55,10 @@ For many manufacturers, Saudi Arabia is the **entry point to the MENA market**. 
 
 ## Further reading
 
-- [GCC Harmonisation](./gcc-harmonization)
-- [IMDRF Membership](./imdrf-membership)
-- [SFDA vs Other Regulators](./sfda-vs-regulators)
-- [Saudi Vision 2030](../getting-started/vision-2030)
+- [GCC Harmonisation](./gcc-harmonization.md)
+- [IMDRF Membership](./imdrf-membership.md)
+- [SFDA vs Other Regulators](./sfda-vs-regulators.md)
+- [Saudi Vision 2030](../getting-started/vision-2030.md)
 
 SFDA Recognition of Foreign Approvals
 

@@ -185,12 +185,12 @@ The UKAB must specifically assess **analytical and clinical performance data** f
 
 ## Related pages
 
-- [Conformity assessment — overview](./overview)
-- [Class I self-declaration pathway](./class-i-self-declaration)
-- [UK declaration of conformity](./uk-declaration-of-conformity)
-- [UKCA marking requirements](./ukca-marking)
-- [UK Approved Bodies](../../approved-bodies/what-are-approved-bodies)
-- [Technical documentation overview](../technical-documentation/overview)
+- [Conformity assessment — overview](./overview.md)
+- [Class I self-declaration pathway](./class-i-self-declaration.md)
+- [UK declaration of conformity](./uk-declaration-of-conformity.md)
+- [UKCA marking requirements](./ukca-marking.md)
+- [UK Approved Bodies](../../approved-bodies/what-are-approved-bodies.md)
+- [Technical documentation overview](../technical-documentation/overview.md)
 
 ---
 

@@ -73,9 +73,9 @@ For manufacturers with EU MDR certification, the clinical evaluation package dev
 
 ## Related pages
 
-- [Clinical evaluation requirements](./clinical-evaluation)
-- [Clinical investigations in the UK](./clinical-investigations)
-- [Performance evaluation for IVDs](./performance-evaluation)
+- [Clinical evaluation requirements](./clinical-evaluation.md)
+- [Clinical investigations in the UK](./clinical-investigations.md)
+- [Performance evaluation for IVDs](./performance-evaluation.md)
 
 ---
 

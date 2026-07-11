@@ -70,11 +70,11 @@ Changes to the device, labelling, manufacturer, or MRH must be notified to or ap
 
 ## Related pages
 
-- [How classification works](../device-classification/how-classification-works)
-- [Standard Route](../premarket/standard-route)
-- [Equivalency Route](../premarket/equivalency-route)
-- [Technovigilance overview](../postmarket/technovigilance-overview)
-- [Registration renewal](../postmarket/registration-renewal)
+- [How classification works](../device-classification/how-classification-works.md)
+- [Standard Route](../premarket/standard-route.md)
+- [Equivalency Route](../premarket/equivalency-route.md)
+- [Technovigilance overview](../postmarket/technovigilance-overview.md)
+- [Registration renewal](../postmarket/registration-renewal.md)
 
 Devices listed in Annex 2 of the July 2025 classification decree are entirely exempt from sanitary registration. Devices listed in Annex 3 are not classified as health supplies and do not require registration or import permits. Only devices classified in Class I (non-exempt), Class II, or Class III require a sanitary registration.
 

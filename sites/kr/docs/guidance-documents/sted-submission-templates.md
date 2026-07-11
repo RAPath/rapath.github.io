@@ -22,4 +22,4 @@ Templates available at:
 - **MFDS website:** [mfds.go.kr](https://www.mfds.go.kr) → legal/regulatory resources
 
 ## Related pages
-- [Application contents and STED](../pre-market/marketing-authorization/application-contents-and-sted) · [eSubmission system](../pre-market/marketing-authorization/esubmission-system)
+- [Application contents and STED](../pre-market/marketing-authorization/application-contents-and-sted.md) · [eSubmission system](../pre-market/marketing-authorization/esubmission-system.md)

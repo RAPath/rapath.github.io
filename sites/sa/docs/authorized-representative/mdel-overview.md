@@ -56,9 +56,9 @@ MDEL holders involved in storage and distribution must comply with SFDA requirem
 ## Further reading
 
 - MDS-REQ 6 — MDEL requirements
-- [AR Overview](./ar-overview)
-- [MDIL — Medical Device Importing License](./mdil)
-- [GHAD Portal](../mdma-registration/ghad-portal)
+- [AR Overview](./ar-overview.md)
+- [MDIL — Medical Device Importing License](./mdil.md)
+- [GHAD Portal](../mdma-registration/ghad-portal.md)
 
 AR License Renewal Process: The AR must submit a renewal application via GHAD at least 30 days before the current license expires. Required documentation typically includes updated company information, current ISO 13485 QMS certificate, and evidence of ongoing regulatory compliance. An AR whose license lapses cannot legally hold or maintain MDMA certificates. Devices marketed under an expired AR license lose regulatory authorization — this is treated as a serious regulatory violation and may trigger enforcement action by the SFDA.
 

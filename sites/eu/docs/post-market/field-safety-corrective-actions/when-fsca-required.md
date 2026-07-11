@@ -108,9 +108,9 @@ After an FSCA is implemented, the manufacturer must verify its effectiveness:
 
 ## Related pages
 
-- [Field safety notices](./field-safety-notices)
-- [Recall classifications & coordination](./recalls-classification-coordination)
-- [Competent authority-initiated actions](./competent-authority-actions)
+- [Field safety notices](./field-safety-notices.md)
+- [Recall classifications & coordination](./recalls-classification-coordination.md)
+- [Competent authority-initiated actions](./competent-authority-actions.md)
 - [What must be reported](/post-market/adverse-event-reporting/what-must-be-reported)
 - [Reporting timeframes](/post-market/adverse-event-reporting/reporting-timeframes)
 

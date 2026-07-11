@@ -112,11 +112,11 @@ MHRA takes registration compliance seriously and conducts market surveillance to
 
 ## Related pages
 
-- [Registration via the MHRA Submissions portal](./mhra-submissions-portal)
+- [Registration via the MHRA Submissions portal](./mhra-submissions-portal.md)
 - [UKRP registration obligations](./ukrp-registration)
-- [Device-level registration requirements](./device-registration)
-- [UDI — Unique Device Identification](./udi)
-- [Who needs to comply?](../../start-here/who-needs-to-comply)
+- [Device-level registration requirements](./device-registration.md)
+- [UDI — Unique Device Identification](./udi.md)
+- [Who needs to comply?](../../start-here/who-needs-to-comply.md)
 
 ---
 

@@ -44,7 +44,7 @@ High-sensitivity molecular tests — particularly those for communicable disease
 Multi-parameter analysers (e.g. haematology analysers, blood gas analysers) are classified based on the **highest risk application** they are intended to perform.
 
 ### AI/ML-Enhanced IVDs
-Artificial intelligence or machine learning components used to assist diagnostic interpretation are classified based on the underlying clinical use. See [IVD Digital Platforms](../digital-health/ivd-digital) for additional considerations.
+Artificial intelligence or machine learning components used to assist diagnostic interpretation are classified based on the underlying clinical use. See [IVD Digital Platforms](../digital-health/ivd-digital.md) for additional considerations.
 
 ---
 

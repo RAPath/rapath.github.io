@@ -60,7 +60,7 @@ The UK MDR 2002 was substantially amended by **SI 2019/791** (Medical Devices (A
 - Established MHRA as the sole competent authority for GB
 - Preserved the Northern Ireland Protocol provisions (now updated by the Windsor Framework)
 
-Subsequent statutory instruments have further amended the Regulations — principally to extend transitional arrangements for CE marking and MHRA registration. A tracker of amending instruments is in [Post-Brexit amending instruments](./post-brexit-amending-instruments).
+Subsequent statutory instruments have further amended the Regulations — principally to extend transitional arrangements for CE marking and MHRA registration. A tracker of amending instruments is in [Post-Brexit amending instruments](./post-brexit-amending-instruments.md).
 
 ---
 
@@ -74,6 +74,16 @@ The [Medical Devices Act 2021](https://www.legislation.gov.uk/ukpga/2021/26/cont
 
 This Act is the legal basis for MHRA's ongoing reform programme and for the various transitional deadline extensions announced since 2021.
 
+### Draft Medical Devices (Amendment) Regulations 2026
+
+MHRA published the draft **Medical Devices (Amendment) Regulations 2026** on approximately **8 May 2026**. Key features of the draft reform include:
+- An **International Reliance route** allowing reliance on approvals from the US, Canada, and Australia
+- Revised classification rules
+- Mandatory UDI and implant cards
+- A **PCCP (Predetermined Change Control Plan) pathway** for software as a medical device
+
+Public consultation on the draft closed **19 June 2026**. Adoption is anticipated around **December 2026**, with the Regulations expected to come into force around **June 2027**.
+
 ---
 
 ## How to navigate the UK MDR 2002
@@ -82,26 +92,12 @@ The current, consolidated text of the UK MDR 2002 — incorporating all amendmen
 
 [legislation.gov.uk/uksi/2002/618/contents/made](https://www.legislation.gov.uk/uksi/2002/618/contents/made)
 
-Use the "Revised" version to see the text as currently in force. See [How to read UK legislation](./how-to-read-uk-legislation) for a guide to using legislation.gov.uk.
+Use the "Revised" version to see the text as currently in force. See [How to read UK legislation](./how-to-read-uk-legislation.md) for a guide to using legislation.gov.uk.
 
 ---
 
 ## Related pages
 
-- [Schedule 1 — Essential Requirements](./schedule-1-essential-requirements)
-- [Schedule 2 — Classification rules](./schedule-2-classification-rules)
-- [Schedule 3 — Conformity assessment](./schedule-3-conformity-assessment)
-- [Post-Brexit amending instruments](./post-brexit-amending-instruments)
-- [UK-designated standards](./uk-designated-standards)
-- [How to read UK legislation](./how-to-read-uk-legislation)
-
----
-
-## Official references
-
-| Reference | Description |
-|---|---|
-| [UK MDR 2002](https://www.legislation.gov.uk/uksi/2002/618/contents/made) | Full consolidated text |
-| [SI 2019/791](https://www.legislation.gov.uk/uksi/2019/791/contents/made) | Primary post-Brexit amending instrument |
-| [Medical Devices Act 2021](https://www.legislation.gov.uk/ukpga/2021/26/contents/enacted) | Enabling powers for reform |
-
+- [Schedule 1 — Essential Requirements](./schedule-1-essential-requirements.md)
+- [Schedule 2 — Classification rules](./schedule-2-classification-rules.md)
+- [Schedule 3 — Conformity assessm

@@ -155,10 +155,10 @@ Labels and IFU must be in the **official language(s) of the member state(s)** wh
 
 ## Related pages
 
-- [GSPR overview — Annex I](./gspr-overview)
-- [Chapter I — General requirements](./chapter-i-general-requirements)
-- [Chapter II — Design & construction](./chapter-ii-design-construction)
-- [GSPR checklist](./gspr-checklist)
+- [GSPR overview — Annex I](./gspr-overview.md)
+- [Chapter I — General requirements](./chapter-i-general-requirements.md)
+- [Chapter II — Design & construction](./chapter-ii-design-construction.md)
+- [GSPR checklist](./gspr-checklist.md)
 - [Labelling requirements](/post-market/labelling-advertising/labelling-requirements)
 - [UDI — labelling requirements](/pre-market/udi-system/udi-labelling-requirements)
 

@@ -44,4 +44,4 @@ The LGS is amended through regular legislative activity. Major recent amendments
 
 - [Reglamento de Insumos para la Salud](reglamento-insumos-salud)
 - [NOMs overview](noms-overview)
-- [Regulatory framework overview](../getting-started/regulatory-framework-overview)
+- [Regulatory framework overview](../getting-started/regulatory-framework-overview.md)

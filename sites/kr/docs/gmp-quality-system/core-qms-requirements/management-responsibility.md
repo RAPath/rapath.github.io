@@ -23,7 +23,7 @@ MFDS inspectors will review:
 - Evidence that quality objectives are monitored and achieved
 
 ## Related pages
-- [KGMP overview](../overview-kgmp) · [GMP Standards Notification](../../legislation/mfds-notifications/gmp-standards-notification)
+- [KGMP overview](../overview-kgmp.md) · [GMP Standards Notification](../../legislation/mfds-notifications/gmp-standards-notification.md)
 
 MFDS expects management review meetings to be conducted at least annually. Documentation must include attendance records, agenda items, action items, and evidence of closure verification, all maintained in quality records.
 

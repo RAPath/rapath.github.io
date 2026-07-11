@@ -28,7 +28,7 @@ Submit a **Innovative Medical Device Designation Application** via the MFDS eSub
 - Clinical rationale and unmet need statement
 
 ## Related pages
-- [Conditional marketing authorization](./conditional-marketing-authorization) · [Fast-track review program](./fast-track-review-program)
+- [Conditional marketing authorization](./conditional-marketing-authorization.md) · [Fast-track review program](./fast-track-review-program.md)
 
 Designation decision and appeal
 ​

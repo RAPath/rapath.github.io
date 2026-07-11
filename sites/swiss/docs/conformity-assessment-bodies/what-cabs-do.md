@@ -19,7 +19,7 @@ Type Examination (Annex X)
 NB examines a representative sample (design documentation + physical testing). Issues an EU Type Examination Certificate.
 
 SSCP Validation
-For Class III, Class IIb implantable devices, and implantable IVDs: NB validates the Summary of Safety and Clinical Performance as part of conformity assessment. See [SSCP](../pre-market/technical-documentation/sscp).
+For Class III, Class IIb implantable devices, and implantable IVDs: NB validates the Summary of Safety and Clinical Performance as part of conformity assessment. See [SSCP](../pre-market/technical-documentation/sscp.md).
 
 Unannounced Audits
 EU MDR/IVDR requires at least one unannounced audit per manufacturer per 5-year certificate period. The manufacturer cannot refuse entry. Unannounced audits focus on production processes and CAPA implementation.

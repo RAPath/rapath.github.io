@@ -26,7 +26,7 @@ MedDO Annex VIII Part II contains 22 rules organised by device type:
 - **Rules 9–13**: Active devices
 - **Rules 14–22**: Special rules (software, nanomaterials, combination devices, spinal, etc.)
 
-See [MedDO Classification Rules 1–22](./medo-classification-rules) for full detail on each rule.
+See [MedDO Classification Rules 1–22](./medo-classification-rules.md) for full detail on each rule.
 
 ## The Highest-Class Rule
 If multiple rules yield different classes, the device is assigned to the **highest class**. This prevents under-classification of multi-function devices.

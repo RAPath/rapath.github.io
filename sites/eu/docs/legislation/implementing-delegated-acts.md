@@ -129,7 +129,7 @@ Always check the **current harmonised standards list** in the OJ before relying 
 
 ## How to read EU legislation
 
-→ See [How to read EU legislation](./how-to-read-eu-legislation)
+→ See [How to read EU legislation](./how-to-read-eu-legislation.md)
 
 ---
 

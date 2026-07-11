@@ -36,7 +36,7 @@ The SFDA publishes a list of currently accredited CABs on the SFDA website (medi
 ## Further reading
 
 - MDS-REQ 3 — QMS requirements
-- [ISO 13485 Overview](./iso-13485-overview)
-- [Inspections and Audits](./inspections-audits)
+- [ISO 13485 Overview](./iso-13485-overview.md)
+- [Inspections and Audits](./inspections-audits.md)
 
 Verifying CAB accreditation scope: Before selecting a CAB, confirm that their accreditation scope explicitly covers your device type and classification level. Request a copy of the CAB's accreditation certificate or scope document from the SFDA. If your device type is not listed in the CAB's scope, the SFDA may not accept their certification for MDMA purposes.

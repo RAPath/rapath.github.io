@@ -25,7 +25,7 @@ Risk grade determined by two factors:
 
 ## AI/ML devices
 
-Follow the same SaMD classification logic with additional requirements for algorithm transparency and post-market monitoring. See [AI/ML-based medical devices](../special-device-types/ai-ml-medical-devices).
+Follow the same SaMD classification logic with additional requirements for algorithm transparency and post-market monitoring. See [AI/ML-based medical devices](../special-device-types/ai-ml-medical-devices.md).
 
 ## Relevant legislation
 - Medical Devices Act, Article 2

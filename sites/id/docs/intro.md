@@ -128,19 +128,19 @@ If you're registering a **medical device**, your primary regulator is **Kemenkes
 
 | Section | What It Covers |
 |---|---|
-| [Overview](./overview/what-is-a-medical-device) | Device definition, regulatory landscape, key legislation |
-| [Regulatory Authority](./regulatory-authority/kemenkes) | Kemenkes, BPOM/NADFC, Directorate of Medical Devices |
-| [Device Classification](./device-classification/classification-system) | Class A–D risk-based system, IVD classification |
-| [Market Access — NIE](./market-access/nie-registration) | NIE registration, IDAK, CDAKB, pathways, timelines |
-| [Local Representation](./local-representation/local-authorized-representative) | LAR, PT PMA, neutral licence holder, LoA |
-| [Regalkes Portal](./regalkes-portal/regalkes-overview) | Online registration system, submission steps |
-| [Technical Dossier](./technical-dossier/asean-csdt) | ASEAN CSDT, administrative and technical documents |
-| [Labeling](./labeling/labeling-requirements) | Bahasa Indonesia rules, Halal labeling, e-labeling |
-| [Post-Market Surveillance](./post-market-surveillance/pms-overview) | Adverse events, NIE renewal, change notifications |
-| [Special Access](./special-access/emergency-use-authorization) | Emergency use, compassionate use, research imports |
-| [Digital Health & SaMD](./digital-health/samd-overview) | Software as a Medical Device, connected devices |
-| [ASEAN Harmonisation](./asean-harmonisation/amdd-overview) | AMDD, CSDT alignment, mutual recognition |
-| [Resources](./resources/glossary) | Glossary, key regulations, useful links |
+| [Overview](./overview/what-is-a-medical-device.md) | Device definition, regulatory landscape, key legislation |
+| [Regulatory Authority](./regulatory-authority/kemenkes.md) | Kemenkes, BPOM/NADFC, Directorate of Medical Devices |
+| [Device Classification](./device-classification/classification-system.md) | Class A–D risk-based system, IVD classification |
+| [Market Access — NIE](./market-access/nie-registration.md) | NIE registration, IDAK, CDAKB, pathways, timelines |
+| [Local Representation](./local-representation/local-authorized-representative.md) | LAR, PT PMA, neutral licence holder, LoA |
+| [Regalkes Portal](./regalkes-portal/regalkes-overview.md) | Online registration system, submission steps |
+| [Technical Dossier](./technical-dossier/asean-csdt.md) | ASEAN CSDT, administrative and technical documents |
+| [Labeling](./labeling/labeling-requirements.md) | Bahasa Indonesia rules, Halal labeling, e-labeling |
+| [Post-Market Surveillance](./post-market-surveillance/pms-overview.md) | Adverse events, NIE renewal, change notifications |
+| [Special Access](./special-access/emergency-use-authorization.md) | Emergency use, compassionate use, research imports |
+| [Digital Health & SaMD](./digital-health/samd-overview.md) | Software as a Medical Device, connected devices |
+| [ASEAN Harmonisation](./asean-harmonisation/amdd-overview.md) | AMDD, CSDT alignment, mutual recognition |
+| [Resources](./resources/glossary.md) | Glossary, key regulations, useful links |
 
 ---
 
@@ -165,13 +165,13 @@ If you're registering a **medical device**, your primary regulator is **Kemenkes
 ## Quick Navigation by Role
 
 **If you are a foreign manufacturer:**
-Start with [Local Representation](./local-representation/local-authorized-representative) → then [Market Access — NIE](./market-access/nie-registration) → then [Technical Dossier](./technical-dossier/asean-csdt).
+Start with [Local Representation](./local-representation/local-authorized-representative.md) → then [Market Access — NIE](./market-access/nie-registration.md) → then [Technical Dossier](./technical-dossier/asean-csdt.md).
 
 **If you are an Indonesian distributor or LAR:**
-Start with [Market Access — NIE](./market-access/nie-registration) → [Regalkes Portal](./regalkes-portal/regalkes-overview) → [Post-Market Surveillance](./post-market-surveillance/pms-overview).
+Start with [Market Access — NIE](./market-access/nie-registration.md) → [Regalkes Portal](./regalkes-portal/regalkes-overview.md) → [Post-Market Surveillance](./post-market-surveillance/pms-overview.md).
 
 **If you are classifying a device:**
-Start with [Device Classification](./device-classification/classification-system).
+Start with [Device Classification](./device-classification/classification-system.md).
 
 ---
 

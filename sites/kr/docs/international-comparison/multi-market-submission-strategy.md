@@ -35,7 +35,7 @@ Korean MFDS generally accepts FDA or CE clinical data with appropriate Korean su
 - **MFDS-recognised lab testing** — if not already done using IEC/KS standards
 
 ## Related pages
-- [Application contents and STED](../pre-market/marketing-authorization/application-contents-and-sted) · [Using foreign clinical data](../pre-market/clinical-evidence/using-foreign-clinical-data)
+- [Application contents and STED](../pre-market/marketing-authorization/application-contents-and-sted.md) · [Using foreign clinical data](../pre-market/clinical-evidence/using-foreign-clinical-data.md)
 
 ## Korea-specific items to plan for
 

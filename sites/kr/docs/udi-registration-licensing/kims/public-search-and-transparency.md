@@ -23,4 +23,4 @@ The KIMS database is publicly accessible at [udiportal.mfds.go.kr](https://udipo
 - **MFDS** — conduct targeted market surveillance using product traceability data
 
 ## Related pages
-- [What is KIMS?](./what-is-kims) · [UDI-K overview](../udi-k/udi-k-overview)
+- [What is KIMS?](./what-is-kims.md) · [UDI-K overview](../udi-k/udi-k-overview.md)

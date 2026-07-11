@@ -19,7 +19,7 @@ Under MedDO Art. 4, a manufacturer is any person who makes a device available un
 **Post-Market** — Active PMS, vigilance reporting to Swissmedic via eVigilance, FSCA implementation and notification.
 
 ## Non-Swiss Manufacturers
-Must appoint a **CH REP** before placing devices on the Swiss market. See [CH REP](./ch-reps).
+Must appoint a **CH REP** before placing devices on the Swiss market. See [CH REP](./ch-reps.md).
 
 
 Quality Management System — Class IIa and above require ISO 13485 QMS certification. Additionally, implantable Class I devices also require a QMS conforming to ISO 13485, even though non-implantable Class I devices do not.

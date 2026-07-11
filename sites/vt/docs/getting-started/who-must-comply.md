@@ -22,7 +22,7 @@ Domestic manufacturers must:
 
 Foreign manufacturers cannot deal directly with DAV in most cases. They must appoint a **Vietnamese Authorised Representative** (Đơn vị bảo lãnh) to act on their behalf for all regulatory submissions. The authorised representative is jointly responsible for the device's regulatory compliance in Vietnam.
 
-For details see [Authorised Representative](../import-customs-distribution/authorised-representative).
+For details see [Authorised Representative](../import-customs-distribution/authorised-representative.md).
 
 ## Importers
 
@@ -49,9 +49,9 @@ Hospitals and clinics that purchase and use medical devices have obligations inc
 - Maintaining records of devices in use
 
 :::note Procurement law link
-For devices procured through public hospital tenders, having a valid marketing authorisation or declaration is a **prerequisite** for eligibility. See [Procurement & Tendering Law](../legislation/procurement-law) for details.
+For devices procured through public hospital tenders, having a valid marketing authorisation or declaration is a **prerequisite** for eligibility. See [Procurement & Tendering Law](../legislation/procurement-law.md) for details.
 :::
 
 ## Penalties for non-compliance
 
-Non-compliance can result in administrative fines, suspension of import rights, revocation of registration, and in serious cases criminal liability. See [Enforcement & Compliance](../legislation/penalties-enforcement).
+Non-compliance can result in administrative fines, suspension of import rights, revocation of registration, and in serious cases criminal liability. See [Enforcement & Compliance](../legislation/penalties-enforcement.md).

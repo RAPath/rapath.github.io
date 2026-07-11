@@ -19,12 +19,12 @@ The full legislative stack governing medical devices in Japan — from the PMD A
 
 ## In this section
 
-- [PMD Act — Key Articles](./pmd-act-key-articles)
-- [2014 Amendments Overview](./amendments-2014)
-- [2019 and 2023 Amendments](./amendments-2019-2023)
-- [Ministerial Ordinances](./ministerial-ordinances/mo-169-qms-ordinance) — MO 169, Labelling, Advertising, GCP
-- [Cabinet Orders](./cabinet-orders/cabinet-order-device-categories)
-- [MHLW Notifications](./mhlw-notifications/key-notifications-index)
-- [How to Read Japanese Legislation](./how-to-read-japanese-legislation)
-- [JMDN — Nomenclature and Device Codes](./jmdn-nomenclature-codes)
-- [Recent Amendments and Effective Dates](./recent-amendments)
+- [PMD Act — Key Articles](./pmd-act-key-articles.md)
+- [2014 Amendments Overview](./amendments-2014.md)
+- [2019 and 2023 Amendments](./amendments-2019-2023.md)
+- [Ministerial Ordinances](./ministerial-ordinances/mo-169-qms-ordinance.md) — MO 169, Labelling, Advertising, GCP
+- [Cabinet Orders](./cabinet-orders/cabinet-order-device-categories.md)
+- [MHLW Notifications](./mhlw-notifications/key-notifications-index.md)
+- [How to Read Japanese Legislation](./how-to-read-japanese-legislation.md)
+- [JMDN — Nomenclature and Device Codes](./jmdn-nomenclature-codes.md)
+- [Recent Amendments and Effective Dates](./recent-amendments.md)

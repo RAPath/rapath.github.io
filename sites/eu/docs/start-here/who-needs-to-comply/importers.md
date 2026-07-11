@@ -135,10 +135,10 @@ This is a crucial compliance boundary — importers who add their own branding, 
 
 ## Related pages
 
-- [Who needs to comply?](../who-needs-to-comply)
-- [Manufacturers](./manufacturers)
-- [Authorised representatives (EU REPs)](./authorised-representatives)
-- [Distributors](./distributors)
+- [Who needs to comply?](../who-needs-to-comply.md)
+- [Manufacturers](./manufacturers.md)
+- [Authorised representatives (EU REPs)](./authorised-representatives.md)
+- [Distributors](./distributors.md)
 - [EUDAMED registration](/post-market/eudamed-registration)
 
 ---

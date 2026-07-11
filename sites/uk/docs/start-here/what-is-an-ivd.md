@@ -119,7 +119,7 @@ A critical point for manufacturers with both GB and EU market access:
 
 These systems are **not equivalent**. Many IVDs that were previously "General" under the IVDD (and remain General under UK Part III) have been upclassified to Class B or Class C under the EU IVDR. Manufacturers operating in both markets must satisfy both classification determinations independently.
 
-For Northern Ireland specifically, EU IVDR 2017/746 applies — not UK MDR 2002 Part III. See [Great Britain vs Northern Ireland](./great-britain-vs-northern-ireland).
+For Northern Ireland specifically, EU IVDR 2017/746 applies — not UK MDR 2002 Part III. See [Great Britain vs Northern Ireland](./great-britain-vs-northern-ireland.md).
 
 ---
 
@@ -149,11 +149,11 @@ Intended purpose and labelling again determine regulatory status.
 
 ## Related pages
 
-- [What is a medical device?](./what-is-a-medical-device) — general medical device definition
-- [What is not a medical device?](./what-is-not-a-medical-device) — exclusions and borderlines
-- [Great Britain vs Northern Ireland](./great-britain-vs-northern-ireland) — EU IVDR applies in NI; UK MDR Part III applies in GB
-- [IVD classification — List A · List B · Self-test · General](../pre-market/classification/ivd-classification)
-- [Performance evaluation for IVDs](../pre-market/clinical-evidence/performance-evaluation)
+- [What is a medical device?](./what-is-a-medical-device.md) — general medical device definition
+- [What is not a medical device?](./what-is-not-a-medical-device.md) — exclusions and borderlines
+- [Great Britain vs Northern Ireland](./great-britain-vs-northern-ireland.md) — EU IVDR applies in NI; UK MDR Part III applies in GB
+- [IVD classification — List A · List B · Self-test · General](../pre-market/classification/ivd-classification.md)
+- [Performance evaluation for IVDs](../pre-market/clinical-evidence/performance-evaluation.md)
 
 ---
 

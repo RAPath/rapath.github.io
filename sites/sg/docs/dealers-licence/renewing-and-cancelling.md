@@ -25,12 +25,10 @@ Renewal applications should be submitted **well in advance** of the expiry date 
 
 If a company ceases to deal in medical devices in Singapore, or ceases the specific regulated activities covered by a licence, it should apply to cancel the licence through SHARE:
 
-[hsa.gov.sg/medical-devices/dealers-licence/renew](https://www.hsa.gov.sg/medical-devices/dealers-licence/renew)
+[hsa.gov.sg/medical-devices/dealers-licence/renew-or-cancel](https://www.hsa.gov.sg/medical-devices/dealers-licence/renew-or-cancel)
 
 Before cancellation, ensure all post-market obligations (adverse event reporting, outstanding FSCAs) are resolved and that devices already in the supply chain are properly managed.
 
 ## Official sources
 
-- [HSA: Renew or cancel a dealer's licence](https://www.hsa.gov.sg/medical-devices/dealers-licence/renew)
-
-Change 'hsa.gov.sg/medical-devices/dealers-licence/renew' to 'hsa.gov.sg/medical-devices/dealers-licence/renew-or-cancel' in the 'Cancelling a dealer's licence' section.
+- [HSA: Renew or cancel a dealer's licence](https://www.hsa.gov.sg/medical-devices/dealers-licence/renew-or-cancel)

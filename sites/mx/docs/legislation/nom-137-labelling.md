@@ -43,7 +43,7 @@ A draft revision was published for public comment in 2024. Expected changes incl
 - Updated provisions for **IVD labelling** consistent with international practice.
 
 :::info Monitor DOF for publication
-As of early 2026, NOM-137-SSA1-2024 had not been formally published. Monitor the DOF and [What's New](../resources/useful-links) for the finalisation date and any transition period.
+As of early 2026, NOM-137-SSA1-2024 had not been formally published. Monitor the DOF and [What's New](../resources/useful-links.md) for the finalisation date and any transition period.
 :::
 
 ## Access the official text
@@ -54,8 +54,8 @@ Available through:
 
 ## Related pages
 
-- [Labelling — NOM-137 (post-market section)](../postmarket/labelling-nom-137)
-- [Technical dossier requirements](../premarket/technical-dossier)
+- [Labelling — NOM-137 (post-market section)](../postmarket/labelling-nom-137.md)
+- [Technical dossier requirements](../premarket/technical-dossier.md)
 - [NOMs overview](noms-overview)
 
 Transition guidance (when PROY-NOM-137-SSA1-2024 is published as final):

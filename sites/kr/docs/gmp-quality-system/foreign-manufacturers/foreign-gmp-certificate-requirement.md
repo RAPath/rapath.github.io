@@ -29,7 +29,7 @@ MFDS recognises **ISO 13485 certificates** from IAF certification bodies holding
 | Certainty | High | Depends on certificate scope matching |
 
 ## Related pages
-- [Recognised foreign GMP certificates](./recognised-foreign-gmp-certificates) · [MFDS overseas inspection program](./mfds-overseas-inspection-program) · [Korean agent obligations](../../udi-registration-licensing/business-licensing/korean-agent-obligations)
+- [Recognised foreign GMP certificates](./recognised-foreign-gmp-certificates.md) · [MFDS overseas inspection program](./mfds-overseas-inspection-program.md) · [Korean agent obligations](../../udi-registration-licensing/business-licensing/korean-agent-obligations.md)
 
 ## Route 2 — ISO 13485 certificate recognition
 

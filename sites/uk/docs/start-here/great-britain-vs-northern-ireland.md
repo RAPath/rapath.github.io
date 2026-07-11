@@ -167,12 +167,12 @@ The divergence between GB and NI medical device regulation is expected to contin
 
 ## Related pages
 
-- [What is a medical device?](./what-is-a-medical-device) — the GB definition under UK MDR 2002
-- [Who needs to comply?](./who-needs-to-comply) — including UKRP obligations
-- [UKCA marking requirements](../pre-market/conformity-assessment/ukca-marking)
-- [Northern Ireland & Windsor Framework](../../northern-ireland/overview)
-- [Post-Brexit transition timeline](./post-brexit-transition-timeline)
-- [UK Approved Bodies](../../approved-bodies/what-are-approved-bodies)
+- [What is a medical device?](./what-is-a-medical-device.md) — the GB definition under UK MDR 2002
+- [Who needs to comply?](./who-needs-to-comply.md) — including UKRP obligations
+- [UKCA marking requirements](../pre-market/conformity-assessment/ukca-marking.md)
+- [Northern Ireland & Windsor Framework](../northern-ireland/overview.md)
+- [Post-Brexit transition timeline](./post-brexit-transition-timeline.md)
+- [UK Approved Bodies](../approved-bodies/what-are-approved-bodies.md)
 
 ---
 

@@ -22,4 +22,4 @@ When a product's status is unclear, submit a **product classification inquiry (�
 Common borderline areas: wellness apps/wearables, cosmetic-device combinations, drug-device combinations.
 
 ## Related pages
-- [SaMD — when MFDS regulates](../digital-health-samd/software-as-a-medical-device) · [Medical Devices Act vs IVD Act](./medical-devices-act-vs-ivd-act)
+- [SaMD — when MFDS regulates](../digital-health-samd/software-as-a-medical-device.md) · [Medical Devices Act vs IVD Act](./medical-devices-act-vs-ivd-act.md)

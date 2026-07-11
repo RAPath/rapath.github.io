@@ -36,8 +36,8 @@ In individual cases where a patient with a life-threatening or serious condition
 
 ## Related pages
 
-- [Clinical investigations in the UK](../pre-market/clinical-evidence/clinical-investigations)
-- [Exceptional Use Authorisations](./exceptional-use-authorisations)
+- [Clinical investigations in the UK](../pre-market/clinical-evidence/clinical-investigations.md)
+- [Exceptional Use Authorisations](./exceptional-use-authorisations.md)
 
 ---
 

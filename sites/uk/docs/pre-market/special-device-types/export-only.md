@@ -57,8 +57,8 @@ Export certificates are a service provided by MHRA — they are not a regulatory
 
 ## Related pages
 
-- [MHRA registration](../mhra-registration/who-must-register)
-- [What's New](../../whats-new/recent-regulatory-changes)
+- [MHRA registration](../mhra-registration/who-must-register.md)
+- [What's New](https://rapath.org/whats-new)
 
 ---
 

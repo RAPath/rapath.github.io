@@ -142,7 +142,7 @@ The site is structured around the regulatory lifecycle of a medical device in Br
 | [International & Comparison](/docs/international/overview) | IMDRF, ANVISA vs FDA/TGA/CE/HC, CFG, multi-market strategy |
 | [Enforcement & Compliance](/docs/enforcement/inspections) | ANVISA inspections, VISA overlap, fines, interdição, registration cancellation |
 | [Digital Health & SaMD](/docs/digital-health/framework) | SaMD, AI/ML, mobile apps, cybersecurity, LGPD |
-| [What's New](/docs/whats-new/regulatory-changes) | Recent RDC changes, draft regulations, open audiências públicas |
+| [What's New](https://rapath.org/whats-new) | Recent RDC changes, draft regulations, open audiências públicas |
 
 ---
 
@@ -156,7 +156,7 @@ The site is structured around the regulatory lifecycle of a medical device in Br
 
 ## Content currency
 
-This site was last reviewed in **May 2026**. ANVISA regulations change frequently — particularly following the landmark **RDC 751/2022** framework that replaced the older RDC 185/2001. Check [What's New](/docs/whats-new/regulatory-changes) for recent updates.
+This site was last reviewed in **May 2026**. ANVISA regulations change frequently — particularly following the landmark **RDC 751/2022** framework that replaced the older RDC 185/2001. Check [What's New](https://rapath.org/whats-new) for recent updates.
 
 :::note Disclaimer
 Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [ANVISA](https://www.gov.br/anvisa) sources before making regulatory decisions.

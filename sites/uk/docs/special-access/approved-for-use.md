@@ -28,7 +28,7 @@ The "Approved for Use" concept is part of MHRA's broader reform programme and is
 
 ## Current status
 
-As of May 2026, the formal Approved for Use designation mechanism has not yet been fully operationalised in published guidance. Monitor MHRA's innovation hub and the [What's New](../whats-new/recent-regulatory-changes) section for implementation details.
+As of May 2026, the formal Approved for Use designation mechanism has not yet been fully operationalised in published guidance. Monitor MHRA's innovation hub and the [What's New](https://rapath.org/whats-new) section for implementation details.
 
 ---
 

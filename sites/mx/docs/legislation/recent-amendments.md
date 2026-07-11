@@ -39,13 +39,13 @@ This page tracks significant recent changes to Mexico's medical device regulator
 1. **DOF (dof.gob.mx)** — full text of all NOM publications and COFEPRIS decrees.
 2. **COFEPRIS website (gob.mx/cofepris)** — announcements and guidance.
 3. **INAMEX / industry associations** — industry updates and comment period notifications.
-4. **RAPath [What's New](../resources/useful-links)** — monitored summary of regulatory changes.
+4. **RAPath [What's New](../resources/useful-links.md)** — monitored summary of regulatory changes.
 
 ## Related pages
 
 - [NOMs overview](noms-overview)
-- [Low-risk devices — Annexes 1–3](../device-classification/low-risk-devices-annexes)
-- [Equivalency Route](../premarket/equivalency-route)
-- [Useful links](../resources/useful-links)
+- [Low-risk devices — Annexes 1–3](../device-classification/low-risk-devices-annexes.md)
+- [Equivalency Route](../premarket/equivalency-route.md)
+- [Useful links](../resources/useful-links.md)
 
 January 2026 | COFEPRIS policy update | Subsequent registration renewals now eligible for periods up to 10 years (previously 5 years). This applies to the second and subsequent renewal applications submitted after January 2026; initial registrations remain on the standard 5-year term. Transition details for registrations with expiry dates before December 2027 are available on the COFEPRIS website.

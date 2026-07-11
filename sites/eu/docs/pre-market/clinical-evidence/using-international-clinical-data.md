@@ -105,10 +105,10 @@ The CER or performance evaluation report must explicitly:
 
 ## Related pages
 
-- [Clinical evaluation overview](./clinical-evaluation-overview)
-- [Clinical Evaluation Report (CER)](./clinical-evaluation-report)
-- [Equivalence claims](./equivalence-claims)
-- [Performance evaluation (IVDR)](./performance-evaluation)
+- [Clinical evaluation overview](./clinical-evaluation-overview.md)
+- [Clinical Evaluation Report (CER)](./clinical-evaluation-report.md)
+- [Equivalence claims](./equivalence-claims.md)
+- [Performance evaluation (IVDR)](./performance-evaluation.md)
 
 ---
 

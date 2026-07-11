@@ -23,4 +23,4 @@ A current FDA QSIT inspection report (EIR with no major findings) may support an
 Regardless of which certificate is used, the scope must **specifically cover** the device type being applied for. A "general medical devices" scope may not satisfy MFDS for a specific implantable device application.
 
 ## Related pages
-- [Foreign GMP certificate requirement](./foreign-gmp-certificate-requirement) · [MFDS overseas inspection program](./mfds-overseas-inspection-program)
+- [Foreign GMP certificate requirement](./foreign-gmp-certificate-requirement.md) · [MFDS overseas inspection program](./mfds-overseas-inspection-program.md)

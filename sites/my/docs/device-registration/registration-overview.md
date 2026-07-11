@@ -57,11 +57,11 @@ Upon successful registration, MDA assigns a **Device Registration Number (DRN)**
 
 ## The MyMDA Registration Portal
 
-All registration applications are submitted via the **[MyMDA portal](https://mymda.mda.gov.my)**. See [MyMDA Portal — Registration](./mymda-registration) for a practical walkthrough.
+All registration applications are submitted via the **[MyMDA portal](https://mymda.mda.gov.my)**. See [MyMDA Portal — Registration](./mymda-registration.md) for a practical walkthrough.
 
 ## ASEAN Common Submission Dossier Template (CSDT)
 
-Malaysia has adopted the **ASEAN CSDT** as an accepted dossier format. If you are registering in multiple ASEAN markets simultaneously or sequentially, preparing your dossier in CSDT format reduces the effort required for adaptation. See [ASEAN Harmonisation](../special-topics/asean-harmonisation).
+Malaysia has adopted the **ASEAN CSDT** as an accepted dossier format. If you are registering in multiple ASEAN markets simultaneously or sequentially, preparing your dossier in CSDT format reduces the effort required for adaptation. See [ASEAN Harmonisation](../special-topics/asean-harmonisation.md).
 
 :::info Pre-Submission Meetings
 For complex, novel, or borderline devices, MDA offers **pre-submission meetings**. These can clarify dossier requirements, classification, and expected clinical evidence before you commit significant resources to dossier preparation.

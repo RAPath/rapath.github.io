@@ -115,9 +115,9 @@ The public-facing portion of EUDAMED enables patients, healthcare professionals,
 
 ## Related pages
 
-- [UDI overview & structure](./udi-overview)
-- [UDI-DI & UDI-PI explained](./udi-di-and-pi)
-- [UDI labelling requirements](./udi-labelling-requirements)
+- [UDI overview & structure](./udi-overview.md)
+- [UDI-DI & UDI-PI explained](./udi-di-and-pi.md)
+- [UDI labelling requirements](./udi-labelling-requirements.md)
 - [EUDAMED registration — economic operators](/post-market/eudamed-registration/economic-operator-registration)
 
 ---

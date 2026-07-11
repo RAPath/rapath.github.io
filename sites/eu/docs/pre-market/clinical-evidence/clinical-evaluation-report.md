@@ -135,9 +135,9 @@ In practice, the PMCF evaluation report triggers CER updates for Class IIb and I
 
 ## Related pages
 
-- [Clinical evaluation overview](./clinical-evaluation-overview)
-- [Equivalence claims](./equivalence-claims)
-- [Clinical investigations](./clinical-investigations)
+- [Clinical evaluation overview](./clinical-evaluation-overview.md)
+- [Equivalence claims](./equivalence-claims.md)
+- [Clinical investigations](./clinical-investigations.md)
 - [Post-market data in technical documentation](/pre-market/technical-documentation/post-market-data-in-tech-doc)
 - [PMCF plan and evaluation report](/post-market/post-market-surveillance/pmcf)
 

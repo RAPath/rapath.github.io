@@ -214,7 +214,7 @@ Active devices intended for diagnosis:
 *Class IIb examples: cardiac monitors with life-critical alerting, EEG/ECG systems for acute monitoring, software controlling Class IIb therapy*
 *Class I examples: examination lights, surgical headlights*
 
-**Software note:** Software that functions as an active diagnostic device falls primarily under Rule 12. The clinical significance of the output and the potential for immediate danger drive classification between Class IIa and IIb. See [Software & SaMD classification](./software-samd-classification).
+**Software note:** Software that functions as an active diagnostic device falls primarily under Rule 12. The clinical significance of the output and the potential for immediate danger drive classification between Class IIa and IIb. See [Software & SaMD classification](./software-samd-classification.md).
 
 ---
 
@@ -307,12 +307,12 @@ This is not optional — a classification without a documented rationale is not 
 
 ## Related pages
 
-- [How classification works](./how-classification-works)
-- [Class I · IIa · IIb · III overview](./uk-mdr-classes)
-- [Active implantable devices (AIMD)](./active-implantable-devices)
-- [Software & SaMD classification](./software-samd-classification)
-- [IVD classification](./ivd-classification)
-- [Borderline & combination products](./borderline-combination-products)
+- [How classification works](./how-classification-works.md)
+- [Class I · IIa · IIb · III overview](./uk-mdr-classes.md)
+- [Active implantable devices (AIMD)](./active-implantable-devices.md)
+- [Software & SaMD classification](./software-samd-classification.md)
+- [IVD classification](./ivd-classification.md)
+- [Borderline & combination products](./borderline-combination-products.md)
 
 ---
 

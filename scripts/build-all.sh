@@ -3,7 +3,7 @@ set -e
 
 echo "Building all RAPath sites..."
 
-SITES=(hub au eu hc sg uk us jp swiss cn in kr br my id vt ru)
+SITES=(hub au bd br cn eu hc hk id in jp kr lk mx my nz ph ru sa sg swiss th uk us vt)
 ROOT_DIR="$(cd "$(dirname "$0")/.." && pwd)"
 DIST="$ROOT_DIR/dist"
 

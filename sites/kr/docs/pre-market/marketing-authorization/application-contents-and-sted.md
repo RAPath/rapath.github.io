@@ -28,4 +28,4 @@ A 품목허가 application follows the **IMDRF STED (Summary Technical Documenta
 - Clinical trial approval documents (if Korean trial conducted)
 
 ## Related pages
-- [Technical documentation overview](../technical-documentation/overview-and-required-contents) · [eSubmission system](./esubmission-system)
+- [Technical documentation overview](../technical-documentation/overview-and-required-contents.md) · [eSubmission system](./esubmission-system.md)

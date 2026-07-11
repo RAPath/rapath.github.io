@@ -25,7 +25,7 @@ Expanded access may be considered when:
 The foreign manufacturer (via Korean agent/importer) must cooperate with the MFDS application by providing safety and technical information.
 
 ## Related pages
-- [Innovative medical device designation](./innovative-medical-device-designation) · [Clinical trial device](./clinical-trial-device)
+- [Innovative medical device designation](./innovative-medical-device-designation.md) · [Clinical trial device](./clinical-trial-device.md)
 
 Cost and supply
 ​

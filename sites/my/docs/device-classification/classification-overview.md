@@ -41,7 +41,7 @@ If more than one rule applies to a device, the **highest class** takes precedenc
 Malaysia's classification rules are directly based on **GHTF SG1/N045:2008 — Principles of Medical Device Classification**. This alignment means that for many devices, the Malaysian class will be the same as or very close to the EU (MDR), Australian (TGA), Canadian (Health Canada), and Singaporean (HSA) class.
 
 :::tip Use the ASEAN CSDT
-If you are already registered in another ASEAN country using the **Common Submission Dossier Template (CSDT)**, this dossier can be adapted for Malaysian submission with minimal additional effort. See [ASEAN Harmonisation](../special-topics/asean-harmonisation).
+If you are already registered in another ASEAN country using the **Common Submission Dossier Template (CSDT)**, this dossier can be adapted for Malaysian submission with minimal additional effort. See [ASEAN Harmonisation](../special-topics/asean-harmonisation.md).
 :::
 
 ## Classification Disputes

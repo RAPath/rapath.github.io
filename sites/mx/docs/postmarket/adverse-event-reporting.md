@@ -80,7 +80,7 @@ All adverse incidents reported during the 5-year registration period must be sum
 - [Technovigilance overview](technovigilance-overview)
 - [FSCAs & recalls](fsca-recalls)
 - [Registration renewal](registration-renewal)
-- [NOM-240 technovigilance](../legislation/nom-240-technovigilance)
+- [NOM-240 technovigilance](../legislation/nom-240-technovigilance.md)
 
 ## Who submits to CNFV?
 

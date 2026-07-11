@@ -110,9 +110,9 @@ All updates must go through the change control process and be recorded in the do
 
 - [GSPR overview — Annex I](/pre-market/gspr/gspr-overview)
 - [GSPR checklist](/pre-market/gspr/gspr-checklist)
-- [Technical documentation — overview](./technical-documentation-overview)
-- [Risk management](./risk-management)
-- [Post-market data in technical documentation](./post-market-data-in-tech-doc)
+- [Technical documentation — overview](./technical-documentation-overview.md)
+- [Risk management](./risk-management.md)
+- [Post-market data in technical documentation](./post-market-data-in-tech-doc.md)
 
 ---
 

@@ -24,7 +24,7 @@ For most devices, NHI listing is **commercially critical** — most Korean hospi
 5. If approved, device is listed in the NHI benefit schedule
 
 ## Related pages
-- [HIRA — Health Insurance Review and Assessment](./hira-health-insurance-review)
+- [HIRA — Health Insurance Review and Assessment](./hira-health-insurance-review.md)
 
 ## Timeline and Costs
 

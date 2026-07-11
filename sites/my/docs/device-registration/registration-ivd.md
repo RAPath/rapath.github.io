@@ -10,7 +10,7 @@ description: Registration dossier requirements specific to in vitro diagnostic m
 
 IVDs are registered under the same Act 737 framework as other medical devices, but with **IVD-specific technical documentation requirements** reflecting the performance-based nature of IVD conformity assessment.
 
-Registration class (A through D via Annex II) determines the depth of required evidence. See [IVD Classification](../device-classification/ivd-classification) for classification details.
+Registration class (A through D via Annex II) determines the depth of required evidence. See [IVD Classification](../device-classification/ivd-classification.md) for classification details.
 
 ## IVD-Specific Technical Documentation
 

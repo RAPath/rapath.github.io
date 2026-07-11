@@ -111,10 +111,10 @@ Manufacturers of custom-made devices must register with MHRA as a manufacturer. 
 
 ## Related pages
 
-- [Who needs to comply?](../../start-here/who-needs-to-comply)
-- [Classification — Class I · IIa · IIb · III](../classification/uk-mdr-classes)
-- [Essential Requirements overview](../essential-requirements/overview)
-- [MHRA registration](../mhra-registration/who-must-register)
+- [Who needs to comply?](../../start-here/who-needs-to-comply.md)
+- [Classification — Class I · IIa · IIb · III](../classification/uk-mdr-classes.md)
+- [Essential Requirements overview](../essential-requirements/overview.md)
+- [MHRA registration](../mhra-registration/who-must-register.md)
 
 ---
 

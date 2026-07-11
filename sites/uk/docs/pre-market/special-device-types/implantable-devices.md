@@ -107,11 +107,11 @@ Implantable devices carry the most stringent post-market obligations:
 
 ## Related pages
 
-- [Active implantable devices (AIMD)](../classification/active-implantable-devices)
-- [Classification rules — Rule 8](../classification/classification-rules)
-- [Devices incorporating a medicinal substance](./devices-incorporating-medicine)
-- [Post-market surveillance](../../post-market/post-market-surveillance/pms-requirements-by-class)
-- [Vigilance reporting](../../post-market/vigilance/what-must-be-reported)
+- [Active implantable devices (AIMD)](../classification/active-implantable-devices.md)
+- [Classification rules — Rule 8](../classification/classification-rules.md)
+- [Devices incorporating a medicinal substance](./devices-incorporating-medicine.md)
+- [Post-market surveillance](../../post-market/post-market-surveillance/pms-requirements-by-class.md)
+- [Vigilance reporting](../../post-market/vigilance/what-must-be-reported.md)
 
 ---
 

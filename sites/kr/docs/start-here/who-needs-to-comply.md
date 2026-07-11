@@ -22,6 +22,6 @@ Must **register** with MFDS before distributing. Must store devices properly and
 Must register as a **repair business (수리업)**.
 
 ## Related pages
-- [Korean agent obligations](../udi-registration-licensing/business-licensing/korean-agent-obligations) · [Foreign GMP certificate](../gmp-quality-system/foreign-manufacturers/foreign-gmp-certificate-requirement)
+- [Korean agent obligations](../udi-registration-licensing/business-licensing/korean-agent-obligations.md) · [Foreign GMP certificate](../gmp-quality-system/foreign-manufacturers/foreign-gmp-certificate-requirement.md)
 
 Under 'Foreign Manufacturers' section, expand the Korean agent definition: 'The Korean agent must be a legal entity established in Korea (such as the importer or a designated representative) and is responsible for communicating with MFDS, maintaining technical documentation in Korean, and ensuring regulatory compliance on behalf of the foreign manufacturer.'

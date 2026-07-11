@@ -136,7 +136,7 @@ In the EU, **Annex XVI of EU MDR 2017/745** brings certain non-medical-purpose p
 
 This creates a meaningful divergence: a cosmetic dermal filler manufacturer must comply with EU MDR for their EU and NI markets (Class III under Annex XVI) but faces no equivalent UK medical device requirement for the GB market.
 
-MHRA's reform programme may address this gap. Monitor [What's New](../../whats-new/recent-regulatory-changes) for developments.
+MHRA's reform programme may address this gap. Monitor [What's New](https://rapath.org/whats-new) for developments.
 
 ---
 
@@ -173,11 +173,11 @@ MHRA also publishes its borderline product assessments, which manufacturers can 
 
 ## Related pages
 
-- [What is a medical device?](../../start-here/what-is-a-medical-device)
-- [What is not a medical device?](../../start-here/what-is-not-a-medical-device)
-- [Devices incorporating a medicinal substance](../special-device-types/devices-incorporating-medicine)
-- [Software & SaMD classification](./software-samd-classification)
-- [Great Britain vs Northern Ireland](../../start-here/great-britain-vs-northern-ireland) — Annex XVI applies in NI, not GB
+- [What is a medical device?](../../start-here/what-is-a-medical-device.md)
+- [What is not a medical device?](../../start-here/what-is-not-a-medical-device.md)
+- [Devices incorporating a medicinal substance](../special-device-types/devices-incorporating-medicine.md)
+- [Software & SaMD classification](./software-samd-classification.md)
+- [Great Britain vs Northern Ireland](../../start-here/great-britain-vs-northern-ireland.md) — Annex XVI applies in NI, not GB
 
 ---
 

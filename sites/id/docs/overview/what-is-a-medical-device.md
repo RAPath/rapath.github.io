@@ -72,4 +72,4 @@ PKRT products are regulated under a separate notification/registration process w
 The primary legal definition is found in:
 - **Minister of Health Regulation (Permenkes) No. 62 of 2017** — *Izin Edar Alat Kesehatan, Alat Kesehatan Diagnostik In Vitro, dan Perbekalan Kesehatan Rumah Tangga*
 
-See also the [Key Legislation](./key-legislation) page for a full list of applicable regulations.
+See also the [Key Legislation](./key-legislation.md) page for a full list of applicable regulations.

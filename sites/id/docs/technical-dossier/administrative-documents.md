@@ -50,7 +50,7 @@ The CFS confirms that the device is approved and commercially available in the m
 - Issued by the relevant national competent authority (e.g. FDA for US, MHRA for UK, TGA for Australia) or a designated government body
 - Must cover the specific device model being registered in Indonesia
 - Must be apostilled/embassy legalised
-- Validity: confirm current requirements with your LAR, as Kemenkes may specify a maximum age
+- Validity: As a general guideline, Kemenkes typically accepts CFS documents issued within the last 2–3 years. Confirm current maximum age requirements with your LAR, as this may evolve. Some authorities may request renewal of older certificates.
 
 ---
 
@@ -71,11 +71,4 @@ Notarisation/authentication of LoA in home country: 1–3 weeks (varies by count
 
 Start document preparation at least 6 months before your target submission date.
 
-## Issued by the relevant national competent authority (e.g. FDA for US, MHRA for UK, TGA for Australia) or a designated government body
-
 Note: For devices not yet approved or commercially available in the home country, an alternative declaration of compliance or letter from the manufacturer's home authority may be accepted in some cases — confirm with your LAR whether your specific device qualifies for an alternative approach.
-
-Revise the Free Sale Certificate (CFS/FSC) subsection to add:
-
-Validity: As a general guideline, Kemenkes typically accepts CFS documents issued within the last 2–3 years. Confirm current maximum age requirements with your LAR, as this may evolve. Some authorities may request renewal of older certificates.
-

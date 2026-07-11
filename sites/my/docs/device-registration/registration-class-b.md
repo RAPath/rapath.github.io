@@ -41,7 +41,7 @@ Class B devices require a full registration application with a technical dossier
 
 - Proposed device label (all language versions)
 - Instructions for Use (IFU) in English; Bahasa Malaysia version if supplied to general public
-- Compliance with Malaysian labelling requirements (see [Labelling Requirements](../special-topics/labelling-requirements))
+- Compliance with Malaysian labelling requirements (see [Labelling Requirements](../special-topics/labelling-requirements.md))
 
 ### Section 5 — Conformity Assessment Evidence
 

@@ -26,5 +26,5 @@ sidebar_position: 5
 Truly novel devices not fitting an existing reimbursement category must go through HIRA's **New Technology Assessment** before NHI listing is possible. This adds typically 1–2 years to the market access timeline.
 
 ## Related pages
-- [National Health Insurance coverage and listing](./national-health-insurance-coverage)
+- [National Health Insurance coverage and listing](./national-health-insurance-coverage.md)
 

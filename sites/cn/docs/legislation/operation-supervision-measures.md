@@ -34,10 +34,8 @@ This measure implements MDSAR 2021 Chapter IV (Articles 58-72), establishing req
 - Traceability system mandatory: manufacturers must track distribution to first recipient; distributors track upstream and downstream
 - Cold chain management and storage conditions per device technical specifications
 - Restricted advertising: promotional claims and advertising content must not exceed the scope of approved indications, contraindications, and precautions stated in the registration certificate; any unauthorized claims constitute regulatory violation
-- Record-keeping: purchase, sale, and recall records retained for minimum 5 years
+- Record-keeping: purchase, sale, and recall records retained for minimum 5 years from the date of transaction. Post-market surveillance records for Class III devices retained per NMPA guidance.
 - Distributor qualification: legal entity status, quality personnel, appropriate facilities
 
 ## Relationship to MDSAR 2021
 This measure operationalizes Article 58 (business licence), Articles 63-65 (traceability), and Article 70 (advertising) of MDSAR 2021 Chapter IV with detailed procedural and technical requirements.
-
-Revise Key Requirements entry to: 'Record-keeping: purchase, sale, and recall records retained for minimum 5 years from the date of transaction. Post-market surveillance records for Class III devices retained per NMPA guidance.'

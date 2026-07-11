@@ -26,7 +26,7 @@ The EUDAMED vigilance module is the central electronic platform for EU vigilance
 - Tracking of report status and NCA responses
 - Data sharing between NCAs across member states
 
-Manufacturers must register in EUDAMED (obtain an SRN) before using the vigilance module. See [EUDAMED vigilance module](./eudamed-vigilance-module).
+Manufacturers must register in EUDAMED (obtain an SRN) before using the vigilance module. See [EUDAMED vigilance module](./eudamed-vigilance-module.md).
 
 ---
 
@@ -117,9 +117,9 @@ For incidents or FSCAs affecting multiple member states:
 
 ## Related pages
 
-- [What must be reported](./what-must-be-reported)
-- [Reporting timeframes](./reporting-timeframes)
-- [EUDAMED vigilance module](./eudamed-vigilance-module)
+- [What must be reported](./what-must-be-reported.md)
+- [Reporting timeframes](./reporting-timeframes.md)
+- [EUDAMED vigilance module](./eudamed-vigilance-module.md)
 - [Field safety notices](/post-market/field-safety-corrective-actions/field-safety-notices)
 
 ---

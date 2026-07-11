@@ -123,8 +123,8 @@ Competent authorities **can and do** inspect Class I manufacturers. Non-complian
 
 ## Related pages
 
-- [Conformity assessment — overview](./conformity-assessment-overview)
-- [EU Declaration of Conformity](./eu-declaration-of-conformity)
+- [Conformity assessment — overview](./conformity-assessment-overview.md)
+- [EU Declaration of Conformity](./eu-declaration-of-conformity.md)
 - [CE marking requirements](./ce-marking-requirements)
 - [Class I · IIa · IIb · III](/pre-market/classification/mdr-classes)
 - [EUDAMED registration](/post-market/eudamed-registration/overview)

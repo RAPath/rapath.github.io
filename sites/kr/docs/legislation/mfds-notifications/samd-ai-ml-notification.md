@@ -17,7 +17,7 @@ MFDS has issued dedicated guidance (가이드라인) and notifications on SaMD a
 MFDS SaMD guidance is aligned with IMDRF N10 (definitions), N12 (risk categorization), and N23 (clinical evaluation) documents.
 
 ## Related pages
-- [SaMD — MFDS policy](../../pre-market/special-device-types/samd-mfds-policy) · [AI/ML medical devices](../../pre-market/special-device-types/ai-ml-medical-devices) · [MFDS digital health framework](../../digital-health-samd/mfds-digital-health-framework)
+- [SaMD — MFDS policy](../../pre-market/special-device-types/samd-mfds-policy.md) · [AI/ML medical devices](../../pre-market/special-device-types/ai-ml-medical-devices.md) · [MFDS digital health framework](../../digital-health-samd/mfds-digital-health-framework.md)
 
 Post-market requirements
 

@@ -53,7 +53,7 @@ The TGA regularly consults on proposed regulatory changes. Key areas under consi
 
 - Alignment of Essential Principles with EU MDR/IVDR General Safety and Performance Requirements (GSPRs)
 - Proposed changes to conformity assessment procedures (consultation December 2025)
-- Ongoing UDI (Unique Device Identification) rollout
+- UDI requirements commenced 1 July 2026 for Class IIb and Class III devices, phasing to lower-risk classes in later years (source: TGA)
 
 Subscribe to TGA updates to receive notifications of regulatory changes:
 

@@ -54,15 +54,15 @@ Examples typically in this category:
 5. If **not listed** in any Annex → apply for full Class I/II/III registration.
 
 :::tip Check current Annex text
-COFEPRIS may update the Annexes over time. Always verify against the most current DOF text. Links are available in [Resources → Useful links](../resources/useful-links).
+COFEPRIS may update the Annexes over time. Always verify against the most current DOF text. Links are available in [Resources → Useful links](../resources/useful-links.md).
 :::
 
 ## Related pages
 
 - [How classification works](how-classification-works)
 - [Class I · II · III overview](class-i-ii-iii-overview)
-- [Standard Registration Route](../premarket/standard-route)
-- [Recent amendments](../legislation/recent-amendments)
+- [Standard Registration Route](../premarket/standard-route.md)
+- [Recent amendments](../legislation/recent-amendments.md)
 
 Check current Annex text: The complete Annex lists are published in the July 7, 2025 DOF decree (full title: Acuerdo por el que se establecen los requisitos para obtener el registro de sanidad de insumos para la salud, dispositivos médicos y productos sanitarios). Access the DOF directly at www.dof.gob.mx or via the COFEPRIS Useful Links page. Use the DOF search function to locate your device type in the relevant Annex. If your device is not explicitly listed, consult COFEPRIS for classification.
 

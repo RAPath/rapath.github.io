@@ -19,6 +19,10 @@ MedDO (SR 812.213) entered into force on **26 May 2021**, replacing the predeces
 
 Always verify current transitional dates directly with Swissmedic before relying on these dates for compliance planning — transitional dates have been amended in the past and may be updated. Swissmedic publishes updates on its website and in official Fedlex records.
 
+## swissdamed Registration
+
+swissdamed device registration is mandatory from **1 July 2026** for all devices/systems/procedure packs placed on the Swiss market. A transitional period to register existing market devices runs to **31 December 2026**; devices subject to serious-incident/FSCA/trend reporting must register immediately with no transitional period. Legal basis: amendment to the Swiss IVD Ordinance of 20 November 2024 (AS 2024 742).
+
 ## Post-Transition Obligations
 PMS and vigilance obligations under MedDO apply to all devices regardless of transitional certification status. CH REP obligations apply immediately regardless of which ordinance the conformity was certified under.
 

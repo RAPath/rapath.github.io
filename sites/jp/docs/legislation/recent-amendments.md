@@ -12,6 +12,7 @@ sidebar_position: 6
 | 2014 amendments | Renamed PAL to PMD Act; three-pathway system formalised; Programme Medical Devices introduced; regenerative medicine product category created | November 2014 (phased) |
 | 2019 amendments | SAKIGAKE designation given statutory basis; conditional/time-limited approval expanded to devices; Programme Medical Device framework clarified | December 2019 (phased) |
 | 2023 amendments | Digital regulatory infrastructure; enhanced enforcement; advertising provision updates | 2023–2024 (phased) |
+| 2025 amendment (Cabinet Order No. 362) | Witness inspections for highly-controlled devices; IVD clinical-study terminology revisions; US FDA recognized as equivalent authority for priority review | 1 May 2026 |
 
 ## Ministerial Ordinance amendments tracker
 

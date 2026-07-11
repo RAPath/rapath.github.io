@@ -52,11 +52,11 @@ MHRA acts as the competent authority for Northern Ireland — but in an EU regul
 
 ## Related pages
 
-- [Great Britain vs Northern Ireland](../start-here/great-britain-vs-northern-ireland) — the full dual-market explanation
-- [Windsor Framework 2023](./windsor-framework-2023)
-- [Rules applying in NI](./rules-applying-in-ni)
-- [UKCA and NI](./ukca-and-ni)
-- [Practical compliance for multi-market manufacturers](./practical-compliance-multi-market)
+- [Great Britain vs Northern Ireland](../start-here/great-britain-vs-northern-ireland.md) — the full dual-market explanation
+- [Windsor Framework 2023](./windsor-framework-2023.md)
+- [Rules applying in NI](./rules-applying-in-ni.md)
+- [UKCA and NI](./ukca-and-ni.md)
+- [Practical compliance for multi-market manufacturers](./practical-compliance-multi-market.md)
 
 ## Official references
 

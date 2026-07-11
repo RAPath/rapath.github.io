@@ -12,19 +12,26 @@ Indonesia's medical device regulatory framework is built on a layered hierarchy 
 
 ## Primary Regulation
 
-### Permenkes No. 62 of 2017
-**Minister of Health Regulation on Marketing Authorisation of Medical Devices, IVDs, and Household Health Products**
+### Permenkes No. 5 of 2026 (current cornerstone regulation)
+**Minister of Health Regulation on Health Supplies (*Perbekalan Kesehatan*)**
 
-This is the cornerstone regulation. It establishes:
+Issued in May 2026, Permenkes 5/2026 consolidates approximately 40 prior ministerial regulations covering health supplies — including medical devices, IVDs, and household health products — into a single regulation. It subsumes the marketing-authorization framework previously established by Permenkes 62/2017, and is now the primary operative regulation governing:
 - The requirement for all medical devices to hold a valid NIE (*Nomor Izin Edar*) before distribution
 - The four-class (A–D) risk-based classification system
 - Registration requirements by risk class
 - Local authorised representative (LAR) obligations
-- The one-NIE-one-holder rule (Article 13)
+- The one-NIE-one-holder rule
 - Post-market obligations including adverse event reporting
 
+A **1-year transition period** applies for holders of existing licences issued under the prior framework to come into compliance with Permenkes 5/2026.
+
+### Permenkes No. 62 of 2017 (superseded/being phased out)
+**Minister of Health Regulation on Marketing Authorisation of Medical Devices, IVDs, and Household Health Products**
+
+Formerly the cornerstone regulation, Permenkes 62/2017 is being phased out following the issuance of Permenkes 5/2026. It remains relevant during the transition period for existing licence holders, but new guidance should be checked against Permenkes 5/2026 as the current authority.
+
 :::info
-As of 2025, Permenkes 62/2017 remains the primary operative regulation for medical device registration. Always check for amendments or supplementary ministerial circulars (*Surat Edaran*) that may update specific requirements.
+As of mid-2026, Permenkes 5/2026 is the primary operative regulation for medical device registration, having subsumed Permenkes 62/2017's marketing-authorization framework. Always check for amendments or supplementary ministerial circulars (*Surat Edaran*) that may update specific requirements.
 :::
 
 ---

@@ -10,7 +10,7 @@ description: IVD-specific regulatory obligations in Malaysia beyond classificati
 
 In vitro diagnostic medical devices (IVDs) are regulated under Act 737 and the Medical Device Regulations 2012, using a classification system based on GHTF SG5 IVD guidance with Annex II lists for high-risk IVDs.
 
-This page covers IVD-specific obligations beyond the classification framework (see [IVD Classification](../device-classification/ivd-classification) for classification detail).
+This page covers IVD-specific obligations beyond the classification framework (see [IVD Classification](../device-classification/ivd-classification.md) for classification detail).
 
 ## Performance Evaluation — The Core of IVD Conformity
 
@@ -102,5 +102,5 @@ IVD labels and IFUs must include (in addition to general labelling requirements)
 - Interferences identified
 - Instructions for quality control
 
-See [Labelling Requirements](./labelling-requirements) for the complete list.
+See [Labelling Requirements](./labelling-requirements.md) for the complete list.
 

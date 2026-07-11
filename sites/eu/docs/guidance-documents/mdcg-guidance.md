@@ -119,8 +119,8 @@ Guidance is organised by topic on the Commission website. New and revised docume
 
 ## Related pages
 
-- [Guidance by device class](./guidance-by-device-class)
-- [MEDDEV guidance index](./meddev-guidance-index)
+- [Guidance by device class](./guidance-by-device-class.md)
+- [MEDDEV guidance index](./meddev-guidance-index.md)
 - [NB-MED recommendations](./nb-med-recommendations)
 - [EC blue guide — market surveillance](./ec-blue-guide)
 - [Legislation — MDR key articles](/legislation/mdr-key-articles)

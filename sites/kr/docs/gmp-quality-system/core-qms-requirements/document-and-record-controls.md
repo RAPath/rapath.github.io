@@ -25,6 +25,6 @@ Document and record controls underpin the entire KGMP system (ISO 13485:2016 Sec
 Electronic document and record management systems are acceptable if validated to ensure integrity, security, and accessibility.
 
 ## Related pages
-- [KGMP overview](../overview-kgmp)
+- [KGMP overview](../overview-kgmp.md)
 
 For medical devices with indefinite lifetimes (such as implantable devices without known removal dates), device history records must be retained for a minimum of 10 years from the date of manufacture or as specified by MFDS.

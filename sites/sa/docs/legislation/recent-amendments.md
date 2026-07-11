@@ -26,6 +26,6 @@ The SFDA publishes regulatory updates on its official website. Manufacturers and
 
 ## Further reading
 
-- [Medical Devices Law](./medical-devices-law)
-- [MDS-REQ Series](./mds-req-series)
-- [What's New](../resources/useful-links)
+- [Medical Devices Law](./medical-devices-law.md)
+- [MDS-REQ Series](./mds-req-series.md)
+- [What's New](../resources/useful-links.md)

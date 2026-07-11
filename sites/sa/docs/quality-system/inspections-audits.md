@@ -43,6 +43,6 @@ Significant non-conformities can lead to:
 
 ## Further reading
 
-- [ISO 13485 Overview](./iso-13485-overview)
-- [SFDA CABs](./sfda-cabs)
-- [Post-Market Overview](../post-market/overview)
+- [ISO 13485 Overview](./iso-13485-overview.md)
+- [SFDA CABs](./sfda-cabs.md)
+- [Post-Market Overview](../post-market/overview.md)

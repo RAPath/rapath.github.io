@@ -1,0 +1,289 @@
+.hero {
+  padding: 4.5rem 0 3.5rem;
+  background: var(--ifm-background-surface-color);
+  border-bottom: 0.5px solid var(--ifm-toc-border-color);
+}
+
+.eyebrow {
+  font-size: 0.75rem;
+  font-weight: 500;
+  letter-spacing: 0.06em;
+  color: var(--ifm-color-emphasis-600);
+  text-transform: uppercase;
+  margin-bottom: 0.75rem;
+}
+
+.heroTitle {
+  font-size: 2.5rem;
+  line-height: 1.2;
+  letter-spacing: -0.02em;
+  max-width: 720px;
+  margin-bottom: 1rem;
+}
+
+.heroSubtitle {
+  font-size: 1.05rem;
+  line-height: 1.6;
+  color: var(--ifm-color-emphasis-700);
+  max-width: 620px;
+  margin-bottom: 1.75rem;
+}
+
+.heroStats {
+  display: flex;
+  gap: 2.5rem;
+  margin-bottom: 1.75rem;
+  flex-wrap: wrap;
+}
+
+.heroStatValue {
+  font-size: 1.375rem;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  display: block;
+}
+
+.heroStatLabel {
+  font-size: 0.8rem;
+  color: var(--ifm-color-emphasis-600);
+  margin-top: 0.15rem;
+}
+
+.heroActions {
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+
+.trustBar {
+  padding: 1.75rem 0;
+  border-bottom: 0.5px solid var(--ifm-toc-border-color);
+}
+
+.trustBarLabel {
+  font-size: 0.7rem;
+  font-weight: 500;
+  letter-spacing: 0.06em;
+  color: var(--ifm-color-emphasis-500);
+  text-transform: uppercase;
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.trustBarRow {
+  display: flex;
+  justify-content: center;
+  gap: 2.25rem;
+  flex-wrap: wrap;
+}
+
+.trustBarItem {
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: var(--ifm-color-emphasis-700);
+}
+
+.sectionLabel {
+  font-size: 0.7rem;
+  font-weight: 500;
+  letter-spacing: 0.06em;
+  color: var(--ifm-color-emphasis-500);
+  text-transform: uppercase;
+  margin-bottom: 1rem;
+}
+
+.processGrid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 2rem;
+}
+
+.processNum {
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--ifm-color-emphasis-500);
+  margin-bottom: 0.4rem;
+}
+
+.processTitle {
+  font-size: 1rem;
+  font-weight: 600;
+  margin-bottom: 0.35rem;
+}
+
+.processDesc {
+  font-size: 0.9rem;
+  line-height: 1.55;
+  color: var(--ifm-color-emphasis-700);
+}
+
+@media (max-width: 768px) {
+  .processGrid {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+  .heroTitle {
+    font-size: 2rem;
+  }
+}
+
+.jCard {
+  height: 100%;
+  border: 0.5px solid var(--ifm-toc-border-color);
+  border-radius: 12px;
+  padding: 1.1rem 1.25rem;
+  transition: border-color 0.15s;
+}
+
+.jCard:hover {
+  border-color: var(--ifm-color-emphasis-400);
+}
+
+.jCardHead {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: 0.5rem;
+  gap: 0.5rem;
+}
+
+.jName {
+  font-size: 0.95rem;
+  font-weight: 600;
+}
+
+.jReg {
+  font-size: 0.75rem;
+  color: var(--ifm-color-emphasis-500);
+  white-space: nowrap;
+}
+
+.jDesc {
+  font-size: 0.85rem;
+  line-height: 1.55;
+  color: var(--ifm-color-emphasis-700);
+  margin-bottom: 0.9rem;
+}
+
+.jLink {
+  font-size: 0.8rem;
+  font-weight: 500;
+}
+
+.statusBadge {
+  display: inline-block;
+  font-size: 0.68rem;
+  font-weight: 500;
+  padding: 0.15rem 0.5rem;
+  border-radius: 4px;
+  background: var(--ifm-color-emphasis-100);
+  color: var(--ifm-color-emphasis-700);
+}
+
+.scopeGrid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 1px;
+  background: var(--ifm-toc-border-color);
+  border: 0.5px solid var(--ifm-toc-border-color);
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.scopeCell {
+  background: var(--ifm-background-surface-color);
+  padding: 1.1rem 1rem;
+}
+
+.scopeTitle {
+  font-size: 0.85rem;
+  font-weight: 600;
+  margin-bottom: 0.35rem;
+}
+
+.scopeDesc {
+  font-size: 0.8rem;
+  line-height: 1.5;
+  color: var(--ifm-color-emphasis-700);
+  margin-bottom: 0;
+}
+
+.pillRow {
+  display: flex;
+  gap: 0.6rem;
+  flex-wrap: wrap;
+}
+
+.pill {
+  font-size: 0.82rem;
+  background: var(--ifm-color-emphasis-100);
+  padding: 0.5rem 0.9rem;
+  border-radius: 999px;
+}
+
+.ctaBanner {
+  background: var(--ifm-color-emphasis-100);
+  border-radius: 12px;
+  padding: 1.75rem 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+}
+
+.ctaActions {
+  display: flex;
+  gap: 0.6rem;
+  flex-wrap: wrap;
+  flex-shrink: 0;
+}
+
+.ctaTitle {
+  font-size: 1.2rem;
+  font-weight: 500;
+  margin-bottom: 0.4rem;
+}
+
+.ctaDesc {
+  font-size: 0.9rem;
+  color: var(--ifm-color-emphasis-700);
+  margin-bottom: 0;
+}
+
+.ctaPrimary,
+.ctaSecondary {
+  display: inline-block;
+  font-size: 0.875rem;
+  font-weight: 500;
+  padding: 0.6rem 1.1rem;
+  border-radius: 8px;
+  text-decoration: none !important;
+  white-space: nowrap;
+}
+
+.ctaPrimary {
+  background: var(--ifm-color-emphasis-900);
+  color: var(--ifm-color-emphasis-0) !important;
+  border: 1px solid var(--ifm-color-emphasis-900);
+}
+
+.ctaPrimary:hover {
+  background: var(--ifm-color-emphasis-800);
+}
+
+.ctaSecondary {
+  background: var(--ifm-background-surface-color);
+  color: var(--ifm-color-emphasis-800) !important;
+  border: 1px solid var(--ifm-color-emphasis-300);
+}
+
+.ctaSecondary:hover {
+  border-color: var(--ifm-color-emphasis-400);
+}
+
+@media (max-width: 768px) {
+  .scopeGrid {
+    grid-template-columns: 1fr 1fr;
+  }
+}

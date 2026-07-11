@@ -9,7 +9,7 @@ description: Frequently asked questions on MDA registration, LAR requirements, C
 ## General
 
 ### Do I need to register my medical device in Malaysia?
-Yes, in almost all cases. Any medical device supplied commercially in Malaysia must be registered with MDA and hold a valid Device Registration Number (DRN). Exemptions are narrow — see [Registration Overview](../device-registration/registration-overview) for exemption categories.
+Yes, in almost all cases. Any medical device supplied commercially in Malaysia must be registered with MDA and hold a valid Device Registration Number (DRN). Exemptions are narrow — see [Registration Overview](../device-registration/registration-overview.md) for exemption categories.
 
 ### How long is a device registration valid?
 Device registrations are valid for **5 years** from the date of approval. You must submit a renewal application before the 5-year expiry.
@@ -22,7 +22,7 @@ Yes. The MDA maintains a public register of registered devices accessible via th
 ## Classification
 
 ### How do I determine the class of my device?
-Apply the classification rules in the Schedule to the Medical Device Regulations 2012. The rules are based on intended purpose, invasiveness, duration of contact, and device type. See [Classification Overview](../device-classification/classification-overview) and [Classification Rules Reference](../device-classification/classification-rules).
+Apply the classification rules in the Schedule to the Medical Device Regulations 2012. The rules are based on intended purpose, invasiveness, duration of contact, and device type. See [Classification Overview](../device-classification/classification-overview.md) and [Classification Rules Reference](../device-classification/classification-rules.md).
 
 ### My device is Class II in the US and Class IIb in the EU — what class is it in Malaysia?
 Malaysia uses Classes A–D (not I/II/III). The GHTF alignment means many devices will classify consistently, but do not assume direct equivalence. Apply the Malaysian classification rules to your specific device. Common mappings: US Class I ≈ MY Class A/B; US Class II ≈ MY Class B/C; US Class III ≈ MY Class D.
@@ -51,7 +51,7 @@ An expired establishment licence means you cannot legally supply medical devices
 ## Device Registration
 
 ### Can I include multiple sizes/configurations in one registration?
-Yes, within limits. Variants with the same intended purpose, design principle, and manufacturer can be grouped under a single registration application. See [Device Grouping & Variants](../special-topics/device-grouping).
+Yes, within limits. Variants with the same intended purpose, design principle, and manufacturer can be grouped under a single registration application. See [Device Grouping & Variants](../special-topics/device-grouping.md).
 
 ### Can I use my CE technical file for a Malaysian registration?
 Yes, CE technical documentation is generally acceptable as the basis for a Malaysian dossier if it follows GHTF/IMDRF-aligned structure. The ASEAN CSDT format is preferred. Ensure all required sections per Malaysian requirements are covered.
@@ -67,13 +67,13 @@ A GMDN (Global Medical Device Nomenclature) code is required for registration. S
 ## Post-Market
 
 ### When must I report an adverse event to MDA?
-Within **2 working days** for death or immediately life-threatening events; within **10 working days** for serious injury; within **30 working days** for near-serious events. See [Adverse Event Reporting](../post-market-requirements/adverse-event-reporting).
+Within **2 working days** for death or immediately life-threatening events; within **10 working days** for serious injury; within **30 working days** for near-serious events. See [Adverse Event Reporting](../post-market-requirements/adverse-event-reporting.md).
 
 ### If there is a recall in another country, do I need to do anything in Malaysia?
-Yes. Assess whether Malaysian-market devices are affected. If they are, you must implement the FSCA in Malaysia and notify MDA. Do not wait for MDA to contact you. See [Field Safety Corrective Actions](../post-market-requirements/field-safety-corrective-actions).
+Yes. Assess whether Malaysian-market devices are affected. If they are, you must implement the FSCA in Malaysia and notify MDA. Do not wait for MDA to contact you. See [Field Safety Corrective Actions](../post-market-requirements/field-safety-corrective-actions.md).
 
 ### Do I need to submit a PSUR to MDA?
-Class C and D devices require periodic PSURs. Class D typically annually; Class C at renewal as a minimum. See [Periodic Safety Update Reports](../post-market-requirements/periodic-safety-update-reports).
+Class C and D devices require periodic PSURs. Class D typically annually; Class C at renewal as a minimum. See [Periodic Safety Update Reports](../post-market-requirements/periodic-safety-update-reports.md).
 
 ---
 
@@ -93,10 +93,10 @@ Yes. Log into MyMDA and navigate to **My Applications** to see the current statu
 ## Special Topics
 
 ### Is my mobile health app regulated as a medical device?
-Only if it meets the definition of a medical device under Act 737 — i.e. it has a medical intended purpose (diagnosis, prevention, monitoring, treatment of disease or injury). General wellness apps without medical claims are not regulated. See [SaMD & Digital Health](../special-topics/samd-digital-health).
+Only if it meets the definition of a medical device under Act 737 — i.e. it has a medical intended purpose (diagnosis, prevention, monitoring, treatment of disease or injury). General wellness apps without medical claims are not regulated. See [SaMD & Digital Health](../special-topics/samd-digital-health.md).
 
 ### Can I supply an unregistered device for a specific patient in Malaysia?
-Only through the **Special Access Route (SAR)**, which requires MDA approval. The application is typically made by the treating clinician or healthcare facility. See [Special Access Route](../special-topics/special-access-route).
+Only through the **Special Access Route (SAR)**, which requires MDA approval. The application is typically made by the treating clinician or healthcare facility. See [Special Access Route](../special-topics/special-access-route.md).
 
 ### Does Malaysia recognise the ASEAN CSDT format for registration?
-Yes. MDA accepts and encourages the use of the **ASEAN Common Submission Dossier Template (CSDT)** format for registration submissions. See [ASEAN Harmonisation](../special-topics/asean-harmonisation).
+Yes. MDA accepts and encourages the use of the **ASEAN Common Submission Dossier Template (CSDT)** format for registration submissions. See [ASEAN Harmonisation](../special-topics/asean-harmonisation.md).

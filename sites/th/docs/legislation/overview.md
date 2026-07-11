@@ -68,6 +68,12 @@ Ministerial Notifications under the MoPH provide operational detail for the Act:
 | **Consumer Protection Act** | Post-market advertising and consumer safety obligations |
 | **Industrial Products Standards Act** | Certain device-adjacent products may fall under industrial product standards |
 
+## Recent Developments (2026)
+
+- **UDI/labelling requirements** — New UDI and labelling requirements took effect **20 June 2026**, including the first-ever UDI requirement for Software as a Medical Device (SaMD), Class 2–4.
+- **Change Notification Guideline** — A new consolidated Change Notification Guideline was issued in **March 2026**, unifying prior guidance on notifying changes to registered devices.
+- **Thai FDA–Malaysia MDA reliance program** — The regulatory reliance program between Thai FDA and Malaysia's MDA was fully implemented from **1 May 2026** for Class B/C/D devices, allowing reliance on prior approvals between the two authorities.
+
 ## How to Access Thai Legislation
 
 - **Thai FDA website**: [www.fda.moph.go.th](https://www.fda.moph.go.th/) — official MoPH Notifications, guidance documents, Positive List, CSDT templates

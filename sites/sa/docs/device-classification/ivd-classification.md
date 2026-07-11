@@ -46,11 +46,11 @@ While the overall technical file structure is similar to general medical devices
 
 ## MDMA for IVDs
 
-All IVDs require MDMA via the TFA route. Grouping of IVDs in a single MDMA application is permitted (up to 50 items), provided they share the same legal manufacturer, risk class, and intended use. See [Device Grouping](../mdma-registration/device-grouping).
+All IVDs require MDMA via the TFA route. Grouping of IVDs in a single MDMA application is permitted (up to 50 items), provided they share the same legal manufacturer, risk class, and intended use. See [Device Grouping](../mdma-registration/device-grouping.md).
 
 ## Further reading
 
 - MDS-REQ 1 — IVD classification rules
-- [How Classification Works](./how-classification-works)
-- [MDMA Overview](../mdma-registration/mdma-overview)
+- [How Classification Works](./how-classification-works.md)
+- [MDMA Overview](../mdma-registration/mdma-overview.md)
 

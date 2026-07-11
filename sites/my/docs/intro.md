@@ -116,14 +116,14 @@ This reference covers the full lifecycle of a medical device in the Malaysian ma
 
 | Section | Topics |
 |---------|--------|
-| [Getting Started](./getting-started/intro) | Regulatory framework, MDA overview, product scope, roadmap |
-| [Device Classification](./device-classification/classification-overview) | Class A–D rules, IVD classification, worked examples |
-| [Establishment Licensing](./establishment-licensing/establishment-licence-overview) | Manufacturer, importer, distributor licences, LAR requirements |
-| [Device Registration](./device-registration/registration-overview) | Registration routes per class, IVD, renewal, MyMDA portal guide |
-| [Conformity Assessment](./conformity-assessment/conformity-assessment-overview) | QMS (ISO 13485), technical file, CAB review, MDSAP |
-| [Post-Market Requirements](./post-market-requirements/post-market-surveillance) | PMS, adverse event reporting, FSCA, MPR, PSUR, change notification |
-| [Special Topics](./special-topics/samd-digital-health) | SaMD, IVDs, custom devices, Special Access Route, ASEAN/AMDD, labelling |
-| [Reference](./reference/glossary) | Glossary, legislation list, useful links, FAQ |
+| [Getting Started](./getting-started/intro.md) | Regulatory framework, MDA overview, product scope, roadmap |
+| [Device Classification](./device-classification/classification-overview.md) | Class A–D rules, IVD classification, worked examples |
+| [Establishment Licensing](./establishment-licensing/establishment-licence-overview.md) | Manufacturer, importer, distributor licences, LAR requirements |
+| [Device Registration](./device-registration/registration-overview.md) | Registration routes per class, IVD, renewal, MyMDA portal guide |
+| [Conformity Assessment](./conformity-assessment/conformity-assessment-overview.md) | QMS (ISO 13485), technical file, CAB review, MDSAP |
+| [Post-Market Requirements](./post-market-requirements/post-market-surveillance.md) | PMS, adverse event reporting, FSCA, MPR, PSUR, change notification |
+| [Special Topics](./special-topics/samd-digital-health.md) | SaMD, IVDs, custom devices, Special Access Route, ASEAN/AMDD, labelling |
+| [Reference](./reference/glossary.md) | Glossary, legislation list, useful links, FAQ |
 
 ## Key Facts at a Glance
 
@@ -141,10 +141,10 @@ This reference covers the full lifecycle of a medical device in the Malaysian ma
 
 ## Where to Start
 
-- **New to Malaysian regulation?** → [Is Your Product a Medical Device?](./getting-started/is-your-product-a-medical-device) then the [Regulatory Roadmap](./getting-started/regulatory-roadmap)
-- **Ready to register?** → [Classification Overview](./device-classification/classification-overview) → [Establishment Licensing](./establishment-licensing/establishment-licence-overview) → [Device Registration](./device-registration/registration-overview)
-- **Already registered?** → [Post-Market Requirements](./post-market-requirements/post-market-surveillance)
-- **Foreign manufacturer?** → [Local Authorised Representative (LAR)](./establishment-licensing/local-authorised-representative)
+- **New to Malaysian regulation?** → [Is Your Product a Medical Device?](./getting-started/is-your-product-a-medical-device.md) then the [Regulatory Roadmap](./getting-started/regulatory-roadmap.md)
+- **Ready to register?** → [Classification Overview](./device-classification/classification-overview.md) → [Establishment Licensing](./establishment-licensing/establishment-licence-overview.md) → [Device Registration](./device-registration/registration-overview.md)
+- **Already registered?** → [Post-Market Requirements](./post-market-requirements/post-market-surveillance.md)
+- **Foreign manufacturer?** → [Local Authorised Representative (LAR)](./establishment-licensing/local-authorised-representative.md)
 
 :::info Disclaimer
 This site is an independent reference resource and is not affiliated with or endorsed by the Medical Device Authority (MDA) or the Ministry of Health Malaysia. Information is provided for guidance only. Always verify current requirements directly with [MDA](https://www.mda.gov.my) and via the [MyMDA portal](https://mymda.mda.gov.my).

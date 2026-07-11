@@ -25,4 +25,4 @@ Entities distributing medical devices in Korea must register with MFDS before co
 - Report adverse events they become aware of
 
 ## Related pages
-- [Importer licence](./importer-licence) · [Repair business registration](./repair-business-registration)
+- [Importer licence](./importer-licence.md) · [Repair business registration](./repair-business-registration.md)

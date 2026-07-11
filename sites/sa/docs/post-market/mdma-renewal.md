@@ -41,5 +41,5 @@ Some significant changes require a **new or supplementary MDMA application** rat
 ## Further reading
 
 - MDS-REQ 1 — MDMA renewal and change requirements
-- [MDMA Overview](../mdma-registration/mdma-overview)
-- [PMS & PSUR](./pms-psur)
+- [MDMA Overview](../mdma-registration/mdma-overview.md)
+- [PMS & PSUR](./pms-psur.md)

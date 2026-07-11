@@ -27,4 +27,4 @@ The **Medical Devices Act (의료기기법)** is the primary legislation governi
 Full text at [law.go.kr](https://www.law.go.kr) — search: 의료기기법
 
 ## Related pages
-- [IVD Act](./ivd-act) · [Enforcement Decree](./enforcement-decree) · [Enforcement Rules](./enforcement-rules)
+- [IVD Act](./ivd-act.md) · [Enforcement Decree](./enforcement-decree.md) · [Enforcement Rules](./enforcement-rules.md)

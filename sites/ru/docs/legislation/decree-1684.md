@@ -28,11 +28,11 @@ The fundamental two-phase registration process (Phase 1: dossier and initial exp
 
 ## EAEU transition
 
-Decree No. 1684 governs **national registration only**. From 1 January 2027, new submissions must be under the EAEU pathway (EEC Decision No. 46). Decree No. 1684 will cease to accept new applications from that date.
+Decree No. 1684 governs **national registration only**. New national submissions may be accepted until **31 December 2027** (extended via an EAEU Protocol signed 29 December 2025) — after that date, new submissions must be under the EAEU pathway (EEC Decision No. 46). National registration/re-registration completion under Union rules is permitted until **31 December 2028**.
 
 :::info Official source
-Government Decree No. 1684: [government.ru](https://government.ru/)
+Government Decree No. 1684: [government.ru](https://government.ru/) | EAEU Eurasian Economic Commission: [eec.eaeunion.org](https://eec.eaeunion.org/)
 :::
 
-Transition from Decree No. 1416: Manufacturers with existing registrations under Decree No. 1416 may continue to maintain and renew those registrations under the national pathway until 1 January 2027. Amendments to existing national registrations may be submitted under Decree No. 1684 rules. However, all new device registrations submitted after 1 January 2027 must follow the EAEU pathway under EEC Decision No. 46.
+Transition from Decree No. 1416: Manufacturers with existing registrations under Decree No. 1416 may continue to maintain and renew those registrations under the national pathway. New national submissions may be accepted until 31 December 2027, and national registration/re-registration completion under Union rules is permitted until 31 December 2028, per the EAEU Protocol signed 29 December 2025.
 

@@ -25,4 +25,4 @@ Inspectors will look for:
 - Change control records for any design modifications
 
 ## Related pages
-- [KGMP overview](../overview-kgmp) · [Technical documentation — design and manufacturing](../../pre-market/technical-documentation/design-and-manufacturing-information)
+- [KGMP overview](../overview-kgmp.md) · [Technical documentation — design and manufacturing](../../pre-market/technical-documentation/design-and-manufacturing-information.md)

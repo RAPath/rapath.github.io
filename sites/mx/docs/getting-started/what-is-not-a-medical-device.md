@@ -40,10 +40,10 @@ If a product achieves its primary intended effect via pharmacological, immunolog
 
 Not all software used in healthcare is a medical device. COFEPRIS has begun aligning with IMDRF SaMD guidance. General wellness apps, administrative software, and tools that simply store or transmit data without clinical decision-making are generally not regulated as medical devices.
 
-See [Software & SaMD classification](../device-classification/software-samd-classification) for detail.
+See [Software & SaMD classification](../device-classification/software-samd-classification.md) for detail.
 
 ## Related pages
 
 - [What is a medical device?](what-is-a-medical-device)
-- [Annex 2 — devices exempt from registration](../device-classification/low-risk-devices-annexes)
-- [Digital Health & SaMD](../digital-health/samd-overview)
+- [Annex 2 — devices exempt from registration](../device-classification/low-risk-devices-annexes.md)
+- [Digital Health & SaMD](../digital-health/samd-overview.md)

@@ -14,7 +14,7 @@ description: Philippines FDA / CDRRHR official guidance, ASEAN CSDT templates, f
 |----------|---------|--------|
 | DOH AO 2018-002 | Medical device registration requirements — full operational rules | FDA Philippines website |
 | FDA Circular 2022-008 | Abridged ASEAN NRA pathway — 30 working days | FDA Philippines website |
-| AO 2018-0002 | Labelling requirements | FDA Philippines website |
+| DOH AO 2018-0002 | Labelling requirements | FDA Philippines website |
 | DOH AO 50 s.2001 | Fee schedule for all FDA Philippines applications | FDA Philippines website |
 | ASEAN CSDT templates | Full format CSDT for Class B/C/D (CMDR) | FDA Philippines website / ASEAN resources |
 | Application forms | LTO, CMDN, CMDR application forms | FDA Philippines website / CDRRHR |
@@ -47,5 +47,3 @@ The Letter of Authorization (LOA) from foreign manufacturers must include a nota
 ## Official Source
 
 All documents: FDA Philippines CDRRHR — [www.fda.gov.ph/center-for-device-regulation-radiation-health-and-research/](https://www.fda.gov.ph/center-for-device-regulation-radiation-health-and-research/)
-
-Change 'AO 2018-0002' to 'DOH AO 2018-0002' in both instances where it appears in the 'Key CDRRHR / FDA Philippines Documents' table and in the 'Administrative Orders' section.

@@ -140,11 +140,11 @@ This information must be updated if the manufacturer's details change. Manufactu
 
 ## Related pages
 
-- [Who needs to comply?](../who-needs-to-comply)
-- [Authorised representatives (EU REPs)](./authorised-representatives)
-- [Importers](./importers)
-- [Distributors](./distributors)
-- [Person responsible for regulatory compliance](./person-responsible-for-regulatory-compliance)
+- [Who needs to comply?](../who-needs-to-comply.md)
+- [Authorised representatives (EU REPs)](./authorised-representatives.md)
+- [Importers](./importers.md)
+- [Distributors](./distributors.md)
+- [Person responsible for regulatory compliance](./person-responsible-for-regulatory-compliance.md)
 - [Quality Management System](/pre-market/conformity-assessment/qms)
 - [Technical documentation](/pre-market/technical-documentation)
 - [Post-market surveillance](/post-market/post-market-surveillance)

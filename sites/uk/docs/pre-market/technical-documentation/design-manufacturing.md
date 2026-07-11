@@ -164,11 +164,11 @@ Any changes to the device design — materials, components, manufacturing proces
 
 ## Related pages
 
-- [Technical documentation overview](./overview)
-- [Device description & specifications](./device-description)
-- [Risk management (ISO 14971)](./risk-management)
-- [Clinical evaluation summary](./clinical-evaluation-summary)
-- [Essential Requirements overview](../essential-requirements/overview)
+- [Technical documentation overview](./overview.md)
+- [Device description & specifications](./device-description.md)
+- [Risk management (ISO 14971)](./risk-management.md)
+- [Clinical evaluation summary](./clinical-evaluation-summary.md)
+- [Essential Requirements overview](../essential-requirements/overview.md)
 
 ---
 

@@ -157,5 +157,4 @@ RAPath provides free, open regulatory reference guides for multiple jurisdiction
 - [United States (FDA)](https://rapath.org/us/)
 - **Saudi Arabia (SFDA)** — you are here
 
-Questions, corrections, or contributions? Visit the [RAPath hub](https://rapath.org/) or open an issue in the [GitHub repository](https://github.com/rapath).
-                                                                                                                                                   
+Questions, corrections, or contributions? Visit the [RAPath hub](https://rapath.org/) or open an issue in the [GitHub repository](https://github.com/RAPath/rapath.github.io).

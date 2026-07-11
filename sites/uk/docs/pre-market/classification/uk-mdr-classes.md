@@ -9,7 +9,7 @@ tags: [uk-mdr, classification, class-i, class-iia, class-iib, class-iii, pre-mar
 ---
 
 :::note[Regulatory basis]
-Device classes for general medical devices are defined by the classification rules in **Schedule 2** of the UK Medical Devices Regulations 2002 (Part I). Class determines the conformity assessment route under **Schedule 3**. Active implantable devices are governed by Part II (see [AIMD](./active-implantable-devices)). IVDs are classified separately (see [IVD classification](./ivd-classification)).
+Device classes for general medical devices are defined by the classification rules in **Schedule 2** of the UK Medical Devices Regulations 2002 (Part I). Class determines the conformity assessment route under **Schedule 3**. Active implantable devices are governed by Part II (see [AIMD](./active-implantable-devices.md)). IVDs are classified separately (see [IVD classification](./ivd-classification.md)).
 :::
 
 :::warning[Disclaimer]
@@ -221,13 +221,13 @@ Manufacturers must classify their devices independently under each framework for
 
 ## Related pages
 
-- [How classification works](./how-classification-works) — Schedule 2 rule-by-rule application
-- [Classification rules — Schedule 2 in detail](./classification-rules)
-- [IVD classification — List A · List B · Self-test · General](./ivd-classification)
-- [Active implantable devices (AIMD)](./active-implantable-devices)
-- [Software & SaMD classification](./software-samd-classification)
-- [Conformity assessment overview](../conformity-assessment/overview)
-- [UK Approved Bodies](../../approved-bodies/what-are-approved-bodies)
+- [How classification works](./how-classification-works.md) — Schedule 2 rule-by-rule application
+- [Classification rules — Schedule 2 in detail](./classification-rules.md)
+- [IVD classification — List A · List B · Self-test · General](./ivd-classification.md)
+- [Active implantable devices (AIMD)](./active-implantable-devices.md)
+- [Software & SaMD classification](./software-samd-classification.md)
+- [Conformity assessment overview](../conformity-assessment/overview.md)
+- [UK Approved Bodies](../../approved-bodies/what-are-approved-bodies.md)
 
 ---
 

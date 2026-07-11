@@ -27,4 +27,4 @@ For Grade III and IV devices, **general public advertising must be reviewed and 
 - Medical Devices Act, Article 24 · MFDS Notification — Advertising Standards
 
 ## Related pages
-- [Permitted and prohibited claims](./permitted-and-prohibited-claims)
+- [Permitted and prohibited claims](./permitted-and-prohibited-claims.md)

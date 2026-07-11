@@ -11,7 +11,7 @@ Swissmedic has adopted a pragmatic, risk-based approach to digital health regula
 ## Key Regulatory Principles for Digital Health Products in Switzerland
 
 **Intended purpose is decisive**
-A digital health product — whether a mobile app, connected wearable, AI-powered diagnostic tool, or cloud-based clinical decision support system — is regulated as a medical device only if its manufacturer declares a medical intended purpose. General wellness apps, administrative healthcare software, and productivity tools are not medical devices. See [What is a Medical Device?](../start-here/what-is-a-medical-device) and [Software as a Medical Device](./samd-overview).
+A digital health product — whether a mobile app, connected wearable, AI-powered diagnostic tool, or cloud-based clinical decision support system — is regulated as a medical device only if its manufacturer declares a medical intended purpose. General wellness apps, administrative healthcare software, and productivity tools are not medical devices. See [What is a Medical Device?](../start-here/what-is-a-medical-device.md) and [Software as a Medical Device](./samd-overview.md).
 
 **Risk-proportionate regulation**
 Higher-risk digital health products (e.g. AI-powered diagnostic systems for serious conditions, closed-loop therapeutic control systems) are subject to more stringent conformity assessment than lower-risk products. The classification framework (MedDO Annex VIII Rules 11, 22) drives conformity assessment requirements.
@@ -22,6 +22,6 @@ Swiss digital health device regulation is substantively identical to EU MDR/IVDR
 ## Broader Swiss Digital Health Policy
 Swissmedic's medical device regulation sits within a broader Swiss digital health policy landscape:
 - **Electronic Patient Record (EPR/DEP)** — Switzerland's national electronic health record system under the Federal Act on the Electronic Patient Record (EPDG, SR 816.1). Medical device software that interacts with the EPR must comply with both MedDO/IVDO regulatory requirements and EPR (DEP) technical standards defined under EPDG. Manufacturers should verify compatibility with the current EPR/DEP interface specifications and security requirements published by the EPR competence center.
-- **Swiss Federal Data Protection Act (nFADP)** — Digital health devices processing patient data must comply with nFADP requirements for health data processing. See [Related Legislation](../legislation/related-legislation).
+- **Swiss Federal Data Protection Act (nFADP)** — Digital health devices processing patient data must comply with nFADP requirements for health data processing. See [Related Legislation](../legislation/related-legislation.md).
 - **Federal Office of Public Health (FOPH)** — Digital health policy at national level is coordinated by the FOPH, distinct from Swissmedic's regulatory function.
 

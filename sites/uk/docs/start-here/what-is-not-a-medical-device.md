@@ -38,7 +38,7 @@ Products that achieve their principal intended action through **pharmacological,
 
 Examples: tablets, capsules, injections, patches delivering a pharmacological agent, vaccines, monoclonal antibody treatments.
 
-A product may be partly medicinal and partly a device (combination products). See [Devices incorporating a medicinal substance](../pre-market/special-device-types/devices-incorporating-medicine).
+A product may be partly medicinal and partly a device (combination products). See [Devices incorporating a medicinal substance](../pre-market/special-device-types/devices-incorporating-medicine.md).
 
 ### 2. Cosmetic products
 
@@ -117,7 +117,7 @@ Products combining a medicinal substance and a medical device element where both
 
 ### Software and apps
 
-Software is explicitly within the medical device definition, but not all health-related software qualifies. Software that merely stores, archives, or transmits data without interpretation is not a medical device. Software that analyses data and outputs a result that informs clinical decisions likely is. See [Software & AI as a medical device](../pre-market/special-device-types/software-ai).
+Software is explicitly within the medical device definition, but not all health-related software qualifies. Software that merely stores, archives, or transmits data without interpretation is not a medical device. Software that analyses data and outputs a result that informs clinical decisions likely is. See [Software & AI as a medical device](../pre-market/special-device-types/software-ai.md).
 
 ### Dental products
 
@@ -146,11 +146,11 @@ MHRA also participates in the **Borderline and Classification Section (BCS)** ne
 
 ## Related pages
 
-- [What is a medical device?](./what-is-a-medical-device)
-- [What is an IVD?](./what-is-an-ivd)
-- [Software & AI as a medical device](../pre-market/special-device-types/software-ai)
-- [Devices incorporating a medicinal substance](../pre-market/special-device-types/devices-incorporating-medicine)
-- [Great Britain vs Northern Ireland](./great-britain-vs-northern-ireland) — Annex XVI gap between GB and NI
+- [What is a medical device?](./what-is-a-medical-device.md)
+- [What is an IVD?](./what-is-an-ivd.md)
+- [Software & AI as a medical device](../pre-market/special-device-types/software-ai.md)
+- [Devices incorporating a medicinal substance](../pre-market/special-device-types/devices-incorporating-medicine.md)
+- [Great Britain vs Northern Ireland](./great-britain-vs-northern-ireland.md) — Annex XVI gap between GB and NI
 
 ---
 

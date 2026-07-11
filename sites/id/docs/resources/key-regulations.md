@@ -8,16 +8,23 @@ description: Index of the primary laws, ministerial regulations, and government 
 
 ## Primary Medical Device Regulation
 
-### Permenkes No. 62 of 2017
-**Minister of Health Regulation on Marketing Authorisation of Medical Devices, IVDs, and Household Health Products**
+### Permenkes No. 5 of 2026 (current cornerstone regulation)
+**Minister of Health Regulation on Health Supplies (*Perbekalan Kesehatan*)**
 
-The cornerstone regulation for medical device registration in Indonesia. Establishes:
+Issued May 2026, this regulation consolidates approximately 40 prior ministerial regulations and subsumes the marketing-authorization framework previously set out in Permenkes 62/2017. It is now the cornerstone regulation for medical device registration in Indonesia. Establishes:
 - Requirement for NIE before any device can be distributed
 - Risk-based classification system (Class A–D)
 - Registration requirements and documentation
 - Local authorised representative obligations
-- One NIE, one holder rule (Article 13)
+- One NIE, one holder rule
 - Post-market surveillance obligations
+
+A 1-year transition period applies for holders of existing licences to come into compliance.
+
+### Permenkes No. 62 of 2017 (superseded/being phased out)
+**Minister of Health Regulation on Marketing Authorisation of Medical Devices, IVDs, and Household Health Products**
+
+Formerly the cornerstone regulation; being phased out following Permenkes 5/2026, though still relevant during the transition period for existing licence holders.
 
 ---
 

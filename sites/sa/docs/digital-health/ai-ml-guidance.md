@@ -35,9 +35,9 @@ For **adaptive AI/ML algorithms** (those that learn or update after deployment),
 
 ## Further reading
 
-- [SaMD Overview](./samd-overview)
-- [SFDA Digital Health Framework](./sfda-digital-health)
-- [Software & SaMD Classification](../device-classification/software-samd-classification)
+- [SaMD Overview](./samd-overview.md)
+- [SFDA Digital Health Framework](./sfda-digital-health.md)
+- [Software & SaMD Classification](../device-classification/software-samd-classification.md)
 
 When PCCPs are Required
 

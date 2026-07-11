@@ -37,5 +37,5 @@ These devices are classified and registered via MDMA like standard medical devic
 ## Further reading
 
 - MDS-G008 — Borderline and classification guidance
-- [What is a Medical Device?](../getting-started/what-is-a-medical-device)
-- [How Classification Works](./how-classification-works)
+- [What is a Medical Device?](../getting-started/what-is-a-medical-device.md)
+- [How Classification Works](./how-classification-works.md)

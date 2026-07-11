@@ -16,7 +16,7 @@ The following categories are generally **not** regulated as medical devices unde
 Products whose **principal intended action** is pharmacological, immunological, or metabolic are regulated as medicinal products (drugs) by the SFDA's Drug Sector — not as medical devices. This includes medicines, vaccines, and gene therapies.
 
 :::note Combination products
-A device that incorporates a medicinal substance as an integral part (e.g. a drug-eluting stent) is regulated as a **medical device** if the device component is the principal action. Products where the medicinal component is the principal action are regulated as medicines. See [Devices Incorporating Medicinal Substances](../mdma-registration/special-device-types) for details.
+A device that incorporates a medicinal substance as an integral part (e.g. a drug-eluting stent) is regulated as a **medical device** if the device component is the principal action. Products where the medicinal component is the principal action are regulated as medicines. See [Devices Incorporating Medicinal Substances](../mdma-registration/special-device-types.md) for details.
 :::
 
 ### Cosmetics
@@ -36,7 +36,7 @@ Medical-grade PPE (e.g. surgical masks, medical gloves, protective gowns for cli
 :::
 
 ### Non-intended-purpose software and IT systems
-General-purpose software — hospital administration tools, electronic health record platforms not performing diagnostic analysis, accounting systems — does not qualify as a medical device. Only software with a specific medical intended purpose qualifies. See [Software as a Medical Device](../digital-health/samd-overview).
+General-purpose software — hospital administration tools, electronic health record platforms not performing diagnostic analysis, accounting systems — does not qualify as a medical device. Only software with a specific medical intended purpose qualifies. See [Software as a Medical Device](../digital-health/samd-overview.md).
 
 ## Borderline cases
 
@@ -61,8 +61,8 @@ When assessing whether a product is a medical device:
 
 - SFDA Medical Devices Law — Article 1
 - MDS-G008 — Classification guidance (borderline product guidance)
-- [What is a Medical Device?](./what-is-a-medical-device)
-- [Borderline and Combination Products](../device-classification/borderline-products)
+- [What is a Medical Device?](./what-is-a-medical-device.md)
+- [Borderline and Combination Products](../device-classification/borderline-products.md)
 
 Further reading
 ​

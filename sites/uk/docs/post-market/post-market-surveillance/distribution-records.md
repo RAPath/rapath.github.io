@@ -74,9 +74,9 @@ The entire supply chain must be traceable from manufacturer to end user. Where d
 
 ## Related pages
 
-- [PMS requirements by class](./pms-requirements-by-class)
-- [When an FSCA is required](../field-safety/when-fsca-required)
-- [Recalls — process and MHRA coordination](../field-safety/recalls-process)
+- [PMS requirements by class](./pms-requirements-by-class.md)
+- [When an FSCA is required](../field-safety/when-fsca-required.md)
+- [Recalls — process and MHRA coordination](../field-safety/recalls-process.md)
 
 ---
 

@@ -36,6 +36,6 @@ SFDA-accredited Conformity Assessment Bodies (CABs) for ISO 13485 certification 
 
 ## RAPath feedback and corrections
 
-This site is a community reference resource. If you identify inaccuracies or have suggestions for improvement, please open an issue in the [RAPath GitHub repository](https://github.com/rapath).
+This site is a community reference resource. If you identify inaccuracies or have suggestions for improvement, please open an issue in the [RAPath GitHub repository](https://github.com/RAPath/rapath.github.io).
 
 Clarify page structure: The page should be consistently labeled as either 'Regulatory Contacts & Further Help' or 'Resources & Glossary' throughout navigation and page headers.

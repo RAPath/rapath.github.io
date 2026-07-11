@@ -65,7 +65,7 @@ This process ensures that neither the device nor the medicinal component aspects
 The technical file for a device incorporating a medicinal substance must address:
 
 **Device aspects:**
-- Standard technical file contents for Class III devices (see [Technical documentation overview](../technical-documentation/overview))
+- Standard technical file contents for Class III devices (see [Technical documentation overview](../technical-documentation/overview.md))
 - Design dossier including the nature and function of the incorporated substance
 
 **Medicinal substance aspects:**
@@ -108,10 +108,10 @@ A drug-eluting coronary stent (e.g., sirolimus-eluting, everolimus-eluting) is t
 
 ## Related pages
 
-- [Borderline & combination products](../classification/borderline-combination-products)
-- [Classification rules — Rule 13](../classification/classification-rules)
-- [Class III · AIMD conformity assessment](../conformity-assessment/ukab-routes)
-- [UK Approved Bodies](../../approved-bodies/what-are-approved-bodies)
+- [Borderline & combination products](../classification/borderline-combination-products.md)
+- [Classification rules — Rule 13](../classification/classification-rules.md)
+- [Class III · AIMD conformity assessment](../conformity-assessment/ukab-routes.md)
+- [UK Approved Bodies](../../approved-bodies/what-are-approved-bodies.md)
 
 ---
 

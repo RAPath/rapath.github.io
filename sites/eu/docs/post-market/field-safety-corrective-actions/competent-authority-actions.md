@@ -108,9 +108,9 @@ Where a safety issue has EU-wide implications, the **MDCG** coordinates NCA resp
 
 ## Related pages
 
-- [When an FSCA is required](./when-fsca-required)
-- [Field safety notices](./field-safety-notices)
-- [Recalls — classification & coordination](./recalls-classification-coordination)
+- [When an FSCA is required](./when-fsca-required.md)
+- [Field safety notices](./field-safety-notices.md)
+- [Recalls — classification & coordination](./recalls-classification-coordination.md)
 - [Post-market surveillance requirements](/post-market/post-market-surveillance/pms-requirements)
 
 ---

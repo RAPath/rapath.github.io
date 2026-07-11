@@ -96,9 +96,9 @@ PSURs are not routinely published but are treated as confidential technical docu
 
 ## Related pages
 
-- [PMS requirements by class](./pms-requirements-by-class)
-- [Post-market clinical follow-up (PMCF)](./pmcf)
-- [UK Approved Bodies — surveillance audits](../../approved-bodies/ukab-audit-process)
+- [PMS requirements by class](./pms-requirements-by-class.md)
+- [Post-market clinical follow-up (PMCF)](./pmcf.md)
+- [UK Approved Bodies — surveillance audits](../../approved-bodies/ukab-audit-process.md)
 
 ---
 

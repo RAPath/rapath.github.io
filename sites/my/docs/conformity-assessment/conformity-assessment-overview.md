@@ -45,7 +45,7 @@ Manufacturer must maintain a current ISO 13485 certificate in parallel
 - Manufacturer self-declares conformity to Essential Principles
 - No independent third-party assessment required
 - Still requires documented evidence supporting the self-declaration
-- See [Class A — Notification](../device-registration/registration-class-a)
+- See [Class A — Notification](../device-registration/registration-class-a.md)
 
 ## Role of Conformity Assessment Bodies (CABs)
 
@@ -60,7 +60,7 @@ CABs recognised by MDA include international notified bodies (e.g., BSI, TÜV S�
 
 ## Standards in Conformity Assessment
 
-Compliance with applicable MDA-recognised or harmonised standards (such as ISO 13485 for QMS, ISO 14971 for risk management, and device-specific standards) creates a presumption of conformity with the corresponding Essential Principles. See [Recognised Standards](./recognised-standards) for the full standards list.
+Compliance with applicable MDA-recognised or harmonised standards (such as ISO 13485 for QMS, ISO 14971 for risk management, and device-specific standards) creates a presumption of conformity with the corresponding Essential Principles. See [Recognised Standards](./recognised-standards.md) for the full standards list.
 
 ## Summary by Device Class
 

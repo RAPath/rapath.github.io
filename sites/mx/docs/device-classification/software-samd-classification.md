@@ -30,7 +30,7 @@ Software is generally not regulated as a medical device when it:
 COFEPRIS is developing its regulatory framework for SaMD in line with IMDRF guidance. The NOM-241-SSA1-2025 GMP standard includes provisions for software lifecycle processes applicable to SaMD, and the Mexican Pharmacopoeia has introduced guidance for software classification and risk assessment.
 
 :::info Regulatory evolution
-The COFEPRIS SaMD framework is actively developing. Manufacturers of software products with medical claims should monitor COFEPRIS publications and the DOF for new guidance. See [What's New](../resources/useful-links) for the latest updates.
+The COFEPRIS SaMD framework is actively developing. Manufacturers of software products with medical claims should monitor COFEPRIS publications and the DOF for new guidance. See [What's New](../resources/useful-links.md) for the latest updates.
 :::
 
 ## Classification pathway for SaMD
@@ -43,7 +43,7 @@ Absent a dedicated SaMD classification rule, COFEPRIS applies the general three-
 
 ## Related pages
 
-- [Digital Health & SaMD — full section](../digital-health/samd-overview)
-- [AI/ML devices](../digital-health/ai-ml-devices)
+- [Digital Health & SaMD — full section](../digital-health/samd-overview.md)
+- [AI/ML devices](../digital-health/ai-ml-devices.md)
 - [How classification works](how-classification-works)
 

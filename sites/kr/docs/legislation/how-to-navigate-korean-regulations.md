@@ -27,5 +27,5 @@ Acts → Enforcement Decrees → Enforcement Rules → MFDS Notifications (고�
 Notifications are updated most frequently to reflect technical developments.
 
 ## Related pages
-- [Recent amendments](./recent-amendments) · [What's New](../whats-new/recent-regulatory-changes)
+- [Recent amendments](./recent-amendments.md) · [What's New](https://rapath.org/whats-new)
 

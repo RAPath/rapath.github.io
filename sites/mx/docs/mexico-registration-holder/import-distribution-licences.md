@@ -54,8 +54,8 @@ Third-party logistics providers (contract warehouse and distribution companies) 
 ## Related pages
 
 - [MRH obligations](mrh-obligations)
-- [Quality System — NOM-241](../quality-system/nom-241-overview)
-- [DIGIPRiS portal](../getting-started/digiepris-portal)
+- [Quality System — NOM-241](../quality-system/nom-241-overview.md)
+- [DIGIPRiS portal](../getting-started/digiepris-portal.md)
 
 ## Responsable Sanitario — Health Manager
 

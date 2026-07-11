@@ -35,9 +35,9 @@ While CE marking does not replace MDMA, manufacturers can **reuse most EU techni
 
 ## Further reading
 
-- [SFDA vs Other Regulators](./sfda-vs-regulators)
-- [GCC Harmonisation](./gcc-harmonization)
-- [MDMA Overview](../mdma-registration/mdma-overview)
+- [SFDA vs Other Regulators](./sfda-vs-regulators.md)
+- [GCC Harmonisation](./gcc-harmonization.md)
+- [MDMA Overview](../mdma-registration/mdma-overview.md)
 
 Post-SFDA Approval: Timing for GCC Expansion
 

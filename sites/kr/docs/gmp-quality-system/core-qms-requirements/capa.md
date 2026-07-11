@@ -28,4 +28,4 @@ Taken to eliminate the **cause** of a potential nonconformity to prevent occurre
 - Adverse events or complaints not triggering CAPA investigation
 
 ## Related pages
-- [KGMP overview](../overview-kgmp) · [Complaint handling](./complaint-handling)
+- [KGMP overview](../overview-kgmp.md) · [Complaint handling](./complaint-handling.md)

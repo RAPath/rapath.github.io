@@ -10,17 +10,17 @@ Understanding how Vietnam's regulatory framework compares with major internation
 
 ## Side-by-side comparison
 
-| Feature | Vietnam (DAV) | Australia (TGA) | EU (MDR/IVDR) | USA (FDA) | Singapore (HSA) |
-|---|---|---|---|---|---|
-| Primary law | Decree 98/2021 | Therapeutic Goods Act 1989 | EU MDR 2017/745 | FD&C Act / 21 CFR | Health Products Act |
-| Classification | Type A–D | Class I–III | Class I–IIa–IIb–III | Class I–II–III | Class A–D |
-| Market access | Declaration / Registration | ARTG listing/registration | CE marking (via Notified Body) | 510(k) / De Novo / PMA | Listing / Registration |
-| Pre-market review (low risk) | No (Type A/B self-declared) | No (Class I listing) | Limited (Class I) | Limited (Class I exempt) | No (Class A self-declared) |
-| Pre-market review (high risk) | Yes (Type C/D — DAV review) | Yes (TGA evaluation) | Yes (Notified Body conformity assessment) | Yes (FDA 510(k)/PMA review) | Yes (HSA review) |
-| QMS requirement | ISO 13485 / MDSAP | ISO 13485 / MDSAP | ISO 13485 | QMS Regulation (21 CFR 820) — QMSR does not mandate ISO 13485 certification but ISO 13485 alignment is strongly encouraged; both QMS approaches are acceptable for FDA compliance. | ISO 13485 / MDSAP |
-| Local representative | Required (foreign manufacturers) | Required (Sponsor) | Required (Authorised Rep) | Required (US Agent) | Required (Local Reg Agent) |
-| Dossier format | ASEAN CSDT | ARTG dossier | GSPR + Technical File + CER | eSTAR (510k/PMA) | ASEAN CSDT |
-| UDI | Planned | Implemented | Implemented | Implemented | Planned |
+| Feature | Vietnam (DAV) | Australia (TGA) | EU (MDR/IVDR) | USA (FDA) | Singapore (HSA) | UK (MHRA) |
+|---|---|---|---|---|---|---|
+| Primary law | Decree 98/2021 | Therapeutic Goods Act 1989 | EU MDR 2017/745 | FD&C Act / 21 CFR | Health Products Act | Medical Devices Regulations 2002 / upcoming changes |
+| Classification | Type A–D | Class I–III | Class I–IIa–IIb–III | Class I–II–III | Class A–D | Class I–IV |
+| Market access | Declaration / Registration | ARTG listing/registration | CE marking (via Notified Body) | 510(k) / De Novo / PMA | Listing / Registration | CE marking via Notified Body / UKCA marking post-Brexit |
+| Pre-market review (low risk) | No (Type A/B self-declared) | No (Class I listing) | Limited (Class I) | Limited (Class I exempt) | No (Class A self-declared) | Limited (Class I) |
+| Pre-market review (high risk) | Yes (Type C/D — DAV review) | Yes (TGA evaluation) | Yes (Notified Body conformity assessment) | Yes (FDA 510(k)/PMA review) | Yes (HSA review) | Yes (Approved Body conformity assessment) |
+| QMS requirement | ISO 13485 / MDSAP | ISO 13485 / MDSAP | ISO 13485 | QMS Regulation (21 CFR 820) — QMSR does not mandate ISO 13485 certification but ISO 13485 alignment is strongly encouraged; both QMS approaches are acceptable for FDA compliance. | ISO 13485 / MDSAP | ISO 13485 |
+| Local representative | Required (foreign manufacturers) | Required (Sponsor) | Required (Authorised Rep) | Required (US Agent) | Required (Local Reg Agent) | Required (UK Responsible Person) |
+| Dossier format | ASEAN CSDT | ARTG dossier | GSPR + Technical File + CER | eSTAR portal (510(k) / PMA via eCopy format) | ASEAN CSDT | Technical File / Design Dossier |
+| UDI | Planned | Implemented | Implemented | Implemented | Planned | Planned |
 
 ## Using foreign approvals to support Vietnam registration
 
@@ -51,8 +51,3 @@ Vietnam participates in IMDRF and generally aligns with IMDRF guidance on:
 - UDI (planned adoption)
 
 IMDRF-aligned submissions are well-positioned for Vietnam as DAV updates its guidance to reflect IMDRF developments.
-
-Either add a UK (MHRA) column to the comparison table with relevant data, or remove the reference to MHRA from the page description. If adding MHRA, include columns for: Primary law (Medical Devices Regulations 2002 / upcoming changes), Classification (Class I-IV), Market access (CE marking via Notified Body / UKCA marking post-Brexit), Pre-market review requirements, QMS requirement, Local representative, Dossier format, and UDI status.
-
-Revise the USA dossier format entry to: 'eSTAR portal (510(k) / PMA via eCopy format)' for clarity.
-

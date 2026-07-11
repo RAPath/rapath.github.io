@@ -52,7 +52,7 @@ A CE certificate is not required and does not exempt a device from SFDA MDMA. Ho
 
 ## MDMA validity and renewal
 
-The MDMA certificate is typically valid for **one to three years** depending on device class and the nature of the application. Renewal must be submitted via GHAD before expiry. See [MDMA Renewal](../post-market/mdma-renewal) for details.
+The MDMA certificate is typically valid for **one to three years** depending on device class and the nature of the application. Renewal must be submitted via GHAD before expiry. See [MDMA Renewal](../post-market/mdma-renewal.md) for details.
 
 ## Fees
 
@@ -60,11 +60,11 @@ Application fees vary by device class, complexity, and the number of items bundl
 
 ## Further reading
 
-- [MDMA-2 (TFA Route)](./tfa-route)
-- [GHAD Portal](./ghad-portal)
-- [Device Grouping](./device-grouping)
-- [SFDA Review Timelines](./review-timelines)
-- [MDMA Renewal](../post-market/mdma-renewal)
+- [MDMA-2 (TFA Route)](./tfa-route.md)
+- [GHAD Portal](./ghad-portal.md)
+- [Device Grouping](./device-grouping.md)
+- [SFDA Review Timelines](./review-timelines.md)
+- [MDMA Renewal](../post-market/mdma-renewal.md)
 
 ## Who needs MDMA?
 

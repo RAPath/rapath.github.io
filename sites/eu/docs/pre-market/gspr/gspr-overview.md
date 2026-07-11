@@ -32,9 +32,9 @@ Annex I of both MDR and IVDR is divided into three chapters:
 
 | Chapter | Content | Pages in this site |
 |---|---|---|
-| **Chapter I** — General Requirements | Fundamental safety obligations — that devices are safe, perform as intended, and risks are acceptable | [Chapter I — General requirements](./chapter-i-general-requirements) |
-| **Chapter II** — Requirements Regarding Design and Manufacture | Specific technical requirements for how devices are designed, constructed, and validated | [Chapter II — Design & construction](./chapter-ii-design-construction) |
-| **Chapter III** — Requirements Regarding the Information Supplied with the Device | Labelling, instructions for use (IFU), and symbols | [Chapter III — IFU & labelling](./chapter-iii-ifu-labelling) |
+| **Chapter I** — General Requirements | Fundamental safety obligations — that devices are safe, perform as intended, and risks are acceptable | [Chapter I — General requirements](./chapter-i-general-requirements.md) |
+| **Chapter II** — Requirements Regarding Design and Manufacture | Specific technical requirements for how devices are designed, constructed, and validated | [Chapter II — Design & construction](./chapter-ii-design-construction.md) |
+| **Chapter III** — Requirements Regarding the Information Supplied with the Device | Labelling, instructions for use (IFU), and symbols | [Chapter III — IFU & labelling](./chapter-iii-ifu-labelling.md) |
 
 ---
 
@@ -142,10 +142,10 @@ IVDR Annex I largely mirrors MDR Annex I, but with modifications for the in vitr
 
 ## Related pages
 
-- [Chapter I — General requirements](./chapter-i-general-requirements)
-- [Chapter II — Design & construction](./chapter-ii-design-construction)
-- [Chapter III — IFU & labelling](./chapter-iii-ifu-labelling)
-- [GSPR checklist & compliance](./gspr-checklist)
+- [Chapter I — General requirements](./chapter-i-general-requirements.md)
+- [Chapter II — Design & construction](./chapter-ii-design-construction.md)
+- [Chapter III — IFU & labelling](./chapter-iii-ifu-labelling.md)
+- [GSPR checklist & compliance](./gspr-checklist.md)
 - [Technical documentation — GSPR cross-reference](/pre-market/technical-documentation/gspr-cross-reference)
 - [Risk management](/pre-market/technical-documentation/risk-management)
 

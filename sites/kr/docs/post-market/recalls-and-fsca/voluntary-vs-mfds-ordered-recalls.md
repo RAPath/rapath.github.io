@@ -23,6 +23,6 @@ MFDS may **order a mandatory recall** when:
 Failure to comply is a serious regulatory violation — potential for criminal penalties.
 
 ## Related pages
-- [When a recall or FSCA is required](./when-recall-or-fsca-required) · [MFDS-initiated corrective actions](./mfds-initiated-corrective-actions)
+- [When a recall or FSCA is required](./when-recall-or-fsca-required.md) · [MFDS-initiated corrective actions](./mfds-initiated-corrective-actions.md)
 
 Notification timeline: Manufacturers must notify MFDS of a voluntary recall before or at the time of initiation. Notification should be submitted via the adverse event/recall reporting portal or eSubmission system and must include the product identification (품목허가 number, batch/lot/serial numbers, UDI if applicable), reason for recall, and expected completion date.

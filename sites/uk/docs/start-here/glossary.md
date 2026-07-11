@@ -49,7 +49,7 @@ The conformity mark of the European Union, required for devices placed on the EU
 The document that summarises the clinical evidence for a medical device — demonstrating that the device's clinical benefits outweigh its risks for its intended purpose. Must be maintained and updated throughout the device's market life.
 
 **Combination product**
-A product combining a medical device and a medicinal substance (or biological product) in an integral presentation. Classification as a device or medicine depends on the principal mode of action. See [Devices incorporating a medicinal substance](../pre-market/special-device-types/devices-incorporating-medicine).
+A product combining a medical device and a medicinal substance (or biological product) in an integral presentation. Classification as a device or medicine depends on the principal mode of action. See [Devices incorporating a medicinal substance](../pre-market/special-device-types/devices-incorporating-medicine.md).
 
 **Conformity assessment**
 The process by which a manufacturer demonstrates that their device meets the Essential Requirements of UK MDR 2002. May involve self-declaration (lower-risk devices) or UK Approved Body involvement (higher-risk devices).

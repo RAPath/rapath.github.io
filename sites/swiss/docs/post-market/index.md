@@ -6,12 +6,12 @@ description: Post-market obligations for medical devices in Switzerland — vigi
 
 | Sub-section | Covers |
 |---|---|
-| [Post-Market Overview](./post-market-overview) | Ongoing responsibilities, key obligations by device class |
-| [Vigilance Reporting](./vigilance/what-must-be-reported) | Serious incidents, reporting timeframes, eVigilance portal |
-| [Post-Market Surveillance](./pms/pms-overview) | PMS plan, PMS report, PSUR, PMCF/PMPF |
-| [Field Safety Corrective Actions](./fsca/when-fsca-required) | When an FSCA is required, process, Swissmedic notification |
-| [Labelling & UDI](./labelling/labelling-overview) | MedDO Annex I §23, DE/FR/IT language requirements, UDI, eIFUs |
-| [Advertising & Promotion](./advertising/advertising-overview) | TPA Chapter 4 advertising rules |
+| [Post-Market Overview](./post-market-overview.md) | Ongoing responsibilities, key obligations by device class |
+| [Vigilance Reporting](./vigilance/what-must-be-reported.md) | Serious incidents, reporting timeframes, eVigilance portal |
+| [Post-Market Surveillance](./pms/pms-overview.md) | PMS plan, PMS report, PSUR, PMCF/PMPF |
+| [Field Safety Corrective Actions](./fsca/when-fsca-required.md) | When an FSCA is required, process, Swissmedic notification |
+| [Labelling & UDI](./labelling/labelling-overview.md) | MedDO Annex I §23, DE/FR/IT language requirements, UDI, eIFUs |
+| [Advertising & Promotion](./advertising/advertising-overview.md) | TPA Chapter 4 advertising rules |
 | [Registration Maintenance](./registration-maintenance/registration-maintenance.md) | DAPI updates, significant changes |
 
 :::warning Disclaimer

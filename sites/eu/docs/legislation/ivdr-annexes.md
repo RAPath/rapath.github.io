@@ -164,8 +164,8 @@ Currently reserved; no content assigned.
 
 ## Related pages
 
-- [IVDR key articles](./ivdr-key-articles)
-- [MDR Annexes](./mdr-annexes)
+- [IVDR key articles](./ivdr-key-articles.md)
+- [MDR Annexes](./mdr-annexes.md)
 - [Classification — IVDR classes](/pre-market/classification/ivd-classes)
 - [Performance evaluation](/pre-market/clinical-evidence/performance-evaluation)
 

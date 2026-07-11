@@ -8,7 +8,7 @@ description: CH REP obligations under MedDO Art. 56–59 — who must appoint on
 A **Swiss Authorised Representative (CH REP)** is a natural or legal person **established in Switzerland** who is mandated in writing by a non-Swiss manufacturer to perform or assist with the manufacturer's obligations under MedDO/IVDO. The CH REP is a **mandatory requirement** for every non-Swiss manufacturer before devices can be placed on the Swiss market. Legal basis: **MedDO Art. 56–59**.
 
 ## Who Must Appoint a CH REP
-Every manufacturer not established in Switzerland — including EU, UK, US, Japanese, and Australian manufacturers — must appoint a CH REP before placing devices on the Swiss market (subject to MRA status — see [MRA with EU](../legislation/mra-with-eu)).
+Every manufacturer not established in Switzerland — including EU, UK, US, Japanese, and Australian manufacturers — must appoint a CH REP before placing devices on the Swiss market (subject to MRA status — see [MRA with EU](../legislation/mra-with-eu.md)).
 
 ## Establishment Requirement
 The CH REP must be **legally established in Switzerland** with a registered office or branch with substantive operations. A postal address alone does not satisfy this requirement.

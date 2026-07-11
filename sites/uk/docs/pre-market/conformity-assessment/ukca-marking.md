@@ -158,13 +158,13 @@ Given UKAB capacity constraints, starting UKCA transition significantly before t
 
 ## Related pages
 
-- [Conformity assessment overview](./overview)
-- [Class I self-declaration pathway](./class-i-self-declaration)
-- [UK declaration of conformity](./uk-declaration-of-conformity)
-- [CE marking — transitional acceptance in GB](./ce-marking-transitional)
-- [UK Approved Bodies](../../approved-bodies/what-are-approved-bodies)
-- [Labelling requirements](../../post-market/labelling-advertising/labelling-requirements)
-- [Post-Brexit transition timeline](../../start-here/post-brexit-transition-timeline)
+- [Conformity assessment overview](./overview.md)
+- [Class I self-declaration pathway](./class-i-self-declaration.md)
+- [UK declaration of conformity](./uk-declaration-of-conformity.md)
+- [CE marking — transitional acceptance in GB](./ce-marking-transitional.md)
+- [UK Approved Bodies](../../approved-bodies/what-are-approved-bodies.md)
+- [Labelling requirements](../../post-market/labelling-advertising/labelling-requirements.md)
+- [Post-Brexit transition timeline](../../start-here/post-brexit-transition-timeline.md)
 
 ---
 

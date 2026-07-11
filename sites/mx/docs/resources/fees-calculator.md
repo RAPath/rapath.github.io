@@ -46,9 +46,9 @@ Third-party fee calculator tools (such as those offered by regulatory consulting
 
 ## Related pages
 
-- [Registration fees & timelines](../premarket/registration-fees-timelines)
-- [Registration renewal](../postmarket/registration-renewal)
-- [DIGIPRiS portal](../getting-started/digiepris-portal)
+- [Registration fees & timelines](../premarket/registration-fees-timelines.md)
+- [Registration renewal](../postmarket/registration-renewal.md)
+- [DIGIPRiS portal](../getting-started/digiepris-portal.md)
 - [Useful links](useful-links)
 
 Note: Class II and Class III new registration fees are subject to annual updates in the Ley Federal de Derechos. Current 2025 figures should be verified directly via the DOF or COFEPRIS before submission, as these fees are not published on this reference page.

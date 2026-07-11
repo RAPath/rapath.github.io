@@ -124,10 +124,10 @@ The SSCP is distinct from the DoC — it is consumer-facing and provides transpa
 
 ## Related pages
 
-- [Conformity assessment — overview](./conformity-assessment-overview)
-- [Annex IX — QMS + Tech Doc](./annex-ix-qms-tech-doc)
-- [Annex X — Type examination](./annex-x-type-examination)
-- [Class I self-declaration](./class-i-self-declaration)
+- [Conformity assessment — overview](./conformity-assessment-overview.md)
+- [Annex IX — QMS + Tech Doc](./annex-ix-qms-tech-doc.md)
+- [Annex X — Type examination](./annex-x-type-examination.md)
+- [Class I self-declaration](./class-i-self-declaration.md)
 - [EUDAMED registration](/post-market/eudamed-registration/overview)
 
 ---

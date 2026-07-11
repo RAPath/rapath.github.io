@@ -65,8 +65,8 @@ Symposia, exhibitions, and promotional activities directed at HCPs are all subje
 
 ## Related pages
 
-- [Labelling requirements](./labelling-requirements)
-- [Permitted & prohibited claims](./permitted-prohibited-claims)
+- [Labelling requirements](./labelling-requirements.md)
+- [Permitted & prohibited claims](./permitted-prohibited-claims.md)
 
 ---
 

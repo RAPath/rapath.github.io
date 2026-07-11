@@ -124,8 +124,8 @@ Manufacturers should monitor:
 
 ## Related pages
 
-- [EUDAMED overview](./overview)
-- [Economic operator registration (SRN)](./economic-operator-registration)
+- [EUDAMED overview](./overview.md)
+- [Economic operator registration (SRN)](./economic-operator-registration.md)
 - [UDI overview & structure](/pre-market/udi-system/udi-overview)
 - [EUDAMED vigilance module](/post-market/adverse-event-reporting/eudamed-vigilance-module)
 

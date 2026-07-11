@@ -26,7 +26,7 @@ An establishment licence is:
 | Acting as Local Authorised Representative for a foreign manufacturer | LAR (treated as importer/manufacturer agent) |
 
 :::note Foreign Manufacturers
-Foreign manufacturers do not directly apply for a Malaysian establishment licence. Instead, they must appoint a **Local Authorised Representative (LAR)** in Malaysia who holds the licence on their behalf. See [Local Authorised Representative](./local-authorised-representative).
+Foreign manufacturers do not directly apply for a Malaysian establishment licence. Instead, they must appoint a **Local Authorised Representative (LAR)** in Malaysia who holds the licence on their behalf. See [Local Authorised Representative](./local-authorised-representative.md).
 :::
 
 ## General Requirements for All Licences
@@ -60,7 +60,7 @@ Operating without a valid establishment licence is an offence under Act 737:
 
 ## Application Process
 
-All establishment licence applications are submitted via the **[MyMDA portal](https://mymda.mda.gov.my)**. See [MyMDA Portal — Establishment](./mymda-establishment) for a step-by-step guide.
+All establishment licence applications are submitted via the **[MyMDA portal](https://mymda.mda.gov.my)**. See [MyMDA Portal — Establishment](./mymda-establishment.md) for a step-by-step guide.
 
 **Processing time:** Approximately **30 working days** for new applications; **14 working days** for renewals.
 

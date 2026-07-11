@@ -115,7 +115,7 @@ Classification determines everything that follows. Manufacturers must apply the 
 
 Classification must be **documented in the technical file** with a rationale referencing the specific Schedule 2 rules applied.
 
-See [How classification works](../pre-market/classification/how-classification-works) for the full rule-by-rule detail.
+See [How classification works](../pre-market/classification/how-classification-works.md) for the full rule-by-rule detail.
 
 ---
 
@@ -132,7 +132,7 @@ The Essential Requirements cover:
 - Requirements for devices placed on the market in a sterile condition
 - Information to be supplied with the device (labelling and IFU)
 
-Conformity with designated UK standards (harmonised standards adopted by BSI) provides a presumption of conformity with the relevant Essential Requirements. See [Essential Requirements](../pre-market/essential-requirements/overview).
+Conformity with designated UK standards (harmonised standards adopted by BSI) provides a presumption of conformity with the relevant Essential Requirements. See [Essential Requirements](../pre-market/essential-requirements/overview.md).
 
 ---
 
@@ -152,7 +152,7 @@ The **technical file** is the core document demonstrating that the device meets 
 
 For Class III and AIMD devices, a more detailed **design dossier** is required and must be submitted to a UKAB for examination.
 
-The technical file must be maintained and updated throughout the device's market life. See [Technical documentation](../pre-market/technical-documentation/overview).
+The technical file must be maintained and updated throughout the device's market life. See [Technical documentation](../pre-market/technical-documentation/overview.md).
 
 ---
 
@@ -187,7 +187,7 @@ The conformity assessment procedure confirms that the device meets the Essential
 
 The conformity assessment culminates in the manufacturer issuing a **UK Declaration of Conformity** and affixing the **UKCA mark** (or relying on CE marking under transitional acceptance until 30 June 2030).
 
-See [Conformity assessment](../pre-market/conformity-assessment/overview).
+See [Conformity assessment](../pre-market/conformity-assessment/overview.md).
 
 ---
 
@@ -202,7 +202,7 @@ Registration covers:
 
 Registration is a mandatory administrative step — separate from, and in addition to, the conformity assessment process.
 
-See [MHRA registration](../pre-market/mhra-registration/who-must-register).
+See [MHRA registration](../pre-market/mhra-registration/who-must-register.md).
 
 ---
 
@@ -232,7 +232,7 @@ PMS data sources include:
 
 PMS feeds back into the risk management file, clinical evaluation, and technical documentation — which must all be kept current.
 
-See [Post-market surveillance](../../post-market/post-market-surveillance/pms-requirements-by-class).
+See [Post-market surveillance](../post-market/post-market-surveillance/pms-requirements-by-class.md).
 
 ---
 
@@ -249,7 +249,7 @@ When a device causes — or may cause — a **serious injury or death**, or a **
 
 Reports are submitted to MHRA via the Yellow Card scheme or MHRA Submissions portal.
 
-See [Vigilance & adverse event reporting](../../post-market/vigilance/what-must-be-reported).
+See [Vigilance & adverse event reporting](../post-market/vigilance/what-must-be-reported.md).
 
 ---
 
@@ -263,7 +263,7 @@ PSUR frequency:
 
 PSURs must be made available to UKABs and MHRA on request.
 
-See [Post-market surveillance](../../post-market/post-market-surveillance/pms-requirements-by-class).
+See [Post-market surveillance](../post-market/post-market-surveillance/pms-requirements-by-class.md).
 
 ---
 
@@ -279,7 +279,7 @@ Significant changes may require:
 
 Manufacturers should have a documented change control procedure within their QMS.
 
-See [Keeping registration up to date](../../post-market/mhra-registration-maintenance/keeping-registration-up-to-date).
+See [Keeping registration up to date](../post-market/mhra-registration-maintenance/keeping-registration-up-to-date.md).
 
 ---
 
@@ -315,13 +315,13 @@ MHRA may require manufacturers to maintain support (spare parts, maintenance) fo
 
 ## Related pages
 
-- [Classification](../pre-market/classification/how-classification-works)
-- [Essential Requirements](../pre-market/essential-requirements/overview)
-- [Technical documentation](../pre-market/technical-documentation/overview)
-- [Conformity assessment](../pre-market/conformity-assessment/overview)
-- [MHRA registration](../pre-market/mhra-registration/who-must-register)
-- [Post-market surveillance](../../post-market/post-market-surveillance/pms-requirements-by-class)
-- [Vigilance reporting](../../post-market/vigilance/what-must-be-reported)
+- [Classification](../pre-market/classification/how-classification-works.md)
+- [Essential Requirements](../pre-market/essential-requirements/overview.md)
+- [Technical documentation](../pre-market/technical-documentation/overview.md)
+- [Conformity assessment](../pre-market/conformity-assessment/overview.md)
+- [MHRA registration](../pre-market/mhra-registration/who-must-register.md)
+- [Post-market surveillance](../post-market/post-market-surveillance/pms-requirements-by-class.md)
+- [Vigilance reporting](../post-market/vigilance/what-must-be-reported.md)
 
 ---
 

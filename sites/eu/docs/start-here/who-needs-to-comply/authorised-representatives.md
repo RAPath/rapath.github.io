@@ -130,10 +130,10 @@ MDR/IVDR do not specify a mandatory notice period, but MDCG guidance recommends 
 
 ## Related pages
 
-- [Who needs to comply?](../who-needs-to-comply)
-- [Manufacturers](./manufacturers)
-- [Importers](./importers)
-- [Distributors](./distributors)
+- [Who needs to comply?](../who-needs-to-comply.md)
+- [Manufacturers](./manufacturers.md)
+- [Importers](./importers.md)
+- [Distributors](./distributors.md)
 - [EUDAMED registration](/post-market/eudamed-registration)
 - [Non-EU & third-country access](/non-eu-access)
 

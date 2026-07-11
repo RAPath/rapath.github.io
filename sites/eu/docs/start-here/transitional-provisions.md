@@ -192,12 +192,12 @@ When in doubt, manufacturers should document their change impact assessment and 
 
 ## Related pages
 
-- [Regulatory framework overview](./regulatory-framework-overview)
-- [Lifecycle of a medical device](./lifecycle-of-a-medical-device)
+- [Regulatory framework overview](./regulatory-framework-overview.md)
+- [Lifecycle of a medical device](./lifecycle-of-a-medical-device.md)
 - [Pre-market overview](/pre-market)
 - [Notified bodies](/notified-bodies)
 - [EUDAMED registration](/post-market/eudamed-registration)
-- [What's new — Reforms tracker](/whats-new/reforms-tracker)
+- [What's new — Reforms tracker](https://rapath.org/whats-new)
 
 ---
 

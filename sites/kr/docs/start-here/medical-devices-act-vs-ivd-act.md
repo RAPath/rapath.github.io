@@ -29,4 +29,4 @@ Is the product used outside the body to examine human specimens?
 Contact MFDS for a product determination when a device crosses both Acts.
 
 ## Related pages
-- [MFDS — structure and role](./mfds-structure-and-role) · [IVD classification](../pre-market/classification/ivd-classification)
+- [MFDS — structure and role](./mfds-structure-and-role.md) · [IVD classification](../pre-market/classification/ivd-classification.md)

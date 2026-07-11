@@ -27,7 +27,7 @@ A significant change to a device design, intended purpose, materials, software, 
 The manufacturer must assess the significance of the change against the Essential Requirements. If the change is material to the device's safety or performance, MHRA registration must reflect the updated device, and the UKAB must be notified per the terms of the certificate.
 
 ### FSCA and recall
-As described in [When an FSCA is required](../field-safety/when-fsca-required), FSCAs must be notified to MHRA within 10 calendar days of the FSCA decision — this is separate from registration update.
+As described in [When an FSCA is required](../field-safety/when-fsca-required.md), FSCAs must be notified to MHRA within 10 calendar days of the FSCA decision — this is separate from registration update.
 
 ### Serious incidents
 Serious incidents must be reported to MHRA via the vigilance system — separately from registration update.

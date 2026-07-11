@@ -5,9 +5,9 @@ description: Labelling and UDI requirements for medical devices in Switzerland �
 # Labelling & UDI
 | Page | Covers |
 |---|---|
-| [Labelling Requirements](./labelling-overview) | MedDO Annex I §23 mandatory elements; Swiss DE/FR/IT language requirements |
-| [UDI in Switzerland](./udi-in-switzerland) | UDI-DI and UDI-PI; GS1/HIBCC; DAPI UDI registration; IVD UDI |
-| [IFUs and eIFUs](./ifus-and-eifus) | Paper IFU requirements; conditions for eIFU under MedDO; Swissmedic eIFU notification |
+| [Labelling Requirements](./labelling-overview.md) | MedDO Annex I §23 mandatory elements; Swiss DE/FR/IT language requirements |
+| [UDI in Switzerland](./udi-in-switzerland.md) | UDI-DI and UDI-PI; GS1/HIBCC; DAPI UDI registration; IVD UDI |
+| [IFUs and eIFUs](./ifus-and-eifus.md) | Paper IFU requirements; conditions for eIFU under MedDO; Swissmedic eIFU notification |
 
 :::warning Disclaimer
 AI-assisted content for navigation only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.

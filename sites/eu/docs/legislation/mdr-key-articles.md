@@ -206,11 +206,11 @@ Repeal of Directives 90/385/EEC (AIMDD) and 93/42/EEC (MDD).
 
 ## Related pages
 
-- [IVDR key articles](./ivdr-key-articles)
-- [MDR Annexes](./mdr-annexes)
-- [IVDR Annexes](./ivdr-annexes)
-- [How to read EU legislation](./how-to-read-eu-legislation)
-- [Recent amendments & corrigenda](./recent-amendments)
+- [IVDR key articles](./ivdr-key-articles.md)
+- [MDR Annexes](./mdr-annexes.md)
+- [IVDR Annexes](./ivdr-annexes.md)
+- [How to read EU legislation](./how-to-read-eu-legislation.md)
+- [Recent amendments & corrigenda](./recent-amendments.md)
 
 ---
 

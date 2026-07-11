@@ -33,7 +33,7 @@ Korea has been at the forefront of **AI/ML medical device regulation**, with MFD
 MFDS has developed or is finalizing PCCP guidance allowing manufacturers to pre-define the scope of future algorithm changes that do not require a new 품목허가 submission. [Note: Verify current status as of 2024 to confirm whether this is still 'developing' or has been released]
 
 ## Related pages
-- [AI/ML-based medical devices](../pre-market/special-device-types/ai-ml-medical-devices) · [MFDS digital health framework](./mfds-digital-health-framework)
+- [AI/ML-based medical devices](../pre-market/special-device-types/ai-ml-medical-devices.md) · [MFDS digital health framework](./mfds-digital-health-framework.md)
 
 Risk-based explainability requirement: MFDS requires explainability documentation proportionate to the device's risk classification and intended use. For Grade III–IV AI/ML devices or those used in high-stakes clinical decisions (e.g., cancer diagnosis), full model explainability with interpretability techniques is mandatory. Lower-risk Grade I–II applications may satisfy requirements through performance metrics documentation and general algorithm description instead of detailed model architecture explanation.
 

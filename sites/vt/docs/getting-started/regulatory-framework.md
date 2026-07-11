@@ -50,11 +50,11 @@ Vietnam is a member of the **Association of Southeast Asian Nations (ASEAN)** an
 | Instrument | Subject |
 |---|---|
 | Decree 98/2021/ND-CP | Core medical device regulation |
-| Decree 03/2023/ND-CP | Amendments to Decree 98 |
+| Decree 07/2023/ND-CP | Amendments to Decree 98 |
 | Circular 05/2022/TT-BYT | Import/export procedures |
 | Circular 29/2022/TT-BYT | Clinical trial requirements |
 | Circular 14/2020/TT-BYT | Device classification rules |
 
-For full legislative coverage, see the [Legislation section](../legislation/decree-98-2021).
+For full legislative coverage, see the [Legislation section](../legislation/decree-98-2021.md).
 
 For detailed information on DMEC account setup, submission procedures, and technical requirements, see the dedicated DMEC Portal page.

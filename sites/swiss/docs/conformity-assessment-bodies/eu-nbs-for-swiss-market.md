@@ -23,7 +23,7 @@ Swissmedic does not conduct a separate independent technical review of the NB's 
 | Chapter 4 operational | CE-marked devices: simplified DAPI notification generally sufficient |
 | Chapter 4 not fully operational | Full DAPI registration required for all classes; EU NB certificate is the evidentiary basis |
 
-See [MRA with EU — Current Status](../legislation/mra-with-eu).
+See [MRA with EU — Current Status](../legislation/mra-with-eu.md).
 
 ## Official Sources
 - [NANDO database](https://ec.europa.eu/growth/tools-databases/nando)

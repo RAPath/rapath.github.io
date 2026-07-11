@@ -130,7 +130,7 @@ Hong Kong regulates medical devices through the **Medical Device Administrative 
 - **[Digital Health & SaMD](/digital-health/samd-overview)** — MDD approach to software and AI/ML, cybersecurity
 
 :::info No standalone Medical Device Ordinance yet
-Hong Kong does not yet have a statutory medical device law. A proposed Medical Devices Ordinance is under development. See [What's New](/whats-new/recent-changes) for the latest.
+Hong Kong does not yet have a statutory medical device law. A proposed Medical Devices Ordinance is under development. See [What's New](https://rapath.org/whats-new) for the latest.
 :::
 
 ---

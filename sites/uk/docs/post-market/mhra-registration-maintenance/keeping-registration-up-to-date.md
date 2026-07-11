@@ -62,9 +62,9 @@ Failure to maintain current MHRA registration can:
 
 ## Related pages
 
-- [Notifying changes to MHRA](./notifying-changes)
-- [Annual fees](./annual-fees)
-- [Who must register with MHRA](../../pre-market/mhra-registration/who-must-register)
+- [Notifying changes to MHRA](./notifying-changes.md)
+- [Annual fees](./annual-fees.md)
+- [Who must register with MHRA](../../pre-market/mhra-registration/who-must-register.md)
 
 ---
 

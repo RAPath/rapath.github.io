@@ -52,5 +52,5 @@ This page compares COFEPRIS's regulatory framework with other major medical devi
 
 - [PANDRH & Latin America](pandrh-latam)
 - [Multi-market submission strategy](multi-market-strategy)
-- [Equivalency Route](../premarket/equivalency-route)
+- [Equivalency Route](../premarket/equivalency-route.md)
 - [MDSAP recognition](mdsap-recognition)

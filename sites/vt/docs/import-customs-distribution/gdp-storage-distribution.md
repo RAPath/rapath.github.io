@@ -52,7 +52,7 @@ In the event of a Field Safety Corrective Action (FSCA), distributors must be ab
 - Contact affected customers within the timeframe specified in the FSCA plan
 - Coordinate with the Authorised Representative or manufacturer on recall or correction activities
 
-→ See [FSCA & Recalls](../post-market/fsca-recalls)
+→ See [FSCA & Recalls](../post-market/fsca-recalls.md)
 
 ## DMEC portal — distribution records
 

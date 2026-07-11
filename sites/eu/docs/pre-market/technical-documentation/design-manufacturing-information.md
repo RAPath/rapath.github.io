@@ -138,10 +138,10 @@ MDCG 2020-3 provides guidance on significant changes to medical devices.
 
 ## Related pages
 
-- [Technical documentation — overview](./technical-documentation-overview)
-- [Device description & specification](./device-description-specification)
-- [GSPR cross-reference](./gspr-cross-reference)
-- [Risk management](./risk-management)
+- [Technical documentation — overview](./technical-documentation-overview.md)
+- [Device description & specification](./device-description-specification.md)
+- [GSPR cross-reference](./gspr-cross-reference.md)
+- [Risk management](./risk-management.md)
 - [Conformity assessment — Annex IX (QMS)](/pre-market/conformity-assessment/annex-ix-qms-tech-doc)
 
 ---

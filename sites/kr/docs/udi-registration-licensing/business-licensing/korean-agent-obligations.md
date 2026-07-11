@@ -27,7 +27,7 @@ Foreign manufacturers without a Korean legal entity must appoint a Korean agent 
 A formal written agreement between the foreign manufacturer and the Korean agent documenting respective responsibilities is expected by MFDS.
 
 ## Related pages
-- [Importer licence](./importer-licence) · [Foreign GMP certificate requirement](../../gmp-quality-system/foreign-manufacturers/foreign-gmp-certificate-requirement)
+- [Importer licence](./importer-licence.md) · [Foreign GMP certificate requirement](../../gmp-quality-system/foreign-manufacturers/foreign-gmp-certificate-requirement.md)
 
 ## Appointment and Registration Process
 

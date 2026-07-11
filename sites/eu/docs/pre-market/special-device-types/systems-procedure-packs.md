@@ -108,7 +108,7 @@ If the assembler modifies a component device in any way that could affect its sa
 ## Related pages
 
 - [Who needs to comply?](/start-here/who-needs-to-comply)
-- [Devices incorporating a medicinal substance](./devices-incorporating-medicine)
+- [Devices incorporating a medicinal substance](./devices-incorporating-medicine.md)
 - [Conformity assessment — overview](/pre-market/conformity-assessment/conformity-assessment-overview)
 
 ---

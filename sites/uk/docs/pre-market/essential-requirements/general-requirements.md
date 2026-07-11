@@ -186,10 +186,10 @@ Together, they define the minimum standard of safety and performance that justif
 
 ## Related pages
 
-- [Essential Requirements — overview](./overview)
-- [Design and construction — ER 7–17](./design-construction-requirements)
-- [IVD Essential Requirements (Schedule 1A)](./ivd-essential-requirements)
-- [Technical documentation overview](../technical-documentation/overview)
+- [Essential Requirements — overview](./overview.md)
+- [Design and construction — ER 7–17](./design-construction-requirements.md)
+- [IVD Essential Requirements (Schedule 1A)](./ivd-essential-requirements.md)
+- [Technical documentation overview](../technical-documentation/overview.md)
 - [Clinical evidence — what is required](../clinical-evidence/what-is-required)
 
 ---

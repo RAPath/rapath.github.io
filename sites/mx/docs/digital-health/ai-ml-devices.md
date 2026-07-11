@@ -44,9 +44,9 @@ If an AI/ML device has FDA 510(k)/De Novo/PMA clearance or CE Mark under EU MDR,
 ## Related pages
 
 - [SaMD in Mexico — overview](samd-overview)
-- [Software & SaMD classification](../device-classification/software-samd-classification)
-- [Equivalency Route](../premarket/equivalency-route)
-- [IMDRF membership](../international/imdrf-membership)
+- [Software & SaMD classification](../device-classification/software-samd-classification.md)
+- [Equivalency Route](../premarket/equivalency-route.md)
+- [IMDRF membership](../international/imdrf-membership.md)
 
 Manufacturers of AI/ML devices should establish a plan for monitoring real-world performance post-deployment. This includes tracking algorithm accuracy, identifying subgroup performance issues, and reporting significant deviations to COFEPRIS via the technovigilance system (NOM-240). For adaptive AI/ML systems, document how model retraining is governed and whether retraining triggers a modification application.
 

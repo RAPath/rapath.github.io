@@ -25,4 +25,4 @@ Manufacturers and importers may **appeal** MFDS administrative actions through:
 3. Administrative courts (행정소송)
 
 ## Related pages
-- [MFDS inspection types and authority](./mfds-inspection-types-and-authority) · [Fines and penalty provisions](./fines-and-penalty-provisions)
+- [MFDS inspection types and authority](./mfds-inspection-types-and-authority.md) · [Fines and penalty provisions](./fines-and-penalty-provisions.md)

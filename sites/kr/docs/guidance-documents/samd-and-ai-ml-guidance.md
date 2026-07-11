@@ -21,7 +21,7 @@ MFDS SaMD guidance aligns with:
 - **IMDRF N23** — SaMD: Clinical Evaluation
 
 ## Related pages
-- [SaMD — MFDS policy](../pre-market/special-device-types/samd-mfds-policy) · [AI/ML medical devices](../pre-market/special-device-types/ai-ml-medical-devices)
+- [SaMD — MFDS policy](../pre-market/special-device-types/samd-mfds-policy.md) · [AI/ML medical devices](../pre-market/special-device-types/ai-ml-medical-devices.md)
 
 ## Key MFDS guidance documents
 

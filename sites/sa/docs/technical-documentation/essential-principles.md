@@ -46,5 +46,5 @@ An Essential Principles checklist or compliance matrix — listing each applicab
 ## Further reading
 
 - MDS-REQ 2 — Essential Principles
-- [Technical File Overview](./technical-file-overview)
-- [Risk Management](./risk-management)
+- [Technical File Overview](./technical-file-overview.md)
+- [Risk Management](./risk-management.md)

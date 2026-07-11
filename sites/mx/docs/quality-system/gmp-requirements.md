@@ -81,8 +81,8 @@ NOM-241 requires **written technical agreements** between the MRH and each distr
 
 - [NOM-241 overview](nom-241-overview)
 - [COFEPRIS inspections](inspections-cofepris)
-- [Technovigilance overview](../postmarket/technovigilance-overview)
-- [MRH obligations](../mexico-registration-holder/mrh-obligations)
+- [Technovigilance overview](../postmarket/technovigilance-overview.md)
+- [MRH obligations](../mexico-registration-holder/mrh-obligations.md)
 
 ## Document and record controls
 

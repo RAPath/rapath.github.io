@@ -23,7 +23,7 @@ Swissmedic may issue **safety communications** to healthcare professionals, pati
 Safety communications are published on the Swissmedic website and may be distributed through cantonal health authorities and professional associations.
 
 ## Coordination with EU Competent Authorities
-Where Swissmedic takes protective measures against a CE-marked device, it notifies the relevant EU member state competent authorities. Similarly, Swissmedic receives information about EU safeguard measures and evaluates whether parallel action in Switzerland is warranted. This coordination operates through bilateral arrangements and the EU RAPEX/EUDAMED safety alert exchange mechanisms.
+Where Swissmedic takes protective measures against a CE-marked device, it notifies the relevant EU member state competent authorities. Similarly, Swissmedic receives information about EU safeguard measures and evaluates whether parallel action in Switzerland is warranted. This coordination operates through bilateral arrangements and the EU RAPEX (Rapid Alert System for Non-Food Products) / EUDAMED safety alert exchange mechanisms.
 
 ## Official Sources
 - [MedDO Art. 90–96 (SR 812.213)](https://www.fedlex.admin.ch/eli/cc/2021/205/en)
@@ -32,5 +32,3 @@ Where Swissmedic takes protective measures against a CE-marked device, it notifi
 :::warning Disclaimer
 AI-assisted navigation aid only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.
 :::
-
-Modify the sentence 'This coordination operates through bilateral arrangements and the EU RAPEX/EUDAMED safety alert exchange mechanisms.' to: 'This coordination operates through bilateral arrangements and the EU RAPEX (Rapid Alert System for Non-Food Products) / EUDAMED safety alert exchange mechanisms.'

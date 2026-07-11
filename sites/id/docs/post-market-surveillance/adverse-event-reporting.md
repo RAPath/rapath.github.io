@@ -60,5 +60,5 @@ For serious incidents, Kemenkes may require:
 If the manufacturer issues a global safety advisory or field safety notice for a device registered in Indonesia, the LAR must:
 1. Notify Kemenkes promptly
 2. Provide a translation of the safety notice in Bahasa Indonesia
-3. Coordinate the field safety corrective action in Indonesia (see [FSCA](./field-safety-corrective-actions))
+3. Coordinate the field safety corrective action in Indonesia (see [FSCA](./field-safety-corrective-actions.md))
 

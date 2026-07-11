@@ -5,9 +5,9 @@ description: Post-market surveillance for Swiss medical devices — PMS plan, PS
 # Post-Market Surveillance
 | Page | Covers |
 |---|---|
-| [PMS Overview](./pms-overview) | PMS plan, PMS report vs PSUR, data sources, feedback loop |
-| [PSUR](./psur) | When required (Class IIa+), content, submission to NB and Swissmedic |
-| [PMCF and PMPF](./pmcf-pmpf) | Post-market clinical/performance follow-up plans and reports |
+| [PMS Overview](./pms-overview.md) | PMS plan, PMS report vs PSUR, data sources, feedback loop |
+| [PSUR](./psur.md) | When required (Class IIa+), content, submission to NB and Swissmedic |
+| [PMCF and PMPF](./pmcf-pmpf.md) | Post-market clinical/performance follow-up plans and reports |
 
 :::warning Disclaimer
 AI-assisted content for navigation only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.

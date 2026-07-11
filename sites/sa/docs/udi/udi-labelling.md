@@ -35,6 +35,6 @@ Different DIs may be assigned to different packaging configurations of the same 
 ## Further reading
 
 - MDS-REQ 7 — UDI labelling requirements
-- [UDI Overview](./udi-overview)
-- [UDI Data Submission](./udi-data-submission)
-- [Labelling & IFU](../technical-documentation/labelling-ifu)
+- [UDI Overview](./udi-overview.md)
+- [UDI Data Submission](./udi-data-submission.md)
+- [Labelling & IFU](../technical-documentation/labelling-ifu.md)

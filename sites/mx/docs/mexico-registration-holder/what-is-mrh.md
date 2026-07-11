@@ -56,7 +56,7 @@ Changing MRH is a formal COFEPRIS transfer process. The registration remains wit
 - [MRH obligations](mrh-obligations)
 - [Appointing an MRH](appointing-mrh)
 - [Changing or transferring your MRH](changing-mrh)
-- [Who needs to comply?](../getting-started/who-needs-to-comply)
+- [Who needs to comply?](../getting-started/who-needs-to-comply.md)
 
 ## The independent firm vs distributor dilemma
 

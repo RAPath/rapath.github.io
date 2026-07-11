@@ -84,6 +84,6 @@ description: Detailed overview of Mexico's three medical device risk classes, th
 
 - [How classification works](how-classification-works)
 - [Low-risk devices — Annexes 1–3](low-risk-devices-annexes)
-- [Standard Registration Route](../premarket/standard-route)
-- [Equivalency Route](../premarket/equivalency-route)
+- [Standard Registration Route](../premarket/standard-route.md)
+- [Equivalency Route](../premarket/equivalency-route.md)
 

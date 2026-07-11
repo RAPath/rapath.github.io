@@ -23,6 +23,6 @@ MFDS may impose **conditions** such as mandatory PMCF studies, restricted indica
 품목허가 certificates do not automatically expire, but must be kept current. Maintain active GMP certificate and notify MFDS of changes.
 
 ## Related pages
-- [MFDS review process](./mfds-review-process-and-timelines) · [Post-market overview](../../post-market/overview)
+- [MFDS review process](./mfds-review-process-and-timelines.md) · [Post-market overview](../../post-market/overview.md)
 
 PMCF conditions may require ongoing safety and performance data collection after approval. Approved devices remain valid indefinitely provided the GMP certificate and product status remain current; however, MFDS may require periodic documentation of compliance with approval conditions.

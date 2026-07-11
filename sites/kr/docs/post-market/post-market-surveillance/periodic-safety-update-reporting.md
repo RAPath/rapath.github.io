@@ -19,4 +19,4 @@ Specified by MFDS — typically **annually** for the first few years post-approv
 - Proposed actions if a safety signal is identified
 
 ## Related pages
-- [PMS plan and report](./pms-plan-and-report) · [Re-examination system](./re-examination-system)
+- [PMS plan and report](./pms-plan-and-report.md) · [Re-examination system](./re-examination-system.md)

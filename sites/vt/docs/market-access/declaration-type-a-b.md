@@ -11,7 +11,7 @@ The Declaration pathway — **Công bố** — is the market access route for Ty
 ## Who submits the declaration?
 
 - **Vietnamese manufacturers** submit in their own name
-- **Foreign manufacturers** must submit through their appointed **Vietnamese Authorised Representative** (see [Authorised Representative](../import-customs-distribution/authorised-representative))
+- **Foreign manufacturers** must submit through their appointed **Vietnamese Authorised Representative** (see [Authorised Representative](../import-customs-distribution/authorised-representative.md))
 
 ## Type A declaration — procedure
 
@@ -52,7 +52,7 @@ Type B requires submission of a technical dossier alongside the administrative d
 
 ## Declaration validity
 
-Declarations do not have a fixed expiry date under Decree 98/2021, but must be updated whenever a **significant change** is made to the device (see [Change Notification](../post-market/change-notification)).
+Declarations do not have a fixed expiry date under Decree 98/2021, but must be updated whenever a **significant change** is made to the device (see [Change Notification](../post-market/change-notification.md)).
 
 ## Post-declaration obligations
 

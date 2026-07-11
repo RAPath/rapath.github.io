@@ -23,19 +23,7 @@ CDSCO publishes guidance documents, office memoranda, and circulars on the [CDSC
 For the most current list, visit [CDSCO — Medical Devices Guidance](https://cdsco.gov.in/opencms/opencms/en/Medical-Device-Diagnostics/).
 
 :::info
-CDSCO guidance is not always published as standalone documents. Many requirements are communicated through office memoranda and gazette notifications. Monitor the CDSCO website and [What's New](/docs/whats-new/regulatory-changes) regularly.
+CDSCO guidance is not always published as standalone documents. Many requirements are communicated through office memoranda and gazette notifications. Monitor the CDSCO website and [What's New](https://rapath.org/whats-new) regularly.
 :::
-
-Change 'ND&CT Rules guidance' row to:
-
-Clinical investigation requirements | New Drugs and Clinical Trials Rules 2019 guidance | ND&CT Rules guidance
-
-Change the table row from:
-
-| Clinical investigation requirements | ND&CT Rules guidance |
-
-To:
-
-| Clinical investigation requirements | New Drugs and Clinical Trials Rules 2019 guidance |
 
 With 'ND&CT Rules guidance' appearing as the document type descriptor (left column) and 'Clinical investigation requirements' as the topic area.

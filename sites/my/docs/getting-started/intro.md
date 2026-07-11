@@ -30,7 +30,7 @@ This site covers the full lifecycle of a medical device in the Malaysian market:
 
 ## How to Use This Site
 
-Navigate using the sidebar. If you are new to Malaysian medical device regulation, start with **[What is a Medical Device?](./what-is-a-medical-device)** and the **[Regulatory Roadmap](./regulatory-roadmap)**.
+Navigate using the sidebar. If you are new to Malaysian medical device regulation, start with **[What is a Medical Device?](./what-is-a-medical-device.md)** and the **[Regulatory Roadmap](./regulatory-roadmap.md)**.
 
 :::info Official Source
 This guide is for reference only. Always verify current requirements with the **[Medical Device Authority](https://www.mda.gov.my)** and the **[MyMDA portal](https://mymda.mda.gov.my)**.

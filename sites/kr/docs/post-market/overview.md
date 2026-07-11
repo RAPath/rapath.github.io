@@ -15,5 +15,5 @@ Adverse event reporting — Manufacturers and importers must report serious or u
 MFDS runs its own market surveillance inspections, monitors adverse event databases, orders device testing from the market, and initiates re-evaluations based on international safety signals.
 
 ## Related pages
-- [Adverse event reporting](./adverse-event-reporting/what-must-be-reported) · [Re-examination](./post-market-surveillance/re-examination-system) · [Recalls and FSCA](./recalls-and-fsca/when-recall-or-fsca-required)
+- [Adverse event reporting](./adverse-event-reporting/what-must-be-reported.md) · [Re-examination](./post-market-surveillance/re-examination-system.md) · [Recalls and FSCA](./recalls-and-fsca/when-recall-or-fsca-required.md)
 

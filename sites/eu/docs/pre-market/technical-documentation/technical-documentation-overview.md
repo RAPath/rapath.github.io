@@ -49,7 +49,7 @@ MDR Annex II requires the following sections:
 - Functional description of how the device works
 - Novelty and comparison with previous generation or equivalent devices
 
-See [Device description & specification](./device-description-specification).
+See [Device description & specification](./device-description-specification.md).
 
 ### 2. Information to be supplied by the manufacturer
 
@@ -62,19 +62,19 @@ Copies of labelling and instructions for use (as per GSPR Chapter III). Applies 
 - Critical components and sub-assemblies
 - Sterilisation methods (if applicable)
 
-See [Design & manufacturing information](./design-manufacturing-information).
+See [Design & manufacturing information](./design-manufacturing-information.md).
 
 ### 4. General safety and performance requirements (GSPR)
 
 The GSPR cross-reference table — mapping each applicable GSPR to the evidence of compliance.
 
-See [GSPR cross-reference](./gspr-cross-reference).
+See [GSPR cross-reference](./gspr-cross-reference.md).
 
 ### 5. Benefit-risk analysis and risk management
 
 The risk management file (or reference to it). Summary of the benefit-risk assessment.
 
-See [Risk management](./risk-management).
+See [Risk management](./risk-management.md).
 
 ### 6. Verification and validation
 
@@ -114,7 +114,7 @@ A proactive plan for collecting post-market data. Must be updated at least annua
 - MDR: Post-Market Clinical Follow-up (PMCF) plan and evaluation report
 - IVDR: Post-Market Performance Follow-up (PMPF) plan and evaluation report
 
-See [Post-market data in technical documentation](./post-market-data-in-tech-doc).
+See [Post-market data in technical documentation](./post-market-data-in-tech-doc.md).
 
 ---
 
@@ -152,11 +152,11 @@ Technical documentation must be:
 
 ## Related pages
 
-- [Device description & specification](./device-description-specification)
-- [Design & manufacturing information](./design-manufacturing-information)
-- [GSPR cross-reference](./gspr-cross-reference)
-- [Risk management](./risk-management)
-- [Post-market data in technical documentation](./post-market-data-in-tech-doc)
+- [Device description & specification](./device-description-specification.md)
+- [Design & manufacturing information](./design-manufacturing-information.md)
+- [GSPR cross-reference](./gspr-cross-reference.md)
+- [Risk management](./risk-management.md)
+- [Post-market data in technical documentation](./post-market-data-in-tech-doc.md)
 - [Clinical evaluation](/pre-market/clinical-evidence/clinical-evaluation-overview)
 - [GSPR overview](/pre-market/gspr/gspr-overview)
 

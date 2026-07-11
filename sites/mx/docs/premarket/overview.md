@@ -38,7 +38,7 @@ COFEPRIS offers two pathways to sanitary registration:
 
 ## After registration
 
-Registration is the start of your obligations, not the end. Post-market requirements — technovigilance, GMP, labelling compliance, and 5-year renewal — begin immediately. See [Post-Market](../postmarket/overview).
+Registration is the start of your obligations, not the end. Post-market requirements — technovigilance, GMP, labelling compliance, and 5-year renewal — begin immediately. See [Post-Market](../postmarket/overview.md).
 
 ## Related pages
 
@@ -46,4 +46,4 @@ Registration is the start of your obligations, not the end. Post-market requirem
 - [Equivalency Route](equivalency-route)
 - [Technical dossier requirements](technical-dossier)
 - [Registration fees & timelines](registration-fees-timelines)
-- [Mexico Registration Holder](../mexico-registration-holder/what-is-mrh)
+- [Mexico Registration Holder](../mexico-registration-holder/what-is-mrh.md)

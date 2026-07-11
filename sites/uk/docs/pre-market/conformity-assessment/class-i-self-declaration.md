@@ -135,12 +135,12 @@ However, MHRA registration remains mandatory regardless of whether the device be
 
 ## Related pages
 
-- [Conformity assessment — overview](./overview)
-- [Class IIa · IIb · III — UK Approved Body routes](./ukab-routes)
-- [UKCA marking requirements](./ukca-marking)
-- [MHRA registration](../mhra-registration/who-must-register)
-- [Technical documentation overview](../technical-documentation/overview)
-- [Essential Requirements overview](../essential-requirements/overview)
+- [Conformity assessment — overview](./overview.md)
+- [Class IIa · IIb · III — UK Approved Body routes](./ukab-routes.md)
+- [UKCA marking requirements](./ukca-marking.md)
+- [MHRA registration](../mhra-registration/who-must-register.md)
+- [Technical documentation overview](../technical-documentation/overview.md)
+- [Essential Requirements overview](../essential-requirements/overview.md)
 
 ---
 

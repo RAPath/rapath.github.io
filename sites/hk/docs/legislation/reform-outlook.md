@@ -21,6 +21,10 @@ Consultation on a Medical Devices Ordinance has been completed. As of May 2026, 
 | MDD enforcement powers | Limited | Formal search, seize, prosecute |
 | Transition | — | Transition provisions expected for current MDACS listings |
 
+## Centre for Medical Products Regulation
+
+Hong Kong has announced plans to establish a **Centre for Medical Products Regulation** by the end of 2026, intended to strengthen the territory's regulatory capacity for medical products including devices, as part of the broader push toward statutory regulation.
+
 ## What to Do Now
 
 - Maintain current MDACS listings with up-to-date documentation

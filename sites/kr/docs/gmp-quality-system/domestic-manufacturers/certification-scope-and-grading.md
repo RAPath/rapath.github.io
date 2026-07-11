@@ -23,4 +23,4 @@ A **scope extension** application is required to add a new device category. MFDS
 The device applied for in a 품목허가 must fall within the **scope of the manufacturer's KGMP certificate**. If not, scope extension must be completed first.
 
 ## Related pages
-- [Application and certification process](./application-and-certification-process) · [MFDS on-site GMP inspection](./mfds-on-site-gmp-inspection)
+- [Application and certification process](./application-and-certification-process.md) · [MFDS on-site GMP inspection](./mfds-on-site-gmp-inspection.md)

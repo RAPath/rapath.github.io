@@ -47,4 +47,4 @@ In-vitro diagnostic devices follow a separate set of classification rules. See [
 
 ## ASEAN harmonisation
 
-Vietnam's classification rules are directly derived from the **ASEAN AMDD classification framework**, making them broadly compatible with rules applied in Singapore (HSA), Malaysia (MDA), Thailand (FDA Thailand), and other ASEAN member states. See [ASEAN & International](../asean-international/vietnam-asean-landscape).
+Vietnam's classification rules are directly derived from the **ASEAN AMDD classification framework**, making them broadly compatible with rules applied in Singapore (HSA), Malaysia (MDA), Thailand (FDA Thailand), and other ASEAN member states. See [ASEAN & International](../asean-international/vietnam-asean-landscape.md).

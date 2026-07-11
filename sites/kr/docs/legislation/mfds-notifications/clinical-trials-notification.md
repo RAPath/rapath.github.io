@@ -16,5 +16,5 @@ The **MFDS Clinical Trials Notification (의료기기 임상시험 계획 승인
 - Record-keeping and archiving (minimum retention periods)
 
 ## Related pages
-- [Clinical trial approval](../../pre-market/clinical-evidence/clinical-trial-approval) · [IRB and GCP requirements](../../pre-market/clinical-evidence/irb-and-gcp-requirements)
+- [Clinical trial approval](../../pre-market/clinical-evidence/clinical-trial-approval.md) · [IRB and GCP requirements](../../pre-market/clinical-evidence/irb-and-gcp-requirements.md)
 

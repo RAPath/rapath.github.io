@@ -119,15 +119,15 @@ A laboratory instrument sold as a general-purpose photometer is not an IVD. The 
 3. What information does it provide? Does the output fit one of the six categories listed in Art. 2(2)?
 4. Is it software? If so, does it interpret specimen-derived data, or merely process/store it?
 5. Is it also used on the body? If a device has both in vitro and in vivo functions, assess each function separately.
-6. Could it be MDR instead? See [MDR vs IVDR — which applies?](./mdr-vs-ivdr).
+6. Could it be MDR instead? See [MDR vs IVDR — which applies?](./mdr-vs-ivdr.md).
 
 ---
 
 ## Related pages
 
-- [What is a medical device?](./what-is-a-medical-device) — MDR equivalent definition
-- [What is not a medical device?](./what-is-not-a-medical-device)
-- [MDR vs IVDR — which applies?](./mdr-vs-ivdr)
+- [What is a medical device?](./what-is-a-medical-device.md) — MDR equivalent definition
+- [What is not a medical device?](./what-is-not-a-medical-device.md)
+- [MDR vs IVDR — which applies?](./mdr-vs-ivdr.md)
 - [Classification — Class A · B · C · D](/pre-market/classification/ivd-classes)
 - [Performance evaluation](/pre-market/clinical-evidence/performance-evaluation)
 - [Companion diagnostics](/pre-market/special-device-types/companion-diagnostics)

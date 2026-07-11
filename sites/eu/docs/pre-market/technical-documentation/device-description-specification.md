@@ -118,9 +118,9 @@ If the intended purpose changes — even slightly — a formal change control pr
 
 ## Related pages
 
-- [Technical documentation — overview](./technical-documentation-overview)
-- [GSPR cross-reference](./gspr-cross-reference)
-- [Risk management](./risk-management)
+- [Technical documentation — overview](./technical-documentation-overview.md)
+- [GSPR cross-reference](./gspr-cross-reference.md)
+- [Risk management](./risk-management.md)
 - [Clinical evaluation](/pre-market/clinical-evidence/clinical-evaluation-overview)
 - [UDI overview](/pre-market/udi-system/udi-overview)
 

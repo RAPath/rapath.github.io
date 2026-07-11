@@ -21,4 +21,4 @@ IVD (in vitro diagnostic) devices follow a performance evaluation pathway rather
 
 ## Companion diagnostics
 
-Require coordination with the drug's approval process — MFDS pharmaceutical division consulted. See [Companion diagnostics](../special-device-types/companion-diagnostics).
+Require coordination with the drug's approval process — MFDS pharmaceutical division consulted. See [Companion diagnostics](../special-device-types/companion-diagnostics.md).

@@ -20,4 +20,4 @@ Purchasing and supplier controls ensure that **externally provided products and 
 For sterile devices, sterilisation service providers are treated as **critical suppliers** requiring more rigorous evaluation and monitoring.
 
 ## Related pages
-- [KGMP overview](../overview-kgmp) · [Production and process controls](./production-and-process-controls)
+- [KGMP overview](../overview-kgmp.md) · [Production and process controls](./production-and-process-controls.md)

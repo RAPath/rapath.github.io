@@ -153,8 +153,8 @@ IVDR applied from **26 May 2022**, but with staggered transition deadlines for l
 
 ## Related pages
 
-- [How classification works](./how-classification-works)
-- [Classification rules 1–7](./ivd-classification-rules)
+- [How classification works](./how-classification-works.md)
+- [Classification rules 1–7](./ivd-classification-rules.md)
 - [Performance evaluation](/pre-market/clinical-evidence/performance-evaluation)
 - [Companion diagnostics](/pre-market/special-device-types/companion-diagnostics)
 - [Conformity assessment — overview](/pre-market/conformity-assessment/conformity-assessment-overview)

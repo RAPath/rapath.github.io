@@ -46,7 +46,7 @@ BPOM has authority to conduct Good Manufacturing Practice (GMP) inspections of m
 Risk-based inspection frequency: higher-risk devices (Class C and D) are subject to more frequent and intensive inspections.
 
 ### 2. Clinical Trial Authorisation
-Any clinical investigation involving an unregistered medical device in Indonesia requires **prior approval from BPOM** (in addition to ethics committee clearance). See the [Import for Research](../special-access/import-for-research) page for details.
+Any clinical investigation involving an unregistered medical device in Indonesia requires **prior approval from BPOM** (in addition to ethics committee clearance). See the [Import for Research](../special-access/import-for-research.md) page for details.
 
 ### 3. Drug-Device Combinations
 For devices that incorporate a pharmaceutical substance as an integral component, BPOM may be involved alongside Kemenkes in determining the primary regulatory pathway and applicable requirements.

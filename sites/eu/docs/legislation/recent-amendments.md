@@ -45,12 +45,23 @@ This site provides general information only. Legislative timelines and requireme
 - Class A self-declared: until **26 May 2027**
 
 ### Regulation (EU) 2024/1860 — Second IVDR transitional extension
-**Published**: 20 June (OJ L 2024/1860, 20.6.2024) 2024
+**Published**: 20 June 2024 (OJ L 2024/1860)
 **Effect**: Further extended IVDR transitional provisions:
 - Class D: certificates valid until **31 December 2027**
 - Class C: certificates valid until **31 December 2028**
 - Class B: certificates valid until **31 December 2029**
 - Class A self-declared: until **31 December 2030**
+
+---
+
+## Recent MDCG guidance updates (2026)
+
+### MDCG 2021-5 Rev.1 Appendix — EC REP to EU REP symbol transition
+**Effective**: 17 June 2026
+**Effect**: Introduces the transition from the "EC REP" (Authorised Representative) symbol to a new "EU REP" symbol on device labelling, with a 5-year coexistence period during which both symbols remain acceptable. The coexistence period ends **17 June 2031**, after which only the EU REP symbol may be used.
+
+### MDCG 2026-4 — SSCP/SSP EUDAMED upload responsibility
+**Effect**: Transfers responsibility for uploading the Summary of Safety and Clinical Performance (SSCP) and Summary of Safety and Performance (SSP) to EUDAMED from notified bodies to manufacturers.
 
 ---
 
@@ -72,28 +83,10 @@ The legislative landscape continues to evolve. Areas where further amendments ma
 | AI Act interface with MDR | Guidance and possible legislative clarification expected |
 | EUDAMED mandatory use dates | Phased implementation continues |
 
-→ See [Reforms tracker](/whats-new/reforms-tracker) for current monitoring.
+→ See [Reforms tracker](https://rapath.org/whats-new) for current monitoring.
 
 ---
 
 ## Related pages
 
-- [MDR key articles](./mdr-key-articles)
-- [IVDR key articles](./ivdr-key-articles)
-- [Legacy & grandfathered devices](/pre-market/special-device-types/legacy-grandfathered-devices)
-- [Transitional provisions & timelines](/start-here/transitional-provisions)
-- [What's new — recent regulatory changes](/whats-new/recent-regulatory-changes)
-
----
-
-## Official references
-
-| Reference | Description |
-|---|---|
-| OJ L 130, 24.4.2020 | Regulation (EU) 2020/561 — MDR COVID delay |
-| OJ L 080, 20.3.2023 | Regulation (EU) 2023/607 — MDR transitional extension |
-| OJ L 020, 28.1.2022 | Regulation (EU) 2022/112 — first IVDR extension |
-| OJ (2024) | Regulation (EU) 2024/1860 — second IVDR extension |
-| EUR-Lex | Consolidated MDR and IVDR texts |
-
-The entry shows 'Published: 20 June (OJ L 2024/1860, 20.6.2024) 2024' which is redundant. Change to: 'Published: 20 June 2024 (OJ L 2024/1860)'
+- [MDR key articles](./mdr-key-articles.md)

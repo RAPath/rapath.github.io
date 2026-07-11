@@ -48,11 +48,11 @@ Reagents, kits, instruments, and systems for examination of specimens from the h
 ## Borderline Products
 
 - **Combination products** (device + drug): classified based on primary mode of action
-- **Software**: wellness apps without medical claims are not in scope; see [SaMD & Digital Health](../special-topics/samd-digital-health)
+- **Software**: wellness apps without medical claims are not in scope; see [SaMD & Digital Health](../special-topics/samd-digital-health.md)
 - **Accessories**: accessories to a medical device are themselves regulated as medical devices
 
 :::tip Unsure About Your Product?
-Use the **[Is Your Product a Medical Device?](./is-your-product-a-medical-device)** decision guide or submit a product classification enquiry to MDA via the MyMDA portal.
+Use the **[Is Your Product a Medical Device?](./is-your-product-a-medical-device.md)** decision guide or submit a product classification enquiry to MDA via the MyMDA portal.
 :::
 
 **Combination Products (Device + Cosmetic)**

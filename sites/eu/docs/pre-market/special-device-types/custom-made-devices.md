@@ -104,7 +104,7 @@ Custom-made device manufacturers must register as economic operators in EUDAMED 
 
 - [Who needs to comply?](/start-here/who-needs-to-comply)
 - [GSPR overview](/pre-market/gspr/gspr-overview)
-- [Single-use devices & reprocessing](./single-use-reprocessing)
+- [Single-use devices & reprocessing](./single-use-reprocessing.md)
 
 ---
 

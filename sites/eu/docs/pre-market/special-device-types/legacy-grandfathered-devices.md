@@ -107,7 +107,7 @@ MDCG 2021-6 specifically addresses the challenge of demonstrating sufficient cli
 ## Related pages
 
 - [Transitional provisions & timelines](/start-here/transitional-provisions)
-- [What's new — reforms tracker](/whats-new/reforms-tracker)
+- [What's new — reforms tracker](https://rapath.org/whats-new)
 - [Conformity assessment — overview](/pre-market/conformity-assessment/conformity-assessment-overview)
 - [Clinical evaluation overview](/pre-market/clinical-evidence/clinical-evaluation-overview)
 

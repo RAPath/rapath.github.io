@@ -33,7 +33,7 @@ Confirm current dates with MFDS — the schedule may be updated.
 UDI-K is aligned with the IMDRF UDI guidance and is compatible with GS1 GTIN-based UDI systems used globally (FDA GUDID, EUDAMED UDI). Manufacturers already using GS1 GTINs for FDA or EUDAMED markets can reuse the same GTINs for UDI-K — no new identifier assignment is required, reducing compliance burden.
 
 ## Related pages
-- [Device identifier and production identifier](./device-identifier-and-production-identifier) · [KIMS database registration](./kims-database-registration) · [UDI labelling requirements](./udi-labelling-requirements)
+- [Device identifier and production identifier](./device-identifier-and-production-identifier.md) · [KIMS database registration](./kims-database-registration.md) · [UDI labelling requirements](./udi-labelling-requirements.md)
 
 note: Phase 1 (Grade IV) and Phase 2 (Grade III) are now in effect. Confirm Phase 3 and Phase 4 dates with MFDS — the schedule may be updated.
 

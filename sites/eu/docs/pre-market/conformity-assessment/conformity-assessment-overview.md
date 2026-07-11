@@ -115,12 +115,12 @@ Conformity assessment timelines vary significantly by:
 
 ## Related pages
 
-- [Annex IX — QMS + tech doc assessment](./annex-ix-qms-tech-doc)
-- [Annex X — EU type examination](./annex-x-type-examination)
+- [Annex IX — QMS + tech doc assessment](./annex-ix-qms-tech-doc.md)
+- [Annex X — EU type examination](./annex-x-type-examination.md)
 - [Annex XI — Product verification](./annex-xi-product-verification)
-- [Class I self-declaration](./class-i-self-declaration)
+- [Class I self-declaration](./class-i-self-declaration.md)
 - [Class A self-declaration (IVDR)](./class-a-self-declaration)
-- [EU Declaration of Conformity](./eu-declaration-of-conformity)
+- [EU Declaration of Conformity](./eu-declaration-of-conformity.md)
 - [CE marking requirements](./ce-marking-requirements)
 - [Notified bodies](/notified-bodies/what-notified-bodies-do)
 

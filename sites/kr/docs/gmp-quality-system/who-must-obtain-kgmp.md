@@ -16,7 +16,7 @@ Must either:
 1. Obtain a **Foreign Manufacturing Site Certificate (해외제조소 인증)** from MFDS through an overseas inspection, OR
 2. Have their existing **ISO 13485 certificate** (from an IAF MLA-accredited body) recognised by MFDS as equivalent
 
-See [Foreign GMP certificate requirement](./foreign-manufacturers/foreign-gmp-certificate-requirement) for details.
+See [Foreign GMP certificate requirement](./foreign-manufacturers/foreign-gmp-certificate-requirement.md) for details.
 
 ## Exemptions
 
@@ -25,7 +25,7 @@ See [Foreign GMP certificate requirement](./foreign-manufacturers/foreign-gmp-ce
 - Export-only devices (still require a manufacturer licence)
 
 ## Related pages
-- [KGMP overview](./overview-kgmp) · [Domestic manufacturer certification](./domestic-manufacturers/application-and-certification-process)
+- [KGMP overview](./overview-kgmp.md) · [Domestic manufacturer certification](./domestic-manufacturers/application-and-certification-process.md)
 
 ## Domestic manufacturers
 

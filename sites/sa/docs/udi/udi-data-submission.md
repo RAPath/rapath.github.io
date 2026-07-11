@@ -38,5 +38,5 @@ After initial submission, UDI data must be kept current in GHAD:
 ## Further reading
 
 - MDS-REQ 7 — UDI requirements
-- [UDI Overview](./udi-overview)
-- [UDI Labelling](./udi-labelling)
+- [UDI Overview](./udi-overview.md)
+- [UDI Labelling](./udi-labelling.md)

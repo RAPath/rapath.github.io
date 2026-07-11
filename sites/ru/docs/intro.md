@@ -100,7 +100,7 @@ export const PathwayMap = () => {
 
 > **Regulatory authority:** Roszdravnadzor (RZN) | **Register:** GRLS | **Legislation:** Federal Law 323-FZ · Decree No. 1684 | **Last reviewed:** May 2026 | *For reference only — not legal advice.*
 
-Russia regulates medical devices through **Roszdravnadzor (RZN)** — the Federal Service for Surveillance in Healthcare, operating under the Ministry of Health. Russia operates two parallel registration systems: a **national route** valid only in Russia, and an **EAEU route** valid across all five Eurasian Economic Union member states. From **1 January 2027**, new device registrations must use the EAEU pathway only.
+Russia regulates medical devices through **Roszdravnadzor (RZN)** — the Federal Service for Surveillance in Healthcare, operating under the Ministry of Health. Russia operates two parallel registration systems: a **national route** valid only in Russia, and an **EAEU route** valid across all five Eurasian Economic Union member states. New national submissions may be accepted until **31 December 2027** (extended via an EAEU Protocol signed 29 December 2025), after which new device registrations must use the EAEU pathway only; national registration/re-registration completion under Union rules is permitted until **31 December 2028**. Source: EAEU Eurasian Economic Commission ([eec.eaeunion.org](https://eec.eaeunion.org/)).
 
 
 ## Regulatory Pathway Map
@@ -120,7 +120,7 @@ Russia regulates medical devices through **Roszdravnadzor (RZN)** — the Federa
 | **QMS inspection** | Mandatory from January 2024 for Class IIa (sterile), IIb, and III |
 | **Language** | Russian — all documents, labelling and IFU must be in Russian Cyrillic |
 | **Digital marking** | Chestny ZNAK mandatory for specified device categories (from September 2023) |
-| **EAEU-only deadline** | 1 January 2027 — national-only new registrations will no longer be accepted |
+| **EAEU-only deadline** | 31 December 2027 — national-only new registrations will no longer be accepted (extended via EAEU Protocol signed 29 December 2025); national registration/re-registration completion under Union rules permitted until 31 December 2028 |
 
 ## What This Site Covers
 

@@ -57,7 +57,7 @@ For manufacturers responsible for device design:
 ## Complaint handling
 
 - Formal complaint-receiving and investigation procedure
-- Determination of whether a complaint is a reportable event (see [Incident Reporting](../post-market/incident-reporting))
+- Determination of whether a complaint is a reportable event (see [Incident Reporting](../post-market/incident-reporting.md))
 - Response to complainants
 - Aggregate trend analysis
 

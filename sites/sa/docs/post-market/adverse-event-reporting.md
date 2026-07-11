@@ -52,8 +52,8 @@ Not all device-related complaints or incidents require NCMDR reporting. Minor ma
 ## Further reading
 
 - MDS-REQ 5 — Post-Market Surveillance and Vigilance
-- [FSCAs & Recalls](./fsca-recalls)
-- [PMS & PSUR](./pms-psur)
+- [FSCAs & Recalls](./fsca-recalls.md)
+- [PMS & PSUR](./pms-psur.md)
 
 Confirm current timeframes against the latest SFDA guidance published on the GHAD portal or in MDS-REQ 5, as reporting timelines may be updated periodically.
 

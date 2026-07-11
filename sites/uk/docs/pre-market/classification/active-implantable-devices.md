@@ -163,12 +163,12 @@ AIMDs are subject to the most stringent post-market obligations:
 
 ## Related pages
 
-- [How classification works](./how-classification-works)
-- [Class I · IIa · IIb · III](./uk-mdr-classes)
-- [UK Approved Bodies](../../approved-bodies/what-are-approved-bodies)
-- [Conformity assessment overview](../conformity-assessment/overview)
-- [Post-market surveillance](../../post-market/post-market-surveillance/pms-requirements-by-class)
-- [Vigilance reporting](../../post-market/vigilance/what-must-be-reported)
+- [How classification works](./how-classification-works.md)
+- [Class I · IIa · IIb · III](./uk-mdr-classes.md)
+- [UK Approved Bodies](../../approved-bodies/what-are-approved-bodies.md)
+- [Conformity assessment overview](../conformity-assessment/overview.md)
+- [Post-market surveillance](../../post-market/post-market-surveillance/pms-requirements-by-class.md)
+- [Vigilance reporting](../../post-market/vigilance/what-must-be-reported.md)
 
 ---
 

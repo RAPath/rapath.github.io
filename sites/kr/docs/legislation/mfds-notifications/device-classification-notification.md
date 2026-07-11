@@ -23,5 +23,5 @@ The **MFDS Medical Device Classification Notification (의료기기 품목 및 �
 - [law.go.kr](https://www.law.go.kr) — search: 의료기기 품목 및 품목별 등급
 
 ## Related pages
-- [How classification works](../../pre-market/classification/how-classification-works) · [Grade I–IV overview](../../pre-market/classification/grade-i-ii-iii-iv-overview)
+- [How classification works](../../pre-market/classification/how-classification-works.md) · [Grade I–IV overview](../../pre-market/classification/grade-i-ii-iii-iv-overview.md)
 

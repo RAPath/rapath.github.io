@@ -30,4 +30,4 @@ Digital health products
 Korea is recognised as a **global leader** in digital health regulation, having issued AI/ML guidance earlier than the FDA or EMA. MFDS actively participates in IMDRF SaMD and AI/ML working groups.
 
 ## Related pages
-- [SaMD — MFDS policy](../pre-market/special-device-types/samd-mfds-policy) · [AI/ML medical devices](../pre-market/special-device-types/ai-ml-medical-devices) · [Digital therapeutics regulation](./digital-therapeutics-regulation)
+- [SaMD — MFDS policy](../pre-market/special-device-types/samd-mfds-policy.md) · [AI/ML medical devices](../pre-market/special-device-types/ai-ml-medical-devices.md) · [Digital therapeutics regulation](./digital-therapeutics-regulation.md)

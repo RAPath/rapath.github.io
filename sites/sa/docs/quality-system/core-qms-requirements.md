@@ -8,7 +8,7 @@ description: Core Quality Management System requirements for medical device esta
 
 ## Overview
 
-The SFDA requires all medical device manufacturers, importers, distributors, and Authorized Representatives to implement a QMS that meets **ISO 13485:2016** (or SFDA.MD/GSO ISO 13485). This page outlines the core QMS elements the SFDA expects to find in place. See [ISO 13485 Overview](./iso-13485-overview) for the certification requirements and [SFDA CABs](./sfda-cabs) for certification body selection.
+The SFDA requires all medical device manufacturers, importers, distributors, and Authorized Representatives to implement a QMS that meets **ISO 13485:2016** (or SFDA.MD/GSO ISO 13485). This page outlines the core QMS elements the SFDA expects to find in place. See [ISO 13485 Overview](./iso-13485-overview.md) for the certification requirements and [SFDA CABs](./sfda-cabs.md) for certification body selection.
 
 ## Management responsibility
 
@@ -98,9 +98,9 @@ The QMS must include a programme of **internal audits**:
 
 - ISO 13485:2016 — Full QMS standard
 - MDS-REQ 3 — SFDA QMS requirements
-- [ISO 13485 Overview](./iso-13485-overview)
-- [SFDA Inspections & Audits](./inspections-audits)
-- [Post-Market Surveillance](../post-market/pms-psur)
+- [ISO 13485 Overview](./iso-13485-overview.md)
+- [SFDA Inspections & Audits](./inspections-audits.md)
+- [Post-Market Surveillance](../post-market/pms-psur.md)
 
 SFDA inspection focus: CAPA records are frequently the first documents requested during an SFDA inspection. Incomplete, delayed, or superficial CAPAs are a common finding. Ensure every CAPA record includes a genuine root cause analysis, not just surface-level corrective actions. Document the effectiveness check demonstrating that the corrective action actually resolved the problem.
 

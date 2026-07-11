@@ -109,11 +109,11 @@ Manufacturers should monitor:
 
 ## Related pages
 
-- [How classification works](./how-classification-works)
-- [Class I · IIa · IIb · III](./mdr-classes)
-- [Class A · B · C · D](./ivd-classes)
+- [How classification works](./how-classification-works.md)
+- [Class I · IIa · IIb · III](./mdr-classes.md)
+- [Class A · B · C · D](./ivd-classes.md)
 - [Guidance documents — MDCG index](/guidance-documents/mdcg-guidance)
-- [What's new — recent regulatory changes](/whats-new/recent-regulatory-changes)
+- [What's new — recent regulatory changes](https://rapath.org/whats-new)
 
 ---
 

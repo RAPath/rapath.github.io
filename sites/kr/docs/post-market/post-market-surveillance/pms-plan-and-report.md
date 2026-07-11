@@ -25,5 +25,5 @@ Submitted to MFDS at MFDS-specified intervals:
 - Conclusion on the device's benefit-risk balance
 
 ## Related pages
-- [Re-examination system](./re-examination-system) · [Adverse event reporting overview](../adverse-event-reporting/what-must-be-reported)
+- [Re-examination system](./re-examination-system.md) · [Adverse event reporting overview](../adverse-event-reporting/what-must-be-reported.md)
 

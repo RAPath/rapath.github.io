@@ -28,5 +28,5 @@ Variable portion that includes one or more of:
 | Implantable devices | ✓ | ✓ | ✓ | ✓ (if applicable) |
 
 ## Related pages
-- [UDI-K overview](./udi-k-overview) · [KIMS database registration](./kims-database-registration) · [UDI labelling requirements](./udi-labelling-requirements)
+- [UDI-K overview](./udi-k-overview.md) · [KIMS database registration](./kims-database-registration.md) · [UDI labelling requirements](./udi-labelling-requirements.md)
 

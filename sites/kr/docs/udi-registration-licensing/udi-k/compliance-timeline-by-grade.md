@@ -27,7 +27,7 @@ sidebar_position: 6
 MFDS may allow a transition period for existing stock. Check the relevant MFDS notification for specific transition provisions.
 
 ## Related pages
-- [UDI-K overview](./udi-k-overview) · [UDI notification](../../legislation/mfds-notifications/udi-notification)
+- [UDI-K overview](./udi-k-overview.md) · [UDI notification](../../legislation/mfds-notifications/udi-notification.md)
 
 ## Enforcement and Penalties
 

@@ -64,17 +64,8 @@ Clinical investigations must comply with **GCP guidelines** as recognised by BPO
 
 ## SKI — Per-Shipment Import Permit
 
-Even with BPOM and ethics committee approval, **each shipment** of investigational devices into Indonesia requires a separate **SKI** (*Surat Keterangan Impor* — Import Certificate) from Kemenkes. The SKI is tied to the specific shipment, lot numbers, and quantities. Plan for this administrative step in your clinical supply chain timeline.
+Even with BPOM and ethics committee approval, **each shipment** of investigational devices into Indonesia requires a separate **SKI** (*Surat Keterangan Impor* — Import Certificate) from Kemenkes. Note: verify the issuing agency (Kemenkes, Directorate of Medical Devices) during application, as procedures may vary by region. The SKI is tied to the specific shipment, lot numbers, and quantities. Plan for this administrative step in your clinical supply chain timeline.
 
-## Remove this sentence as it is duplicated immediately after the GCP section — the same statement already appears in the preceding paragraph under the Good Clinical Practice (GCP) heading.
-
-Estimated Review Timeline
+## Estimated Review Timeline
 
 The combined BPOM and ethics committee review typically takes 4–8 weeks from complete submission, though timelines vary based on study complexity, completeness of the application, and ethics committee capacity. Plan accordingly in your clinical supply chain timeline.
-
-Revise the SKI section as follows:
-
-SKI — Per-Shipment Import Permit
-
-Even with BPOM and ethics committee approval, each shipment of investigational devices into Indonesia requires a separate SKI (Surat Keterangan Impor — Import Permit/Certificate) from Kemenkes. Note: Verify the issuing agency (Kemenkes, Directorate of Medical Devices) during application, as procedures may vary by region. (Ministry of Health). The SKI is tied to the specific shipment, lot numbers, and quantities. Plan for this administrative step in your clinical supply chain timeline.
-

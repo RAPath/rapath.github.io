@@ -65,8 +65,8 @@ The CAPA log and complaint records feed directly into the **Technovigilance Repo
 ## Related pages
 
 - [GMP requirements](gmp-requirements)
-- [Adverse event reporting](../postmarket/adverse-event-reporting)
-- [Technovigilance overview](../postmarket/technovigilance-overview)
+- [Adverse event reporting](../postmarket/adverse-event-reporting.md)
+- [Technovigilance overview](../postmarket/technovigilance-overview.md)
 - [COFEPRIS inspections](inspections-cofepris)
 
 ## Complaint handling

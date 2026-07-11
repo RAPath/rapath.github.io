@@ -25,7 +25,7 @@ These are separate certifications managed by different regulatory bodies: MFDS h
 Some devices used exclusively in professional clinical settings may be exempt from KC mark requirements. However, exemptions are rare and must be verified with KESCO or a qualified Korean regulatory consultant on a case-by-case basis before proceeding without certification.
 
 ## Related pages
-- [Electrical and mechanical safety testing](../../pre-market/technical-documentation/electrical-and-mechanical-safety) · [IEC/ISO standards recognised by MFDS](./iec-iso-standards-recognised)
+- [Electrical and mechanical safety testing](../../pre-market/technical-documentation/electrical-and-mechanical-safety.md) · [IEC/ISO standards recognised by MFDS](./iec-iso-standards-recognised.md)
 
 "Device classes and KC mark requirements
 

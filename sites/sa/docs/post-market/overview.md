@@ -34,8 +34,8 @@ The AR is the **primary point of contact** for all SFDA post-market interactions
 
 ## Further reading
 
-- [Adverse Event Reporting](./adverse-event-reporting)
-- [FSCAs & Recalls](./fsca-recalls)
-- [PMS & PSUR](./pms-psur)
-- [MDMA Renewal & Change Notification](./mdma-renewal)
-- [Labelling & Advertising](./labelling-advertising)
+- [Adverse Event Reporting](./adverse-event-reporting.md)
+- [FSCAs & Recalls](./fsca-recalls.md)
+- [PMS & PSUR](./pms-psur.md)
+- [MDMA Renewal & Change Notification](./mdma-renewal.md)
+- [Labelling & Advertising](./labelling-advertising.md)

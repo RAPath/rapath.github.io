@@ -202,9 +202,9 @@ The risk management file is typically structured as:
 
 ## Related pages
 
-- [Technical documentation — overview](./technical-documentation-overview)
+- [Technical documentation — overview](./technical-documentation-overview.md)
 - [GSPR overview](/pre-market/gspr/gspr-overview)
-- [Post-market data in technical documentation](./post-market-data-in-tech-doc)
+- [Post-market data in technical documentation](./post-market-data-in-tech-doc.md)
 - [Clinical evaluation](/pre-market/clinical-evidence/clinical-evaluation-overview)
 - [Post-market surveillance requirements](/post-market/post-market-surveillance/pms-requirements)
 

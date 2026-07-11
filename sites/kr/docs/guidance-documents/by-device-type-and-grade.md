@@ -22,5 +22,5 @@ Search the MFDS website guidance library by:
 - Relevant Act (Medical Devices Act vs IVD Act)
 
 ## Related pages
-- [All MFDS guidance](./all-mfds-guidance) · [MFDS Q&As and FAQs](./mfds-qas-and-faqs)
+- [All MFDS guidance](./all-mfds-guidance.md) · [MFDS Q&As and FAQs](./mfds-qas-and-faqs.md)
 

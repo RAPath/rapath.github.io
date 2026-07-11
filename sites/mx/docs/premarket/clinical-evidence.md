@@ -45,7 +45,7 @@ While Mexico does not routinely require locally conducted studies, sponsors wish
 - Hospital ethics committee (CEI — Comité de Ética en Investigación) approval.
 - COFEPRIS authorisation for device investigations involving significant risk.
 
-See [Clinical investigations in Mexico](../special-access/clinical-investigations) for full detail.
+See [Clinical investigations in Mexico](../special-access/clinical-investigations.md) for full detail.
 
 ## IVD performance evaluation
 
@@ -59,8 +59,8 @@ For IVD devices, clinical evidence takes the form of **performance evaluation**,
 
 - [Technical dossier requirements](technical-dossier)
 - [Standard Registration Route](standard-route)
-- [Clinical investigations in Mexico](../special-access/clinical-investigations)
-- [IVD classification](../device-classification/ivd-classification)
+- [Clinical investigations in Mexico](../special-access/clinical-investigations.md)
+- [IVD classification](../device-classification/ivd-classification.md)
 
 ## Using foreign clinical data
 

@@ -102,11 +102,11 @@ MHRA reviews the notification and may request modifications to the FSCA scope or
 
 ## Related pages
 
-- [Field Safety Notices (FSNs)](./field-safety-notices)
-- [Recalls — process and MHRA coordination](./recalls-process)
-- [MHRA-initiated safety actions](./mhra-initiated-actions)
-- [What must be reported to MHRA](../vigilance/what-must-be-reported)
-- [Reporting timeframes](../vigilance/reporting-timeframes)
+- [Field Safety Notices (FSNs)](./field-safety-notices.md)
+- [Recalls — process and MHRA coordination](./recalls-process.md)
+- [MHRA-initiated safety actions](./mhra-initiated-actions.md)
+- [What must be reported to MHRA](../vigilance/what-must-be-reported.md)
+- [Reporting timeframes](../vigilance/reporting-timeframes.md)
 
 ---
 

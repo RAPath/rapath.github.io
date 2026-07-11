@@ -35,9 +35,7 @@ This measure implements MDSAR 2021 Chapter II (Articles 10-43), establishing det
 - **Class III registration**: Full dossier with comprehensive clinical data, clinical trials, or equivalence justification
 - **China Agent mandatory** for all imported devices (Article 39); joint liability with foreign manufacturer
 - **Dossier language**: Chinese required; English originals may be submitted with certified translation
-- **Review timeline**: 30 days for Class II, 60 days for Class III (may extend with additional information request)
+- **Review timeline**: 30 calendar days for Class II, 60 calendar days for Class III. Timeline pauses (clock-stop) when NMPA issues information requests; clock resumes upon applicant response.
 
 ## Relationship to MDSAR 2021
 This measure operationalizes Articles 13-16 (classification and registration requirements) and Articles 20-39 (dossier content and certificate issuance) of MDSAR 2021 Chapter II.
-
-Revise timeline entry to: 'Review timeline: 30 calendar days for Class II, 60 calendar days for Class III. Timeline pauses (clock-stop) when NMPA issues information requests; clock resumes upon applicant response.'

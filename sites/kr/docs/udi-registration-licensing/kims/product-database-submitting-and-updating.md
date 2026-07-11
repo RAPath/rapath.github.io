@@ -26,7 +26,7 @@ KIMS records must be updated when:
 - 품목허가 is modified
 
 ## Related pages
-- [What is KIMS?](./what-is-kims) · [UDI-K — KIMS database registration](../udi-k/kims-database-registration)
+- [What is KIMS?](./what-is-kims.md) · [UDI-K — KIMS database registration](../udi-k/kims-database-registration.md)
 
 ## Common KIMS Submission Issues
 

@@ -28,5 +28,5 @@ This alignment benefits manufacturers who have already prepared documentation fo
 
 ## Further reading
 
-- [GCC Harmonisation](./gcc-harmonization)
-- [SFDA vs Other Regulators](./sfda-vs-regulators)
+- [GCC Harmonisation](./gcc-harmonization.md)
+- [SFDA vs Other Regulators](./sfda-vs-regulators.md)

@@ -17,13 +17,13 @@ Key principles:
 - Manufacturers must document the software lifecycle, validation, and cybersecurity measures
 - Updates to SaMD that change the intended purpose or risk profile may constitute a significant change requiring re-declaration or re-registration
 
-→ See [SaMD Overview](../digital-health/samd-overview) for more detail
+→ See [SaMD Overview](../digital-health/samd-overview.md) for more detail
 
 ## IVD devices
 
 IVD devices have their own classification rules and specific analytical/clinical performance requirements. The market access pathway (Declaration or Marketing Authorisation) depends on IVD class.
 
-→ See [IVD Classification](../device-classification/ivd-classification)
+→ See [IVD Classification](../device-classification/ivd-classification.md)
 
 ## Single-use devices (SUDs)
 
@@ -47,7 +47,7 @@ Second-hand and refurbished device imports are subject to heightened scrutiny. C
 
 ## Humanitarian and emergency access
 
-Unregistered devices may be imported for emergency or humanitarian use under specific DAV authorisation. See [Emergency Import](../special-access/emergency-import).
+Unregistered devices may be imported for emergency or humanitarian use under specific DAV authorisation. See [Emergency Import](../special-access/emergency-import.md).
 
 ## Export-only devices
 

@@ -22,7 +22,7 @@ While a comprehensive UDI system is not yet fully implemented, current Brazilian
 
 ## The ANVISA UDI roadmap
 
-ANVISA has been consulting with industry on adopting a UDI system aligned with IMDRF guidance. Monitor the [What's New](/docs/whats-new/regulatory-changes) section for updates on UDI implementation timelines.
+ANVISA has been consulting with industry on adopting a UDI system aligned with IMDRF guidance. Monitor the [What's New](https://rapath.org/whats-new) section for updates on UDI implementation timelines.
 
 - [IMDRF UDI guidance](https://www.imdrf.org)
 

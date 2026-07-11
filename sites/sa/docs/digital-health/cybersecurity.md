@@ -66,7 +66,7 @@ AI-enabled connected devices face additional cybersecurity considerations includ
 - **Data poisoning** — protection of training data pipelines
 - **Explainability audits** — ensuring transparency in AI decision-making cannot be subverted
 
-→ See [AI/ML-Enabled Devices](./ai-ml-guidance)
+→ See [AI/ML-Enabled Devices](./ai-ml-guidance.md)
 
 ## Practical recommendation
 
@@ -81,10 +81,10 @@ Manufacturers of connected devices should:
 
 - IMDRF N60 — Principles and Practices for Medical Device Cybersecurity
 - IEC 62304 — Software lifecycle
-- [SaMD Overview](./samd-overview)
-- [AI/ML Guidance](./ai-ml-guidance)
-- [Essential Principles](../technical-documentation/essential-principles)
-- [Risk Management](../technical-documentation/risk-management)
+- [SaMD Overview](./samd-overview.md)
+- [AI/ML Guidance](./ai-ml-guidance.md)
+- [Essential Principles](../technical-documentation/essential-principles.md)
+- [Risk Management](../technical-documentation/risk-management.md)
 
 Post-Market Cybersecurity Incident Reporting
 

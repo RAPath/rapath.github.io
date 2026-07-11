@@ -78,7 +78,7 @@ If you are unsure of your device's classification, the **ASEAN AMDD classificati
 
 ## IVD Classification
 
-In-vitro diagnostic devices (IVDs) follow a **separate classification framework** based on the nature of the specimen, the intended use, and the public health risk. See [IVD Classification](./ivd-classification) for full details.
+In-vitro diagnostic devices (IVDs) follow a **separate classification framework** based on the nature of the specimen, the intended use, and the public health risk. See [IVD Classification](./ivd-classification.md) for full details.
 
 ---
 

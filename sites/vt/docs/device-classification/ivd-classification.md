@@ -45,6 +45,6 @@ Point-of-care IVD devices — designed for use outside a laboratory setting, nea
 ## Regulatory pathway
 
 The IVD classification determines the same declaration or registration pathway as for other device types:
-- Type A/B IVD → [Declaration pathway](../market-access/declaration-type-a-b)
-- Type C/D IVD → [Marketing Authorisation pathway](../market-access/marketing-authorisation-type-c-d)
+- Type A/B IVD → [Declaration pathway](../market-access/declaration-type-a-b.md)
+- Type C/D IVD → [Marketing Authorisation pathway](../market-access/marketing-authorisation-type-c-d.md)
 

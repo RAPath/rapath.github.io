@@ -31,7 +31,7 @@ sidebar_position: 1
 The KGMP certificate specifies the manufacturing site and the **categories of devices** covered. Each additional product category may require scope extension.
 
 ## Related pages
-- [MFDS on-site GMP inspection](./mfds-on-site-gmp-inspection) · [Certification scope and grading](./certification-scope-and-grading)
+- [MFDS on-site GMP inspection](./mfds-on-site-gmp-inspection.md) · [Certification scope and grading](./certification-scope-and-grading.md)
 
 ## Step-by-step process
 

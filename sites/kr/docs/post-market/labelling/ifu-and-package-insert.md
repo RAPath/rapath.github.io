@@ -28,6 +28,6 @@ All IFU and package insert materials must be in Korean. The following informatio
 - **Home-use / patient-use devices** — plain language required; visual aids recommended
 
 ## Related pages
-- [Labelling requirements](./labelling-requirements) · [Electronic IFU](./electronic-ifu)
+- [Labelling requirements](./labelling-requirements.md) · [Electronic IFU](./electronic-ifu.md)
 
 Add: 'While IFU must be in Korean, MFDS may permit supplementary foreign language versions (such as English) to accompany the Korean IFU for international users or healthcare professionals, provided the Korean version remains the primary instructional document.'

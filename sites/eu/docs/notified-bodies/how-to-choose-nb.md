@@ -136,7 +136,7 @@ The NANDO database allows users to:
 
 ## Related pages
 
-- [What notified bodies do](./what-notified-bodies-do)
+- [What notified bodies do](./what-notified-bodies-do.md)
 - [Conformity assessment — overview](/pre-market/conformity-assessment/conformity-assessment-overview)
 - [Annex IX — QMS + Tech Doc](/pre-market/conformity-assessment/annex-ix-qms-tech-doc)
 

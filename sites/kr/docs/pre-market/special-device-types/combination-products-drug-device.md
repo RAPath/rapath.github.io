@@ -4,7 +4,7 @@ description: "Regulatory requirements for drug-device combination products in Ko
 sidebar_position: 6
 ---
 
-See [Classification — combination products](../classification/combination-products) for lead-regulator determination.
+See [Classification — combination products](../classification/combination-products.md) for lead-regulator determination.
 
 ## When the device is the lead
 

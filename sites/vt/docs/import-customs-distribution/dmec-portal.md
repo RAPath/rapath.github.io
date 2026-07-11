@@ -36,7 +36,7 @@ Foreign manufacturers cannot create a DMEC account directly — the account is c
 1. Log in and navigate to "Công bố trang thiết bị y tế"
 2. Select "Tạo mới" (Create new)
 3. Enter device details: name, model, intended purpose, manufacturer information, classification
-4. Upload required documents (see [Declaration Type A/B](../market-access/declaration-type-a-b))
+4. Upload required documents (see [Declaration Type A/B](../market-access/declaration-type-a-b.md))
 5. Review and submit
 6. Download the receipt/declaration number
 

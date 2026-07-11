@@ -17,11 +17,11 @@ A **combination product** (*insumo combinado*) is a product that combines a medi
 
 ## Software as a Medical Device (SaMD)
 
-See [Software & SaMD classification](../device-classification/software-samd-classification) and [Digital Health & SaMD](../digital-health/samd-overview).
+See [Software & SaMD classification](../device-classification/software-samd-classification.md) and [Digital Health & SaMD](../digital-health/samd-overview.md).
 
 ## IVD medical devices
 
-In vitro diagnostic devices follow dedicated classification rules. See [IVD classification](../device-classification/ivd-classification).
+In vitro diagnostic devices follow dedicated classification rules. See [IVD classification](../device-classification/ivd-classification.md).
 
 ## Custom-made devices
 
@@ -32,7 +32,7 @@ In vitro diagnostic devices follow dedicated classification rules. See [IVD clas
 - The manufacturer must maintain records for each custom device produced.
 - Must carry a label identifying it as a custom device.
 
-See [Custom-made device pathway](../special-access/custom-devices).
+See [Custom-made device pathway](../special-access/custom-devices.md).
 
 ## Single-use devices
 
@@ -48,8 +48,8 @@ Devices manufactured in Mexico **exclusively for export** may be eligible for re
 
 ## Related pages
 
-- [Digital Health & SaMD](../digital-health/samd-overview)
-- [IVD classification](../device-classification/ivd-classification)
-- [Special Access](../special-access/compassionate-use)
-- [Quality System — NOM-241](../quality-system/nom-241-overview)
+- [Digital Health & SaMD](../digital-health/samd-overview.md)
+- [IVD classification](../device-classification/ivd-classification.md)
+- [Special Access](../special-access/compassionate-use.md)
+- [Quality System — NOM-241](../quality-system/nom-241-overview.md)
 

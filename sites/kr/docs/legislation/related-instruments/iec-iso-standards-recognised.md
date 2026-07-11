@@ -27,7 +27,7 @@ Confirm the accepted edition
 The MFDS recognised standards list specifies the exact edition and year of each standard. Using an older or newer edition without MFDS approval may result in non-compliance findings. Always confirm the currently accepted edition on the official MFDS standards database before commissioning testing.
 
 ## Related pages
-- [Korean Industrial Standards (KS)](./korean-industrial-standards-ks) · [Electrical and mechanical safety testing](../../pre-market/technical-documentation/electrical-and-mechanical-safety)
+- [Korean Industrial Standards (KS)](./korean-industrial-standards-ks.md) · [Electrical and mechanical safety testing](../../pre-market/technical-documentation/electrical-and-mechanical-safety.md)
 
 Korean Industrial Standards (KS) Reference
 

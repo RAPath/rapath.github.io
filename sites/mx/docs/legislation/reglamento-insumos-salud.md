@@ -70,5 +70,5 @@ The current consolidated text is available through the **Cámara de Diputados** 
 
 - [Ley General de Salud](ley-general-de-salud)
 - [NOMs overview](noms-overview)
-- [How classification works](../device-classification/how-classification-works)
-- [Pre-Market overview](../premarket/overview)
+- [How classification works](../device-classification/how-classification-works.md)
+- [Pre-Market overview](../premarket/overview.md)

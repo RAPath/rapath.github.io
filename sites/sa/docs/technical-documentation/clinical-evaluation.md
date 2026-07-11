@@ -48,7 +48,7 @@ For higher-risk devices, the SFDA expects a **PMCF plan** to be in place from th
 ## Further reading
 
 - MDS-REQ 4 — Clinical Evaluation
-- [Technical File Overview](./technical-file-overview)
-- [Post-Market Surveillance](../post-market/pms-psur)
-- [Special Access — Clinical Investigations](../special-access/clinical-investigations)
+- [Technical File Overview](./technical-file-overview.md)
+- [Post-Market Surveillance](../post-market/pms-psur.md)
+- [Special Access — Clinical Investigations](../special-access/clinical-investigations.md)
 

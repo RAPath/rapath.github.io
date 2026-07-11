@@ -22,7 +22,7 @@ Confirm availability of auditors in your working language. Most major NBs offer 
 While all EU NBs can be used for Swiss market access, NBs with established Swiss market processes can support DAPI registration more smoothly. Ask specifically about their experience with Swissmedic registration submissions.
 
 ## Finding NBs via NANDO
-See [NANDO Database](./nando-database) for search instructions.
+See [NANDO Database](./nando-database.md) for search instructions.
 
 ## Questions to Ask Potential NBs
 - What is your current queue time for my device class?

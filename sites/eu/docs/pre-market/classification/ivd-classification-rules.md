@@ -157,8 +157,8 @@ However, near-patient tests may still be Class C (e.g. bedside troponin, near-pa
 
 ## Related pages
 
-- [How classification works](./how-classification-works)
-- [Class A · B · C · D — IVDR classes](./ivd-classes)
+- [How classification works](./how-classification-works.md)
+- [Class A · B · C · D — IVDR classes](./ivd-classes.md)
 - [Near-patient & self-test IVDs](/pre-market/special-device-types/near-patient-self-test-ivds)
 - [Companion diagnostics](/pre-market/special-device-types/companion-diagnostics)
 - [Performance evaluation](/pre-market/clinical-evidence/performance-evaluation)

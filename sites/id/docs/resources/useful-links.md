@@ -61,7 +61,7 @@ For regulatory information on other jurisdictions in the RAPath network:
 
 This site is maintained as part of the RAPath open-source medical device regulatory reference project. Contribute, report issues, or suggest improvements:
 
-**[github.com/rapath](https://github.com/rapath)**
+**[github.com/RAPath/rapath.github.io](https://github.com/RAPath/rapath.github.io)**
 
 ---
 

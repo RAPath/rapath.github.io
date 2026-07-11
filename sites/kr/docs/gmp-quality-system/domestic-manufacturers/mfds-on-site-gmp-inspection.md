@@ -29,5 +29,5 @@ If nonconformities are identified:
 - Major nonconformities: may require a follow-up inspection
 
 ## Related pages
-- [Application and certification process](./application-and-certification-process) · [Renewal and periodic re-inspection](./renewal-and-periodic-reinspection)
+- [Application and certification process](./application-and-certification-process.md) · [Renewal and periodic re-inspection](./renewal-and-periodic-reinspection.md)
 

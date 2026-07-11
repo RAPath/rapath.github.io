@@ -99,9 +99,9 @@ The FSN document is uploaded to EUDAMED as part of the FSCA notification. It bec
 
 ## Related pages
 
-- [When an FSCA is required](./when-fsca-required)
-- [Recalls — classification & coordination](./recalls-classification-coordination)
-- [Competent authority-initiated actions](./competent-authority-actions)
+- [When an FSCA is required](./when-fsca-required.md)
+- [Recalls — classification & coordination](./recalls-classification-coordination.md)
+- [Competent authority-initiated actions](./competent-authority-actions.md)
 - [EUDAMED vigilance module](/post-market/adverse-event-reporting/eudamed-vigilance-module)
 
 ---

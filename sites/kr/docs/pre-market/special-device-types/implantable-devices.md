@@ -13,7 +13,7 @@ Most implantables are Grade **III or IV**. Additional requirements include:
 - **UDI-K at unit level** — production identifier (PI) must be recorded in patient hospital record
 
 ## Related pages
-- [UDI-K overview](../../udi-registration-licensing/udi-k/udi-k-overview)
+- [UDI-K overview](../../udi-registration-licensing/udi-k/udi-k-overview.md)
 
 Implant card requirements
 ​

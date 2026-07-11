@@ -9,7 +9,7 @@ tags: [uk-mdr, technical-documentation, clinical-evaluation, pre-market]
 ---
 
 :::note[Regulatory basis]
-Clinical evaluation is required to demonstrate conformity with the Essential Requirements (particularly ERs 1, 2, 3, and 6) under **Schedule 1 of the UK MDR 2002**. Full clinical evaluation requirements are addressed in [Clinical evaluation requirements](../clinical-evidence/clinical-evaluation).
+Clinical evaluation is required to demonstrate conformity with the Essential Requirements (particularly ERs 1, 2, 3, and 6) under **Schedule 1 of the UK MDR 2002**. Full clinical evaluation requirements are addressed in [Clinical evaluation requirements](../clinical-evidence/clinical-evaluation.md).
 :::
 
 ---
@@ -98,10 +98,10 @@ The technical file must show a live feedback loop between the device's post-mark
 
 ## Related pages
 
-- [Clinical evaluation requirements](../clinical-evidence/clinical-evaluation)
-- [Post-market clinical follow-up (PMCF)](../../post-market/post-market-surveillance/pmcf)
-- [Risk management (ISO 14971)](./risk-management)
-- [Technical documentation overview](./overview)
+- [Clinical evaluation requirements](../clinical-evidence/clinical-evaluation.md)
+- [Post-market clinical follow-up (PMCF)](../../post-market/post-market-surveillance/pmcf.md)
+- [Risk management (ISO 14971)](./risk-management.md)
+- [Technical documentation overview](./overview.md)
 
 ---
 

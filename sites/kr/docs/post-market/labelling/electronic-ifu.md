@@ -25,7 +25,7 @@ MFDS has introduced provisions allowing **electronic IFU (eIFU)** for certain de
 - MFDS must be able to access for inspection purposes
 
 ## Related pages
-- [IFU and package insert](./ifu-and-package-insert) · [Labelling requirements](./labelling-requirements)
+- [IFU and package insert](./ifu-and-package-insert.md) · [Labelling requirements](./labelling-requirements.md)
 
 "Language and accessibility
 

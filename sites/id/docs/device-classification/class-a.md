@@ -49,4 +49,4 @@ All Class A devices require a valid NIE (Notifikasi Izin Edar) before they can b
 
 Under Government Regulation 42/2024, Class A devices must comply with Halal labeling requirements by 17 October 2026. Manufacturers should begin assessing their supply chain and material provenance well in advance.
 
-See [Halal Labeling](../labeling/halal-labeling) for full details.
+See [Halal Labeling](../labeling/halal-labeling.md) for full details.

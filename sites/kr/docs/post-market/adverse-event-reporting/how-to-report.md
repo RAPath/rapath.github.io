@@ -25,7 +25,7 @@ sidebar_position: 4
 MFDS assigns a report number, may request additional information, assesses whether recall action is triggered, and includes the data in national adverse event trend monitoring.
 
 ## Related pages
-- [Reporting timeframes](./reporting-timeframes) · [What must be reported](./what-must-be-reported)
+- [Reporting timeframes](./reporting-timeframes.md) · [What must be reported](./what-must-be-reported.md)
 
 "Language
 

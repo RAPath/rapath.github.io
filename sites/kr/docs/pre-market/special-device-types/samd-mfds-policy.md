@@ -23,7 +23,7 @@ SaMD grade determined by:
 MFDS is developing PCCP guidance for AI/ML SaMD — allowing manufacturers to pre-define future algorithm changes that do not require a new submission.
 
 ## Related pages
-- [AI/ML medical devices](./ai-ml-medical-devices) · [MFDS digital health framework](../../digital-health-samd/mfds-digital-health-framework)
+- [AI/ML medical devices](./ai-ml-medical-devices.md) · [MFDS digital health framework](../../digital-health-samd/mfds-digital-health-framework.md)
 
 Classification matrix
 ​

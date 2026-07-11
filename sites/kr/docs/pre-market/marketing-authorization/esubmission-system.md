@@ -29,7 +29,7 @@ All 품목허가, 품목신고, GMP, and classification inquiries are submitted 
 - Application fees paid (per MFDS fee schedule)
 
 ## Related pages
-- [Application contents and STED](./application-contents-and-sted) · [MFDS review process](./mfds-review-process-and-timelines)
+- [Application contents and STED](./application-contents-and-sted.md) · [MFDS review process](./mfds-review-process-and-timelines.md)
 
 Before uploading, ensure all documents:
 

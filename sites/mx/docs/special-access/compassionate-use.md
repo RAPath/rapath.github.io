@@ -50,6 +50,6 @@ This pathway is distinct from a full sanitary registration and cannot be used as
 
 - [Clinical investigations in Mexico](clinical-investigations)
 - [Custom-made device pathway](custom-devices)
-- [Pre-Market overview](../premarket/overview)
-- [Mexico Registration Holder](../mexico-registration-holder/what-is-mrh)
+- [Pre-Market overview](../premarket/overview.md)
+- [Mexico Registration Holder](../mexico-registration-holder/what-is-mrh.md)
 

@@ -40,9 +40,9 @@ Where clinical investigations in Saudi Arabia are not required, the SFDA accepts
 
 ## Further reading
 
-- [Clinical Evaluation](../technical-documentation/clinical-evaluation)
-- [Compassionate Use](./compassionate-use)
-- [SFDA Enforcement](./enforcement)
+- [Clinical Evaluation](../technical-documentation/clinical-evaluation.md)
+- [Compassionate Use](./compassionate-use.md)
+- [SFDA Enforcement](./enforcement.md)
 
 ## SFDA authorisation for clinical investigations
 

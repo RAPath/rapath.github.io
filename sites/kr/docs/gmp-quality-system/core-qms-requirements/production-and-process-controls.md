@@ -21,4 +21,4 @@ Production and process controls ensure devices are manufactured consistently and
 Processes that cannot be fully verified by inspection must be **validated** before production begins and re-validated after any significant change.
 
 ## Related pages
-- [KGMP overview](../overview-kgmp) · [Design controls](./design-controls)
+- [KGMP overview](../overview-kgmp.md) · [Design controls](./design-controls.md)

@@ -28,7 +28,7 @@ The cost of MFDS overseas inspections (inspector travel, accommodation, fees) is
 - Ensure KGMP alignment is demonstrated throughout the inspection
 
 ## Related pages
-- [Foreign GMP certificate requirement](./foreign-gmp-certificate-requirement) · [Recognised foreign GMP certificates](./recognised-foreign-gmp-certificates)
+- [Foreign GMP certificate requirement](./foreign-gmp-certificate-requirement.md) · [Recognised foreign GMP certificates](./recognised-foreign-gmp-certificates.md)
 
 ## Who pays?
 

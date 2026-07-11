@@ -25,7 +25,7 @@ Every complaint should be evaluated against MFDS adverse event reporting criteri
 Complaint records must be retained for the lifetime of the device plus the minimum retention period specified by MFDS.
 
 ## Related pages
-- [Adverse event reporting — what must be reported](../../post-market/adverse-event-reporting/what-must-be-reported) · [CAPA](./capa)
+- [Adverse event reporting — what must be reported](../../post-market/adverse-event-reporting/what-must-be-reported.md) · [CAPA](./capa.md)
 
 Complaint records should be retained for a minimum of 5 years from the date of receipt, or for the lifetime of the device plus additional years as specified in product-specific regulations, whichever is longer.
 

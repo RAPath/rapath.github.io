@@ -24,5 +24,5 @@ sidebar_position: 3
 - **AI/ML guidance** — Korea was among the first to issue dedicated AI/ML medical device guidance
 
 ## Related pages
-- [IMDRF membership and alignment](./imdrf-membership-and-alignment) · [MRA agreements](./mra-agreements-and-bilateral-recognition)
+- [IMDRF membership and alignment](./imdrf-membership-and-alignment.md) · [MRA agreements](./mra-agreements-and-bilateral-recognition.md)
 

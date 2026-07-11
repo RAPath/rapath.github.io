@@ -16,7 +16,7 @@ Software as a medical device is classified under **Schedule 2, particularly Rule
 
 ## Qualification: is your software a medical device?
 
-Before applying classification rules, determine whether the software **qualifies** as a medical device. See [Software & SaMD classification](../classification/software-samd-classification) for the full qualification analysis.
+Before applying classification rules, determine whether the software **qualifies** as a medical device. See [Software & SaMD classification](../classification/software-samd-classification.md) for the full qualification analysis.
 
 In summary: software qualifies if it:
 1. Has a medical intended purpose claimed by the manufacturer
@@ -36,7 +36,7 @@ Software classification under UK MDR 2002 follows **Rule 12** of Schedule 2, int
 | Informs decisions with serious clinical impact | Class IIb |
 | Controls life-sustaining therapy; directly interfaces with CNS/cardiovascular | Class III |
 
-See [Software & SaMD classification](../classification/software-samd-classification) for worked examples by software type.
+See [Software & SaMD classification](../classification/software-samd-classification.md) for worked examples by software type.
 
 ---
 
@@ -133,7 +133,7 @@ Traditional conformity assessment is a point-in-time process — but AI/ML algor
 A PCCP, approved as part of initial conformity assessment, allows the manufacturer to implement specified algorithm updates without re-initiating the full conformity assessment process — provided they remain within the pre-approved scope.
 
 :::tip[MHRA AI Change Programme]
-MHRA's Software and AI as a Medical Device Change Programme is developing UK-specific guidance on PCCPs, AI transparency, and post-market performance monitoring. Check the [What's New](../../whats-new/recent-regulatory-changes) section for the latest published guidance.
+MHRA's Software and AI as a Medical Device Change Programme is developing UK-specific guidance on PCCPs, AI transparency, and post-market performance monitoring. Check the [What's New](https://rapath.org/whats-new) section for the latest published guidance.
 :::
 
 ### 4. Continuous learning algorithms
@@ -146,17 +146,17 @@ Algorithms that update their parameters based on real-world data encountered aft
 
 Software that processes in vitro test results to produce a diagnostic output is classified under **Part III** as an IVD. Classification within the IVD framework (List A, B, Self-test, General) depends on the clinical context and analyte.
 
-See [IVD classification](../classification/ivd-classification).
+See [IVD classification](../classification/ivd-classification.md).
 
 ---
 
 ## Related pages
 
-- [Software & SaMD classification](../classification/software-samd-classification)
-- [What is a medical device?](../../start-here/what-is-a-medical-device) — SaMD in the definition
-- [What is not a medical device?](../../start-here/what-is-not-a-medical-device) — wellness apps
-- [Technical documentation overview](../technical-documentation/overview)
-- [What's New](../../whats-new/recent-regulatory-changes) — MHRA AI Change Programme updates
+- [Software & SaMD classification](../classification/software-samd-classification.md)
+- [What is a medical device?](../../start-here/what-is-a-medical-device.md) — SaMD in the definition
+- [What is not a medical device?](../../start-here/what-is-not-a-medical-device.md) — wellness apps
+- [Technical documentation overview](../technical-documentation/overview.md)
+- [What's New](https://rapath.org/whats-new) — MHRA AI Change Programme updates
 
 ---
 

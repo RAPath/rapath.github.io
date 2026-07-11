@@ -140,7 +140,7 @@ NCA opinions are country-specific and not binding EU-wide, but they provide docu
 - [MDR vs IVDR — which applies?](/start-here/mdr-vs-ivdr)
 - [What is not a medical device?](/start-here/what-is-not-a-medical-device)
 - [Devices incorporating a medicinal substance](/pre-market/special-device-types/devices-incorporating-medicine)
-- [Reclassification & SCENIHR opinions](./reclassification)
+- [Reclassification & SCENIHR opinions](./reclassification.md)
 - [Guidance documents — MDCG index](/guidance-documents/mdcg-guidance)
 
 ---

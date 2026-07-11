@@ -9,7 +9,7 @@ tags: [uk-mdr, framework, mhra, fundamentals]
 ---
 
 :::note[Regulatory basis]
-This page provides an overview of the **UK Medical Devices Regulations 2002 (SI 2002/618, as amended)** and the role of the **Medicines and Healthcare products Regulatory Agency (MHRA)**. It covers the framework applicable in **Great Britain**. For Northern Ireland, EU MDR 2017/745 and EU IVDR 2017/746 apply — see [Great Britain vs Northern Ireland](./great-britain-vs-northern-ireland).
+This page provides an overview of the **UK Medical Devices Regulations 2002 (SI 2002/618, as amended)** and the role of the **Medicines and Healthcare products Regulatory Agency (MHRA)**. It covers the framework applicable in **Great Britain**. For Northern Ireland, EU MDR 2017/745 and EU IVDR 2017/746 apply — see [Great Britain vs Northern Ireland](./great-britain-vs-northern-ireland.md).
 :::
 
 :::warning[Disclaimer]
@@ -72,7 +72,7 @@ The **UK Conformity Assessed (UKCA)** mark is the conformity mark for the **Grea
 - For Class IIa, IIb, III, AIMD, and higher-risk IVDs: a **UK Approved Body** must be involved before the UKCA mark is applied
 - The UKCA mark is accompanied by the manufacturer's registered address (or UKRP's address for non-UK manufacturers)
 
-CE marking is currently accepted in GB under transitional arrangements until **30 June 2030**. See [UKCA marking requirements](../pre-market/conformity-assessment/ukca-marking) and [Great Britain vs Northern Ireland](./great-britain-vs-northern-ireland) for the transitional position.
+CE marking is currently accepted in GB under transitional arrangements until **30 June 2030**. See [UKCA marking requirements](../pre-market/conformity-assessment/ukca-marking.md) and [Great Britain vs Northern Ireland](./great-britain-vs-northern-ireland.md) for the transitional position.
 
 ---
 
@@ -85,7 +85,7 @@ UK Approved Bodies are organisations designated by MHRA to carry out third-party
 - UKAB certificates are valid for the **GB market only** — EU Notified Body certificates are needed for the EU and NI markets
 - UKABs must be re-assessed periodically by MHRA
 
-Key UKABs currently designated include BSI (British Standards Institution), SGS UK Ltd, and others. See [UK Approved Bodies](../../approved-bodies/what-are-approved-bodies) for the full list and guidance on selection.
+Key UKABs currently designated include BSI (British Standards Institution), SGS UK Ltd, and others. See [UK Approved Bodies](../approved-bodies/what-are-approved-bodies.md) for the full list and guidance on selection.
 
 ---
 
@@ -193,18 +193,18 @@ MHRA has been developing a reformed UK medical device regulatory framework since
 - Establish a UDI system aligned with international best practice
 - Clarify the UKRP framework
 
-MHRA has published several consultation documents and intends to use the powers in the Medical Devices Act 2021 to implement reforms by statutory instrument. Monitor the [MHRA consultations page](https://www.gov.uk/topic/medicines-medical-devices-blood/medical-devices) and the [What's New](../../whats-new/recent-regulatory-changes) section for updates.
+MHRA has published several consultation documents and intends to use the powers in the Medical Devices Act 2021 to implement reforms by statutory instrument. Monitor the [MHRA consultations page](https://www.gov.uk/topic/medicines-medical-devices-blood/medical-devices) and the [What's New](https://rapath.org/whats-new) section for updates.
 
 ---
 
 ## Related pages
 
-- [Great Britain vs Northern Ireland](./great-britain-vs-northern-ireland) — the dual-market position
-- [Who needs to comply?](./who-needs-to-comply) — roles and obligations
-- [Post-Brexit transition timeline](./post-brexit-transition-timeline)
-- [Classification](../pre-market/classification/how-classification-works) — Classes I–III, AIMD, IVD
-- [UK Approved Bodies](../../approved-bodies/what-are-approved-bodies)
-- [UKCA marking requirements](../pre-market/conformity-assessment/ukca-marking)
+- [Great Britain vs Northern Ireland](./great-britain-vs-northern-ireland.md) — the dual-market position
+- [Who needs to comply?](./who-needs-to-comply.md) — roles and obligations
+- [Post-Brexit transition timeline](./post-brexit-transition-timeline.md)
+- [Classification](../pre-market/classification/how-classification-works.md) — Classes I–III, AIMD, IVD
+- [UK Approved Bodies](../approved-bodies/what-are-approved-bodies.md)
+- [UKCA marking requirements](../pre-market/conformity-assessment/ukca-marking.md)
 
 ---
 

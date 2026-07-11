@@ -120,12 +120,12 @@ MHRA has a range of tools to enforce post-market compliance:
 
 ## Related pages
 
-- [Vigilance — what must be reported](./vigilance/what-must-be-reported)
-- [Vigilance — reporting timeframes](./vigilance/reporting-timeframes)
-- [Field Safety Corrective Actions](./field-safety/when-fsca-required)
-- [Post-market surveillance by class](./post-market-surveillance/pms-requirements-by-class)
-- [Labelling requirements](./labelling-advertising/labelling-requirements)
-- [MHRA registration maintenance](./mhra-registration-maintenance/keeping-registration-up-to-date)
+- [Vigilance — what must be reported](./vigilance/what-must-be-reported.md)
+- [Vigilance — reporting timeframes](./vigilance/reporting-timeframes.md)
+- [Field Safety Corrective Actions](./field-safety/when-fsca-required.md)
+- [Post-market surveillance by class](./post-market-surveillance/pms-requirements-by-class.md)
+- [Labelling requirements](./labelling-advertising/labelling-requirements.md)
+- [MHRA registration maintenance](./mhra-registration-maintenance/keeping-registration-up-to-date.md)
 
 ---
 

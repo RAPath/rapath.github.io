@@ -34,7 +34,7 @@ Exporting from Saudi Arabia does not satisfy the regulatory requirements of the 
 | USA | FDA 510(k), PMA, or De Novo clearance/approval |
 | UK | UKCA marking under UK MDR 2002 |
 | Australia | ARTG inclusion via TGA |
-| Other GCC | Separate national registration (see [GCC Harmonisation](./gcc-harmonization)) |
+| Other GCC | Separate national registration (see [GCC Harmonisation](./gcc-harmonization.md)) |
 
 ## Saudi manufacturer as legal manufacturer on global submissions
 
@@ -50,10 +50,10 @@ A **Saudi-based manufacturer** can serve as the legal manufacturer on regulatory
 
 ## Further reading
 
-- [GCC Harmonisation](./gcc-harmonization)
-- [SFDA vs Other Regulators](./sfda-vs-regulators)
-- [MDEL Overview](../authorized-representative/mdel-overview)
-- [Multi-Market Strategy](./multi-market-strategy)
+- [GCC Harmonisation](./gcc-harmonization.md)
+- [SFDA vs Other Regulators](./sfda-vs-regulators.md)
+- [MDEL Overview](../authorized-representative/mdel-overview.md)
+- [Multi-Market Strategy](./multi-market-strategy.md)
 
 Export Certificate Validity
 

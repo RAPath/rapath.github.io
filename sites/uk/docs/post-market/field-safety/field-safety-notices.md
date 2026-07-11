@@ -83,9 +83,9 @@ Published FSNs are available on the [MHRA device alerts and safety notices](http
 
 ## Related pages
 
-- [When an FSCA is required](./when-fsca-required)
-- [Recalls — process and MHRA coordination](./recalls-process)
-- [How to report to MHRA](../vigilance/how-to-report)
+- [When an FSCA is required](./when-fsca-required.md)
+- [Recalls — process and MHRA coordination](./recalls-process.md)
+- [How to report to MHRA](../vigilance/how-to-report.md)
 
 ---
 

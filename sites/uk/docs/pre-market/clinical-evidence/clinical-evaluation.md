@@ -124,7 +124,7 @@ PMCF is implemented through:
 
 PMCF results feed back into the CER at each update cycle.
 
-See [Post-market clinical follow-up (PMCF)](../../post-market/post-market-surveillance/pmcf) for full requirements.
+See [Post-market clinical follow-up (PMCF)](../../post-market/post-market-surveillance/pmcf.md) for full requirements.
 
 ---
 
@@ -138,17 +138,17 @@ The depth of clinical evaluation required scales with device risk:
 | **Class IIa** | Moderate — systematic literature review; equivalent device data usually sufficient; PMCF plan required |
 | **Class IIb** | Substantial — systematic literature and device-specific data; clinical investigation may be required for novel devices; annual PMCF update |
 | **Class III / AIMD** | Comprehensive — systematic literature, device-specific clinical investigation data often required; UKAB scrutinises CER; annual PMCF update mandatory |
-| **IVD** | Performance evaluation (see [Performance evaluation for IVDs](./performance-evaluation)) |
+| **IVD** | Performance evaluation (see [Performance evaluation for IVDs](./performance-evaluation.md)) |
 
 ---
 
 ## Related pages
 
-- [Performance evaluation for IVDs](./performance-evaluation)
-- [Clinical investigations in the UK](./clinical-investigations)
-- [Using overseas clinical data](./overseas-clinical-data)
-- [Clinical evaluation summary in the technical file](../technical-documentation/clinical-evaluation-summary)
-- [Post-market clinical follow-up (PMCF)](../../post-market/post-market-surveillance/pmcf)
+- [Performance evaluation for IVDs](./performance-evaluation.md)
+- [Clinical investigations in the UK](./clinical-investigations.md)
+- [Using overseas clinical data](./overseas-clinical-data.md)
+- [Clinical evaluation summary in the technical file](../technical-documentation/clinical-evaluation-summary.md)
+- [Post-market clinical follow-up (PMCF)](../../post-market/post-market-surveillance/pmcf.md)
 
 ---
 

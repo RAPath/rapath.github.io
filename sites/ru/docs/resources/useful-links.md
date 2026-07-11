@@ -29,7 +29,7 @@ description: Key official links for Russia medical device regulation — Roszdra
 |---|---|
 | **Garant legal database** | [base.garant.ru](https://base.garant.ru/) |
 | **Consultant Plus** | [consultant.ru](https://www.consultant.ru/) |
-| **Official legal information portal** | [pravo.gov.ru](http://pravo.gov.ru/) |
+| **Official legal information portal** | [pravo.gov.ru](https://pravo.gov.ru/) |
 
 ## International
 

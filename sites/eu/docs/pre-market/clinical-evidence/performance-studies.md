@@ -95,9 +95,9 @@ On completion, a full report documenting all study conduct, data, analyses, and 
 
 ## Related pages
 
-- [Performance evaluation](./performance-evaluation)
-- [Clinical investigations (MDR)](./clinical-investigations)
-- [Using international clinical data](./using-international-clinical-data)
+- [Performance evaluation](./performance-evaluation.md)
+- [Clinical investigations (MDR)](./clinical-investigations.md)
+- [Using international clinical data](./using-international-clinical-data.md)
 - [Companion diagnostics](/pre-market/special-device-types/companion-diagnostics)
 
 ---

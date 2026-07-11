@@ -62,10 +62,11 @@ Based on Cabinet decisions made through 2024 and 2025, the Bill is expected to i
 | September 2024 | Government announces Medical Products Bill |
 | November 2024 | Public webinar on the planned Bill |
 | 2025 | Ongoing Cabinet decisions on key policy settings |
-| Late 2025 (estimated) | Draft Bill expected to be introduced |
+| 2026 | Government intends to introduce Bill to Parliament (not yet introduced as of July 2026) |
 | Unknown | Enactment — during current parliamentary term |
+| ~2030 | Expected commencement of new framework |
 
-See the [Medical Products Bill Tracker](/whats-new/medical-products-bill-tracker) for current status.
+See the [Medical Products Bill Tracker](https://rapath.org/whats-new) for current status.
 
 ---
 
@@ -73,5 +74,4 @@ See the [Medical Products Bill Tracker](/whats-new/medical-products-bill-tracker
 Once the Bill is enacted, the transition to the new framework will require significant preparation, including new approval applications, updated Quality Management System (QMS) procedures, and possible Unique Device Identification (UDI) obligations. Sponsors and manufacturers supplying the NZ market should monitor the Bill's progress closely and begin assessing the likely regulatory and operational impact on their product portfolios.
 :::
 
-"Key milestones ahead: Once the draft Bill is introduced, it will undergo parliamentary review and Select Committee process. Implementation of the new framework is expected during the current parliamentary term, but the exact transition timeline will depend on parliamentary progress. Sponsors and manufacturers should monitor the Bill Tracker for updates on specific implementation dates and transition periods once the Bill is enacted."
-
+"Key milestones ahead: Once the draft Bill is introduced, it will undergo parliamentary review and Select Committee process. Implementation of the new framework is expected during the current parliamentary term, but the exact transition timeline will depend on parliamentary progress. Sponsors and manufacturers should monitor the Bill Tracker for updates

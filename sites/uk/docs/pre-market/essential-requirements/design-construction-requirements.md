@@ -163,13 +163,13 @@ Applies to **devices incorporating software** — both active devices with embed
 
 The primary standard for medical device software development is **IEC 62304** (*Medical device software — Software life cycle processes*). IEC 62304 defines three software safety classes (A, B, C) and the rigor of software lifecycle processes required for each.
 
-For AI/ML-based software, see [Software & SaMD classification](../classification/software-samd-classification) and MHRA's AI change programme guidance.
+For AI/ML-based software, see [Software & SaMD classification](../classification/software-samd-classification.md) and MHRA's AI change programme guidance.
 
 ---
 
 ## ER 13 — Self-testing and near-patient testing IVDs (IFU)
 
-*Note: ER 13 in Schedule 1 relates to requirements for devices intended for self-testing and near-patient testing for Part I devices. For IVD-specific requirements, see [IVD Essential Requirements](./ivd-essential-requirements).*
+*Note: ER 13 in Schedule 1 relates to requirements for devices intended for self-testing and near-patient testing for Part I devices. For IVD-specific requirements, see [IVD Essential Requirements](./ivd-essential-requirements.md).*
 
 ---
 
@@ -241,18 +241,18 @@ ER 18 specifies the **information to be supplied with every device** — on the 
 - Information on residual risks and side effects
 - Storage and disposal instructions
 
-Full labelling requirements are addressed in [Labelling requirements](../../post-market/labelling-advertising/labelling-requirements).
+Full labelling requirements are addressed in [Labelling requirements](../../post-market/labelling-advertising/labelling-requirements.md).
 
 ---
 
 ## Related pages
 
-- [Essential Requirements — overview](./overview)
-- [General requirements — ER 1–6](./general-requirements)
-- [IVD Essential Requirements (Schedule 1A)](./ivd-essential-requirements)
-- [ER checklist & compliance matrix](./checklist-compliance)
-- [Software & SaMD classification](../classification/software-samd-classification)
-- [Labelling requirements](../../post-market/labelling-advertising/labelling-requirements)
+- [Essential Requirements — overview](./overview.md)
+- [General requirements — ER 1–6](./general-requirements.md)
+- [IVD Essential Requirements (Schedule 1A)](./ivd-essential-requirements.md)
+- [ER checklist & compliance matrix](./checklist-compliance.md)
+- [Software & SaMD classification](../classification/software-samd-classification.md)
+- [Labelling requirements](../../post-market/labelling-advertising/labelling-requirements.md)
 
 ---
 

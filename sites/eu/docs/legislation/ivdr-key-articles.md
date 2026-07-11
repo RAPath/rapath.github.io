@@ -127,8 +127,8 @@ IVDR 2017/746 contains **113 Articles** and **16 Annexes**, mirroring the MDR st
 
 ## Related pages
 
-- [MDR key articles](./mdr-key-articles)
-- [IVDR Annexes](./ivdr-annexes)
+- [MDR key articles](./mdr-key-articles.md)
+- [IVDR Annexes](./ivdr-annexes.md)
 - [Classification — Class A · B · C · D](/pre-market/classification/ivd-classes)
 - [Performance evaluation](/pre-market/clinical-evidence/performance-evaluation)
 - [EU reference laboratories](/notified-bodies/what-notified-bodies-do)

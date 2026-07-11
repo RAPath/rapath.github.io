@@ -27,5 +27,5 @@ A serious incident also includes near-serious incidents — incidents where a se
 - Device defects identified before market placement
 
 ## FSCAs
-Field safety corrective actions are reported separately from serious incidents — see [FSCA Process](../fsca/fsca-process).
+Field safety corrective actions are reported separately from serious incidents — see [FSCA Process](../fsca/fsca-process.md).
 

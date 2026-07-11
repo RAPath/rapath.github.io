@@ -22,7 +22,7 @@ Mexican manufacturers must:
 
 Foreign manufacturers cannot hold a Mexican sanitary registration directly. They must appoint a Mexico Registration Holder (MRH) — a legally constituted Mexican entity — to act on their behalf. The MRH holds the registration and manages all regulatory interactions with COFEPRIS.
 
-See [Mexico Registration Holder](../mexico-registration-holder/what-is-mrh) for full detail.
+See [Mexico Registration Holder](../mexico-registration-holder/what-is-mrh.md) for full detail.
 
 ## Mexico Registration Holder (MRH)
 
@@ -65,9 +65,9 @@ Hospitals, clinics, and laboratories are required to:
 
 ## Related pages
 
-- [Mexico Registration Holder — full guide](../mexico-registration-holder/what-is-mrh)
-- [Technovigilance overview](../postmarket/technovigilance-overview)
-- [Quality System — NOM-241](../quality-system/nom-241-overview)
+- [Mexico Registration Holder — full guide](../mexico-registration-holder/what-is-mrh.md)
+- [Technovigilance overview](../postmarket/technovigilance-overview.md)
+- [Quality System — NOM-241](../quality-system/nom-241-overview.md)
 
 The MRH must designate a Responsable Sanitario (Health Manager) — a qualified professional with appropriate technical training in medical devices and regulatory affairs — to oversee regulatory compliance and technovigilance activities. Pharmaceutical training alone may be insufficient; COFEPRIS may require demonstration of device-specific regulatory knowledge. This role is mandatory and must be formally registered with COFEPRIS.
 

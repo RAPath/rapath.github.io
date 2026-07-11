@@ -17,7 +17,7 @@ Korea is a significant medical device market and an active participant in global
 MFDS is generally considered a rigorous but scientifically engaged regulator, comparable in standards to the FDA, TGA, and EU competent authorities.
 
 ## Related pages
-- [IMDRF membership and alignment](./imdrf-membership-and-alignment) · [Korea vs other regulators](./korea-vs-fda-tga-ce)
+- [IMDRF membership and alignment](./imdrf-membership-and-alignment.md) · [Korea vs other regulators](./korea-vs-fda-tga-ce.md)
 
 "Korea joined the International Medical Device Regulators Forum (IMDRF) in 2011 and actively participates in workgroups on STED, clinical evaluation, and emerging technologies. MFDS has committed to adopting IMDRF-aligned standards for device classification and technical documentation requirements."
 

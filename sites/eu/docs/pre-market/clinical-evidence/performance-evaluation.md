@@ -123,8 +123,8 @@ For certain IVD categories, the European Commission has published or is developi
 ## Related pages
 
 - [Clinical evaluation overview (MDR)](/pre-market/clinical-evidence/clinical-evaluation-overview)
-- [Performance studies](./performance-studies)
-- [Using international clinical data](./using-international-clinical-data)
+- [Performance studies](./performance-studies.md)
+- [Using international clinical data](./using-international-clinical-data.md)
 - [Companion diagnostics](/pre-market/special-device-types/companion-diagnostics)
 - [Near-patient & self-test IVDs](/pre-market/special-device-types/near-patient-self-test-ivds)
 

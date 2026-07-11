@@ -38,7 +38,7 @@ IVD classification exists within the ASEAN AMDD framework (IVD Class A–D), but
 - IVD classification rules exist for when registration requirements are eventually implemented
 - LTO is still required for entities importing or distributing IVDs
 
-**Monitor the CDRRHR website for the announcement of IVD registration implementation** — see [IVD Registration Update](/whats-new/ivd-registration-update).
+**Monitor the CDRRHR website for the announcement of IVD registration implementation** — see [IVD Registration Update](https://rapath.org/whats-new).
 
 ## Product Classification Inquiry — PH-Unique
 

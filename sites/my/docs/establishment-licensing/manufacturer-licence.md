@@ -60,11 +60,11 @@ The foreign manufacturer must:
 2. Ensure the LAR has access to all technical and quality documentation
 3. Provide the LAR with authority to respond to MDA queries and manage recalls
 
-See [Local Authorised Representative](./local-authorised-representative) for full LAR requirements.
+See [Local Authorised Representative](./local-authorised-representative.md) for full LAR requirements.
 
 ### Recognised Foreign Regulatory Systems
 
-MDA recognises manufacturers holding current regulatory approvals or QMS certifications from recognised jurisdictions. MDSAP certificate holders may benefit from a streamlined QMS review. See [MDSAP Recognition](../conformity-assessment/mdsap-recognition).
+MDA recognises manufacturers holding current regulatory approvals or QMS certifications from recognised jurisdictions. MDSAP certificate holders may benefit from a streamlined QMS review. See [MDSAP Recognition](../conformity-assessment/mdsap-recognition.md).
 
 ## Annual Renewal
 

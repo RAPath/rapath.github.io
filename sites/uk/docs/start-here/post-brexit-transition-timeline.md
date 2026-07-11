@@ -147,7 +147,7 @@ Separately from the transitional arrangements, MHRA is developing a new, reforme
 
 MHRA has published several consultation documents (2021, 2022) and a [response to the consultation](https://www.gov.uk/government/consultations/consultation-on-the-future-regulation-of-medical-devices-in-the-united-kingdom) setting out its intended direction. Implementation will be by statutory instrument — with timelines to be announced.
 
-The reformed framework may affect transitional deadlines and UKCA requirements. Monitor [MHRA consultations](https://www.gov.uk/topic/medicines-medical-devices-blood/medical-devices) and the [What's New](../../whats-new/recent-regulatory-changes) section for updates.
+The reformed framework may affect transitional deadlines and UKCA requirements. Monitor [MHRA consultations](https://www.gov.uk/topic/medicines-medical-devices-blood/medical-devices) and the [What's New](https://rapath.org/whats-new) section for updates.
 
 ---
 
@@ -167,12 +167,12 @@ The reformed framework may affect transitional deadlines and UKCA requirements. 
 
 ## Related pages
 
-- [Great Britain vs Northern Ireland](./great-britain-vs-northern-ireland)
-- [UKCA marking requirements](../pre-market/conformity-assessment/ukca-marking)
-- [UK Approved Bodies](../../approved-bodies/what-are-approved-bodies)
-- [MHRA registration](../pre-market/mhra-registration/who-must-register)
-- [What's New](../../whats-new/recent-regulatory-changes)
-- [Northern Ireland & Windsor Framework](../../northern-ireland/overview)
+- [Great Britain vs Northern Ireland](./great-britain-vs-northern-ireland.md)
+- [UKCA marking requirements](../pre-market/conformity-assessment/ukca-marking.md)
+- [UK Approved Bodies](../approved-bodies/what-are-approved-bodies.md)
+- [MHRA registration](../pre-market/mhra-registration/who-must-register.md)
+- [What's New](https://rapath.org/whats-new)
+- [Northern Ireland & Windsor Framework](../northern-ireland/overview.md)
 
 ---
 

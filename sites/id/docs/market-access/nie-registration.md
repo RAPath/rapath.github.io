@@ -39,7 +39,7 @@ Under **Permenkes No. 62/2017, Article 13**, a critical constraint applies:
 - Licence transfers to a new holder are **not permitted** — the new party must submit a fresh registration
 - This makes the strategic choice of NIE holder — distributor vs neutral licence holder — one of the most important decisions in your Indonesian market entry strategy
 
-See [Neutral Licence Holder](../local-representation/neutral-licence-holder) for the strategic analysis.
+See [Neutral Licence Holder](../local-representation/neutral-licence-holder.md) for the strategic analysis.
 
 ---
 

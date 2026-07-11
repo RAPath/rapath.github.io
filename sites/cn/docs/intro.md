@@ -146,7 +146,7 @@ The site is structured around the regulatory lifecycle of a medical device in Ch
 | [Digital Health & SaMD](/cn/docs/digital-health/framework) | SaMD classification, AI/ML NMPA policy, cybersecurity |
 | [Special Access](/cn/docs/special-access/priority-review) | Priority review, innovative device designation, emergency use, Hainan FTP pilot |
 | [Enforcement & Compliance](/cn/docs/enforcement/inspections) | NMPA inspections, penalties, market surveillance, blacklist |
-| [What's New](/cn/docs/whats-new/regulatory-changes) | Recent regulatory changes, draft guidance, upcoming deadlines |
+| [What's New](https://rapath.org/whats-new) | Recent regulatory changes, draft guidance, upcoming deadlines |
 
 ---
 
@@ -160,7 +160,7 @@ The site is structured around the regulatory lifecycle of a medical device in Ch
 
 ## Content currency
 
-This site was last reviewed in **May 2026**. NMPA regulations and guidance change frequently. Check [What's New](/cn/docs/whats-new/regulatory-changes) for recent updates.
+This site was last reviewed in **May 2026**. NMPA regulations and guidance change frequently. Check [What's New](https://rapath.org/whats-new) for recent updates.
 
 :::note Disclaimer
 Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [NMPA](https://www.nmpa.gov.cn/) sources before making regulatory decisions. Not affiliated with NMPA or any Chinese Government body. Not legal or regulatory advice.

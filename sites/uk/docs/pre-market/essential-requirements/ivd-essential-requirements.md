@@ -181,11 +181,11 @@ Key standards for IVD performance evaluation:
 
 ## Related pages
 
-- [What is an IVD?](../../start-here/what-is-an-ivd)
-- [IVD classification — List A · List B · Self-test · General](../classification/ivd-classification)
-- [Performance evaluation for IVDs](../clinical-evidence/performance-evaluation)
-- [Essential Requirements — overview](./overview)
-- [Checklist & compliance matrix](./checklist-compliance)
+- [What is an IVD?](../../start-here/what-is-an-ivd.md)
+- [IVD classification — List A · List B · Self-test · General](../classification/ivd-classification.md)
+- [Performance evaluation for IVDs](../clinical-evidence/performance-evaluation.md)
+- [Essential Requirements — overview](./overview.md)
+- [Checklist & compliance matrix](./checklist-compliance.md)
 
 ---
 

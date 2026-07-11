@@ -28,4 +28,4 @@ Different UDI-K labels are required for:
 UDI-K must appear on device packaging AND the production identifier (serial + lot + expiry) must be **recorded in the patient's hospital record**.
 
 ## Related pages
-- [Device identifier and production identifier](./device-identifier-and-production-identifier) · [UDI-K overview](./udi-k-overview)
+- [Device identifier and production identifier](./device-identifier-and-production-identifier.md) · [UDI-K overview](./udi-k-overview.md)

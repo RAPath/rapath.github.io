@@ -25,7 +25,7 @@ Vietnam's Decree 98/2021 and DAV's guidance explicitly reference the CSDT as the
 | **Module 5 — Manufacturing Information** | Manufacturing site details, process flow, QMS certificate (ISO 13485 / MDSAP) |
 | **Module 6 — Sterilisation** | Sterilisation validation data (for sterile devices only) |
 | **Module 7 — Biocompatibility** | ISO 10993 biological evaluation (for devices with body contact) |
-| **Module 8 — Clinical Evaluation** | Clinical evidence summary — see [Clinical Evidence](../market-access/clinical-evidence) |
+| **Module 8 — Clinical Evaluation** | Clinical evidence summary — see [Clinical Evidence](../market-access/clinical-evidence.md) |
 | **Module 9 — Risk Management** | ISO 14971 risk management summary |
 | **Module 10 — Labelling** | Vietnamese-language labels and IFU |
 | **Module 11 — Post-Market Surveillance Plan** | Summary of planned PMS activities |

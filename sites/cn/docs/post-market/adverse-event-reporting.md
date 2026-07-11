@@ -44,7 +44,7 @@ Content on this site is written with AI assistance and is intended as a navigati
 ## Key Reporting Channels
 1. **CDRMP (China Drug/Device Registration and Management Platform)**: www.nmpa.gov.cn/datasearch/
 2. **NMPA adverse event portal**: Direct submission for manufacturers and healthcare providers
-3. **Yellow Card system**: For healthcare professionals and public
+3. **Yellow Card system**: Public adverse event reporting channel managed by NMPA for healthcare professionals and general public; integrates with CDRMP for data consolidation and analysis.
 
 ## Manufacturer Obligations
 - Conduct post-market surveillance (PMS) and periodic safety update reports (PSUR)
@@ -54,5 +54,3 @@ Content on this site is written with AI assistance and is intended as a navigati
 
 ## Reference Documents
 Report forms and detailed procedures available on www.nmpa.gov.cn under 'Adverse Event Reporting' and 'Guidance Documents'
-
-Revise Key Reporting Channels section: 'Yellow Card system: Public adverse event reporting channel managed by NMPA for healthcare professionals and general public; integrates with CDRMP for data consolidation and analysis.'

@@ -64,7 +64,7 @@ A marketing authorisation is valid for 5 years from the date of issue. Renewal a
 
 ## Changes after registration
 
-Changes to a registered device (design, manufacturing, labelling) may require a change notification or a new registration depending on significance. See [Change Notification](../post-market/change-notification).
+Changes to a registered device (design, manufacturing, labelling) may require a change notification or a new registration depending on significance. See [Change Notification](../post-market/change-notification.md).
 
 :::warning CFS legalisation is frequently the cause of delays
 Ensure your CFS is correctly legalised well in advance of your intended submission date. Vietnamese authorities require the document chain to be complete before the dossier is accepted.

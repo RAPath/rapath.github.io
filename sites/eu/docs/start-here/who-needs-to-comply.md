@@ -68,7 +68,7 @@ Regardless of which economic operator role you hold (manufacturer or EU REP), yo
 - Responsibility for ensuring Technical Documentation and DoC are prepared and up to date
 - Responsibility for ensuring post-market obligations are fulfilled
 
-See [Person responsible for regulatory compliance](./who-needs-to-comply/person-responsible-for-regulatory-compliance) for full requirements.
+See [Person responsible for regulatory compliance](./who-needs-to-comply/person-responsible-for-regulatory-compliance.md) for full requirements.
 
 ---
 
@@ -89,11 +89,11 @@ This exemption is narrow and does not apply to manufacturing for commercial purp
 
 Select your role to see the specific obligations that apply to you:
 
-- [Manufacturers](./who-needs-to-comply/manufacturers)
-- [Authorised representatives (EU REPs)](./who-needs-to-comply/authorised-representatives)
-- [Importers](./who-needs-to-comply/importers)
-- [Distributors](./who-needs-to-comply/distributors)
-- [Person responsible for regulatory compliance](./who-needs-to-comply/person-responsible-for-regulatory-compliance)
+- [Manufacturers](./who-needs-to-comply/manufacturers.md)
+- [Authorised representatives (EU REPs)](./who-needs-to-comply/authorised-representatives.md)
+- [Importers](./who-needs-to-comply/importers.md)
+- [Distributors](./who-needs-to-comply/distributors.md)
+- [Person responsible for regulatory compliance](./who-needs-to-comply/person-responsible-for-regulatory-compliance.md)
 
 ---
 

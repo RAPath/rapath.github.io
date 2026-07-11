@@ -83,8 +83,8 @@ A foreign manufacturer that has established a **legal presence in Saudi Arabia**
 
 ## Further reading
 
-- [Authorized Representative & MDEL](../authorized-representative/ar-overview)
-- [MDEL Overview](../authorized-representative/mdel-overview)
-- [Quality System Requirements](../quality-system/iso-13485-overview)
-- [Adverse Event Reporting](../post-market/adverse-event-reporting)
+- [Authorized Representative & MDEL](../authorized-representative/ar-overview.md)
+- [MDEL Overview](../authorized-representative/mdel-overview.md)
+- [Quality System Requirements](../quality-system/iso-13485-overview.md)
+- [Adverse Event Reporting](../post-market/adverse-event-reporting.md)
 

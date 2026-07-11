@@ -88,11 +88,11 @@ In addition to general requirements, IVD labels and IFUs must include:
 - Interferences
 - Principles of the procedure
 
-See [In Vitro Diagnostics](./in-vitro-diagnostics) for full IVD labelling detail.
+See [In Vitro Diagnostics](./in-vitro-diagnostics.md) for full IVD labelling detail.
 
 ## Changes to Labelling
 
-Changes to labelling after registration are a **variation** and require prior MDA approval if they are more than administrative corrections. See [Change Notification](../post-market-requirements/change-notification).
+Changes to labelling after registration are a **variation** and require prior MDA approval if they are more than administrative corrections. See [Change Notification](../post-market-requirements/change-notification.md).
 
 :::warning DRN on Label
 The **Device Registration Number (DRN)** must appear on the label. If a device is registered after initial labelling design, the DRN must be added before supply. Devices supplied without the DRN on the label are non-compliant with Act 737.

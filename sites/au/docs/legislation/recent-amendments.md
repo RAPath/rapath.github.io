@@ -74,6 +74,16 @@ The Procedure for Recalls, Product Alerts and Product Corrections (PRAC) replace
 
 ---
 
+## 2026 — Fee Increases and Reclassification Deadline
+
+**1 July 2026 — FY2026-27 fee increases**
+TGA fees and charges for medical device applications and annual charges increased by approximately 5-6% for the 2026-27 financial year, effective 1 July 2026.
+
+**1 July 2026 — Reclassification deadline for devices of microbial, recombinant, or animal origin**
+Sponsors of devices manufactured using, or incorporating, materials of microbial, recombinant, or animal origin were required to have completed reclassification under the applicable classification rules by 1 July 2026.
+
+---
+
 ## Upcoming Changes — Watch This Space
 
 **From 21 March 2026**

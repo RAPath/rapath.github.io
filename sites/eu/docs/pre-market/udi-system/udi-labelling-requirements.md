@@ -112,9 +112,9 @@ A manufacturer may use different issuing entities for different product lines â€
 
 ## Related pages
 
-- [UDI overview & structure](./udi-overview)
-- [UDI-DI & UDI-PI explained](./udi-di-and-pi)
-- [EUDAMED UDI registration](./eudamed-udi-registration)
+- [UDI overview & structure](./udi-overview.md)
+- [UDI-DI & UDI-PI explained](./udi-di-and-pi.md)
+- [EUDAMED UDI registration](./eudamed-udi-registration.md)
 - [Labelling requirements](/post-market/labelling-advertising/labelling-requirements)
 - [Implantable devices](/pre-market/special-device-types/implantable-devices)
 

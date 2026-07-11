@@ -12,7 +12,7 @@ description: Official NMRA guidance documents, application forms, fee schedule, 
 
 | Document | Content | Where to Find |
 |----------|---------|--------------|
-| **F-MDR-035 (Revised 2 June 2026) — effective from 2 June 2026** | Consolidated Dossier Submission Checklist — mandatory format | NMRA website → Application Forms |
+| **Consolidated Dossier submission checklist** (process effective 5 August 2025 — confirm current form version on NMRA website) | Consolidated Dossier Submission Checklist — mandatory format | NMRA website → Application Forms |
 | Classification Guideline | EU-derived classification rules for general and IVD devices | NMRA website |
 | Reliance Pathway Guidelines (Oct 2025) | Eligibility, reference countries, reduced dossier | NMRA website |
 | Application forms | WOR, Site Registration, Sample Import Licence, Import Licence | NMRA website |
@@ -42,7 +42,7 @@ All documents and latest forms: **[www.nmra.gov.lk](https://www.nmra.gov.lk/)** 
 | ISO 10993 series | Devices with patient contact |
 | IEC 60601-1 | Active/electrical devices |
 
-:::info Always Use Current Checklist Versions from the NMRA website new If you are uncertain whether a document revision affects your ongoing application, contact the NMRA Medical Devices Regulatory Division before submitting.
-F-MDR-035 was revised effective 2 June 2026. Previous versions are no longer accepted. Download a fresh copy for every submission.
+:::info Always Use Current Checklist Versions from the NMRA website
+NMRA's Consolidated Dossier submission process for new medical device applications took effect 5 August 2025. Always confirm the current checklist/form version via the NMRA website (Application Forms section) as this has likely been revised since. If you are uncertain whether a document revision affects your ongoing application, contact the NMRA Medical Devices Regulatory Division before submitting.
 :::
 

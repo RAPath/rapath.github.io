@@ -15,10 +15,10 @@ MedDO assigns specific obligations based on your role in the supply chain. The f
 | Distributor | Not required | Verify only | No | Report to manufacturer/CH REP |
 
 ## Manufacturer
-Responsible for ensuring device compliance, QMS, technical documentation, conformity assessment, declaration of conformity, and post-market obligations. Non-Swiss manufacturers must appoint a CH REP before placing devices on the Swiss market. See [Manufacturers](./manufacturers).
+Responsible for ensuring device compliance, QMS, technical documentation, conformity assessment, declaration of conformity, and post-market obligations. Non-Swiss manufacturers must appoint a CH REP before placing devices on the Swiss market. See [Manufacturers](./manufacturers.md).
 
 ## Swiss Authorised Representative (CH REP)
-Mandatory for non-Swiss manufacturers. Performs or assists with Swissmedic registration, vigilance reporting, FSCA coordination, and inspections. Jointly and severally liable with manufacturer. See [CH REP](./ch-reps).
+Mandatory for non-Swiss manufacturers. Performs or assists with Swissmedic registration, vigilance reporting, FSCA coordination, and inspections. Jointly and severally liable with manufacturer. See [CH REP](./ch-reps.md).
 
 Importer — Any natural or legal person established in Switzerland who imports and places a non-Swiss manufacturer's device on the Swiss market without being the manufacturer themselves. Must verify device conformity, proper labelling (DE/FR/IT), and confirm CH REP appointment is in place. Has no registration obligation but must cooperate with Swissmedic surveillance activities and report any serious incidents to the manufacturer or CH REP.
 

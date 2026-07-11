@@ -12,7 +12,7 @@ Japanese law requires core labelling in Japanese for all devices marketed in Jap
 ## Which elements must be in Japanese
 
 The following elements must appear in Japanese on labels and IFU for devices marketed in Japan:
-- All mandatory label elements listed in the Labelling Ordinance (see [Japanese Labelling Requirements](./japanese-labelling-requirements))
+- All mandatory label elements listed in the Labelling Ordinance (see [Japanese Labelling Requirements](./japanese-labelling-requirements.md))
 - Warnings and precautions — must be in Japanese to ensure healthcare providers and patients understand them
 - Instructions for use — must be in Japanese
 
@@ -37,6 +37,6 @@ MHLW allows several practical approaches for managing international labelling:
 
 ## Electronic IFU considerations
 
-See [Electronic IFU](./electronic-ifu) for Japan's current position on eIFU acceptance.
+See [Electronic IFU](./electronic-ifu.md) for Japan's current position on eIFU acceptance.
 
 Japanese text on labels and IFU must be clearly legible and of sufficient prominence to meet the intent of the Labelling Ordinance. While specific minimum font sizes are not uniformly mandated across all device types, the Japanese text should not be subordinated in visual hierarchy to the original language text. Consult PMDA guidance for your specific device type regarding visual hierarchy and legibility requirements.

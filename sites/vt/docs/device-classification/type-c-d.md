@@ -52,7 +52,7 @@ Type D is reserved for the highest-risk devices — those that contact the centr
 
 ## Market access route for Type C and D
 
-Both classes require a full marketing authorisation through DAV. See [Marketing Authorisation (Type C/D)](../market-access/marketing-authorisation-type-c-d) for the full procedure, dossier requirements, and review timelines.
+Both classes require a full marketing authorisation through DAV. See [Marketing Authorisation (Type C/D)](../market-access/marketing-authorisation-type-c-d.md) for the full procedure, dossier requirements, and review timelines.
 
 :::warning Type D — plan for longer review times
 Type D devices receive the most intensive DAV scrutiny, including additional expert review and potentially clinical data evaluation. Build additional review time into your project plan — Type D applications typically require 6-12 months or longer for DAV assessment, compared to 3-6 months for Type C applications.

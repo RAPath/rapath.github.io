@@ -16,7 +16,7 @@ confirming KGMP compliance at the manufacturing site and that the product is not
 - Apply via MFDS eSubmission portal
 
 ## Related pages
-- [Exporting from Korea](../../international-comparison/exporting-from-korea)
+- [Exporting from Korea](../../international-comparison/exporting-from-korea.md)
 
 Export certificate validity and renewal
 

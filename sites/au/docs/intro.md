@@ -148,7 +148,7 @@ The site is organized around the regulatory lifecycle of a medical device, from 
 | [Post-Market](/post-market/overview) | Adverse event reporting, recalls and PRAC, post-market surveillance, ARTG maintenance, labelling and advertising |
 | [Legislation](/legislation/therapeutic-goods-act) | The Therapeutic Goods Act, MD Regulations, related instruments, how to read legislation |
 | [Guidance](/guidance/by-topic) | Full index of TGA guidance documents by topic and device class, forms and application links |
-| [What's New](/whats-new/regulatory-changes) | Recent regulatory changes, open consultations, upcoming changes, reforms tracker |
+| [What's New](https://rapath.org/whats-new) | Recent regulatory changes, open consultations, upcoming changes, reforms tracker |
 | [Unapproved Device Access](/unapproved-access/special-access-scheme) | SAS, authorised prescribers, clinical trials, personal importation |
 | [Other Therapeutic Goods](/other-therapeutic-goods/disinfectants-and-sterilants) | Disinfectants and sterilants, tampons and menstrual cups, unapproved medicines |
 

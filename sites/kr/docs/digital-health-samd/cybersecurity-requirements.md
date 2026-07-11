@@ -34,7 +34,7 @@ MFDS cybersecurity guidance aligns with:
 - IEC 81001-5-1 (Health software and health IT systems safety, effectiveness, and security)
 
 ## Related pages
-- [MFDS digital health framework](./mfds-digital-health-framework) · [AI/ML guidance](./ai-ml-guidance)
+- [MFDS digital health framework](./mfds-digital-health-framework.md) · [AI/ML guidance](./ai-ml-guidance.md)
 
 As of 2024, MFDS cybersecurity expectations remain guidance-level recommendations. Mandatory binding cybersecurity requirements are expected to be finalized in [specific year if known, or state 'forthcoming']. Manufacturers should begin implementing these expectations immediately to ensure compliance when mandatory requirements take effect.
 

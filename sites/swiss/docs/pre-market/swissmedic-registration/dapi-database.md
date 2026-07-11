@@ -20,7 +20,7 @@ keywords: [DAPI, Swissmedic database, medical device registration, Switzerland]
 5. Pay the applicable registration fee
 
 ## DAPI and UDI
-UDI data must be registered in DAPI as part of the Swiss UDI system, mirroring EU MDR UDI requirements. See [UDI in Switzerland](../../post-market/labelling/udi-in-switzerland).
+UDI data must be registered in DAPI as part of the Swiss UDI system, mirroring EU MDR UDI requirements. See [UDI in Switzerland](../../post-market/labelling/udi-in-switzerland.md).
 
 ## Official Sources
 - [DAPI portal](https://www.dapi.ch)

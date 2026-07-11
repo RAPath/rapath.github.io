@@ -19,4 +19,4 @@ The **Enforcement Decree (시행령)** is issued by the Korean Cabinet and provi
 [law.go.kr](https://www.law.go.kr) — search: 의료기기법 시행령
 
 ## Related pages
-- [Medical Devices Act](./medical-devices-act) · [Enforcement Rules](./enforcement-rules)
+- [Medical Devices Act](./medical-devices-act.md) · [Enforcement Rules](./enforcement-rules.md)

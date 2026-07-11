@@ -44,10 +44,10 @@ For standard route submissions, COFEPRIS permits use of a designated pre-approvi
 
 ## Related pages
 
-- [Standard Registration Route](../premarket/standard-route)
-- [Equivalency Route](../premarket/equivalency-route)
-- [Registration fees & timelines](../premarket/registration-fees-timelines)
-- [Mexico Registration Holder](../mexico-registration-holder/what-is-mrh)
+- [Standard Registration Route](../premarket/standard-route.md)
+- [Equivalency Route](../premarket/equivalency-route.md)
+- [Registration fees & timelines](../premarket/registration-fees-timelines.md)
+- [Mexico Registration Holder](../mexico-registration-holder/what-is-mrh.md)
 
 Translation certification: All non-Spanish documents must be accompanied by official certified translations (traducción certificada) prepared by a certified translator (traductor certificado) recognised by COFEPRIS or Mexican authorities. Scanned translations without proper certification stamps will be rejected.
 

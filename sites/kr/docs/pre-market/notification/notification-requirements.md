@@ -24,7 +24,7 @@ Grade I devices have streamlined documentation requirements. MFDS may accept a t
 Test reports demonstrating conformance to applicable **KS** or recognised **IEC/ISO** standards required. Common standards: IEC 60601-1, ISO 10993, applicable device-specific standards.
 
 ## Related pages
-- [eSubmission system](../marketing-authorization/esubmission-system) · [품목신고 overview](./overview)
+- [eSubmission system](../marketing-authorization/esubmission-system.md) · [품목신고 overview](./overview.md)
 
 IVD Grade A and B standards compliance
 

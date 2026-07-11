@@ -24,7 +24,7 @@ description: Thai FDA MDCD official guidance, CSDT templates, grouping guidance,
 
 | Pathway | Standard Route | Concise/Reliance Route |
 |---------|---------------|----------------------|
-| Class 1 Listing | Days–weeks (automatic) | N/A |
+| Class 1 Listing | Days–weeks (automatic upon verification of eligibility on Positive List; no Concise route available as Listing is administrative, not technical review) | N/A |
 | Class 2–3 Notification | 2–4 months | 1–3 months |
 | Class 4 License | 4–8+ months | 3–5 months |
 
@@ -49,6 +49,3 @@ All forms, templates, Positive List, and guidance: **Thai FDA website — [www.f
 :::tip Download fresh versions
 The Positive List is updated when new Class 1 devices are added. Always download the current version before assuming a device is eligible for Listing.
 :::
-
-Modify the Class 1 Listing row note to read: 'Class 1 Listing: Days–weeks (automatic upon verification of eligibility on Positive List; no Concise route available as Listing is administrative, not technical review)'
-

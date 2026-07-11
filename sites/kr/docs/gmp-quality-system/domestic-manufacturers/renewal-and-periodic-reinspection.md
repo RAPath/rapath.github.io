@@ -25,4 +25,4 @@ MFDS may conduct **unannounced or scheduled surveillance inspections** at any ti
 - MFDS may suspend or cancel associated 품목허가
 
 ## Related pages
-- [Application and certification process](./application-and-certification-process) · [MFDS inspections and administrative actions](../mfds-inspections-and-actions)
+- [Application and certification process](./application-and-certification-process.md) · [MFDS inspections and administrative actions](../mfds-inspections-and-actions.md)

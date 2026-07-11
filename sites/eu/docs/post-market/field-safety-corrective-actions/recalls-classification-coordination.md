@@ -108,9 +108,9 @@ NCAs may request progress updates and can escalate oversight if recall effective
 
 ## Related pages
 
-- [When an FSCA is required](./when-fsca-required)
-- [Field safety notices](./field-safety-notices)
-- [Competent authority-initiated actions](./competent-authority-actions)
+- [When an FSCA is required](./when-fsca-required.md)
+- [Field safety notices](./field-safety-notices.md)
+- [Competent authority-initiated actions](./competent-authority-actions.md)
 - [Vigilance reporting](/post-market/adverse-event-reporting/what-must-be-reported)
 
 ---

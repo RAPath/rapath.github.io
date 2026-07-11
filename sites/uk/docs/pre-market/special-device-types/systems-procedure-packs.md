@@ -70,10 +70,10 @@ This is a key distinction:
 
 ## Related pages
 
-- [Who needs to comply?](../../start-here/who-needs-to-comply)
-- [Single-use devices](./single-use-devices)
-- [Labelling requirements](../../post-market/labelling-advertising/labelling-requirements)
-- [MHRA registration](../mhra-registration/who-must-register)
+- [Who needs to comply?](../../start-here/who-needs-to-comply.md)
+- [Single-use devices](./single-use-devices.md)
+- [Labelling requirements](../../post-market/labelling-advertising/labelling-requirements.md)
+- [MHRA registration](../mhra-registration/who-must-register.md)
 
 ---
 

@@ -103,7 +103,7 @@ Software that takes data as input and outputs a result that informs a clinical d
 
 The classification of software-as-a-medical-device follows the standard UK MDR 2002 classification rules (Rules 9–12 for active devices, plus Rule 22 for software specifically). The higher the autonomy and influence on clinical decisions, the higher the class.
 
-See the [Software & AI as a medical device](../pre-market/special-device-types/software-ai) page for a full treatment including the MHRA AI and machine learning guidance.
+See the [Software & AI as a medical device](../pre-market/special-device-types/software-ai.md) page for a full treatment including the MHRA AI and machine learning guidance.
 
 ---
 
@@ -124,18 +124,18 @@ Before concluding your product is a medical device, work through these questions
 1. **Has the manufacturer made medical claims?** Check labelling, IFU, marketing materials, and technical documentation.
 2. **Is the intended user human?** Veterinary devices are outside UK MDR 2002 scope.
 3. **What is the principal mode of action?** If pharmacological, immunological, or metabolic — it is likely a medicinal product, not a device.
-4. **Is it an IVD?** If the product is used in vitro to examine specimens from the human body, consider the IVD provisions (Part III, UK MDR 2002) first. See [What is an IVD?](./what-is-an-ivd).
-5. **Does it apply to both Great Britain and Northern Ireland?** The regulatory requirements differ between GB and NI. See [Great Britain vs Northern Ireland](./great-britain-vs-northern-ireland).
+4. **Is it an IVD?** If the product is used in vitro to examine specimens from the human body, consider the IVD provisions (Part III, UK MDR 2002) first. See [What is an IVD?](./what-is-an-ivd.md).
+5. **Does it apply to both Great Britain and Northern Ireland?** The regulatory requirements differ between GB and NI. See [Great Britain vs Northern Ireland](./great-britain-vs-northern-ireland.md).
 
 ---
 
 ## Related pages
 
-- [What is an IVD?](./what-is-an-ivd) — IVD definition under UK MDR 2002 Part III
-- [What is not a medical device?](./what-is-not-a-medical-device) — exclusions, borderlines, and lifestyle products
-- [Great Britain vs Northern Ireland](./great-britain-vs-northern-ireland) — dual-market regulatory position post-Brexit
-- [Who needs to comply?](./who-needs-to-comply) — manufacturers, UKRPs, importers, distributors
-- [Software & AI as a medical device](../pre-market/special-device-types/software-ai)
+- [What is an IVD?](./what-is-an-ivd.md) — IVD definition under UK MDR 2002 Part III
+- [What is not a medical device?](./what-is-not-a-medical-device.md) — exclusions, borderlines, and lifestyle products
+- [Great Britain vs Northern Ireland](./great-britain-vs-northern-ireland.md) — dual-market regulatory position post-Brexit
+- [Who needs to comply?](./who-needs-to-comply.md) — manufacturers, UKRPs, importers, distributors
+- [Software & AI as a medical device](../pre-market/special-device-types/software-ai.md)
 
 ---
 

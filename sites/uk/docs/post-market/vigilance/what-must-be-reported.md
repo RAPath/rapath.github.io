@@ -26,11 +26,11 @@ A **serious incident** is any malfunction or deterioration in the characteristic
 
 ### 2. Field Safety Corrective Actions (FSCAs)
 
-All FSCAs — whether or not prompted by a specific incident — must be notified to MHRA. See [When an FSCA is required](../field-safety/when-fsca-required).
+All FSCAs — whether or not prompted by a specific incident — must be notified to MHRA. See [When an FSCA is required](../field-safety/when-fsca-required.md).
 
 ### 3. Trend reports
 
-A statistically significant increase in the rate of non-individually-reportable events triggers a trend report. See [Trend reporting](./trend-reporting).
+A statistically significant increase in the rate of non-individually-reportable events triggers a trend report. See [Trend reporting](./trend-reporting.md).
 
 ---
 
@@ -45,8 +45,8 @@ Reporting covers not only events that caused harm but events that **could have c
 1. **Did the device malfunction or underperform?** If yes → proceed
 2. **Could the malfunction be causally related to harm?** If yes or possible → proceed
 3. **Did it or could it lead to death or serious deterioration?** If yes → **report**
-4. **Does a valid exemption apply?** See [Exemptions from reporting](./exemptions-from-reporting)
-5. **Determine timeframe** → See [Reporting timeframes](./reporting-timeframes)
+4. **Does a valid exemption apply?** See [Exemptions from reporting](./exemptions-from-reporting.md)
+5. **Determine timeframe** → See [Reporting timeframes](./reporting-timeframes.md)
 
 When in doubt: report.
 
@@ -60,11 +60,11 @@ The **manufacturer** (or **UKRP** for non-UK manufacturers) bears the primary re
 
 ## Related pages
 
-- [Reporting timeframes](./reporting-timeframes)
-- [How to report to MHRA](./how-to-report)
-- [Trend reporting](./trend-reporting)
-- [Exemptions from reporting](./exemptions-from-reporting)
-- [Field Safety Corrective Actions](../field-safety/when-fsca-required)
+- [Reporting timeframes](./reporting-timeframes.md)
+- [How to report to MHRA](./how-to-report.md)
+- [Trend reporting](./trend-reporting.md)
+- [Exemptions from reporting](./exemptions-from-reporting.md)
+- [Field Safety Corrective Actions](../field-safety/when-fsca-required.md)
 
 ---
 

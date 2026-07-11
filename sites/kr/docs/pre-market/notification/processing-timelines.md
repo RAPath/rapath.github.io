@@ -20,4 +20,4 @@ Even after notification, the holder must:
 - Comply with all post-market obligations
 
 ## Related pages
-- [UDI-K overview](../../udi-registration-licensing/udi-k/udi-k-overview) · [Post-market overview](../../post-market/overview)
+- [UDI-K overview](../../udi-registration-licensing/udi-k/udi-k-overview.md) · [Post-market overview](../../post-market/overview.md)

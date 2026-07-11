@@ -95,10 +95,10 @@ IFU may be provided:
 
 ## Related pages
 
-- [Advertising rules](./advertising-rules)
-- [Permitted & prohibited claims](./permitted-prohibited-claims)
-- [UKCA marking requirements](../../pre-market/conformity-assessment/ukca-marking)
-- [Who needs to comply?](../../start-here/who-needs-to-comply)
+- [Advertising rules](./advertising-rules.md)
+- [Permitted & prohibited claims](./permitted-prohibited-claims.md)
+- [UKCA marking requirements](../../pre-market/conformity-assessment/ukca-marking.md)
+- [Who needs to comply?](../../start-here/who-needs-to-comply.md)
 
 ---
 

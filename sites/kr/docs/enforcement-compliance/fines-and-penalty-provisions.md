@@ -31,7 +31,7 @@ More serious violations may result in **criminal prosecution** under the Medical
 Both the **individual employee** responsible for the violation and the **company** may face penalties — the company can be fined even if only an individual is prosecuted.
 
 ## Related pages
-- [Criminal liability for violations](./criminal-liability) · [Administrative actions](./administrative-actions)
+- [Criminal liability for violations](./criminal-liability.md) · [Administrative actions](./administrative-actions.md)
 
 Fine amounts for common violations: Failure to report adverse events within 15 days may incur fines up to ₩5 million. Failure to maintain required records or register in KIMS/UDI-K may result in fines up to ₩3 million. Failure to notify MFDS of product changes may incur fines up to ₩2 million. Refer to the Medical Devices Act Enforcement Decree Article 85 for the complete schedule of administrative fines.
 

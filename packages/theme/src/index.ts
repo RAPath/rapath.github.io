@@ -111,8 +111,8 @@ export function buildSiteConfig(params: SiteParams): Config {
       { tagName: 'link', attributes: { rel: 'dns-prefetch', href: 'https://www.google-analytics.com' } },
     ],
 
-    onBrokenLinks: 'warn',
-    markdown: { hooks: { onBrokenMarkdownLinks: 'warn' } },
+    onBrokenLinks: 'throw',
+    markdown: { hooks: { onBrokenMarkdownLinks: 'throw' } },
 
     themes: [
       [
@@ -173,8 +173,8 @@ export function buildSiteConfig(params: SiteParams): Config {
           },
           // Search removed — search is on the hub only (rapath.org)
           {
-            href: 'https://rapath.org/tools/',
-            label: '🔍 Regulatory Tools',
+            href: 'https://rapath.org/tools',
+            label: 'Regulatory Tools',
             position: 'right',
             target: '_self', 
           },

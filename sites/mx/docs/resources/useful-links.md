@@ -52,6 +52,6 @@ Link maintenance: COFEPRIS and Mexican government agencies periodically restruct
 
 ## Related pages
 
-- [Regulatory framework overview](../getting-started/regulatory-framework-overview)
-- [Recent amendments](../legislation/recent-amendments)
-- [DIGIPRiS portal](../getting-started/digiepris-portal)
+- [Regulatory framework overview](../getting-started/regulatory-framework-overview.md)
+- [Recent amendments](../legislation/recent-amendments.md)
+- [DIGIPRiS portal](../getting-started/digiepris-portal.md)

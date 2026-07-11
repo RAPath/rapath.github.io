@@ -31,7 +31,7 @@ MFDS requires ongoing monitoring of AI algorithm performance after approval, inc
 • Manufacturer must commit to algorithm updates or corrective actions if performance degrades below acceptable limits
 
 ## Related pages
-- [SaMD — MFDS policy](./samd-mfds-policy) · [MFDS digital health framework](../../digital-health-samd/mfds-digital-health-framework)
+- [SaMD — MFDS policy](./samd-mfds-policy.md) · [MFDS digital health framework](../../digital-health-samd/mfds-digital-health-framework.md)
 
 MFDS issued dedicated guidance documents:
 • Initial AI/ML Medical Device Guidance (2017)

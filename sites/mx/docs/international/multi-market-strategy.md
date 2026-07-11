@@ -57,7 +57,7 @@ If you do not have an FDA or CE Mark approval, the Standard Route is the pathway
 
 ## Related pages
 
-- [Equivalency Route](../premarket/equivalency-route)
+- [Equivalency Route](../premarket/equivalency-route.md)
 - [PANDRH & Latin America](pandrh-latam)
 - [Mexico vs FDA · CE · TGA · Health Canada](mexico-vs-fda-tga)
 - [MDSAP recognition](mdsap-recognition)

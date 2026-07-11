@@ -227,11 +227,11 @@ This mapping is approximate. Each device must be classified independently under 
 
 ## Related pages
 
-- [What is an IVD?](../../start-here/what-is-an-ivd)
-- [How classification works](./how-classification-works)
-- [Performance evaluation for IVDs](../clinical-evidence/performance-evaluation)
-- [Conformity assessment overview](../conformity-assessment/overview)
-- [Great Britain vs Northern Ireland](../../start-here/great-britain-vs-northern-ireland) — EU IVDR applies in NI
+- [What is an IVD?](../../start-here/what-is-an-ivd.md)
+- [How classification works](./how-classification-works.md)
+- [Performance evaluation for IVDs](../clinical-evidence/performance-evaluation.md)
+- [Conformity assessment overview](../conformity-assessment/overview.md)
+- [Great Britain vs Northern Ireland](../../start-here/great-britain-vs-northern-ireland.md) — EU IVDR applies in NI
 
 ---
 

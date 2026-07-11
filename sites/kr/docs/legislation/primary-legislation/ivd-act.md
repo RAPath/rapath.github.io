@@ -31,7 +31,7 @@ IVD products approved under the Medical Devices Act before May 2021 were require
 [law.go.kr](https://www.law.go.kr) — search: 체외진단의료기기법
 
 ## Related pages
-- [Medical Devices Act](./medical-devices-act) · [IVD classification](../../pre-market/classification/ivd-classification)
+- [Medical Devices Act](./medical-devices-act.md) · [IVD classification](../../pre-market/classification/ivd-classification.md)
 
 Companion Diagnostics
 

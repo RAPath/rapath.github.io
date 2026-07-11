@@ -128,7 +128,7 @@ EU medical device regulation is a **conformity assessment system**, not a pre-ma
 The CE mark signals regulatory compliance, not product quality or clinical superiority.
 
 :::caution
-CE marking under the old MDD/AIMDD/IVDD is **not** equivalent to CE marking under MDR/IVDR. Transitional provisions governed the wind-down of old certificates. See [Transitional provisions & timelines](./transitional-provisions).
+CE marking under the old MDD/AIMDD/IVDD is **not** equivalent to CE marking under MDR/IVDR. Transitional provisions governed the wind-down of old certificates. See [Transitional provisions & timelines](./transitional-provisions.md).
 :::
 
 ---
@@ -183,9 +183,9 @@ The MDR/IVDR do not have an equivalence approval pathway analogous to FDA's 510(
 
 ## Related pages
 
-- [Who needs to comply?](./who-needs-to-comply)
-- [Lifecycle of a medical device](./lifecycle-of-a-medical-device)
-- [Transitional provisions & timelines](./transitional-provisions)
+- [Who needs to comply?](./who-needs-to-comply.md)
+- [Lifecycle of a medical device](./lifecycle-of-a-medical-device.md)
+- [Transitional provisions & timelines](./transitional-provisions.md)
 - [Legislation — MDR key articles](/legislation/mdr-key-articles)
 - [Legislation — IVDR key articles](/legislation/ivdr-key-articles)
 - [Notified bodies](/notified-bodies/what-notified-bodies-do)

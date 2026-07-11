@@ -55,9 +55,9 @@ Unofficial English translations of prior NOM-241 versions may be available from 
 
 ## Related pages
 
-- [NOM-241 overview — GMP section](../quality-system/nom-241-overview)
-- [GMP requirements in detail](../quality-system/gmp-requirements)
-- [COFEPRIS inspections](../quality-system/inspections-cofepris)
+- [NOM-241 overview — GMP section](../quality-system/nom-241-overview.md)
+- [GMP requirements in detail](../quality-system/gmp-requirements.md)
+- [COFEPRIS inspections](../quality-system/inspections-cofepris.md)
 - [NOMs overview](noms-overview)
 
 ISO 13485 equivalency – Partial scope coverage:

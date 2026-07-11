@@ -95,8 +95,8 @@ Each legal entity receives one SRN — regardless of how many devices, product l
 
 ## Related pages
 
-- [EUDAMED overview](./overview)
-- [Device registration & UDI upload](./device-registration-udi)
+- [EUDAMED overview](./overview.md)
+- [Device registration & UDI upload](./device-registration-udi.md)
 - [Who needs to comply?](/start-here/who-needs-to-comply)
 - [Authorised representatives](/start-here/who-needs-to-comply/authorised-representatives)
 

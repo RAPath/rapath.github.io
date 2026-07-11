@@ -24,7 +24,7 @@ The sandbox has been particularly relevant for:
 Apply to MFDS or the Ministry of Science and ICT (depending on the product type) via the relevant regulatory sandbox portal.
 
 ## Related pages
-- [MFDS digital health framework](../digital-health-samd/mfds-digital-health-framework) · [Innovative medical device designation](./innovative-medical-device-designation)
+- [MFDS digital health framework](../digital-health-samd/mfds-digital-health-framework.md) · [Innovative medical device designation](./innovative-medical-device-designation.md)
 
 Eligibility and application requirements
 ​

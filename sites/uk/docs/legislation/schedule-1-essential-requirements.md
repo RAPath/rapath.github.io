@@ -24,15 +24,15 @@ Schedule 1 of the UK MDR 2002 contains the Essential Requirements for general me
 
 Schedule 1 is divided into two sections:
 
-**Section I — General requirements (ERs 1–6):** Apply to all devices regardless of type. Cover safety, risk-benefit balance, performance, durability, transport/storage, and acceptable side effects. See [General requirements — ER 1–6](../pre-market/essential-requirements/general-requirements).
+**Section I — General requirements (ERs 1–6):** Apply to all devices regardless of type. Cover safety, risk-benefit balance, performance, durability, transport/storage, and acceptable side effects. See [General requirements — ER 1–6](../pre-market/essential-requirements/general-requirements.md).
 
 **Section II — Requirements for specific device types (ERs 7–18):** Additional requirements for devices with particular characteristics. Cover biocompatibility (ER 7), sterilisation and infection control (ER 8), measuring function (ER 9), energy sources (ER 10–13), software (ER 14), AIMDs (ER 15), devices incorporating substances (ER 16–17), and labelling/IFU (ER 18).
 
-See [Essential Requirements overview](../pre-market/essential-requirements/overview) and [Design and construction requirements](../pre-market/essential-requirements/design-construction-requirements) for detailed guidance.
+See [Essential Requirements overview](../pre-market/essential-requirements/overview.md) and [Design and construction requirements](../pre-market/essential-requirements/design-construction-requirements.md) for detailed guidance.
 
 ## Schedule 1A — IVD Essential Requirements
 
-Schedule 1A (Part III) contains Essential Requirements specific to IVD medical devices, covering analytical and clinical performance, design, calibration traceability, and IFU requirements. See [IVD Essential Requirements](../pre-market/essential-requirements/ivd-essential-requirements).
+Schedule 1A (Part III) contains Essential Requirements specific to IVD medical devices, covering analytical and clinical performance, design, calibration traceability, and IFU requirements. See [IVD Essential Requirements](../pre-market/essential-requirements/ivd-essential-requirements.md).
 
 ## Official references
 

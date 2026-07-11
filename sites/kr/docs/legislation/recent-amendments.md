@@ -20,7 +20,7 @@ sidebar_position: 5
 
 - [MFDS website](https://www.mfds.go.kr) — notifications (고시) database
 - [law.go.kr](https://www.law.go.kr) — for Acts and Decrees
-- [What's New — Reforms tracker](../whats-new/reforms-tracker)
+- [What's New — Reforms tracker](https://rapath.org/whats-new)
 
 For the 2024 AI/ML guidance update entry, add: 'Includes mandatory algorithm change monitoring protocol (ACMP), explainability documentation for high-risk algorithms, and requirements for clinician notification of significant algorithm modifications.'
 

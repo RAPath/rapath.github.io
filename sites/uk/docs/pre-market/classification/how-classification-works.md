@@ -104,7 +104,7 @@ If more than one rule results in a different class, the **highest class prevails
 The classification rationale, including which rules were applied and why, must be documented in the technical file.
 
 :::tip
-Rule 9 to Rule 12 cover active devices — including software. Rule 12 specifically addresses active devices intended to diagnose or monitor vital physiological processes. Many AI/SaMD products fall here. See [Software & AI as a medical device](../special-device-types/software-ai) for the full software classification logic.
+Rule 9 to Rule 12 cover active devices — including software. Rule 12 specifically addresses active devices intended to diagnose or monitor vital physiological processes. Many AI/SaMD products fall here. See [Software & AI as a medical device](../special-device-types/software-ai.md) for the full software classification logic.
 :::
 
 ---
@@ -190,12 +190,12 @@ If a UKAB disagrees with a manufacturer's classification, the manufacturer must 
 
 ## Related pages
 
-- [Class I · IIa · IIb · III — overview of each class](./uk-mdr-classes)
-- [Classification rules — Schedule 2 in detail](./classification-rules)
-- [IVD classification — List A · List B · Self-test · General](./ivd-classification)
-- [Active & implantable devices](./active-implantable-devices)
-- [Software & SaMD classification](./software-samd-classification)
-- [Borderline & combination products](./borderline-combination-products)
+- [Class I · IIa · IIb · III — overview of each class](./uk-mdr-classes.md)
+- [Classification rules — Schedule 2 in detail](./classification-rules.md)
+- [IVD classification — List A · List B · Self-test · General](./ivd-classification.md)
+- [Active & implantable devices](./active-implantable-devices.md)
+- [Software & SaMD classification](./software-samd-classification.md)
+- [Borderline & combination products](./borderline-combination-products.md)
 
 ---
 

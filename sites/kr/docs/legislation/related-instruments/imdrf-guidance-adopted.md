@@ -21,5 +21,5 @@ Korea is an active [Note: Founding members were US FDA, Health Canada, Japan PMD
 MFDS actively participates in IMDRF working groups and has chaired or co-chaired selected working groups.
 
 ## Related pages
-- [Korea in the global regulatory landscape](../../international-comparison/korea-in-global-regulatory-landscape) · [IMDRF membership and alignment](../../international-comparison/imdrf-membership-and-alignment)
+- [Korea in the global regulatory landscape](../../international-comparison/korea-in-global-regulatory-landscape.md) · [IMDRF membership and alignment](../../international-comparison/imdrf-membership-and-alignment.md)
 

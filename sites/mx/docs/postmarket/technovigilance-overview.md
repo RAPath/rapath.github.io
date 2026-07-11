@@ -61,7 +61,7 @@ The **PROY-NOM-240-SSA1-2024** draft (open for comment until September 2024) int
 - An **Administrative Guide for Reporting Medical Device Incidents and Adverse Events** is planned to complement the updated NOM.
 
 :::info Monitor publication
-The draft NOM-240 update had not been formally published as of early 2025. Check the DOF regularly for the final version. Monitor the DOF and [What's New](../resources/useful-links) for the finalisation date.
+The draft NOM-240 update had not been formally published as of early 2025. Check the DOF regularly for the final version. Monitor the DOF and [What's New](../resources/useful-links.md) for the finalisation date.
 :::
 
 ## Related pages
@@ -69,8 +69,8 @@ The draft NOM-240 update had not been formally published as of early 2025. Check
 - [Adverse event reporting](adverse-event-reporting)
 - [FSCAs & recalls](fsca-recalls)
 - [Registration renewal](registration-renewal)
-- [MRH obligations](../mexico-registration-holder/mrh-obligations)
-- [NOM-240 technovigilance](../legislation/nom-240-technovigilance)
+- [MRH obligations](../mexico-registration-holder/mrh-obligations.md)
+- [NOM-240 technovigilance](../legislation/nom-240-technovigilance.md)
 
 ## Who must maintain a technovigilance unit?
 

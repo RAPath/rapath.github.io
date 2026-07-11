@@ -19,7 +19,7 @@ A medical device achieves its principal intended action **by means other than ph
 
 **Intended purpose matters most.** The manufacturer's stated intended purpose — as expressed in labelling, instructions for use, or promotional materials — is the primary factor in determining whether a product is a medical device.
 
-**Software can be a medical device.** Software that meets the intended-purpose criteria is regulated as a medical device (see [Software & SaMD](../digital-health/samd-overview)).
+**Software can be a medical device.** Software that meets the intended-purpose criteria is regulated as a medical device (see [Software & SaMD](../digital-health/samd-overview.md)).
 
 **Accessories are included.** An article specifically intended by its manufacturer to be used together with a device to enable or assist the device in being used in accordance with its intended purpose is considered a medical device accessory and is regulated accordingly.
 
@@ -36,4 +36,4 @@ If you are unsure whether your product qualifies as a medical device, you can su
 
 ## IVD devices
 
-In-vitro diagnostic (IVD) devices — reagents, calibrators, control materials, specimen receptacles, instruments, and software used to examine specimens derived from the human body — are also medical devices and are classified and regulated under Decree 98/2021. See [IVD Classification](../device-classification/ivd-classification) for details.
+In-vitro diagnostic (IVD) devices — reagents, calibrators, control materials, specimen receptacles, instruments, and software used to examine specimens derived from the human body — are also medical devices and are classified and regulated under Decree 98/2021. See [IVD Classification](../device-classification/ivd-classification.md) for details.

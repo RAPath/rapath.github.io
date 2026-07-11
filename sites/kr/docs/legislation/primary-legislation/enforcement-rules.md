@@ -25,4 +25,4 @@ The Enforcement Rules are the **most directly actionable** legislative instrumen
 [law.go.kr](https://www.law.go.kr) — search: 의료기기법 시행규칙
 
 ## Related pages
-- [Medical Devices Act](./medical-devices-act) · [MFDS Notifications](../mfds-notifications/device-classification-notification)
+- [Medical Devices Act](./medical-devices-act.md) · [MFDS Notifications](../mfds-notifications/device-classification-notification.md)

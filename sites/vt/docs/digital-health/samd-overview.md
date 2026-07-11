@@ -56,7 +56,7 @@ The technical dossier for SaMD registration should follow the CSDT structure wit
 
 A significant update to SaMD — particularly one that changes the intended purpose, alters the clinical algorithm, or introduces new safety-relevant features — may require a change notification or new registration. Apply your change control procedure and assess the regulatory impact before releasing any software update for a registered device.
 
-→ See [Change Notification](../post-market/change-notification)
+→ See [Change Notification](../post-market/change-notification.md)
 
 ## Vietnam's National Digital Health Strategy
 

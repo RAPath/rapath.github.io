@@ -38,7 +38,7 @@ MDEL holders involved in distribution must maintain **traceability records** suf
 - Identify all devices dispatched (customer, lot/batch, quantity, date)
 - Support a full FSCA or recall — locating and contacting all customers who received a specific lot within a reasonable timeframe
 
-Traceability records must be retained for a minimum of five years from the date of dispatch (or the device's shelf-life plus five years, whichever is longer) to allow for post-market surveillance and SFDA audit. Verify current SFDA-specific retention timelines in MDS-REQ 6 and FSCA procedures.
+Traceability records must be retained for a minimum of five years from the date of dispatch (or the device's shelf-life plus five years, whichever is longer). This period allows for post-market surveillance and SFDA audit. In the event of a recall or FSCA, distributors must be able to identify and contact all customers who received a specific lot within 24 to 48 hours of notification — verify current SFDA expectations in the FSCA guidelines (MDS-REQ 11).
 
 ## Recall readiness
 
@@ -71,9 +71,6 @@ The SFDA may inspect distributor and warehouse facilities as part of market surv
 ## Further reading
 
 - MDS-REQ 6 — MDEL requirements
-- [MDEL Overview](./mdel-overview)
-- [AR Obligations](./ar-obligations)
-- [FSCAs & Recalls](../post-market/fsca-recalls)
-
-Revise the 'Distribution traceability' section final paragraph to read: 'Traceability records must be retained for a minimum of five years from the date of dispatch (or the device's shelf-life plus five years, whichever is longer). This period allows for post-market surveillance and SFDA audit. In the event of a recall or FSCA, distributors must be able to identify and contact all customers who received a specific lot within 24 to 48 hours of notification — verify current SFDA expectations in the FSCA guidelines (MDS-REQ 11).'
-
+- [MDEL Overview](./mdel-overview.md)
+- [AR Obligations](./ar-obligations.md)
+- [FSCAs & Recalls](../post-market/fsca-recalls.md)

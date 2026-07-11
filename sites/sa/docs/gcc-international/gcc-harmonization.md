@@ -43,8 +43,8 @@ The GCC has a **group purchasing programme** that covers all member states, offe
 
 ## Further reading
 
-- [SFDA vs Other Regulators](./sfda-vs-regulators)
-- [Multi-Market Strategy](./multi-market-strategy)
+- [SFDA vs Other Regulators](./sfda-vs-regulators.md)
+- [Multi-Market Strategy](./multi-market-strategy.md)
 
 Status of Mutual Recognition in GCC
 

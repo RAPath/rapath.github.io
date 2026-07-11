@@ -26,4 +26,4 @@ MFDS inspection authority derives from:
 Refusing or obstructing a lawful MFDS inspection is a criminal offence under the Medical Devices Act.
 
 ## Related pages
-- [Administrative actions](./administrative-actions) · [GMP inspections — domestic](../gmp-quality-system/domestic-manufacturers/mfds-on-site-gmp-inspection)
+- [Administrative actions](./administrative-actions.md) · [GMP inspections — domestic](../gmp-quality-system/domestic-manufacturers/mfds-on-site-gmp-inspection.md)

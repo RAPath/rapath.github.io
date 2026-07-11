@@ -34,5 +34,5 @@ KIMS records must be kept current. Updates required when:
 KIMS is publicly searchable at [udiportal.mfds.go.kr](https://udiportal.mfds.go.kr).
 
 ## Related pages
-- [UDI-K overview](./udi-k-overview) · [What is KIMS?](../kims/what-is-kims)
+- [UDI-K overview](./udi-k-overview.md) · [What is KIMS?](../kims/what-is-kims.md)
 

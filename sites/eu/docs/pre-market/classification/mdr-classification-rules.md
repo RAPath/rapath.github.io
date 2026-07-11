@@ -56,7 +56,7 @@ Active devices depend on an energy source other than gravity or human body energ
 |---|---|---|
 | Rule 9 | I / IIa / IIb | Active therapeutic devices: Class I if intended to administer/exchange energy in a non-potentially dangerous way; IIa if intended to administer energy to or exchange energy with the patient in a potentially dangerous way (considering the nature, density, and site); IIb if intended to control, monitor, or directly influence performance of Class IIb active therapeutic devices |
 | Rule 10 | IIa | Active devices for diagnosis: intended to supply energy absorbed by the human body (except lighting); imaging devices using ionising radiation → IIb |
-| Rule 11 | I / IIa / IIb / III | Software: see [Software & SaMD classification](./software-samd-classification) for full treatment under Rule 11 |
+| Rule 11 | I / IIa / IIb / III | Software: see [Software & SaMD classification](./software-samd-classification.md) for full treatment under Rule 11 |
 | Rule 12 | I | Active devices intended to administer medicinal products, body liquids, or other substances to or from the body — where done in a potentially dangerous manner → IIb |
 | Rule 13 | IIb / III | All other active devices: IIb by default; Class III if intended to diagnose, monitor, or correct a deficiency in the heart/central circulatory system/CNS by delivering energy directly |
 
@@ -94,10 +94,10 @@ These rules apply to specific product categories regardless of other rules, and 
 
 ## Related pages
 
-- [How classification works](./how-classification-works)
-- [Class I · IIa · IIb · III](./mdr-classes)
-- [Software & SaMD classification](./software-samd-classification)
-- [Borderline & combination products](./borderline-combination-products)
+- [How classification works](./how-classification-works.md)
+- [Class I · IIa · IIb · III](./mdr-classes.md)
+- [Software & SaMD classification](./software-samd-classification.md)
+- [Borderline & combination products](./borderline-combination-products.md)
 - [Devices incorporating a medicinal substance](/pre-market/special-device-types/devices-incorporating-medicine)
 
 ---

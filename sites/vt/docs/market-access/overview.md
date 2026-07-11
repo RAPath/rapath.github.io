@@ -36,15 +36,15 @@ A marketing authorisation involves submission of a full technical and administra
 
 Regardless of pathway, the following must be in place before submission:
 
-1. **Device classification confirmed** (see [Device Classification](../device-classification/classification-overview))
-2. **Authorised Representative appointed** (for foreign manufacturers — see [Authorised Representative](../import-customs-distribution/authorised-representative))
-3. **DMEC account registered** (see [DMEC Portal](../import-customs-distribution/dmec-portal))
+1. **Device classification confirmed** (see [Device Classification](../device-classification/classification-overview.md))
+2. **Authorised Representative appointed** (for foreign manufacturers — see [Authorised Representative](../import-customs-distribution/authorised-representative.md))
+3. **DMEC account registered** (see [DMEC Portal](../import-customs-distribution/dmec-portal.md))
 4. **Technical dossier prepared** to the applicable standard
 
 ## What happens after market access is granted?
 
-Placing a device on the market triggers ongoing post-market obligations — see [Post-Market Overview](../post-market/overview).
+Placing a device on the market triggers ongoing post-market obligations — see [Post-Market Overview](../post-market/overview.md).
 
 ## Emergency pathways for undeclared or unregistered devices and special access
 
-Limited pathways exist for importing and using unregistered devices in specific circumstances. See [Special Access](../special-access/emergency-import).
+Limited pathways exist for importing and using unregistered devices in specific circumstances. See [Special Access](../special-access/emergency-import.md).

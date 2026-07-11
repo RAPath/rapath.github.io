@@ -26,7 +26,7 @@ MFDS reviews clinical trial applications within approximately **30 working days*
 Both **MFDS approval** and **IRB approval** are required before the trial begins. Submit to both simultaneously; do not begin until both are received.
 
 ## Related pages
-- [IRB and GCP requirements](./irb-and-gcp-requirements) · [Clinical trials in Korea](./clinical-trials-in-korea)
+- [IRB and GCP requirements](./irb-and-gcp-requirements.md) · [Clinical trials in Korea](./clinical-trials-in-korea.md)
 
 Protocol amendments and changes
 

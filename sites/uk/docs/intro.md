@@ -143,7 +143,7 @@ The site is structured around the regulatory lifecycle of a medical device under
 | [UK Approved Bodies](/approved-bodies/what-are-approved-bodies) | What UKABs are, how to find one, the audit and certification process, certificate types, and transitioning from EU Notified Body certificates |
 | [Northern Ireland](/northern-ireland/overview) | NI's dual-market position — EU MDR/IVDR in NI vs UK MDR 2002 in GB, Windsor Framework, UKCA vs CE vs UKNI, practical multi-market compliance |
 | [Guidance Documents](/guidance-documents/all-mhra-guidance) | MHRA guidance indexed by topic, the Submissions portal how-to, forms, fees, and timelines |
-| [What's New](/whats-new/recent-regulatory-changes) | Recent regulatory changes, open consultations, upcoming changes, UKCA/CE deadline tracker |
+| [What's New](https://rapath.org/whats-new) | Recent regulatory changes, open consultations, upcoming changes, UKCA/CE deadline tracker |
 | [Special Access](/special-access/exceptional-use-authorisations) | Exceptional Use Authorisations, Approved for Use, clinical investigation access, custom-made device exemption |
 
 ---

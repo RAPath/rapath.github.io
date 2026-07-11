@@ -40,6 +40,6 @@ MDS-REQ and MDS-G documents are published on the SFDA website (medical devices s
 
 ## Further reading
 
-- [Medical Devices Law](./medical-devices-law)
-- [Regulatory Framework Overview](../getting-started/regulatory-framework-overview)
-- [Useful Links](../resources/useful-links)
+- [Medical Devices Law](./medical-devices-law.md)
+- [Regulatory Framework Overview](../getting-started/regulatory-framework-overview.md)
+- [Useful Links](../resources/useful-links.md)

@@ -106,18 +106,18 @@ If the manufacturer and a notified body disagree on classification, the matter m
 
 ## Reclassification
 
-The European Commission has the power to reclassify individual devices or device categories where new evidence or safety concerns emerge. This is done via **implementing acts** under Art. 51(2) MDR and Art. 47(2) IVDR. See [Reclassification & SCENIHR opinions](./reclassification).
+The European Commission has the power to reclassify individual devices or device categories where new evidence or safety concerns emerge. This is done via **implementing acts** under Art. 51(2) MDR and Art. 47(2) IVDR. See [Reclassification & SCENIHR opinions](./reclassification.md).
 
 ---
 
 ## Related pages
 
-- [Class I · IIa · IIb · III — MDR classes](./mdr-classes)
-- [Classification rules 1–22](./mdr-classification-rules)
-- [Class A · B · C · D — IVDR classes](./ivd-classes)
-- [Classification rules 1–7](./ivd-classification-rules)
-- [Software & SaMD classification](./software-samd-classification)
-- [Borderline & combination products](./borderline-combination-products)
+- [Class I · IIa · IIb · III — MDR classes](./mdr-classes.md)
+- [Classification rules 1–22](./mdr-classification-rules.md)
+- [Class A · B · C · D — IVDR classes](./ivd-classes.md)
+- [Classification rules 1–7](./ivd-classification-rules.md)
+- [Software & SaMD classification](./software-samd-classification.md)
+- [Borderline & combination products](./borderline-combination-products.md)
 
 ---
 

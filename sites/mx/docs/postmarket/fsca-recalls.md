@@ -57,8 +57,8 @@ All FSCA activities must be documented and included in the Technovigilance Repor
 
 - [Adverse event reporting](adverse-event-reporting)
 - [Technovigilance overview](technovigilance-overview)
-- [NOM-240 technovigilance](../legislation/nom-240-technovigilance)
-- [Enforcement & compliance](../international/imdrf-membership)
+- [NOM-240 technovigilance](../legislation/nom-240-technovigilance.md)
+- [Enforcement & compliance](../international/imdrf-membership.md)
 
 ## COFEPRIS/CNFV notification
 

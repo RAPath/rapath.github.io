@@ -89,9 +89,9 @@ MDCG guidance documents are numbered (e.g. MDCG 2020-5) and available on the Com
 
 ## Related pages
 
-- [MDR key articles](./mdr-key-articles)
-- [IVDR key articles](./ivdr-key-articles)
-- [Recent amendments & corrigenda](./recent-amendments)
+- [MDR key articles](./mdr-key-articles.md)
+- [IVDR key articles](./ivdr-key-articles.md)
+- [Recent amendments & corrigenda](./recent-amendments.md)
 - [Guidance documents — MDCG index](/guidance-documents/mdcg-guidance)
 
 ---

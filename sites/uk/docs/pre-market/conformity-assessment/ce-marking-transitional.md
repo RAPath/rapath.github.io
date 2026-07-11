@@ -75,7 +75,7 @@ Devices on the GB market must meet UK MDR 2002 labelling requirements, including
 The 2030 deadline will require manufacturers currently relying solely on CE marking for GB to either:
 
 **Option A: Obtain UKCA marking via a UK Approved Body**
-- Identify the appropriate UKAB (see [UK Approved Bodies](../../approved-bodies/what-are-approved-bodies))
+- Identify the appropriate UKAB (see [UK Approved Bodies](../../approved-bodies/what-are-approved-bodies.md))
 - Submit application and technical documentation
 - Complete UKAB audit and design dossier review (for higher-risk devices)
 - Obtain UKAB certificate
@@ -83,7 +83,7 @@ The 2030 deadline will require manufacturers currently relying solely on CE mark
 - Affix UKCA mark
 
 **Option B: Maintain CE marking for GB under a mutual recognition or equivalence arrangement**
-If a UK-EU mutual recognition agreement on medical devices is reached before 2030, CE marking may continue to be accepted in GB beyond 2030 without UKCA marking. As of June 2024, no such agreement is in place. Monitor [What's New](../../whats-new/recent-regulatory-changes) for developments.
+If a UK-EU mutual recognition agreement on medical devices is reached before 2030, CE marking may continue to be accepted in GB beyond 2030 without UKCA marking. As of June 2024, no such agreement is in place. Monitor [What's New](https://rapath.org/whats-new) for developments.
 
 **Recommended approach:** Begin UKCA transition planning now. UKAB capacity is limited and demand will increase significantly as 2030 approaches. Early movers will have greater choice of UKAB and faster turnaround.
 
@@ -91,11 +91,11 @@ If a UK-EU mutual recognition agreement on medical devices is reached before 203
 
 ## Related pages
 
-- [UKCA marking requirements](./ukca-marking)
-- [UK Approved Bodies](../../approved-bodies/what-are-approved-bodies)
-- [Post-Brexit transition timeline](../../start-here/post-brexit-transition-timeline)
-- [Great Britain vs Northern Ireland](../../start-here/great-britain-vs-northern-ireland)
-- [MHRA registration](../mhra-registration/who-must-register)
+- [UKCA marking requirements](./ukca-marking.md)
+- [UK Approved Bodies](../../approved-bodies/what-are-approved-bodies.md)
+- [Post-Brexit transition timeline](../../start-here/post-brexit-transition-timeline.md)
+- [Great Britain vs Northern Ireland](../../start-here/great-britain-vs-northern-ireland.md)
+- [MHRA registration](../mhra-registration/who-must-register.md)
 
 ---
 

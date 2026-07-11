@@ -16,5 +16,5 @@ The **MFDS Adverse Event Reporting Notification (의료기기 이상사례 보�
 - MFDS right to request additional information
 
 ## Related pages
-- [Adverse event reporting — what must be reported](../../post-market/adverse-event-reporting/what-must-be-reported) · [How to report](../../post-market/adverse-event-reporting/how-to-report)
+- [Adverse event reporting — what must be reported](../../post-market/adverse-event-reporting/what-must-be-reported.md) · [How to report](../../post-market/adverse-event-reporting/how-to-report.md)
 

@@ -133,7 +133,7 @@ The site is structured around the regulatory lifecycle of a medical device in Ca
 | [Post-Market](/post-market/overview) | Mandatory problem reporting, recalls and FSCAs, post-market surveillance, Device Licence maintenance, labelling and advertising |
 | [Legislation](/legislation/food-and-drugs-act) | Food and Drugs Act, Medical Devices Regulations (SOR/98-282), Radiation Emitting Devices Act, related instruments, how to read Canadian legislation |
 | [Guidance](/guidance/by-topic) | Full index of Health Canada guidance documents by topic and device class, forms and application links |
-| [What's New](/whats-new/recent-regulatory-changes) | Recent regulatory changes, open consultations, upcoming changes, reforms tracker |
+| [What's New](https://rapath.org/whats-new) | Recent regulatory changes, open consultations, upcoming changes, reforms tracker |
 | [Special Access](/special-access/special-access-program) | SAP, Investigational Testing Authorization (ITA), clinical trial pathways, personal importation |
 | [Market Surveillance](/market-surveillance/overview) | Health Canada inspection program, compliance and enforcement tools, non-compliant device actions |
 | [International & MDSAP](/international/exporting-to-canada) | Exporting to Canada, MDSAP audit program, UDI framework, Canada vs FDA/TGA/EU comparison |

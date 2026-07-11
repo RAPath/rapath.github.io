@@ -111,7 +111,7 @@ This chain enables identification of all patients with a specific affected devic
 
 ## Related pages
 
-- [PMS requirements by class](./pms-requirements)
+- [PMS requirements by class](./pms-requirements.md)
 - [When an FSCA is required](/post-market/field-safety-corrective-actions/when-fsca-required)
 - [UDI overview](/pre-market/udi-system/udi-overview)
 - [EUDAMED UDI registration](/pre-market/udi-system/eudamed-udi-registration)

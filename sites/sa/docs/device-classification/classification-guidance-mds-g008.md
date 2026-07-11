@@ -61,6 +61,6 @@ MDS-G008 is published on the **SFDA website** under Medical Devices → Regulati
 
 - MDS-REQ 1 — Classification rules (primary source)
 - MDS-G008 — Classification guidance
-- [How Classification Works](./how-classification-works)
-- [Borderline & Combination Products](./borderline-products)
-- [SFDA Definition vs EU MDR](../getting-started/sfda-definition-vs-eu-mdr)
+- [How Classification Works](./how-classification-works.md)
+- [Borderline & Combination Products](./borderline-products.md)
+- [SFDA Definition vs EU MDR](../getting-started/sfda-definition-vs-eu-mdr.md)

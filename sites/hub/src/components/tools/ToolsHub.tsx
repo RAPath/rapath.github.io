@@ -1,8 +1,8 @@
 import React, { useState, useEffect, useRef } from "react";
-import { ChevronRight, X } from "lucide-react";
+import { X } from "lucide-react";
 
 import "./tools.css";
-import { BLUE, TOOLS, CATS, GROUP_LABELS, type Tool } from "./data/constants";
+import { BLUE, TOOLS, GROUP_LABELS, type Tool } from "./data/constants";
 import { Classifier }    from "./Classifier";
 import { ToolFlow }      from "./panels/ToolFlow";
 import { ToolCompare }   from "./panels/ToolCompare";
@@ -46,18 +46,14 @@ const PANELS: Record<string, React.ComponentType> = {
 };
 
 // ── ToolCard ──────────────────────────────────────────────────────────────
+// Matches the card style used for jurisdictions/tools on the homepage —
+// no icon badge, just a small caps label, bold name, and description.
 function ToolCard({ tool, active, onToggle }: { tool: Tool; active: boolean; onToggle: () => void }) {
   return (
     <button className={`th-card${active ? " on" : ""}`} onClick={onToggle}>
-      <div className="th-card-ico" style={{ background: tool.bg }}>
-        <tool.Icon size={21} color={tool.ic} />
-      </div>
-      <div className="th-card-tag" style={{ background: tool.tagBg, color: tool.tagColor }}>
-        {tool.tag}
-      </div>
+      <div className="th-card-tag-plain">{tool.tag}</div>
       <div className="th-card-nm">{tool.name}</div>
       <div className="th-card-desc">{tool.desc}</div>
-      <div className="th-card-arr"><ChevronRight size={15} color={BLUE} /></div>
     </button>
   );
 }
@@ -90,7 +86,6 @@ function ToolPanel({ tool, onClose }: { tool: Tool; onClose: () => void }) {
 
 // ── ToolsHub (main) ───────────────────────────────────────────────────────
 export default function ToolsHub(): JSX.Element {
-  const [cat,    setCat]    = useState("all");
   const [active, setActive] = useState<string | null>(null);
   const panelRef = useRef<HTMLDivElement>(null);
 
@@ -104,7 +99,6 @@ export default function ToolsHub(): JSX.Element {
       const match = TOOLS.find(t => t.id === hash);
       if (match) {
         setActive(match.id);
-        setCat(match.cat);
       }
     };
     openFromHash();
@@ -119,7 +113,6 @@ export default function ToolsHub(): JSX.Element {
     }
   }, [active]);
 
-  const visible    = cat === "all" ? TOOLS : TOOLS.filter(t => t.cat === cat);
   const activeTool = active ? TOOLS.find(t => t.id === active) : null;
 
   // Toggle panel open/closed and keep URL hash in sync
@@ -143,8 +136,7 @@ export default function ToolsHub(): JSX.Element {
       <div className="th-hero">
         <div className="th-hero-in">
           <div className="th-hero-tag">
-            <div style={{ width: 6, height: 6, borderRadius: "50%", background: "rgba(255,255,255,.9)" }} />
-            19 FREE TOOLS · 24 JURISDICTIONS · NO AI REQUIRED
+            19 free tools · 24 jurisdictions · no AI required
           </div>
           <h1>Regulatory Intelligence<br />for Medical Devices</h1>
           <p>Every tool a regulatory professional, manufacturer, importer, or consultant needs — device classification, process flows, comparison tables, checklists, gap analysis, and more.</p>
@@ -157,31 +149,14 @@ export default function ToolsHub(): JSX.Element {
       </div>
 
       <div className="th-body">
-        <div className="th-cats">
-          {CATS.map(c => (
-            <button key={c.id} className={`th-cat${cat === c.id ? " on" : ""}`}
-              onClick={() => { setCat(c.id); setActive(null); }}>
-              <div style={{ width: 6, height: 6, borderRadius: "50%", background: "currentColor", opacity: .7 }} />
-              {c.label}
-              <span style={{ fontSize: 11, opacity: .7 }}>({c.count})</span>
-            </button>
-          ))}
-        </div>
-
-        {cat === "all" ? (
-          grouped.map(({ catId, label, tools }) => tools.length === 0 ? null : (
-            <div key={catId}>
-              <p className="th-sec-hd">{label}</p>
-              <div className="th-grid">
-                {tools.map(t => <ToolCard key={t.id} tool={t} active={active === t.id} onToggle={() => toggle(t.id)} />)}
-              </div>
+        {grouped.map(({ catId, label, tools }) => tools.length === 0 ? null : (
+          <div key={catId}>
+            <p className="th-sec-hd">{label}</p>
+            <div className="th-grid">
+              {tools.map(t => <ToolCard key={t.id} tool={t} active={active === t.id} onToggle={() => toggle(t.id)} />)}
             </div>
-          ))
-        ) : (
-          <div className="th-grid">
-            {visible.map(t => <ToolCard key={t.id} tool={t} active={active === t.id} onToggle={() => toggle(t.id)} />)}
           </div>
-        )}
+        ))}
 
         {activeTool && (
           <div ref={panelRef}>

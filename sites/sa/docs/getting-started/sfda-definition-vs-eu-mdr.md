@@ -26,7 +26,7 @@ The SFDA's definition of a medical device was deliberately modelled on the **EU 
 ### 1. Annex XVI devices
 While both EU MDR and the SFDA regulate certain devices without a strict medical intended purpose, the SFDA's approach is implemented through **MDS-G008** rather than a legislated fixed list. This means the scope of regulated aesthetic/non-medical devices in Saudi Arabia may differ slightly from EU MDR Annex XVI. Always verify in MDS-G008 rather than assuming EU Annex XVI status translates directly.
 
-→ See [Annex XVI Aesthetic Devices — SFDA Treatment](./annex-xvi-aesthetic-devices)
+→ See [Annex XVI Aesthetic Devices — SFDA Treatment](./annex-xvi-aesthetic-devices.md)
 
 ### 2. IVDs under one law
 In the EU, medical devices and IVDs are governed by two separate regulations (MDR and IVDR). In Saudi Arabia, both general medical devices and IVDs are governed by the **same Medical Devices Law** and its Implementing Regulation, with IVD-specific requirements addressed within MDS-REQ 1. This simplifies the regulatory landscape for IVD manufacturers.
@@ -49,7 +49,7 @@ For most standard medical devices and IVDs, if your product qualifies as a medic
 
 ## Further reading
 
-- [What is a Medical Device?](./what-is-a-medical-device)
-- [Annex XVI Aesthetic Devices](./annex-xvi-aesthetic-devices)
-- [How Classification Works](../device-classification/how-classification-works)
+- [What is a Medical Device?](./what-is-a-medical-device.md)
+- [Annex XVI Aesthetic Devices](./annex-xvi-aesthetic-devices.md)
+- [How Classification Works](../device-classification/how-classification-works.md)
 - MDS-G008 — SFDA classification guidance

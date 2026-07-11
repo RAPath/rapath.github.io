@@ -138,7 +138,7 @@ The site is structured around the regulatory lifecycle of a medical device under
 | [Post-Market](/post-market/post-market-overview) | Post-market surveillance, PSUR, PMCF/PMPF, vigilance reporting, FSCAs and recalls, EUDAMED registration, and labelling and advertising |
 | [Legislation](/legislation/mdr-key-articles) | MDR and IVDR key articles, all annexes, implementing and delegated acts, Common Specifications, harmonised standards, and how to read EU legislation |
 | [Guidance](/guidance-documents/mdcg-guidance) | Full index of MDCG guidance by topic and device class, MEDDEV reference, EC Blue Guide, and forms and application links |
-| [What's New](/whats-new/recent-regulatory-changes) | Recent regulatory changes, open consultations, transitional timeline tracker, EUDAMED rollout status, notified body capacity |
+| [What's New](https://rapath.org/whats-new) | Recent regulatory changes, open consultations, transitional timeline tracker, EUDAMED rollout status, notified body capacity |
 | [Notified Bodies](/notified-bodies/what-notified-bodies-do) | What notified bodies do, how to choose one, NANDO database, audit process and timelines, unannounced audits, Art. 54 scrutiny procedure |
 | [Compassionate Use](/compassionate-use/compassionate-use-overview) | MDR Art. 59 compassionate use, named-patient access, hospital exemption, clinical investigation pathways |
 | [Market Surveillance](/market-surveillance/market-surveillance-overview) | NCA roles by member state, surveillance activities, safeguard procedures (Art. 95–97), enforcement powers |

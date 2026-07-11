@@ -21,7 +21,7 @@ MFDS may require a **PMCF study** as a condition of a Grade III or IV 품목허�
 PMCF data forms part of the ongoing PMS and feeds into the **re-examination** dossier.
 
 ## Related pages
-- [PMS plan and report](./pms-plan-and-report) · [Re-examination system](./re-examination-system)
+- [PMS plan and report](./pms-plan-and-report.md) · [Re-examination system](./re-examination-system.md)
 
 ## Results reported to MFDS within the agreed timeframe
 

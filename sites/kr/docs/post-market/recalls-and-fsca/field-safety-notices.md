@@ -24,7 +24,7 @@ FSNs distributed in Korea must be in Korean.
 A copy of the FSN must be submitted to MFDS at the time of distribution.
 
 ## Related pages
-- [When a recall or FSCA is required](./when-recall-or-fsca-required) · [Voluntary vs MFDS-ordered recalls](./voluntary-vs-mfds-ordered-recalls)
+- [When a recall or FSCA is required](./when-recall-or-fsca-required.md) · [Voluntary vs MFDS-ordered recalls](./voluntary-vs-mfds-ordered-recalls.md)
 
 ## MFDS notification
 

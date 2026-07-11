@@ -79,7 +79,7 @@ ASEAN guidance is available from the [ASEAN Secretariat](https://asean.org) and 
 
 ## Standards
 
-See [Recognised Standards](../conformity-assessment/recognised-standards) for the full standards list.
+See [Recognised Standards](../conformity-assessment/recognised-standards.md) for the full standards list.
 
 All MDA Administrative Guidance Notes and Technical Guidance Notes are available for download from www.mda.gov.my/guidance or through the MyMDA portal after registration. A consolidated guidance documents library is maintained on the MDA website.
 

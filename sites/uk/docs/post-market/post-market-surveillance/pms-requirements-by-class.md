@@ -87,10 +87,10 @@ The PMS report feeds directly into the PSUR for classes requiring PSURs.
 
 ## Related pages
 
-- [Periodic Safety Update Reports (PSURs)](./psur)
-- [Post-market clinical follow-up (PMCF)](./pmcf)
-- [Distribution records](./distribution-records)
-- [What must be reported to MHRA](../vigilance/what-must-be-reported)
+- [Periodic Safety Update Reports (PSURs)](./psur.md)
+- [Post-market clinical follow-up (PMCF)](./pmcf.md)
+- [Distribution records](./distribution-records.md)
+- [What must be reported to MHRA](../vigilance/what-must-be-reported.md)
 
 ---
 

@@ -125,9 +125,9 @@ Software classified as Class IIa, IIb, or III must follow a documented software 
 
 ## Related pages
 
-- [How classification works](./how-classification-works)
-- [Classification rules 1–22](./mdr-classification-rules)
-- [Borderline & combination products](./borderline-combination-products)
+- [How classification works](./how-classification-works.md)
+- [Classification rules 1–22](./mdr-classification-rules.md)
+- [Borderline & combination products](./borderline-combination-products.md)
 - [Special device types — Software as a Medical Device](/pre-market/special-device-types/software-samd)
 - [Technical documentation — design and manufacturing information](/pre-market/technical-documentation/design-manufacturing-information)
 

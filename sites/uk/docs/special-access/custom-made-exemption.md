@@ -13,7 +13,7 @@ tags: [uk-mdr, special-access, custom-made]
 
 Custom-made devices are exempt from the standard Schedule 3 conformity assessment procedures (Annexes I–VII for general devices) — they do not need UKAB involvement and do not bear the UKCA mark.
 
-Instead, the manufacturer prepares a **statement** (Annex VIII equivalent) confirming conformity with the applicable Essential Requirements and the prescription details. See [Custom-made devices](../pre-market/special-device-types/custom-made-devices) for full details.
+Instead, the manufacturer prepares a **statement** (Annex VIII equivalent) confirming conformity with the applicable Essential Requirements and the prescription details. See [Custom-made devices](../pre-market/special-device-types/custom-made-devices.md) for full details.
 
 ---
 
@@ -42,8 +42,8 @@ The exemption is from the **conformity assessment procedure** — not from the E
 
 ## Related pages
 
-- [Custom-made devices](../pre-market/special-device-types/custom-made-devices)
-- [Who needs to comply?](../start-here/who-needs-to-comply)
+- [Custom-made devices](../pre-market/special-device-types/custom-made-devices.md)
+- [Who needs to comply?](../start-here/who-needs-to-comply.md)
 
 ---
 

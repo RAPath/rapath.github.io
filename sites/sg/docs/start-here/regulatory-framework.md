@@ -36,7 +36,7 @@ HSA's medical device functions are accessible at [hsa.gov.sg/medical-devices](ht
 
 All regulatory transactions with HSA for medical devices — product registration, product notifications (Class A), dealer's licence applications, adverse event reports, and change notifications — are conducted through the **SHARE** (Submission of Health products And Registration via E-portal) online portal.
 
-SHARE replaced the legacy PRISM portal in [INSERT DATE]. References to PRISM in HSA guidance documents published before this date, or in older company SOPs, should be understood as referring to SHARE. All new submissions must use SHARE.
+SHARE replaced the legacy PRISM portal on 14 July 2025. References to PRISM in HSA guidance documents published before this date, or in older company SOPs, should be understood as referring to SHARE. All new submissions must use SHARE.
 
 ---
 

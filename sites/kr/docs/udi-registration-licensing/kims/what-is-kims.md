@@ -22,4 +22,4 @@ sidebar_position: 1
 - **Public** — searchable at [udiportal.mfds.go.kr](https://udiportal.mfds.go.kr)
 
 ## Related pages
-- [Product database — submitting and updating](./product-database-submitting-and-updating) · [UDI-K overview](../udi-k/udi-k-overview)
+- [Product database — submitting and updating](./product-database-submitting-and-updating.md) · [UDI-K overview](../udi-k/udi-k-overview.md)

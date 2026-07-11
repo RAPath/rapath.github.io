@@ -46,9 +46,9 @@ IVDs approved by IMDRF-recognised authorities (FDA, CE-IVDR under EU In Vitro Di
 ## Related pages
 
 - [How classification works](how-classification-works)
-- [Standard Registration Route](../premarket/standard-route)
-- [Equivalency Route](../premarket/equivalency-route)
-- [Technical dossier requirements](../premarket/technical-dossier)
+- [Standard Registration Route](../premarket/standard-route.md)
+- [Equivalency Route](../premarket/equivalency-route.md)
+- [Technical dossier requirements](../premarket/technical-dossier.md)
 
 IVDs listed in Annex 2 or 3 of the July 2025 COFEPRIS decree are exempt from sanitary registration. Check the DOF decree to confirm your IVD's Annex status before proceeding with full registration.
 

@@ -77,7 +77,7 @@ Not every change to a registered device requires a new NIE:
 - **Minor changes** (address update, label layout, minor supplier change) → Change Notification (*Perubahan*) via Regalkes — faster and cheaper
 - **Major changes** (new intended use, new brand name, change of NIE holder) → Full re-registration required
 
-See [Change Notifications](../post-market-surveillance/change-notifications) for the decision framework.
+See [Change Notifications](../post-market-surveillance/change-notifications.md) for the decision framework.
 
 Use of Foreign Clinical Data
 

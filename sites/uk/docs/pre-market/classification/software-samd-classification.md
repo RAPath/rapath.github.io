@@ -94,7 +94,7 @@ MHRA launched a multi-year programme to develop UK-specific guidance on AI/ML in
 4. **Lifecycle management** — version control, post-market performance monitoring
 5. **Predetermined change control** — managing post-market algorithm updates
 
-This programme has produced [roadmap documents](https://www.gov.uk/government/publications/software-and-ai-as-a-medical-device-change-programme-roadmap) outlining planned guidance publications. Check [What's New](../../whats-new/recent-regulatory-changes) for latest releases.
+This programme has produced [roadmap documents](https://www.gov.uk/government/publications/software-and-ai-as-a-medical-device-change-programme-roadmap) outlining planned guidance publications. Check [What's New](https://rapath.org/whats-new) for latest releases.
 
 ---
 
@@ -174,11 +174,11 @@ Both frameworks reach similar practical outcomes for most software, but the EU M
 
 ## Related pages
 
-- [What is a medical device?](../../start-here/what-is-a-medical-device) — including SaMD in the definition
-- [How classification works](./how-classification-works) — applying Schedule 2 rules
-- [Class I · IIa · IIb · III](./uk-mdr-classes) — class-by-class requirements
-- [IVD classification](./ivd-classification) — for software processing in vitro data
-- [What is not a medical device?](../../start-here/what-is-not-a-medical-device) — wellness apps that don't qualify
+- [What is a medical device?](../../start-here/what-is-a-medical-device.md) — including SaMD in the definition
+- [How classification works](./how-classification-works.md) — applying Schedule 2 rules
+- [Class I · IIa · IIb · III](./uk-mdr-classes.md) — class-by-class requirements
+- [IVD classification](./ivd-classification.md) — for software processing in vitro data
+- [What is not a medical device?](../../start-here/what-is-not-a-medical-device.md) — wellness apps that don't qualify
 
 ---
 

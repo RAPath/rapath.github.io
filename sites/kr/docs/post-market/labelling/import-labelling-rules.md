@@ -19,7 +19,7 @@ Permitted to apply a **Korean-language sticker (부착 라벨)** alongside origi
 - Applied before the device enters the Korean supply chain
 
 ## Related pages
-- [Labelling requirements](./labelling-requirements) · [IFU and package insert](./ifu-and-package-insert)
+- [Labelling requirements](./labelling-requirements.md) · [IFU and package insert](./ifu-and-package-insert.md)
 
 "Safety-critical information includes warnings, contraindications, shelf life, storage conditions, sterilization method (if applicable), single-use indicators, and UDI-K barcode. Stickers must not overlap or obscure these elements."
 

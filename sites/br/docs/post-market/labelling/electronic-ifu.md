@@ -13,7 +13,7 @@ Currently, ANVISA has not issued a formal regulation equivalent to the EU's Comm
 
 **Current practice:** Paper IFU in Portuguese is required for all devices. Where a manufacturer wishes to supplement with an eIFU (e.g., via QR code), this may be done provided the paper IFU remains available and complete. ANVISA should be consulted if a manufacturer wishes to provide eIFU only.
 
-Monitor [What's New](/docs/whats-new/regulatory-changes) for ANVISA updates on this topic.
+Monitor [What's New](https://rapath.org/whats-new) for ANVISA updates on this topic.
 
 ---
 

@@ -37,7 +37,7 @@ AIMDs are classified under Part II — there is only one risk tier for AIMDs, an
 
 ## Classification rules for IVDs
 
-IVDs are classified under Part III, Annex II (List A, List B) and the self-test designation — not Schedule 2. See [IVD classification](../pre-market/classification/ivd-classification).
+IVDs are classified under Part III, Annex II (List A, List B) and the self-test designation — not Schedule 2. See [IVD classification](../pre-market/classification/ivd-classification.md).
 
 ## Official references
 

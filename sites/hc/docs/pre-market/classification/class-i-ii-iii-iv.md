@@ -69,8 +69,3 @@ The class of a device may be **elevated** if the device:
 These factors are addressed in specific classification rules in Schedule 2.
 
 > **Legislative source:** Medical Devices Regulations, SOR/98-282, Schedule 2; s 2 (definitions)
-
-Importers and distributors must hold an Establishment Licence (MDEL)
-
-Revise to: 'Target review time: 15 days (completeness check; substantive review follows if application is complete)'
-

@@ -115,7 +115,7 @@ If a device has different intended purposes in different markets (e.g. CE marked
 
 ## Related pages
 
-- [Labelling requirements](./labelling-requirements)
+- [Labelling requirements](./labelling-requirements.md)
 - [What is a medical device?](/start-here/what-is-a-medical-device) — intended purpose link
 - [GSPR Chapter III — IFU & labelling](/pre-market/gspr/chapter-iii-ifu-labelling)
 - [Clinical evaluation overview](/pre-market/clinical-evidence/clinical-evaluation-overview)

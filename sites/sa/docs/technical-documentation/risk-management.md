@@ -37,6 +37,6 @@ The 2019 version of ISO 14971 is the current standard. Ensure your risk manageme
 ## Further reading
 
 - ISO 14971:2019 — Medical devices — Application of risk management
-- [Technical File Overview](./technical-file-overview)
-- [Essential Principles](./essential-principles)
-- [Post-Market Surveillance](../post-market/pms-psur)
+- [Technical File Overview](./technical-file-overview.md)
+- [Essential Principles](./essential-principles.md)
+- [Post-Market Surveillance](../post-market/pms-psur.md)

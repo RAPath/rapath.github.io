@@ -37,7 +37,7 @@ Typically 3 to 5 years from first approval. The manufacturer/importer must submi
 | Initiation | Manufacturer applies proactively | MFDS initiates |
 
 ## Related pages
-- [Re-evaluation system](./re-evaluation-system) · [PMS plan and report](./pms-plan-and-report)
+- [Re-evaluation system](./re-evaluation-system.md) · [PMS plan and report](./pms-plan-and-report.md)
 
 "Failure to submit: If the re-examination dossier is not submitted by the deadline, MFDS may suspend or revoke the 품목허가 without further notice."
 

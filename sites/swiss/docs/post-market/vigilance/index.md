@@ -5,9 +5,9 @@ description: Vigilance reporting for Swiss medical devices — when and how to r
 # Vigilance Reporting
 | Page | Covers |
 |---|---|
-| [What Must Be Reported](./what-must-be-reported) | Serious incidents, near-serious incidents, trend reporting thresholds |
-| [How to Report](./how-to-report) | Swissmedic eVigilance portal, reporting timeframes (2/10/30 days), CH REP duties |
-| [Trend Reporting](./trend-reporting) | Statistical threshold reporting, serious public health threats |
+| [What Must Be Reported](./what-must-be-reported.md) | Serious incidents, near-serious incidents, trend reporting thresholds |
+| [How to Report](./how-to-report.md) | Swissmedic eVigilance portal, reporting timeframes (2/10/30 days), CH REP duties |
+| [Trend Reporting](./trend-reporting.md) | Statistical threshold reporting, serious public health threats |
 
 :::warning Disclaimer
 AI-assisted content for navigation only. Always verify against official [Swissmedic](https://www.swissmedic.ch) and [Fedlex](https://www.fedlex.admin.ch) sources. Not legal or regulatory advice.

@@ -12,25 +12,25 @@ Understanding the end-to-end regulatory journey helps you plan timelines and res
 
 Determine your device's risk class (Type A, B, C, or D) using the rules in Decree 98/2021 and Circular 14/2020. This determines which market access track applies.
 
-→ See [Classification Overview](../device-classification/classification-overview)
+→ See [Classification Overview](../device-classification/classification-overview.md)
 
 ## Stage 2 — Appoint an Authorised Representative (foreign manufacturers)
 
 Foreign manufacturers must appoint a Vietnamese Authorised Representative before submitting any regulatory application. The representative will act on your behalf for all DAV interactions.
 
-→ See [Authorised Representative](../import-customs-distribution/authorised-representative)
+→ See [Authorised Representative](../import-customs-distribution/authorised-representative.md)
 
 ## Stage 3 — Prepare your dossier
 
 Compile the technical and administrative dossier required for your device type. For Type A/B this is a declaration dossier; for Type C/D it is a full registration dossier aligned with the ASEAN Common Submission Dossier Template (CSDT).
 
-→ See [Declaration (Type A/B)](../market-access/declaration-type-a-b) or [Marketing Authorisation (Type C/D)](../market-access/marketing-authorisation-type-c-d)
+→ See [Declaration (Type A/B)](../market-access/declaration-type-a-b.md) or [Marketing Authorisation (Type C/D)](../market-access/marketing-authorisation-type-c-d.md)
 
 ## Stage 4 — Submit via DMEC portal
 
 All applications are submitted electronically through the **National Medical Device Information System (DMEC)** at [dmec.gov.vn](https://dmec.gov.vn).
 
-→ See [DMEC Portal](../import-customs-distribution/dmec-portal)
+→ See [DMEC Portal](../import-customs-distribution/dmec-portal.md)
 
 ## Stage 5 — DAV review (Type C/D)
 
@@ -40,13 +40,13 @@ For Type C and D devices, DAV conducts a technical review of the dossier. Review
 
 Certain device categories require an import permit (Giấy phép nhập khẩu) from DAV before the first consignment can be cleared through Vietnamese customs.
 
-→ See [Import Licensing](../import-customs-distribution/import-licensing)
+→ See [Import Licensing](../import-customs-distribution/import-licensing.md)
 
 ## Stage 7 — Label the device for the Vietnamese market
 
 All medical devices sold in Vietnam must carry Vietnamese-language labelling. Imported devices typically use a **supplementary label (nhãn phụ)** affixed over or alongside the original foreign-language label.
 
-→ See [Labelling](../post-market/labelling)
+→ See [Labelling](../post-market/labelling.md)
 
 ## Stage 8 — Import and distribute
 

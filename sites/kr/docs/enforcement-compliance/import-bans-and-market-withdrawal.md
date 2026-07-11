@@ -24,7 +24,7 @@ MFDS may order the **withdrawal from the Korean market** of all units of a speci
 MFDS publishes import ban decisions on its official website and notifies industry through medical device bulletin notifications. Importers and distributors are legally required to check the MFDS notification list and maintain awareness of current bans before importing any device. Failure to comply with an active import ban may result in product seizure and regulatory penalties.
 
 ## Related pages
-- [Administrative actions](./administrative-actions) · [Recalls and FSCA — MFDS-initiated](../post-market/recalls-and-fsca/mfds-initiated-corrective-actions)
+- [Administrative actions](./administrative-actions.md) · [Recalls and FSCA — MFDS-initiated](../post-market/recalls-and-fsca/mfds-initiated-corrective-actions.md)
 
 Appeal and review
 

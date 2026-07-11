@@ -23,7 +23,7 @@ MFDS has introduced a **fast-track review program** for certain medical devices 
 Apply for fast-track status alongside the 품목허가 application via the MFDS eSubmission portal. Justify eligibility based on innovation status, public health need, or rare disease indication.
 
 ## Related pages
-- [Innovative medical device designation](./innovative-medical-device-designation) · [Conditional marketing authorization](./conditional-marketing-authorization)
+- [Innovative medical device designation](./innovative-medical-device-designation.md) · [Conditional marketing authorization](./conditional-marketing-authorization.md)
 
 Timing of fast-track application
 ​

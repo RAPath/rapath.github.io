@@ -138,10 +138,10 @@ A failure at any level cascades. A manufacturer who does not follow the state of
 
 ## Related pages
 
-- [GSPR overview — Annex I](./gspr-overview)
-- [Chapter II — Design & construction](./chapter-ii-design-construction)
-- [Chapter III — IFU & labelling](./chapter-iii-ifu-labelling)
-- [GSPR checklist](./gspr-checklist)
+- [GSPR overview — Annex I](./gspr-overview.md)
+- [Chapter II — Design & construction](./chapter-ii-design-construction.md)
+- [Chapter III — IFU & labelling](./chapter-iii-ifu-labelling.md)
+- [GSPR checklist](./gspr-checklist.md)
 - [Risk management](/pre-market/technical-documentation/risk-management)
 
 ---

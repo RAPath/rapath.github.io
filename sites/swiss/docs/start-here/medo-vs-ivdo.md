@@ -25,7 +25,7 @@ Applies to reagents, kits, instruments, software, and systems intended for in vi
 5. None of the above → probably not a medical device
 
 ## Combination and Borderline Cases
-Some products have characteristics of both. See [Borderline & Combination Products](../pre-market/classification/borderline-products). In ambiguous cases, Swissmedic can provide a borderline opinion.
+Some products have characteristics of both. See [Borderline & Combination Products](../pre-market/classification/borderline-products.md). In ambiguous cases, Swissmedic can provide a borderline opinion.
 
 ## Official Sources
 - [MedDO (SR 812.213) — Fedlex](https://www.fedlex.admin.ch/eli/cc/2021/205/en)

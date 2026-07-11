@@ -22,7 +22,7 @@ When the PMOA is unclear, submit a **combination product determination inquiry**
 Must address both device and drug aspects: device performance/safety data + drug pharmacological data (compatibility, stability, leachables), and a combined safety evaluation.
 
 ## Related pages
-- [How classification works](./how-classification-works) · [Special device types — combination products](../special-device-types/combination-products-drug-device)
+- [How classification works](./how-classification-works.md) · [Special device types — combination products](../special-device-types/combination-products-drug-device.md)
 
 ## combination product determination inquiry
 

@@ -173,8 +173,8 @@ This creates the lifecycle loop that is central to MDR/IVDR's approach — the t
 ## Related pages
 
 - [PMS plan and PMS report — Annex III](/pre-market/technical-documentation/post-market-data-in-tech-doc)
-- [Annual reports / PSUR](./annual-reports-psur)
-- [Distribution records](./distribution-records)
+- [Annual reports / PSUR](./annual-reports-psur.md)
+- [Distribution records](./distribution-records.md)
 - [PMCF plan and evaluation report](./pmcf)
 - [Post-market overview](/post-market/post-market-overview)
 

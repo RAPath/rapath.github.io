@@ -23,4 +23,4 @@ Under the **양벌규정 (dual liability)** provision:
 - Companies cannot shield themselves from criminal liability by pointing to an individual employee's conduct
 
 ## Related pages
-- [Fines and penalty provisions](./fines-and-penalty-provisions) · [Administrative actions](./administrative-actions)
+- [Fines and penalty provisions](./fines-and-penalty-provisions.md) · [Administrative actions](./administrative-actions.md)

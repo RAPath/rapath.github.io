@@ -89,8 +89,8 @@ Key forms and application portals for EU medical device regulation:
 
 ## Related pages
 
-- [MDCG guidance by topic](./mdcg-guidance)
-- [Guidance by device class](./guidance-by-device-class)
+- [MDCG guidance by topic](./mdcg-guidance.md)
+- [Guidance by device class](./guidance-by-device-class.md)
 - [Notified bodies — NANDO database](/notified-bodies/nando-database)
 - [How to read EU legislation](/legislation/how-to-read-eu-legislation)
 

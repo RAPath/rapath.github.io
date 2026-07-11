@@ -88,7 +88,7 @@ Active devices that incorporate software (e.g. an infusion pump's dosing algorit
 
 - [Classification rules 1–22](/pre-market/classification/mdr-classification-rules)
 - [Software & SaMD classification](/pre-market/classification/software-samd-classification)
-- [Software as a Medical Device — special device types](./software-samd)
+- [Software as a Medical Device — special device types](./software-samd.md)
 - [GSPR Chapter II — Design & construction](/pre-market/gspr/chapter-ii-design-construction)
 
 ---

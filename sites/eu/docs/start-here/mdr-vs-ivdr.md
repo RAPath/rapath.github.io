@@ -130,9 +130,9 @@ National competent authorities can provide formal opinions. These are not bindin
 
 ## Related pages
 
-- [What is a medical device?](./what-is-a-medical-device)
-- [What is an IVD?](./what-is-an-ivd)
-- [What is not a medical device?](./what-is-not-a-medical-device)
+- [What is a medical device?](./what-is-a-medical-device.md)
+- [What is an IVD?](./what-is-an-ivd.md)
+- [What is not a medical device?](./what-is-not-a-medical-device.md)
 - [Classification — MDR rules 1–22](/pre-market/classification/mdr-classification-rules)
 - [Classification — IVDR rules 1–7](/pre-market/classification/ivd-classes)
 

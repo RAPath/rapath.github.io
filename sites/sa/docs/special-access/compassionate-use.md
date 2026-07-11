@@ -26,5 +26,5 @@ Compassionate use supply does not require full MDMA but is subject to SFDA overs
 
 ## Further reading
 
-- [MDMA Overview](../mdma-registration/mdma-overview)
-- [Clinical Investigations](./clinical-investigations)
+- [MDMA Overview](../mdma-registration/mdma-overview.md)
+- [Clinical Investigations](./clinical-investigations.md)

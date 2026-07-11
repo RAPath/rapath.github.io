@@ -113,11 +113,11 @@ Korea operates two primary statutes for medical devices:
 
 | Goal | Start here |
 |---|---|
-| New to Korean regulation | [Start Here → What is a medical device?](./start-here/what-is-a-medical-device) |
-| Getting a product to market | [Pre-Market → Classification](./pre-market/classification/how-classification-works) |
-| Foreign manufacturer | [GMP → Foreign Manufacturers](./gmp-quality-system/foreign-manufacturers/foreign-gmp-certificate-requirement) |
-| Post-market obligations | [Post-Market → Overview](./post-market/overview) |
-| UDI registration | [UDI-K Overview](./udi-registration-licensing/udi-k/udi-k-overview) |
+| New to Korean regulation | [Start Here → What is a medical device?](./start-here/what-is-a-medical-device.md) |
+| Getting a product to market | [Pre-Market → Classification](./pre-market/classification/how-classification-works.md) |
+| Foreign manufacturer | [GMP → Foreign Manufacturers](./gmp-quality-system/foreign-manufacturers/foreign-gmp-certificate-requirement.md) |
+| Post-market obligations | [Post-Market → Overview](./post-market/overview.md) |
+| UDI registration | [UDI-K Overview](./udi-registration-licensing/udi-k/udi-k-overview.md) |
 
 :::warning ## Disclaimer
 

@@ -25,7 +25,7 @@ NOM-241-SSA1-2025 introduced several significant changes from the 2021 version:
 - **Removal of the classification chapter** — device classification rules are now solely in the Reglamento de Insumos and the Mexican Pharmacopoeia.
 - **Consolidated sample retention requirements** — all sample retention rules in one section.
 - **Alignment with the Mexican Pharmacopoeia** for classification references.
-- **SaMD provisions** — acknowledgement of software as a medical device category.
+- **SaMD provisions** — acknowledgement of software as a medical device category (see Digital Health & SaMD section for detailed requirements).
 
 ## NOM-241 vs ISO 13485
 
@@ -54,13 +54,5 @@ Similarly, **MDSAP audit certificates** are recognised as GMP evidence.
 
 - [GMP requirements in detail](gmp-requirements)
 - [COFEPRIS inspections](inspections-cofepris)
-- [NOM-241 legislation page](../legislation/nom-241-gmp)
-- [Technical dossier requirements](../premarket/technical-dossier)
-
-Modify the bullet point to: 'SaMD provisions — acknowledgement of software as a medical device category (see Digital Health & SaMD section for detailed requirements).'
-
-Change the bullet point from:
-'SaMD provisions — acknowledgement of software as a medical device category.'
-
-To:
-'SaMD provisions — acknowledgement of software as a medical device category (see Digital Health & SaMD section for detailed requirements).'
+- [NOM-241 legislation page](../legislation/nom-241-gmp.md)
+- [Technical dossier requirements](../premarket/technical-dossier.md)

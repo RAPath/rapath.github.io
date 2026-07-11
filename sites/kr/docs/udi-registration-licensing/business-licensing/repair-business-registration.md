@@ -24,7 +24,7 @@ Required for repair activities on Grade II, III, and IV devices. Grade I may hav
 - Report adverse events discovered during repair
 
 ## Related pages
-- [Distributor and retail dealer registration](./distributor-and-retail-registration)
+- [Distributor and retail dealer registration](./distributor-and-retail-registration.md)
 
 ## Scope Determination and Registration
 

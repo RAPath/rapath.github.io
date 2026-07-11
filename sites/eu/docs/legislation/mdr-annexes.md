@@ -209,8 +209,8 @@ Maps articles and provisions of MDD (93/42/EEC) and AIMDD (90/385/EEC) to corres
 
 ## Related pages
 
-- [MDR key articles](./mdr-key-articles)
-- [IVDR Annexes](./ivdr-annexes)
+- [MDR key articles](./mdr-key-articles.md)
+- [IVDR Annexes](./ivdr-annexes.md)
 - [GSPR overview](/pre-market/gspr/gspr-overview)
 - [Conformity assessment — overview](/pre-market/conformity-assessment/conformity-assessment-overview)
 

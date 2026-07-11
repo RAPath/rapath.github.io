@@ -25,7 +25,7 @@ MFDS has broad authority to initiate corrective actions when it determines a dev
 - International safety action (FDA, CE withdrawal) triggers MFDS review
 
 ## Related pages
-- [MFDS inspection types and authority](../../enforcement-compliance/mfds-inspection-types-and-authority) · [Administrative actions](../../enforcement-compliance/administrative-actions)
+- [MFDS inspection types and authority](../../enforcement-compliance/mfds-inspection-types-and-authority.md) · [Administrative actions](../../enforcement-compliance/administrative-actions.md)
 
 Compliance and timelines
 

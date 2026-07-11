@@ -56,9 +56,9 @@ Class A manufacturers must maintain a **PMS Report** (rather than the full PSUR 
 
 ## Further reading
 
-- [How Classification Works](./how-classification-works)
-- [MDMA Overview](../mdma-registration/mdma-overview)
-- [Technical File Overview](../technical-documentation/technical-file-overview)
+- [How Classification Works](./how-classification-works.md)
+- [MDMA Overview](../mdma-registration/mdma-overview.md)
+- [Technical File Overview](../technical-documentation/technical-file-overview.md)
 
 On first mention of 'TFA route', add: 'All Class A devices (including As, Am, and Ar sub-types) require MDMA via the TFA route (Technical File Assessment) — the standard pathway for device registration with the SFDA.'
 

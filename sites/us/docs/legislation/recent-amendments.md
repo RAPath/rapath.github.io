@@ -27,7 +27,7 @@ The **Quality Management System Regulation (QMSR) final rule** is the most signi
 - Incorporates ISO 13485:2016 by reference
 - Manufacturers with a conforming ISO 13485:2016 QMS substantially satisfy the QMSR
 - US-specific additions remain: DHF, MDR-integrated complaint handling, CAPA data requirements, distribution records
-- Effective date: **February 2, 2026**
+- Effective date: **February 2, 2026** (QMSR took effect on this date)
 
 ---
 
@@ -41,6 +41,6 @@ FDA's **Laboratory-Developed Test (LDT) Final Rule** (May 2024) begins a 5-stage
 
 - [FDA — What's New in Medical Devices](https://www.fda.gov/medical-devices/medical-devices-news-and-events)
 - [Federal Register — FDA Medical Device Rules](https://www.federalregister.gov/agencies/food-and-drug-administration)
-- [RAPath US — What's New section](/docs/whats-new/regulatory-changes)
+- [RAPath US — What's New section](https://rapath.org/whats-new)
 
-Manufacturers currently operating under the 1996 QSR have until February 2, 2026 to transition. Those already certified to ISO 13485:2016 may be able to demonstrate substantial equivalence immediately upon QMSR effective date. Manufacturers should begin gap analyses and transition planning now to meet the February 2026 deadline.
+The QMSR took effect on February 2, 2026; manufacturers previously operating under the 1996 QSR were required to transition by that date. Manufacturers already certified to ISO 13485:2016 were able to demonstrate substantial equivalence upon the QMSR effective date.

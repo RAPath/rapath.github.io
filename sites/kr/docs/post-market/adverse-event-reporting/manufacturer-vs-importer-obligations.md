@@ -26,5 +26,5 @@ Must report to:
 2. MFDS directly via the MFDS adverse event reporting portal
 
 ## Related pages
-- [What must be reported](./what-must-be-reported) · [How to report](./how-to-report)
+- [What must be reported](./what-must-be-reported.md) · [How to report](./how-to-report.md)
 

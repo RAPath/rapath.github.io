@@ -150,8 +150,8 @@ Manufacturers of Class III and implantable Class IIb devices must prepare a **Pe
 
 ## Related pages
 
-- [How classification works](./how-classification-works)
-- [Classification rules 1–22](./mdr-classification-rules)
+- [How classification works](./how-classification-works.md)
+- [Classification rules 1–22](./mdr-classification-rules.md)
 - [Conformity assessment — overview](/pre-market/conformity-assessment/conformity-assessment-overview)
 - [Annex IX — QMS + Tech Doc assessment](/pre-market/conformity-assessment/annex-ix-qms-tech-doc)
 - [Clinical evaluation](/pre-market/clinical-evidence/clinical-evaluation-overview)

@@ -46,5 +46,5 @@ The SFDA may independently initiate a safety action — including mandatory reca
 ## Further reading
 
 - MDS-REQ 5 — FSCA and vigilance requirements
-- [Adverse Event Reporting](./adverse-event-reporting)
-- [Post-Market Overview](./overview)
+- [Adverse Event Reporting](./adverse-event-reporting.md)
+- [Post-Market Overview](./overview.md)

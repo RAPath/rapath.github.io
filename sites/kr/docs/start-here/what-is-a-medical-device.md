@@ -18,4 +18,4 @@ Under Korea's **Medical Devices Act (의료기기법)**, a medical device is any
 - MFDS Notification — Medical Device Classification and Grade Assignment
 
 ## Related pages
-- [What is an IVD?](./what-is-an-ivd) · [What is not a medical device?](./what-is-not-a-medical-device) · [Medical Devices Act vs IVD Act](./medical-devices-act-vs-ivd-act)
+- [What is an IVD?](./what-is-an-ivd.md) · [What is not a medical device?](./what-is-not-a-medical-device.md) · [Medical Devices Act vs IVD Act](./medical-devices-act-vs-ivd-act.md)

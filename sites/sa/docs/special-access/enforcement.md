@@ -36,6 +36,6 @@ Manufacturers and Authorized Representatives are legally required to cooperate f
 
 ## Further reading
 
-- [Post-Market Overview](../post-market/overview)
-- [FSCAs & Recalls](../post-market/fsca-recalls)
-- [MDMA Overview](../mdma-registration/mdma-overview)
+- [Post-Market Overview](../post-market/overview.md)
+- [FSCAs & Recalls](../post-market/fsca-recalls.md)
+- [MDMA Overview](../mdma-registration/mdma-overview.md)
