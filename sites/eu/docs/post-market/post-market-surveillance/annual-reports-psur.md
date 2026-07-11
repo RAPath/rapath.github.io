@@ -133,7 +133,7 @@ The PSUR cannot be completed without the **PMCF evaluation report** (MDR) or **P
 - [PMS requirements by class](./pms-requirements.md)
 - [Distribution records](./distribution-records.md)
 - [Post-market data in technical documentation](/pre-market/technical-documentation/post-market-data-in-tech-doc)
-- [PMCF plan and evaluation report](./pmcf)
+- PMCF plan and evaluation report
 
 ---
 

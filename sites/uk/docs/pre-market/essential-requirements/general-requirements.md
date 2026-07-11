@@ -190,7 +190,7 @@ Together, they define the minimum standard of safety and performance that justif
 - [Design and construction — ER 7–17](./design-construction-requirements.md)
 - [IVD Essential Requirements (Schedule 1A)](./ivd-essential-requirements.md)
 - [Technical documentation overview](../technical-documentation/overview.md)
-- [Clinical evidence — what is required](../clinical-evidence/what-is-required)
+- Clinical evidence — what is required
 
 ---
 

@@ -206,7 +206,7 @@ Once certified, the manufacturer must:
 
 - [Class I self-declaration pathway](./class-i-self-declaration.md)
 - [Class IIa · IIb · III — UKAB routes](./ukab-routes.md)
-- [Full QMS assessment (Annex II)](./full-qms-assessment)
+- Full QMS assessment (Annex II)
 - [UK declaration of conformity](./uk-declaration-of-conformity.md)
 - [UKCA marking requirements](./ukca-marking.md)
 - [UK Approved Bodies](../../approved-bodies/what-are-approved-bodies.md)

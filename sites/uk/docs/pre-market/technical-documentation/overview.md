@@ -212,10 +212,10 @@ Manufacturers should also retain technical documentation for as long as the devi
 
 - [Essential Requirements — overview](../essential-requirements/overview.md)
 - [ER checklist & compliance matrix](../essential-requirements/checklist-compliance.md)
-- [Device description & specifications](./device-description-specifications)
+- Device description & specifications
 - [Risk management (ISO 14971)](./risk-management.md)
 - [Clinical / performance evaluation summary](./clinical-evaluation-summary.md)
-- [Post-market data in the technical file](./post-market-data)
+- Post-market data in the technical file
 
 ---
 

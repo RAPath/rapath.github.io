@@ -108,7 +108,7 @@ Full information is submitted in the **final report** after investigation is com
 - [Reporting timeframes](./reporting-timeframes.md)
 - [How to report — NCAs](./how-to-report-ncas.md)
 - [EUDAMED vigilance module](./eudamed-vigilance-module.md)
-- [Trend reporting](./trend-reporting)
+- Trend reporting
 - [When an FSCA is required](/post-market/field-safety-corrective-actions/when-fsca-required)
 
 ---

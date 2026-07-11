@@ -180,7 +180,7 @@ Software risks are managed through the integration of IEC 62304 (software lifecy
 - [General requirements — ER 1–6](../essential-requirements/general-requirements.md)
 - [Technical documentation overview](./overview.md)
 - [Clinical / performance evaluation summary](./clinical-evaluation-summary.md)
-- [Post-market data in the technical file](./post-market-data)
+- Post-market data in the technical file
 
 ---
 

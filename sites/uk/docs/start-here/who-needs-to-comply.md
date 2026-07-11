@@ -183,7 +183,7 @@ Carefully assess which role(s) your organisation occupies — each role carries 
 
 ## Related pages
 
-- [UK Responsible Persons (UKRP) — full obligations](./who-needs-to-comply/ukrp)
+- UK Responsible Persons (UKRP) — full obligations
 - [MHRA registration](../pre-market/mhra-registration/who-must-register.md)
 - [Labelling requirements](../post-market/labelling-advertising/labelling-requirements.md)
 - [Great Britain vs Northern Ireland](./great-britain-vs-northern-ireland.md)

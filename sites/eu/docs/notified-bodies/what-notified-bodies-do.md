@@ -81,10 +81,10 @@ All EU notified bodies must be in NANDO to be legally authorised to issue MDR/IV
 ## Related pages
 
 - [How to choose a notified body](./how-to-choose-nb.md)
-- [NANDO database](./nando-database)
-- [Audit process & timelines](./audit-process-timelines)
-- [Unannounced audits](./unannounced-audits)
-- [Scrutiny procedure (Art. 54)](./scrutiny-procedure)
+- NANDO database
+- Audit process & timelines
+- Unannounced audits
+- Scrutiny procedure (Art. 54)
 - [Conformity assessment overview](/pre-market/conformity-assessment/conformity-assessment-overview)
 
 ---

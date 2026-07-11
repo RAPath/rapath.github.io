@@ -132,7 +132,7 @@ This route provides stronger product-level assurance but is resource-intensive. 
 - [Conformity assessment — overview](./conformity-assessment-overview.md)
 - [Annex IX — QMS + Tech Doc](./annex-ix-qms-tech-doc.md)
 - [EU Declaration of Conformity](./eu-declaration-of-conformity.md)
-- [CE marking requirements](./ce-marking-requirements)
+- CE marking requirements
 - [Notified bodies](/notified-bodies/what-notified-bodies-do)
 
 ---

@@ -85,7 +85,7 @@ For devices placed on the market in a sterile condition, manufacturers must:
 
 ### Reprocessing
 
-For devices intended to be reprocessed (cleaned, disinfected, re-sterilised between uses), the manufacturer must validate the reprocessing procedure and provide validated instructions in the IFU. See [Reprocessed single-use devices](../special-device-types/reprocessed-single-use-devices) and the Class Im sub-category for reusable surgical instruments.
+For devices intended to be reprocessed (cleaned, disinfected, re-sterilised between uses), the manufacturer must validate the reprocessing procedure and provide validated instructions in the IFU. See Reprocessed single-use devices and the Class Im sub-category for reusable surgical instruments.
 
 ---
 

@@ -165,7 +165,7 @@ Manufacturers must provide **clinical evidence** appropriate to their device's c
 
 Clinical evaluation is not a one-time activity — it must be updated as part of post-market clinical follow-up (PMCF) throughout the device's market life.
 
-See [Clinical evidence](../pre-market/clinical-evidence/what-is-required).
+See Clinical evidence.
 
 ---
 
@@ -296,7 +296,7 @@ An FSCA may involve:
 
 All FSCAs and Field Safety Notices (FSNs) must be reported to MHRA.
 
-See [Field Safety Corrective Actions](../../post-market/vigilance/field-safety-corrective-actions).
+See Field Safety Corrective Actions.
 
 ---
 

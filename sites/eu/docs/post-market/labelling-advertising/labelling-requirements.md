@@ -109,7 +109,7 @@ NCAs enforce labelling requirements during market surveillance inspections. Non-
 - [GSPR Chapter III — IFU & labelling](/pre-market/gspr/chapter-iii-ifu-labelling)
 - [UDI labelling requirements](/pre-market/udi-system/udi-labelling-requirements)
 - [Advertising rules](./advertising-rules.md)
-- [Permitted & prohibited claims](./permitted-prohibited-claims)
+- Permitted & prohibited claims
 
 ---
 

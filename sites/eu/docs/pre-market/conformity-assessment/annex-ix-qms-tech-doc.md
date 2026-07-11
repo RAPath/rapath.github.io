@@ -132,7 +132,7 @@ Given current notified body capacity constraints, manufacturers should initiate 
 
 - [Conformity assessment — overview](./conformity-assessment-overview.md)
 - [Annex X — EU type examination](./annex-x-type-examination.md)
-- [Annex XI — Product verification](./annex-xi-product-verification)
+- Annex XI — Product verification
 - [EU Declaration of Conformity](./eu-declaration-of-conformity.md)
 - [Notified bodies](/notified-bodies/what-notified-bodies-do)
 - [Scrutiny procedure (Art. 54)](/notified-bodies/what-notified-bodies-do)

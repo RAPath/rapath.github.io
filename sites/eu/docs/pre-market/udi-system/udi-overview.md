@@ -104,7 +104,7 @@ Note: UDI implementation timelines have undergone legislative adjustments via Co
 - [UDI-DI and UDI-PI explained](./udi-di-and-pi.md)
 - [EUDAMED UDI registration](./eudamed-udi-registration.md)
 - [UDI labelling requirements](./udi-labelling-requirements.md)
-- [UDI issuing entities](./udi-issuing-entities)
+- UDI issuing entities
 
 ---
 

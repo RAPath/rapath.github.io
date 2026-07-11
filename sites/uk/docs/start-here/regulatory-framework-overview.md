@@ -113,7 +113,7 @@ Any manufacturer **not established in the United Kingdom** who places a device o
 - Is jointly responsible for ensuring the device meets UK MDR 2002 requirements
 - Must be identified on the device label or packaging
 
-The UKRP role is analogous to the EU Authorised Representative (EU REP) in the EU framework. See [UK Responsible Persons](./who-needs-to-comply/ukrp) for full obligations.
+The UKRP role is analogous to the EU Authorised Representative (EU REP) in the EU framework. See UK Responsible Persons for full obligations.
 
 ---
 
