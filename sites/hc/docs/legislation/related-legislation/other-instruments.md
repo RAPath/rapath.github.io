@@ -25,7 +25,7 @@ Manufacturers of connected medical devices (IoT devices, remote monitoring syste
 
 ## Official Languages Act
 
-Requires bilingual labelling (English and French) for medical devices sold to Canadian consumers. See [Bilingual Requirements](/docs/post-market/labelling-advertising/bilingual-requirements).
+Requires bilingual labelling (English and French) for medical devices sold to Canadian consumers. See [Bilingual Requirements](/post-market/labelling-advertising/bilingual-requirements).
 
 ## Competition Act
 

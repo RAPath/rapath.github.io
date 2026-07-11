@@ -31,11 +31,11 @@ The **Central Drugs Standard Control Organisation (CDSCO)** under the Ministry o
 
 ## The SUGAM portal
 
-All CDSCO-level applications (import licences, manufacturing licences for Class C/D, clinical investigation permissions) are submitted through the **SUGAM online portal** at [sugam.cdsco.gov.in](https://sugam.cdsco.gov.in). See [SUGAM Portal Guide](/docs/import-export-sugam/sugam/account-setup) for a step-by-step walkthrough.
+All CDSCO-level applications (import licences, manufacturing licences for Class C/D, clinical investigation permissions) are submitted through the **SUGAM online portal** at [sugam.cdsco.gov.in](https://sugam.cdsco.gov.in). See [SUGAM Portal Guide](/import-export-sugam/sugam/account-setup) for a step-by-step walkthrough.
 
 ## Phased implementation
 
-India's MDR 2017 has been implemented in phases, with additional device categories progressively notified under Schedule I and Schedule II. See [Phased Implementation & Transition History](/docs/start-here/phased-implementation) for the timeline.
+India's MDR 2017 has been implemented in phases, with additional device categories progressively notified under Schedule I and Schedule II. See [Phased Implementation & Transition History](/start-here/phased-implementation) for the timeline.
 
 Under the DPCO, price regulation applies only to a limited list of specified medical devices notified by the National Pharmaceutical Pricing Authority (NPPA). Most medical devices are not subject to price controls. Manufacturers should check the NPPA website for the current list of price-controlled devices.
 

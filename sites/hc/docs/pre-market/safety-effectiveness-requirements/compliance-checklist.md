@@ -40,13 +40,13 @@ Additional requirements apply to implantable devices, including:
 - Implant card requirements (for certain implantable devices)
 - Special labelling (MRI safety information)
 
-See [Implantable Devices](/docs/pre-market/special-device-types/implantable-devices).
+See [Implantable Devices](/pre-market/special-device-types/implantable-devices).
 
 ### IVDs
-IVD devices have specific performance requirements (analytical and clinical performance). See [IVD Medical Devices](/docs/pre-market/special-device-types/ivd-medical-devices).
+IVD devices have specific performance requirements (analytical and clinical performance). See [IVD Medical Devices](/pre-market/special-device-types/ivd-medical-devices).
 
 ### SaMD
-Software-only devices require particular attention to IEC 62304 documentation and cybersecurity. See [Software as a Medical Device](/docs/pre-market/special-device-types/software-samd).
+Software-only devices require particular attention to IEC 62304 documentation and cybersecurity. See [Software as a Medical Device](/pre-market/special-device-types/software-samd).
 
 ## Including the compliance matrix in your submission
 

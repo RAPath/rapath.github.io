@@ -15,7 +15,7 @@ ANVISA's post-market surveillance program for medical devices is called **Tecnov
 
 **Technical complaints** — device malfunctions, deviations from quality standards, or failures that could have caused or did cause an adverse event, even if no harm occurred.
 
-Both types of reports must be submitted via **NOTIVISA**. See [NOTIVISA](/docs/post-market/adverse-events/notivisa) for how to report.
+Both types of reports must be submitted via **NOTIVISA**. See [NOTIVISA](/post-market/adverse-events/notivisa) for how to report.
 
 ### Who must report?
 

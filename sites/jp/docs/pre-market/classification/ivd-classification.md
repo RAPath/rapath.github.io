@@ -33,7 +33,7 @@ IVDs have their own set of JMDN codes distinct from therapeutic medical devices.
 
 ## Performance evaluation requirements
 
-IVDs require **performance evaluation** (analytical and clinical performance studies) as the core technical evidence. See [Performance Evaluation (IVD)](/docs/pre-market/clinical-evidence/performance-evaluation-ivd) for the specific requirements.
+IVDs require **performance evaluation** (analytical and clinical performance studies) as the core technical evidence. See [Performance Evaluation (IVD)](/pre-market/clinical-evidence/performance-evaluation-ivd) for the specific requirements.
 
 This includes both false positives (incorrect positive results leading to unnecessary treatment) and false negatives (missed disease diagnosis), with particular weight given to conditions with high morbidity/mortality if missed.
 

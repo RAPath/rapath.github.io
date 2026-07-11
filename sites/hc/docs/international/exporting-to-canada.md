@@ -42,7 +42,7 @@ Foreign manufacturers are required to hold a current **MDSAP audit certificate**
 
 ## Bilingual labelling
 
-All devices sold in Canada — including imported devices — must carry **bilingual English and French labelling**. This is a common barrier for foreign manufacturers and must be addressed before the first Device Licence application. See [Bilingual Requirements](/docs/post-market/labelling-advertising/bilingual-requirements).
+All devices sold in Canada — including imported devices — must carry **bilingual English and French labelling**. This is a common barrier for foreign manufacturers and must be addressed before the first Device Licence application. See [Bilingual Requirements](/post-market/labelling-advertising/bilingual-requirements).
 
 ## Parallel submissions
 

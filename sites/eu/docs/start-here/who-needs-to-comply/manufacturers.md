@@ -145,7 +145,7 @@ This information must be updated if the manufacturer's details change. Manufactu
 - [Importers](./importers.md)
 - [Distributors](./distributors.md)
 - [Person responsible for regulatory compliance](./person-responsible-for-regulatory-compliance.md)
-- [Quality Management System](/pre-market/conformity-assessment/qms)
+- [Quality Management System](/pre-market/conformity-assessment/annex-ix-qms-tech-doc)
 - [Technical documentation](/pre-market/technical-documentation)
 - [Post-market surveillance](/post-market/post-market-surveillance)
 

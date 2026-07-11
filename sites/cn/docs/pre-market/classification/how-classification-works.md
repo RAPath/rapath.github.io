@@ -38,15 +38,15 @@ If your device is not in the NMDCC, you must request a **classification determin
 
 ## IVDs
 
-In vitro diagnostic reagents follow separate classification rules under the IVD Catalogue. See [Classification Rules for IVDs](/cn/docs/pre-market/classification/classification-rules-ivds).
+In vitro diagnostic reagents follow separate classification rules under the IVD Catalogue. See [Classification Rules for IVDs](/pre-market/classification/classification-rules-ivds).
 
 ---
 
 ## Next steps
 
-- [Classification Rules for Medical Devices](/cn/docs/pre-market/classification/classification-rules-devices)
-- [How to use the NMDCC](/cn/docs/pre-market/classification/nmdcc)
-- [Registration vs Filing overview](/cn/docs/pre-market/registration/overview)
+- [Classification Rules for Medical Devices](/pre-market/classification/classification-rules-devices)
+- [How to use the NMDCC](/pre-market/classification/nmdcc)
+- [Registration vs Filing overview](/pre-market/registration/overview)
 
 :::note Disclaimer
 Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [NMPA](https://www.nmpa.gov.cn/) sources before making regulatory decisions. Not affiliated with NMPA or any Chinese Government body. Not legal or regulatory advice.

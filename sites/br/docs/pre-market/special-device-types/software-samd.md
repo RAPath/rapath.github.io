@@ -7,7 +7,7 @@ keywords: [ANVISA, Brazil, medical device]
 
 # Software & AI/ML — SaMD in Brazil
 
-See [SaMD Classification](/docs/pre-market/classification/samd-classification) for classification details and [Digital Health & SaMD](/docs/digital-health/framework) for ANVISA's broader digital health framework.
+See [SaMD Classification](/pre-market/classification/samd-classification) for classification details and [Digital Health & SaMD](/digital-health/framework) for ANVISA's broader digital health framework.
 
 ## Key SaMD regulatory requirements
 

@@ -35,7 +35,7 @@ All manufacturers are expected to conduct post-market surveillance (PMS) appropr
 **Required:** Comprehensive PMS with proactive clinical data collection
 - All Class III requirements, plus:
 - Active clinical follow-up (post-market studies, registries, or other structured data collection)
-- Periodic Safety Update Reports (PSURs) — see [Periodic Safety Update Reports](/docs/post-market/post-market-surveillance/periodic-safety-update-reports)
+- Periodic Safety Update Reports (PSURs) — see [Periodic Safety Update Reports](/post-market/post-market-surveillance/periodic-safety-update-reports)
 - Annual management review of PMS programme
 - Evidence-based updates to the risk management file based on PMS findings
 

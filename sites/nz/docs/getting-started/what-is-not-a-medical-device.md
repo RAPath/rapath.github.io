@@ -20,7 +20,7 @@ If a product's **principal intended action** is achieved through pharmacological
 - Gene therapies (where the therapeutic action is biological)
 
 :::note Combination products
-Some products combine a device component with a medicinal substance — for example, a drug-eluting stent. These are classified based on their principal mode of action. Medsafe applies the same borderline product analysis used by GHTF. See [Combination Products](/special-topics/combination-products) for detail.
+Some products combine a device component with a medicinal substance — for example, a drug-eluting stent. These are classified based on their principal mode of action. Medsafe applies the same borderline product analysis used by GHTF.
 :::
 
 ---

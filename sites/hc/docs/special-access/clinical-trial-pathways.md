@@ -43,7 +43,7 @@ For multi-centre trials with sites across Canada, a **single ITA** covers all Ca
 
 ## Using foreign clinical data
 
-Data from clinical trials conducted outside Canada (US, EU, Australia) may be accepted for Canadian Device Licence applications. See [Using Overseas Clinical Data](/docs/pre-market/clinical-evidence/using-overseas-clinical-data).
+Data from clinical trials conducted outside Canada (US, EU, Australia) may be accepted for Canadian Device Licence applications. See [Using Overseas Clinical Data](/pre-market/clinical-evidence/using-overseas-clinical-data).
 
 ## Compassionate use during trial
 

@@ -142,7 +142,7 @@ The site is structured around the regulatory lifecycle of a medical device under
 | [Notified Bodies](/notified-bodies/what-notified-bodies-do) | What notified bodies do, how to choose one, NANDO database, audit process and timelines, unannounced audits, Art. 54 scrutiny procedure |
 | [Compassionate Use](/compassionate-use/compassionate-use-overview) | MDR Art. 59 compassionate use, named-patient access, hospital exemption, clinical investigation pathways |
 | [Market Surveillance](/market-surveillance/market-surveillance-overview) | NCA roles by member state, surveillance activities, safeguard procedures (Art. 95–97), enforcement powers |
-| [Non-EU Access](/non-eu-access/non-eu-access) | Requirements for non-EU manufacturers, EU REP obligations, UK UKCA, Switzerland MedDO, MDR vs. FDA 510(k) |
+| [Non-EU Access](/non-eu-access/overview) | Requirements for non-EU manufacturers, EU REP obligations, UK UKCA, Switzerland MedDO, MDR vs. FDA 510(k) |
 
 ---
 
@@ -180,7 +180,7 @@ They are mutually exclusive — a product is governed by one or the other, never
 → [What must be reported](/post-market/adverse-event-reporting/what-must-be-reported)
 
 **If you are a non-EU manufacturer:**
-→ [Non-EU & third-country access](/non-eu-access/non-eu-access)
+→ [Non-EU & third-country access](/non-eu-access/overview)
 
 **If a recall may be required:**
 → [When an FSCA is required](/post-market/field-safety-corrective-actions/when-fsca-required)

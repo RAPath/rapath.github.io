@@ -19,7 +19,7 @@ Software that does **not** qualify as a medical device:
 
 ## Classification of SaMD in Brazil
 
-See [SaMD Classification](/docs/pre-market/classification/samd-classification) for the full classification approach aligned with IMDRF N12.
+See [SaMD Classification](/pre-market/classification/samd-classification) for the full classification approach aligned with IMDRF N12.
 
 ## Registration dossier for SaMD
 

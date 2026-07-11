@@ -11,15 +11,15 @@ Obtaining a Device Licence or MDEL is the beginning of your regulatory obligatio
 
 | Obligation | Who | Where covered |
 |---|---|---|
-| Mandatory problem reporting | Manufacturers, importers, distributors | [Mandatory Problem Reporting](/docs/post-market/mandatory-problem-reporting/what-must-be-reported) |
-| Recalls & FSCAs | Manufacturers, importers, distributors | [Recalls & Field Safety](/docs/post-market/recalls-field-safety/when-recall-required) |
-| Post-market surveillance | Manufacturers | [Post-Market Surveillance](/docs/post-market/post-market-surveillance/pms-by-class) |
-| Device Licence amendments | Manufacturers | [Amending a Device Licence](/docs/post-market/device-licence-maintenance/amending-device-licence) |
-| Distribution records | Importers, distributors | [Distribution Records](/docs/post-market/post-market-surveillance/distribution-records) |
-| Labelling compliance | Manufacturers | [Labelling Requirements](/docs/post-market/labelling-advertising/labelling-requirements) |
-| MDEL maintenance | Importers, distributors | [Establishment Licence](/docs/pre-market/establishment-licence/overview) |
-| Annual fees | All licence holders | [Annual Charges](/docs/post-market/device-licence-maintenance/annual-charges) |
-| Cooperation with inspections and audits — manufacturers and MDEL holders must allow Health Canada inspectors access to facilities, quality records, and personnel during announced and unannounced inspections | All regulated parties | [Inspection Program](/docs/market-surveillance/inspection-program) |
+| Mandatory problem reporting | Manufacturers, importers, distributors | [Mandatory Problem Reporting](/post-market/mandatory-problem-reporting/what-must-be-reported) |
+| Recalls & FSCAs | Manufacturers, importers, distributors | [Recalls & Field Safety](/post-market/recalls-field-safety/when-recall-required) |
+| Post-market surveillance | Manufacturers | [Post-Market Surveillance](/post-market/post-market-surveillance/pms-by-class) |
+| Device Licence amendments | Manufacturers | [Amending a Device Licence](/post-market/device-licence-maintenance/amending-device-licence) |
+| Distribution records | Importers, distributors | [Distribution Records](/post-market/post-market-surveillance/distribution-records) |
+| Labelling compliance | Manufacturers | [Labelling Requirements](/post-market/labelling-advertising/labelling-requirements) |
+| MDEL maintenance | Importers, distributors | [Establishment Licence](/pre-market/establishment-licence/overview) |
+| Annual fees | All licence holders | [Annual Charges](/post-market/device-licence-maintenance/annual-charges) |
+| Cooperation with inspections and audits — manufacturers and MDEL holders must allow Health Canada inspectors access to facilities, quality records, and personnel during announced and unannounced inspections | All regulated parties | [Inspection Program](/market-surveillance/inspection-program) |
 
 ## Post-market surveillance framework
 

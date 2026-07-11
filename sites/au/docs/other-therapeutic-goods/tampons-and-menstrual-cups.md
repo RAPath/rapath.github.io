@@ -100,9 +100,9 @@ Individuals may personally import tampons and menstrual cups for their own use, 
 
 ## Related Pages
 
-- [How Classification Works](/docs/pre-market/classification/how-classification-works)
-- [Class IIa](/docs/pre-market/classification/class-i-iia-iib-iii-aimd)
-- [Essential Principles — EP 7 and EP 8](/docs/pre-market/essential-principles/ep-7-15-design-and-construction)
+- [How Classification Works](/pre-market/classification/how-classification-works)
+- [Class IIa](/pre-market/classification/class-i-iia-iib-iii-aimd)
+- [Essential Principles — EP 7 and EP 8](/pre-market/essential-principles/ep-7-15-design-and-construction)
 - [Disinfectants and Sterilants](./disinfectants-and-sterilants.md)
 
 Online platforms — the responsibility to verify ARTG inclusion sits with retailers and sellers. Marketplaces that knowingly permit sales of unapproved tampons or menstrual cups may face TGA enforcement action. Products sold via Amazon, eBay, Etsy, or direct-to-consumer websites must have valid ARTG entries.

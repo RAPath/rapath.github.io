@@ -21,7 +21,7 @@ Class III medical devices — those presenting the highest risk, or which are im
 
 ## Registration dossier
 
-See [Dossier Requirements](/cn/docs/pre-market/registration/dossier-requirements) for the full list. Class III dossiers require comprehensive evidence across all technical domains.
+See [Dossier Requirements](/pre-market/registration/dossier-requirements) for the full list. Class III dossiers require comprehensive evidence across all technical domains.
 
 ---
 
@@ -41,7 +41,7 @@ Total elapsed time (good dossier, no supplementals): approximately 12–24 month
 
 ## Pre-approval GMP inspection
 
-For **domestic Class III manufacturers**, a pre-approval GMP inspection by NMPA is conducted before the registration certificate is issued. The certificate is not issued until the inspection is passed. See [NMPA GMP Inspections](/cn/docs/qms/nmpa-inspections).
+For **domestic Class III manufacturers**, a pre-approval GMP inspection by NMPA is conducted before the registration certificate is issued. The certificate is not issued until the inspection is passed. See [NMPA GMP Inspections](/qms/nmpa-inspections).
 
 ---
 

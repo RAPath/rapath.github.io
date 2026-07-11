@@ -43,5 +43,5 @@ Same as other devices — complaint handling, mandatory problem reporting, recal
 
 "Reference Materials and Controls\n\nIVD manufacturers must provide:\n• Calibrators and quality control materials of defined composition and traceability\n• Reference materials with documented values and uncertainty\n• Stability data for calibrators and controls under stated storage conditions\n• Information on calibration frequency and validity periods\nReferences materials should be traceable to international standards or recognized reference materials where available (e.g., ISO 17043 accredited providers)."
 
-See also: [IVD Classification Rules](/docs/pre-market/classification/ivd-classification-rules)
+See also: [IVD Classification Rules](/pre-market/classification/ivd-classification-rules)
 

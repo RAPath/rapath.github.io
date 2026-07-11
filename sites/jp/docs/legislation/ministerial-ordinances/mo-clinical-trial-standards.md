@@ -43,7 +43,7 @@ Written informed consent must be obtained from each subject before any trial pro
 
 ## CTN filing process
 
-See [Clinical Trials under the PMD Act](/docs/pre-market/clinical-evidence/clinical-trials-pmd-act) for the CTN filing process and practical guidance.
+See [Clinical Trials under the PMD Act](/pre-market/clinical-evidence/clinical-trials-pmd-act) for the CTN filing process and practical guidance.
 
 Serious adverse events must be reported to MHLW within 7 days of becoming aware of the event, or according to the timeframe specified in the CTN approval notification. Expedited reporting may be required for fatal or life-threatening events.
 

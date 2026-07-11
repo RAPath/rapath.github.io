@@ -7,7 +7,7 @@ keywords: [IAR, India, CDSCO, obligations, appointment, foreign manufacturer]
 
 # Iar Obligations
 
-See [Indian Authorised Representative (IAR)](/docs/pre-market/import-registration/indian-authorised-representative) for full details on IAR obligations and the appointment and change process.
+See [Indian Authorised Representative (IAR)](/pre-market/import-registration/indian-authorised-representative) for full details on IAR obligations and the appointment and change process.
 
 > **Official source:** Medical Devices Rules 2017, Rule 8 and Rule 16
 

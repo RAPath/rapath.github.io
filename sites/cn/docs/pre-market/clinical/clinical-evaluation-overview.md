@@ -26,7 +26,7 @@ Trial must be conducted under GCP (Good Clinical Practice — 医疗器械临床
 Ethics committee approval required at each site before enrolment begins
 Trial registration in the China Clinical Trial Registry (www.chictr.org.cn) before the first participant is enrolled
 
-See [Clinical Trial Requirements](/cn/docs/pre-market/clinical/clinical-trial-requirements).
+See [Clinical Trial Requirements](/pre-market/clinical/clinical-trial-requirements).
 
 ### 2. Literature and equivalent device (同品种临床评价)
 
@@ -43,7 +43,7 @@ Access to clinical data of the predicate device is required where the applicant 
 
 NMPA publishes a list of device categories exempt from clinical trials. For exempt devices, clinical evidence from the literature or post-market data may be sufficient without a formal clinical trial.
 
-See [Clinical Trial Exemption](/cn/docs/pre-market/clinical/clinical-trial-exemption).
+See [Clinical Trial Exemption](/pre-market/clinical/clinical-trial-exemption).
 
 ---
 

@@ -12,7 +12,7 @@ A Device Licence **amendment** is required when a change to the device could aff
 - Changes to the **intended use** or indications for use
 - **Design changes** that affect safety or performance (e.g., change of a critical component, change of materials of construction)
 - Changes to **manufacturing process** that could affect product quality (e.g., change of sterilisation method)
-- **Software updates** that materially change clinical output (see [SaMD](/docs/pre-market/special-device-types/software-samd))
+- **Software updates** that materially change clinical output (see [SaMD](/pre-market/special-device-types/software-samd))
 - **Labelling changes** — adding/removing indications, changing warnings, adding new contraindications
 - Changes to the **shelf life** of the device
 - Changes to the **sterility status** of the device

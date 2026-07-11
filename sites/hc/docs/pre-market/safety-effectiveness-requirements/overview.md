@@ -53,6 +53,6 @@ Compliance with Schedule 1 is required for **all classes** (I–IV), but the mec
 
 ## Relationship to standards
 
-Health Canada maintains a list of **recognised standards** and **mandatory standards** that, when met, provide a presumption of compliance with specific Schedule 1 requirements. See [Recognised & Mandatory Standards](/docs/pre-market/device-licence-application/recognised-mandatory-standards).
+Health Canada maintains a list of **recognised standards** and **mandatory standards** that, when met, provide a presumption of compliance with specific Schedule 1 requirements. See [Recognised & Mandatory Standards](/pre-market/device-licence-application/recognised-mandatory-standards).
 
 > **Legislative source:** Medical Devices Regulations, SOR/98-282, Schedule 1

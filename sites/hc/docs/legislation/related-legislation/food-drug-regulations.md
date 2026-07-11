@@ -17,7 +17,7 @@ The **Food and Drug Regulations (CRC, c 870)**, made under the Food and Drugs Ac
 
 For combination products regulated as **drugs** (because the drug is the primary mode of action), the device component is reviewed as part of the drug submission under the Food and Drug Regulations. The MDR does not apply to the combination product as a whole, but Health Canada may apply equivalent device safety standards through the drug review process.
 
-See [Combination Products (Drug-Device)](/docs/pre-market/special-device-types/combination-products) for the full decision process.
+See [Combination Products (Drug-Device)](/pre-market/special-device-types/combination-products) for the full decision process.
 
 :::info Official source
 [Food and Drug Regulations — laws-lois.justice.gc.ca](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._870/)

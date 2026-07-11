@@ -34,7 +34,7 @@ The **IAR** is the entity in India legally responsible for import compliance on 
 - Manage vigilance reporting and recall coordination in India;
 - Maintain copies of technical documentation.
 
-See [IAR Obligations](/docs/import-export-sugam/iar/iar-obligations) for full details.
+See [IAR Obligations](/import-export-sugam/iar/iar-obligations) for full details.
 
 ## Importers
 
@@ -46,7 +46,7 @@ An **importer** brings foreign-manufactured devices into India under a valid CDS
 
 ## Notified testing laboratories
 
-India has a network of **CDSCO-notified testing laboratories** that conduct performance and safety testing for import licence applications. See [Notified Labs Directory](/docs/guidance/notified-labs-directory) for the current list.
+India has a network of **CDSCO-notified testing laboratories** that conduct performance and safety testing for import licence applications. See [Notified Labs Directory](/guidance/notified-labs-directory) for the current list.
 
 **State Licensing Authority (SLA)**
 

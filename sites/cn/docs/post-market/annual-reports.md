@@ -22,7 +22,7 @@ tags: [post-market,cn-unique]
 
 ## Key requirements
 
-Requirements for annual reports are set out in MDSAR 2021 and implementing measures. See [Legislation & Regulations](/cn/docs/legislation/mdsar-2021) for the full legislative index.
+Requirements for annual reports are set out in MDSAR 2021 and implementing measures. See [Legislation & Regulations](/legislation/mdsar-2021) for the full legislative index.
 
 :::tip Official Sources
 - **NMPA** — [www.nmpa.gov.cn](https://www.nmpa.gov.cn/)

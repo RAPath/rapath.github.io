@@ -23,7 +23,7 @@ Requirements for software as a medical device (samd) are set out in:
 
 ## Classification implications
 
-Device type significantly affects classification. Consult the [National Medical Device Classification Catalogue (NMDCC)](/cn/docs/pre-market/classification/nmdcc) for the applicable class for your specific product.
+Device type significantly affects classification. Consult the [National Medical Device Classification Catalogue (NMDCC)](/pre-market/classification/nmdcc) for the applicable class for your specific product.
 
 ---
 

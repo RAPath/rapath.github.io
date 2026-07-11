@@ -47,11 +47,11 @@ Class I filing does not produce a "certificate" equivalent to a registration cer
 
 ## Detailed pathways
 
-- [Class I Filing](/cn/docs/pre-market/registration/class-i-filing)
-- [Class II Registration](/cn/docs/pre-market/registration/class-ii-registration)
-- [Class III Registration](/cn/docs/pre-market/registration/class-iii-registration)
-- [IVD Registration](/cn/docs/pre-market/registration/ivd-registration)
-- [Imported Device Registration](/cn/docs/pre-market/registration/imported-device-registration)
+- [Class I Filing](/pre-market/registration/class-i-filing)
+- [Class II Registration](/pre-market/registration/class-ii-registration)
+- [Class III Registration](/pre-market/registration/class-iii-registration)
+- [IVD Registration](/pre-market/registration/ivd-registration)
+- [Imported Device Registration](/pre-market/registration/imported-device-registration)
 
 :::note Disclaimer
 Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [NMPA](https://www.nmpa.gov.cn/) sources before making regulatory decisions. Not affiliated with NMPA or any Chinese Government body. Not legal or regulatory advice.

@@ -137,7 +137,7 @@ PMCF investigations are commonly used to:
 - [Clinical Evaluation Report (CER)](./clinical-evaluation-report.md)
 - [Equivalence claims](./equivalence-claims.md)
 - [Using international clinical data](./using-international-clinical-data.md)
-- [PMCF plan and evaluation report](/post-market/post-market-surveillance/pmcf)
+- [PMCF plan and evaluation report](/post-market/post-market-surveillance/pms-requirements)
 
 ---
 

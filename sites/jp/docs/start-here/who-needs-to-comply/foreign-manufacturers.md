@@ -26,7 +26,7 @@ All regulatory communications with MHLW remain the responsibility of the MAH.
 
 Foreign manufacturing sites registered under FMR are subject to QMS inspections conducted by PMDA. These inspections assess compliance with MO 169. PMDA may inspect overseas sites either on-site or, in some circumstances, through document review. The frequency of inspection depends on the device class and the outcome of previous inspections.
 
-See [PMDA and Prefectural QMS Inspections](/docs/quality-management/pmda-prefectural-inspections) for more detail.
+See [PMDA and Prefectural QMS Inspections](/quality-management/pmda-prefectural-inspections) for more detail.
 
 ## Practical approach
 

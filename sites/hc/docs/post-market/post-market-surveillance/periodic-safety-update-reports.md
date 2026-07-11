@@ -28,7 +28,7 @@ A PSUR should include:
 6. **Action plan** — any corrective actions triggered by the PMS data
 
 ## Relationship to Device Licence amendments
-If a PSUR concludes that a Device Licence amendment is needed (e.g., a new contraindication, a labelling update), the amendment process must be initiated promptly. See [Amending a Device Licence](/docs/post-market/device-licence-maintenance/amending-device-licence).
+If a PSUR concludes that a Device Licence amendment is needed (e.g., a new contraindication, a labelling update), the amendment process must be initiated promptly. See [Amending a Device Licence](/post-market/device-licence-maintenance/amending-device-licence).
 
 > **Reference:** IMDRF MDCE WG/N56FINAL:2019 (Periodic Safety Update Report for Medical Devices)
 

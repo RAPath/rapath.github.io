@@ -25,7 +25,7 @@ ANVISA's **NOTIVISA** system is the central platform for adverse event and techn
 
 ## Changes to registered devices
 
-After registration, any change that affects safety, performance, intended use, or labelling must be managed through a **Petição de Alteração** — see [Post-Registration Changes](/docs/pre-market/registration/post-registration-changes).
+After registration, any change that affects safety, performance, intended use, or labelling must be managed through a **Petição de Alteração** — see [Post-Registration Changes](/pre-market/registration/post-registration-changes).
 
 ## Official resources
 

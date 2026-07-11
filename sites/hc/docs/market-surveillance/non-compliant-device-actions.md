@@ -13,7 +13,7 @@ When Health Canada identifies a non-compliant or unsafe device on the Canadian m
 Health Canada issues a **public health advisory** when there is an immediate risk to patients or the public. Advisories are published on the Recalls and Safety Alerts database and distributed through media channels.
 
 ### Recall
-Health Canada coordinates with the manufacturer or importer to initiate a recall. If voluntary action is not taken, Health Canada may issue a **mandatory recall order** under Section 21.3 of the FDA. See [Recalls & Field Safety](/docs/post-market/recalls-field-safety/when-recall-required).
+Health Canada coordinates with the manufacturer or importer to initiate a recall. If voluntary action is not taken, Health Canada may issue a **mandatory recall order** under Section 21.3 of the FDA. See [Recalls & Field Safety](/post-market/recalls-field-safety/when-recall-required).
 
 ### Import alert
 Health Canada may place an **import alert** on a specific manufacturer, product, or lot, directing CBSA to detain shipments at the border pending inspection or testing.

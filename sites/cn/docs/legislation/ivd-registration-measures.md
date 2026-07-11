@@ -14,7 +14,7 @@ tags: [legislation,ivd]
 
 ## Overview
 
-See [MDSAR 2021](/cn/docs/legislation/mdsar-2021) for the primary regulation. This page covers the implementing measure or standard listed above, explaining its scope, key requirements, and relationship to MDSAR 2021.
+See [MDSAR 2021](/legislation/mdsar-2021) for the primary regulation. This page covers the implementing measure or standard listed above, explaining its scope, key requirements, and relationship to MDSAR 2021.
 
 ---
 

@@ -37,7 +37,7 @@ Requirements that apply only to **specific device types**:
 
 ## How compliance is demonstrated
 
-See [Overview — Schedule 1 Requirements](/docs/pre-market/safety-effectiveness-requirements/overview) for the full explanation of how manufacturers demonstrate compliance by device class.
+See [Overview — Schedule 1 Requirements](/pre-market/safety-effectiveness-requirements/overview) for the full explanation of how manufacturers demonstrate compliance by device class.
 
 :::info Official source
 [Medical Devices Regulations, SOR/98-282, Schedule 1](https://laws-lois.justice.gc.ca/eng/regulations/SOR-98-282/page-11.html)

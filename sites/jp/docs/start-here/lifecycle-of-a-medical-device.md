@@ -9,7 +9,7 @@ A medical device's regulatory life in Japan spans three broad phases: pre-market
 
 ## Phase 1 — Pre-market
 
-**Classify the device.** Every device must be assigned a JMDN code and a risk class (I–IV). The class determines the regulatory pathway. See [How Classification Works](/docs/pre-market/classification/how-classification-works).
+**Classify the device.** Every device must be assigned a JMDN code and a risk class (I–IV). The class determines the regulatory pathway. See [How Classification Works](/pre-market/classification/how-classification-works).
 
 **Determine the pathway.** Based on class and whether an applicable recognised standard exists:
 - Class I → Todokede (notification)

@@ -15,7 +15,7 @@ keywords: [FDA inspection, device inspection, QMSR inspection, PAI, for-cause in
 | **Follow-up** | Previous 483 observations | Corrective actions |
 | **Unannounced** | FDA discretion | Overall compliance |
 
-See [FDA Inspections & Warning Letters](/docs/qms/fda-inspections) in the Quality System section for full detail.
+See [FDA Inspections & Warning Letters](/qms/fda-inspections) in the Quality System section for full detail.
 
 ## Official resources
 - [FDA — Inspections](https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/fda-inspections)

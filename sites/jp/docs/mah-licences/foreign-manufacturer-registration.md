@@ -6,7 +6,7 @@ sidebar_position: 8
 # Foreign Manufacturer Registration (FMR)
 
 :::note
-See also [Foreign Manufacturer Registration](/docs/quality-management/foreign-manufacturer-registration) in the Quality Management section for QMS inspection obligations for registered sites.
+See also [Foreign Manufacturer Registration](/quality-management/foreign-manufacturer-registration) in the Quality Management section for QMS inspection obligations for registered sites.
 :::
 
 ## Overview

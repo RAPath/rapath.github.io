@@ -15,7 +15,7 @@ RDC 752/2022 requires that manufacturers control purchased products and services
 - Conduct **incoming inspection** of purchased materials and components; and
 - Re-evaluate suppliers periodically.
 
-For importers: the foreign manufacturer is the primary "supplier." ANVISA requires importers to audit or otherwise verify foreign manufacturer compliance with GMP requirements (see [GMP for Importers](/docs/gmp/gmp-importers)).
+For importers: the foreign manufacturer is the primary "supplier." ANVISA requires importers to audit or otherwise verify foreign manufacturer compliance with GMP requirements (see [GMP for Importers](/gmp/gmp-importers)).
 
 ---
 

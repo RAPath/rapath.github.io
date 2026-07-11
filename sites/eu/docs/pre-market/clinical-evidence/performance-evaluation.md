@@ -95,7 +95,7 @@ The output is a Performance Evaluation Report (PER) — the IVDR equivalent of t
 
 ### Part B — Post-market performance follow-up (PMPF)
 
-Ongoing collection and analysis of post-market performance data. See [Post-market performance follow-up](/post-market/post-market-surveillance/psur).
+Ongoing collection and analysis of post-market performance data. See [Post-market performance follow-up](/post-market/post-market-surveillance/annual-reports-psur).
 
 ---
 

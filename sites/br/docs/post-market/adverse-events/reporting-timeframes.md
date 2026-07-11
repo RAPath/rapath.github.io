@@ -21,7 +21,7 @@ The clock starts from the date the reporter (manufacturer, importer, distributor
 
 ## Annual report
 
-In addition to individual event reports, registration holders must submit an **annual adverse event summary report** to ANVISA summarising all adverse events and technical complaints in the previous year. See [Annual Report](/docs/post-market/adverse-events/annual-report).
+In addition to individual event reports, registration holders must submit an **annual adverse event summary report** to ANVISA summarising all adverse events and technical complaints in the previous year. See [Annual Report](/post-market/adverse-events/annual-report).
 
 ---
 

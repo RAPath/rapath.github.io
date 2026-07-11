@@ -55,7 +55,7 @@ Responsible for Class I medical device filings and market supervision of distrib
 | Production Supervision Measures (NMPA Order No. 53) | GMP obligations |
 | Operation Supervision Measures (NMPA Order No. 54) | Distribution obligations |
 
-See [Legislation & Regulations](/cn/docs/legislation/mdsar-2021) for the full legislative index.
+See [Legislation & Regulations](/legislation/mdsar-2021) for the full legislative index.
 
 :::note Disclaimer
 Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [NMPA](https://www.nmpa.gov.cn/) sources before making regulatory decisions. Not affiliated with NMPA or any Chinese Government body. Not legal or regulatory advice.

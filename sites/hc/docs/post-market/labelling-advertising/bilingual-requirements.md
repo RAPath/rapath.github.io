@@ -33,7 +33,7 @@ Bilingual labels must be included in the Device Licence application. A submissio
 
 ## Labelling updates
 
-If bilingual labels are updated after licence issuance, assess whether the update requires a Device Licence amendment. See [Amending a Device Licence](/docs/post-market/device-licence-maintenance/amending-device-licence).
+If bilingual labels are updated after licence issuance, assess whether the update requires a Device Licence amendment. See [Amending a Device Licence](/post-market/device-licence-maintenance/amending-device-licence).
 
 > Legislative source: Official Languages Act, RSC 1985, c 31 (4th Supp); Consumer Packaging and Labelling Act, RSC 1985, c C-38; Medical Devices Regulations, SOR/98-282, s 21
 

@@ -40,7 +40,7 @@ Most disinfectants and sterilants for medical devices fall into **Class IIa** or
 
 Always refer to Schedule 2 and current TGA classification guidance to confirm the correct class for your specific product.
 
-👉 [How Classification Works](/docs/pre-market/classification/how-classification-works)
+👉 [How Classification Works](/pre-market/classification/how-classification-works)
 
 ---
 
@@ -96,8 +96,8 @@ The intended purpose stated in labelling and promotional materials determines re
 
 ## Related Pages
 
-- [How Classification Works](/docs/pre-market/classification/how-classification-works)
-- [Essential Principles Overview](/docs/pre-market/essential-principles/overview)
+- [How Classification Works](/pre-market/classification/how-classification-works)
+- [Essential Principles Overview](/pre-market/essential-principles/overview)
 - [Tampons and Menstrual Cups](./tampons-and-menstrual-cups.md)
 
 Excluded Products

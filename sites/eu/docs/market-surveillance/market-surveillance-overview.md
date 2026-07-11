@@ -114,7 +114,7 @@ A device without CE marking generally **cannot be placed on the EU market**, but
 - [Competent authority-initiated actions](/post-market/field-safety-corrective-actions/competent-authority-actions)
 - [What must be reported](/post-market/adverse-event-reporting/what-must-be-reported)
 - [Regulatory framework overview](/start-here/regulatory-framework-overview)
-- [Non-EU & third-country access](/non-eu-access/exporting-to-eu)
+- [Non-EU & third-country access](/non-eu-access/overview)
 
 ---
 

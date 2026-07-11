@@ -37,11 +37,11 @@ Classification is based on:
 
 ## IVDs have a separate classification track
 
-In vitro diagnostics listed in Schedule II follow distinct classification rules based on their risk to individual patients and public health. See [IVD Classification](/docs/pre-market/classification/ivd-classification).
+In vitro diagnostics listed in Schedule II follow distinct classification rules based on their risk to individual patients and public health. See [IVD Classification](/pre-market/classification/ivd-classification).
 
 ## Software and SaMD
 
-Software as a Medical Device (SaMD) is classified using the IMDRF SaMD classification framework, adapted for the Indian context. See [SaMD Classification](/docs/pre-market/classification/samd-classification).
+Software as a Medical Device (SaMD) is classified using the IMDRF SaMD classification framework, adapted for the Indian context. See [SaMD Classification](/pre-market/classification/samd-classification).
 
 **Note on State Licensing Authorities (SLA)**
 Manufacturing licenses for Class A and B devices are issued by State Licensing Authorities designated by individual state governments. Manufacturers must apply through their respective state health department or state drug licensing authority. There is no centralized CDSCO application for Class A and B manufacturing licenses.

@@ -21,7 +21,7 @@ Amendments to strengthen mandatory problem reporting requirements, clarifying wh
 Health Canada has been developing guidance (rather than regulatory amendments) on Software as a Medical Device and AI/ML-based devices, following IMDRF frameworks. Formal regulatory amendments for SaMD-specific requirements are anticipated.
 
 ### UDI framework (anticipated)
-Canada is developing a Unique Device Identification (UDI) framework aligned with IMDRF standards. A regulatory framework is anticipated, though final regulations were still in development as of May 2026. See [UDI Framework](/docs/international/udi-framework).
+Canada is developing a Unique Device Identification (UDI) framework aligned with IMDRF standards. A regulatory framework is anticipated, though final regulations were still in development as of May 2026. See [UDI Framework](/international/udi-framework).
 
 ### MDEL Phase 2 modernization (SOR/2026-110)
 Published 17 June 2026, in force **14 December 2026**. This amendment removes the MDEL requirement for foreign distributors selling via Canadian MDEL-holding importers, and adds a new supplier-list disclosure requirement for MDEL holders.
@@ -31,9 +31,4 @@ Published 17 June 2026, in force **14 December 2026**. This amendment removes th
 To stay informed of regulatory amendments:
 1. Subscribe to **Canada Gazette** email alerts for Part I (proposed) and Part II (final) entries tagged to the Food and Drugs Act
 2. Monitor **Health Canada's medical devices consultation page** for open consultations
-3. Subscribe to the **RAPath CA** What's New section for curated updates — [What's New](/docs/whats-new/recent-regulatory-changes)
-
-:::info Official source
-[Canada Gazette](https://www.canadagazette.gc.ca) | [laws-lois.justice.gc.ca](https://laws-lois.justice.gc.ca/eng/regulations/SOR-98-282/)
-:::
-
+3. Subscribe to 

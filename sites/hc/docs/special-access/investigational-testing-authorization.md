@@ -7,7 +7,7 @@ description: The Investigational Testing Authorization (ITA) process for clinica
 
 The ITA page in this section is a cross-reference. For the full ITA guide, see:
 
-→ **[Investigational Testing Authorization (ITA)](/docs/pre-market/clinical-evidence/investigational-testing-authorization)** — in the Pre-Market → Clinical Evidence section.
+→ **[Investigational Testing Authorization (ITA)](/pre-market/clinical-evidence/investigational-testing-authorization)** — in the Pre-Market → Clinical Evidence section.
 
 ## Quick summary
 

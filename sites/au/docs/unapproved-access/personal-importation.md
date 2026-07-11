@@ -59,8 +59,8 @@ The most important risk for health professionals and others who import devices i
 
 Health professionals who import unapproved devices for use in their practice are frequently unaware that this makes them the sponsor of an unapproved device, which is a serious offence.
 
-👉 [Importers and Distributors](/docs/start-here/importers-and-distributors)
-👉 [Sponsors](/docs/start-here/sponsors)
+👉 [Importers and Distributors](/start-here/importers-and-distributors)
+👉 [Sponsors](/start-here/sponsors)
 
 ---
 
@@ -72,7 +72,7 @@ Importing an unapproved device on behalf of another person — even a family mem
 - **SAS Category A** — for seriously ill patients where no alternative exists
 - **Authorised Prescriber** — for practitioners with recurring clinical need
 
-👉 [Special Access Scheme](/docs/unapproved-access/special-access-scheme)
+👉 [Special Access Scheme](/unapproved-access/special-access-scheme)
 
 ---
 

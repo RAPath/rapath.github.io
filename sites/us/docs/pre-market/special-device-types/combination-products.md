@@ -7,7 +7,7 @@ keywords: [combination products FDA, drug device combination, 21 CFR Part 3, OCP
 
 # Combination Products
 
-See [Combination Products — 21 CFR Part 3](/docs/pre-market/classification/combination-products) for the full overview of the combination product framework.
+See [Combination Products — 21 CFR Part 3](/pre-market/classification/combination-products) for the full overview of the combination product framework.
 
 This page covers practical regulatory requirements for common combination product types.
 

@@ -22,7 +22,7 @@ IVDs are classified into Class I, II, or III using the **IVD Classification Rule
 - Whether the result directly determines treatment decisions
 - Whether there is an established reference method
 
-See [Classification Rules for IVDs](/cn/docs/pre-market/classification/classification-rules-ivds) for full detail.
+See [Classification Rules for IVDs](/pre-market/classification/classification-rules-ivds) for full detail.
 
 ---
 

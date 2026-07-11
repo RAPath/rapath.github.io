@@ -36,7 +36,7 @@ Joint liability means that if the device causes harm, or if regulatory violation
 
 ## Where to go next
 
-For detailed requirements on agent selection, liability insurance, conflict of interest, and enforcement scenarios, Note: Each overseas manufacturer must appoint a separate China Agent; one agent cannot legally represent competing manufacturers of the same device type. see the dedicated [China Agent section](/cn/docs/china-agent/what-is-a-china-agent).
+For detailed requirements on agent selection, liability insurance, conflict of interest, and enforcement scenarios, Note: Each overseas manufacturer must appoint a separate China Agent; one agent cannot legally represent competing manufacturers of the same device type. see the dedicated [China Agent section](/china-agent/what-is-a-china-agent).
 
 :::note Disclaimer
 Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [NMPA](https://www.nmpa.gov.cn/) sources before making regulatory decisions. Not affiliated with NMPA or any Chinese Government body. Not legal or regulatory advice.

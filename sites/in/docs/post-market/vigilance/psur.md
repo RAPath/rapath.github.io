@@ -9,7 +9,7 @@ keywords: [vigilance, India, CDSCO, MDVP, adverse event, PSUR, reporting]
 
 India's Medical Device Vigilance Programme requires timely reporting of adverse events and periodic safety updates via the SUGAM portal.
 
-See [MDVP Overview](/docs/post-market/vigilance/mdvp-overview) for the full framework.
+See [MDVP Overview](/post-market/vigilance/mdvp-overview) for the full framework.
 
 > **Official source:** Medical Devices Rules 2017, Schedule 7; [CDSCO](https://cdsco.gov.in)
 

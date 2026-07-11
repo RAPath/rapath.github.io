@@ -7,7 +7,7 @@ keywords: [IVD FDA, in vitro diagnostic, 510k IVD, IVD classification, CLIA, LDT
 
 # IVD Medical Devices
 
-See [IVD Classification](/docs/pre-market/classification/ivd-classification) for the full classification overview.
+See [IVD Classification](/pre-market/classification/ivd-classification) for the full classification overview.
 
 ## IVD-specific submission considerations
 

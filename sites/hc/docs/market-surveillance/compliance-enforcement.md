@@ -24,7 +24,7 @@ A formal written commitment by the regulated party to take specific corrective a
 Under Section 21 of the FDA, Health Canada may order a person to **stop selling** a device if it presents a risk of injury to health. A stop-sale order is published publicly.
 
 ### 5. Mandatory recall (Section 21.3 order)
-Health Canada may **mandate a recall** if a manufacturer or importer fails to act voluntarily when a safety issue is identified. See [Health Canada-Initiated Recalls](/docs/post-market/recalls-field-safety/health-canada-initiated-recalls).
+Health Canada may **mandate a recall** if a manufacturer or importer fails to act voluntarily when a safety issue is identified. See [Health Canada-Initiated Recalls](/post-market/recalls-field-safety/health-canada-initiated-recalls).
 
 ### 6. Device Licence or MDEL suspension/cancellation
 For serious or persistent non-compliance, Health Canada may suspend or cancel a Device Licence or MDEL.

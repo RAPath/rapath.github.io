@@ -27,7 +27,7 @@ A domestic manufacturer is distinct from the MAH unless both roles are held by t
 
 ## QMS obligations under MO 169
 
-All licensed domestic manufacturers must maintain a quality management system that complies with **Ministerial Ordinance 169** (QMS Ordinance). See [QMS Ordinance Overview](/docs/quality-management/qms-ordinance-overview) for full requirements.
+All licensed domestic manufacturers must maintain a quality management system that complies with **Ministerial Ordinance 169** (QMS Ordinance). See [QMS Ordinance Overview](/quality-management/qms-ordinance-overview) for full requirements.
 
 ## Licence renewal
 

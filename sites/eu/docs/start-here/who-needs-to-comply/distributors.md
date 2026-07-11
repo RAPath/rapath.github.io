@@ -125,8 +125,8 @@ These records must be kept for a period that enables traceability and must be ma
 - [Manufacturers](./manufacturers.md)
 - [Authorised representatives (EU REPs)](./authorised-representatives.md)
 - [Importers](./importers.md)
-- [Labelling requirements](/post-market/labelling-and-advertising/labelling-requirements)
-- [Recalls & field safety](/post-market/recalls-and-field-safety)
+- [Labelling requirements](/post-market/labelling-advertising/labelling-requirements)
+- [Recalls & field safety](/post-market/field-safety-corrective-actions/recalls-classification-coordination)
 
 ---
 

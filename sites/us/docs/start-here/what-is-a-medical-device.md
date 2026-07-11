@@ -59,7 +59,7 @@ Critically, the definition excludes articles that achieve their **primary intend
 - A **drug** achieves its effect chemically or metabolically (e.g., aspirin, antibiotics).
 - A **device** achieves its effect mechanically, electrically, thermally, or through other non-chemical means.
 
-Combination products — articles that combine drug, device, and/or biologic components — are handled under a separate framework (see [Combination Products — 21 CFR Part 3](/docs/pre-market/classification/combination-products)).
+Combination products — articles that combine drug, device, and/or biologic components — are handled under a separate framework (see [Combination Products — 21 CFR Part 3](/pre-market/classification/combination-products)).
 
 ---
 

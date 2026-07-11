@@ -14,7 +14,7 @@ Class I devices present **minimal potential for harm**. They are typically non-i
 
 **Regulatory requirements:**
 - No Device Licence required
-- Importers and distributors must hold an [MDEL](/docs/pre-market/establishment-licence/overview)
+- Importers and distributors must hold an [MDEL](/pre-market/establishment-licence/overview)
 - Must comply with general labelling requirements
 - Must meet Safety and Effectiveness Requirements (Schedule 1) — but no pre-market review by Health Canada
 

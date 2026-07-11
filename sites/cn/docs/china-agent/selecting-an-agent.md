@@ -18,7 +18,7 @@ tags: [china-agent]
 - **NMPA Order No. 47** — registration and filing administration measures
 - NMPA guidance on agent change procedures
 
-See the [China Agent overview](/cn/docs/china-agent/what-is-a-china-agent) for context.
+See the [China Agent overview](/china-agent/what-is-a-china-agent) for context.
 
 :::note Disclaimer
 Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [NMPA](https://www.nmpa.gov.cn/) sources before making regulatory decisions. Not affiliated with NMPA or any Chinese Government body. Not legal or regulatory advice.

@@ -36,7 +36,7 @@ Canada Border Services Agency (CBSA) enforces importation rules at the border. C
 
 ## Relationship to Special Access
 
-If a device is not personally importable and is also not licensed in Canada, the **Special Access Program (SAP)** may be the appropriate route for a healthcare practitioner to obtain the device for a specific patient. See [Special Access Program](/docs/special-access/special-access-program).
+If a device is not personally importable and is also not licensed in Canada, the **Special Access Program (SAP)** may be the appropriate route for a healthcare practitioner to obtain the device for a specific patient. See [Special Access Program](/special-access/special-access-program).
 
 > **Legislative source:** Food and Drugs Act, RSC 1985, c F-27; Health Canada personal importation policy
 

@@ -44,6 +44,6 @@ If a device is reclassified to a **lower class**, manufacturers may benefit from
 
 ## Recent reclassifications
 
-Health Canada publishes proposed and completed reclassification actions in the Canada Gazette and on the Health Canada website. See [Recent Amendments](/docs/legislation/recent-amendments) for the current status of reclassification activities.
+Health Canada publishes proposed and completed reclassification actions in the Canada Gazette and on the Health Canada website. See [Recent Amendments](/legislation/recent-amendments) for the current status of reclassification activities.
 
 > **Legislative source:** Medical Devices Regulations, SOR/98-282, Schedule 2; s 20 (applications to vary classification)

@@ -59,7 +59,7 @@ FDA performs an **acceptance review** within 15 business days of receiving a 510
 
 Since October 2023, all Traditional and Abbreviated 510(k)s must use **eSTAR** (Electronic Submission Template And Resource). eSTAR is an interactive PDF that guides submitters through the required content sections.
 
-See [eSTAR Templates](/docs/guidance/estar-templates) for more detail.
+See [eSTAR Templates](/guidance/estar-templates) for more detail.
 
 ---
 

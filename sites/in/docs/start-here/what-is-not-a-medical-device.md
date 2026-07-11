@@ -31,7 +31,7 @@ Fitness trackers, step counters, and lifestyle apps that make no diagnostic or t
 
 ## Ayurvedic, Siddha, and Unani (AYUSH) products
 
-Traditional AYUSH products are primarily regulated under their own framework. Borderline products with device-like functions may require case-by-case determination. See [AYUSH Borderline Devices](/docs/special-access/ayush-borderline).
+Traditional AYUSH products are primarily regulated under their own framework. Borderline products with device-like functions may require case-by-case determination. See [AYUSH Borderline Devices](/special-access/ayush-borderline).
 
 ## Food products
 

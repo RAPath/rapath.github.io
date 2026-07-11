@@ -14,7 +14,7 @@ tags: [legislation,reference]
 
 ## Overview
 
-See [MDSAR 2021](/cn/docs/legislation/mdsar-2021) for the primary regulation. This page covers the implementing measure or standard listed above, explaining its scope, key requirements, and relationship to MDSAR 2021.
+See [MDSAR 2021](/legislation/mdsar-2021) for the primary regulation. This page covers the implementing measure or standard listed above, explaining its scope, key requirements, and relationship to MDSAR 2021.
 
 ---
 
@@ -35,12 +35,4 @@ NMPA issues orders, announcements, and guidance documents that implement and cla
 - **NMPA Post-Market Surveillance Guidance**: Procedures for manufacturer-led safety monitoring
 - **NMPA Adverse Event Reporting Guideline**: Detailed reporting procedures and timeframes
 - **NMPA Recall Procedure**: Manufacturer notification and implementation requirements
-- **NMPA Announcement No. 52/2026** (effective 1 June 2026) — establishes procedural framework for managing classification-reclassification administrative outcomes
-
-:::note
-Revised GMP for medical devices (released Nov 2025) takes effect 1 November 2026 (not yet in force).
-:::
-
-## Official Source
-All NMPA orders and announcements are published on www.nmpa.gov.cn under the 'Announcements' and 'Guidance Documents' sections.
-
+- **NMPA Announcement No. 52/2026** (effective 1 June 2026) — establishes procedural framework for managing classification-reclassification adminis

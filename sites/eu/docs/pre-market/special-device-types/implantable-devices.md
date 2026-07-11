@@ -150,7 +150,7 @@ Class III active implantable devices. Battery life, hermetic sealing, and long-t
 - [Active medical devices](./active-devices.md)
 - [Devices incorporating a medicinal substance](./devices-incorporating-medicine.md)
 - [UDI labelling requirements](/pre-market/udi-system/udi-labelling-requirements)
-- [PMCF plan and evaluation report](/post-market/post-market-surveillance/pmcf)
+- [PMCF plan and evaluation report](/post-market/post-market-surveillance/pms-requirements)
 
 ---
 

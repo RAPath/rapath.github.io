@@ -124,7 +124,7 @@ This site does not replace official NMPA sources. Every page links back to the a
 
 **Distributors and hospitals** — understand distribution traceability, dealer obligations, and implantable device tracking requirements.
 
-**Anyone new to China medical device regulation** — start with [Start Here](/cn/docs/start-here/what-is-a-medical-device) for a guided introduction to the framework.
+**Anyone new to China medical device regulation** — start with [Start Here](/start-here/what-is-a-medical-device) for a guided introduction to the framework.
 
 ---
 
@@ -134,18 +134,18 @@ The site is structured around the regulatory lifecycle of a medical device in Ch
 
 | Section | What it covers |
 |---|---|
-| [Start Here](/cn/docs/start-here/what-is-a-medical-device) | Definitions, three-tier authority structure, China Agent introduction, lifecycle, glossary |
-| [Pre-Market](/cn/docs/pre-market/classification/how-classification-works) | Classification (Class I–III, IVD), registration vs filing, CMDE review, clinical evidence, special device types |
-| [Post-Market](/cn/docs/post-market/overview) | Adverse event reporting, annual reports, PMS, recalls, labelling, re-registration |
-| [Quality System (GMP/QMS)](/cn/docs/qms/overview) | MDSAR 2021 GMP, YY/T 0287 (ISO 13485 equivalent), design controls, CAPA, NMPA inspections |
-| [China Agent (代理人)](/cn/docs/china-agent/what-is-a-china-agent) | Mandatory agent role for imported devices — obligations, selection, liability, comparison with other frameworks |
-| [UDI](/cn/docs/udi/udi-overview) | China UDI system, NMPA UDI database (UDID), encoding rules, phased implementation timeline |
-| [Legislation & Regulations](/cn/docs/legislation/mdsar-2021) | MDSAR 2021, NMPA implementing measures, YY/T standards, key announcements |
-| [Guidance Documents](/cn/docs/guidance/by-topic) | NMPA and CMDE technical guidance indexed by topic |
-| [International & Comparison](/cn/docs/international/overview) | IMDRF alignment, China vs FDA/EU/TGA/HSA, multi-market strategy |
-| [Digital Health & SaMD](/cn/docs/digital-health/framework) | SaMD classification, AI/ML NMPA policy, cybersecurity |
-| [Special Access](/cn/docs/special-access/priority-review) | Priority review, innovative device designation, emergency use, Hainan FTP pilot |
-| [Enforcement & Compliance](/cn/docs/enforcement/inspections) | NMPA inspections, penalties, market surveillance, blacklist |
+| [Start Here](/start-here/what-is-a-medical-device) | Definitions, three-tier authority structure, China Agent introduction, lifecycle, glossary |
+| [Pre-Market](/pre-market/classification/how-classification-works) | Classification (Class I–III, IVD), registration vs filing, CMDE review, clinical evidence, special device types |
+| [Post-Market](/post-market/overview) | Adverse event reporting, annual reports, PMS, recalls, labelling, re-registration |
+| [Quality System (GMP/QMS)](/qms/overview) | MDSAR 2021 GMP, YY/T 0287 (ISO 13485 equivalent), design controls, CAPA, NMPA inspections |
+| [China Agent (代理人)](/china-agent/what-is-a-china-agent) | Mandatory agent role for imported devices — obligations, selection, liability, comparison with other frameworks |
+| [UDI](/udi/udi-overview) | China UDI system, NMPA UDI database (UDID), encoding rules, phased implementation timeline |
+| [Legislation & Regulations](/legislation/mdsar-2021) | MDSAR 2021, NMPA implementing measures, YY/T standards, key announcements |
+| [Guidance Documents](/guidance/by-topic) | NMPA and CMDE technical guidance indexed by topic |
+| [International & Comparison](/international/overview) | IMDRF alignment, China vs FDA/EU/TGA/HSA, multi-market strategy |
+| [Digital Health & SaMD](/digital-health/framework) | SaMD classification, AI/ML NMPA policy, cybersecurity |
+| [Special Access](/special-access/priority-review) | Priority review, innovative device designation, emergency use, Hainan FTP pilot |
+| [Enforcement & Compliance](/enforcement/inspections) | NMPA inspections, penalties, market surveillance, blacklist |
 | [What's New](https://rapath.org/whats-new) | Recent regulatory changes, draft guidance, upcoming deadlines |
 
 ---

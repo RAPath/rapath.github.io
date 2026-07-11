@@ -26,7 +26,7 @@ IVDs are classified into **four risk-based classes**:
 | Class III | Medium-high | Registro |
 | Class IV | High | Registro (highest scrutiny) |
 
-See [IVD Classification](/docs/pre-market/classification/ivd-classification) for full details.
+See [IVD Classification](/pre-market/classification/ivd-classification) for full details.
 
 ---
 

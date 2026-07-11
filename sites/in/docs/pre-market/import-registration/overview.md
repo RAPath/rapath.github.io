@@ -40,5 +40,5 @@ For Form MD-14 (Class B/C/D):
 
 ## New devices vs already-approved devices
 
-A simplified pathway exists for devices that are already approved by a major reference regulatory authority (US FDA, EU CE, TGA, Health Canada, or PMDA Japan). Such devices may be eligible for expedited review and reduced clinical data requirements. See [New Device vs Already-Approved Device Routes](/docs/pre-market/import-registration/new-device-vs-approved).
+A simplified pathway exists for devices that are already approved by a major reference regulatory authority (US FDA, EU CE, TGA, Health Canada, or PMDA Japan). Such devices may be eligible for expedited review and reduced clinical data requirements. See [New Device vs Already-Approved Device Routes](/pre-market/import-registration/new-device-vs-approved).
 

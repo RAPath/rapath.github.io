@@ -7,7 +7,7 @@ keywords: [Form MD-14, import licence, India, CDSCO, Class B C D, SUGAM]
 
 # Import Licence — Class B/C/D (Form MD-14)
 
-See [Form MD-14 — Import Licence](/docs/pre-market/import-registration/form-md-14) for the full guide.
+See [Form MD-14 — Import Licence](/pre-market/import-registration/form-md-14) for the full guide.
 
 This section is the landing page for the Import, Export & SUGAM section. The complete process — including FSC, CoC, IAR appointment, and SUGAM submission steps — is covered in the Pre-Market section.
 

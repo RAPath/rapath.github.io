@@ -9,7 +9,7 @@ keywords: [IDE pathway, investigational device exemption, IDE application, signi
 
 The Investigational Device Exemption (IDE) pathway enables the clinical investigation of medical devices that have not yet been cleared or approved by FDA. It is governed by 21 CFR Part 812 and FD&C Act § 520(g).
 
-For a comprehensive guide to IDE requirements and procedures, see the [detailed IDE overview](/docs/pre-market/clinical-evidence/ide).
+For a comprehensive guide to IDE requirements and procedures, see the [detailed IDE overview](/pre-market/clinical-evidence/ide).
 
 ---
 

@@ -24,13 +24,13 @@ The China Agent:
 - Bears joint liability with the overseas manufacturer for product quality
 - Is the NMPA contact for post-market obligations (adverse event reporting, recalls)
 
-For a full description of the China Agent role, see [China Agent](/cn/docs/china-agent/what-is-a-china-agent).
+For a full description of the China Agent role, see [China Agent](/china-agent/what-is-a-china-agent).
 
 ---
 
 ## Key dossier elements for imported devices
 
-In addition to the standard dossier (see [Dossier Requirements](/cn/docs/pre-market/registration/dossier-requirements)), imported device applications must include:
+In addition to the standard dossier (see [Dossier Requirements](/pre-market/registration/dossier-requirements)), imported device applications must include:
 
 - Overseas manufacturer proof of legal status — business registration, Certificate of Free Sale or equivalent from the country of origin
 - China Agent authorisation letter — an original (or notarised copy, if a copy is submitted) signed by an authorised representative of the overseas manufacturer, clearly authorising the named China Agent to submit the registration application and act on the manufacturer's behalf for all regulatory communications and post-market obligations. NMPA may require certification of the signature by a notary public or the overseas manufacturer's embassy/consulate if authenticity cannot be readily verified.

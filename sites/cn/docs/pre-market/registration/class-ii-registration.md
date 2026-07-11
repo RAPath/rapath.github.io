@@ -14,14 +14,14 @@ Class II medical devices — those presenting moderate risk — must be register
 
 ## Registration dossier
 
-The Class II dossier (申报资料) includes all items required for Class III (see [Dossier Requirements](/cn/docs/pre-market/registration/dossier-requirements)), scaled to the risk level of the device:
+The Class II dossier (申报资料) includes all items required for Class III (see [Dossier Requirements](/pre-market/registration/dossier-requirements)), scaled to the risk level of the device:
 
 - Product overview and description
 - Research and development documentation
 - Production process documentation
 - Product technical requirements
 - Testing reports (performance, biocompatibility, sterility as applicable)
-- Clinical evaluation (trial, literature, or exemption — see [Clinical Evidence](/cn/docs/pre-market/clinical/clinical-evaluation-overview))
+- Clinical evaluation (trial, literature, or exemption — see [Clinical Evidence](/pre-market/clinical/clinical-evaluation-overview))
 - Risk management summary
 - Labels and IFU drafts
 - QMS documentation summary

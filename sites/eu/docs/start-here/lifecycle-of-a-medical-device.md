@@ -209,7 +209,7 @@ Initial clinical/performance evaluation
 - [Transitional provisions & timelines](./transitional-provisions.md)
 - [Pre-market overview](/pre-market)
 - [Post-market overview](/post-market)
-- [Clinical evaluation](/pre-market/clinical-evidence/clinical-evaluation)
+- [Clinical evaluation](/pre-market/clinical-evidence/clinical-evaluation-overview)
 - [Performance evaluation](/pre-market/clinical-evidence/performance-evaluation)
 - [Post-market surveillance](/post-market/post-market-surveillance)
 

@@ -54,6 +54,6 @@ IVDs intended for use outside a professional laboratory — including point-of-c
 
 ## Companion diagnostics (CDx)
 
-A companion diagnostic — an IVD that is essential for the safe and effective use of a specific therapeutic product — may require coordinated review with the associated drug or biologic. See [Combination Products](/docs/pre-market/special-device-types/combination-products).
+A companion diagnostic — an IVD that is essential for the safe and effective use of a specific therapeutic product — may require coordinated review with the associated drug or biologic. See [Combination Products](/pre-market/special-device-types/combination-products).
 
 > Legislative source: Medical Devices Regulations, SOR/98-282, Schedule 2, Rules for IVD devices; s 2 (definition of "in vitro diagnostic device")

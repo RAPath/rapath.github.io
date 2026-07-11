@@ -22,7 +22,7 @@ The **ICMED (India Certification for Medical Devices)** scheme is India's indige
 
 ## Quality system elements
 
-See [Core GMP Requirements (Schedule 5)](/docs/qms/schedule-5-gmp/management-responsibility) for detailed page-by-page coverage of each QMS element.
+See [Core GMP Requirements (Schedule 5)](/qms/schedule-5-gmp/management-responsibility) for detailed page-by-page coverage of each QMS element.
 
 ## Inspections
 

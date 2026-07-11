@@ -12,7 +12,7 @@ Post-market clinical follow-up (PMCF) in the Japan context refers to the collect
 1. **As a condition on a Shonin approval** — MHLW attaches specific post-market study conditions to approvals for novel or high-risk devices
 2. **As part of the GPSP re-examination programme** — the use-results survey is Japan's primary PMCF mechanism
 3. **When safety signals emerge** — new signals identified during routine surveillance may trigger additional focused data collection
-4. **For conditional and time-limited approvals** — these always have defined post-market evidence requirements (see [Conditional and Time-Limited Approval](/docs/pre-market/approval-shonin/conditional-time-limited-approval))
+4. **For conditional and time-limited approvals** — these always have defined post-market evidence requirements (see [Conditional and Time-Limited Approval](/pre-market/approval-shonin/conditional-time-limited-approval))
 
 ## PMCF studies in Japan — GPSP vs clinical study
 

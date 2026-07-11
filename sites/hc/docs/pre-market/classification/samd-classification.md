@@ -13,7 +13,7 @@ Software is a medical device if it meets the definition in the Food and Drugs Ac
 - Has a medical **intended use**
 - Achieves that purpose **without being part of a hardware medical device**
 
-See [Software as a Medical Device (SaMD)](/docs/pre-market/special-device-types/software-samd) for the full definition and examples.
+See [Software as a Medical Device (SaMD)](/pre-market/special-device-types/software-samd) for the full definition and examples.
 
 ## IMDRF SaMD classification framework
 
@@ -51,7 +51,7 @@ Health Canada follows the **IMDRF SaMD classification framework**, which conside
 
 ## Software updates and classification
 
-When software is updated, manufacturers must consider whether the update changes the device's classification or requires a Device Licence amendment. See [Amending a Device Licence](/docs/post-market/device-licence-maintenance/amending-device-licence).
+When software is updated, manufacturers must consider whether the update changes the device's classification or requires a Device Licence amendment. See [Amending a Device Licence](/post-market/device-licence-maintenance/amending-device-licence).
 
 > **Legislative source:** Medical Devices Regulations, SOR/98-282, Schedule 2; IMDRF SaMD Classification guidance N12FINAL:2014
 

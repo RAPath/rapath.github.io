@@ -18,7 +18,7 @@ The SAKIGAKE Designation System (先駆け審査指定制度 — Breakthrough De
 
 ### Conditional and time-limited approval — expanded
 
-The conditional approval and time-limited approval mechanisms — which existed informally for regenerative medicine products — were formalised and expanded to medical devices through the 2019 amendments. See [Conditional and Time-Limited Approval](/docs/pre-market/approval-shonin/conditional-time-limited-approval).
+The conditional approval and time-limited approval mechanisms — which existed informally for regenerative medicine products — were formalised and expanded to medical devices through the 2019 amendments. See [Conditional and Time-Limited Approval](/pre-market/approval-shonin/conditional-time-limited-approval).
 
 ### Programme Medical Devices — further clarification
 

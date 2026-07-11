@@ -57,10 +57,10 @@ The regulatory landscape for vaping goods has changed significantly in recent ye
 
 If you are looking for information on accessing **medical devices** that are not included in the ARTG, the relevant pathways are covered in the Unapproved Device Access section of this site:
 
-- [Special Access Scheme (SAS) for medical devices](/docs/unapproved-access/special-access-scheme)
-- [Authorised Prescribers for medical devices](/docs/unapproved-access/authorised-prescribers)
-- [Clinical Trial Pathways for medical devices](/docs/unapproved-access/clinical-trial-pathways)
-- [Personal Importation of medical devices](/docs/unapproved-access/personal-importation)
+- [Special Access Scheme (SAS) for medical devices](/unapproved-access/special-access-scheme)
+- [Authorised Prescribers for medical devices](/unapproved-access/authorised-prescribers)
+- [Clinical Trial Pathways for medical devices](/unapproved-access/clinical-trial-pathways)
+- [Personal Importation of medical devices](/unapproved-access/personal-importation)
 
 ---
 

@@ -15,7 +15,7 @@ Software qualifies as a SaMD if it meets both of the following criteria:
 General wellness apps, administrative software, and software with no medical claims are not SaMDs.
 
 ## Classification
-See [Software & SaMD Classification](/docs/pre-market/classification/samd-classification) for the IMDRF-based classification framework Health Canada applies.
+See [Software & SaMD Classification](/pre-market/classification/samd-classification) for the IMDRF-based classification framework Health Canada applies.
 
 ## Key standards
 
@@ -42,7 +42,7 @@ AI/ML SaMD presents unique challenges due to adaptive algorithms. Health Canada 
 - Continuous performance monitoring
 
 ## Software updates
-Not all software updates require a Device Licence amendment. See [Amending a Device Licence](/docs/post-market/device-licence-maintenance/amending-device-licence) for criteria.
+Not all software updates require a Device Licence amendment. See [Amending a Device Licence](/post-market/device-licence-maintenance/amending-device-licence) for criteria.
 
 > Legislative source: Medical Devices Regulations, SOR/98-282; IMDRF SaMD guidance documents
 

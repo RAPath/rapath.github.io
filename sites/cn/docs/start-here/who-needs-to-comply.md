@@ -30,19 +30,19 @@ Overseas manufacturers wishing to supply their devices in China must:
 - Co-operate with NMPA overseas inspections
 - Ensure their quality system is compliant (NMPA accepts ISO 13485 for importers)
 
-The China Agent acts as the legal representative in China and bears **joint liability** for product quality. See [China Agent](/cn/docs/china-agent/what-is-a-china-agent).
+The China Agent acts as the legal representative in China and bears **joint liability** for product quality. See [China Agent](/china-agent/what-is-a-china-agent).
 
 ---
 
 ## China Agents (代理人)
 
-See the dedicated [China Agent section](/cn/docs/china-agent/what-is-a-china-agent) for full obligations.
+See the dedicated [China Agent section](/china-agent/what-is-a-china-agent) for full obligations.
 
 ---
 
 ## Distributors (经营企业)
 
-Distributors of Class II and Class III devices must hold a **Medical Device Business Licence**. All distributors must maintain traceability records, conduct incoming inspection, and co-operate with NMPA market surveillance. See [Operation Supervision Measures](/cn/docs/legislation/operation-supervision-measures).
+Distributors of Class II and Class III devices must hold a **Medical Device Business Licence**. All distributors must maintain traceability records, conduct incoming inspection, and co-operate with NMPA market surveillance. See [Operation Supervision Measures](/legislation/operation-supervision-measures).
 
 ---
 

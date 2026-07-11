@@ -5,7 +5,7 @@ description: A practical guide to preparing for and getting the most out of a He
 ---
 # Pre-Submission Meeting (PSM) — Practical Guide
 
-This guide supplements the [formal PSM page](/docs/pre-market/device-licence-application/pre-submission-meetings) with practical advice on preparing for a successful meeting.
+This guide supplements the [formal PSM page](/pre-market/device-licence-application/pre-submission-meetings) with practical advice on preparing for a successful meeting.
 
 ## Before requesting a PSM
 

@@ -20,5 +20,5 @@ India is a member of the **IMDRF (International Medical Device Regulators Forum)
 | **Singapore** | HSA | Class A–D | HSA product registration |
 | **Canada** | Health Canada | Class I–IV | Medical Device Licence |
 
-See [India vs TGA · CE · FDA · HSA · Health Canada](/docs/international/india-vs-global) for a detailed comparison.
+See [India vs TGA · CE · FDA · HSA · Health Canada](/international/india-vs-global) for a detailed comparison.
 

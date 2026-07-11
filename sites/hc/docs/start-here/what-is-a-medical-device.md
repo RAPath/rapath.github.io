@@ -47,11 +47,11 @@ Manufacturers cannot escape regulation by omitting medical claims from labelling
 
 ## Combination products
 
-Some products combine a drug component and a device component — for example, a drug-eluting stent, a pre-filled syringe, or a transdermal drug delivery patch. Health Canada determines which regulatory pathway applies based on the **primary mode of action**. See [Combination Products (Drug-Device)](/docs/pre-market/special-device-types/combination-products) for more detail.
+Some products combine a drug component and a device component — for example, a drug-eluting stent, a pre-filled syringe, or a transdermal drug delivery patch. Health Canada determines which regulatory pathway applies based on the **primary mode of action**. See [Combination Products (Drug-Device)](/pre-market/special-device-types/combination-products) for more detail.
 
 ## Software
 
-Software that meets the definition of a medical device — by performing a medical purpose through its own output — is regulated as a medical device. See [Software as a Medical Device (SaMD)](/docs/pre-market/special-device-types/software-samd) for Health Canada's approach.
+Software that meets the definition of a medical device — by performing a medical purpose through its own output — is regulated as a medical device. See [Software as a Medical Device (SaMD)](/pre-market/special-device-types/software-samd) for Health Canada's approach.
 
 ## Animals
 

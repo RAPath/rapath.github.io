@@ -35,13 +35,13 @@ This is the foundational definition. If a product meets this definition, it is s
 
 ## Products at the boundary
 
-Several product categories sit at the boundary between medical devices and other regulated products (drugs, cosmetics, health foods). See [Borderline and Combination Products](/cn/docs/pre-market/classification/borderline-products) for how NMPA resolves these cases.
+Several product categories sit at the boundary between medical devices and other regulated products (drugs, cosmetics, health foods). See [Borderline and Combination Products](/pre-market/classification/borderline-products) for how NMPA resolves these cases.
 
 ---
 
 ## Next step
 
-Once you have confirmed a product is a medical device, the next question is its classification. See [How Classification Works](/cn/docs/pre-market/classification/how-classification-works).
+Once you have confirmed a product is a medical device, the next question is its classification. See [How Classification Works](/pre-market/classification/how-classification-works).
 
 :::tip Official Sources
 - NMPA — [www.nmpa.gov.cn](https://www.nmpa.gov.cn/)

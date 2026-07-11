@@ -21,7 +21,7 @@ Single-use designation is a safety-critical labelling element. It informs:
 - Inspectors and auditors whether a device has been reprocessed inappropriately
 
 ## Reprocessing of single-use devices
-Some hospitals and third-party reprocessors reprocess and reuse SUDs to reduce costs. In Canada, reprocessing of SUDs is a regulated activity. See [Reprocessed Single-Use Devices](/docs/pre-market/special-device-types/reprocessed-single-use-devices) for Health Canada's requirements for reprocessors.
+Some hospitals and third-party reprocessors reprocess and reuse SUDs to reduce costs. In Canada, reprocessing of SUDs is a regulated activity. See [Reprocessed Single-Use Devices](/pre-market/special-device-types/reprocessed-single-use-devices) for Health Canada's requirements for reprocessors.
 
 ## Device Licence implications
 The single-use designation is part of the device's intended use as licensed by Health Canada. If a manufacturer adds a single-use claim to a previously multi-use device (or vice versa), a Device Licence amendment is required.

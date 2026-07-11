@@ -16,7 +16,7 @@ FDA published its Artificial Intelligence/Machine Learning (AI/ML)-Based Softwar
 ## The five action areas
 
 ### 1. Tailored regulatory framework for AI/ML-based SaMD
-FDA committed to developing a risk-based framework specifically for AI/ML SaMD. The core challenge: AI/ML algorithms can adapt and change after deployment ("adaptive AI") in ways that traditional static software does not. FDA's response has been the Predetermined Change Control Plan (PCCP) framework (see [PCCP guidance](/docs/digital-health/pccp)).
+FDA committed to developing a risk-based framework specifically for AI/ML SaMD. The core challenge: AI/ML algorithms can adapt and change after deployment ("adaptive AI") in ways that traditional static software does not. FDA's response has been the Predetermined Change Control Plan (PCCP) framework (see [PCCP guidance](/digital-health/pccp)).
 
 ### 2. Good Machine Learning Practice (GMLP)
 FDA (with Health Canada and MHRA) published 10 Guiding Principles for GMLP in 2021. These principles address:

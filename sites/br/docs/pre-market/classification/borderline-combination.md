@@ -7,7 +7,7 @@ keywords: [ANVISA, Brazil, medical device]
 
 # Borderline & Combination Products
 
-See also [Borderline & Combination Products](/docs/start-here/borderline-products) for the *consulta de enquadramento* process.
+See also [Borderline & Combination Products](/start-here/borderline-products) for the *consulta de enquadramento* process.
 
 The presence of a pharmacological component typically elevates the device class:
 - Device with medicinal substance as **principal action** → drug typically regulated as a (may be co-regulated by ANVISA's GGMED depending on the combination's characteristics)

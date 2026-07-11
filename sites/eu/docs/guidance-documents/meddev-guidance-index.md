@@ -91,7 +91,7 @@ Key forms and application portals for EU medical device regulation:
 
 - [MDCG guidance by topic](./mdcg-guidance.md)
 - [Guidance by device class](./guidance-by-device-class.md)
-- [Notified bodies — NANDO database](/notified-bodies/nando-database)
+- [Notified bodies — NANDO database](/notified-bodies/how-to-choose-nb)
 - [How to read EU legislation](/legislation/how-to-read-eu-legislation)
 
 Access them at: https://health.ec.europa.eu/medical-devices-sector/new-regulations/mdcg-endorsed-documents-and-other-guidance-and-documents_en (select "MEDDEV guidance" tab).

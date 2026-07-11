@@ -38,7 +38,7 @@ If your device does not clearly fit an existing entry, seek a **classification d
 
 - **Intended use** is the primary driver. A product classified as Class I for one intended use may be Class III for another.
 - **Technology risk** matters — active, implantable, and sterile devices are generally classified higher.
-- **Combination products** may be classified as a device or drug depending on primary mode of action. See [Combination Products](/cn/docs/pre-market/special-types/combination-products).
+- **Combination products** may be classified as a device or drug depending on primary mode of action. See [Combination Products](/pre-market/special-types/combination-products).
 
 ---
 

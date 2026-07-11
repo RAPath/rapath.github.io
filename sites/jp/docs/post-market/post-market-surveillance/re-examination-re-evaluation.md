@@ -6,7 +6,7 @@ sidebar_position: 2
 # Re-examination and Re-evaluation Obligations
 
 :::note
-See also [Re-examination System](/docs/pre-market/approval-shonin/re-examination-system) for context on the re-examination period and the application process from the pre-market approval perspective.
+See also [Re-examination System](/pre-market/approval-shonin/re-examination-system) for context on the re-examination period and the application process from the pre-market approval perspective.
 :::
 
 ## Post-approval surveillance period obligations

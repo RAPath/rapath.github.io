@@ -36,7 +36,7 @@ A product that starts as a wellness product may become a medical device if the m
 
 ## Radiation emitting devices
 
-Some devices that emit radiation are regulated under the **Radiation Emitting Devices Act (REDA)** rather than (or in addition to) the Medical Devices Regulations. See [Radiation Emitting Devices Act](/docs/legislation/related-legislation/radiation-emitting-devices-act).
+Some devices that emit radiation are regulated under the **Radiation Emitting Devices Act (REDA)** rather than (or in addition to) the Medical Devices Regulations. See [Radiation Emitting Devices Act](/legislation/related-legislation/radiation-emitting-devices-act).
 
 ## Borderline products
 
@@ -44,8 +44,8 @@ Health Canada acknowledges that the line between medical devices and other produ
 
 Common borderline areas:
 
-- **Software**: only software with a medical intended use is a medical device — see [Is Your Software a Medical Device?](/docs/pre-market/special-device-types/software-samd)
-- **Drug-device combinations**: the primary mode of action determines regulatory category — see [Combination Products](/docs/pre-market/special-device-types/combination-products)
+- **Software**: only software with a medical intended use is a medical device — see [Is Your Software a Medical Device?](/pre-market/special-device-types/software-samd)
+- **Drug-device combinations**: the primary mode of action determines regulatory category — see [Combination Products](/pre-market/special-device-types/combination-products)
 - **Aesthetic devices**: devices used for non-medical aesthetic purposes (e.g. cosmetic lasers) may or may not be regulated as medical devices depending on their claims and risks
 
 ## Key principle

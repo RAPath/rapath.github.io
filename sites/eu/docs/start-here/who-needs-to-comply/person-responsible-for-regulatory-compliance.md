@@ -137,7 +137,7 @@ The PRRC's name and contact information must be available to the competent autho
 - [Who needs to comply?](../who-needs-to-comply.md)
 - [Manufacturers](./manufacturers.md)
 - [Authorised representatives (EU REPs)](./authorised-representatives.md)
-- [Quality Management System](/pre-market/conformity-assessment/qms)
+- [Quality Management System](/pre-market/conformity-assessment/annex-ix-qms-tech-doc)
 - [Post-market surveillance](/post-market/post-market-surveillance)
 
 ---

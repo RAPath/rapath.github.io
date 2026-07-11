@@ -47,7 +47,7 @@ When more than one classification rule applies to a device, the device is classi
 1. **Identify the intended use** — what the device does and in what context
 2. **Apply the Schedule 2 classification rules** — work through each applicable rule
 3. **Identify the highest applicable class**
-4. **Apply IVD rules if applicable** — IVDs are classified under separate rules (see [IVD Classification Rules](/docs/pre-market/classification/ivd-classification-rules))
+4. **Apply IVD rules if applicable** — IVDs are classified under separate rules (see [IVD Classification Rules](/pre-market/classification/ivd-classification-rules))
 5. **Consider whether your device is a special type** — e.g., combination product, radiation-emitting device, custom-made
 
 ## Seeking a classification ruling

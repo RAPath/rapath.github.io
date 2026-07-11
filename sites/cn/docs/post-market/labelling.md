@@ -22,7 +22,7 @@ tags: [post-market]
 
 ## Key requirements
 
-Labelling requirements are set out in MDSAR 2021 Articles 59-62 and the Technical Guidance for Medical Device Labelling. See [Legislation & Regulations](/cn/docs/legislation/mdsar-2021) for the full legislative index.
+Labelling requirements are set out in MDSAR 2021 Articles 59-62 and the Technical Guidance for Medical Device Labelling. See [Legislation & Regulations](/legislation/mdsar-2021) for the full legislative index.
 
 :::tip Official Sources
 - **NMPA** — [www.nmpa.gov.cn](https://www.nmpa.gov.cn/)

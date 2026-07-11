@@ -32,5 +32,5 @@ This produces a risk score of I (lowest) to IV (highest), which maps to India's 
 
 Higher-risk SaMD (Classes C and D) requires CDSCO import licence (Form MD-14) or CDSCO manufacturing licence, with clinical evaluation evidence of the software's performance.
 
-CDSCO is developing specific SaMD guidance aligned with the IMDRF framework. See [Digital Health & SaMD](/docs/digital-health/samd) for current status.
+CDSCO is developing specific SaMD guidance aligned with the IMDRF framework. See [Digital Health & SaMD](/digital-health/samd) for current status.
 

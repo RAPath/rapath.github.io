@@ -52,7 +52,7 @@ NMPA Order No. 47 and associated guidance specify which category applies to each
 
 ## Re-registration (重新注册)
 
-A re-registration application must be submitted **at least 6 months before the certificate expiry date**. If the re-registration is not submitted or not approved before expiry, the certificate lapses and the device may no longer be legally sold. See [Re-registration](/cn/docs/post-market/re-registration).
+A re-registration application must be submitted **at least 6 months before the certificate expiry date**. If the re-registration is not submitted or not approved before expiry, the certificate lapses and the device may no longer be legally sold. See [Re-registration](/post-market/re-registration).
 
 :::note Disclaimer
 Content on this site is written with AI assistance and is intended as a navigation aid only. Always verify against official [NMPA](https://www.nmpa.gov.cn/) sources before making regulatory decisions. Not affiliated with NMPA or any Chinese Government body. Not legal or regulatory advice.

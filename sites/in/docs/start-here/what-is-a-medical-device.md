@@ -52,7 +52,7 @@ The same physical article may or may not be a device depending on the claims mad
 
 A key feature of the Indian framework is that not all articles meeting the statutory definition are currently regulated as medical devices. CDSCO regulates devices that have been **notified** under **Schedule I** (medical devices) and **Schedule II** (IVDs) of the Medical Devices Rules 2017, with additional categories added through successive gazette notifications.
 
-If a device type has not yet been notified, it is not subject to MDR 2017 licensing requirements — though this scope is expanding. See [Notified Device Categories](/docs/pre-market/classification/schedule-i-ii-notified) for the current list.
+If a device type has not yet been notified, it is not subject to MDR 2017 licensing requirements — though this scope is expanding. See [Notified Device Categories](/pre-market/classification/schedule-i-ii-notified) for the current list.
 
 ---
 
@@ -65,7 +65,7 @@ Articles that are **not** medical devices under MDR 2017 include:
 - General wellness products without diagnostic or therapeutic claims;
 - Human blood and blood products.
 
-See [What is Not a Medical Device?](/docs/start-here/what-is-not-a-medical-device) for a detailed breakdown.
+See [What is Not a Medical Device?](/start-here/what-is-not-a-medical-device) for a detailed breakdown.
 
 :::warning Disclaimer
 Always verify the current notified device schedule at [CDSCO](https://cdsco.gov.in). The scope of regulated devices in India is expanding.

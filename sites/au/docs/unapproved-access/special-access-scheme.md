@@ -85,7 +85,7 @@ Adverse events involving devices accessed under SAS must still be reported to th
 - The prescribing health practitioner
 - The sponsor or supplier where one exists
 
-👉 [Adverse event reporting](/docs/post-market/adverse-event-reporting/what-must-be-reported)
+👉 [Adverse event reporting](/post-market/adverse-event-reporting/what-must-be-reported)
 
 ---
 

@@ -40,6 +40,6 @@ High-risk devices (Class III and IV) and devices subject to safety signals recei
 
 ## Consequences of non-compliance
 
-Health Canada has a range of enforcement tools — see [Compliance & Enforcement](/docs/market-surveillance/compliance-enforcement).
+Health Canada has a range of enforcement tools — see [Compliance & Enforcement](/market-surveillance/compliance-enforcement).
 
 > **Legislative source:** Food and Drugs Act, RSC 1985, c F-27, ss 22–23 (inspection powers); Medical Devices Regulations, SOR/98-282

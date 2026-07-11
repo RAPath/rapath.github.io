@@ -59,7 +59,7 @@ Retailers who sell medical devices directly to end users (e.g. pharmacies, medic
 
 Hospitals and other healthcare institutions that use medical devices are generally **not** required to hold an MDEL or Device Licence. However, they may have obligations as users including:
 - Reporting serious incidents to manufacturers (and optionally to Health Canada via MedEffect)
-- Reprocessing single-use devices (specific guidance applies — see [Reprocessed Single-Use Devices](/docs/pre-market/special-device-types/reprocessed-single-use-devices))
+- Reprocessing single-use devices (specific guidance applies — see [Reprocessed Single-Use Devices](/pre-market/special-device-types/reprocessed-single-use-devices))
 
 ## Consultants and regulatory affairs professionals
 

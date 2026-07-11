@@ -9,7 +9,7 @@ keywords: [ANVISA, Brazil, medical device]
 
 The complaint handling system is both a GMP requirement (RDC 752/2022) and a post-market surveillance requirement (RDC 751/2022 and RDC 753/2022). All complaints received from any source must be documented, investigated, and evaluated.
 
-**Interface with NOTIVISA:** When a complaint investigation reveals that the complaint meets the criteria for an adverse event or technical complaint under RDC 753/2022, it must be reported via **NOTIVISA** within the applicable timeframe (7 or 30 calendar days — see [Reporting Timeframes](/docs/post-market/adverse-events/reporting-timeframes)).
+**Interface with NOTIVISA:** When a complaint investigation reveals that the complaint meets the criteria for an adverse event or technical complaint under RDC 753/2022, it must be reported via **NOTIVISA** within the applicable timeframe (7 or 30 calendar days — see [Reporting Timeframes](/post-market/adverse-events/reporting-timeframes)).
 
 A summary of complaints and their outcomes must be included in the annual PMS report.
 
