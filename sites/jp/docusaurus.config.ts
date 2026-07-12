@@ -6,10 +6,10 @@ export default buildSiteConfig({
   sidebarId: 'regulationSidebar',
   sections: [
     { label: 'Start Here', to: '/start-here/what-is-a-medical-device' },
-    { label: 'Pre-Market', to: '/pre-market/classification' },
-    { label: 'Post-Market', to: '/post-market/overview' },
-    { label: 'MAH & Licences', to: '/mah-licences/overview' },
-    { label: 'Legislation', to: '/legislation/pmd-act' },
+    { label: 'Pre-Market', to: '/pre-market/classification/how-classification-works' },
+    { label: 'Post-Market', to: '/post-market' },
+    { label: 'MAH & Licences', to: '/mah-licences' },
+    { label: 'Legislation', to: '/legislation/pmd-act-key-articles' },
     { label: "What's New", href: 'https://rapath.org/whats-new' },
   ],
   officialSources: [

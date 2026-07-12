@@ -43,7 +43,7 @@ This page tracks significant recent changes to Mexico's medical device regulator
 
 ## Related pages
 
-- [NOMs overview](noms-overview)
+- [NOMs overview](noms-overview.md)
 - [Low-risk devices — Annexes 1–3](../device-classification/low-risk-devices-annexes.md)
 - [Equivalency Route](../premarket/equivalency-route.md)
 - [Useful links](../resources/useful-links.md)

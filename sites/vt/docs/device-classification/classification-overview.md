@@ -43,7 +43,7 @@ If your device falls into a grey area between two classes, request a formal writ
 
 ## IVD devices
 
-In-vitro diagnostic devices follow a separate set of classification rules. See [IVD Classification](ivd-classification).
+In-vitro diagnostic devices follow a separate set of classification rules. See [IVD Classification](ivd-classification.md).
 
 ## ASEAN harmonisation
 

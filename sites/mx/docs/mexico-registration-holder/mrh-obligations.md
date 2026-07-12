@@ -51,8 +51,8 @@ Under **NOM-241-SSA1-2025**, the MRH must:
 
 ## Related pages
 
-- [What is an MRH?](what-is-mrh)
-- [Appointing an MRH](appointing-mrh)
+- [What is an MRH?](what-is-mrh.md)
+- [Appointing an MRH](appointing-mrh.md)
 - [Technovigilance overview](../postmarket/technovigilance-overview.md)
 - [NOM-241 quality system](../quality-system/nom-241-overview.md)
 

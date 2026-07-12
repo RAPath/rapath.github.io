@@ -44,8 +44,8 @@ All full IMDRF member regulatory authorities are recognised by COFEPRIS for the 
 ## Related pages
 
 - [Equivalency Route](../premarket/equivalency-route.md)
-- [MDSAP recognition](mdsap-recognition)
-- [PANDRH & Latin America](pandrh-latam)
+- [MDSAP recognition](mdsap-recognition.md)
+- [PANDRH & Latin America](pandrh-latam.md)
 - [SaMD in Mexico](../digital-health/samd-overview.md)
 
 (formalised in the June 2025 Acuerdo) to match the reference in the 'IMDRF members recognised for the Equivalency Route' section, which correctly cites June 2025.

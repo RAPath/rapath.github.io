@@ -45,7 +45,7 @@ IVDs approved by IMDRF-recognised authorities (FDA, CE-IVDR under EU In Vitro Di
 
 ## Related pages
 
-- [How classification works](how-classification-works)
+- [How classification works](how-classification-works.md)
 - [Standard Registration Route](../premarket/standard-route.md)
 - [Equivalency Route](../premarket/equivalency-route.md)
 - [Technical dossier requirements](../premarket/technical-dossier.md)

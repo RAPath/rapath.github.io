@@ -47,7 +47,7 @@ Note that the official NOM texts are published in **Spanish**. English translati
 
 ## Related pages
 
-- [NOM-241 — GMP](nom-241-gmp)
-- [NOM-137 — Labelling](nom-137-labelling)
-- [NOM-240 — Technovigilance](nom-240-technovigilance)
-- [Recent amendments](recent-amendments)
+- [NOM-241 — GMP](nom-241-gmp.md)
+- [NOM-137 — Labelling](nom-137-labelling.md)
+- [NOM-240 — Technovigilance](nom-240-technovigilance.md)
+- [Recent amendments](recent-amendments.md)

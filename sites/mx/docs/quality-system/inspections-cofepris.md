@@ -66,9 +66,9 @@ If COFEPRIS determines serious non-compliance, it may:
 
 ## Related pages
 
-- [NOM-241 overview](nom-241-overview)
-- [GMP requirements](gmp-requirements)
-- [CAPA & complaint handling](capa-complaint-handling)
+- [NOM-241 overview](nom-241-overview.md)
+- [GMP requirements](gmp-requirements.md)
+- [CAPA & complaint handling](capa-complaint-handling.md)
 
 ## Types of inspection
 

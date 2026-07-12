@@ -66,9 +66,9 @@ The draft NOM-240 update had not been formally published as of early 2025. Check
 
 ## Related pages
 
-- [Adverse event reporting](adverse-event-reporting)
-- [FSCAs & recalls](fsca-recalls)
-- [Registration renewal](registration-renewal)
+- [Adverse event reporting](adverse-event-reporting.md)
+- [FSCAs & recalls](fsca-recalls.md)
+- [Registration renewal](registration-renewal.md)
 - [MRH obligations](../mexico-registration-holder/mrh-obligations.md)
 - [NOM-240 technovigilance](../legislation/nom-240-technovigilance.md)
 

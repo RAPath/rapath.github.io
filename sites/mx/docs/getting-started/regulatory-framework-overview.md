@@ -51,7 +51,7 @@ COFEPRIS is a member of the **IMDRF** (International Medical Device Regulators F
 
 ## DIGIPRiS — the online platform
 
-All submissions to COFEPRIS — registrations, renewals, modifications, import permits — are made through the **DIGIPRiS** online portal (Sistema Integral de Gestión de Permisos, Registros e Insumos para la Salud). See [DIGIPRiS portal guide](digiepris-portal).
+All submissions to COFEPRIS — registrations, renewals, modifications, import permits — are made through the **DIGIPRiS** online portal (Sistema Integral de Gestión de Permisos, Registros e Insumos para la Salud). See [DIGIPRiS portal guide](digiepris-portal.md).
 
 ## Recent reforms
 
@@ -67,7 +67,7 @@ COFEPRIS has undergone significant modernisation since 2024:
 - [Ley General de Salud](../legislation/ley-general-de-salud.md)
 - [Reglamento de Insumos para la Salud](../legislation/reglamento-insumos-salud.md)
 - [NOMs overview](../legislation/noms-overview.md)
-- [Who needs to comply?](who-needs-to-comply)
+- [Who needs to comply?](who-needs-to-comply.md)
 
 Enforcement mechanisms: COFEPRIS has broad authority to conduct market surveillance, inspect manufacturing and distribution facilities, seize non-compliant devices, impose administrative sanctions, and pursue criminal proceedings for serious violations. Non-compliance with GMP, technovigilance, or registration requirements can result in product seizure, facility closures, and significant financial penalties.
 

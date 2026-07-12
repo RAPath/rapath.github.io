@@ -57,8 +57,8 @@ For IVD devices, clinical evidence takes the form of **performance evaluation**,
 
 ## Related pages
 
-- [Technical dossier requirements](technical-dossier)
-- [Standard Registration Route](standard-route)
+- [Technical dossier requirements](technical-dossier.md)
+- [Standard Registration Route](standard-route.md)
 - [Clinical investigations in Mexico](../special-access/clinical-investigations.md)
 - [IVD classification](../device-classification/ivd-classification.md)
 

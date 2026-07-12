@@ -58,7 +58,7 @@ Unofficial English translations of prior NOM-241 versions may be available from 
 - [NOM-241 overview — GMP section](../quality-system/nom-241-overview.md)
 - [GMP requirements in detail](../quality-system/gmp-requirements.md)
 - [COFEPRIS inspections](../quality-system/inspections-cofepris.md)
-- [NOMs overview](noms-overview)
+- [NOMs overview](noms-overview.md)
 
 ISO 13485 equivalency – Partial scope coverage:
 Manufacturers with ISO 13485 certification that does not cover all device categories they market in Mexico must ensure the certificate scope explicitly includes the relevant medical device classification(s). If your ISO 13485 certificate excludes certain device types, those devices must still undergo GMP assessment by COFEPRIS or be manufactured under a separate validated system. Confirm scope alignment with your MRH before submission.

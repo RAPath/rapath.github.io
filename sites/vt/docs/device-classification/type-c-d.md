@@ -41,7 +41,7 @@ Type D is reserved for the highest-risk devices — those that contact the centr
 - Spinal cord stimulators
 - Devices incorporating animal tissues or derivatives
 - Blood bags and blood transfusion sets (with direct contact with blood under pressure)
-- HIV diagnostic IVD kits (Type D for IVD — see [IVD Classification](ivd-classification))
+- HIV diagnostic IVD kits (Type D for IVD — see [IVD Classification](ivd-classification.md))
 
 ### Type D classification criteria (common indicators)
 

@@ -60,9 +60,9 @@ Your MRH agreement should include:
 
 ## Related pages
 
-- [What is an MRH?](what-is-mrh)
-- [MRH obligations](mrh-obligations)
-- [Changing or transferring your MRH](changing-mrh)
+- [What is an MRH?](what-is-mrh.md)
+- [MRH obligations](mrh-obligations.md)
+- [Changing or transferring your MRH](changing-mrh.md)
 
 Risk management: MRH Aviso de funcionamiento:
 If your MRH's Aviso de funcionamiento is revoked or lapses, your device registrations are at immediate risk of suspension or cancellation. Ensure your MRH agreement includes clauses requiring the MRH to notify you immediately of any regulatory action affecting their operational status. Establish a contingency plan to appoint a replacement MRH within 30 days if needed. Request proof of current Aviso de funcionamiento status from your MRH at least quarterly.

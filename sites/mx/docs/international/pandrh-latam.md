@@ -41,10 +41,10 @@ Key aspects of Mexico's regional position:
 
 A COFEPRIS registration cannot be directly transferred to other LATAM markets, but the **dossier and documentation** prepared for COFEPRIS — particularly under the standard route — is directly usable as source material for ANVISA, INVIMA, ANMAT, and other LATAM submissions.
 
-See [Multi-market submission strategy](multi-market-strategy).
+See [Multi-market submission strategy](multi-market-strategy.md).
 
 ## Related pages
 
-- [IMDRF membership](imdrf-membership)
-- [Mexico vs FDA · CE · TGA · Health Canada](mexico-vs-fda-tga)
-- [Multi-market submission strategy](multi-market-strategy)
+- [IMDRF membership](imdrf-membership.md)
+- [Mexico vs FDA · CE · TGA · Health Canada](mexico-vs-fda-tga.md)
+- [Multi-market submission strategy](multi-market-strategy.md)

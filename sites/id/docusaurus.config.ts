@@ -5,10 +5,10 @@ export default buildSiteConfig({
   tagline: 'Indonesia BPOM Medical Device Regulatory Reference',
   sidebarId: 'regulationSidebar',
   sections: [
-    { label: 'Start Here', to: '/start-here/what-is-a-medical-device' },
-    { label: 'Pre-Market', to: '/pre-market/classification' },
-    { label: 'Post-Market', to: '/post-market/overview' },
-    { label: 'Legislation', to: '/legislation/government-regulation-overview' },
+    { label: 'Start Here', to: '/overview/what-is-a-medical-device' },
+    { label: 'Pre-Market', to: '/device-classification/classification-system' },
+    { label: 'Post-Market', to: '/post-market-surveillance/pms-overview' },
+    { label: 'Legislation', to: '/overview/key-legislation' },
     { label: "What's New", href: 'https://rapath.org/whats-new' },
   ],
   officialSources: [

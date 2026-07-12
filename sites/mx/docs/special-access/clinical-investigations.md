@@ -59,7 +59,7 @@ Data from clinical investigations conducted in Mexico can be included in COFEPRI
 ## Related pages
 
 - [Clinical evidence requirements](../premarket/clinical-evidence.md)
-- [Compassionate use](compassionate-use)
+- [Compassionate use](compassionate-use.md)
 - [Pre-Market overview](../premarket/overview.md)
 
 After 'Mexico follows Good Clinical Practice principles aligned with ICH E6 and the Ley General de Salud research provisions.' add:

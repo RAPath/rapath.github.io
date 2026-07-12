@@ -123,17 +123,17 @@ Decree 03/2023/ND-CP introduced further amendments, and several MOH Circulars pr
 
 | Section | What you'll find |
 |---|---|
-| [Getting Started](getting-started/what-is-a-medical-device) | Definitions, framework overview, who must comply |
-| [Device Classification](device-classification/classification-overview) | Type A–D rules, IVD classification, borderline devices |
-| [Market Access](market-access/overview) | Declaration and registration pathways, DMEC portal, clinical evidence |
-| [Import, Customs & Distribution](import-customs-distribution/authorised-representative) | Authorised representative, import permits, GDP |
-| [Post-Market](post-market/overview) | Vigilance, FSCA, labelling, change notification |
-| [Quality Management](quality-management/qms-overview) | ISO 13485, GMP, inspections |
-| [Legislation](legislation/decree-98-2021) | Decree 98/2021, key circulars, procurement law |
-| [ASEAN & International](asean-international/vietnam-asean-landscape) | AMDD, CSDT, international comparison |
-| [Digital Health & SaMD](digital-health/samd-overview) | Software devices, AI/ML, cybersecurity |
-| [Special Access](special-access/emergency-import) | Emergency import, compassionate use, donations |
-| [Resources](resources/glossary) | Glossary, legislation list, useful links |
+| [Getting Started](getting-started/what-is-a-medical-device.md) | Definitions, framework overview, who must comply |
+| [Device Classification](device-classification/classification-overview.md) | Type A–D rules, IVD classification, borderline devices |
+| [Market Access](market-access/overview.md) | Declaration and registration pathways, DMEC portal, clinical evidence |
+| [Import, Customs & Distribution](import-customs-distribution/authorised-representative.md) | Authorised representative, import permits, GDP |
+| [Post-Market](post-market/overview.md) | Vigilance, FSCA, labelling, change notification |
+| [Quality Management](quality-management/qms-overview.md) | ISO 13485, GMP, inspections |
+| [Legislation](legislation/decree-98-2021.md) | Decree 98/2021, key circulars, procurement law |
+| [ASEAN & International](asean-international/vietnam-asean-landscape.md) | AMDD, CSDT, international comparison |
+| [Digital Health & SaMD](digital-health/samd-overview.md) | Software devices, AI/ML, cybersecurity |
+| [Special Access](special-access/emergency-import.md) | Emergency import, compassionate use, donations |
+| [Resources](resources/glossary.md) | Glossary, legislation list, useful links |
 
 ## Important disclaimer
 

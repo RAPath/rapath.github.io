@@ -114,17 +114,17 @@ export const PathwayMap = () => {
 
 | Section | What you'll find |
 |---|---|
-| [Getting Started](getting-started/what-is-a-medical-device) | Framework overview, who needs to comply, DIGIPRiS portal |
-| [Device Classification](device-classification/how-classification-works) | Class I · II · III, exemption annexes, IVD & SaMD |
-| [Pre-Market](premarket/overview) | Standard route, equivalency route, dossier, timelines |
-| [Mexico Registration Holder](mexico-registration-holder/what-is-mrh) | MRH obligations, appointing, changing holders |
-| [Post-Market](postmarket/overview) | Technovigilance, NOM-240, renewals, labelling |
-| [Quality System (NOM-241)](quality-system/nom-241-overview) | GMP requirements, ISO 13485 equivalency, inspections |
-| [Legislation & NOMs](legislation/ley-general-de-salud) | Ley General de Salud, Reglamento Insumos, NOM tracker |
-| [Digital Health & SaMD](digital-health/samd-overview) | Software, AI/ML, mobile health apps |
-| [Special Access](special-access/compassionate-use) | Compassionate use, clinical investigations |
-| [International](international/imdrf-membership) | IMDRF, PANDRH, MDSAP, multi-market strategy |
-| [Resources](resources/useful-links) | Links, DIGIPRiS guide, fees, forms |
+| [Getting Started](getting-started/what-is-a-medical-device.md) | Framework overview, who needs to comply, DIGIPRiS portal |
+| [Device Classification](device-classification/how-classification-works.md) | Class I · II · III, exemption annexes, IVD & SaMD |
+| [Pre-Market](premarket/overview.md) | Standard route, equivalency route, dossier, timelines |
+| [Mexico Registration Holder](mexico-registration-holder/what-is-mrh.md) | MRH obligations, appointing, changing holders |
+| [Post-Market](postmarket/overview.md) | Technovigilance, NOM-240, renewals, labelling |
+| [Quality System (NOM-241)](quality-system/nom-241-overview.md) | GMP requirements, ISO 13485 equivalency, inspections |
+| [Legislation & NOMs](legislation/ley-general-de-salud.md) | Ley General de Salud, Reglamento Insumos, NOM tracker |
+| [Digital Health & SaMD](digital-health/samd-overview.md) | Software, AI/ML, mobile health apps |
+| [Special Access](special-access/compassionate-use.md) | Compassionate use, clinical investigations |
+| [International](international/imdrf-membership.md) | IMDRF, PANDRH, MDSAP, multi-market strategy |
+| [Resources](resources/useful-links.md) | Links, DIGIPRiS guide, fees, forms |
 
 ## The regulatory framework at a glance
 

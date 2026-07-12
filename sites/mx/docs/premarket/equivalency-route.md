@@ -67,9 +67,9 @@ The equivalency route does not permit use of a third-party pre-approving agency.
 ## Related pages
 
 - [Recognised Reference Regulatory Authorities](../international/mdsap-recognition.md)
-- [Standard Registration Route](standard-route)
-- [Technical dossier](technical-dossier)
-- [Registration fees & timelines](registration-fees-timelines)
+- [Standard Registration Route](standard-route.md)
+- [Technical dossier](technical-dossier.md)
+- [Registration fees & timelines](registration-fees-timelines.md)
 - [IMDRF membership](../international/imdrf-membership.md)
 
 ## Eligibility requirements

@@ -5,10 +5,10 @@ export default buildSiteConfig({
   tagline: 'Vietnam DAV Medical Device Regulatory Reference',
   sidebarId: 'regulationSidebar',
   sections: [
-    { label: 'Start Here', to: '/start-here/what-is-a-medical-device' },
-    { label: 'Pre-Market', to: '/pre-market/classification' },
+    { label: 'Start Here', to: '/getting-started/what-is-a-medical-device' },
+    { label: 'Pre-Market', to: '/device-classification/classification-overview' },
     { label: 'Post-Market', to: '/post-market/overview' },
-    { label: 'Legislation', to: '/legislation/decree-98-overview' },
+    { label: 'Legislation', to: '/legislation/decree-98-2021' },
     { label: "What's New", href: 'https://rapath.org/whats-new' },
   ],
   officialSources: [

@@ -48,11 +48,11 @@ For ambiguous cases, submit a formal classification query to COFEPRIS via the DI
 
 ## IVDs — separate classification rules
 
-In vitro diagnostic devices (IVDs) have their own classification criteria under the Reglamento de Insumos para la Salud. See [IVD classification](ivd-classification).
+In vitro diagnostic devices (IVDs) have their own classification criteria under the Reglamento de Insumos para la Salud. See [IVD classification](ivd-classification.md).
 
 ## Related pages
 
-- [Class I · II · III — overview](class-i-ii-iii-overview)
-- [Low-risk devices — Annexes 1, 2, 3](low-risk-devices-annexes)
-- [IVD classification](ivd-classification)
-- [Software & SaMD classification](software-samd-classification)
+- [Class I · II · III — overview](class-i-ii-iii-overview.md)
+- [Low-risk devices — Annexes 1, 2, 3](low-risk-devices-annexes.md)
+- [IVD classification](ivd-classification.md)
+- [Software & SaMD classification](software-samd-classification.md)

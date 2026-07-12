@@ -12,11 +12,11 @@ Placing a medical device on the Vietnamese market is the beginning, not the end,
 
 | Obligation | Who is responsible | Where to find detail |
 |---|---|---|
-| Incident reporting & vigilance | Manufacturer / Authorised Rep | [Incident Reporting](incident-reporting) |
-| Field Safety Corrective Actions (FSCA) | Manufacturer / Authorised Rep + distributor | [FSCA & Recalls](fsca-recalls) |
-| Post-market surveillance | Manufacturer | [Post-Market Surveillance](post-market-surveillance) |
-| Labelling compliance | Manufacturer / importer | [Labelling](labelling) |
-| Change notification | Manufacturer / Authorised Rep | [Change Notification](change-notification) |
+| Incident reporting & vigilance | Manufacturer / Authorised Rep | [Incident Reporting](incident-reporting.md) |
+| Field Safety Corrective Actions (FSCA) | Manufacturer / Authorised Rep + distributor | [FSCA & Recalls](fsca-recalls.md) |
+| Post-market surveillance | Manufacturer | [Post-Market Surveillance](post-market-surveillance.md) |
+| Labelling compliance | Manufacturer / importer | [Labelling](labelling.md) |
+| Change notification | Manufacturer / Authorised Rep | [Change Notification](change-notification.md) |
 | Registration renewal (Type C/D) | Authorised Rep | [Marketing Authorisation](../market-access/marketing-authorisation-type-c-d.md) |
 
 ## Why post-market compliance matters in Vietnam

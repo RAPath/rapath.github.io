@@ -23,8 +23,8 @@ COFEPRIS offers two pathways to sanitary registration:
 
 | Route | Basis | Target timeline |
 |---|---|---|
-| [Standard Route](standard-route) | Full technical dossier reviewed from scratch | 20–180 business days (varies by class) |
-| [Equivalency (Abbreviated) Route](equivalency-route) | Leverages existing IMDRF/MDSAP authority approval | 30 working days |
+| [Standard Route](standard-route.md) | Full technical dossier reviewed from scratch | 20–180 business days (varies by class) |
+| [Equivalency (Abbreviated) Route](equivalency-route.md) | Leverages existing IMDRF/MDSAP authority approval | 30 working days |
 
 ## Key pre-market steps
 
@@ -42,8 +42,8 @@ Registration is the start of your obligations, not the end. Post-market requirem
 
 ## Related pages
 
-- [Standard Registration Route](standard-route)
-- [Equivalency Route](equivalency-route)
-- [Technical dossier requirements](technical-dossier)
-- [Registration fees & timelines](registration-fees-timelines)
+- [Standard Registration Route](standard-route.md)
+- [Equivalency Route](equivalency-route.md)
+- [Technical dossier requirements](technical-dossier.md)
+- [Registration fees & timelines](registration-fees-timelines.md)
 - [Mexico Registration Holder](../mexico-registration-holder/what-is-mrh.md)

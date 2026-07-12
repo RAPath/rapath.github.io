@@ -45,4 +45,4 @@ The exemption does **not** apply to:
 
 - [Special Device Types](../premarket/special-device-types.md)
 - [Quality System — NOM-241](../quality-system/nom-241-overview.md)
-- [Compassionate use](compassionate-use)
+- [Compassionate use](compassionate-use.md)

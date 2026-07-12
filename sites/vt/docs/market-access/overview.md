@@ -19,7 +19,7 @@ A declaration is a **self-assessment** process where the responsible party (Viet
 - **No pre-market DAV technical review** (though DAV retains post-market audit rights)
 - **Faster to market** compared to full registration
 
-→ See [Declaration (Type A/B)](declaration-type-a-b)
+→ See [Declaration (Type A/B)](declaration-type-a-b.md)
 
 ### Marketing Authorisation (Đăng ký lưu hành) — Type C & D
 
@@ -30,7 +30,7 @@ A marketing authorisation involves submission of a full technical and administra
 - **5-year validity** — renewal required before expiry
 - **Higher scrutiny** — DAV may request additional information during review
 
-→ See [Marketing Authorisation (Type C/D)](marketing-authorisation-type-c-d)
+→ See [Marketing Authorisation (Type C/D)](marketing-authorisation-type-c-d.md)
 
 ## Prerequisites for both pathways
 

@@ -68,8 +68,8 @@ If a registration lapses (expires without renewal), the device may no longer be 
 
 ## Related pages
 
-- [Technovigilance overview](technovigilance-overview)
-- [Adverse event reporting](adverse-event-reporting)
+- [Technovigilance overview](technovigilance-overview.md)
+- [Adverse event reporting](adverse-event-reporting.md)
 - [Registration fees & timelines](../premarket/registration-fees-timelines.md)
 - [DIGIPRiS portal](../getting-started/digiepris-portal.md)
 

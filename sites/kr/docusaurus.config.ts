@@ -8,7 +8,7 @@ export default buildSiteConfig({
     { label: 'Start Here', to: '/start-here/what-is-a-medical-device' },
     { label: 'Pre-Market', to: '/pre-market/classification' },
     { label: 'Post-Market', to: '/post-market/overview' },
-    { label: 'Legislation', to: '/legislation/medical-devices-act' },
+    { label: 'Legislation', to: '/legislation/primary-legislation/medical-devices-act' },
     { label: "What's New", href: 'https://rapath.org/whats-new' },
   ],
   officialSources: [

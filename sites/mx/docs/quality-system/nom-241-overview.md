@@ -52,7 +52,7 @@ Similarly, **MDSAP audit certificates** are recognised as GMP evidence.
 
 ## Related pages
 
-- [GMP requirements in detail](gmp-requirements)
-- [COFEPRIS inspections](inspections-cofepris)
+- [GMP requirements in detail](gmp-requirements.md)
+- [COFEPRIS inspections](inspections-cofepris.md)
 - [NOM-241 legislation page](../legislation/nom-241-gmp.md)
 - [Technical dossier requirements](../premarket/technical-dossier.md)

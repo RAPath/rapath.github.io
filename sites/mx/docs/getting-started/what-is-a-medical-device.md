@@ -36,6 +36,6 @@ The definition is **broad**. When in doubt whether a product is a medical device
 
 ## Related pages
 
-- [What is not a medical device?](what-is-not-a-medical-device)
+- [What is not a medical device?](what-is-not-a-medical-device.md)
 - [How classification works](../device-classification/how-classification-works.md)
-- [Regulatory framework overview](regulatory-framework-overview)
+- [Regulatory framework overview](regulatory-framework-overview.md)

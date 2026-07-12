@@ -43,7 +43,7 @@ If an AI/ML device has FDA 510(k)/De Novo/PMA clearance or CE Mark under EU MDR,
 
 ## Related pages
 
-- [SaMD in Mexico — overview](samd-overview)
+- [SaMD in Mexico — overview](samd-overview.md)
 - [Software & SaMD classification](../device-classification/software-samd-classification.md)
 - [Equivalency Route](../premarket/equivalency-route.md)
 - [IMDRF membership](../international/imdrf-membership.md)

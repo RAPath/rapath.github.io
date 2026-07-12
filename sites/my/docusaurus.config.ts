@@ -5,10 +5,10 @@ export default buildSiteConfig({
   tagline: 'Malaysia MDA Medical Device Regulatory Reference',
   sidebarId: 'regulationSidebar',
   sections: [
-    { label: 'Start Here', to: '/start-here/what-is-a-medical-device' },
-    { label: 'Pre-Market', to: '/pre-market/classification' },
-    { label: 'Post-Market', to: '/post-market/overview' },
-    { label: 'Legislation', to: '/legislation/medical-device-act-2012' },
+    { label: 'Start Here', to: '/getting-started/what-is-a-medical-device' },
+    { label: 'Pre-Market', to: '/device-classification/classification-overview' },
+    { label: 'Post-Market', to: '/post-market-requirements/post-market-surveillance' },
+    { label: 'Legislation', to: '/reference/legislation-guidance' },
     { label: "What's New", href: 'https://rapath.org/whats-new' },
   ],
   officialSources: [

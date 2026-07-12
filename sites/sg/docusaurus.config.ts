@@ -9,7 +9,7 @@ export default buildSiteConfig({
     { label: 'Pre-Market', to: '/pre-market/classification/how-classification-works' },
     { label: 'Post-Market', to: '/post-market/overview' },
     { label: "Dealer's Licence", to: '/dealers-licence/overview' },
-    { label: 'International & ASEAN', to: '/international/asean-harmonisation' },
+    { label: 'International & ASEAN', to: '/international/asean-amdc' },
     { label: "What's New", href: 'https://rapath.org/whats-new' },
   ],
   officialSources: [

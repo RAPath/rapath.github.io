@@ -26,7 +26,7 @@ Obtaining a COFEPRIS sanitary registration is the **beginning** of your regulato
 
 A well-functioning technovigilance system is not just a compliance requirement — it is essential for maintaining your sanitary registration at renewal. COFEPRIS will review your Technovigilance Report in detail, and any evidence of inadequate monitoring, delayed reporting, or failure to take appropriate corrective actions can result in renewal denial or conditional approval pending remediation.
 
-See [Technovigilance overview](technovigilance-overview) for full detail.
+See [Technovigilance overview](technovigilance-overview.md) for full detail.
 
 ## Registration renewal
 
@@ -34,8 +34,8 @@ Sanitary registrations are valid for **5 years**. Renewal must be applied for th
 
 ## Related pages
 
-- [Technovigilance overview](technovigilance-overview)
-- [Adverse event reporting](adverse-event-reporting)
-- [FSCAs & recalls](fsca-recalls)
-- [Registration renewal](registration-renewal)
-- [Labelling — NOM-137](labelling-nom-137)
+- [Technovigilance overview](technovigilance-overview.md)
+- [Adverse event reporting](adverse-event-reporting.md)
+- [FSCAs & recalls](fsca-recalls.md)
+- [Registration renewal](registration-renewal.md)
+- [Labelling — NOM-137](labelling-nom-137.md)

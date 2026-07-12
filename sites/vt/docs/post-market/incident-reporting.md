@@ -52,7 +52,7 @@ DAV may request follow-up information or a final investigation report.
 After submitting an initial report, the manufacturer must:
 1. Conduct a thorough root cause investigation
 2. Submit a final investigation report to DAV within the timeframe specified by DAV (typically 30–90 days)
-3. If the investigation identifies a systemic issue, initiate an FSCA (see [FSCA & Recalls](fsca-recalls))
+3. If the investigation identifies a systemic issue, initiate an FSCA (see [FSCA & Recalls](fsca-recalls.md))
 
 :::tip Track all complaints, not just reportable ones
 A robust complaint-handling system that tracks all customer complaints — not just those that are reportable — is essential for detecting trends and fulfilling PMS obligations. Many FSCAs originate from a pattern of non-reportable complaints.

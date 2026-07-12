@@ -5,11 +5,11 @@ export default buildSiteConfig({
   tagline: 'Swiss Medical Device Regulatory Reference',
   sidebarId: 'regulationSidebar',
   sections: [
-    { label: 'Start Here', to: '/start-here/overview' },
-    { label: 'Pre-Market', to: '/pre-market/overview' },
-    { label: 'Post-Market', to: '/post-market/overview' },
-    { label: 'Legislation', to: '/legislation/meddo-overview' },
-    { label: 'Conformity Assessment Bodies', to: '/conformity-assessment-bodies/overview' },
+    { label: 'Start Here', to: '/start-here' },
+    { label: 'Pre-Market', to: '/pre-market' },
+    { label: 'Post-Market', to: '/post-market' },
+    { label: 'Legislation', to: '/legislation/medo' },
+    { label: 'Conformity Assessment Bodies', to: '/conformity-assessment-bodies' },
     { label: "What's New", href: 'https://rapath.org/whats-new' },
   ],
   officialSources: [

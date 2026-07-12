@@ -47,7 +47,7 @@ AI/ML algorithms that continue to learn and update their model after deployment 
 
 ### Cybersecurity
 
-AI/ML devices connected to hospital networks or cloud processing raise specific cybersecurity considerations. See [Cybersecurity](cybersecurity-connected).
+AI/ML devices connected to hospital networks or cloud processing raise specific cybersecurity considerations. See [Cybersecurity](cybersecurity-connected.md).
 
 ## International reference frameworks
 

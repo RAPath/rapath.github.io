@@ -44,6 +44,6 @@ See [Software & SaMD classification](../device-classification/software-samd-clas
 
 ## Related pages
 
-- [What is a medical device?](what-is-a-medical-device)
+- [What is a medical device?](what-is-a-medical-device.md)
 - [Annex 2 — devices exempt from registration](../device-classification/low-risk-devices-annexes.md)
 - [Digital Health & SaMD](../digital-health/samd-overview.md)

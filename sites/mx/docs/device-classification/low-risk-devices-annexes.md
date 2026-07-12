@@ -59,8 +59,8 @@ COFEPRIS may update the Annexes over time. Always verify against the most curren
 
 ## Related pages
 
-- [How classification works](how-classification-works)
-- [Class I · II · III overview](class-i-ii-iii-overview)
+- [How classification works](how-classification-works.md)
+- [Class I · II · III overview](class-i-ii-iii-overview.md)
 - [Standard Registration Route](../premarket/standard-route.md)
 - [Recent amendments](../legislation/recent-amendments.md)
 

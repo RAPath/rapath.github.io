@@ -45,5 +45,5 @@ Absent a dedicated SaMD classification rule, COFEPRIS applies the general three-
 
 - [Digital Health & SaMD — full section](../digital-health/samd-overview.md)
 - [AI/ML devices](../digital-health/ai-ml-devices.md)
-- [How classification works](how-classification-works)
+- [How classification works](how-classification-works.md)
 

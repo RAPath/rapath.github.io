@@ -55,5 +55,5 @@ For Type C and D devices (registered devices), Type A and B devices (declared de
 If PMS analysis reveals a safety signal—such as an unexpected increase in adverse events, a pattern of similar complaints suggesting a systemic issue, or published clinical evidence of a previously unrecognised risk—the manufacturer must:
 1. Conduct a formal risk assessment
 2. Update the risk management file
-3. If the risk is unacceptable → initiate an [FSCA](fsca-recalls)
+3. If the risk is unacceptable → initiate an [FSCA](fsca-recalls.md)
 4. Report to DAV as appropriate

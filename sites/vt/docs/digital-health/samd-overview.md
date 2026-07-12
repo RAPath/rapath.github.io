@@ -49,7 +49,7 @@ The technical dossier for SaMD registration should follow the CSDT structure wit
 - Software lifecycle documentation (IEC 62304)
 - Usability engineering (IEC 62366-1)
 - Algorithm and AI/ML model description (where applicable)
-- Cybersecurity documentation (see [Cybersecurity](cybersecurity-connected))
+- Cybersecurity documentation (see [Cybersecurity](cybersecurity-connected.md))
 - Clinical performance validation
 
 ## Software updates and change control

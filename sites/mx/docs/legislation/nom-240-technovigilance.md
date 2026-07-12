@@ -59,4 +59,4 @@ As of early 2026, PROY-NOM-240-SSA1-2024 had not been formally published as a fi
 - [Technovigilance overview](../postmarket/technovigilance-overview.md)
 - [Adverse event reporting](../postmarket/adverse-event-reporting.md)
 - [MRH obligations](../mexico-registration-holder/mrh-obligations.md)
-- [NOMs overview](noms-overview)
+- [NOMs overview](noms-overview.md)

@@ -58,9 +58,9 @@ If you do not have an FDA or CE Mark approval, the Standard Route is the pathway
 ## Related pages
 
 - [Equivalency Route](../premarket/equivalency-route.md)
-- [PANDRH & Latin America](pandrh-latam)
-- [Mexico vs FDA · CE · TGA · Health Canada](mexico-vs-fda-tga)
-- [MDSAP recognition](mdsap-recognition)
+- [PANDRH & Latin America](pandrh-latam.md)
+- [Mexico vs FDA · CE · TGA · Health Canada](mexico-vs-fda-tga.md)
+- [MDSAP recognition](mdsap-recognition.md)
 
 Prerequisite:
 The device must be identical to the approved foreign version. 'Identical' means the same formulation, design, manufacturing process, intended use, and labelling as the approved reference device. Cosmetic differences (such as colour) or minor packaging changes may be acceptable; however, any material alteration to design, materials, or performance characteristics will disqualify the device from the Equivalency Route and require submission via the Standard Route.
