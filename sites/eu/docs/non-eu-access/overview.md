@@ -1,5 +1,6 @@
 ---
 id: non-eu-access-overview
+slug: /non-eu-access/overview
 title: Non-EU & third-country access
 sidebar_label: Overview
 sidebar_position: 1
