@@ -6,7 +6,7 @@ export default buildSiteConfig({
   sidebarId: 'regulationSidebar',
   sections: [
     { label: 'Start Here', to: '/start-here/what-is-a-medical-device' },
-    { label: 'Pre-Market', to: '/pre-market/classification' },
+    { label: 'Pre-Market', to: '/pre-market/classification/how-classification-works' },
     { label: 'Post-Market', to: '/post-market/overview' },
     { label: 'Legislation', to: '/legislation/how-to-read-rdcs' },
     { label: "What's New", href: 'https://rapath.org/whats-new' },

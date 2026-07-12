@@ -82,4 +82,4 @@ Promotional materials for medical devices must not make claims beyond the approv
 - [NOM-137 legislation page](/legislation/nom-137-labelling)
 - [Technical dossier requirements](/premarket/technical-dossier)
 - [Standard Registration Route](/premarket/standard-route)
-- [Key 2024–2025 reforms](/intro)
+- [Key 2024–2025 reforms](/)
