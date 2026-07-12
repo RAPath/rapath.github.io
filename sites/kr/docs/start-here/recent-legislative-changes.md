@@ -17,5 +17,5 @@ sidebar_position: 9
 | 2026 | MFDS device review regulation revised (eff. 26 Jan 2026) | Expanded clinical evidence requirements, cybersecurity submission basis, SaMD/AI definitions, notarization requirement removed |
 
 :::info Stay current
-See [What's New](../whats-new/recent-regulatory-changes) for the latest updates.
+See [What's New](https://rapath.org/whats-new) for the latest updates.
 :::
